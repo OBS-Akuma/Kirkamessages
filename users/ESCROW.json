@@ -719,7 +719,79 @@
       "role": "BOT",
       "level": 32
     },
-    "message": "🎰 Daily Lottery: 1 entries, [Golden||CHEST|LEGENDARY]x50 pool, 1 participants. 2h 30m left! Use /raffle <entr BF3770",
+    "message": "ð° Daily Lottery: 1 entries, [Golden||CHEST|LEGENDARY]x50 pool, 1 participants. 2h 30m left! Use /raffle <entr BF3770",
     "timestamp": "2026-05-01T19:55:33.943Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "f4cb1d5a-9a50-4ea2-ace4-2bffa9e0b404",
+      "shortId": "ESCROW",
+      "name": "Pwnstar",
+      "role": "BOT",
+      "level": 32
+    },
+    "message": "#RZDF8R No active giveaway to enter. F42C79",
+    "timestamp": "2026-05-01T19:55:53.733Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "f4cb1d5a-9a50-4ea2-ace4-2bffa9e0b404",
+      "shortId": "ESCROW",
+      "name": "Pwnstar",
+      "role": "BOT",
+      "level": 32
+    },
+    "message": "#TRE873 2x[Ranked_S3 Top100|Bayonet|WEAPON_SKIN|MYTHICAL]=16.0mil (average) 0CF1",
+    "timestamp": "2026-05-01T19:56:00.862Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "f4cb1d5a-9a50-4ea2-ace4-2bffa9e0b404",
+      "shortId": "ESCROW",
+      "name": "Pwnstar",
+      "role": "BOT",
+      "level": 32
+    },
+    "message": "#0KNJ6K Usage: /lottery <entries> - Each entry costs [Golden||CHEST|LEGENDARY]x50. Example: /lottery 10 BBDB7",
+    "timestamp": "2026-05-01T19:56:05.836Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "f4cb1d5a-9a50-4ea2-ace4-2bffa9e0b404",
+      "shortId": "ESCROW",
+      "name": "Pwnstar",
+      "role": "BOT",
+      "level": 32
+    },
+    "message": "#RZDF8R 1x[Hallowkod||BODY_SKIN|MYTHICAL]=1.0mil (average) 9E143",
+    "timestamp": "2026-05-01T19:56:06.233Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "f4cb1d5a-9a50-4ea2-ace4-2bffa9e0b404",
+      "shortId": "ESCROW",
+      "name": "Pwnstar",
+      "role": "BOT",
+      "level": 32
+    },
+    "message": "#2QIYUL 2x[Spice||BODY_SKIN|MYTHICAL]=70.0mil 1x[Astatine||BODY_SKIN|MYTHICAL]=35.0mil total:105.0mil (average) 79363E",
+    "timestamp": "2026-05-01T19:56:13.325Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "f4cb1d5a-9a50-4ea2-ace4-2bffa9e0b404",
+      "shortId": "ESCROW",
+      "name": "Pwnstar",
+      "role": "BOT",
+      "level": 32
+    },
+    "message": "#QPQ5MV Your inventory: 612 items worth 63.6mil (avg) (cached) DB0EF",
+    "timestamp": "2026-05-01T19:56:56.545Z"
   }
 ]
