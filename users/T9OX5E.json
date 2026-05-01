@@ -202,5 +202,65 @@
     },
     "message": "lf [Tide|SCAR|WEAPON_SKIN|LEGENDARY]",
     "timestamp": "2026-05-01T20:15:46.602Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "99348ff4-3989-457c-b6a5-2f5c3239c4fa",
+      "shortId": "T9OX5E",
+      "name": "EnZo",
+      "role": "USER",
+      "level": 25
+    },
+    "message": "/price [punishement]",
+    "timestamp": "2026-05-01T20:16:36.484Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "99348ff4-3989-457c-b6a5-2f5c3239c4fa",
+      "shortId": "T9OX5E",
+      "name": "EnZo",
+      "role": "USER",
+      "level": 25
+    },
+    "message": "[Punishment||BODY_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-01T20:16:42.258Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "99348ff4-3989-457c-b6a5-2f5c3239c4fa",
+      "shortId": "T9OX5E",
+      "name": "EnZo",
+      "role": "USER",
+      "level": 25
+    },
+    "message": "/price [Punishment||BODY_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-01T20:16:48.879Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "99348ff4-3989-457c-b6a5-2f5c3239c4fa",
+      "shortId": "T9OX5E",
+      "name": "EnZo",
+      "role": "USER",
+      "level": 25
+    },
+    "message": "the prs",
+    "timestamp": "2026-05-01T20:16:54.006Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "99348ff4-3989-457c-b6a5-2f5c3239c4fa",
+      "shortId": "T9OX5E",
+      "name": "EnZo",
+      "role": "USER",
+      "level": 25
+    },
+    "message": "[Punishment||BODY_SKIN|MYTHICAL] for [Tide|SCAR|WEAPON_SKIN|LEGENDARY]",
+    "timestamp": "2026-05-01T20:16:59.229Z"
   }
 ]
