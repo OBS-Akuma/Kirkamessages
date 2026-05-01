@@ -1,0 +1,26 @@
+[
+  {
+    "type": 2,
+    "user": {
+      "id": "0c505348-c30c-4cbb-b666-b5ae990acec1",
+      "shortId": "ADC42K",
+      "name": "THEBAND",
+      "role": "USER",
+      "level": 12
+    },
+    "message": "qwerty do you want [Nukem||BODY_SKIN|LEGENDARY]",
+    "timestamp": "2026-05-01T19:48:26.654Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "0c505348-c30c-4cbb-b666-b5ae990acec1",
+      "shortId": "ADC42K",
+      "name": "THEBAND",
+      "role": "USER",
+      "level": 12
+    },
+    "message": "tr [Golden||CHEST|LEGENDARY]x50 for a skin",
+    "timestamp": "2026-05-01T19:49:42.397Z"
+  }
+]
