@@ -34,5 +34,17 @@
     },
     "message": "Qwerty",
     "timestamp": "2026-05-01T19:42:54.874Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "4b3c9e26-0516-4634-99f9-ea8361ccd6d8",
+      "shortId": "UP1R78",
+      "name": "CASH",
+      "role": "USER",
+      "level": 79
+    },
+    "message": "/price boo",
+    "timestamp": "2026-05-01T19:57:36.796Z"
   }
 ]
