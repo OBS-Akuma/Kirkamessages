@@ -85,5 +85,17 @@
     },
     "message": "i need [Bok||BODY_SKIN|MYTHICAL]",
     "timestamp": "2026-05-01T19:56:07.792Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "guest-b77654df-ce78-463f-be13-7f60d95f8fe9",
+      "shortId": "CDVSHX",
+      "name": "Pumpkinspice",
+      "role": "USER",
+      "level": 35
+    },
+    "message": "i need ember",
+    "timestamp": "2026-05-01T20:01:04.203Z"
   }
 ]
