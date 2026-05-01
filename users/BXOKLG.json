@@ -46,5 +46,41 @@
     },
     "message": "[Ghoul||BODY_SKIN|MYTHICAL][Arachne|VITA|WEAPON_SKIN|MYTHICAL][Golden||CHEST|LEGENDARY]x5500 for [Cozy James||BODY_SKIN|MYTHICAL] the pro?",
     "timestamp": "2026-05-01T20:01:11.571Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "c2f142f1-b2b7-416e-8f11-04787bb626c6",
+      "shortId": "BXOKLG",
+      "name": "BM|Darkside",
+      "role": "USER",
+      "level": 71
+    },
+    "message": "/hm [Cozy James||BODY_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-01T20:01:37.895Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "c2f142f1-b2b7-416e-8f11-04787bb626c6",
+      "shortId": "BXOKLG",
+      "name": "BM|Darkside",
+      "role": "USER",
+      "level": 71
+    },
+    "message": "the pro",
+    "timestamp": "2026-05-01T20:01:45.583Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "c2f142f1-b2b7-416e-8f11-04787bb626c6",
+      "shortId": "BXOKLG",
+      "name": "BM|Darkside",
+      "role": "USER",
+      "level": 71
+    },
+    "message": "i only have it",
+    "timestamp": "2026-05-01T20:01:51.205Z"
   }
 ]
