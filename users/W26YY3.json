@@ -1,0 +1,26 @@
+[
+  {
+    "type": 2,
+    "user": {
+      "id": "8f1273ec-102e-474c-be61-87c014999881",
+      "shortId": "W26YY3",
+      "name": "GoodNight",
+      "role": "USER",
+      "level": 100
+    },
+    "message": "/price [Ukiyo|VITA|WEAPON_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-01T20:09:35.231Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "8f1273ec-102e-474c-be61-87c014999881",
+      "shortId": "W26YY3",
+      "name": "GoodNight",
+      "role": "USER",
+      "level": 100
+    },
+    "message": "/price [Quilliam|VITA|WEAPON_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-01T20:10:02.547Z"
+  }
+]
