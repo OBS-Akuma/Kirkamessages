@@ -22,5 +22,29 @@
     },
     "message": "@TIDE",
     "timestamp": "2026-05-01T20:15:40.367Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "e7ca017c-557f-4b21-96eb-3ec2a9a728ab",
+      "shortId": "8SQMAK",
+      "name": "NguyenDat.top1",
+      "role": "USER",
+      "level": 51
+    },
+    "message": "/TIDE",
+    "timestamp": "2026-05-01T20:16:16.060Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "e7ca017c-557f-4b21-96eb-3ec2a9a728ab",
+      "shortId": "8SQMAK",
+      "name": "NguyenDat.top1",
+      "role": "USER",
+      "level": 51
+    },
+    "message": "hmm",
+    "timestamp": "2026-05-01T20:16:21.938Z"
   }
 ]
