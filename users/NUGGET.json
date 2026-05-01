@@ -10,5 +10,42 @@
     },
     "message": "/inv",
     "timestamp": "2026-05-01T19:10:03.487Z"
+  },
+  "/inv",
+  {
+    "type": 2,
+    "user": {
+      "id": "7f2a6090-abcb-48a7-8838-88ee8111b261",
+      "shortId": "NUGGET",
+      "name": "Akumaware.xyz",
+      "role": "USER",
+      "level": 55
+    },
+    "message": "Meow",
+    "timestamp": "2026-05-01T19:14:38.840Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "7f2a6090-abcb-48a7-8838-88ee8111b261",
+      "shortId": "NUGGET",
+      "name": "Akumaware.xyz",
+      "role": "USER",
+      "level": 55
+    },
+    "message": "test",
+    "timestamp": "2026-05-01T19:19:03.892Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "7f2a6090-abcb-48a7-8838-88ee8111b261",
+      "shortId": "NUGGET",
+      "name": "Akumaware.xyz",
+      "role": "USER",
+      "level": 55
+    },
+    "message": "meow",
+    "timestamp": "2026-05-01T19:48:52.692Z"
   }
 ]
