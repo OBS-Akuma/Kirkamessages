@@ -22,5 +22,41 @@
     },
     "message": "lemme see",
     "timestamp": "2026-05-01T19:55:20.412Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "c4be612c-91b2-460a-a030-43bb277d1e8f",
+      "shortId": "21ERUV",
+      "name": "Leo_Xtc",
+      "role": "USER",
+      "level": 99
+    },
+    "message": "give me 5 mins prime",
+    "timestamp": "2026-05-01T19:55:45.998Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "c4be612c-91b2-460a-a030-43bb277d1e8f",
+      "shortId": "21ERUV",
+      "name": "Leo_Xtc",
+      "role": "USER",
+      "level": 99
+    },
+    "message": "can we go dms",
+    "timestamp": "2026-05-01T19:55:50.603Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "c4be612c-91b2-460a-a030-43bb277d1e8f",
+      "shortId": "21ERUV",
+      "name": "Leo_Xtc",
+      "role": "USER",
+      "level": 99
+    },
+    "message": "I'll give a good offer",
+    "timestamp": "2026-05-01T19:56:01.607Z"
   }
 ]
