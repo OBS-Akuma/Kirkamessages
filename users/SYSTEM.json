@@ -34,5 +34,17 @@
     },
     "message": "ragex hahaha wtf is that",
     "timestamp": "2026-05-01T19:49:30.059Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "42e6ee78-49ef-467a-80b8-4adf017d5834",
+      "shortId": "SYSTEM",
+      "name": "Glowing Dev",
+      "role": "USER",
+      "level": 100
+    },
+    "message": "/hm kitsune",
+    "timestamp": "2026-05-01T20:01:31.963Z"
   }
 ]
