@@ -502,5 +502,41 @@
     },
     "message": "/inv",
     "timestamp": "2026-05-01T19:56:56.510Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "10cc9aa1-cdbb-4880-b539-82906b95c8ab",
+      "shortId": "QPQ5MV",
+      "name": "BuffPigeon",
+      "role": "USER",
+      "level": 59
+    },
+    "message": "/inv update",
+    "timestamp": "2026-05-01T19:59:31.035Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "10cc9aa1-cdbb-4880-b539-82906b95c8ab",
+      "shortId": "QPQ5MV",
+      "name": "BuffPigeon",
+      "role": "USER",
+      "level": 59
+    },
+    "message": "/invupdate",
+    "timestamp": "2026-05-01T19:59:37.589Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "10cc9aa1-cdbb-4880-b539-82906b95c8ab",
+      "shortId": "QPQ5MV",
+      "name": "BuffPigeon",
+      "role": "USER",
+      "level": 59
+    },
+    "message": "/inv",
+    "timestamp": "2026-05-01T19:59:43.504Z"
   }
 ]
