@@ -565,5 +565,125 @@
     },
     "message": "#WX7ZW3 Your inventory: 407 items worth 584.7mil (bolt) (cached) EC47CC",
     "timestamp": "2026-05-01T19:48:40.065Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "f4cb1d5a-9a50-4ea2-ace4-2bffa9e0b404",
+      "shortId": "ESCROW",
+      "name": "Pwnstar",
+      "role": "BOT",
+      "level": 32
+    },
+    "message": "#9OAPEW [Endless||BODY_SKIN|MYTHICAL]: #000000x4, #HBBG0Yx3, #Y53H6Bx2, #hidden(2) p1/41 22055",
+    "timestamp": "2026-05-01T19:49:04.796Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "f4cb1d5a-9a50-4ea2-ace4-2bffa9e0b404",
+      "shortId": "ESCROW",
+      "name": "Pwnstar",
+      "role": "BOT",
+      "level": 32
+    },
+    "message": "#TE7ZAB [Chromium|Bayonet|WEAPON_SKIN|MYTHICAL]: #ZOZHTLx7, #TAIWANx7, #74BA8Sx3, #PQVCUOx3 p1/13 288D",
+    "timestamp": "2026-05-01T19:49:09.771Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "f4cb1d5a-9a50-4ea2-ace4-2bffa9e0b404",
+      "shortId": "ESCROW",
+      "name": "Pwnstar",
+      "role": "BOT",
+      "level": 32
+    },
+    "message": "#WX7ZW3 invalid pricelist. Use: average, bros, bolt, fate, or automatic E5010",
+    "timestamp": "2026-05-01T19:49:35.778Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "f4cb1d5a-9a50-4ea2-ace4-2bffa9e0b404",
+      "shortId": "ESCROW",
+      "name": "Pwnstar",
+      "role": "BOT",
+      "level": 32
+    },
+    "message": "#WX7ZW3 favorite list average saved E04D",
+    "timestamp": "2026-05-01T19:49:46.106Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "f4cb1d5a-9a50-4ea2-ace4-2bffa9e0b404",
+      "shortId": "ESCROW",
+      "name": "Pwnstar",
+      "role": "BOT",
+      "level": 32
+    },
+    "message": "#WX7ZW3 Your inventory: 407 items worth 545.3mil (avg) (cached) D89EC",
+    "timestamp": "2026-05-01T19:49:52.706Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "f4cb1d5a-9a50-4ea2-ace4-2bffa9e0b404",
+      "shortId": "ESCROW",
+      "name": "Pwnstar",
+      "role": "BOT",
+      "level": 32
+    },
+    "message": "#WX7ZW3 favorite list bolt saved B98827",
+    "timestamp": "2026-05-01T19:50:07.725Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "f4cb1d5a-9a50-4ea2-ace4-2bffa9e0b404",
+      "shortId": "ESCROW",
+      "name": "Pwnstar",
+      "role": "BOT",
+      "level": 32
+    },
+    "message": "#WX7ZW3 Your inventory: 407 items worth 584.7mil (bolt) (cached) 93075",
+    "timestamp": "2026-05-01T19:50:13.193Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "f4cb1d5a-9a50-4ea2-ace4-2bffa9e0b404",
+      "shortId": "ESCROW",
+      "name": "Pwnstar",
+      "role": "BOT",
+      "level": 32
+    },
+    "message": "#0KNJ6K [Guts||BODY_SKIN|LEGENDARY] avg:250.0k bros:0 bolt:250.0k fate:0 auto:332.2k E36AFF",
+    "timestamp": "2026-05-01T19:51:08.531Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "f4cb1d5a-9a50-4ea2-ace4-2bffa9e0b404",
+      "shortId": "ESCROW",
+      "name": "Pwnstar",
+      "role": "BOT",
+      "level": 32
+    },
+    "message": "#NUGGET Your inventory: 17931 items worth 361.4mil (avg) (cached) DD8B02",
+    "timestamp": "2026-05-01T19:51:47.264Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "f4cb1d5a-9a50-4ea2-ace4-2bffa9e0b404",
+      "shortId": "ESCROW",
+      "name": "Pwnstar",
+      "role": "BOT",
+      "level": 32
+    },
+    "message": "#XCS847 [Constellations|Bayonet|WEAPON_SKIN|MYTHICAL] avg:20.2mil bros:16.0mil bolt:22.0mil fate:22.5mil auto:34.8mil 80543",
+    "timestamp": "2026-05-01T19:52:42.351Z"
   }
 ]
