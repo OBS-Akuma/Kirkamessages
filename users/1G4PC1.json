@@ -142,5 +142,29 @@
     },
     "message": "add",
     "timestamp": "2026-05-01T20:02:07.877Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "15000a08-5b89-4799-bcb1-bb36969c55a0",
+      "shortId": "1G4PC1",
+      "name": "THEPROS",
+      "role": "USER",
+      "level": 8
+    },
+    "message": "BM I'll ask a friend wait",
+    "timestamp": "2026-05-01T20:03:30.564Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "15000a08-5b89-4799-bcb1-bb36969c55a0",
+      "shortId": "1G4PC1",
+      "name": "THEPROS",
+      "role": "USER",
+      "level": 8
+    },
+    "message": "ya wait",
+    "timestamp": "2026-05-01T20:03:37.671Z"
   }
 ]
