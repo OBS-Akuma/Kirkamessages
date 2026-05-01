@@ -34,5 +34,96 @@
     },
     "message": "/wager [Angel||BODY_SKIN|MYTHICAL] #1BY7KM",
     "timestamp": "2026-05-01T19:10:19.411Z"
+  },
+  "#1BY7KM wager angel?",
+  "/cancelwager",
+  "/wager [Angel||BODY_SKIN|MYTHICAL] #1BY7KM",
+  "#1BY7KM /confirmwager for angel?",
+  "/cancelwager",
+  "Wagering [Yuki||BODY_SKIN|MYTHICAL][Angel||BODY_SKIN|MYTHICAL][Lightning|AR-9|WEAPON_SKIN|EPIC][Hearts||BODY_SKIN|MYTHICAL][Gold Coins|Bayonet|WEAPON_SKIN|LEGENDARY][Saint Patrick|Shark|WEAPON_SKIN|LEGENDARY][Dreamscape|LAR|WEAPON_SKIN|MYTHICAL]",
+  "#609GEM no ty",
+  {
+    "type": 2,
+    "user": {
+      "id": "8f9423c1-73b5-46a4-969f-68ed04e8f0e8",
+      "shortId": "000000",
+      "name": "Daddy",
+      "role": "USER",
+      "level": 100
+    },
+    "message": "Wagering [Yuki||BODY_SKIN|MYTHICAL][Angel||BODY_SKIN|MYTHICAL][Lightning|AR-9|WEAPON_SKIN|EPIC][Hearts||BODY_SKIN|MYTHICAL][Gold Coins|Bayonet|WEAPON_SKIN|LEGENDARY][Saint Patrick|Shark|WEAPON_SKIN|LEGENDARY][Dreamscape|LAR|WEAPON_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-01T19:16:58.196Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "8f9423c1-73b5-46a4-969f-68ed04e8f0e8",
+      "shortId": "000000",
+      "name": "Daddy",
+      "role": "USER",
+      "level": 100
+    },
+    "message": "lol gg",
+    "timestamp": "2026-05-01T19:39:52.423Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "8f9423c1-73b5-46a4-969f-68ed04e8f0e8",
+      "shortId": "000000",
+      "name": "Daddy",
+      "role": "USER",
+      "level": 100
+    },
+    "message": "/wager [Endless||BODY_SKIN|MYTHICAL] #2QIYUL",
+    "timestamp": "2026-05-01T19:40:24.395Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "8f9423c1-73b5-46a4-969f-68ed04e8f0e8",
+      "shortId": "000000",
+      "name": "Daddy",
+      "role": "USER",
+      "level": 100
+    },
+    "message": "#2QIYUL cancel your wager",
+    "timestamp": "2026-05-01T19:40:56.180Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "8f9423c1-73b5-46a4-969f-68ed04e8f0e8",
+      "shortId": "000000",
+      "name": "Daddy",
+      "role": "USER",
+      "level": 100
+    },
+    "message": "/wager [Endless||BODY_SKIN|MYTHICAL] #2QIYUL",
+    "timestamp": "2026-05-01T19:41:19.660Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "8f9423c1-73b5-46a4-969f-68ed04e8f0e8",
+      "shortId": "000000",
+      "name": "Daddy",
+      "role": "USER",
+      "level": 100
+    },
+    "message": "#2QIYUL /confirmwager for my last endless lol",
+    "timestamp": "2026-05-01T19:41:42.075Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "8f9423c1-73b5-46a4-969f-68ed04e8f0e8",
+      "shortId": "000000",
+      "name": "Daddy",
+      "role": "USER",
+      "level": 100
+    },
+    "message": "#2QIYUL /confirmwager for my last endless",
+    "timestamp": "2026-05-01T19:42:47.243Z"
   }
 ]
