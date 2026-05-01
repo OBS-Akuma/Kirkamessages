@@ -22,5 +22,41 @@
     },
     "message": "what did we get for the clan war?",
     "timestamp": "2026-05-01T19:48:55.542Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "guest-90f9f973-9f0a-40cf-8971-668d21d6910c",
+      "shortId": "YRCLVF",
+      "name": "[OG]Levelegen",
+      "role": "USER",
+      "level": 51
+    },
+    "message": "#NSBLR9",
+    "timestamp": "2026-05-01T19:51:19.398Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "guest-90f9f973-9f0a-40cf-8971-668d21d6910c",
+      "shortId": "YRCLVF",
+      "name": "[OG]Levelegen",
+      "role": "USER",
+      "level": 51
+    },
+    "message": "TR [Gingy||BODY_SKIN|MYTHICAL]x2,[Punji|Bayonet|WEAPON_SKIN|MYTHICAL]x1,[Gnome||BODY_SKIN|MYTHICAL]x1,[Reed||BODY_SKIN|LEGENDARY]x1",
+    "timestamp": "2026-05-01T19:52:10.404Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "guest-90f9f973-9f0a-40cf-8971-668d21d6910c",
+      "shortId": "YRCLVF",
+      "name": "[OG]Levelegen",
+      "role": "USER",
+      "level": 51
+    },
+    "message": "TR [Gingy||BODY_SKIN|MYTHICAL]x2,[Punji|Bayonet|WEAPON_SKIN|MYTHICAL]x1  ,[Gnome||BODY_SKIN|MYTHICAL]x1,[Reed||BODY_SKIN|LEGENDARY]x1",
+    "timestamp": "2026-05-01T19:52:52.032Z"
   }
 ]
