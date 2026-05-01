@@ -82,5 +82,41 @@
     },
     "message": "Bugle #52N4M1",
     "timestamp": "2026-05-01T19:51:10.703Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "5d544b9e-5ca6-4638-b3a2-0318522e29af",
+      "shortId": "TRE873",
+      "name": "QWERTY",
+      "role": "USER",
+      "level": 66
+    },
+    "message": "#1G4PC1 THEPROS",
+    "timestamp": "2026-05-01T19:55:00.038Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "5d544b9e-5ca6-4638-b3a2-0318522e29af",
+      "shortId": "TRE873",
+      "name": "QWERTY",
+      "role": "USER",
+      "level": 66
+    },
+    "message": "x2 rs3t100",
+    "timestamp": "2026-05-01T19:55:04.919Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "5d544b9e-5ca6-4638-b3a2-0318522e29af",
+      "shortId": "TRE873",
+      "name": "QWERTY",
+      "role": "USER",
+      "level": 66
+    },
+    "message": "/hm ranked_s3 top100 x2",
+    "timestamp": "2026-05-01T19:55:59.928Z"
   }
 ]
