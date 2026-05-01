@@ -356,5 +356,77 @@
     },
     "message": "rage",
     "timestamp": "2026-05-01T20:02:22.026Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "4525c2fd-62ac-46cf-8b35-f56bc75a81bb",
+      "shortId": "5GD3AU",
+      "name": "bilal",
+      "role": "USER",
+      "level": 36
+    },
+    "message": "kya kuch trade ya cf karnay chaata hai",
+    "timestamp": "2026-05-01T20:02:42.800Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "4525c2fd-62ac-46cf-8b35-f56bc75a81bb",
+      "shortId": "5GD3AU",
+      "name": "bilal",
+      "role": "USER",
+      "level": 36
+    },
+    "message": "what cash",
+    "timestamp": "2026-05-01T20:02:48.773Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "4525c2fd-62ac-46cf-8b35-f56bc75a81bb",
+      "shortId": "5GD3AU",
+      "name": "bilal",
+      "role": "USER",
+      "level": 36
+    },
+    "message": "offer for what",
+    "timestamp": "2026-05-01T20:02:53.291Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "4525c2fd-62ac-46cf-8b35-f56bc75a81bb",
+      "shortId": "5GD3AU",
+      "name": "bilal",
+      "role": "USER",
+      "level": 36
+    },
+    "message": "how much",
+    "timestamp": "2026-05-01T20:02:56.453Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "4525c2fd-62ac-46cf-8b35-f56bc75a81bb",
+      "shortId": "5GD3AU",
+      "name": "bilal",
+      "role": "USER",
+      "level": 36
+    },
+    "message": "wsg wild",
+    "timestamp": "2026-05-01T20:03:56.662Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "4525c2fd-62ac-46cf-8b35-f56bc75a81bb",
+      "shortId": "5GD3AU",
+      "name": "bilal",
+      "role": "USER",
+      "level": 36
+    },
+    "message": "ur not in a vc?",
+    "timestamp": "2026-05-01T20:04:02.379Z"
   }
 ]
