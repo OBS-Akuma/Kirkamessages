@@ -46,5 +46,17 @@
     },
     "message": "#XYI44X clan me",
     "timestamp": "2026-05-01T19:57:03.064Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "0b4cd789-a014-4609-bfbf-4bb636738f75",
+      "shortId": "52N4M1",
+      "name": "BuggleLugs",
+      "role": "USER",
+      "level": 95
+    },
+    "message": "CLAN ME",
+    "timestamp": "2026-05-01T19:57:21.560Z"
   }
 ]
