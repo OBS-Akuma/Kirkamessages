@@ -719,7 +719,7 @@
       "role": "BOT",
       "level": 32
     },
-    "message": "ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ°ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ° Daily Lottery: 1 entries, [Golden||CHEST|LEGENDARY]x50 pool, 1 participants. 2h 30m left! Use /raffle <entr BF3770",
+    "message": "ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ°ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ° Daily Lottery: 1 entries, [Golden||CHEST|LEGENDARY]x50 pool, 1 participants. 2h 30m left! Use /raffle <entr BF3770",
     "timestamp": "2026-05-01T19:55:33.943Z"
   },
   {
@@ -815,7 +815,7 @@
       "role": "BOT",
       "level": 32
     },
-    "message": "ÃÂÃÂÃÂÃÂ°ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ° Daily Lottery: 1 entries, [Golden||CHEST|LEGENDARY]x50 pool, 1 participants. 2h 28m left! Use /raffle <entrie 85DE",
+    "message": "ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ°ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ° Daily Lottery: 1 entries, [Golden||CHEST|LEGENDARY]x50 pool, 1 participants. 2h 28m left! Use /raffle <entrie 85DE",
     "timestamp": "2026-05-01T19:57:56.940Z"
   },
   {
@@ -1261,5 +1261,65 @@
     },
     "message": "#UP1R78 [Tide|SCAR|WEAPON_SKIN|LEGENDARY] avg:2.5mil bros:2.2mil bolt:3.0mil fate:2.3mil auto:3.8mil DA2E",
     "timestamp": "2026-05-01T20:11:06.756Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "f4cb1d5a-9a50-4ea2-ace4-2bffa9e0b404",
+      "shortId": "ESCROW",
+      "name": "Pwnstar",
+      "role": "BOT",
+      "level": 32
+    },
+    "message": "#2QIYUL Your inventory: 2420 items worth 174.8mil (avg) (cached) 62333",
+    "timestamp": "2026-05-01T20:13:10.695Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "f4cb1d5a-9a50-4ea2-ace4-2bffa9e0b404",
+      "shortId": "ESCROW",
+      "name": "Pwnstar",
+      "role": "BOT",
+      "level": 32
+    },
+    "message": "#2QIYUL Wager stats: 176W/183L, 8,550,758,496 value won (Rank #3/700) 5E65F",
+    "timestamp": "2026-05-01T20:13:24.282Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "f4cb1d5a-9a50-4ea2-ace4-2bffa9e0b404",
+      "shortId": "ESCROW",
+      "name": "Pwnstar",
+      "role": "BOT",
+      "level": 32
+    },
+    "message": "#2QIYUL 1x[Firedemon||BODY_SKIN|LEGENDARY]=2.5mil 1x[Arachne|VITA|WEAPON_SKIN|MYTHICAL]=2.0mil +1more total:5.5mil (average) DC85",
+    "timestamp": "2026-05-01T20:13:44.628Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "f4cb1d5a-9a50-4ea2-ace4-2bffa9e0b404",
+      "shortId": "ESCROW",
+      "name": "Pwnstar",
+      "role": "BOT",
+      "level": 32
+    },
+    "message": "#UP1R78 item \"ranked s3\" not found 00B4",
+    "timestamp": "2026-05-01T20:14:13.368Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "f4cb1d5a-9a50-4ea2-ace4-2bffa9e0b404",
+      "shortId": "ESCROW",
+      "name": "Pwnstar",
+      "role": "BOT",
+      "level": 32
+    },
+    "message": "#TRE873 1x[Ranked_S3 Top100|Bayonet|WEAPON_SKIN|MYTHICAL]=8.0mil (average) 54396",
+    "timestamp": "2026-05-01T20:14:26.626Z"
   }
 ]
