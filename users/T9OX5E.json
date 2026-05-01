@@ -10,5 +10,101 @@
     },
     "message": "[Cane|Bayonet|WEAPON_SKIN|EPIC]",
     "timestamp": "2026-05-01T20:00:16.575Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "99348ff4-3989-457c-b6a5-2f5c3239c4fa",
+      "shortId": "T9OX5E",
+      "name": "EnZo",
+      "role": "USER",
+      "level": 25
+    },
+    "message": "/price [Tide|SCAR|WEAPON_SKIN|LEGENDARY]",
+    "timestamp": "2026-05-01T20:07:58.745Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "99348ff4-3989-457c-b6a5-2f5c3239c4fa",
+      "shortId": "T9OX5E",
+      "name": "EnZo",
+      "role": "USER",
+      "level": 25
+    },
+    "message": "lf [Tide|SCAR|WEAPON_SKIN|LEGENDARY]",
+    "timestamp": "2026-05-01T20:08:05.546Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "99348ff4-3989-457c-b6a5-2f5c3239c4fa",
+      "shortId": "T9OX5E",
+      "name": "EnZo",
+      "role": "USER",
+      "level": 25
+    },
+    "message": "/locate [Tide|SCAR|WEAPON_SKIN|LEGENDARY]",
+    "timestamp": "2026-05-01T20:08:11.438Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "99348ff4-3989-457c-b6a5-2f5c3239c4fa",
+      "shortId": "T9OX5E",
+      "name": "EnZo",
+      "role": "USER",
+      "level": 25
+    },
+    "message": "/locate [Tide|SCAR|WEAPON_SKIN|LEGENDARY] p2",
+    "timestamp": "2026-05-01T20:08:58.655Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "99348ff4-3989-457c-b6a5-2f5c3239c4fa",
+      "shortId": "T9OX5E",
+      "name": "EnZo",
+      "role": "USER",
+      "level": 25
+    },
+    "message": "lf [Tide|SCAR|WEAPON_SKIN|LEGENDARY] any1 ?",
+    "timestamp": "2026-05-01T20:09:33.771Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "99348ff4-3989-457c-b6a5-2f5c3239c4fa",
+      "shortId": "T9OX5E",
+      "name": "EnZo",
+      "role": "USER",
+      "level": 25
+    },
+    "message": "#1G4PC1",
+    "timestamp": "2026-05-01T20:09:47.802Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "99348ff4-3989-457c-b6a5-2f5c3239c4fa",
+      "shortId": "T9OX5E",
+      "name": "EnZo",
+      "role": "USER",
+      "level": 25
+    },
+    "message": "where ?? #1G4PC1",
+    "timestamp": "2026-05-01T20:09:54.963Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "99348ff4-3989-457c-b6a5-2f5c3239c4fa",
+      "shortId": "T9OX5E",
+      "name": "EnZo",
+      "role": "USER",
+      "level": 25
+    },
+    "message": "#1G4PC1 can i see it pls ?",
+    "timestamp": "2026-05-01T20:10:17.068Z"
   }
 ]
