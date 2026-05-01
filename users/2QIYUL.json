@@ -1222,5 +1222,41 @@
     },
     "message": "han sahi he",
     "timestamp": "2026-05-01T20:09:35.434Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "1ae21f3a-c5d5-4161-8718-75880e3d3cc8",
+      "shortId": "2QIYUL",
+      "name": "RAGEx",
+      "role": "USER",
+      "level": 41
+    },
+    "message": "satisfaction nhi mil rahi to nhi karo",
+    "timestamp": "2026-05-01T20:09:46.577Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "1ae21f3a-c5d5-4161-8718-75880e3d3cc8",
+      "shortId": "2QIYUL",
+      "name": "RAGEx",
+      "role": "USER",
+      "level": 41
+    },
+    "message": "wait",
+    "timestamp": "2026-05-01T20:10:20.350Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "1ae21f3a-c5d5-4161-8718-75880e3d3cc8",
+      "shortId": "2QIYUL",
+      "name": "RAGEx",
+      "role": "USER",
+      "level": 41
+    },
+    "message": "/inv #J897E6",
+    "timestamp": "2026-05-01T20:10:23.047Z"
   }
 ]
