@@ -59,5 +59,17 @@
     },
     "message": "/inv",
     "timestamp": "2026-05-01T19:51:47.192Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "7f2a6090-abcb-48a7-8838-88ee8111b261",
+      "shortId": "NUGGET",
+      "name": "Akumaware.xyz",
+      "role": "USER",
+      "level": 55
+    },
+    "message": "rawrrr",
+    "timestamp": "2026-05-01T19:55:27.818Z"
   }
 ]
