@@ -1,0 +1,38 @@
+[
+  {
+    "type": 2,
+    "user": {
+      "id": "2498c3da-6441-41f3-847f-8416f1e874f2",
+      "shortId": "2I5XG5",
+      "name": "3vbk",
+      "role": "USER",
+      "level": 34
+    },
+    "message": "stop offering me goldens",
+    "timestamp": "2026-05-01T19:09:52.993Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "2498c3da-6441-41f3-847f-8416f1e874f2",
+      "shortId": "2I5XG5",
+      "name": "3vbk",
+      "role": "USER",
+      "level": 34
+    },
+    "message": "hi",
+    "timestamp": "2026-05-01T19:10:10.817Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "2498c3da-6441-41f3-847f-8416f1e874f2",
+      "shortId": "2I5XG5",
+      "name": "3vbk",
+      "role": "USER",
+      "level": 34
+    },
+    "message": "no",
+    "timestamp": "2026-05-01T19:10:23.097Z"
+  }
+]
