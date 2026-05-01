@@ -719,7 +719,7 @@
       "role": "BOT",
       "level": 32
     },
-    "message": "ÃÂ°ÃÂÃÂÃÂ° Daily Lottery: 1 entries, [Golden||CHEST|LEGENDARY]x50 pool, 1 participants. 2h 30m left! Use /raffle <entr BF3770",
+    "message": "ÃÂÃÂ°ÃÂÃÂÃÂÃÂÃÂÃÂ° Daily Lottery: 1 entries, [Golden||CHEST|LEGENDARY]x50 pool, 1 participants. 2h 30m left! Use /raffle <entr BF3770",
     "timestamp": "2026-05-01T19:55:33.943Z"
   },
   {
@@ -815,7 +815,7 @@
       "role": "BOT",
       "level": 32
     },
-    "message": "ð° Daily Lottery: 1 entries, [Golden||CHEST|LEGENDARY]x50 pool, 1 participants. 2h 28m left! Use /raffle <entrie 85DE",
+    "message": "Ã°ÂÂÂ° Daily Lottery: 1 entries, [Golden||CHEST|LEGENDARY]x50 pool, 1 participants. 2h 28m left! Use /raffle <entrie 85DE",
     "timestamp": "2026-05-01T19:57:56.940Z"
   },
   {
@@ -961,5 +961,53 @@
     },
     "message": "#UP1R78 item \"choul\" not found 4A4B",
     "timestamp": "2026-05-01T20:01:25.519Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "f4cb1d5a-9a50-4ea2-ace4-2bffa9e0b404",
+      "shortId": "ESCROW",
+      "name": "Pwnstar",
+      "role": "BOT",
+      "level": 32
+    },
+    "message": "#SYSTEM 1x[Kitsune||BODY_SKIN|MYTHICAL]=27.5mil (average) EE14",
+    "timestamp": "2026-05-01T20:01:32.120Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "f4cb1d5a-9a50-4ea2-ace4-2bffa9e0b404",
+      "shortId": "ESCROW",
+      "name": "Pwnstar",
+      "role": "BOT",
+      "level": 32
+    },
+    "message": "#BXOKLG 1x[Cozy James||BODY_SKIN|MYTHICAL]=30.0mil (average) 6A9D9",
+    "timestamp": "2026-05-01T20:01:38.049Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "f4cb1d5a-9a50-4ea2-ace4-2bffa9e0b404",
+      "shortId": "ESCROW",
+      "name": "Pwnstar",
+      "role": "BOT",
+      "level": 32
+    },
+    "message": "#UP1R78 [Ghoul||BODY_SKIN|MYTHICAL] avg:11.0mil bros:0 bolt:11.0mil fate:0 auto:11.6mil 1CEA1",
+    "timestamp": "2026-05-01T20:01:52.363Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "f4cb1d5a-9a50-4ea2-ace4-2bffa9e0b404",
+      "shortId": "ESCROW",
+      "name": "Pwnstar",
+      "role": "BOT",
+      "level": 32
+    },
+    "message": "#UP1R78 [Basket||BODY_SKIN|MYTHICAL] avg:3.3mil bros:2.0mil bolt:6.0mil fate:2.0mil auto:5.4mil 20C0B",
+    "timestamp": "2026-05-01T20:02:09.517Z"
   }
 ]
