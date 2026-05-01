@@ -298,5 +298,41 @@
     },
     "message": "/price basket",
     "timestamp": "2026-05-01T20:02:09.364Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "4b3c9e26-0516-4634-99f9-ea8361ccd6d8",
+      "shortId": "UP1R78",
+      "name": "CASH",
+      "role": "USER",
+      "level": 79
+    },
+    "message": "Bilal",
+    "timestamp": "2026-05-01T20:02:45.056Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "4b3c9e26-0516-4634-99f9-ea8361ccd6d8",
+      "shortId": "UP1R78",
+      "name": "CASH",
+      "role": "USER",
+      "level": 79
+    },
+    "message": "wanna offer for it ?",
+    "timestamp": "2026-05-01T20:02:48.471Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "4b3c9e26-0516-4634-99f9-ea8361ccd6d8",
+      "shortId": "UP1R78",
+      "name": "CASH",
+      "role": "USER",
+      "level": 79
+    },
+    "message": "[Hallowkod||BODY_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-01T20:02:53.699Z"
   }
 ]
