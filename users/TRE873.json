@@ -118,5 +118,41 @@
     },
     "message": "/hm ranked_s3 top100 x2",
     "timestamp": "2026-05-01T19:55:59.928Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "5d544b9e-5ca6-4638-b3a2-0318522e29af",
+      "shortId": "TRE873",
+      "name": "QWERTY",
+      "role": "USER",
+      "level": 66
+    },
+    "message": "#J897E6",
+    "timestamp": "2026-05-01T19:57:00.573Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "5d544b9e-5ca6-4638-b3a2-0318522e29af",
+      "shortId": "TRE873",
+      "name": "QWERTY",
+      "role": "USER",
+      "level": 66
+    },
+    "message": "hehehehehe",
+    "timestamp": "2026-05-01T19:57:30.457Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "5d544b9e-5ca6-4638-b3a2-0318522e29af",
+      "shortId": "TRE873",
+      "name": "QWERTY",
+      "role": "USER",
+      "level": 66
+    },
+    "message": "#J897E6 hehehe",
+    "timestamp": "2026-05-01T19:57:38.497Z"
   }
 ]
