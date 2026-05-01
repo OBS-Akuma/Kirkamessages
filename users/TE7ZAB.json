@@ -1,0 +1,26 @@
+[
+  {
+    "type": 2,
+    "user": {
+      "id": "0oxYT4qF3FdotfZebjxkuTX1nLd2",
+      "shortId": "TE7ZAB",
+      "name": "GENZ(MM)",
+      "role": "USER",
+      "level": 68
+    },
+    "message": "/locate [Chromium|Bayonet|WEAPON_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-01T19:49:07.959Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "0oxYT4qF3FdotfZebjxkuTX1nLd2",
+      "shortId": "TE7ZAB",
+      "name": "GENZ(MM)",
+      "role": "USER",
+      "level": 68
+    },
+    "message": "Dg [Chick||BODY_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-01T19:50:00.760Z"
+  }
+]
