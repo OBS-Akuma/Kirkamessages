@@ -1,0 +1,26 @@
+[
+  {
+    "type": 2,
+    "user": {
+      "id": "1a2f98a4-848e-49b9-97ee-56dae0f03d8e",
+      "shortId": "6FZD97",
+      "name": "(T-T)ARABIC",
+      "role": "USER",
+      "level": 68
+    },
+    "message": "تمام",
+    "timestamp": "2026-05-01T19:16:14.948Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "1a2f98a4-848e-49b9-97ee-56dae0f03d8e",
+      "shortId": "6FZD97",
+      "name": "(T-T)ARABIC",
+      "role": "USER",
+      "level": 68
+    },
+    "message": "سلام",
+    "timestamp": "2026-05-01T19:16:16.309Z"
+  }
+]
