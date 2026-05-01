@@ -1,0 +1,77 @@
+[
+  "walf u have bok",
+  "WALF u have [Bok||BODY_SKIN|MYTHICAL]",
+  "ok",
+  {
+    "type": 2,
+    "user": {
+      "id": "guest-b77654df-ce78-463f-be13-7f60d95f8fe9",
+      "shortId": "CDVSHX",
+      "name": "Pumpkinspice",
+      "role": "USER",
+      "level": 35
+    },
+    "message": "i need [hazmed]",
+    "timestamp": "2026-05-01T19:17:30.703Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "guest-b77654df-ce78-463f-be13-7f60d95f8fe9",
+      "shortId": "CDVSHX",
+      "name": "Pumpkinspice",
+      "role": "USER",
+      "level": 35
+    },
+    "message": "i need [hazmad]",
+    "timestamp": "2026-05-01T19:17:52.845Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "guest-b77654df-ce78-463f-be13-7f60d95f8fe9",
+      "shortId": "CDVSHX",
+      "name": "Pumpkinspice",
+      "role": "USER",
+      "level": 35
+    },
+    "message": "i need [Hazmat||BODY_SKIN|PARANORMAL]",
+    "timestamp": "2026-05-01T19:18:16.104Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "guest-b77654df-ce78-463f-be13-7f60d95f8fe9",
+      "shortId": "CDVSHX",
+      "name": "Pumpkinspice",
+      "role": "USER",
+      "level": 35
+    },
+    "message": "my inv",
+    "timestamp": "2026-05-01T19:18:27.284Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "guest-b77654df-ce78-463f-be13-7f60d95f8fe9",
+      "shortId": "CDVSHX",
+      "name": "Pumpkinspice",
+      "role": "USER",
+      "level": 35
+    },
+    "message": "my inv 10 mil for [Hazmat||BODY_SKIN|PARANORMAL]",
+    "timestamp": "2026-05-01T19:19:28.737Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "guest-b77654df-ce78-463f-be13-7f60d95f8fe9",
+      "shortId": "CDVSHX",
+      "name": "Pumpkinspice",
+      "role": "USER",
+      "level": 35
+    },
+    "message": "ok",
+    "timestamp": "2026-05-01T19:19:37.006Z"
+  }
+]
