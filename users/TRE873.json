@@ -346,5 +346,137 @@
     },
     "message": "These Demon",
     "timestamp": "2026-05-01T20:11:35.695Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "5d544b9e-5ca6-4638-b3a2-0318522e29af",
+      "shortId": "TRE873",
+      "name": "QWERTY",
+      "role": "USER",
+      "level": 66
+    },
+    "message": "Aight aight",
+    "timestamp": "2026-05-01T20:12:08.616Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "5d544b9e-5ca6-4638-b3a2-0318522e29af",
+      "shortId": "TRE873",
+      "name": "QWERTY",
+      "role": "USER",
+      "level": 66
+    },
+    "message": "Can I trade instead Demon?",
+    "timestamp": "2026-05-01T20:12:17.043Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "5d544b9e-5ca6-4638-b3a2-0318522e29af",
+      "shortId": "TRE873",
+      "name": "QWERTY",
+      "role": "USER",
+      "level": 66
+    },
+    "message": "Demon Im trading [Infernal|AR-9|WEAPON_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-01T20:12:34.850Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "5d544b9e-5ca6-4638-b3a2-0318522e29af",
+      "shortId": "TRE873",
+      "name": "QWERTY",
+      "role": "USER",
+      "level": 66
+    },
+    "message": "Katuski",
+    "timestamp": "2026-05-01T20:13:02.506Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "5d544b9e-5ca6-4638-b3a2-0318522e29af",
+      "shortId": "TRE873",
+      "name": "QWERTY",
+      "role": "USER",
+      "level": 66
+    },
+    "message": "Danis?",
+    "timestamp": "2026-05-01T20:13:41.637Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "5d544b9e-5ca6-4638-b3a2-0318522e29af",
+      "shortId": "TRE873",
+      "name": "QWERTY",
+      "role": "USER",
+      "level": 66
+    },
+    "message": "Danis trade my [Ranked_S3 Top100|Bayonet|WEAPON_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-01T20:14:05.007Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "5d544b9e-5ca6-4638-b3a2-0318522e29af",
+      "shortId": "TRE873",
+      "name": "QWERTY",
+      "role": "USER",
+      "level": 66
+    },
+    "message": "/hm ranked_s3 top100",
+    "timestamp": "2026-05-01T20:14:26.546Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "5d544b9e-5ca6-4638-b3a2-0318522e29af",
+      "shortId": "TRE873",
+      "name": "QWERTY",
+      "role": "USER",
+      "level": 66
+    },
+    "message": "#X8FUJ0",
+    "timestamp": "2026-05-01T20:15:04.371Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "5d544b9e-5ca6-4638-b3a2-0318522e29af",
+      "shortId": "TRE873",
+      "name": "QWERTY",
+      "role": "USER",
+      "level": 66
+    },
+    "message": "Binsa",
+    "timestamp": "2026-05-01T20:15:29.141Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "5d544b9e-5ca6-4638-b3a2-0318522e29af",
+      "shortId": "TRE873",
+      "name": "QWERTY",
+      "role": "USER",
+      "level": 66
+    },
+    "message": "Bisna",
+    "timestamp": "2026-05-01T20:15:31.769Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "5d544b9e-5ca6-4638-b3a2-0318522e29af",
+      "shortId": "TRE873",
+      "name": "QWERTY",
+      "role": "USER",
+      "level": 66
+    },
+    "message": "Me CASH?",
+    "timestamp": "2026-05-01T20:15:47.751Z"
   }
 ]
