@@ -106,5 +106,41 @@
     },
     "message": "#1G4PC1 can i see it pls ?",
     "timestamp": "2026-05-01T20:10:17.068Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "99348ff4-3989-457c-b6a5-2f5c3239c4fa",
+      "shortId": "T9OX5E",
+      "name": "EnZo",
+      "role": "USER",
+      "level": 25
+    },
+    "message": "[Golden||CHEST|LEGENDARY]x4k for it",
+    "timestamp": "2026-05-01T20:11:08.282Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "99348ff4-3989-457c-b6a5-2f5c3239c4fa",
+      "shortId": "T9OX5E",
+      "name": "EnZo",
+      "role": "USER",
+      "level": 25
+    },
+    "message": "hm for it ?",
+    "timestamp": "2026-05-01T20:11:16.866Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "99348ff4-3989-457c-b6a5-2f5c3239c4fa",
+      "shortId": "T9OX5E",
+      "name": "EnZo",
+      "role": "USER",
+      "level": 25
+    },
+    "message": "hm for [Tide|SCAR|WEAPON_SKIN|LEGENDARY] bro ?",
+    "timestamp": "2026-05-01T20:11:43.158Z"
   }
 ]
