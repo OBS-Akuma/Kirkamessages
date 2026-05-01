@@ -106,5 +106,101 @@
     },
     "message": "wtf",
     "timestamp": "2026-05-01T19:48:43.132Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "2r1UJOfesmQUx0DJGR3osZYWZTY2",
+      "shortId": "WX7ZW3",
+      "name": "Saint.",
+      "role": "USER",
+      "level": 98
+    },
+    "message": "/fav avg",
+    "timestamp": "2026-05-01T19:49:35.713Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "2r1UJOfesmQUx0DJGR3osZYWZTY2",
+      "shortId": "WX7ZW3",
+      "name": "Saint.",
+      "role": "USER",
+      "level": 98
+    },
+    "message": "/fav average",
+    "timestamp": "2026-05-01T19:49:46.024Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "2r1UJOfesmQUx0DJGR3osZYWZTY2",
+      "shortId": "WX7ZW3",
+      "name": "Saint.",
+      "role": "USER",
+      "level": 98
+    },
+    "message": "/inv",
+    "timestamp": "2026-05-01T19:49:52.483Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "2r1UJOfesmQUx0DJGR3osZYWZTY2",
+      "shortId": "WX7ZW3",
+      "name": "Saint.",
+      "role": "USER",
+      "level": 98
+    },
+    "message": "still 500? ?",
+    "timestamp": "2026-05-01T19:49:57.965Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "2r1UJOfesmQUx0DJGR3osZYWZTY2",
+      "shortId": "WX7ZW3",
+      "name": "Saint.",
+      "role": "USER",
+      "level": 98
+    },
+    "message": "/fab bolt",
+    "timestamp": "2026-05-01T19:50:02.918Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "2r1UJOfesmQUx0DJGR3osZYWZTY2",
+      "shortId": "WX7ZW3",
+      "name": "Saint.",
+      "role": "USER",
+      "level": 98
+    },
+    "message": "/fav bolt",
+    "timestamp": "2026-05-01T19:50:07.724Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "2r1UJOfesmQUx0DJGR3osZYWZTY2",
+      "shortId": "WX7ZW3",
+      "name": "Saint.",
+      "role": "USER",
+      "level": 98
+    },
+    "message": "/inv",
+    "timestamp": "2026-05-01T19:50:13.108Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "2r1UJOfesmQUx0DJGR3osZYWZTY2",
+      "shortId": "WX7ZW3",
+      "name": "Saint.",
+      "role": "USER",
+      "level": 98
+    },
+    "message": "trading [Wraith||BODY_SKIN|MYTHICAL] for [Bunny||BODY_SKIN|EPIC]x10 XD",
+    "timestamp": "2026-05-01T19:50:38.629Z"
   }
 ]
