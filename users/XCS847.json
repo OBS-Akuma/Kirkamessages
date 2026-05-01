@@ -74,5 +74,29 @@
     },
     "message": "/price constellations",
     "timestamp": "2026-05-01T19:52:42.145Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "631aee1e-afcc-404d-a987-e3c180d9eeb1",
+      "shortId": "XCS847",
+      "name": "in_theroom",
+      "role": "USER",
+      "level": 83
+    },
+    "message": "ragex you yourself wanted this trade ghoul 7 k goldens for endless and now what",
+    "timestamp": "2026-05-01T19:54:06.833Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "631aee1e-afcc-404d-a987-e3c180d9eeb1",
+      "shortId": "XCS847",
+      "name": "in_theroom",
+      "role": "USER",
+      "level": 83
+    },
+    "message": "#1G4PC1 all for ghoul and 7 k goldens?",
+    "timestamp": "2026-05-01T19:54:38.614Z"
   }
 ]
