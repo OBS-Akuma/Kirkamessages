@@ -26,5 +26,53 @@
     },
     "message": "My offer 16 m",
     "timestamp": "2026-05-01T19:41:35.105Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "631aee1e-afcc-404d-a987-e3c180d9eeb1",
+      "shortId": "XCS847",
+      "name": "in_theroom",
+      "role": "USER",
+      "level": 83
+    },
+    "message": "Bro",
+    "timestamp": "2026-05-01T19:49:19.390Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "631aee1e-afcc-404d-a987-e3c180d9eeb1",
+      "shortId": "XCS847",
+      "name": "in_theroom",
+      "role": "USER",
+      "level": 83
+    },
+    "message": "RAGEX  BRO",
+    "timestamp": "2026-05-01T19:51:43.479Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "631aee1e-afcc-404d-a987-e3c180d9eeb1",
+      "shortId": "XCS847",
+      "name": "in_theroom",
+      "role": "USER",
+      "level": 83
+    },
+    "message": "Bro comon",
+    "timestamp": "2026-05-01T19:52:01.793Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "631aee1e-afcc-404d-a987-e3c180d9eeb1",
+      "shortId": "XCS847",
+      "name": "in_theroom",
+      "role": "USER",
+      "level": 83
+    },
+    "message": "/price constellations",
+    "timestamp": "2026-05-01T19:52:42.145Z"
   }
 ]
