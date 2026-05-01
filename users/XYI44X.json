@@ -358,5 +358,29 @@
     },
     "message": "rage ;-;",
     "timestamp": "2026-05-01T19:57:58.287Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "4eec4a4c-5a1c-4ef3-b180-47fd28244fb3",
+      "shortId": "XYI44X",
+      "name": "flowstate",
+      "role": "USER",
+      "level": 19
+    },
+    "message": "trading [Constellations|Bayonet|WEAPON_SKIN|MYTHICAL][Ranked_S2 Top100|Bayonet|WEAPON_SKIN|MYTHICAL]/[Endless||BODY_SKIN|MYTHICAL]x4[Spice||BODY_SKIN|MYTHICAL]x2[Astatine||BODY_SKIN|MYTHICAL]]/[gobl",
+    "timestamp": "2026-05-01T20:09:08.502Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "4eec4a4c-5a1c-4ef3-b180-47fd28244fb3",
+      "shortId": "XYI44X",
+      "name": "flowstate",
+      "role": "USER",
+      "level": 19
+    },
+    "message": ".trading [Constellations|Bayonet|WEAPON_SKIN|MYTHICAL][Ranked_S2 Top100|Bayonet|WEAPON_SKIN|MYTHICAL]/[Endless||BODY_SKIN|MYTHICAL]x4[Spice||BODY_SKIN|MYTHICAL]x2[Astatine||BODY_SKIN|MYTHICAL]/[gobl",
+    "timestamp": "2026-05-01T20:10:05.412Z"
   }
 ]
