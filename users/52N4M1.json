@@ -70,5 +70,17 @@
     },
     "message": "/inv",
     "timestamp": "2026-05-01T20:04:14.866Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "0b4cd789-a014-4609-bfbf-4bb636738f75",
+      "shortId": "52N4M1",
+      "name": "BuggleLugs",
+      "role": "USER",
+      "level": 95
+    },
+    "message": "Deimos u here",
+    "timestamp": "2026-05-01T20:13:19.995Z"
   }
 ]
