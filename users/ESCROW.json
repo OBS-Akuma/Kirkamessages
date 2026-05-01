@@ -697,5 +697,29 @@
     },
     "message": "#QPQ5MV #SODASS inventory: 32254 items worth 2.3bil (avg) (fresh) 5508D8",
     "timestamp": "2026-05-01T19:53:30.774Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "f4cb1d5a-9a50-4ea2-ace4-2bffa9e0b404",
+      "shortId": "ESCROW",
+      "name": "Pwnstar",
+      "role": "BOT",
+      "level": 32
+    },
+    "message": "#RZDF8R 1x[Endless||BODY_SKIN|MYTHICAL]=5.4mil (average) D807A",
+    "timestamp": "2026-05-01T19:55:32.580Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "f4cb1d5a-9a50-4ea2-ace4-2bffa9e0b404",
+      "shortId": "ESCROW",
+      "name": "Pwnstar",
+      "role": "BOT",
+      "level": 32
+    },
+    "message": "🎰 Daily Lottery: 1 entries, [Golden||CHEST|LEGENDARY]x50 pool, 1 participants. 2h 30m left! Use /raffle <entr BF3770",
+    "timestamp": "2026-05-01T19:55:33.943Z"
   }
 ]
