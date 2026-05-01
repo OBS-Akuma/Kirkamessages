@@ -16,5 +16,17 @@
     "type": 13,
     "message": "vaniq!#HCGRXU is offering their [Volcaic|Revolver|WEAPON_SKIN|LEGENDARY], [Lis|Revolver|WEAPON_SKIN|MYTHICAL] for your [Chromaflame|LAR|WEAPON_SKIN|MYTHICAL], type  **/trade accept 2812** to accept this offer",
     "timestamp": "2026-05-01T19:05:01.315Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "f4cb1d5a-9a50-4ea2-ace4-2bffa9e0b404",
+      "shortId": "ESCROW",
+      "name": "Pwnstar",
+      "role": "BOT",
+      "level": 32
+    },
+    "message": "#AIIMYI No active giveaway. Usage: /giveaway [Item]x<qty> <minutes> D3DF99",
+    "timestamp": "2026-05-01T19:06:14.557Z"
   }
 ]
