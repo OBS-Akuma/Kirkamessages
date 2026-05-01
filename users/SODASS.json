@@ -1,0 +1,38 @@
+[
+  {
+    "type": 2,
+    "user": {
+      "id": "da1fc2df-d5b2-419a-8d99-ce8638bfe487",
+      "shortId": "SODASS",
+      "name": "Pseed.",
+      "role": "USER",
+      "level": 98
+    },
+    "message": "ah sorry",
+    "timestamp": "2026-05-01T19:10:11.525Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "da1fc2df-d5b2-419a-8d99-ce8638bfe487",
+      "shortId": "SODASS",
+      "name": "Pseed.",
+      "role": "USER",
+      "level": 98
+    },
+    "message": "/hm scorcher",
+    "timestamp": "2026-05-01T19:10:16.175Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "da1fc2df-d5b2-419a-8d99-ce8638bfe487",
+      "shortId": "SODASS",
+      "name": "Pseed.",
+      "role": "USER",
+      "level": 98
+    },
+    "message": "Im underpricing now ^^",
+    "timestamp": "2026-05-01T19:10:29.268Z"
+  }
+]
