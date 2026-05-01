@@ -226,5 +226,17 @@
     },
     "message": "readyh up",
     "timestamp": "2026-05-01T19:59:00.136Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "5d544b9e-5ca6-4638-b3a2-0318522e29af",
+      "shortId": "TRE873",
+      "name": "QWERTY",
+      "role": "USER",
+      "level": 66
+    },
+    "message": "#O4UKBD wsp?",
+    "timestamp": "2026-05-01T20:02:47.065Z"
   }
 ]
