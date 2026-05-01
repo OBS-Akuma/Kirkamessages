@@ -104,7 +104,7 @@
       "role": "USER",
       "level": 94
     },
-    "message": "ÃÂÃÂÃÂÃÂ§ÃÂÃÂ",
+    "message": "ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ§ÃÂÃÂÃÂÃÂ",
     "timestamp": "2026-05-01T19:59:48.847Z"
   },
   {
@@ -334,5 +334,41 @@
     },
     "message": "make make make",
     "timestamp": "2026-05-01T20:10:02.870Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "v9XEZ21q3zS2RMCmuJuR27Um2ul1",
+      "shortId": "J897E6",
+      "name": "hehehe",
+      "role": "USER",
+      "level": 94
+    },
+    "message": "why",
+    "timestamp": "2026-05-01T20:10:32.754Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "v9XEZ21q3zS2RMCmuJuR27Um2ul1",
+      "shortId": "J897E6",
+      "name": "hehehe",
+      "role": "USER",
+      "level": 94
+    },
+    "message": "ragex !!!!!!!!!!!!",
+    "timestamp": "2026-05-01T20:10:46.530Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "v9XEZ21q3zS2RMCmuJuR27Um2ul1",
+      "shortId": "J897E6",
+      "name": "hehehe",
+      "role": "USER",
+      "level": 94
+    },
+    "message": "why",
+    "timestamp": "2026-05-01T20:10:49.559Z"
   }
 ]
