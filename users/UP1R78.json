@@ -682,5 +682,77 @@
     },
     "message": "/inv",
     "timestamp": "2026-05-01T20:10:31.824Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "4b3c9e26-0516-4634-99f9-ea8361ccd6d8",
+      "shortId": "UP1R78",
+      "name": "CASH",
+      "role": "USER",
+      "level": 79
+    },
+    "message": "/price tide",
+    "timestamp": "2026-05-01T20:11:05.589Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "4b3c9e26-0516-4634-99f9-ea8361ccd6d8",
+      "shortId": "UP1R78",
+      "name": "CASH",
+      "role": "USER",
+      "level": 79
+    },
+    "message": "what is gonna come",
+    "timestamp": "2026-05-01T20:11:29.793Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "4b3c9e26-0516-4634-99f9-ea8361ccd6d8",
+      "shortId": "UP1R78",
+      "name": "CASH",
+      "role": "USER",
+      "level": 79
+    },
+    "message": "the unobtainable",
+    "timestamp": "2026-05-01T20:11:36.195Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "4b3c9e26-0516-4634-99f9-ea8361ccd6d8",
+      "shortId": "UP1R78",
+      "name": "CASH",
+      "role": "USER",
+      "level": 79
+    },
+    "message": "sI LEAFT MY VLAN NOOOOOO",
+    "timestamp": "2026-05-01T20:11:42.183Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "4b3c9e26-0516-4634-99f9-ea8361ccd6d8",
+      "shortId": "UP1R78",
+      "name": "CASH",
+      "role": "USER",
+      "level": 79
+    },
+    "message": "I ALREADY LEFT",
+    "timestamp": "2026-05-01T20:11:46.607Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "4b3c9e26-0516-4634-99f9-ea8361ccd6d8",
+      "shortId": "UP1R78",
+      "name": "CASH",
+      "role": "USER",
+      "level": 79
+    },
+    "message": "NOOOOOOO",
+    "timestamp": "2026-05-01T20:11:48.322Z"
   }
 ]
