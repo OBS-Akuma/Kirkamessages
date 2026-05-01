@@ -188,7 +188,7 @@
       "role": "USER",
       "level": 71
     },
-    "message": "nao Ã© pra vc nao",
+    "message": "nao ÃÂ© pra vc nao",
     "timestamp": "2026-05-01T20:07:26.321Z"
   },
   {
@@ -370,5 +370,77 @@
     },
     "message": "i only wait + 3 minutes",
     "timestamp": "2026-05-01T20:09:50.709Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "c2f142f1-b2b7-416e-8f11-04787bb626c6",
+      "shortId": "BXOKLG",
+      "name": "BM|Darkside",
+      "role": "USER",
+      "level": 71
+    },
+    "message": "1 minute left",
+    "timestamp": "2026-05-01T20:11:57.396Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "c2f142f1-b2b7-416e-8f11-04787bb626c6",
+      "shortId": "BXOKLG",
+      "name": "BM|Darkside",
+      "role": "USER",
+      "level": 71
+    },
+    "message": "#UP1R78",
+    "timestamp": "2026-05-01T20:12:17.330Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "c2f142f1-b2b7-416e-8f11-04787bb626c6",
+      "shortId": "BXOKLG",
+      "name": "BM|Darkside",
+      "role": "USER",
+      "level": 71
+    },
+    "message": "#UP1R78 i invited",
+    "timestamp": "2026-05-01T20:12:27.682Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "c2f142f1-b2b7-416e-8f11-04787bb626c6",
+      "shortId": "BXOKLG",
+      "name": "BM|Darkside",
+      "role": "USER",
+      "level": 71
+    },
+    "message": "the pro yes or no bro",
+    "timestamp": "2026-05-01T20:12:38.717Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "c2f142f1-b2b7-416e-8f11-04787bb626c6",
+      "shortId": "BXOKLG",
+      "name": "BM|Darkside",
+      "role": "USER",
+      "level": 71
+    },
+    "message": "hmm ok",
+    "timestamp": "2026-05-01T20:12:55.276Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "c2f142f1-b2b7-416e-8f11-04787bb626c6",
+      "shortId": "BXOKLG",
+      "name": "BM|Darkside",
+      "role": "USER",
+      "level": 71
+    },
+    "message": "gg",
+    "timestamp": "2026-05-01T20:14:36.414Z"
   }
 ]
