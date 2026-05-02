@@ -58,5 +58,41 @@
     },
     "message": "u think dark is me psykro ?",
     "timestamp": "2026-05-02T19:15:15.839Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "28b6bdbd-1cf5-4b35-8973-4df0d612badd",
+      "shortId": "N5TXAC",
+      "name": "3NO_ONE",
+      "role": "USER",
+      "level": 73
+    },
+    "message": "where did u go psykro",
+    "timestamp": "2026-05-02T19:17:10.745Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "28b6bdbd-1cf5-4b35-8973-4df0d612badd",
+      "shortId": "N5TXAC",
+      "name": "3NO_ONE",
+      "role": "USER",
+      "level": 73
+    },
+    "message": "/confirm wager",
+    "timestamp": "2026-05-02T19:17:24.937Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "28b6bdbd-1cf5-4b35-8973-4df0d612badd",
+      "shortId": "N5TXAC",
+      "name": "3NO_ONE",
+      "role": "USER",
+      "level": 73
+    },
+    "message": "/confirmwager",
+    "timestamp": "2026-05-02T19:17:29.288Z"
   }
 ]
