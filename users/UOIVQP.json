@@ -44,7 +44,7 @@
       "role": "USER",
       "level": 85
     },
-    "message": "maraz attıgımı al",
+    "message": "maraz attÄ±gÄ±mÄ± al",
     "timestamp": "2026-05-02T19:16:42.206Z"
   },
   {
@@ -68,7 +68,79 @@
       "role": "USER",
       "level": 85
     },
-    "message": "trade accept yapıcan",
+    "message": "trade accept yapÄ±can",
     "timestamp": "2026-05-02T19:17:06.901Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "5uCRreOOCTZJcqd2fBv9KpOCCNp1",
+      "shortId": "UOIVQP",
+      "name": "SypzeW",
+      "role": "USER",
+      "level": 85
+    },
+    "message": "olum aklsız mısın sen",
+    "timestamp": "2026-05-02T19:18:24.767Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "5uCRreOOCTZJcqd2fBv9KpOCCNp1",
+      "shortId": "UOIVQP",
+      "name": "SypzeW",
+      "role": "USER",
+      "level": 85
+    },
+    "message": "lan yaptım mı",
+    "timestamp": "2026-05-02T19:18:49.317Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "5uCRreOOCTZJcqd2fBv9KpOCCNp1",
+      "shortId": "UOIVQP",
+      "name": "SypzeW",
+      "role": "USER",
+      "level": 85
+    },
+    "message": "yh psy",
+    "timestamp": "2026-05-02T19:18:51.781Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "5uCRreOOCTZJcqd2fBv9KpOCCNp1",
+      "shortId": "UOIVQP",
+      "name": "SypzeW",
+      "role": "USER",
+      "level": 85
+    },
+    "message": "ya",
+    "timestamp": "2026-05-02T19:18:57.855Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "5uCRreOOCTZJcqd2fBv9KpOCCNp1",
+      "shortId": "UOIVQP",
+      "name": "SypzeW",
+      "role": "USER",
+      "level": 85
+    },
+    "message": "yh",
+    "timestamp": "2026-05-02T19:19:16.586Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "5uCRreOOCTZJcqd2fBv9KpOCCNp1",
+      "shortId": "UOIVQP",
+      "name": "SypzeW",
+      "role": "USER",
+      "level": 85
+    },
+    "message": "yhh",
+    "timestamp": "2026-05-02T19:19:28.587Z"
   }
 ]
