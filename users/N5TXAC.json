@@ -154,5 +154,17 @@
     },
     "message": "gg",
     "timestamp": "2026-05-02T19:20:28.920Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "28b6bdbd-1cf5-4b35-8973-4df0d612badd",
+      "shortId": "N5TXAC",
+      "name": "3NO_ONE",
+      "role": "USER",
+      "level": 73
+    },
+    "message": "/inv",
+    "timestamp": "2026-05-02T19:27:06.246Z"
   }
 ]
