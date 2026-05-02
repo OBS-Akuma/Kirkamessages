@@ -298,5 +298,53 @@
     },
     "message": "newbie u here?",
     "timestamp": "2026-05-02T19:17:22.901Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "d6d9qQTv5Gd8UQUmwNioInkxcU02",
+      "shortId": "JCN9P8",
+      "name": "PvP_ApKeFAthER",
+      "role": "USER",
+      "level": 98
+    },
+    "message": "NEWBIE",
+    "timestamp": "2026-05-02T19:17:29.865Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "d6d9qQTv5Gd8UQUmwNioInkxcU02",
+      "shortId": "JCN9P8",
+      "name": "PvP_ApKeFAthER",
+      "role": "USER",
+      "level": 98
+    },
+    "message": "burh",
+    "timestamp": "2026-05-02T19:17:42.477Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "d6d9qQTv5Gd8UQUmwNioInkxcU02",
+      "shortId": "JCN9P8",
+      "name": "PvP_ApKeFAthER",
+      "role": "USER",
+      "level": 98
+    },
+    "message": "scammer",
+    "timestamp": "2026-05-02T19:17:47.896Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "d6d9qQTv5Gd8UQUmwNioInkxcU02",
+      "shortId": "JCN9P8",
+      "name": "PvP_ApKeFAthER",
+      "role": "USER",
+      "level": 98
+    },
+    "message": "fking scammer",
+    "timestamp": "2026-05-02T19:18:21.475Z"
   }
 ]
