@@ -82,5 +82,53 @@
     },
     "message": "oh newbie u won",
     "timestamp": "2026-05-02T19:05:55.377Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "fqEtaXQccqect4TrlfgeAzWrDg72",
+      "shortId": "IQT1IO",
+      "name": "dark",
+      "role": "USER",
+      "level": 20
+    },
+    "message": "yep",
+    "timestamp": "2026-05-02T19:14:57.001Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "fqEtaXQccqect4TrlfgeAzWrDg72",
+      "shortId": "IQT1IO",
+      "name": "dark",
+      "role": "USER",
+      "level": 20
+    },
+    "message": "im another omar xD",
+    "timestamp": "2026-05-02T19:15:20.762Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "fqEtaXQccqect4TrlfgeAzWrDg72",
+      "shortId": "IQT1IO",
+      "name": "dark",
+      "role": "USER",
+      "level": 20
+    },
+    "message": "/claim",
+    "timestamp": "2026-05-02T19:15:25.466Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "fqEtaXQccqect4TrlfgeAzWrDg72",
+      "shortId": "IQT1IO",
+      "name": "dark",
+      "role": "USER",
+      "level": 20
+    },
+    "message": "/wager [Golden||CHEST|LEGENDARY] #N5TXAC",
+    "timestamp": "2026-05-02T19:17:13.162Z"
   }
 ]
