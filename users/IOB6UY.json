@@ -190,5 +190,29 @@
     },
     "message": "nahh saurr too cheap sorry bro",
     "timestamp": "2026-05-02T19:23:11.967Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "15093663-777c-4722-9e4c-ca15c81710e3",
+      "shortId": "IOB6UY",
+      "name": "VS._.17",
+      "role": "USER",
+      "level": 62
+    },
+    "message": "indonesian what for [Jade|Bayonet|WEAPON_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-02T19:23:34.330Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "15093663-777c-4722-9e4c-ca15c81710e3",
+      "shortId": "IOB6UY",
+      "name": "VS._.17",
+      "role": "USER",
+      "level": 62
+    },
+    "message": "/inv",
+    "timestamp": "2026-05-02T19:25:05.252Z"
   }
 ]
