@@ -250,5 +250,41 @@
     },
     "message": "Gunner",
     "timestamp": "2026-05-02T19:27:56.978Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "859b62ae-f34b-4ce7-848d-a4e501546a99",
+      "shortId": "9MDD8T",
+      "name": "Niflheim",
+      "role": "USER",
+      "level": 98
+    },
+    "message": "Saint Patrick, Radioactive for ukiyo , shinji Gunner??",
+    "timestamp": "2026-05-02T19:28:17.764Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "859b62ae-f34b-4ce7-848d-a4e501546a99",
+      "shortId": "9MDD8T",
+      "name": "Niflheim",
+      "role": "USER",
+      "level": 98
+    },
+    "message": "Gunner is my offer ok?",
+    "timestamp": "2026-05-02T19:29:46.025Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "859b62ae-f34b-4ce7-848d-a4e501546a99",
+      "shortId": "9MDD8T",
+      "name": "Niflheim",
+      "role": "USER",
+      "level": 98
+    },
+    "message": "Meh radioactive can get 40m . Lowkey it ain't trash anymore.",
+    "timestamp": "2026-05-02T19:30:15.628Z"
   }
 ]
