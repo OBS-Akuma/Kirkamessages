@@ -68,7 +68,7 @@
       "role": "USER",
       "level": 21
     },
-    "message": "etiketle bakıyım",
+    "message": "etiketle bakÄ±yÄ±m",
     "timestamp": "2026-05-02T19:14:44.258Z"
   },
   {
@@ -116,7 +116,7 @@
       "role": "USER",
       "level": 21
     },
-    "message": "GİYSİ LAZIM",
+    "message": "GÄ°YSÄ° LAZIM",
     "timestamp": "2026-05-02T19:15:30.909Z"
   },
   {
@@ -128,7 +128,7 @@
       "role": "USER",
       "level": 21
     },
-    "message": "GİYSİ VER",
+    "message": "GÄ°YSÄ° VER",
     "timestamp": "2026-05-02T19:15:32.412Z"
   },
   {
@@ -140,7 +140,7 @@
       "role": "USER",
       "level": 21
     },
-    "message": "GÜZEL OLSUN",
+    "message": "GÃZEL OLSUN",
     "timestamp": "2026-05-02T19:15:45.464Z"
   },
   {
@@ -152,7 +152,7 @@
       "role": "USER",
       "level": 21
     },
-    "message": "YOk başka",
+    "message": "YOk baÅka",
     "timestamp": "2026-05-02T19:16:02.343Z"
   },
   {
@@ -190,5 +190,149 @@
     },
     "message": "galiba",
     "timestamp": "2026-05-02T19:16:22.089Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "b6ab3c30-bb0b-425a-84d3-395fb3cb9c56",
+      "shortId": "ROSF0J",
+      "name": "FOE_marazZTM",
+      "role": "USER",
+      "level": 21
+    },
+    "message": "SAURMENT GÜZEL BİRŞEY OLSUN",
+    "timestamp": "2026-05-02T19:16:36.438Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "b6ab3c30-bb0b-425a-84d3-395fb3cb9c56",
+      "shortId": "ROSF0J",
+      "name": "FOE_marazZTM",
+      "role": "USER",
+      "level": 21
+    },
+    "message": "nnasıl",
+    "timestamp": "2026-05-02T19:16:48.222Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "b6ab3c30-bb0b-425a-84d3-395fb3cb9c56",
+      "shortId": "ROSF0J",
+      "name": "FOE_marazZTM",
+      "role": "USER",
+      "level": 21
+    },
+    "message": "alıyım",
+    "timestamp": "2026-05-02T19:16:49.529Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "b6ab3c30-bb0b-425a-84d3-395fb3cb9c56",
+      "shortId": "ROSF0J",
+      "name": "FOE_marazZTM",
+      "role": "USER",
+      "level": 21
+    },
+    "message": "Nasıl alıyım",
+    "timestamp": "2026-05-02T19:16:56.492Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "b6ab3c30-bb0b-425a-84d3-395fb3cb9c56",
+      "shortId": "ROSF0J",
+      "name": "FOE_marazZTM",
+      "role": "USER",
+      "level": 21
+    },
+    "message": "NASIL ALIYIM",
+    "timestamp": "2026-05-02T19:16:59.349Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "b6ab3c30-bb0b-425a-84d3-395fb3cb9c56",
+      "shortId": "ROSF0J",
+      "name": "FOE_marazZTM",
+      "role": "USER",
+      "level": 21
+    },
+    "message": "HAYIR YENİYİM",
+    "timestamp": "2026-05-02T19:17:06.268Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "b6ab3c30-bb0b-425a-84d3-395fb3cb9c56",
+      "shortId": "ROSF0J",
+      "name": "FOE_marazZTM",
+      "role": "USER",
+      "level": 21
+    },
+    "message": "TRADE YAPMAYI",
+    "timestamp": "2026-05-02T19:17:08.254Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "b6ab3c30-bb0b-425a-84d3-395fb3cb9c56",
+      "shortId": "ROSF0J",
+      "name": "FOE_marazZTM",
+      "role": "USER",
+      "level": 21
+    },
+    "message": "heee",
+    "timestamp": "2026-05-02T19:17:11.626Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "b6ab3c30-bb0b-425a-84d3-395fb3cb9c56",
+      "shortId": "ROSF0J",
+      "name": "FOE_marazZTM",
+      "role": "USER",
+      "level": 21
+    },
+    "message": "tekrar yap",
+    "timestamp": "2026-05-02T19:17:13.616Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "b6ab3c30-bb0b-425a-84d3-395fb3cb9c56",
+      "shortId": "ROSF0J",
+      "name": "FOE_marazZTM",
+      "role": "USER",
+      "level": 21
+    },
+    "message": "yap",
+    "timestamp": "2026-05-02T19:17:23.469Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "b6ab3c30-bb0b-425a-84d3-395fb3cb9c56",
+      "shortId": "ROSF0J",
+      "name": "FOE_marazZTM",
+      "role": "USER",
+      "level": 21
+    },
+    "message": "YİNE YAP KRA",
+    "timestamp": "2026-05-02T19:17:39.219Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "b6ab3c30-bb0b-425a-84d3-395fb3cb9c56",
+      "shortId": "ROSF0J",
+      "name": "FOE_marazZTM",
+      "role": "USER",
+      "level": 21
+    },
+    "message": "L",
+    "timestamp": "2026-05-02T19:17:40.756Z"
   }
 ]
