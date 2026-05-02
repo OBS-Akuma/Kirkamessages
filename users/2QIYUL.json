@@ -1606,5 +1606,41 @@
     },
     "message": "ye jeeta to ek teri",
     "timestamp": "2026-05-01T20:19:08.410Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "1ae21f3a-c5d5-4161-8718-75880e3d3cc8",
+      "shortId": "2QIYUL",
+      "name": "RAGEx",
+      "role": "USER",
+      "level": 41
+    },
+    "message": "/inv",
+    "timestamp": "2026-05-02T19:24:51.310Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "1ae21f3a-c5d5-4161-8718-75880e3d3cc8",
+      "shortId": "2QIYUL",
+      "name": "RAGEx",
+      "role": "USER",
+      "level": 41
+    },
+    "message": "/mywager",
+    "timestamp": "2026-05-02T19:25:03.664Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "1ae21f3a-c5d5-4161-8718-75880e3d3cc8",
+      "shortId": "2QIYUL",
+      "name": "RAGEx",
+      "role": "USER",
+      "level": 41
+    },
+    "message": "g",
+    "timestamp": "2026-05-02T19:25:05.146Z"
   }
 ]
