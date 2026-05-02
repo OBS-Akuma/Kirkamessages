@@ -1,0 +1,38 @@
+[
+  {
+    "type": 2,
+    "user": {
+      "id": "830fe4c0-52ac-4cfd-b6c8-23978d88c95d",
+      "shortId": "BIUD6A",
+      "name": "gamer.pro",
+      "role": "USER",
+      "level": 51
+    },
+    "message": "/inv #PK727F",
+    "timestamp": "2026-05-02T19:27:01.757Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "830fe4c0-52ac-4cfd-b6c8-23978d88c95d",
+      "shortId": "BIUD6A",
+      "name": "gamer.pro",
+      "role": "USER",
+      "level": 51
+    },
+    "message": "/inv #2QIYUL",
+    "timestamp": "2026-05-02T19:27:20.316Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "830fe4c0-52ac-4cfd-b6c8-23978d88c95d",
+      "shortId": "BIUD6A",
+      "name": "gamer.pro",
+      "role": "USER",
+      "level": 51
+    },
+    "message": "haisam",
+    "timestamp": "2026-05-02T19:27:30.147Z"
+  }
+]
