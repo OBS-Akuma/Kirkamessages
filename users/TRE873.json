@@ -478,5 +478,17 @@
     },
     "message": "Me CASH?",
     "timestamp": "2026-05-01T20:15:47.751Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "5d544b9e-5ca6-4638-b3a2-0318522e29af",
+      "shortId": "TRE873",
+      "name": "QWERTY",
+      "role": "USER",
+      "level": 66
+    },
+    "message": "Cant focus as I'm playing pubg too haha",
+    "timestamp": "2026-05-02T19:06:05.280Z"
   }
 ]
