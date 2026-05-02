@@ -46,5 +46,41 @@
     },
     "message": "hmm",
     "timestamp": "2026-05-01T20:16:21.938Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "e7ca017c-557f-4b21-96eb-3ec2a9a728ab",
+      "shortId": "8SQMAK",
+      "name": "NguyenDat.top1",
+      "role": "USER",
+      "level": 51
+    },
+    "message": "/mybolt TIDE",
+    "timestamp": "2026-05-01T20:17:59.172Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "e7ca017c-557f-4b21-96eb-3ec2a9a728ab",
+      "shortId": "8SQMAK",
+      "name": "NguyenDat.top1",
+      "role": "USER",
+      "level": 51
+    },
+    "message": "/[Tide|SCAR|WEAPON_SKIN|LEGENDARY]",
+    "timestamp": "2026-05-01T20:19:09.681Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "e7ca017c-557f-4b21-96eb-3ec2a9a728ab",
+      "shortId": "8SQMAK",
+      "name": "NguyenDat.top1",
+      "role": "USER",
+      "level": 51
+    },
+    "message": "#8SQMAK",
+    "timestamp": "2026-05-02T19:13:09.640Z"
   }
 ]
