@@ -8,7 +8,7 @@
       "role": "USER",
       "level": 36
     },
-    "message": "ÃÂÃÂ°ÃÂÃÂim var hadi",
+    "message": "ÃÂÃÂÃÂÃÂ°ÃÂÃÂÃÂÃÂim var hadi",
     "timestamp": "2026-05-02T19:05:55.070Z"
   },
   {
@@ -68,7 +68,7 @@
       "role": "USER",
       "level": 36
     },
-    "message": "Tamam knk ben sana inferno vercem kabul mÃÂ¼",
+    "message": "Tamam knk ben sana inferno vercem kabul mÃÂÃÂ¼",
     "timestamp": "2026-05-02T19:14:35.495Z"
   },
   {
@@ -164,7 +164,7 @@
       "role": "USER",
       "level": 36
     },
-    "message": "Bak bÃ¶yle yaz",
+    "message": "Bak bÃÂ¶yle yaz",
     "timestamp": "2026-05-02T19:17:15.539Z"
   },
   {
@@ -176,7 +176,7 @@
       "role": "USER",
       "level": 36
     },
-    "message": "trade accept yazÄ±p numarayÄ± gir",
+    "message": "trade accept yazÃÂ±p numarayÃÂ± gir",
     "timestamp": "2026-05-02T19:17:32.292Z"
   },
   {
@@ -200,7 +200,7 @@
       "role": "USER",
       "level": 36
     },
-    "message": "Adam sana veriyo iÅte alsana onuu",
+    "message": "Adam sana veriyo iÃÂte alsana onuu",
     "timestamp": "2026-05-02T19:18:37.762Z"
   },
   {
@@ -212,7 +212,7 @@
       "role": "USER",
       "level": 36
     },
-    "message": "Bak yeÅil turuncu olan",
+    "message": "Bak yeÃÂil turuncu olan",
     "timestamp": "2026-05-02T19:18:54.002Z"
   },
   {
@@ -224,7 +224,7 @@
       "role": "USER",
       "level": 36
     },
-    "message": "Knk bak senin hemen ÄstÃ¼nde",
+    "message": "Knk bak senin hemen ÃÂstÃÂ¼nde",
     "timestamp": "2026-05-02T19:19:22.349Z"
   },
   {
@@ -236,7 +236,7 @@
       "role": "USER",
       "level": 36
     },
-    "message": "YapÄ±yo iÅtee",
+    "message": "YapÃÂ±yo iÃÂtee",
     "timestamp": "2026-05-02T19:19:31.415Z"
   },
   {
@@ -310,5 +310,89 @@
     },
     "message": "/hm ivoire",
     "timestamp": "2026-05-02T19:21:03.568Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "060e0496-f3e7-4807-ad3a-5c4e789fd52a",
+      "shortId": "XBNTGY",
+      "name": "SaUrOnnT",
+      "role": "USER",
+      "level": 36
+    },
+    "message": "But pls 🥺",
+    "timestamp": "2026-05-02T19:21:31.445Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "060e0496-f3e7-4807-ad3a-5c4e789fd52a",
+      "shortId": "XBNTGY",
+      "name": "SaUrOnnT",
+      "role": "USER",
+      "level": 36
+    },
+    "message": "[Doom||BODY_SKIN|LEGENDARY]",
+    "timestamp": "2026-05-02T19:21:56.723Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "060e0496-f3e7-4807-ad3a-5c4e789fd52a",
+      "shortId": "XBNTGY",
+      "name": "SaUrOnnT",
+      "role": "USER",
+      "level": 36
+    },
+    "message": "+doom",
+    "timestamp": "2026-05-02T19:22:02.179Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "060e0496-f3e7-4807-ad3a-5c4e789fd52a",
+      "shortId": "XBNTGY",
+      "name": "SaUrOnnT",
+      "role": "USER",
+      "level": 36
+    },
+    "message": "/hm doom",
+    "timestamp": "2026-05-02T19:22:10.343Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "060e0496-f3e7-4807-ad3a-5c4e789fd52a",
+      "shortId": "XBNTGY",
+      "name": "SaUrOnnT",
+      "role": "USER",
+      "level": 36
+    },
+    "message": "Pls you accept ok?",
+    "timestamp": "2026-05-02T19:22:43.271Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "060e0496-f3e7-4807-ad3a-5c4e789fd52a",
+      "shortId": "XBNTGY",
+      "name": "SaUrOnnT",
+      "role": "USER",
+      "level": 36
+    },
+    "message": "Karakter",
+    "timestamp": "2026-05-02T19:23:15.631Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "060e0496-f3e7-4807-ad3a-5c4e789fd52a",
+      "shortId": "XBNTGY",
+      "name": "SaUrOnnT",
+      "role": "USER",
+      "level": 36
+    },
+    "message": "/hm pumpreaper",
+    "timestamp": "2026-05-02T19:23:34.209Z"
   }
 ]
