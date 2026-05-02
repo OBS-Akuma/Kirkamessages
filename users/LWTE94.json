@@ -109,5 +109,41 @@
     },
     "message": "nn merci tkt",
     "timestamp": "2026-05-02T19:13:59.933Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "82e99c4e-d502-4a8a-aa7d-814fa0387633",
+      "shortId": "LWTE94",
+      "name": "WALF",
+      "role": "USER",
+      "level": 95
+    },
+    "message": "j'vais le trade + des adds pr [Lor||BODY_SKIN|LEGENDARY]",
+    "timestamp": "2026-05-02T19:14:11.405Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "82e99c4e-d502-4a8a-aa7d-814fa0387633",
+      "shortId": "LWTE94",
+      "name": "WALF",
+      "role": "USER",
+      "level": 95
+    },
+    "message": "Niflheim [Hideyoshi||BODY_SKIN|EPIC]+[Shinji||BODY_SKIN|MYTHICAL] for [Lor||BODY_SKIN|LEGENDARY]?",
+    "timestamp": "2026-05-02T19:14:56.437Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "82e99c4e-d502-4a8a-aa7d-814fa0387633",
+      "shortId": "LWTE94",
+      "name": "WALF",
+      "role": "USER",
+      "level": 95
+    },
+    "message": "or i can doNiflheim [Hideyoshi||BODY_SKIN|EPIC]+[Bloom||BODY_SKIN|MYTHICAL],[Rebel|Bayonet|WEAPON_SKIN|LEGENDARY] for [Lor||BODY_SKIN|LEGENDARY]?",
+    "timestamp": "2026-05-02T19:15:33.702Z"
   }
 ]
