@@ -1,0 +1,26 @@
+[
+  {
+    "type": 2,
+    "user": {
+      "id": "b6ab3c30-bb0b-425a-84d3-395fb3cb9c56",
+      "shortId": "ROSF0J",
+      "name": "FOE_marazZTM",
+      "role": "USER",
+      "level": 21
+    },
+    "message": "sourment [Golden||CHEST|LEGENDARY] 119 VAR",
+    "timestamp": "2026-05-02T19:13:04.510Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "b6ab3c30-bb0b-425a-84d3-395fb3cb9c56",
+      "shortId": "ROSF0J",
+      "name": "FOE_marazZTM",
+      "role": "USER",
+      "level": 21
+    },
+    "message": "tamam",
+    "timestamp": "2026-05-02T19:13:17.604Z"
+  }
+]
