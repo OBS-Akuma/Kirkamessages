@@ -574,5 +574,17 @@
     },
     "message": "[Onryo||BODY_SKIN|MYTHICAL]",
     "timestamp": "2026-05-02T19:21:32.985Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "10cc9aa1-cdbb-4880-b539-82906b95c8ab",
+      "shortId": "QPQ5MV",
+      "name": "BuffPigeon",
+      "role": "USER",
+      "level": 59
+    },
+    "message": "#XOJM7",
+    "timestamp": "2026-05-02T19:26:09.661Z"
   }
 ]
