@@ -118,5 +118,41 @@
     },
     "message": "lel",
     "timestamp": "2026-05-02T19:18:06.421Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "28b6bdbd-1cf5-4b35-8973-4df0d612badd",
+      "shortId": "N5TXAC",
+      "name": "3NO_ONE",
+      "role": "USER",
+      "level": 73
+    },
+    "message": "/confirmwager",
+    "timestamp": "2026-05-02T19:20:02.646Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "28b6bdbd-1cf5-4b35-8973-4df0d612badd",
+      "shortId": "N5TXAC",
+      "name": "3NO_ONE",
+      "role": "USER",
+      "level": 73
+    },
+    "message": "gl",
+    "timestamp": "2026-05-02T19:20:25.279Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "28b6bdbd-1cf5-4b35-8973-4df0d612badd",
+      "shortId": "N5TXAC",
+      "name": "3NO_ONE",
+      "role": "USER",
+      "level": 73
+    },
+    "message": "gg",
+    "timestamp": "2026-05-02T19:20:28.920Z"
   }
 ]
