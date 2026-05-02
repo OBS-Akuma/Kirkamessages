@@ -107,5 +107,29 @@
     },
     "message": "eh purpple",
     "timestamp": "2026-05-01T20:15:32.711Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "7f2a6090-abcb-48a7-8838-88ee8111b261",
+      "shortId": "NUGGET",
+      "name": "Akumaware.xyz",
+      "role": "USER",
+      "level": 55
+    },
+    "message": "/hm [Gold|VITA|WEAPON_SKIN|LEGENDARY]",
+    "timestamp": "2026-05-01T20:27:02.932Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "7f2a6090-abcb-48a7-8838-88ee8111b261",
+      "shortId": "NUGGET",
+      "name": "Akumaware.xyz",
+      "role": "USER",
+      "level": 55
+    },
+    "message": "rawr",
+    "timestamp": "2026-05-02T19:13:54.050Z"
   }
 ]
