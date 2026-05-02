@@ -130,5 +130,53 @@
     },
     "message": "/wager [Golden||CHEST|LEGENDARY] #N5TXAC",
     "timestamp": "2026-05-02T19:17:13.162Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "fqEtaXQccqect4TrlfgeAzWrDg72",
+      "shortId": "IQT1IO",
+      "name": "dark",
+      "role": "USER",
+      "level": 20
+    },
+    "message": ".",
+    "timestamp": "2026-05-02T19:19:25.391Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "fqEtaXQccqect4TrlfgeAzWrDg72",
+      "shortId": "IQT1IO",
+      "name": "dark",
+      "role": "USER",
+      "level": 20
+    },
+    "message": "wager [Golden||CHEST|LEGENDARY] #N5TXAC",
+    "timestamp": "2026-05-02T19:19:34.081Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "fqEtaXQccqect4TrlfgeAzWrDg72",
+      "shortId": "IQT1IO",
+      "name": "dark",
+      "role": "USER",
+      "level": 20
+    },
+    "message": "fuh",
+    "timestamp": "2026-05-02T19:19:40.486Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "fqEtaXQccqect4TrlfgeAzWrDg72",
+      "shortId": "IQT1IO",
+      "name": "dark",
+      "role": "USER",
+      "level": 20
+    },
+    "message": "/wager [Golden||CHEST|LEGENDARY] #N5TXAC",
+    "timestamp": "2026-05-02T19:19:50.156Z"
   }
 ]
