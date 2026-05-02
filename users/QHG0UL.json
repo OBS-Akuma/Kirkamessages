@@ -22,5 +22,17 @@
     },
     "message": "trading [Jade|Bayonet|WEAPON_SKIN|MYTHICAL] and [2024|Bayonet|WEAPON_SKIN|MYTHICAL]",
     "timestamp": "2026-05-02T19:23:12.480Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "LvZ3s7PpbvTithiWmkSLtHj14Sq1",
+      "shortId": "QHG0UL",
+      "name": "INDONESIAN",
+      "role": "USER",
+      "level": 13
+    },
+    "message": "/inv",
+    "timestamp": "2026-05-02T19:23:37.216Z"
   }
 ]
