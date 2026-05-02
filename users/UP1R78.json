@@ -934,5 +934,41 @@
     },
     "message": "lets trade",
     "timestamp": "2026-05-01T20:15:58.893Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "4b3c9e26-0516-4634-99f9-ea8361ccd6d8",
+      "shortId": "UP1R78",
+      "name": "CASH",
+      "role": "USER",
+      "level": 79
+    },
+    "message": "Larp do smthng else plz",
+    "timestamp": "2026-05-01T20:27:02.721Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "4b3c9e26-0516-4634-99f9-ea8361ccd6d8",
+      "shortId": "UP1R78",
+      "name": "CASH",
+      "role": "USER",
+      "level": 79
+    },
+    "message": "/price clownabeth",
+    "timestamp": "2026-05-01T20:27:09.549Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "4b3c9e26-0516-4634-99f9-ea8361ccd6d8",
+      "shortId": "UP1R78",
+      "name": "CASH",
+      "role": "USER",
+      "level": 79
+    },
+    "message": "CHarachters or knives",
+    "timestamp": "2026-05-01T20:27:16.259Z"
   }
 ]
