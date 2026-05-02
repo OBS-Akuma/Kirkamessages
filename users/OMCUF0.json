@@ -22,5 +22,53 @@
     },
     "message": "tr[Chunkbug||BODY_SKIN|MYTHICAL][Cloud||BODY_SKIN|MYTHICAL][Frau||BODY_SKIN|MYTHICAL][Hot Rod|Bayonet|WEAPON_SKIN|MYTHICAL][Borg||BODY_SKIN|MYTHICAL][Slasher||BODY_SKIN|PARANORMAL][Blessed||BODY_SKIN|MYTHICAL][Vionix||BODY_SKIN|MYTHICAL][Rose||BODY_SKIN|MYTHICAL]",
     "timestamp": "2026-05-02T19:16:18.536Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "c2f1630a-cceb-442f-9053-3a277f47f5ca",
+      "shortId": "OMCUF0",
+      "name": "Manna",
+      "role": "USER",
+      "level": 99
+    },
+    "message": "/price noble",
+    "timestamp": "2026-05-02T19:28:50.224Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "c2f1630a-cceb-442f-9053-3a277f47f5ca",
+      "shortId": "OMCUF0",
+      "name": "Manna",
+      "role": "USER",
+      "level": 99
+    },
+    "message": "/price void",
+    "timestamp": "2026-05-02T19:28:58.708Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "c2f1630a-cceb-442f-9053-3a277f47f5ca",
+      "shortId": "OMCUF0",
+      "name": "Manna",
+      "role": "USER",
+      "level": 99
+    },
+    "message": "/price v0id",
+    "timestamp": "2026-05-02T19:29:06.822Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "c2f1630a-cceb-442f-9053-3a277f47f5ca",
+      "shortId": "OMCUF0",
+      "name": "Manna",
+      "role": "USER",
+      "level": 99
+    },
+    "message": "/price [phantom",
+    "timestamp": "2026-05-02T19:29:19.511Z"
   }
 ]
