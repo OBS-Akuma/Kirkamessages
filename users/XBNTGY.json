@@ -8,7 +8,7 @@
       "role": "USER",
       "level": 36
     },
-    "message": "ÃÂ°ÃÂim var hadi",
+    "message": "ÃÂÃÂ°ÃÂÃÂim var hadi",
     "timestamp": "2026-05-02T19:05:55.070Z"
   },
   {
@@ -68,7 +68,7 @@
       "role": "USER",
       "level": 36
     },
-    "message": "Tamam knk ben sana inferno vercem kabul mÃ¼",
+    "message": "Tamam knk ben sana inferno vercem kabul mÃÂ¼",
     "timestamp": "2026-05-02T19:14:35.495Z"
   },
   {
@@ -164,7 +164,7 @@
       "role": "USER",
       "level": 36
     },
-    "message": "Bak böyle yaz",
+    "message": "Bak bÃ¶yle yaz",
     "timestamp": "2026-05-02T19:17:15.539Z"
   },
   {
@@ -176,7 +176,7 @@
       "role": "USER",
       "level": 36
     },
-    "message": "trade accept yazıp numarayı gir",
+    "message": "trade accept yazÄ±p numarayÄ± gir",
     "timestamp": "2026-05-02T19:17:32.292Z"
   },
   {
@@ -200,7 +200,7 @@
       "role": "USER",
       "level": 36
     },
-    "message": "Adam sana veriyo işte alsana onuu",
+    "message": "Adam sana veriyo iÅte alsana onuu",
     "timestamp": "2026-05-02T19:18:37.762Z"
   },
   {
@@ -212,7 +212,7 @@
       "role": "USER",
       "level": 36
     },
-    "message": "Bak yeşil turuncu olan",
+    "message": "Bak yeÅil turuncu olan",
     "timestamp": "2026-05-02T19:18:54.002Z"
   },
   {
@@ -224,7 +224,7 @@
       "role": "USER",
       "level": 36
     },
-    "message": "Knk bak senin hemen ğstünde",
+    "message": "Knk bak senin hemen ÄstÃ¼nde",
     "timestamp": "2026-05-02T19:19:22.349Z"
   },
   {
@@ -236,7 +236,79 @@
       "role": "USER",
       "level": 36
     },
-    "message": "Yapıyo iştee",
+    "message": "YapÄ±yo iÅtee",
     "timestamp": "2026-05-02T19:19:31.415Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "060e0496-f3e7-4807-ad3a-5c4e789fd52a",
+      "shortId": "XBNTGY",
+      "name": "SaUrOnnT",
+      "role": "USER",
+      "level": 36
+    },
+    "message": "Maybe later bro",
+    "timestamp": "2026-05-02T19:19:39.514Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "060e0496-f3e7-4807-ad3a-5c4e789fd52a",
+      "shortId": "XBNTGY",
+      "name": "SaUrOnnT",
+      "role": "USER",
+      "level": 36
+    },
+    "message": "No no waittt",
+    "timestamp": "2026-05-02T19:19:45.154Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "060e0496-f3e7-4807-ad3a-5c4e789fd52a",
+      "shortId": "XBNTGY",
+      "name": "SaUrOnnT",
+      "role": "USER",
+      "level": 36
+    },
+    "message": "Would you like [Ivoire|Revolver|WEAPON_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-02T19:20:04.694Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "060e0496-f3e7-4807-ad3a-5c4e789fd52a",
+      "shortId": "XBNTGY",
+      "name": "SaUrOnnT",
+      "role": "USER",
+      "level": 36
+    },
+    "message": "PLS",
+    "timestamp": "2026-05-02T19:20:12.156Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "060e0496-f3e7-4807-ad3a-5c4e789fd52a",
+      "shortId": "XBNTGY",
+      "name": "SaUrOnnT",
+      "role": "USER",
+      "level": 36
+    },
+    "message": "Bro come on ple :/",
+    "timestamp": "2026-05-02T19:20:41.549Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "060e0496-f3e7-4807-ad3a-5c4e789fd52a",
+      "shortId": "XBNTGY",
+      "name": "SaUrOnnT",
+      "role": "USER",
+      "level": 36
+    },
+    "message": "/hm ivoire",
+    "timestamp": "2026-05-02T19:21:03.568Z"
   }
 ]
