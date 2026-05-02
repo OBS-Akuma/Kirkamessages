@@ -130,5 +130,29 @@
     },
     "message": "onle ?",
     "timestamp": "2026-05-02T19:19:36.721Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "941e8007-d173-4d61-a5fe-959f990ab350",
+      "shortId": "EJV5Z9",
+      "name": "M99z",
+      "role": "USER",
+      "level": 99
+    },
+    "message": "[Santa Claus||BODY_SKIN|LEGENDARY] for [Polka||BODY_SKIN|MYTHICAL],[Noble|VITA|WEAPON_SKIN|LEGENDARY]",
+    "timestamp": "2026-05-02T19:21:20.079Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "941e8007-d173-4d61-a5fe-959f990ab350",
+      "shortId": "EJV5Z9",
+      "name": "M99z",
+      "role": "USER",
+      "level": 99
+    },
+    "message": "??",
+    "timestamp": "2026-05-02T19:21:21.974Z"
   }
 ]
