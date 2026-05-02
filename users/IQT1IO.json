@@ -178,5 +178,29 @@
     },
     "message": "/wager [Golden||CHEST|LEGENDARY] #N5TXAC",
     "timestamp": "2026-05-02T19:19:50.156Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "fqEtaXQccqect4TrlfgeAzWrDg72",
+      "shortId": "IQT1IO",
+      "name": "dark",
+      "role": "USER",
+      "level": 20
+    },
+    "message": "/inv",
+    "timestamp": "2026-05-02T19:27:16.480Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "fqEtaXQccqect4TrlfgeAzWrDg72",
+      "shortId": "IQT1IO",
+      "name": "dark",
+      "role": "USER",
+      "level": 20
+    },
+    "message": "/wager [Golden||CHEST|LEGENDARY] #N5TXAC",
+    "timestamp": "2026-05-02T19:27:30.456Z"
   }
 ]
