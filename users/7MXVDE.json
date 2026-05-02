@@ -80,7 +80,7 @@
       "role": "USER",
       "level": 96
     },
-    "message": "La mm pr employed, avec un peu plus de demande, puisqu’il a ete retire",
+    "message": "La mm pr employed, avec un peu plus de demande, puisquâil a ete retire",
     "timestamp": "2026-05-02T19:13:31.443Z"
   },
   {
@@ -130,5 +130,29 @@
     },
     "message": "Yo omar",
     "timestamp": "2026-05-02T19:14:39.509Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "a38b5259-2bd8-407e-a469-d57f47241889",
+      "shortId": "7MXVDE",
+      "name": "Psykro",
+      "role": "USER",
+      "level": 96
+    },
+    "message": "Bck",
+    "timestamp": "2026-05-02T19:16:41.008Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "a38b5259-2bd8-407e-a469-d57f47241889",
+      "shortId": "7MXVDE",
+      "name": "Psykro",
+      "role": "USER",
+      "level": 96
+    },
+    "message": "Dark u got it?",
+    "timestamp": "2026-05-02T19:16:57.166Z"
   }
 ]
