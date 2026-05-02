@@ -68,7 +68,7 @@
       "role": "USER",
       "level": 21
     },
-    "message": "etiketle bakÃÂ±yÃÂ±m",
+    "message": "etiketle bakÃÂÃÂ±yÃÂÃÂ±m",
     "timestamp": "2026-05-02T19:14:44.258Z"
   },
   {
@@ -116,7 +116,7 @@
       "role": "USER",
       "level": 21
     },
-    "message": "GÃÂ°YSÃÂ° LAZIM",
+    "message": "GÃÂÃÂ°YSÃÂÃÂ° LAZIM",
     "timestamp": "2026-05-02T19:15:30.909Z"
   },
   {
@@ -128,7 +128,7 @@
       "role": "USER",
       "level": 21
     },
-    "message": "GÃÂ°YSÃÂ° VER",
+    "message": "GÃÂÃÂ°YSÃÂÃÂ° VER",
     "timestamp": "2026-05-02T19:15:32.412Z"
   },
   {
@@ -140,7 +140,7 @@
       "role": "USER",
       "level": 21
     },
-    "message": "GÃÂZEL OLSUN",
+    "message": "GÃÂÃÂZEL OLSUN",
     "timestamp": "2026-05-02T19:15:45.464Z"
   },
   {
@@ -152,7 +152,7 @@
       "role": "USER",
       "level": 21
     },
-    "message": "YOk baÃÂka",
+    "message": "YOk baÃÂÃÂka",
     "timestamp": "2026-05-02T19:16:02.343Z"
   },
   {
@@ -200,7 +200,7 @@
       "role": "USER",
       "level": 21
     },
-    "message": "SAURMENT GÃZEL BÄ°RÅEY OLSUN",
+    "message": "SAURMENT GÃÂZEL BÃÂ°RÃÂEY OLSUN",
     "timestamp": "2026-05-02T19:16:36.438Z"
   },
   {
@@ -212,7 +212,7 @@
       "role": "USER",
       "level": 21
     },
-    "message": "nnasÄ±l",
+    "message": "nnasÃÂ±l",
     "timestamp": "2026-05-02T19:16:48.222Z"
   },
   {
@@ -224,7 +224,7 @@
       "role": "USER",
       "level": 21
     },
-    "message": "alÄ±yÄ±m",
+    "message": "alÃÂ±yÃÂ±m",
     "timestamp": "2026-05-02T19:16:49.529Z"
   },
   {
@@ -236,7 +236,7 @@
       "role": "USER",
       "level": 21
     },
-    "message": "NasÄ±l alÄ±yÄ±m",
+    "message": "NasÃÂ±l alÃÂ±yÃÂ±m",
     "timestamp": "2026-05-02T19:16:56.492Z"
   },
   {
@@ -260,7 +260,7 @@
       "role": "USER",
       "level": 21
     },
-    "message": "HAYIR YENÄ°YÄ°M",
+    "message": "HAYIR YENÃÂ°YÃÂ°M",
     "timestamp": "2026-05-02T19:17:06.268Z"
   },
   {
@@ -320,7 +320,7 @@
       "role": "USER",
       "level": 21
     },
-    "message": "YÄ°NE YAP KRA",
+    "message": "YÃÂ°NE YAP KRA",
     "timestamp": "2026-05-02T19:17:39.219Z"
   },
   {
@@ -368,7 +368,7 @@
       "role": "USER",
       "level": 21
     },
-    "message": "gönder tekrar",
+    "message": "gÃ¶nder tekrar",
     "timestamp": "2026-05-02T19:18:04.512Z"
   },
   {
@@ -380,7 +380,7 @@
       "role": "USER",
       "level": 21
     },
-    "message": "SOURMENT ADAM GİBİ YOKMU BİRŞEYİN",
+    "message": "SOURMENT ADAM GÄ°BÄ° YOKMU BÄ°RÅEYÄ°N",
     "timestamp": "2026-05-02T19:18:16.880Z"
   },
   {
@@ -454,5 +454,125 @@
     },
     "message": "SYPEZ TEKRAR YAP",
     "timestamp": "2026-05-02T19:19:19.723Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "b6ab3c30-bb0b-425a-84d3-395fb3cb9c56",
+      "shortId": "ROSF0J",
+      "name": "FOE_marazZTM",
+      "role": "USER",
+      "level": 21
+    },
+    "message": "hanii",
+    "timestamp": "2026-05-02T19:19:37.182Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "b6ab3c30-bb0b-425a-84d3-395fb3cb9c56",
+      "shortId": "ROSF0J",
+      "name": "FOE_marazZTM",
+      "role": "USER",
+      "level": 21
+    },
+    "message": "SypeZ",
+    "timestamp": "2026-05-02T19:20:25.379Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "b6ab3c30-bb0b-425a-84d3-395fb3cb9c56",
+      "shortId": "ROSF0J",
+      "name": "FOE_marazZTM",
+      "role": "USER",
+      "level": 21
+    },
+    "message": "SYPEZ bidaha atarmısın",
+    "timestamp": "2026-05-02T19:20:30.517Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "b6ab3c30-bb0b-425a-84d3-395fb3cb9c56",
+      "shortId": "ROSF0J",
+      "name": "FOE_marazZTM",
+      "role": "USER",
+      "level": 21
+    },
+    "message": "SypeZ bidaha yapsana",
+    "timestamp": "2026-05-02T19:20:37.630Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "b6ab3c30-bb0b-425a-84d3-395fb3cb9c56",
+      "shortId": "ROSF0J",
+      "name": "FOE_marazZTM",
+      "role": "USER",
+      "level": 21
+    },
+    "message": "SYPEZZZZZ BİDEFADA YAPPPPPPPPPPPP",
+    "timestamp": "2026-05-02T19:20:52.220Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "b6ab3c30-bb0b-425a-84d3-395fb3cb9c56",
+      "shortId": "ROSF0J",
+      "name": "FOE_marazZTM",
+      "role": "USER",
+      "level": 21
+    },
+    "message": "SPEZZZ",
+    "timestamp": "2026-05-02T19:21:14.797Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "b6ab3c30-bb0b-425a-84d3-395fb3cb9c56",
+      "shortId": "ROSF0J",
+      "name": "FOE_marazZTM",
+      "role": "USER",
+      "level": 21
+    },
+    "message": "SYPEZZ ALOO",
+    "timestamp": "2026-05-02T19:21:17.394Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "b6ab3c30-bb0b-425a-84d3-395fb3cb9c56",
+      "shortId": "ROSF0J",
+      "name": "FOE_marazZTM",
+      "role": "USER",
+      "level": 21
+    },
+    "message": "SYPEZZZZZZZZZZZZZ TEKRAR YAPARMISINNN",
+    "timestamp": "2026-05-02T19:21:23.768Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "b6ab3c30-bb0b-425a-84d3-395fb3cb9c56",
+      "shortId": "ROSF0J",
+      "name": "FOE_marazZTM",
+      "role": "USER",
+      "level": 21
+    },
+    "message": "BİRŞEYİM YOKK TEKRAR YAPARMISINNNN YSPEZZW",
+    "timestamp": "2026-05-02T19:21:35.605Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "b6ab3c30-bb0b-425a-84d3-395fb3cb9c56",
+      "shortId": "ROSF0J",
+      "name": "FOE_marazZTM",
+      "role": "USER",
+      "level": 21
+    },
+    "message": "SypezW tekrar yapppppppppppppppp",
+    "timestamp": "2026-05-02T19:21:41.950Z"
   }
 ]
