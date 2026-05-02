@@ -8,7 +8,7 @@
       "role": "USER",
       "level": 36
     },
-    "message": "İşim var hadi",
+    "message": "Ä°Åim var hadi",
     "timestamp": "2026-05-02T19:05:55.070Z"
   },
   {
@@ -46,5 +46,53 @@
     },
     "message": "/hm landa",
     "timestamp": "2026-05-02T19:14:06.862Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "060e0496-f3e7-4807-ad3a-5c4e789fd52a",
+      "shortId": "XBNTGY",
+      "name": "SaUrOnnT",
+      "role": "USER",
+      "level": 36
+    },
+    "message": "/hm ivoire",
+    "timestamp": "2026-05-02T19:14:18.803Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "060e0496-f3e7-4807-ad3a-5c4e789fd52a",
+      "shortId": "XBNTGY",
+      "name": "SaUrOnnT",
+      "role": "USER",
+      "level": 36
+    },
+    "message": "Tamam knk ben sana inferno vercem kabul mü",
+    "timestamp": "2026-05-02T19:14:35.495Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "060e0496-f3e7-4807-ad3a-5c4e789fd52a",
+      "shortId": "XBNTGY",
+      "name": "SaUrOnnT",
+      "role": "USER",
+      "level": 36
+    },
+    "message": "[INFERNO]",
+    "timestamp": "2026-05-02T19:14:46.237Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "060e0496-f3e7-4807-ad3a-5c4e789fd52a",
+      "shortId": "XBNTGY",
+      "name": "SaUrOnnT",
+      "role": "USER",
+      "level": 36
+    },
+    "message": "Dur bekle",
+    "timestamp": "2026-05-02T19:14:52.287Z"
   }
 ]
