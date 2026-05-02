@@ -44,7 +44,7 @@
       "role": "USER",
       "level": 85
     },
-    "message": "maraz attÄ±gÄ±mÄ± al",
+    "message": "maraz attÃÂ±gÃÂ±mÃÂ± al",
     "timestamp": "2026-05-02T19:16:42.206Z"
   },
   {
@@ -68,7 +68,7 @@
       "role": "USER",
       "level": 85
     },
-    "message": "trade accept yapÄ±can",
+    "message": "trade accept yapÃÂ±can",
     "timestamp": "2026-05-02T19:17:06.901Z"
   },
   {
@@ -80,7 +80,7 @@
       "role": "USER",
       "level": 85
     },
-    "message": "olum aklsız mısın sen",
+    "message": "olum aklsÄ±z mÄ±sÄ±n sen",
     "timestamp": "2026-05-02T19:18:24.767Z"
   },
   {
@@ -92,7 +92,7 @@
       "role": "USER",
       "level": 85
     },
-    "message": "lan yaptım mı",
+    "message": "lan yaptÄ±m mÄ±",
     "timestamp": "2026-05-02T19:18:49.317Z"
   },
   {
@@ -142,5 +142,89 @@
     },
     "message": "yhh",
     "timestamp": "2026-05-02T19:19:28.587Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "5uCRreOOCTZJcqd2fBv9KpOCCNp1",
+      "shortId": "UOIVQP",
+      "name": "SypzeW",
+      "role": "USER",
+      "level": 85
+    },
+    "message": "im not gon trade rn but yh go for it",
+    "timestamp": "2026-05-02T19:19:48.013Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "5uCRreOOCTZJcqd2fBv9KpOCCNp1",
+      "shortId": "UOIVQP",
+      "name": "SypzeW",
+      "role": "USER",
+      "level": 85
+    },
+    "message": "i'll consider it bro",
+    "timestamp": "2026-05-02T19:20:30.500Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "5uCRreOOCTZJcqd2fBv9KpOCCNp1",
+      "shortId": "UOIVQP",
+      "name": "SypzeW",
+      "role": "USER",
+      "level": 85
+    },
+    "message": "btw psy",
+    "timestamp": "2026-05-02T19:20:41.968Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "5uCRreOOCTZJcqd2fBv9KpOCCNp1",
+      "shortId": "UOIVQP",
+      "name": "SypzeW",
+      "role": "USER",
+      "level": 85
+    },
+    "message": "he want's retrade xd",
+    "timestamp": "2026-05-02T19:20:47.539Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "5uCRreOOCTZJcqd2fBv9KpOCCNp1",
+      "shortId": "UOIVQP",
+      "name": "SypzeW",
+      "role": "USER",
+      "level": 85
+    },
+    "message": "i did not accept that btw",
+    "timestamp": "2026-05-02T19:20:56.612Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "5uCRreOOCTZJcqd2fBv9KpOCCNp1",
+      "shortId": "UOIVQP",
+      "name": "SypzeW",
+      "role": "USER",
+      "level": 85
+    },
+    "message": "cuz he want's me to maze and i did",
+    "timestamp": "2026-05-02T19:21:22.424Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "5uCRreOOCTZJcqd2fBv9KpOCCNp1",
+      "shortId": "UOIVQP",
+      "name": "SypzeW",
+      "role": "USER",
+      "level": 85
+    },
+    "message": "so idc",
+    "timestamp": "2026-05-02T19:21:28.065Z"
   }
 ]
