@@ -22,5 +22,17 @@
     },
     "message": "accept",
     "timestamp": "2026-05-02T19:06:03.779Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "1506ca56-8113-4b49-9cf7-0bd55a7ba4f7",
+      "shortId": "UBG0HY",
+      "name": "PRO9|Revox",
+      "role": "USER",
+      "level": 94
+    },
+    "message": "#RABBIT",
+    "timestamp": "2026-05-02T19:33:33.208Z"
   }
 ]
