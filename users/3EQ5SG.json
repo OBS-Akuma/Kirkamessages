@@ -1,0 +1,26 @@
+[
+  {
+    "type": 2,
+    "user": {
+      "id": "guest-024e038b-5afd-4d5f-9849-001a6e7333af",
+      "shortId": "3EQ5SG",
+      "name": "waledlenul",
+      "role": "USER",
+      "level": 59
+    },
+    "message": "for how much?",
+    "timestamp": "2026-05-02T19:32:21.188Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "guest-024e038b-5afd-4d5f-9849-001a6e7333af",
+      "shortId": "3EQ5SG",
+      "name": "waledlenul",
+      "role": "USER",
+      "level": 59
+    },
+    "message": "#XCPGMF",
+    "timestamp": "2026-05-02T19:32:25.063Z"
+  }
+]
