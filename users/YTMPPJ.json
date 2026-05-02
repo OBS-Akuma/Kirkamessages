@@ -46,5 +46,29 @@
     },
     "message": "/raffle <entr437C",
     "timestamp": "2026-05-02T19:28:54.522Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "db44ee19-ff33-46f9-95f8-944df904198d",
+      "shortId": "YTMPPJ",
+      "name": "Him.",
+      "role": "USER",
+      "level": 43
+    },
+    "message": "/claim",
+    "timestamp": "2026-05-02T19:30:05.694Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "db44ee19-ff33-46f9-95f8-944df904198d",
+      "shortId": "YTMPPJ",
+      "name": "Him.",
+      "role": "USER",
+      "level": 43
+    },
+    "message": "/claim F42B",
+    "timestamp": "2026-05-02T19:30:37.676Z"
   }
 ]
