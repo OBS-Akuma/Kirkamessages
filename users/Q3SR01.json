@@ -1,0 +1,26 @@
+[
+  {
+    "type": 2,
+    "user": {
+      "id": "d86a8b05-d775-44e3-a927-d3c633b5dd5d",
+      "shortId": "Q3SR01",
+      "name": "Newbie",
+      "role": "USER",
+      "level": 29
+    },
+    "message": "no",
+    "timestamp": "2026-05-03T03:51:22.032Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "d86a8b05-d775-44e3-a927-d3c633b5dd5d",
+      "shortId": "Q3SR01",
+      "name": "Newbie",
+      "role": "USER",
+      "level": 29
+    },
+    "message": "?",
+    "timestamp": "2026-05-03T03:51:35.108Z"
+  }
+]
