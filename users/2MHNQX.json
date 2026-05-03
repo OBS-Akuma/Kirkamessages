@@ -46,5 +46,53 @@
     },
     "message": "lf [Vapor|Bayonet|WEAPON_SKIN|LEGENDARY] :)",
     "timestamp": "2026-05-03T15:53:04.792Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "1c9cf342-5e36-47ce-86d7-096f4170995e",
+      "shortId": "2MHNQX",
+      "name": "Midnight",
+      "role": "USER",
+      "level": 101
+    },
+    "message": "#1AYAXI what request???",
+    "timestamp": "2026-05-03T15:53:27.286Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "1c9cf342-5e36-47ce-86d7-096f4170995e",
+      "shortId": "2MHNQX",
+      "name": "Midnight",
+      "role": "USER",
+      "level": 101
+    },
+    "message": "WHAT REQUEST?!?!?!??!!?",
+    "timestamp": "2026-05-03T15:53:55.525Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "1c9cf342-5e36-47ce-86d7-096f4170995e",
+      "shortId": "2MHNQX",
+      "name": "Midnight",
+      "role": "USER",
+      "level": 101
+    },
+    "message": "oh",
+    "timestamp": "2026-05-03T15:53:59.519Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "1c9cf342-5e36-47ce-86d7-096f4170995e",
+      "shortId": "2MHNQX",
+      "name": "Midnight",
+      "role": "USER",
+      "level": 101
+    },
+    "message": "it just came in",
+    "timestamp": "2026-05-03T15:54:02.124Z"
   }
 ]
