@@ -10,5 +10,17 @@
     },
     "message": "Nift bloom offer good",
     "timestamp": "2026-05-03T03:36:26.407Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "nMIphnUUG0d0O6FFix2cU7iMda92",
+      "shortId": "H415SN",
+      "name": "VIRUS",
+      "role": "USER",
+      "level": 68
+    },
+    "message": "/inv #H6F4Y8",
+    "timestamp": "2026-05-03T03:40:12.180Z"
   }
 ]
