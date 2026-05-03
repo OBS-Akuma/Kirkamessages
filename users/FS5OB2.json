@@ -1,0 +1,62 @@
+[
+  {
+    "type": 2,
+    "user": {
+      "id": "8878a4dc-a282-4fc8-8434-587559c3ef63",
+      "shortId": "FS5OB2",
+      "name": "DAIKON0207",
+      "role": "USER",
+      "level": 51
+    },
+    "message": "/inv #WANTED",
+    "timestamp": "2026-05-03T03:30:45.113Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "8878a4dc-a282-4fc8-8434-587559c3ef63",
+      "shortId": "FS5OB2",
+      "name": "DAIKON0207",
+      "role": "USER",
+      "level": 51
+    },
+    "message": "wsp",
+    "timestamp": "2026-05-03T03:31:10.815Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "8878a4dc-a282-4fc8-8434-587559c3ef63",
+      "shortId": "FS5OB2",
+      "name": "DAIKON0207",
+      "role": "USER",
+      "level": 51
+    },
+    "message": "/price [Kod||BODY_SKIN|LEGENDARY]",
+    "timestamp": "2026-05-03T03:31:24.624Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "8878a4dc-a282-4fc8-8434-587559c3ef63",
+      "shortId": "FS5OB2",
+      "name": "DAIKON0207",
+      "role": "USER",
+      "level": 51
+    },
+    "message": "nah",
+    "timestamp": "2026-05-03T03:31:43.965Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "8878a4dc-a282-4fc8-8434-587559c3ef63",
+      "shortId": "FS5OB2",
+      "name": "DAIKON0207",
+      "role": "USER",
+      "level": 51
+    },
+    "message": "its not for trade",
+    "timestamp": "2026-05-03T03:31:51.032Z"
+  }
+]
