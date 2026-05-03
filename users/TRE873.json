@@ -514,5 +514,17 @@
     },
     "message": "zodiac",
     "timestamp": "2026-05-02T19:35:11.568Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "5d544b9e-5ca6-4638-b3a2-0318522e29af",
+      "shortId": "TRE873",
+      "name": "QWERTY",
+      "role": "USER",
+      "level": 66
+    },
+    "message": "Pew wsp",
+    "timestamp": "2026-05-03T15:40:30.914Z"
   }
 ]
