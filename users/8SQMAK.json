@@ -82,5 +82,41 @@
     },
     "message": "#8SQMAK",
     "timestamp": "2026-05-02T19:13:09.640Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "e7ca017c-557f-4b21-96eb-3ec2a9a728ab",
+      "shortId": "8SQMAK",
+      "name": "NguyenDat.top1",
+      "role": "USER",
+      "level": 51
+    },
+    "message": "/hm tiburon",
+    "timestamp": "2026-05-03T15:42:06.129Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "e7ca017c-557f-4b21-96eb-3ec2a9a728ab",
+      "shortId": "8SQMAK",
+      "name": "NguyenDat.top1",
+      "role": "USER",
+      "level": 51
+    },
+    "message": "who have bok, angel, CV01",
+    "timestamp": "2026-05-03T15:42:55.156Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "e7ca017c-557f-4b21-96eb-3ec2a9a728ab",
+      "shortId": "8SQMAK",
+      "name": "NguyenDat.top1",
+      "role": "USER",
+      "level": 51
+    },
+    "message": "i want CV01",
+    "timestamp": "2026-05-03T15:44:29.895Z"
   }
 ]
