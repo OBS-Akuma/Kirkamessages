@@ -22,5 +22,41 @@
     },
     "message": "#XCPGMF",
     "timestamp": "2026-05-02T19:32:25.063Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "guest-024e038b-5afd-4d5f-9849-001a6e7333af",
+      "shortId": "3EQ5SG",
+      "name": "waledlenul",
+      "role": "USER",
+      "level": 59
+    },
+    "message": "/price [Engravement|Bayonet|WEAPON_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-02T19:35:23.748Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "guest-024e038b-5afd-4d5f-9849-001a6e7333af",
+      "shortId": "3EQ5SG",
+      "name": "waledlenul",
+      "role": "USER",
+      "level": 59
+    },
+    "message": "/price [Superjames||BODY_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-02T19:35:38.812Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "guest-024e038b-5afd-4d5f-9849-001a6e7333af",
+      "shortId": "3EQ5SG",
+      "name": "waledlenul",
+      "role": "USER",
+      "level": 59
+    },
+    "message": "/price [xrayjames]",
+    "timestamp": "2026-05-02T19:36:03.384Z"
   }
 ]
