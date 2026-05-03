@@ -1,0 +1,74 @@
+[
+  {
+    "type": 2,
+    "user": {
+      "id": "guest-22675094-2ca4-4df8-a48b-5bfdb58d62fe",
+      "shortId": "RWREPA",
+      "name": "Issnb",
+      "role": "USER",
+      "level": 7
+    },
+    "message": ".",
+    "timestamp": "2026-05-03T03:16:34.796Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "guest-22675094-2ca4-4df8-a48b-5bfdb58d62fe",
+      "shortId": "RWREPA",
+      "name": "Issnb",
+      "role": "USER",
+      "level": 7
+    },
+    "message": "/wager [Rainy||BODY_SKIN|MYTHICAL] #BG4WQX",
+    "timestamp": "2026-05-03T03:16:47.310Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "guest-22675094-2ca4-4df8-a48b-5bfdb58d62fe",
+      "shortId": "RWREPA",
+      "name": "Issnb",
+      "role": "USER",
+      "level": 7
+    },
+    "message": "#BG4WQX wager for me",
+    "timestamp": "2026-05-03T03:17:39.150Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "guest-22675094-2ca4-4df8-a48b-5bfdb58d62fe",
+      "shortId": "RWREPA",
+      "name": "Issnb",
+      "role": "USER",
+      "level": 7
+    },
+    "message": "/cancelwager",
+    "timestamp": "2026-05-03T03:18:26.047Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "guest-22675094-2ca4-4df8-a48b-5bfdb58d62fe",
+      "shortId": "RWREPA",
+      "name": "Issnb",
+      "role": "USER",
+      "level": 7
+    },
+    "message": "/wager [Rainy||BODY_SKIN|MYTHICAL] #BG4WQX",
+    "timestamp": "2026-05-03T03:18:39.719Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "guest-22675094-2ca4-4df8-a48b-5bfdb58d62fe",
+      "shortId": "RWREPA",
+      "name": "Issnb",
+      "role": "USER",
+      "level": 7
+    },
+    "message": "#BG4WQX do confirm wager",
+    "timestamp": "2026-05-03T03:19:07.086Z"
+  }
+]
