@@ -1,0 +1,38 @@
+[
+  {
+    "type": 2,
+    "user": {
+      "id": "878dfc67-a2f4-46d9-b837-58e311d701d3",
+      "shortId": "4CQDEK",
+      "name": "UrBoiBeetle",
+      "role": "USER",
+      "level": 97
+    },
+    "message": "/daunt",
+    "timestamp": "2026-05-03T15:36:33.785Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "878dfc67-a2f4-46d9-b837-58e311d701d3",
+      "shortId": "4CQDEK",
+      "name": "UrBoiBeetle",
+      "role": "USER",
+      "level": 97
+    },
+    "message": "/hm daunt",
+    "timestamp": "2026-05-03T15:36:37.695Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "878dfc67-a2f4-46d9-b837-58e311d701d3",
+      "shortId": "4CQDEK",
+      "name": "UrBoiBeetle",
+      "role": "USER",
+      "level": 97
+    },
+    "message": "/price daunt",
+    "timestamp": "2026-05-03T15:36:45.038Z"
+  }
+]
