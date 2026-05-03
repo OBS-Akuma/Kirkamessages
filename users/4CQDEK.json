@@ -190,5 +190,29 @@
     },
     "message": "#CGW5SD and no listing fee for youy",
     "timestamp": "2026-05-03T15:53:12.671Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "878dfc67-a2f4-46d9-b837-58e311d701d3",
+      "shortId": "4CQDEK",
+      "name": "UrBoiBeetle",
+      "role": "USER",
+      "level": 97
+    },
+    "message": "#CGW5SD how many [Golden||CHEST|LEGENDARY] for it?",
+    "timestamp": "2026-05-03T15:53:42.305Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "878dfc67-a2f4-46d9-b837-58e311d701d3",
+      "shortId": "4CQDEK",
+      "name": "UrBoiBeetle",
+      "role": "USER",
+      "level": 97
+    },
+    "message": "#CGW5SD u back?",
+    "timestamp": "2026-05-03T15:55:18.950Z"
   }
 ]
