@@ -22,5 +22,101 @@
     },
     "message": "/price [Eve||BODY_SKIN|MYTHICAL]",
     "timestamp": "2026-05-03T03:42:59.055Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "guest-077dceb4-05fe-4442-b2e0-edd5469cf619",
+      "shortId": "AH7NA2",
+      "name": "ALTERED",
+      "role": "USER",
+      "level": 16
+    },
+    "message": "/price [king dracula]",
+    "timestamp": "2026-05-03T03:57:53.315Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "guest-077dceb4-05fe-4442-b2e0-edd5469cf619",
+      "shortId": "AH7NA2",
+      "name": "ALTERED",
+      "role": "USER",
+      "level": 16
+    },
+    "message": "/hm [Kingdracula||BODY_SKIN|RARE]",
+    "timestamp": "2026-05-03T03:58:20.982Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "guest-077dceb4-05fe-4442-b2e0-edd5469cf619",
+      "shortId": "AH7NA2",
+      "name": "ALTERED",
+      "role": "USER",
+      "level": 16
+    },
+    "message": "/price [Puppet||BODY_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-03T03:58:54.253Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "guest-077dceb4-05fe-4442-b2e0-edd5469cf619",
+      "shortId": "AH7NA2",
+      "name": "ALTERED",
+      "role": "USER",
+      "level": 16
+    },
+    "message": "/price [Pajama Unc||BODY_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-03T03:59:19.700Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "guest-077dceb4-05fe-4442-b2e0-edd5469cf619",
+      "shortId": "AH7NA2",
+      "name": "ALTERED",
+      "role": "USER",
+      "level": 16
+    },
+    "message": "/price [Arawn||BODY_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-03T03:59:42.432Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "guest-077dceb4-05fe-4442-b2e0-edd5469cf619",
+      "shortId": "AH7NA2",
+      "name": "ALTERED",
+      "role": "USER",
+      "level": 16
+    },
+    "message": "/price [Panda||BODY_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-03T04:00:03.425Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "guest-077dceb4-05fe-4442-b2e0-edd5469cf619",
+      "shortId": "AH7NA2",
+      "name": "ALTERED",
+      "role": "USER",
+      "level": 16
+    },
+    "message": "/inv",
+    "timestamp": "2026-05-03T04:00:30.663Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "guest-077dceb4-05fe-4442-b2e0-edd5469cf619",
+      "shortId": "AH7NA2",
+      "name": "ALTERED",
+      "role": "USER",
+      "level": 16
+    },
+    "message": "/price [Keith||BODY_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-03T04:09:14.959Z"
   }
 ]
