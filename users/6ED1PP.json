@@ -1,0 +1,50 @@
+[
+  {
+    "type": 2,
+    "user": {
+      "id": "c47637f0-61d5-474a-9701-cd4093828a1c",
+      "shortId": "6ED1PP",
+      "name": "max1",
+      "role": "USER",
+      "level": 98
+    },
+    "message": "lf [Forbidden|AR-9|WEAPON_SKIN|MYTHICAL] offering [Cosmos|VITA|WEAPON_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-03T15:36:36.324Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "c47637f0-61d5-474a-9701-cd4093828a1c",
+      "shortId": "6ED1PP",
+      "name": "max1",
+      "role": "USER",
+      "level": 98
+    },
+    "message": ".",
+    "timestamp": "2026-05-03T15:36:40.610Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "c47637f0-61d5-474a-9701-cd4093828a1c",
+      "shortId": "6ED1PP",
+      "name": "max1",
+      "role": "USER",
+      "level": 98
+    },
+    "message": "lf [Forbidden|AR-9|WEAPON_SKIN|MYTHICAL] offering [Cosmos|VITA|WEAPON_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-03T15:36:43.771Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "c47637f0-61d5-474a-9701-cd4093828a1c",
+      "shortId": "6ED1PP",
+      "name": "max1",
+      "role": "USER",
+      "level": 98
+    },
+    "message": "/last10 forbidden",
+    "timestamp": "2026-05-03T15:37:14.321Z"
+  }
+]
