@@ -1,0 +1,26 @@
+[
+  {
+    "type": 2,
+    "user": {
+      "id": "guest-a006c9f4-6211-48d4-8ab9-1281207ca18c",
+      "shortId": "1AYAXI",
+      "name": "lavesh_kota001",
+      "role": "USER",
+      "level": 66
+    },
+    "message": "[Blast||BODY_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-03T03:34:40.365Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "guest-a006c9f4-6211-48d4-8ab9-1281207ca18c",
+      "shortId": "1AYAXI",
+      "name": "lavesh_kota001",
+      "role": "USER",
+      "level": 66
+    },
+    "message": "[Blast M60|M60|WEAPON_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-03T03:35:03.594Z"
+  }
+]
