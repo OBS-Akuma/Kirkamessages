@@ -10,5 +10,29 @@
     },
     "message": "/hm ghillie",
     "timestamp": "2026-05-03T03:24:59.000Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "5147fc60-a935-401f-aaf8-3b491777bac1",
+      "shortId": "IS5FRI",
+      "name": "EviSpider111",
+      "role": "USER",
+      "level": 78
+    },
+    "message": "who have SCAREY?",
+    "timestamp": "2026-05-03T03:52:33.137Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "5147fc60-a935-401f-aaf8-3b491777bac1",
+      "shortId": "IS5FRI",
+      "name": "EviSpider111",
+      "role": "USER",
+      "level": 78
+    },
+    "message": "/hm anarchy",
+    "timestamp": "2026-05-03T03:53:52.985Z"
   }
 ]
