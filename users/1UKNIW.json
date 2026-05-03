@@ -1,0 +1,26 @@
+[
+  {
+    "type": 2,
+    "user": {
+      "id": "6ce0073c-cb99-448e-a356-c28c06851158",
+      "shortId": "1UKNIW",
+      "name": "Him.",
+      "role": "USER",
+      "level": 24
+    },
+    "message": "how much for sculpture",
+    "timestamp": "2026-05-03T03:38:27.561Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "6ce0073c-cb99-448e-a356-c28c06851158",
+      "shortId": "1UKNIW",
+      "name": "Him.",
+      "role": "USER",
+      "level": 24
+    },
+    "message": "[Sculpture||BODY_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-03T03:38:44.417Z"
+  }
+]
