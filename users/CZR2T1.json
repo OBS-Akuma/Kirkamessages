@@ -262,5 +262,77 @@
     },
     "message": "i have [Nova|SCAR|WEAPON_SKIN|MYTHICAL]",
     "timestamp": "2026-05-03T03:27:56.186Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "e4a524c4-2971-4538-87ff-f9ca548af65f",
+      "shortId": "CZR2T1",
+      "name": "I_IS_HIM",
+      "role": "USER",
+      "level": 53
+    },
+    "message": "anyone have anarchy",
+    "timestamp": "2026-05-03T03:53:39.357Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "e4a524c4-2971-4538-87ff-f9ca548af65f",
+      "shortId": "CZR2T1",
+      "name": "I_IS_HIM",
+      "role": "USER",
+      "level": 53
+    },
+    "message": "i want anarchy",
+    "timestamp": "2026-05-03T03:54:12.679Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "e4a524c4-2971-4538-87ff-f9ca548af65f",
+      "shortId": "CZR2T1",
+      "name": "I_IS_HIM",
+      "role": "USER",
+      "level": 53
+    },
+    "message": "trading [Firedemon||BODY_SKIN|LEGENDARY] [Slime||BODY_SKIN|MYTHICAL] [Liberty|VITA|WEAPON_SKIN|LEGENDARY] [Blast VITA|VITA|WEAPON_SKIN|MYTHICAL] [Lustre|Bayonet|WEAPON_SKIN|MYTHICAL] [Abstraction|VITA|WEAPON_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-03T03:57:56.895Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "e4a524c4-2971-4538-87ff-f9ca548af65f",
+      "shortId": "CZR2T1",
+      "name": "I_IS_HIM",
+      "role": "USER",
+      "level": 53
+    },
+    "message": "/hm fallen",
+    "timestamp": "2026-05-03T03:58:21.539Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "e4a524c4-2971-4538-87ff-f9ca548af65f",
+      "shortId": "CZR2T1",
+      "name": "I_IS_HIM",
+      "role": "USER",
+      "level": 53
+    },
+    "message": "/price fallen",
+    "timestamp": "2026-05-03T03:58:35.567Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "e4a524c4-2971-4538-87ff-f9ca548af65f",
+      "shortId": "CZR2T1",
+      "name": "I_IS_HIM",
+      "role": "USER",
+      "level": 53
+    },
+    "message": "/inv",
+    "timestamp": "2026-05-03T04:06:03.164Z"
   }
 ]
