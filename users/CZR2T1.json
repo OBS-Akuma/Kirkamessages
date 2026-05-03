@@ -94,5 +94,41 @@
     },
     "message": "is chroma for trade?",
     "timestamp": "2026-05-03T03:23:33.982Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "e4a524c4-2971-4538-87ff-f9ca548af65f",
+      "shortId": "CZR2T1",
+      "name": "I_IS_HIM",
+      "role": "USER",
+      "level": 53
+    },
+    "message": "if you add things to chroma ill sell liberty",
+    "timestamp": "2026-05-03T03:23:42.428Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "e4a524c4-2971-4538-87ff-f9ca548af65f",
+      "shortId": "CZR2T1",
+      "name": "I_IS_HIM",
+      "role": "USER",
+      "level": 53
+    },
+    "message": "make trade",
+    "timestamp": "2026-05-03T03:23:55.627Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "e4a524c4-2971-4538-87ff-f9ca548af65f",
+      "shortId": "CZR2T1",
+      "name": "I_IS_HIM",
+      "role": "USER",
+      "level": 53
+    },
+    "message": "wait yip add something",
+    "timestamp": "2026-05-03T03:24:22.849Z"
   }
 ]
