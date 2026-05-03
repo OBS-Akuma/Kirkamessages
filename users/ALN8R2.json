@@ -82,5 +82,17 @@
     },
     "message": "trading [Skillz||BODY_SKIN|MYTHICAL][2026||BODY_SKIN|MYTHICAL]",
     "timestamp": "2026-05-03T03:38:03.428Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "89607a29-53ea-4a3d-9aa1-cba533a67478",
+      "shortId": "ALN8R2",
+      "name": "Lucky",
+      "role": "USER",
+      "level": 101
+    },
+    "message": "[2026||BODY_SKIN|MYTHICAL] for [Charmed|Bayonet|WEAPON_SKIN|MYTHICAL]?",
+    "timestamp": "2026-05-03T03:38:52.756Z"
   }
 ]
