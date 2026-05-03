@@ -190,5 +190,29 @@
     },
     "message": "i want [Bansee|VITA|WEAPON_SKIN|MYTHICAL]",
     "timestamp": "2026-05-03T03:19:15.591Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "bc67c9c2-fb23-494e-ac5e-a9085cfab551",
+      "shortId": "M6N6Z0",
+      "name": "M_Tri_VN",
+      "role": "USER",
+      "level": 87
+    },
+    "message": "carcosa",
+    "timestamp": "2026-05-03T03:19:38.446Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "bc67c9c2-fb23-494e-ac5e-a9085cfab551",
+      "shortId": "M6N6Z0",
+      "name": "M_Tri_VN",
+      "role": "USER",
+      "level": 87
+    },
+    "message": "i want [Angel||BODY_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-03T03:19:45.274Z"
   }
 ]
