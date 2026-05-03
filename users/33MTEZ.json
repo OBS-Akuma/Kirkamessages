@@ -118,5 +118,17 @@
     },
     "message": "broke leme offer for shroud",
     "timestamp": "2026-05-02T19:34:45.082Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "c55ae53c-5622-4ebe-801b-5fa6c6f5f940",
+      "shortId": "33MTEZ",
+      "name": "larp",
+      "role": "USER",
+      "level": 75
+    },
+    "message": "[Forbidden|AR-9|WEAPON_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-03T15:56:22.992Z"
   }
 ]
