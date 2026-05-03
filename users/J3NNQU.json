@@ -94,5 +94,41 @@
     },
     "message": "gg",
     "timestamp": "2026-05-03T03:36:26.845Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "43f91cbd-a1c2-44d0-a492-eee761a45cde",
+      "shortId": "J3NNQU",
+      "name": "Eliana-is-TEA",
+      "role": "USER",
+      "level": 10
+    },
+    "message": "does anyone want to wager [Golden||CHEST|LEGENDARY]x1300 for anything lower:)",
+    "timestamp": "2026-05-03T03:43:31.363Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "43f91cbd-a1c2-44d0-a492-eee761a45cde",
+      "shortId": "J3NNQU",
+      "name": "Eliana-is-TEA",
+      "role": "USER",
+      "level": 11
+    },
+    "message": "anyone wanting to wager [Golden||CHEST|LEGENDARY]s i have 1300",
+    "timestamp": "2026-05-03T03:44:24.295Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "43f91cbd-a1c2-44d0-a492-eee761a45cde",
+      "shortId": "J3NNQU",
+      "name": "Eliana-is-TEA",
+      "role": "USER",
+      "level": 11
+    },
+    "message": "/price [Eve||BODY_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-03T03:45:44.976Z"
   }
 ]
