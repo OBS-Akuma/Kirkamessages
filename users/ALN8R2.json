@@ -1,0 +1,86 @@
+[
+  {
+    "type": 2,
+    "user": {
+      "id": "89607a29-53ea-4a3d-9aa1-cba533a67478",
+      "shortId": "ALN8R2",
+      "name": "Lucky",
+      "role": "USER",
+      "level": 101
+    },
+    "message": "i need [Sweater|VITA|WEAPON_SKIN|LEGENDARY]",
+    "timestamp": "2026-05-03T03:34:26.683Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "89607a29-53ea-4a3d-9aa1-cba533a67478",
+      "shortId": "ALN8R2",
+      "name": "Lucky",
+      "role": "USER",
+      "level": 101
+    },
+    "message": "who have [Sweater|VITA|WEAPON_SKIN|LEGENDARY]?",
+    "timestamp": "2026-05-03T03:35:21.464Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "89607a29-53ea-4a3d-9aa1-cba533a67478",
+      "shortId": "ALN8R2",
+      "name": "Lucky",
+      "role": "USER",
+      "level": 101
+    },
+    "message": "yo",
+    "timestamp": "2026-05-03T03:35:36.074Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "89607a29-53ea-4a3d-9aa1-cba533a67478",
+      "shortId": "ALN8R2",
+      "name": "Lucky",
+      "role": "USER",
+      "level": 101
+    },
+    "message": "i have [Skel||BODY_SKIN|EPIC]",
+    "timestamp": "2026-05-03T03:35:47.909Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "89607a29-53ea-4a3d-9aa1-cba533a67478",
+      "shortId": "ALN8R2",
+      "name": "Lucky",
+      "role": "USER",
+      "level": 101
+    },
+    "message": "but I have no intention of trading",
+    "timestamp": "2026-05-03T03:36:35.402Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "89607a29-53ea-4a3d-9aa1-cba533a67478",
+      "shortId": "ALN8R2",
+      "name": "Lucky",
+      "role": "USER",
+      "level": 101
+    },
+    "message": "trading [Skillz||BODY_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-03T03:37:34.791Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "89607a29-53ea-4a3d-9aa1-cba533a67478",
+      "shortId": "ALN8R2",
+      "name": "Lucky",
+      "role": "USER",
+      "level": 101
+    },
+    "message": "trading [Skillz||BODY_SKIN|MYTHICAL][2026||BODY_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-03T03:38:03.428Z"
+  }
+]
