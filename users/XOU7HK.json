@@ -1,0 +1,50 @@
+[
+  {
+    "type": 2,
+    "user": {
+      "id": "aX8psLSnw8ejOFoZavWC0ijahY62",
+      "shortId": "XOU7HK",
+      "name": "TienMinh",
+      "role": "USER",
+      "level": 65
+    },
+    "message": "trade[Slime||BODY_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-03T03:33:41.586Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "aX8psLSnw8ejOFoZavWC0ijahY62",
+      "shortId": "XOU7HK",
+      "name": "TienMinh",
+      "role": "USER",
+      "level": 65
+    },
+    "message": "TRADE[Slime||BODY_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-03T03:33:59.427Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "aX8psLSnw8ejOFoZavWC0ijahY62",
+      "shortId": "XOU7HK",
+      "name": "TienMinh",
+      "role": "USER",
+      "level": 65
+    },
+    "message": "/price icey",
+    "timestamp": "2026-05-03T03:34:13.691Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "aX8psLSnw8ejOFoZavWC0ijahY62",
+      "shortId": "XOU7HK",
+      "name": "TienMinh",
+      "role": "USER",
+      "level": 65
+    },
+    "message": "/price slime",
+    "timestamp": "2026-05-03T03:34:29.964Z"
+  }
+]
