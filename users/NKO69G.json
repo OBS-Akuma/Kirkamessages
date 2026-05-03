@@ -1,0 +1,38 @@
+[
+  {
+    "type": 2,
+    "user": {
+      "id": "5bba9033-cefe-472d-85fe-bfa5f59da2ad",
+      "shortId": "NKO69G",
+      "name": "AvoltA",
+      "role": "USER",
+      "level": 96
+    },
+    "message": "/price[jazzin",
+    "timestamp": "2026-05-03T15:52:39.929Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "5bba9033-cefe-472d-85fe-bfa5f59da2ad",
+      "shortId": "NKO69G",
+      "name": "AvoltA",
+      "role": "USER",
+      "level": 96
+    },
+    "message": "/price [jazzin",
+    "timestamp": "2026-05-03T15:52:47.676Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "5bba9033-cefe-472d-85fe-bfa5f59da2ad",
+      "shortId": "NKO69G",
+      "name": "AvoltA",
+      "role": "USER",
+      "level": 96
+    },
+    "message": "trading [Tiburon|Bayonet|WEAPON_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-03T15:54:47.089Z"
+  }
+]
