@@ -286,5 +286,65 @@
     },
     "message": "/reade bump",
     "timestamp": "2026-05-03T15:41:55.224Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "01ef2f91-db69-4306-9e76-d0d02ecbb058",
+      "shortId": "QHTFJV",
+      "name": "ImBroke*LOL*",
+      "role": "USER",
+      "level": 93
+    },
+    "message": "bruh",
+    "timestamp": "2026-05-03T15:44:07.267Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "01ef2f91-db69-4306-9e76-d0d02ecbb058",
+      "shortId": "QHTFJV",
+      "name": "ImBroke*LOL*",
+      "role": "USER",
+      "level": 93
+    },
+    "message": "ill add max 300 more golden",
+    "timestamp": "2026-05-03T15:44:18.370Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "01ef2f91-db69-4306-9e76-d0d02ecbb058",
+      "shortId": "QHTFJV",
+      "name": "ImBroke*LOL*",
+      "role": "USER",
+      "level": 93
+    },
+    "message": "ok what u need",
+    "timestamp": "2026-05-03T15:44:29.747Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "01ef2f91-db69-4306-9e76-d0d02ecbb058",
+      "shortId": "QHTFJV",
+      "name": "ImBroke*LOL*",
+      "role": "USER",
+      "level": 93
+    },
+    "message": "ohhh",
+    "timestamp": "2026-05-03T15:44:54.989Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "01ef2f91-db69-4306-9e76-d0d02ecbb058",
+      "shortId": "QHTFJV",
+      "name": "ImBroke*LOL*",
+      "role": "USER",
+      "level": 93
+    },
+    "message": "ok",
+    "timestamp": "2026-05-03T15:44:56.243Z"
   }
 ]
