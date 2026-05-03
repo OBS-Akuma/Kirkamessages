@@ -8,7 +8,7 @@
       "role": "USER",
       "level": 20
     },
-    "message": "ãã£ããã©ã°ãã",
+    "message": "Ã£ÂÂÃ£ÂÂ£Ã£ÂÂÃ£ÂÂÃ£ÂÂ©Ã£ÂÂ°Ã£ÂÂÃ£ÂÂ",
     "timestamp": "2026-05-03T15:36:56.798Z"
   },
   {
@@ -20,7 +20,7 @@
       "role": "USER",
       "level": 20
     },
-    "message": "è²·ãåãã£ã",
+    "message": "Ã¨Â²Â·Ã£ÂÂÃ¥ÂÂÃ£ÂÂÃ£ÂÂ£Ã£ÂÂ",
     "timestamp": "2026-05-03T15:39:50.080Z"
   },
   {
@@ -32,7 +32,7 @@
       "role": "USER",
       "level": 20
     },
-    "message": "Banseeã§Forã",
+    "message": "BanseeÃ£ÂÂ§ForÃ£ÂÂ",
     "timestamp": "2026-05-03T15:40:09.610Z"
   },
   {
@@ -68,7 +68,7 @@
       "role": "USER",
       "level": 20
     },
-    "message": "クソオファーしかない",
+    "message": "ã¯ã½ãªãã¡ã¼ãããªã",
     "timestamp": "2026-05-03T15:44:18.316Z"
   },
   {
@@ -94,5 +94,41 @@
     },
     "message": "wager tiburon",
     "timestamp": "2026-05-03T15:46:45.015Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "549b6bbc-8e20-4b32-952f-953779ca8a7b",
+      "shortId": "HUB956",
+      "name": "f7&N2p#Qz5*k@9",
+      "role": "USER",
+      "level": 20
+    },
+    "message": "/wager [Uranium||BODY_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-03T15:47:47.788Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "549b6bbc-8e20-4b32-952f-953779ca8a7b",
+      "shortId": "HUB956",
+      "name": "f7&N2p#Qz5*k@9",
+      "role": "USER",
+      "level": 20
+    },
+    "message": "/wager [Uranium||BODY_SKIN|MYTHICAL] #CRCD0D",
+    "timestamp": "2026-05-03T15:48:13.192Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "549b6bbc-8e20-4b32-952f-953779ca8a7b",
+      "shortId": "HUB956",
+      "name": "f7&N2p#Qz5*k@9",
+      "role": "USER",
+      "level": 20
+    },
+    "message": "/cancelwager",
+    "timestamp": "2026-05-03T15:48:57.595Z"
   }
 ]
