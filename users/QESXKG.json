@@ -58,5 +58,29 @@
     },
     "message": "'/trade cancel",
     "timestamp": "2026-05-03T03:13:00.651Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "af2a8134-8103-4f18-a202-352619fc307b",
+      "shortId": "QESXKG",
+      "name": "Caramel",
+      "role": "USER",
+      "level": 94
+    },
+    "message": "u like [Guts||BODY_SKIN|LEGENDARY] or [Reindeer||BODY_SKIN|LEGENDARY]",
+    "timestamp": "2026-05-03T03:13:58.938Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "af2a8134-8103-4f18-a202-352619fc307b",
+      "shortId": "QESXKG",
+      "name": "Caramel",
+      "role": "USER",
+      "level": 94
+    },
+    "message": "owners matters a little but more about demand",
+    "timestamp": "2026-05-03T03:14:36.824Z"
   }
 ]
