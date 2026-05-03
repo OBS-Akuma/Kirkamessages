@@ -22,5 +22,89 @@
     },
     "message": "[Sculpture||BODY_SKIN|MYTHICAL]",
     "timestamp": "2026-05-03T03:38:44.417Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "6ce0073c-cb99-448e-a356-c28c06851158",
+      "shortId": "1UKNIW",
+      "name": "Him.",
+      "role": "USER",
+      "level": 24
+    },
+    "message": "/price [Sculpture||BODY_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-03T03:38:54.588Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "6ce0073c-cb99-448e-a356-c28c06851158",
+      "shortId": "1UKNIW",
+      "name": "Him.",
+      "role": "USER",
+      "level": 24
+    },
+    "message": "/price [CYB3R|Bayonet|WEAPON_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-03T03:39:23.749Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "6ce0073c-cb99-448e-a356-c28c06851158",
+      "shortId": "1UKNIW",
+      "name": "Him.",
+      "role": "USER",
+      "level": 24
+    },
+    "message": "can I buy [CYB3R|Bayonet|WEAPON_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-03T03:39:46.573Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "6ce0073c-cb99-448e-a356-c28c06851158",
+      "shortId": "1UKNIW",
+      "name": "Him.",
+      "role": "USER",
+      "level": 24
+    },
+    "message": "400k",
+    "timestamp": "2026-05-03T03:40:05.014Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "6ce0073c-cb99-448e-a356-c28c06851158",
+      "shortId": "1UKNIW",
+      "name": "Him.",
+      "role": "USER",
+      "level": 24
+    },
+    "message": "/price [Astronova|LAR|WEAPON_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-03T03:41:58.985Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "6ce0073c-cb99-448e-a356-c28c06851158",
+      "shortId": "1UKNIW",
+      "name": "Him.",
+      "role": "USER",
+      "level": 24
+    },
+    "message": "/price [VOID]",
+    "timestamp": "2026-05-03T03:42:28.777Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "6ce0073c-cb99-448e-a356-c28c06851158",
+      "shortId": "1UKNIW",
+      "name": "Him.",
+      "role": "USER",
+      "level": 24
+    },
+    "message": "/price [V0id||BODY_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-03T03:42:52.278Z"
   }
 ]
