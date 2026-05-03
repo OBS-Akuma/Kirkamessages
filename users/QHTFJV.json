@@ -442,5 +442,29 @@
     },
     "message": "last offer tp",
     "timestamp": "2026-05-03T15:46:17.916Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "01ef2f91-db69-4306-9e76-d0d02ecbb058",
+      "shortId": "QHTFJV",
+      "name": "ImBroke*LOL*",
+      "role": "USER",
+      "level": 93
+    },
+    "message": "quiterrrrrrrrrrrrrrrrrrrrrr",
+    "timestamp": "2026-05-03T15:48:39.705Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "01ef2f91-db69-4306-9e76-d0d02ecbb058",
+      "shortId": "QHTFJV",
+      "name": "ImBroke*LOL*",
+      "role": "USER",
+      "level": 93
+    },
+    "message": "shroud for chroma",
+    "timestamp": "2026-05-03T15:48:44.325Z"
   }
 ]
