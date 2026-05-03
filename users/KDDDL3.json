@@ -1,0 +1,38 @@
+[
+  {
+    "type": 2,
+    "user": {
+      "id": "f7cf25be-17f7-4076-9535-2f2f9f5d4771",
+      "shortId": "KDDDL3",
+      "name": "SAD|iVietNamR",
+      "role": "USER",
+      "level": 15
+    },
+    "message": "yo",
+    "timestamp": "2026-05-03T03:17:42.680Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "f7cf25be-17f7-4076-9535-2f2f9f5d4771",
+      "shortId": "KDDDL3",
+      "name": "SAD|iVietNamR",
+      "role": "USER",
+      "level": 15
+    },
+    "message": "im asking tkd for a vinix",
+    "timestamp": "2026-05-03T03:17:49.582Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "f7cf25be-17f7-4076-9535-2f2f9f5d4771",
+      "shortId": "KDDDL3",
+      "name": "SAD|iVietNamR",
+      "role": "USER",
+      "level": 15
+    },
+    "message": "vionix",
+    "timestamp": "2026-05-03T03:17:53.312Z"
+  }
+]
