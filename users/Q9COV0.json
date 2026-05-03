@@ -10,5 +10,101 @@
     },
     "message": "/enter",
     "timestamp": "2026-05-02T19:15:34.605Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "e593855f-34dd-4d12-b03f-87cf92b607c9",
+      "shortId": "Q9COV0",
+      "name": "Dutchman",
+      "role": "USER",
+      "level": 94
+    },
+    "message": "/price [Sunday|Bayonet|WEAPON_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-03T04:00:09.790Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "e593855f-34dd-4d12-b03f-87cf92b607c9",
+      "shortId": "Q9COV0",
+      "name": "Dutchman",
+      "role": "USER",
+      "level": 94
+    },
+    "message": "coin fliping [Uranium||BODY_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-03T04:00:28.968Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "e593855f-34dd-4d12-b03f-87cf92b607c9",
+      "shortId": "Q9COV0",
+      "name": "Dutchman",
+      "role": "USER",
+      "level": 94
+    },
+    "message": "#Z97DD0 how are u my huy",
+    "timestamp": "2026-05-03T04:08:14.056Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "e593855f-34dd-4d12-b03f-87cf92b607c9",
+      "shortId": "Q9COV0",
+      "name": "Dutchman",
+      "role": "USER",
+      "level": 94
+    },
+    "message": "good good a lil sad",
+    "timestamp": "2026-05-03T04:08:32.488Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "e593855f-34dd-4d12-b03f-87cf92b607c9",
+      "shortId": "Q9COV0",
+      "name": "Dutchman",
+      "role": "USER",
+      "level": 94
+    },
+    "message": "i need first in my clan for a 250m skin im  60k behind",
+    "timestamp": "2026-05-03T04:09:03.081Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "e593855f-34dd-4d12-b03f-87cf92b607c9",
+      "shortId": "Q9COV0",
+      "name": "Dutchman",
+      "role": "USER",
+      "level": 94
+    },
+    "message": "not realy im so washed after not playing for a year",
+    "timestamp": "2026-05-03T04:09:34.735Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "e593855f-34dd-4d12-b03f-87cf92b607c9",
+      "shortId": "Q9COV0",
+      "name": "Dutchman",
+      "role": "USER",
+      "level": 94
+    },
+    "message": "im almost at 40k thow",
+    "timestamp": "2026-05-03T04:09:50.594Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "e593855f-34dd-4d12-b03f-87cf92b607c9",
+      "shortId": "Q9COV0",
+      "name": "Dutchman",
+      "role": "USER",
+      "level": 94
+    },
+    "message": "its been so long since i acctuly hoped on for a grind",
+    "timestamp": "2026-05-03T04:10:09.727Z"
   }
 ]
