@@ -94,5 +94,53 @@
     },
     "message": "tr[Rainy||BODY_SKIN|MYTHICAL]",
     "timestamp": "2026-05-03T03:18:04.699Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "cd106d52-b68a-4368-b93e-8b2be34dc797",
+      "shortId": "BG4WQX",
+      "name": "_zyrex_",
+      "role": "USER",
+      "level": 39
+    },
+    "message": "/wager [Rainy||BODY_SKIN|MYTHICAL] #RWREPA",
+    "timestamp": "2026-05-03T03:19:07.550Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "cd106d52-b68a-4368-b93e-8b2be34dc797",
+      "shortId": "BG4WQX",
+      "name": "_zyrex_",
+      "role": "USER",
+      "level": 39
+    },
+    "message": "/cancelwager",
+    "timestamp": "2026-05-03T03:19:45.971Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "cd106d52-b68a-4368-b93e-8b2be34dc797",
+      "shortId": "BG4WQX",
+      "name": "_zyrex_",
+      "role": "USER",
+      "level": 39
+    },
+    "message": "/wager [Rainy||BODY_SKIN|MYTHICAL] #RWREPA",
+    "timestamp": "2026-05-03T03:20:42.869Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "cd106d52-b68a-4368-b93e-8b2be34dc797",
+      "shortId": "BG4WQX",
+      "name": "_zyrex_",
+      "role": "USER",
+      "level": 39
+    },
+    "message": "/cancelwager",
+    "timestamp": "2026-05-03T03:21:37.980Z"
   }
 ]
