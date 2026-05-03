@@ -22,5 +22,29 @@
     },
     "message": "Dg [Chick||BODY_SKIN|MYTHICAL]",
     "timestamp": "2026-05-01T19:50:00.760Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "0oxYT4qF3FdotfZebjxkuTX1nLd2",
+      "shortId": "TE7ZAB",
+      "name": "GENZ(MM)",
+      "role": "USER",
+      "level": 68
+    },
+    "message": "[Golden||CHEST|LEGENDARY]",
+    "timestamp": "2026-05-03T03:50:28.556Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "0oxYT4qF3FdotfZebjxkuTX1nLd2",
+      "shortId": "TE7ZAB",
+      "name": "GENZ(MM)",
+      "role": "USER",
+      "level": 68
+    },
+    "message": "/locate [Golden||CHEST|LEGENDARY]",
+    "timestamp": "2026-05-03T03:51:02.215Z"
   }
 ]
