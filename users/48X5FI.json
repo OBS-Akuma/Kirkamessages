@@ -34,5 +34,17 @@
     },
     "message": "=))",
     "timestamp": "2026-05-03T03:23:38.379Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "e4b7c992-a43e-4ff1-96f8-810564ba57b5",
+      "shortId": "48X5FI",
+      "name": "[VN]Mahiru",
+      "role": "USER",
+      "level": 81
+    },
+    "message": "collecting[Toy|MAC-10|WEAPON_SKIN|LEGENDARY]",
+    "timestamp": "2026-05-03T03:23:59.655Z"
   }
 ]
