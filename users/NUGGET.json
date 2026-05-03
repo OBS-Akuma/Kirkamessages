@@ -287,5 +287,53 @@
     },
     "message": "Tiburon",
     "timestamp": "2026-05-03T15:47:07.363Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "7f2a6090-abcb-48a7-8838-88ee8111b261",
+      "shortId": "NUGGET",
+      "name": "Akumaware.xyz",
+      "role": "USER",
+      "level": 55
+    },
+    "message": "Trading 5m > [Halloween||CHEST|MYTHICAL] for > [Tiburon|Bayonet|WEAPON_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-03T15:47:57.148Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "7f2a6090-abcb-48a7-8838-88ee8111b261",
+      "shortId": "NUGGET",
+      "name": "Akumaware.xyz",
+      "role": "USER",
+      "level": 55
+    },
+    "message": "eh",
+    "timestamp": "2026-05-03T15:49:05.091Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "7f2a6090-abcb-48a7-8838-88ee8111b261",
+      "shortId": "NUGGET",
+      "name": "Akumaware.xyz",
+      "role": "USER",
+      "level": 55
+    },
+    "message": "Trading 5m > [Halloween||CHEST|MYTHICAL] for > [Tiburon|Bayonet|WEAPON_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-03T15:49:07.343Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "7f2a6090-abcb-48a7-8838-88ee8111b261",
+      "shortId": "NUGGET",
+      "name": "Akumaware.xyz",
+      "role": "USER",
+      "level": 55
+    },
+    "message": "[overdrive]",
+    "timestamp": "2026-05-03T15:49:27.553Z"
   }
 ]
