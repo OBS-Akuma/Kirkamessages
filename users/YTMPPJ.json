@@ -82,5 +82,41 @@
     },
     "message": "heat",
     "timestamp": "2026-05-02T19:32:32.947Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "db44ee19-ff33-46f9-95f8-944df904198d",
+      "shortId": "YTMPPJ",
+      "name": "Him.",
+      "role": "USER",
+      "level": 43
+    },
+    "message": "#LU1ND8",
+    "timestamp": "2026-05-02T19:34:35.470Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "db44ee19-ff33-46f9-95f8-944df904198d",
+      "shortId": "YTMPPJ",
+      "name": "Him.",
+      "role": "USER",
+      "level": 43
+    },
+    "message": "/offer",
+    "timestamp": "2026-05-02T19:35:26.509Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "db44ee19-ff33-46f9-95f8-944df904198d",
+      "shortId": "YTMPPJ",
+      "name": "Him.",
+      "role": "USER",
+      "level": 43
+    },
+    "message": "/offer or",
+    "timestamp": "2026-05-02T19:35:35.301Z"
   }
 ]
