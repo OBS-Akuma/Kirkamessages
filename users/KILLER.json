@@ -178,5 +178,41 @@
     },
     "message": "Wagering [Bad Bunny||BODY_SKIN|LEGENDARY][Slime||BODY_SKIN|MYTHICAL][Bok||BODY_SKIN|MYTHICAL][Veiled||BODY_SKIN|LEGENDARY][Moon||BODY_SKIN|LEGENDARY][RGB Black||BODY_SKIN|MYTHICAL]",
     "timestamp": "2026-05-03T15:48:35.843Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "e94fc41b-ee11-41e2-8942-4381500742af",
+      "shortId": "KILLER",
+      "name": "Quitter",
+      "role": "USER",
+      "level": 99
+    },
+    "message": "HAHAHAHAHA",
+    "timestamp": "2026-05-03T15:50:30.942Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "e94fc41b-ee11-41e2-8942-4381500742af",
+      "shortId": "KILLER",
+      "name": "Quitter",
+      "role": "USER",
+      "level": 99
+    },
+    "message": "HAHAHAHA",
+    "timestamp": "2026-05-03T15:50:38.487Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "e94fc41b-ee11-41e2-8942-4381500742af",
+      "shortId": "KILLER",
+      "name": "Quitter",
+      "role": "USER",
+      "level": 99
+    },
+    "message": "Hahahaha tails day hsjshshshs",
+    "timestamp": "2026-05-03T15:50:52.005Z"
   }
 ]
