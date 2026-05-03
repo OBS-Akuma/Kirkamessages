@@ -1,0 +1,26 @@
+[
+  {
+    "type": 2,
+    "user": {
+      "id": "5ed9c8dd-6cd2-4d94-80c4-d85dc4e051a8",
+      "shortId": "K4XVU3",
+      "name": "Carlos_Coches",
+      "role": "USER",
+      "level": 91
+    },
+    "message": "[Maze||BODY_SKIN|EPIC]",
+    "timestamp": "2026-05-03T03:15:51.761Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "5ed9c8dd-6cd2-4d94-80c4-d85dc4e051a8",
+      "shortId": "K4XVU3",
+      "name": "Carlos_Coches",
+      "role": "USER",
+      "level": 91
+    },
+    "message": "[Imperial|SCAR|WEAPON_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-03T03:16:06.686Z"
+  }
+]
