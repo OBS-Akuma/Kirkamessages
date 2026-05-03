@@ -346,5 +346,17 @@
     },
     "message": "i dont want another one",
     "timestamp": "2026-05-03T04:05:54.869Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "4a9f515a-7058-4534-877a-d09773f0f911",
+      "shortId": "OZUAT1",
+      "name": "wasd",
+      "role": "USER",
+      "level": 99
+    },
+    "message": "#JVUHNQ",
+    "timestamp": "2026-05-03T15:54:38.783Z"
   }
 ]
