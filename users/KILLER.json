@@ -214,5 +214,29 @@
     },
     "message": "Hahahaha tails day hsjshshshs",
     "timestamp": "2026-05-03T15:50:52.005Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "e94fc41b-ee11-41e2-8942-4381500742af",
+      "shortId": "KILLER",
+      "name": "Quitter",
+      "role": "USER",
+      "level": 99
+    },
+    "message": "Wagering [Chroma|LAR|WEAPON_SKIN|MYTHICAL][Vintage|VITA|WEAPON_SKIN|MYTHICAL][Korunami|LAR|WEAPON_SKIN|MYTHICAL][Lis|Revolver|WEAPON_SKIN|MYTHICAL][Diane|Shark|WEAPON_SKIN|MYTHICAL][Alighted|Bayonet|WEAPON_SKIN|MYTHICAL][Spooder|Shark|WEAPON_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-03T15:53:19.138Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "e94fc41b-ee11-41e2-8942-4381500742af",
+      "shortId": "KILLER",
+      "name": "Quitter",
+      "role": "USER",
+      "level": 99
+    },
+    "message": "Abeed go grind man",
+    "timestamp": "2026-05-03T15:54:03.330Z"
   }
 ]
