@@ -1642,5 +1642,53 @@
     },
     "message": "BYE POEPLE HAVE A GOOD NIGHT",
     "timestamp": "2026-05-03T03:39:42.525Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "4b3c9e26-0516-4634-99f9-ea8361ccd6d8",
+      "shortId": "UP1R78",
+      "name": "CASH",
+      "role": "USER",
+      "level": 80
+    },
+    "message": "Wh has Nib",
+    "timestamp": "2026-05-03T15:44:25.353Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "4b3c9e26-0516-4634-99f9-ea8361ccd6d8",
+      "shortId": "UP1R78",
+      "name": "CASH",
+      "role": "USER",
+      "level": 80
+    },
+    "message": "UPG[2024|Bayonet|WEAPON_SKIN|MYTHICAL][Jade|Bayonet|WEAPON_SKIN|MYTHICAL][CYB3R|Bayonet|WEAPON_SKIN|MYTHICAL][Charmed|Bayonet|WEAPON_SKIN|MYTHICAL][Polygon|Bayonet|WEAPON_SKIN|MYTHICAL][Sandwich||BODY_SKIN|MYTHICAL][Thriller||BODY_SKIN|MYTHICAL][Reed||BODY_SKIN|LEGENDARY][Corny||BODY_SKIN|LEGENDARY]",
+    "timestamp": "2026-05-03T15:44:29.813Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "4b3c9e26-0516-4634-99f9-ea8361ccd6d8",
+      "shortId": "UP1R78",
+      "name": "CASH",
+      "role": "USER",
+      "level": 80
+    },
+    "message": "/price 1337",
+    "timestamp": "2026-05-03T15:45:08.442Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "4b3c9e26-0516-4634-99f9-ea8361ccd6d8",
+      "shortId": "UP1R78",
+      "name": "CASH",
+      "role": "USER",
+      "level": 80
+    },
+    "message": "/inv",
+    "timestamp": "2026-05-03T15:45:59.821Z"
   }
 ]
