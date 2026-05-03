@@ -44,7 +44,7 @@
       "role": "USER",
       "level": 94
     },
-    "message": "😭",
+    "message": "ð­",
     "timestamp": "2026-05-03T15:46:59.335Z"
   },
   {
@@ -68,7 +68,55 @@
       "role": "USER",
       "level": 94
     },
-    "message": "He ain’t no navy bean he’s a garbonzo",
+    "message": "He ainât no navy bean heâs a garbonzo",
     "timestamp": "2026-05-03T15:47:30.875Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "954d8ac8-a864-4610-aaf8-912cf7a134ea",
+      "shortId": "NOBODY",
+      "name": "Brqxton",
+      "role": "USER",
+      "level": 94
+    },
+    "message": "😂😂",
+    "timestamp": "2026-05-03T15:47:48.689Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "954d8ac8-a864-4610-aaf8-912cf7a134ea",
+      "shortId": "NOBODY",
+      "name": "Brqxton",
+      "role": "USER",
+      "level": 94
+    },
+    "message": "Stand on beanness",
+    "timestamp": "2026-05-03T15:48:04.340Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "954d8ac8-a864-4610-aaf8-912cf7a134ea",
+      "shortId": "NOBODY",
+      "name": "Brqxton",
+      "role": "USER",
+      "level": 94
+    },
+    "message": "WHAOOO",
+    "timestamp": "2026-05-03T15:48:27.114Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "954d8ac8-a864-4610-aaf8-912cf7a134ea",
+      "shortId": "NOBODY",
+      "name": "Brqxton",
+      "role": "USER",
+      "level": 94
+    },
+    "message": "Ur one bean short of a full stew",
+    "timestamp": "2026-05-03T15:49:07.908Z"
   }
 ]
