@@ -128,7 +128,7 @@
       "role": "USER",
       "level": 101
     },
-    "message": "Ã¯Â½ÂÃ¯Â½Â",
+    "message": "ÃÂ¯ÃÂ½ÃÂÃÂ¯ÃÂ½ÃÂ",
     "timestamp": "2026-05-03T03:40:33.192Z"
   },
   {
@@ -140,7 +140,7 @@
       "role": "USER",
       "level": 101
     },
-    "message": "Ã£ÂÂÃ£ÂÂ¬Ã£ÂÂ¼Ã£ÂÂÃ©ÂÂ¢Ã£ÂÂ¯Ã£ÂÂ¯Ã£ÂÂ½Ã£ÂÂ²Ã£ÂÂ¼Ã£ÂÂ Ã£ÂÂ­Ã£ÂÂ",
+    "message": "ÃÂ£ÃÂÃÂÃÂ£ÃÂÃÂ¬ÃÂ£ÃÂÃÂ¼ÃÂ£ÃÂÃÂÃÂ©ÃÂÃÂ¢ÃÂ£ÃÂÃÂ¯ÃÂ£ÃÂÃÂ¯ÃÂ£ÃÂÃÂ½ÃÂ£ÃÂÃÂ²ÃÂ£ÃÂÃÂ¼ÃÂ£ÃÂÃÂ ÃÂ£ÃÂÃÂ­ÃÂ£ÃÂÃÂ",
     "timestamp": "2026-05-03T03:40:57.104Z"
   },
   {
@@ -154,5 +154,101 @@
     },
     "message": "trading [Skillz||BODY_SKIN|MYTHICAL]",
     "timestamp": "2026-05-03T03:42:08.069Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "89607a29-53ea-4a3d-9aa1-cba533a67478",
+      "shortId": "ALN8R2",
+      "name": "Lucky",
+      "role": "USER",
+      "level": 101
+    },
+    "message": "/inv",
+    "timestamp": "2026-05-03T04:05:29.989Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "89607a29-53ea-4a3d-9aa1-cba533a67478",
+      "shortId": "ALN8R2",
+      "name": "Lucky",
+      "role": "USER",
+      "level": 101
+    },
+    "message": "また inv 500m になってる",
+    "timestamp": "2026-05-03T04:05:58.211Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "89607a29-53ea-4a3d-9aa1-cba533a67478",
+      "shortId": "ALN8R2",
+      "name": "Lucky",
+      "role": "USER",
+      "level": 101
+    },
+    "message": "trading [Skillz||BODY_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-03T04:07:01.224Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "89607a29-53ea-4a3d-9aa1-cba533a67478",
+      "shortId": "ALN8R2",
+      "name": "Lucky",
+      "role": "USER",
+      "level": 101
+    },
+    "message": "can u adds?",
+    "timestamp": "2026-05-03T04:07:57.196Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "89607a29-53ea-4a3d-9aa1-cba533a67478",
+      "shortId": "ALN8R2",
+      "name": "Lucky",
+      "role": "USER",
+      "level": 101
+    },
+    "message": "yes?",
+    "timestamp": "2026-05-03T04:08:40.984Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "89607a29-53ea-4a3d-9aa1-cba533a67478",
+      "shortId": "ALN8R2",
+      "name": "Lucky",
+      "role": "USER",
+      "level": 101
+    },
+    "message": "trading [Skillz||BODY_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-03T04:09:57.456Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "89607a29-53ea-4a3d-9aa1-cba533a67478",
+      "shortId": "ALN8R2",
+      "name": "Lucky",
+      "role": "USER",
+      "level": 101
+    },
+    "message": "[Labyrinth|VITA|WEAPON_SKIN|LEGENDARY]いいね〜",
+    "timestamp": "2026-05-03T04:10:12.930Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "89607a29-53ea-4a3d-9aa1-cba533a67478",
+      "shortId": "ALN8R2",
+      "name": "Lucky",
+      "role": "USER",
+      "level": 101
+    },
+    "message": "よーしおっけ",
+    "timestamp": "2026-05-03T15:40:15.016Z"
   }
 ]
