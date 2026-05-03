@@ -58,5 +58,125 @@
     },
     "message": "gg",
     "timestamp": "2026-05-03T03:36:17.580Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "Gz7vDsByrXSEwKYek3a6mgVwdFb2",
+      "shortId": "SVN4K2",
+      "name": "lolnoob",
+      "role": "USER",
+      "level": 94
+    },
+    "message": "/inv",
+    "timestamp": "2026-05-03T04:09:57.597Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "Gz7vDsByrXSEwKYek3a6mgVwdFb2",
+      "shortId": "SVN4K2",
+      "name": "lolnoob",
+      "role": "USER",
+      "level": 94
+    },
+    "message": "lf free [Ortus|Revolver|WEAPON_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-03T15:40:00.507Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "Gz7vDsByrXSEwKYek3a6mgVwdFb2",
+      "shortId": "SVN4K2",
+      "name": "lolnoob",
+      "role": "USER",
+      "level": 94
+    },
+    "message": "/locate ortus",
+    "timestamp": "2026-05-03T15:40:54.745Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "Gz7vDsByrXSEwKYek3a6mgVwdFb2",
+      "shortId": "SVN4K2",
+      "name": "lolnoob",
+      "role": "USER",
+      "level": 94
+    },
+    "message": "wager [Bamboo|VITA|WEAPON_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-03T15:41:58.430Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "Gz7vDsByrXSEwKYek3a6mgVwdFb2",
+      "shortId": "SVN4K2",
+      "name": "lolnoob",
+      "role": "USER",
+      "level": 94
+    },
+    "message": "yea?",
+    "timestamp": "2026-05-03T15:42:14.011Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "Gz7vDsByrXSEwKYek3a6mgVwdFb2",
+      "shortId": "SVN4K2",
+      "name": "lolnoob",
+      "role": "USER",
+      "level": 94
+    },
+    "message": "/wager [bambvoo] #PL4OPG",
+    "timestamp": "2026-05-03T15:42:27.370Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "Gz7vDsByrXSEwKYek3a6mgVwdFb2",
+      "shortId": "SVN4K2",
+      "name": "lolnoob",
+      "role": "USER",
+      "level": 94
+    },
+    "message": "/wager [Bamboo|VITA|WEAPON_SKIN|MYTHICAL] #PL4OPG",
+    "timestamp": "2026-05-03T15:42:35.872Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "Gz7vDsByrXSEwKYek3a6mgVwdFb2",
+      "shortId": "SVN4K2",
+      "name": "lolnoob",
+      "role": "USER",
+      "level": 94
+    },
+    "message": "/cancelwager",
+    "timestamp": "2026-05-03T15:42:41.132Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "Gz7vDsByrXSEwKYek3a6mgVwdFb2",
+      "shortId": "SVN4K2",
+      "name": "lolnoob",
+      "role": "USER",
+      "level": 94
+    },
+    "message": "/wager [bamboo#PL4OPG",
+    "timestamp": "2026-05-03T15:42:46.824Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "Gz7vDsByrXSEwKYek3a6mgVwdFb2",
+      "shortId": "SVN4K2",
+      "name": "lolnoob",
+      "role": "USER",
+      "level": 94
+    },
+    "message": "/wager [Bamboo|VITA|WEAPON_SKIN|MYTHICAL] #PL4OPG",
+    "timestamp": "2026-05-03T15:42:55.190Z"
   }
 ]
