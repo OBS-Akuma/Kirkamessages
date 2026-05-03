@@ -250,5 +250,89 @@
     },
     "message": "santa gets 15 by itself",
     "timestamp": "2026-05-03T03:32:02.727Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "99cc3bc0-e1e3-48ee-815b-9bfe1f7f7fe2",
+      "shortId": "00ZW80",
+      "name": "Newbie",
+      "role": "USER",
+      "level": 29
+    },
+    "message": "#TTTVBJ what's your list again",
+    "timestamp": "2026-05-03T03:33:03.838Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "99cc3bc0-e1e3-48ee-815b-9bfe1f7f7fe2",
+      "shortId": "00ZW80",
+      "name": "Newbie",
+      "role": "USER",
+      "level": 29
+    },
+    "message": "beach set 15 and sunset 5?",
+    "timestamp": "2026-05-03T03:34:10.671Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "99cc3bc0-e1e3-48ee-815b-9bfe1f7f7fe2",
+      "shortId": "00ZW80",
+      "name": "Newbie",
+      "role": "USER",
+      "level": 29
+    },
+    "message": "fallen for them, and I add a little?",
+    "timestamp": "2026-05-03T03:34:48.307Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "99cc3bc0-e1e3-48ee-815b-9bfe1f7f7fe2",
+      "shortId": "00ZW80",
+      "name": "Newbie",
+      "role": "USER",
+      "level": 29
+    },
+    "message": "then add",
+    "timestamp": "2026-05-03T03:35:12.968Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "99cc3bc0-e1e3-48ee-815b-9bfe1f7f7fe2",
+      "shortId": "00ZW80",
+      "name": "Newbie",
+      "role": "USER",
+      "level": 29
+    },
+    "message": "#TTTVBJ add to your offer",
+    "timestamp": "2026-05-03T03:36:04.599Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "99cc3bc0-e1e3-48ee-815b-9bfe1f7f7fe2",
+      "shortId": "00ZW80",
+      "name": "Newbie",
+      "role": "USER",
+      "level": 29
+    },
+    "message": "ok",
+    "timestamp": "2026-05-03T03:36:22.163Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "99cc3bc0-e1e3-48ee-815b-9bfe1f7f7fe2",
+      "shortId": "00ZW80",
+      "name": "Newbie",
+      "role": "USER",
+      "level": 29
+    },
+    "message": "trading [Spice||BODY_SKIN|MYTHICAL][Fallen|VITA|WEAPON_SKIN|MYTHICAL][Bone|Bayonet|WEAPON_SKIN|MYTHICAL][Sizzle||BODY_SKIN|MYTHICAL][Noble|VITA|WEAPON_SKIN|LEGENDARY][Santa Claus||BODY_SKIN|LEGENDARY][Phantom||BODY_SKIN|MYTHICAL][Bansee|VITA|WEAPON_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-03T03:37:44.382Z"
   }
 ]
