@@ -70,5 +70,29 @@
     },
     "message": "Abuzer zen for mommu?",
     "timestamp": "2026-05-03T03:33:16.841Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "c5323133-eee2-44bd-831a-902af618050a",
+      "shortId": "SKK6YZ",
+      "name": "Inshallah",
+      "role": "USER",
+      "level": 44
+    },
+    "message": "Tr labyrinth",
+    "timestamp": "2026-05-03T04:09:29.920Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "c5323133-eee2-44bd-831a-902af618050a",
+      "shortId": "SKK6YZ",
+      "name": "Inshallah",
+      "role": "USER",
+      "level": 44
+    },
+    "message": "Tr[Labyrinth|VITA|WEAPON_SKIN|LEGENDARY]",
+    "timestamp": "2026-05-03T04:09:38.353Z"
   }
 ]
