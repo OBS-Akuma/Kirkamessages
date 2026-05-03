@@ -118,5 +118,17 @@
     },
     "message": "/price [Puppet||BODY_SKIN|MYTHICAL]",
     "timestamp": "2026-05-03T03:49:28.741Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "6ce0073c-cb99-448e-a356-c28c06851158",
+      "shortId": "1UKNIW",
+      "name": "Him.",
+      "role": "USER",
+      "level": 24
+    },
+    "message": "/price [Fever|SCAR|WEAPON_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-03T03:56:33.302Z"
   }
 ]
