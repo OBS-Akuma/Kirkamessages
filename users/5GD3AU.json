@@ -3428,5 +3428,17 @@
     },
     "message": "tu nahi",
     "timestamp": "2026-05-03T15:58:16.009Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "4525c2fd-62ac-46cf-8b35-f56bc75a81bb",
+      "shortId": "5GD3AU",
+      "name": "bilal",
+      "role": "USER",
+      "level": 40
+    },
+    "message": "me gopgop se kara hoo",
+    "timestamp": "2026-05-03T15:58:23.248Z"
   }
 ]
