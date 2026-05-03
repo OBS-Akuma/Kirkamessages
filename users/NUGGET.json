@@ -179,5 +179,17 @@
     },
     "message": "hiya yip",
     "timestamp": "2026-05-03T03:13:59.490Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "7f2a6090-abcb-48a7-8838-88ee8111b261",
+      "shortId": "NUGGET",
+      "name": "Akumaware.xyz",
+      "role": "USER",
+      "level": 55
+    },
+    "message": "/inv",
+    "timestamp": "2026-05-03T03:31:00.092Z"
   }
 ]
