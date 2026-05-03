@@ -22,5 +22,41 @@
     },
     "message": "Bflame offer 4 cv",
     "timestamp": "2026-05-02T19:33:42.853Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "af2a8134-8103-4f18-a202-352619fc307b",
+      "shortId": "QESXKG",
+      "name": "Caramel",
+      "role": "USER",
+      "level": 94
+    },
+    "message": "but not sold",
+    "timestamp": "2026-05-03T03:12:16.611Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "af2a8134-8103-4f18-a202-352619fc307b",
+      "shortId": "QESXKG",
+      "name": "Caramel",
+      "role": "USER",
+      "level": 94
+    },
+    "message": "too much",
+    "timestamp": "2026-05-03T03:12:21.586Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "af2a8134-8103-4f18-a202-352619fc307b",
+      "shortId": "QESXKG",
+      "name": "Caramel",
+      "role": "USER",
+      "level": 94
+    },
+    "message": "'/trade cancel",
+    "timestamp": "2026-05-03T03:13:00.651Z"
   }
 ]
