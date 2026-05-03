@@ -10,5 +10,17 @@
     },
     "message": "#PQ2QM3",
     "timestamp": "2026-05-03T15:47:34.977Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "319dc0a0-c84a-44dd-8e9e-138e859704e9",
+      "shortId": "QHVNOP",
+      "name": "procrastinate",
+      "role": "USER",
+      "level": 101
+    },
+    "message": "leo",
+    "timestamp": "2026-05-03T15:50:24.690Z"
   }
 ]
