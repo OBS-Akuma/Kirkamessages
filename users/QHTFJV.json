@@ -346,5 +346,101 @@
     },
     "message": "ok",
     "timestamp": "2026-05-03T15:44:56.243Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "01ef2f91-db69-4306-9e76-d0d02ecbb058",
+      "shortId": "QHTFJV",
+      "name": "ImBroke*LOL*",
+      "role": "USER",
+      "level": 93
+    },
+    "message": "no",
+    "timestamp": "2026-05-03T15:45:17.537Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "01ef2f91-db69-4306-9e76-d0d02ecbb058",
+      "shortId": "QHTFJV",
+      "name": "ImBroke*LOL*",
+      "role": "USER",
+      "level": 93
+    },
+    "message": "x1 only",
+    "timestamp": "2026-05-03T15:45:20.077Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "01ef2f91-db69-4306-9e76-d0d02ecbb058",
+      "shortId": "QHTFJV",
+      "name": "ImBroke*LOL*",
+      "role": "USER",
+      "level": 93
+    },
+    "message": "ok",
+    "timestamp": "2026-05-03T15:45:32.542Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "01ef2f91-db69-4306-9e76-d0d02ecbb058",
+      "shortId": "QHTFJV",
+      "name": "ImBroke*LOL*",
+      "role": "USER",
+      "level": 93
+    },
+    "message": "lf [Vocaloid|SCAR|WEAPON_SKIN|LEGENDARY]",
+    "timestamp": "2026-05-03T15:45:40.613Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "01ef2f91-db69-4306-9e76-d0d02ecbb058",
+      "shortId": "QHTFJV",
+      "name": "ImBroke*LOL*",
+      "role": "USER",
+      "level": 93
+    },
+    "message": "lf [Vocaloid|SCAR|WEAPON_SKIN|LEGENDARY]s",
+    "timestamp": "2026-05-03T15:45:46.401Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "01ef2f91-db69-4306-9e76-d0d02ecbb058",
+      "shortId": "QHTFJV",
+      "name": "ImBroke*LOL*",
+      "role": "USER",
+      "level": 93
+    },
+    "message": "lf [Vocaloid|SCAR|WEAPON_SKIN|LEGENDARY]ss",
+    "timestamp": "2026-05-03T15:45:47.573Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "01ef2f91-db69-4306-9e76-d0d02ecbb058",
+      "shortId": "QHTFJV",
+      "name": "ImBroke*LOL*",
+      "role": "USER",
+      "level": 93
+    },
+    "message": "lf [Vocaloid|SCAR|WEAPON_SKIN|LEGENDARY]sss",
+    "timestamp": "2026-05-03T15:45:48.673Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "01ef2f91-db69-4306-9e76-d0d02ecbb058",
+      "shortId": "QHTFJV",
+      "name": "ImBroke*LOL*",
+      "role": "USER",
+      "level": 93
+    },
+    "message": "last offer tp",
+    "timestamp": "2026-05-03T15:46:17.916Z"
   }
 ]
