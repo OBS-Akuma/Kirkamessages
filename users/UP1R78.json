@@ -1090,5 +1090,65 @@
     },
     "message": "well idk",
     "timestamp": "2026-05-03T03:14:26.059Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "4b3c9e26-0516-4634-99f9-ea8361ccd6d8",
+      "shortId": "UP1R78",
+      "name": "CASH",
+      "role": "USER",
+      "level": 80
+    },
+    "message": "/price tide",
+    "timestamp": "2026-05-03T03:14:49.940Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "4b3c9e26-0516-4634-99f9-ea8361ccd6d8",
+      "shortId": "UP1R78",
+      "name": "CASH",
+      "role": "USER",
+      "level": 80
+    },
+    "message": "Lucky",
+    "timestamp": "2026-05-03T03:15:13.037Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "4b3c9e26-0516-4634-99f9-ea8361ccd6d8",
+      "shortId": "UP1R78",
+      "name": "CASH",
+      "role": "USER",
+      "level": 80
+    },
+    "message": "UP[Charmed|Bayonet|WEAPON_SKIN|MYTHICAL][Polygon|Bayonet|WEAPON_SKIN|MYTHICAL][Cosmos|VITA|WEAPON_SKIN|MYTHICAL][Ember||BODY_SKIN|MYTHICAL][Twitch||BODY_SKIN|MYTHICAL][CYB3R|Bayonet|WEAPON_SKIN|MYTHICAL][Blast LAR|LAR|WEAPON_SKIN|MYTHICAL][Jade|Bayonet|WEAPON_SKIN|MYTHICAL][Sunshine||BODY_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-03T03:15:21.261Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "4b3c9e26-0516-4634-99f9-ea8361ccd6d8",
+      "shortId": "UP1R78",
+      "name": "CASH",
+      "role": "USER",
+      "level": 80
+    },
+    "message": "/price bay",
+    "timestamp": "2026-05-03T03:15:35.394Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "4b3c9e26-0516-4634-99f9-ea8361ccd6d8",
+      "shortId": "UP1R78",
+      "name": "CASH",
+      "role": "USER",
+      "level": 80
+    },
+    "message": "/price anon",
+    "timestamp": "2026-05-03T03:15:40.102Z"
   }
 ]
