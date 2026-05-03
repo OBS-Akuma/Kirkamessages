@@ -1,0 +1,26 @@
+[
+  {
+    "type": 2,
+    "user": {
+      "id": "guest-ae4cc5ae-90ba-42ed-a23b-61094bb90d07",
+      "shortId": "VDK4C1",
+      "name": "PokeHaniaPL",
+      "role": "USER",
+      "level": 7
+    },
+    "message": "im looking for free stuff ._.",
+    "timestamp": "2026-05-03T15:46:33.424Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "guest-ae4cc5ae-90ba-42ed-a23b-61094bb90d07",
+      "shortId": "VDK4C1",
+      "name": "PokeHaniaPL",
+      "role": "USER",
+      "level": 7
+    },
+    "message": "im also new to this game btw",
+    "timestamp": "2026-05-03T15:47:03.537Z"
+  }
+]
