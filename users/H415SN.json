@@ -94,5 +94,53 @@
     },
     "message": "newbie #Q3SR01 listen",
     "timestamp": "2026-05-03T03:51:12.856Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "nMIphnUUG0d0O6FFix2cU7iMda92",
+      "shortId": "H415SN",
+      "name": "VIRUS",
+      "role": "USER",
+      "level": 68
+    },
+    "message": "hm [Imperial|SCAR|WEAPON_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-03T03:51:36.746Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "nMIphnUUG0d0O6FFix2cU7iMda92",
+      "shortId": "H415SN",
+      "name": "VIRUS",
+      "role": "USER",
+      "level": 68
+    },
+    "message": "[Candle|Bayonet|WEAPON_SKIN|MYTHICAL] or [Sizzle||BODY_SKIN|MYTHICAL] for",
+    "timestamp": "2026-05-03T03:51:58.651Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "nMIphnUUG0d0O6FFix2cU7iMda92",
+      "shortId": "H415SN",
+      "name": "VIRUS",
+      "role": "USER",
+      "level": 68
+    },
+    "message": "yip",
+    "timestamp": "2026-05-03T03:53:07.064Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "nMIphnUUG0d0O6FFix2cU7iMda92",
+      "shortId": "H415SN",
+      "name": "VIRUS",
+      "role": "USER",
+      "level": 68
+    },
+    "message": "#Q3SR01 bro lisyen",
+    "timestamp": "2026-05-03T03:53:20.998Z"
   }
 ]
