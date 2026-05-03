@@ -190,5 +190,53 @@
     },
     "message": "tr[Anon||BODY_SKIN|MYTHICAL]",
     "timestamp": "2026-05-03T03:18:29.731Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "z2RZt14XLhe7HEGJsZbzLGeDSt82",
+      "shortId": "926N9F",
+      "name": "noir.",
+      "role": "USER",
+      "level": 90
+    },
+    "message": "/price twitch",
+    "timestamp": "2026-05-03T03:19:21.915Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "z2RZt14XLhe7HEGJsZbzLGeDSt82",
+      "shortId": "926N9F",
+      "name": "noir.",
+      "role": "USER",
+      "level": 90
+    },
+    "message": "bigmac",
+    "timestamp": "2026-05-03T03:20:30.399Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "z2RZt14XLhe7HEGJsZbzLGeDSt82",
+      "shortId": "926N9F",
+      "name": "noir.",
+      "role": "USER",
+      "level": 90
+    },
+    "message": "#ALITHF hm for [Hellspawn||BODY_SKIN|EPIC]?",
+    "timestamp": "2026-05-03T03:20:46.025Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "z2RZt14XLhe7HEGJsZbzLGeDSt82",
+      "shortId": "926N9F",
+      "name": "noir.",
+      "role": "USER",
+      "level": 90
+    },
+    "message": "i will offer if u tell me the price",
+    "timestamp": "2026-05-03T03:21:00.411Z"
   }
 ]
