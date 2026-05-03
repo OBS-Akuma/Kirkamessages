@@ -322,5 +322,53 @@
     },
     "message": "#4S19L9 didnt let me last long",
     "timestamp": "2026-05-03T15:55:37.591Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "fd75f84e-e218-4b57-a35f-53bc4216c6f1",
+      "shortId": "THEUNC",
+      "name": "bean",
+      "role": "USER",
+      "level": 99
+    },
+    "message": "is what i had equipped when i got banned",
+    "timestamp": "2026-05-03T15:56:11.569Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "fd75f84e-e218-4b57-a35f-53bc4216c6f1",
+      "shortId": "THEUNC",
+      "name": "bean",
+      "role": "USER",
+      "level": 99
+    },
+    "message": "i gotta figure out how to make an alt, cause when i try to log into an account",
+    "timestamp": "2026-05-03T15:56:48.651Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "fd75f84e-e218-4b57-a35f-53bc4216c6f1",
+      "shortId": "THEUNC",
+      "name": "bean",
+      "role": "USER",
+      "level": 99
+    },
+    "message": "it just logs me into the banned account lol",
+    "timestamp": "2026-05-03T15:56:57.356Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "fd75f84e-e218-4b57-a35f-53bc4216c6f1",
+      "shortId": "THEUNC",
+      "name": "bean",
+      "role": "USER",
+      "level": 99
+    },
+    "message": "ima try",
+    "timestamp": "2026-05-03T15:57:37.988Z"
   }
 ]
