@@ -202,5 +202,53 @@
     },
     "message": "WAIT BRB",
     "timestamp": "2026-05-03T15:52:15.759Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "ca796794-55ff-407e-801b-d8512272b68d",
+      "shortId": "HC3YLK",
+      "name": "Bread_B0t",
+      "role": "USER",
+      "level": 64
+    },
+    "message": "**TRADING ** [Hallowkod||BODY_SKIN|MYTHICAL]!!!!",
+    "timestamp": "2026-05-03T15:57:36.847Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "ca796794-55ff-407e-801b-d8512272b68d",
+      "shortId": "HC3YLK",
+      "name": "Bread_B0t",
+      "role": "USER",
+      "level": 64
+    },
+    "message": "**TRADING ** [Hallowkod||BODY_SKIN|MYTHICAL]!!!!!!",
+    "timestamp": "2026-05-03T15:57:41.094Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "ca796794-55ff-407e-801b-d8512272b68d",
+      "shortId": "HC3YLK",
+      "name": "Bread_B0t",
+      "role": "USER",
+      "level": 64
+    },
+    "message": "XD",
+    "timestamp": "2026-05-03T15:57:42.625Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "ca796794-55ff-407e-801b-d8512272b68d",
+      "shortId": "HC3YLK",
+      "name": "Bread_B0t",
+      "role": "USER",
+      "level": 64
+    },
+    "message": "yaa?",
+    "timestamp": "2026-05-03T15:57:55.050Z"
   }
 ]
