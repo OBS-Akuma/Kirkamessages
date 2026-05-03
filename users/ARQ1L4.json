@@ -154,5 +154,77 @@
     },
     "message": "lf [Skel||BODY_SKIN|EPIC] [Boo||BODY_SKIN|LEGENDARY]",
     "timestamp": "2026-05-03T03:37:58.578Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "7f630ea8-9489-40b2-9259-5ae155b686b3",
+      "shortId": "ARQ1L4",
+      "name": ".hpl",
+      "role": "USER",
+      "level": 91
+    },
+    "message": "offer",
+    "timestamp": "2026-05-03T03:38:36.643Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "7f630ea8-9489-40b2-9259-5ae155b686b3",
+      "shortId": "ARQ1L4",
+      "name": ".hpl",
+      "role": "USER",
+      "level": 91
+    },
+    "message": "150",
+    "timestamp": "2026-05-03T03:38:38.097Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "7f630ea8-9489-40b2-9259-5ae155b686b3",
+      "shortId": "ARQ1L4",
+      "name": ".hpl",
+      "role": "USER",
+      "level": 91
+    },
+    "message": "nah gng u dont have enough",
+    "timestamp": "2026-05-03T03:39:02.882Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "7f630ea8-9489-40b2-9259-5ae155b686b3",
+      "shortId": "ARQ1L4",
+      "name": ".hpl",
+      "role": "USER",
+      "level": 91
+    },
+    "message": "trading [Sculpture||BODY_SKIN|MYTHICAL] [Frozen||BODY_SKIN|PARANORMAL] [Darkweb||BODY_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-03T03:39:31.366Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "7f630ea8-9489-40b2-9259-5ae155b686b3",
+      "shortId": "ARQ1L4",
+      "name": ".hpl",
+      "role": "USER",
+      "level": 91
+    },
+    "message": "taking offers on [Lor||BODY_SKIN|LEGENDARY] [Labyrinth|VITA|WEAPON_SKIN|LEGENDARY] [Imperial|SCAR|WEAPON_SKIN|MYTHICAL] [Quilliam|VITA|WEAPON_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-03T03:39:54.113Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "7f630ea8-9489-40b2-9259-5ae155b686b3",
+      "shortId": "ARQ1L4",
+      "name": ".hpl",
+      "role": "USER",
+      "level": 91
+    },
+    "message": "or [Kod||BODY_SKIN|LEGENDARY]",
+    "timestamp": "2026-05-03T03:40:00.149Z"
   }
 ]
