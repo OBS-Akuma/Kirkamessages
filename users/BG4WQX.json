@@ -22,5 +22,77 @@
     },
     "message": "who want [Rainy||BODY_SKIN|MYTHICAL]?",
     "timestamp": "2026-05-03T03:14:28.683Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "cd106d52-b68a-4368-b93e-8b2be34dc797",
+      "shortId": "BG4WQX",
+      "name": "_zyrex_",
+      "role": "USER",
+      "level": 39
+    },
+    "message": "no",
+    "timestamp": "2026-05-03T03:15:19.919Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "cd106d52-b68a-4368-b93e-8b2be34dc797",
+      "shortId": "BG4WQX",
+      "name": "_zyrex_",
+      "role": "USER",
+      "level": 39
+    },
+    "message": "sry",
+    "timestamp": "2026-05-03T03:15:22.608Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "cd106d52-b68a-4368-b93e-8b2be34dc797",
+      "shortId": "BG4WQX",
+      "name": "_zyrex_",
+      "role": "USER",
+      "level": 39
+    },
+    "message": "tr[Rainy||BODY_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-03T03:15:42.615Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "cd106d52-b68a-4368-b93e-8b2be34dc797",
+      "shortId": "BG4WQX",
+      "name": "_zyrex_",
+      "role": "USER",
+      "level": 39
+    },
+    "message": "/wager [Rainy||BODY_SKIN|MYTHICAL] #8C6R8N",
+    "timestamp": "2026-05-03T03:17:49.979Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "cd106d52-b68a-4368-b93e-8b2be34dc797",
+      "shortId": "BG4WQX",
+      "name": "_zyrex_",
+      "role": "USER",
+      "level": 39
+    },
+    "message": "/cancelwager",
+    "timestamp": "2026-05-03T03:17:59.550Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "cd106d52-b68a-4368-b93e-8b2be34dc797",
+      "shortId": "BG4WQX",
+      "name": "_zyrex_",
+      "role": "USER",
+      "level": 39
+    },
+    "message": "tr[Rainy||BODY_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-03T03:18:04.699Z"
   }
 ]
