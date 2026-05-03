@@ -8,7 +8,7 @@
       "role": "USER",
       "level": 20
     },
-    "message": "チャットラグすぎ",
+    "message": "ãã£ããã©ã°ãã",
     "timestamp": "2026-05-03T15:36:56.798Z"
   },
   {
@@ -20,7 +20,7 @@
       "role": "USER",
       "level": 20
     },
-    "message": "買い取ろっか",
+    "message": "è²·ãåãã£ã",
     "timestamp": "2026-05-03T15:39:50.080Z"
   },
   {
@@ -32,7 +32,7 @@
       "role": "USER",
       "level": 20
     },
-    "message": "BanseeでForを",
+    "message": "Banseeã§Forã",
     "timestamp": "2026-05-03T15:40:09.610Z"
   },
   {
@@ -46,5 +46,53 @@
     },
     "message": "that is too bad",
     "timestamp": "2026-05-03T15:42:11.848Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "549b6bbc-8e20-4b32-952f-953779ca8a7b",
+      "shortId": "HUB956",
+      "name": "f7&N2p#Qz5*k@9",
+      "role": "USER",
+      "level": 20
+    },
+    "message": "Don't worry I won't accept your offer",
+    "timestamp": "2026-05-03T15:43:14.174Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "549b6bbc-8e20-4b32-952f-953779ca8a7b",
+      "shortId": "HUB956",
+      "name": "f7&N2p#Qz5*k@9",
+      "role": "USER",
+      "level": 20
+    },
+    "message": "クソオファーしかない",
+    "timestamp": "2026-05-03T15:44:18.316Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "549b6bbc-8e20-4b32-952f-953779ca8a7b",
+      "shortId": "HUB956",
+      "name": "f7&N2p#Qz5*k@9",
+      "role": "USER",
+      "level": 20
+    },
+    "message": "Forbidden is 1m now",
+    "timestamp": "2026-05-03T15:44:29.743Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "549b6bbc-8e20-4b32-952f-953779ca8a7b",
+      "shortId": "HUB956",
+      "name": "f7&N2p#Qz5*k@9",
+      "role": "USER",
+      "level": 20
+    },
+    "message": "wager tiburon",
+    "timestamp": "2026-05-03T15:46:45.015Z"
   }
 ]
