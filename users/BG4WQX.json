@@ -262,5 +262,149 @@
     },
     "message": "trade/wager[Rainy||BODY_SKIN|MYTHICAL]",
     "timestamp": "2026-05-03T03:37:21.297Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "cd106d52-b68a-4368-b93e-8b2be34dc797",
+      "shortId": "BG4WQX",
+      "name": "_zyrex_",
+      "role": "USER",
+      "level": 39
+    },
+    "message": "/wager [Rainy||BODY_SKIN|MYTHICAL] #RWREPA",
+    "timestamp": "2026-05-03T03:38:38.080Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "cd106d52-b68a-4368-b93e-8b2be34dc797",
+      "shortId": "BG4WQX",
+      "name": "_zyrex_",
+      "role": "USER",
+      "level": 39
+    },
+    "message": "/cancelwager",
+    "timestamp": "2026-05-03T03:39:46.742Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "cd106d52-b68a-4368-b93e-8b2be34dc797",
+      "shortId": "BG4WQX",
+      "name": "_zyrex_",
+      "role": "USER",
+      "level": 39
+    },
+    "message": "/confirmwager",
+    "timestamp": "2026-05-03T03:40:19.355Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "cd106d52-b68a-4368-b93e-8b2be34dc797",
+      "shortId": "BG4WQX",
+      "name": "_zyrex_",
+      "role": "USER",
+      "level": 39
+    },
+    "message": "へｗ",
+    "timestamp": "2026-05-03T03:40:28.874Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "cd106d52-b68a-4368-b93e-8b2be34dc797",
+      "shortId": "BG4WQX",
+      "name": "_zyrex_",
+      "role": "USER",
+      "level": 39
+    },
+    "message": "クソゲーだなｗ",
+    "timestamp": "2026-05-03T03:40:42.450Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "cd106d52-b68a-4368-b93e-8b2be34dc797",
+      "shortId": "BG4WQX",
+      "name": "_zyrex_",
+      "role": "USER",
+      "level": 39
+    },
+    "message": "はいおつ",
+    "timestamp": "2026-05-03T03:41:07.646Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "cd106d52-b68a-4368-b93e-8b2be34dc797",
+      "shortId": "BG4WQX",
+      "name": "_zyrex_",
+      "role": "USER",
+      "level": 39
+    },
+    "message": "gg",
+    "timestamp": "2026-05-03T03:41:23.452Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "cd106d52-b68a-4368-b93e-8b2be34dc797",
+      "shortId": "BG4WQX",
+      "name": "_zyrex_",
+      "role": "USER",
+      "level": 39
+    },
+    "message": "どんまいｗｗｗｗｗｗｗｗｗｗｗｗｗ",
+    "timestamp": "2026-05-03T03:41:28.266Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "cd106d52-b68a-4368-b93e-8b2be34dc797",
+      "shortId": "BG4WQX",
+      "name": "_zyrex_",
+      "role": "USER",
+      "level": 39
+    },
+    "message": "おもろ",
+    "timestamp": "2026-05-03T03:41:51.622Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "cd106d52-b68a-4368-b93e-8b2be34dc797",
+      "shortId": "BG4WQX",
+      "name": "_zyrex_",
+      "role": "USER",
+      "level": 39
+    },
+    "message": "/wager [Rainy||BODY_SKIN|MYTHICAL] #RWREPA",
+    "timestamp": "2026-05-03T03:42:38.113Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "cd106d52-b68a-4368-b93e-8b2be34dc797",
+      "shortId": "BG4WQX",
+      "name": "_zyrex_",
+      "role": "USER",
+      "level": 39
+    },
+    "message": "/cancelwager",
+    "timestamp": "2026-05-03T03:43:10.034Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "cd106d52-b68a-4368-b93e-8b2be34dc797",
+      "shortId": "BG4WQX",
+      "name": "_zyrex_",
+      "role": "USER",
+      "level": 39
+    },
+    "message": "おお",
+    "timestamp": "2026-05-03T03:43:36.340Z"
   }
 ]
