@@ -70,5 +70,17 @@
     },
     "message": "#BG4WQX do confirm wager",
     "timestamp": "2026-05-03T03:19:07.086Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "guest-22675094-2ca4-4df8-a48b-5bfdb58d62fe",
+      "shortId": "RWREPA",
+      "name": "Issnb",
+      "role": "USER",
+      "level": 7
+    },
+    "message": "/wager [Rainy||BODY_SKIN|MYTHICAL] #BG4WQX",
+    "timestamp": "2026-05-03T03:19:59.089Z"
   }
 ]
