@@ -8,7 +8,7 @@
       "role": "USER",
       "level": 20
     },
-    "message": "ÃÂ£ÃÂÃÂÃÂ£ÃÂÃÂ£ÃÂ£ÃÂÃÂÃÂ£ÃÂÃÂÃÂ£ÃÂÃÂ©ÃÂ£ÃÂÃÂ°ÃÂ£ÃÂÃÂÃÂ£ÃÂÃÂ",
+    "message": "ÃÂÃÂ£ÃÂÃÂÃÂÃÂÃÂÃÂ£ÃÂÃÂÃÂÃÂ£ÃÂÃÂ£ÃÂÃÂÃÂÃÂÃÂÃÂ£ÃÂÃÂÃÂÃÂÃÂÃÂ£ÃÂÃÂÃÂÃÂ©ÃÂÃÂ£ÃÂÃÂÃÂÃÂ°ÃÂÃÂ£ÃÂÃÂÃÂÃÂÃÂÃÂ£ÃÂÃÂÃÂÃÂ",
     "timestamp": "2026-05-03T15:36:56.798Z"
   },
   {
@@ -20,7 +20,7 @@
       "role": "USER",
       "level": 20
     },
-    "message": "ÃÂ¨ÃÂ²ÃÂ·ÃÂ£ÃÂÃÂÃÂ¥ÃÂÃÂÃÂ£ÃÂÃÂÃÂ£ÃÂÃÂ£ÃÂ£ÃÂÃÂ",
+    "message": "ÃÂÃÂ¨ÃÂÃÂ²ÃÂÃÂ·ÃÂÃÂ£ÃÂÃÂÃÂÃÂÃÂÃÂ¥ÃÂÃÂÃÂÃÂÃÂÃÂ£ÃÂÃÂÃÂÃÂÃÂÃÂ£ÃÂÃÂÃÂÃÂ£ÃÂÃÂ£ÃÂÃÂÃÂÃÂ",
     "timestamp": "2026-05-03T15:39:50.080Z"
   },
   {
@@ -32,7 +32,7 @@
       "role": "USER",
       "level": 20
     },
-    "message": "BanseeÃÂ£ÃÂÃÂ§ForÃÂ£ÃÂÃÂ",
+    "message": "BanseeÃÂÃÂ£ÃÂÃÂÃÂÃÂ§ForÃÂÃÂ£ÃÂÃÂÃÂÃÂ",
     "timestamp": "2026-05-03T15:40:09.610Z"
   },
   {
@@ -68,7 +68,7 @@
       "role": "USER",
       "level": 20
     },
-    "message": "Ã£ÂÂ¯Ã£ÂÂ½Ã£ÂÂªÃ£ÂÂÃ£ÂÂ¡Ã£ÂÂ¼Ã£ÂÂÃ£ÂÂÃ£ÂÂªÃ£ÂÂ",
+    "message": "ÃÂ£ÃÂÃÂ¯ÃÂ£ÃÂÃÂ½ÃÂ£ÃÂÃÂªÃÂ£ÃÂÃÂÃÂ£ÃÂÃÂ¡ÃÂ£ÃÂÃÂ¼ÃÂ£ÃÂÃÂÃÂ£ÃÂÃÂÃÂ£ÃÂÃÂªÃÂ£ÃÂÃÂ",
     "timestamp": "2026-05-03T15:44:18.316Z"
   },
   {
@@ -140,7 +140,7 @@
       "role": "USER",
       "level": 20
     },
-    "message": "無理だこいつら",
+    "message": "ç¡çã ããã¤ã",
     "timestamp": "2026-05-03T15:50:32.228Z"
   },
   {
@@ -154,5 +154,29 @@
     },
     "message": "trading [Golden||CHEST|LEGENDARY]x3600[Uranium||BODY_SKIN|MYTHICAL][Pandora||BODY_SKIN|MYTHICAL]",
     "timestamp": "2026-05-03T15:51:59.065Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "549b6bbc-8e20-4b32-952f-953779ca8a7b",
+      "shortId": "HUB956",
+      "name": "f7&N2p#Qz5*k@9",
+      "role": "USER",
+      "level": 20
+    },
+    "message": "trading [Golden||CHEST|LEGENDARY]x3600[Uranium||BODY_SKIN|MYTHICAL][Pandora||BODY_SKIN|MYTHICAL]trading [Golden||CHEST|LEGENDARY]x3600[Uranium||BODY_SKIN|MYTHICAL][Pandora||BODY_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-03T15:52:29.510Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "549b6bbc-8e20-4b32-952f-953779ca8a7b",
+      "shortId": "HUB956",
+      "name": "f7&N2p#Qz5*k@9",
+      "role": "USER",
+      "level": 20
+    },
+    "message": "trading [Golden||CHEST|LEGENDARY]x3600[Uranium||BODY_SKIN|MYTHICAL][Pandora||BODY_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-03T15:53:06.497Z"
   }
 ]
