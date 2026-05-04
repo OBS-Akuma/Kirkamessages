@@ -118,5 +118,389 @@
     },
     "message": "no",
     "timestamp": "2026-05-04T06:59:33.074Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "6828517b-6c30-42c0-a4b1-2601e1dd5206",
+      "shortId": "QR0ITM",
+      "name": ".011",
+      "role": "USER",
+      "level": 100
+    },
+    "message": "tr [Tiburon|Bayonet|WEAPON_SKIN|MYTHICAL] lf golden 6k :>",
+    "timestamp": "2026-05-04T07:02:41.167Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "6828517b-6c30-42c0-a4b1-2601e1dd5206",
+      "shortId": "QR0ITM",
+      "name": ".011",
+      "role": "USER",
+      "level": 100
+    },
+    "message": "?",
+    "timestamp": "2026-05-04T07:02:59.794Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "6828517b-6c30-42c0-a4b1-2601e1dd5206",
+      "shortId": "QR0ITM",
+      "name": ".011",
+      "role": "USER",
+      "level": 100
+    },
+    "message": "tr [Tiburon|Bayonet|WEAPON_SKIN|MYTHICAL] lf 6k golden",
+    "timestamp": "2026-05-04T07:03:47.040Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "6828517b-6c30-42c0-a4b1-2601e1dd5206",
+      "shortId": "QR0ITM",
+      "name": ".011",
+      "role": "USER",
+      "level": 100
+    },
+    "message": "/st [Tiburon|Bayonet|WEAPON_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-04T07:12:52.387Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "6828517b-6c30-42c0-a4b1-2601e1dd5206",
+      "shortId": "QR0ITM",
+      "name": ".011",
+      "role": "USER",
+      "level": 100
+    },
+    "message": "/vt 86812",
+    "timestamp": "2026-05-04T07:13:00.995Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "6828517b-6c30-42c0-a4b1-2601e1dd5206",
+      "shortId": "QR0ITM",
+      "name": ".011",
+      "role": "USER",
+      "level": 100
+    },
+    "message": "/vt 31768.",
+    "timestamp": "2026-05-04T07:13:09.934Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "6828517b-6c30-42c0-a4b1-2601e1dd5206",
+      "shortId": "QR0ITM",
+      "name": ".011",
+      "role": "USER",
+      "level": 100
+    },
+    "message": "/vt 60865",
+    "timestamp": "2026-05-04T07:13:40.441Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "6828517b-6c30-42c0-a4b1-2601e1dd5206",
+      "shortId": "QR0ITM",
+      "name": ".011",
+      "role": "USER",
+      "level": 100
+    },
+    "message": "/st [tiburon",
+    "timestamp": "2026-05-04T07:15:03.105Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "6828517b-6c30-42c0-a4b1-2601e1dd5206",
+      "shortId": "QR0ITM",
+      "name": ".011",
+      "role": "USER",
+      "level": 100
+    },
+    "message": "/vt 37234",
+    "timestamp": "2026-05-04T07:15:13.335Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "6828517b-6c30-42c0-a4b1-2601e1dd5206",
+      "shortId": "QR0ITM",
+      "name": ".011",
+      "role": "USER",
+      "level": 100
+    },
+    "message": "/vt 25306",
+    "timestamp": "2026-05-04T07:15:22.468Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "6828517b-6c30-42c0-a4b1-2601e1dd5206",
+      "shortId": "QR0ITM",
+      "name": ".011",
+      "role": "USER",
+      "level": 100
+    },
+    "message": "/st [Tiburon|Bayonet|WEAPON_SKIN|MYTHICAL] p2",
+    "timestamp": "2026-05-04T07:15:41.751Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "6828517b-6c30-42c0-a4b1-2601e1dd5206",
+      "shortId": "QR0ITM",
+      "name": ".011",
+      "role": "USER",
+      "level": 100
+    },
+    "message": "/vt 11335",
+    "timestamp": "2026-05-04T07:15:47.729Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "6828517b-6c30-42c0-a4b1-2601e1dd5206",
+      "shortId": "QR0ITM",
+      "name": ".011",
+      "role": "USER",
+      "level": 100
+    },
+    "message": "/vt 78598",
+    "timestamp": "2026-05-04T07:15:55.403Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "6828517b-6c30-42c0-a4b1-2601e1dd5206",
+      "shortId": "QR0ITM",
+      "name": ".011",
+      "role": "USER",
+      "level": 100
+    },
+    "message": "/vt 96486",
+    "timestamp": "2026-05-04T07:16:22.072Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "6828517b-6c30-42c0-a4b1-2601e1dd5206",
+      "shortId": "QR0ITM",
+      "name": ".011",
+      "role": "USER",
+      "level": 100
+    },
+    "message": "/vt 72323",
+    "timestamp": "2026-05-04T07:16:53.732Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "6828517b-6c30-42c0-a4b1-2601e1dd5206",
+      "shortId": "QR0ITM",
+      "name": ".011",
+      "role": "USER",
+      "level": 100
+    },
+    "message": "/st [Tiburon|Bayonet|WEAPON_SKIN|MYTHICAL] p2",
+    "timestamp": "2026-05-04T07:17:19.765Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "6828517b-6c30-42c0-a4b1-2601e1dd5206",
+      "shortId": "QR0ITM",
+      "name": ".011",
+      "role": "USER",
+      "level": 100
+    },
+    "message": "/vt 62323",
+    "timestamp": "2026-05-04T07:17:31.546Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "6828517b-6c30-42c0-a4b1-2601e1dd5206",
+      "shortId": "QR0ITM",
+      "name": ".011",
+      "role": "USER",
+      "level": 100
+    },
+    "message": "/vt 79480",
+    "timestamp": "2026-05-04T07:17:43.521Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "6828517b-6c30-42c0-a4b1-2601e1dd5206",
+      "shortId": "QR0ITM",
+      "name": ".011",
+      "role": "USER",
+      "level": 100
+    },
+    "message": "/st [Tiburon|Bayonet|WEAPON_SKIN|MYTHICAL] p3",
+    "timestamp": "2026-05-04T07:18:07.996Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "6828517b-6c30-42c0-a4b1-2601e1dd5206",
+      "shortId": "QR0ITM",
+      "name": ".011",
+      "role": "USER",
+      "level": 100
+    },
+    "message": "/vt 6002",
+    "timestamp": "2026-05-04T07:18:17.525Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "6828517b-6c30-42c0-a4b1-2601e1dd5206",
+      "shortId": "QR0ITM",
+      "name": ".011",
+      "role": "USER",
+      "level": 100
+    },
+    "message": "/vt 30386",
+    "timestamp": "2026-05-04T07:18:23.525Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "6828517b-6c30-42c0-a4b1-2601e1dd5206",
+      "shortId": "QR0ITM",
+      "name": ".011",
+      "role": "USER",
+      "level": 100
+    },
+    "message": "/vt 30386.",
+    "timestamp": "2026-05-04T07:19:16.193Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "6828517b-6c30-42c0-a4b1-2601e1dd5206",
+      "shortId": "QR0ITM",
+      "name": ".011",
+      "role": "USER",
+      "level": 100
+    },
+    "message": "/vt [Ortus|Revolver|WEAPON_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-04T07:19:48.614Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "6828517b-6c30-42c0-a4b1-2601e1dd5206",
+      "shortId": "QR0ITM",
+      "name": ".011",
+      "role": "USER",
+      "level": 100
+    },
+    "message": "/vt [Forbidden|AR-9|WEAPON_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-04T07:19:57.682Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "6828517b-6c30-42c0-a4b1-2601e1dd5206",
+      "shortId": "QR0ITM",
+      "name": ".011",
+      "role": "USER",
+      "level": 100
+    },
+    "message": "/st [Ortus|Revolver|WEAPON_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-04T07:20:03.156Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "6828517b-6c30-42c0-a4b1-2601e1dd5206",
+      "shortId": "QR0ITM",
+      "name": ".011",
+      "role": "USER",
+      "level": 100
+    },
+    "message": "/vt 10880",
+    "timestamp": "2026-05-04T07:20:17.518Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "6828517b-6c30-42c0-a4b1-2601e1dd5206",
+      "shortId": "QR0ITM",
+      "name": ".011",
+      "role": "USER",
+      "level": 100
+    },
+    "message": "/vt 4559",
+    "timestamp": "2026-05-04T07:20:25.919Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "6828517b-6c30-42c0-a4b1-2601e1dd5206",
+      "shortId": "QR0ITM",
+      "name": ".011",
+      "role": "USER",
+      "level": 100
+    },
+    "message": "/vt 78598",
+    "timestamp": "2026-05-04T07:20:42.001Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "6828517b-6c30-42c0-a4b1-2601e1dd5206",
+      "shortId": "QR0ITM",
+      "name": ".011",
+      "role": "USER",
+      "level": 100
+    },
+    "message": "/st [Forbidden|AR-9|WEAPON_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-04T07:20:48.020Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "6828517b-6c30-42c0-a4b1-2601e1dd5206",
+      "shortId": "QR0ITM",
+      "name": ".011",
+      "role": "USER",
+      "level": 100
+    },
+    "message": "/vt 95321",
+    "timestamp": "2026-05-04T07:20:55.588Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "6828517b-6c30-42c0-a4b1-2601e1dd5206",
+      "shortId": "QR0ITM",
+      "name": ".011",
+      "role": "USER",
+      "level": 100
+    },
+    "message": "/vt 37234",
+    "timestamp": "2026-05-04T07:21:06.583Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "6828517b-6c30-42c0-a4b1-2601e1dd5206",
+      "shortId": "QR0ITM",
+      "name": ".011",
+      "role": "USER",
+      "level": 100
+    },
+    "message": "/vt 44610",
+    "timestamp": "2026-05-04T07:21:17.594Z"
   }
 ]
