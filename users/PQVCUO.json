@@ -1,0 +1,38 @@
+[
+  {
+    "type": 2,
+    "user": {
+      "id": "97a11dbd-c7dd-447a-9433-25a191a6869c",
+      "shortId": "PQVCUO",
+      "name": "Newbie",
+      "role": "USER",
+      "level": 26
+    },
+    "message": "/raffle",
+    "timestamp": "2026-05-04T07:44:41.652Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "97a11dbd-c7dd-447a-9433-25a191a6869c",
+      "shortId": "PQVCUO",
+      "name": "Newbie",
+      "role": "USER",
+      "level": 26
+    },
+    "message": "/lotterystats",
+    "timestamp": "2026-05-04T07:44:54.466Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "97a11dbd-c7dd-447a-9433-25a191a6869c",
+      "shortId": "PQVCUO",
+      "name": "Newbie",
+      "role": "USER",
+      "level": 26
+    },
+    "message": "/rafflestats",
+    "timestamp": "2026-05-04T07:45:03.596Z"
+  }
+]
