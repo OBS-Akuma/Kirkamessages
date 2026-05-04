@@ -46,5 +46,65 @@
     },
     "message": "/price slime",
     "timestamp": "2026-05-03T03:34:29.964Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "aX8psLSnw8ejOFoZavWC0ijahY62",
+      "shortId": "XOU7HK",
+      "name": "TienMinh",
+      "role": "USER",
+      "level": 66
+    },
+    "message": "[INFERNO]",
+    "timestamp": "2026-05-04T04:55:32.301Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "aX8psLSnw8ejOFoZavWC0ijahY62",
+      "shortId": "XOU7HK",
+      "name": "TienMinh",
+      "role": "USER",
+      "level": 66
+    },
+    "message": "[Infernal|AR-9|WEAPON_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-04T04:55:55.361Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "aX8psLSnw8ejOFoZavWC0ijahY62",
+      "shortId": "XOU7HK",
+      "name": "TienMinh",
+      "role": "USER",
+      "level": 66
+    },
+    "message": "[Infernal|AR-9|WEAPON_SKIN|MYTHICAL] PLS",
+    "timestamp": "2026-05-04T04:56:21.673Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "aX8psLSnw8ejOFoZavWC0ijahY62",
+      "shortId": "XOU7HK",
+      "name": "TienMinh",
+      "role": "USER",
+      "level": 66
+    },
+    "message": "[Infernal|AR-9|WEAPON_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-04T04:56:38.613Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "aX8psLSnw8ejOFoZavWC0ijahY62",
+      "shortId": "XOU7HK",
+      "name": "TienMinh",
+      "role": "USER",
+      "level": 66
+    },
+    "message": "/price polar",
+    "timestamp": "2026-05-04T04:57:41.709Z"
   }
 ]
