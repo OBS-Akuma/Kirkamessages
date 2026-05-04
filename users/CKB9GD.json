@@ -958,5 +958,17 @@
     },
     "message": "who got [Slay||BODY_SKIN|MYTHICAL] again?",
     "timestamp": "2026-05-04T02:47:12.552Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "aec0038d-ee70-41fe-aa67-a6f112398260",
+      "shortId": "CKB9GD",
+      "name": "subliminal.",
+      "role": "USER",
+      "level": 98
+    },
+    "message": "/mywager",
+    "timestamp": "2026-05-04T03:11:06.893Z"
   }
 ]
