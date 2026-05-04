@@ -190,5 +190,17 @@
     },
     "message": "Trading kin and clownabeh",
     "timestamp": "2026-05-04T03:00:08.068Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "e86e8f49-e70a-4ccf-bb4e-60b5a0556b1c",
+      "shortId": "P39WAW",
+      "name": "SHELL",
+      "role": "USER",
+      "level": 81
+    },
+    "message": "#CURSEDi m trading kin and clownabeh",
+    "timestamp": "2026-05-04T03:04:48.407Z"
   }
 ]
