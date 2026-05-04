@@ -406,5 +406,137 @@
     },
     "message": "LF wager [Ghoul||BODY_SKIN|MYTHICAL][Heavy|LAR|WEAPON_SKIN|MYTHICAL][Slasher||BODY_SKIN|PARANORMAL][Vintage|VITA|WEAPON_SKIN|MYTHICAL]",
     "timestamp": "2026-05-04T03:54:20.247Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "e94fc41b-ee11-41e2-8942-4381500742af",
+      "shortId": "KILLER",
+      "name": "Quitter",
+      "role": "USER",
+      "level": 99
+    },
+    "message": "Wagering [Static|VITA|WEAPON_SKIN|MYTHICAL][Bansee|VITA|WEAPON_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-04T03:58:06.033Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "e94fc41b-ee11-41e2-8942-4381500742af",
+      "shortId": "KILLER",
+      "name": "Quitter",
+      "role": "USER",
+      "level": 99
+    },
+    "message": "Only wager",
+    "timestamp": "2026-05-04T03:58:31.695Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "e94fc41b-ee11-41e2-8942-4381500742af",
+      "shortId": "KILLER",
+      "name": "Quitter",
+      "role": "USER",
+      "level": 99
+    },
+    "message": "I only hve 1, ofcourse 1",
+    "timestamp": "2026-05-04T03:59:03.997Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "e94fc41b-ee11-41e2-8942-4381500742af",
+      "shortId": "KILLER",
+      "name": "Quitter",
+      "role": "USER",
+      "level": 99
+    },
+    "message": "/cancelwager",
+    "timestamp": "2026-05-04T03:59:17.948Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "e94fc41b-ee11-41e2-8942-4381500742af",
+      "shortId": "KILLER",
+      "name": "Quitter",
+      "role": "USER",
+      "level": 99
+    },
+    "message": "No golden",
+    "timestamp": "2026-05-04T03:59:23.363Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "e94fc41b-ee11-41e2-8942-4381500742af",
+      "shortId": "KILLER",
+      "name": "Quitter",
+      "role": "USER",
+      "level": 99
+    },
+    "message": "/confirmwager",
+    "timestamp": "2026-05-04T03:59:37.633Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "e94fc41b-ee11-41e2-8942-4381500742af",
+      "shortId": "KILLER",
+      "name": "Quitter",
+      "role": "USER",
+      "level": 99
+    },
+    "message": "/claim",
+    "timestamp": "2026-05-04T04:00:22.601Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "e94fc41b-ee11-41e2-8942-4381500742af",
+      "shortId": "KILLER",
+      "name": "Quitter",
+      "role": "USER",
+      "level": 99
+    },
+    "message": "/confirmwager",
+    "timestamp": "2026-05-04T04:01:05.206Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "e94fc41b-ee11-41e2-8942-4381500742af",
+      "shortId": "KILLER",
+      "name": "Quitter",
+      "role": "USER",
+      "level": 99
+    },
+    "message": "-.-",
+    "timestamp": "2026-05-04T04:01:12.451Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "e94fc41b-ee11-41e2-8942-4381500742af",
+      "shortId": "KILLER",
+      "name": "Quitter",
+      "role": "USER",
+      "level": 99
+    },
+    "message": "Last take it back and go away",
+    "timestamp": "2026-05-04T04:01:22.399Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "e94fc41b-ee11-41e2-8942-4381500742af",
+      "shortId": "KILLER",
+      "name": "Quitter",
+      "role": "USER",
+      "level": 99
+    },
+    "message": "Go away",
+    "timestamp": "2026-05-04T04:01:51.269Z"
   }
 ]
