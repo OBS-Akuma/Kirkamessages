@@ -634,5 +634,41 @@
     },
     "message": "i accepted",
     "timestamp": "2026-05-04T04:18:54.304Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "32fd760a-1a40-4c3c-9be6-090c74c0e904",
+      "shortId": "X7M5NQ",
+      "name": "$$KING-VON$$",
+      "role": "USER",
+      "level": 76
+    },
+    "message": "trading tiburon",
+    "timestamp": "2026-05-04T04:22:59.138Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "32fd760a-1a40-4c3c-9be6-090c74c0e904",
+      "shortId": "X7M5NQ",
+      "name": "$$KING-VON$$",
+      "role": "USER",
+      "level": 76
+    },
+    "message": "tr[Tiburon|Bayonet|WEAPON_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-04T04:37:24.364Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "32fd760a-1a40-4c3c-9be6-090c74c0e904",
+      "shortId": "X7M5NQ",
+      "name": "$$KING-VON$$",
+      "role": "USER",
+      "level": 76
+    },
+    "message": "tr[Tiburon|Bayonet|WEAPON_SKIN|MYTHICAL][Moltorath||BODY_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-04T04:38:50.808Z"
   }
 ]
