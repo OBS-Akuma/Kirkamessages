@@ -250,5 +250,17 @@
     },
     "message": "im bad at trading ngl",
     "timestamp": "2026-05-04T02:55:06.802Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "2fde3233-4f8a-4e77-bd7e-61070f06f116",
+      "shortId": "A9IZ40",
+      "name": "fireeclash",
+      "role": "USER",
+      "level": 10
+    },
+    "message": "em",
+    "timestamp": "2026-05-04T03:02:32.441Z"
   }
 ]
