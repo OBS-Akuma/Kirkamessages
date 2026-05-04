@@ -10,5 +10,41 @@
     },
     "message": "tr my [Ortus|Revolver|WEAPON_SKIN|MYTHICAL]x2 for ur[Void SCAR|SCAR|WEAPON_SKIN|MYTHICAL]",
     "timestamp": "2026-05-04T04:32:32.997Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "b3d1d8da-24aa-451c-b685-17702bb82f15",
+      "shortId": "ANBOJR",
+      "name": "Glitch",
+      "role": "USER",
+      "level": 61
+    },
+    "message": "/hm xed",
+    "timestamp": "2026-05-04T07:00:45.929Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "b3d1d8da-24aa-451c-b685-17702bb82f15",
+      "shortId": "ANBOJR",
+      "name": "Glitch",
+      "role": "USER",
+      "level": 61
+    },
+    "message": "bro",
+    "timestamp": "2026-05-04T07:08:32.803Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "b3d1d8da-24aa-451c-b685-17702bb82f15",
+      "shortId": "ANBOJR",
+      "name": "Glitch",
+      "role": "USER",
+      "level": 61
+    },
+    "message": "/hm Starship",
+    "timestamp": "2026-05-04T07:08:39.569Z"
   }
 ]
