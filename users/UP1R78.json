@@ -1714,5 +1714,629 @@
     },
     "message": "/price tiburon",
     "timestamp": "2026-05-04T02:22:10.258Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "4b3c9e26-0516-4634-99f9-ea8361ccd6d8",
+      "shortId": "UP1R78",
+      "name": "CASH",
+      "role": "USER",
+      "level": 80
+    },
+    "message": "UPG[Jade|Bayonet|WEAPON_SKIN|MYTHICAL][2024|Bayonet|WEAPON_SKIN|MYTHICAL][CYB3R|Bayonet|WEAPON_SKIN|MYTHICAL][Cosmos|VITA|WEAPON_SKIN|MYTHICAL][1337|Shark|WEAPON_SKIN|MYTHICAL][Majestic|Shark|WEAPON_SKIN|MYTHICAL][Sandwich||BODY_SKIN|MYTHICAL][Thriller||BODY_SKIN|MYTHICAL][Drake|Bayonet|WEAPON_SKIN|MYTHICAL][Reed||BODY_SKIN|LEGENDARY]",
+    "timestamp": "2026-05-04T02:22:38.521Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "4b3c9e26-0516-4634-99f9-ea8361ccd6d8",
+      "shortId": "UP1R78",
+      "name": "CASH",
+      "role": "USER",
+      "level": 80
+    },
+    "message": "WHO HAS [Royalchamp||BODY_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-04T02:22:59.686Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "4b3c9e26-0516-4634-99f9-ea8361ccd6d8",
+      "shortId": "UP1R78",
+      "name": "CASH",
+      "role": "USER",
+      "level": 80
+    },
+    "message": "UPG[Jade|Bayonet|WEAPON_SKIN|MYTHICAL][2024|Bayonet|WEAPON_SKIN|MYTHICAL][CYB3R|Bayonet|WEAPON_SKIN|MYTHICAL][Cosmos|VITA|WEAPON_SKIN|MYTHICAL][1337|Shark|WEAPON_SKIN|MYTHICAL][Majestic|Shark|WEAPON_SKIN|MYTHICAL][Sandwich||BODY_SKIN|MYTHICAL][Thriller||BODY_SKIN|MYTHICAL][Drake|Bayonet|WEAPON_SKIN|MYTHICAL][Reed||BODY_SKIN|LEGENDARY]",
+    "timestamp": "2026-05-04T02:24:03.809Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "4b3c9e26-0516-4634-99f9-ea8361ccd6d8",
+      "shortId": "UP1R78",
+      "name": "CASH",
+      "role": "USER",
+      "level": 80
+    },
+    "message": "Who has jazzin?",
+    "timestamp": "2026-05-04T02:45:38.428Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "4b3c9e26-0516-4634-99f9-ea8361ccd6d8",
+      "shortId": "UP1R78",
+      "name": "CASH",
+      "role": "USER",
+      "level": 80
+    },
+    "message": "Hm[Jazzin||BODY_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-04T02:45:52.207Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "4b3c9e26-0516-4634-99f9-ea8361ccd6d8",
+      "shortId": "UP1R78",
+      "name": "CASH",
+      "role": "USER",
+      "level": 80
+    },
+    "message": "/price pandora",
+    "timestamp": "2026-05-04T02:46:03.736Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "4b3c9e26-0516-4634-99f9-ea8361ccd6d8",
+      "shortId": "UP1R78",
+      "name": "CASH",
+      "role": "USER",
+      "level": 80
+    },
+    "message": "Lol",
+    "timestamp": "2026-05-04T02:46:17.259Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "4b3c9e26-0516-4634-99f9-ea8361ccd6d8",
+      "shortId": "UP1R78",
+      "name": "CASH",
+      "role": "USER",
+      "level": 80
+    },
+    "message": "Who has [jazzin[ ?",
+    "timestamp": "2026-05-04T02:46:59.348Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "4b3c9e26-0516-4634-99f9-ea8361ccd6d8",
+      "shortId": "UP1R78",
+      "name": "CASH",
+      "role": "USER",
+      "level": 80
+    },
+    "message": "anyone ?[Jazzin||BODY_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-04T02:47:08.608Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "4b3c9e26-0516-4634-99f9-ea8361ccd6d8",
+      "shortId": "UP1R78",
+      "name": "CASH",
+      "role": "USER",
+      "level": 80
+    },
+    "message": "/price jazzin",
+    "timestamp": "2026-05-04T02:47:19.006Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "4b3c9e26-0516-4634-99f9-ea8361ccd6d8",
+      "shortId": "UP1R78",
+      "name": "CASH",
+      "role": "USER",
+      "level": 80
+    },
+    "message": "/hm polar,polygon,drake",
+    "timestamp": "2026-05-04T02:48:13.579Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "4b3c9e26-0516-4634-99f9-ea8361ccd6d8",
+      "shortId": "UP1R78",
+      "name": "CASH",
+      "role": "USER",
+      "level": 80
+    },
+    "message": "I have a good offer",
+    "timestamp": "2026-05-04T02:48:20.985Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "4b3c9e26-0516-4634-99f9-ea8361ccd6d8",
+      "shortId": "UP1R78",
+      "name": "CASH",
+      "role": "USER",
+      "level": 80
+    },
+    "message": "WHo wanna do this ?",
+    "timestamp": "2026-05-04T02:48:37.235Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "4b3c9e26-0516-4634-99f9-ea8361ccd6d8",
+      "shortId": "UP1R78",
+      "name": "CASH",
+      "role": "USER",
+      "level": 80
+    },
+    "message": "this mad fair",
+    "timestamp": "2026-05-04T02:48:43.919Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "4b3c9e26-0516-4634-99f9-ea8361ccd6d8",
+      "shortId": "UP1R78",
+      "name": "CASH",
+      "role": "USER",
+      "level": 80
+    },
+    "message": "My offer is fair plz someone accept",
+    "timestamp": "2026-05-04T02:49:07.754Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "4b3c9e26-0516-4634-99f9-ea8361ccd6d8",
+      "shortId": "UP1R78",
+      "name": "CASH",
+      "role": "USER",
+      "level": 80
+    },
+    "message": "/inv #IS5FRI",
+    "timestamp": "2026-05-04T02:49:23.527Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "4b3c9e26-0516-4634-99f9-ea8361ccd6d8",
+      "shortId": "UP1R78",
+      "name": "CASH",
+      "role": "USER",
+      "level": 80
+    },
+    "message": "/inv",
+    "timestamp": "2026-05-04T02:49:33.928Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "4b3c9e26-0516-4634-99f9-ea8361ccd6d8",
+      "shortId": "UP1R78",
+      "name": "CASH",
+      "role": "USER",
+      "level": 80
+    },
+    "message": "/hm[Daynight||BODY_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-04T02:50:07.729Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "4b3c9e26-0516-4634-99f9-ea8361ccd6d8",
+      "shortId": "UP1R78",
+      "name": "CASH",
+      "role": "USER",
+      "level": 80
+    },
+    "message": "PASS MILKO",
+    "timestamp": "2026-05-04T02:50:12.556Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "4b3c9e26-0516-4634-99f9-ea8361ccd6d8",
+      "shortId": "UP1R78",
+      "name": "CASH",
+      "role": "USER",
+      "level": 80
+    },
+    "message": "Easiest pass of all time",
+    "timestamp": "2026-05-04T02:50:19.758Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "4b3c9e26-0516-4634-99f9-ea8361ccd6d8",
+      "shortId": "UP1R78",
+      "name": "CASH",
+      "role": "USER",
+      "level": 80
+    },
+    "message": "/price daynight",
+    "timestamp": "2026-05-04T02:50:46.684Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "4b3c9e26-0516-4634-99f9-ea8361ccd6d8",
+      "shortId": "UP1R78",
+      "name": "CASH",
+      "role": "USER",
+      "level": 80
+    },
+    "message": "Who has [Daynight||BODY_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-04T02:50:57.690Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "4b3c9e26-0516-4634-99f9-ea8361ccd6d8",
+      "shortId": "UP1R78",
+      "name": "CASH",
+      "role": "USER",
+      "level": 80
+    },
+    "message": "Newbie",
+    "timestamp": "2026-05-04T02:51:06.642Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "4b3c9e26-0516-4634-99f9-ea8361ccd6d8",
+      "shortId": "UP1R78",
+      "name": "CASH",
+      "role": "USER",
+      "level": 80
+    },
+    "message": "Yt",
+    "timestamp": "2026-05-04T02:51:13.872Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "4b3c9e26-0516-4634-99f9-ea8361ccd6d8",
+      "shortId": "UP1R78",
+      "name": "CASH",
+      "role": "USER",
+      "level": 80
+    },
+    "message": "how much you looking for it",
+    "timestamp": "2026-05-04T02:51:17.769Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "4b3c9e26-0516-4634-99f9-ea8361ccd6d8",
+      "shortId": "UP1R78",
+      "name": "CASH",
+      "role": "USER",
+      "level": 80
+    },
+    "message": "i want to get one",
+    "timestamp": "2026-05-04T02:51:23.062Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "4b3c9e26-0516-4634-99f9-ea8361ccd6d8",
+      "shortId": "UP1R78",
+      "name": "CASH",
+      "role": "USER",
+      "level": 80
+    },
+    "message": "its a cool charachter",
+    "timestamp": "2026-05-04T02:51:29.375Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "4b3c9e26-0516-4634-99f9-ea8361ccd6d8",
+      "shortId": "UP1R78",
+      "name": "CASH",
+      "role": "USER",
+      "level": 80
+    },
+    "message": "ohh",
+    "timestamp": "2026-05-04T02:51:34.849Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "4b3c9e26-0516-4634-99f9-ea8361ccd6d8",
+      "shortId": "UP1R78",
+      "name": "CASH",
+      "role": "USER",
+      "level": 80
+    },
+    "message": "dam",
+    "timestamp": "2026-05-04T02:51:36.648Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "4b3c9e26-0516-4634-99f9-ea8361ccd6d8",
+      "shortId": "UP1R78",
+      "name": "CASH",
+      "role": "USER",
+      "level": 80
+    },
+    "message": "DAmm",
+    "timestamp": "2026-05-04T02:51:39.305Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "4b3c9e26-0516-4634-99f9-ea8361ccd6d8",
+      "shortId": "UP1R78",
+      "name": "CASH",
+      "role": "USER",
+      "level": 80
+    },
+    "message": "nvm",
+    "timestamp": "2026-05-04T02:51:42.996Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "4b3c9e26-0516-4634-99f9-ea8361ccd6d8",
+      "shortId": "UP1R78",
+      "name": "CASH",
+      "role": "USER",
+      "level": 80
+    },
+    "message": "Im soo broke",
+    "timestamp": "2026-05-04T02:51:45.645Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "4b3c9e26-0516-4634-99f9-ea8361ccd6d8",
+      "shortId": "UP1R78",
+      "name": "CASH",
+      "role": "USER",
+      "level": 80
+    },
+    "message": "IM SOO BROKE",
+    "timestamp": "2026-05-04T02:51:50.156Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "4b3c9e26-0516-4634-99f9-ea8361ccd6d8",
+      "shortId": "UP1R78",
+      "name": "CASH",
+      "role": "USER",
+      "level": 80
+    },
+    "message": "IM BROKE IM NEVER GETTING [Daynight||BODY_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-04T02:52:02.042Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "4b3c9e26-0516-4634-99f9-ea8361ccd6d8",
+      "shortId": "UP1R78",
+      "name": "CASH",
+      "role": "USER",
+      "level": 80
+    },
+    "message": "Who has downigt",
+    "timestamp": "2026-05-04T02:52:26.312Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "4b3c9e26-0516-4634-99f9-ea8361ccd6d8",
+      "shortId": "UP1R78",
+      "name": "CASH",
+      "role": "USER",
+      "level": 80
+    },
+    "message": "Im the broket one gere",
+    "timestamp": "2026-05-04T02:52:34.810Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "4b3c9e26-0516-4634-99f9-ea8361ccd6d8",
+      "shortId": "UP1R78",
+      "name": "CASH",
+      "role": "USER",
+      "level": 80
+    },
+    "message": "Im never getting [Daynight||BODY_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-04T02:52:55.349Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "4b3c9e26-0516-4634-99f9-ea8361ccd6d8",
+      "shortId": "UP1R78",
+      "name": "CASH",
+      "role": "USER",
+      "level": 80
+    },
+    "message": "I have [cosmos",
+    "timestamp": "2026-05-04T02:53:07.373Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "4b3c9e26-0516-4634-99f9-ea8361ccd6d8",
+      "shortId": "UP1R78",
+      "name": "CASH",
+      "role": "USER",
+      "level": 80
+    },
+    "message": "urbotie",
+    "timestamp": "2026-05-04T02:53:11.281Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "4b3c9e26-0516-4634-99f9-ea8361ccd6d8",
+      "shortId": "UP1R78",
+      "name": "CASH",
+      "role": "USER",
+      "level": 80
+    },
+    "message": "[Cosmos|VITA|WEAPON_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-04T02:53:15.110Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "4b3c9e26-0516-4634-99f9-ea8361ccd6d8",
+      "shortId": "UP1R78",
+      "name": "CASH",
+      "role": "USER",
+      "level": 80
+    },
+    "message": "/hm cosmos,polygon,jade,polar",
+    "timestamp": "2026-05-04T02:54:32.943Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "4b3c9e26-0516-4634-99f9-ea8361ccd6d8",
+      "shortId": "UP1R78",
+      "name": "CASH",
+      "role": "USER",
+      "level": 80
+    },
+    "message": "Plz someone do this",
+    "timestamp": "2026-05-04T02:54:44.529Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "4b3c9e26-0516-4634-99f9-ea8361ccd6d8",
+      "shortId": "UP1R78",
+      "name": "CASH",
+      "role": "USER",
+      "level": 80
+    },
+    "message": "I really like this",
+    "timestamp": "2026-05-04T02:54:48.508Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "4b3c9e26-0516-4634-99f9-ea8361ccd6d8",
+      "shortId": "UP1R78",
+      "name": "CASH",
+      "role": "USER",
+      "level": 80
+    },
+    "message": "Thats sick",
+    "timestamp": "2026-05-04T02:55:02.022Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "4b3c9e26-0516-4634-99f9-ea8361ccd6d8",
+      "shortId": "UP1R78",
+      "name": "CASH",
+      "role": "USER",
+      "level": 80
+    },
+    "message": "Urbotie",
+    "timestamp": "2026-05-04T02:55:19.885Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "4b3c9e26-0516-4634-99f9-ea8361ccd6d8",
+      "shortId": "UP1R78",
+      "name": "CASH",
+      "role": "USER",
+      "level": 80
+    },
+    "message": "can i get a [Dynasty||BODY_SKIN|MYTHICAL] ?",
+    "timestamp": "2026-05-04T02:55:25.786Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "4b3c9e26-0516-4634-99f9-ea8361ccd6d8",
+      "shortId": "UP1R78",
+      "name": "CASH",
+      "role": "USER",
+      "level": 80
+    },
+    "message": "urboibettle Can I get [Dynasty||BODY_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-04T02:56:02.186Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "4b3c9e26-0516-4634-99f9-ea8361ccd6d8",
+      "shortId": "UP1R78",
+      "name": "CASH",
+      "role": "USER",
+      "level": 80
+    },
+    "message": "plz",
+    "timestamp": "2026-05-04T02:56:05.288Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "4b3c9e26-0516-4634-99f9-ea8361ccd6d8",
+      "shortId": "UP1R78",
+      "name": "CASH",
+      "role": "USER",
+      "level": 80
+    },
+    "message": "Ir",
+    "timestamp": "2026-05-04T02:57:10.260Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "4b3c9e26-0516-4634-99f9-ea8361ccd6d8",
+      "shortId": "UP1R78",
+      "name": "CASH",
+      "role": "USER",
+      "level": 80
+    },
+    "message": "Ur you got me",
+    "timestamp": "2026-05-04T02:57:14.317Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "4b3c9e26-0516-4634-99f9-ea8361ccd6d8",
+      "shortId": "UP1R78",
+      "name": "CASH",
+      "role": "USER",
+      "level": 80
+    },
+    "message": "Urboibeyyle you got me with some mythics",
+    "timestamp": "2026-05-04T02:57:26.303Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "4b3c9e26-0516-4634-99f9-ea8361ccd6d8",
+      "shortId": "UP1R78",
+      "name": "CASH",
+      "role": "USER",
+      "level": 80
+    },
+    "message": "Damm",
+    "timestamp": "2026-05-04T02:57:38.432Z"
   }
 ]
