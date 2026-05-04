@@ -394,5 +394,53 @@
     },
     "message": "what is 10 squared* 432",
     "timestamp": "2026-05-04T03:15:51.511Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "pjos8TgALMV593vz9HRCtuOw4p83",
+      "shortId": "DRB0SF",
+      "name": "UrBad",
+      "role": "USER",
+      "level": 23
+    },
+    "message": "incorect",
+    "timestamp": "2026-05-04T03:16:12.441Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "pjos8TgALMV593vz9HRCtuOw4p83",
+      "shortId": "DRB0SF",
+      "name": "UrBad",
+      "role": "USER",
+      "level": 23
+    },
+    "message": "/ennter",
+    "timestamp": "2026-05-04T03:17:05.764Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "pjos8TgALMV593vz9HRCtuOw4p83",
+      "shortId": "DRB0SF",
+      "name": "UrBad",
+      "role": "USER",
+      "level": 23
+    },
+    "message": "/enter",
+    "timestamp": "2026-05-04T03:17:17.141Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "pjos8TgALMV593vz9HRCtuOw4p83",
+      "shortId": "DRB0SF",
+      "name": "UrBad",
+      "role": "USER",
+      "level": 23
+    },
+    "message": "/invetory",
+    "timestamp": "2026-05-04T03:17:51.903Z"
   }
 ]
