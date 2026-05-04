@@ -202,5 +202,53 @@
     },
     "message": "alr",
     "timestamp": "2026-05-04T02:11:33.324Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "d88f4f73-1334-4556-9168-e0c6945ad2a1",
+      "shortId": "KSOY64",
+      "name": "Blaze",
+      "role": "USER",
+      "level": 98
+    },
+    "message": "Tr [Lor||BODY_SKIN|LEGENDARY] lf [Widow|Shark|WEAPON_SKIN|EPIC][Ukiyo|VITA|WEAPON_SKIN|MYTHICAL][Maze||BODY_SKIN|EPIC][Quilliam|VITA|WEAPON_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-04T06:53:27.840Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "d88f4f73-1334-4556-9168-e0c6945ad2a1",
+      "shortId": "KSOY64",
+      "name": "Blaze",
+      "role": "USER",
+      "level": 98
+    },
+    "message": "umm hpl ill dg lor for those items if u have",
+    "timestamp": "2026-05-04T06:53:51.528Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "d88f4f73-1334-4556-9168-e0c6945ad2a1",
+      "shortId": "KSOY64",
+      "name": "Blaze",
+      "role": "USER",
+      "level": 98
+    },
+    "message": "Pew",
+    "timestamp": "2026-05-04T06:55:11.986Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "d88f4f73-1334-4556-9168-e0c6945ad2a1",
+      "shortId": "KSOY64",
+      "name": "Blaze",
+      "role": "USER",
+      "level": 98
+    },
+    "message": "Pew wait imma send u link",
+    "timestamp": "2026-05-04T06:55:36.142Z"
   }
 ]
