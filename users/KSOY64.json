@@ -334,5 +334,77 @@
     },
     "message": "yo brqx hm rosed is upgrade?",
     "timestamp": "2026-05-04T06:58:31.694Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "d88f4f73-1334-4556-9168-e0c6945ad2a1",
+      "shortId": "KSOY64",
+      "name": "Blaze",
+      "role": "USER",
+      "level": 98
+    },
+    "message": "Tr [Lor||BODY_SKIN|LEGENDARY] lf [Ukiyo|VITA|WEAPON_SKIN|MYTHICAL][Maze||BODY_SKIN|EPIC][Quilliam|VITA|WEAPON_SKIN|MYTHICAL][Widow|Shark|WEAPON_SKIN|EPIC]",
+    "timestamp": "2026-05-04T07:03:21.421Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "d88f4f73-1334-4556-9168-e0c6945ad2a1",
+      "shortId": "KSOY64",
+      "name": "Blaze",
+      "role": "USER",
+      "level": 98
+    },
+    "message": ".",
+    "timestamp": "2026-05-04T07:03:22.223Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "d88f4f73-1334-4556-9168-e0c6945ad2a1",
+      "shortId": "KSOY64",
+      "name": "Blaze",
+      "role": "USER",
+      "level": 98
+    },
+    "message": "[Metro|AR-9|WEAPON_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-04T07:04:28.722Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "d88f4f73-1334-4556-9168-e0c6945ad2a1",
+      "shortId": "KSOY64",
+      "name": "Blaze",
+      "role": "USER",
+      "level": 98
+    },
+    "message": "[Lightning|AR-9|WEAPON_SKIN|EPIC]",
+    "timestamp": "2026-05-04T07:04:53.501Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "d88f4f73-1334-4556-9168-e0c6945ad2a1",
+      "shortId": "KSOY64",
+      "name": "Blaze",
+      "role": "USER",
+      "level": 98
+    },
+    "message": "[lighting].",
+    "timestamp": "2026-05-04T07:06:14.877Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "d88f4f73-1334-4556-9168-e0c6945ad2a1",
+      "shortId": "KSOY64",
+      "name": "Blaze",
+      "role": "USER",
+      "level": 98
+    },
+    "message": "[Lightning|AR-9|WEAPON_SKIN|EPIC]",
+    "timestamp": "2026-05-04T07:06:22.242Z"
   }
 ]
