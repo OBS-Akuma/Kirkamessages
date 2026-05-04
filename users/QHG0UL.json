@@ -34,5 +34,17 @@
     },
     "message": "/inv",
     "timestamp": "2026-05-02T19:23:37.216Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "LvZ3s7PpbvTithiWmkSLtHj14Sq1",
+      "shortId": "QHG0UL",
+      "name": "INDONESIAN",
+      "role": "USER",
+      "level": 15
+    },
+    "message": "/hm [Forbidden|AR-9|WEAPON_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-04T07:51:42.746Z"
   }
 ]
