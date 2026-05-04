@@ -1,0 +1,26 @@
+[
+  {
+    "type": 2,
+    "user": {
+      "id": "43e45d7c-af2e-4e66-8cf2-c26358125248",
+      "shortId": "KVCYCH",
+      "name": "0__0",
+      "role": "USER",
+      "level": 30
+    },
+    "message": "/heads or tales",
+    "timestamp": "2026-05-04T02:45:15.585Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "43e45d7c-af2e-4e66-8cf2-c26358125248",
+      "shortId": "KVCYCH",
+      "name": "0__0",
+      "role": "USER",
+      "level": 30
+    },
+    "message": "/heads",
+    "timestamp": "2026-05-04T02:45:20.416Z"
+  }
+]
