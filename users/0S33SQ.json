@@ -10,5 +10,17 @@
     },
     "message": "/price mabel",
     "timestamp": "2026-05-03T15:46:28.699Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "6e96cbad-888e-4efd-bd88-73b43c669daf",
+      "shortId": "0S33SQ",
+      "name": "-CAT-",
+      "role": "USER",
+      "level": 99
+    },
+    "message": "/price [Vocaloid|SCAR|WEAPON_SKIN|LEGENDARY]",
+    "timestamp": "2026-05-04T07:53:18.843Z"
   }
 ]
