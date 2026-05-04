@@ -704,7 +704,7 @@
       "role": "USER",
       "level": 94
     },
-    "message": "ã»pãªã»ãï½",
+    "message": "Ã£ÂÂ»pÃ£ÂÂªÃ£ÂÂ»Ã£ÂÂÃ¯Â½Â",
     "timestamp": "2026-05-04T02:30:08.718Z"
   },
   {
@@ -716,7 +716,7 @@
       "role": "USER",
       "level": 94
     },
-    "message": "ããã",
+    "message": "Ã£ÂÂÃ£ÂÂÃ£ÂÂ",
     "timestamp": "2026-05-04T02:30:12.748Z"
   },
   {
@@ -836,7 +836,7 @@
       "role": "USER",
       "level": 94
     },
-    "message": "ãããã¨ã",
+    "message": "Ã£ÂÂÃ£ÂÂÃ£ÂÂÃ£ÂÂ¨Ã£ÂÂ",
     "timestamp": "2026-05-04T02:38:12.729Z"
   },
   {
@@ -1162,5 +1162,53 @@
     },
     "message": "sorry I really like it.",
     "timestamp": "2026-05-04T03:01:52.867Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "af2a8134-8103-4f18-a202-352619fc307b",
+      "shortId": "QESXKG",
+      "name": "Caramel",
+      "role": "USER",
+      "level": 94
+    },
+    "message": "I think theres a few people who have but I dont know by name",
+    "timestamp": "2026-05-04T03:03:19.720Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "af2a8134-8103-4f18-a202-352619fc307b",
+      "shortId": "QESXKG",
+      "name": "Caramel",
+      "role": "USER",
+      "level": 94
+    },
+    "message": "if I find one maybe I look for it",
+    "timestamp": "2026-05-04T03:04:18.940Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "af2a8134-8103-4f18-a202-352619fc307b",
+      "shortId": "QESXKG",
+      "name": "Caramel",
+      "role": "USER",
+      "level": 94
+    },
+    "message": "AYA [Wiggleworp|VITA|WEAPON_SKIN|PARANORMAL]あるよ",
+    "timestamp": "2026-05-04T03:04:49.260Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "af2a8134-8103-4f18-a202-352619fc307b",
+      "shortId": "QESXKG",
+      "name": "Caramel",
+      "role": "USER",
+      "level": 94
+    },
+    "message": "/enter",
+    "timestamp": "2026-05-04T03:05:11.172Z"
   }
 ]
