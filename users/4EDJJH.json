@@ -2120,7 +2120,7 @@
       "role": "USER",
       "level": 8
     },
-    "message": "yÃ¸",
+    "message": "yÃÂ¸",
     "timestamp": "2026-05-04T03:06:35.633Z"
   },
   {
@@ -2530,5 +2530,17 @@
     },
     "message": "i didnt know",
     "timestamp": "2026-05-04T03:14:16.235Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "39e45b35-dade-4acb-bba1-be7363406ffb",
+      "shortId": "4EDJJH",
+      "name": "Newbie#1",
+      "role": "USER",
+      "level": 8
+    },
+    "message": "Hi",
+    "timestamp": "2026-05-04T03:54:53.420Z"
   }
 ]
