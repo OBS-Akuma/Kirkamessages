@@ -166,5 +166,17 @@
     },
     "message": "no",
     "timestamp": "2026-05-04T03:47:19.913Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "a2035d2a-40d0-4d1e-952b-4fc48dc53c94",
+      "shortId": "02979J",
+      "name": "Baduy",
+      "role": "USER",
+      "level": 95
+    },
+    "message": "qwerty what did you trade for helendus?",
+    "timestamp": "2026-05-04T03:55:09.471Z"
   }
 ]
