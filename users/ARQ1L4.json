@@ -1726,5 +1726,29 @@
     },
     "message": "/price [Fragile|VITA|WEAPON_SKIN|MYTHICAL]",
     "timestamp": "2026-05-04T03:55:34.892Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "7f630ea8-9489-40b2-9259-5ae155b686b3",
+      "shortId": "ARQ1L4",
+      "name": ".hpl",
+      "role": "USER",
+      "level": 91
+    },
+    "message": "its still 3 :/",
+    "timestamp": "2026-05-04T03:55:41.622Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "7f630ea8-9489-40b2-9259-5ae155b686b3",
+      "shortId": "ARQ1L4",
+      "name": ".hpl",
+      "role": "USER",
+      "level": 91
+    },
+    "message": "/price [Sunday|Bayonet|WEAPON_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-04T03:55:46.881Z"
   }
 ]
