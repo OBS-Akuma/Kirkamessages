@@ -562,5 +562,53 @@
     },
     "message": "What skin?",
     "timestamp": "2026-05-04T02:00:25.869Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "5d544b9e-5ca6-4638-b3a2-0318522e29af",
+      "shortId": "TRE873",
+      "name": "QWERTY",
+      "role": "USER",
+      "level": 66
+    },
+    "message": "Trading [Polychrome|VITA|WEAPON_SKIN|LEGENDARY][Vocaloid|SCAR|WEAPON_SKIN|LEGENDARY]",
+    "timestamp": "2026-05-04T02:02:26.007Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "5d544b9e-5ca6-4638-b3a2-0318522e29af",
+      "shortId": "TRE873",
+      "name": "QWERTY",
+      "role": "USER",
+      "level": 66
+    },
+    "message": "ITZAichmomania",
+    "timestamp": "2026-05-04T02:03:51.263Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "5d544b9e-5ca6-4638-b3a2-0318522e29af",
+      "shortId": "TRE873",
+      "name": "QWERTY",
+      "role": "USER",
+      "level": 66
+    },
+    "message": "Hibiki wsp",
+    "timestamp": "2026-05-04T02:05:38.146Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "5d544b9e-5ca6-4638-b3a2-0318522e29af",
+      "shortId": "TRE873",
+      "name": "QWERTY",
+      "role": "USER",
+      "level": 66
+    },
+    "message": "It is",
+    "timestamp": "2026-05-04T02:06:17.204Z"
   }
 ]
