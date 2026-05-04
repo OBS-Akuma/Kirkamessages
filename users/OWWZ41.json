@@ -82,5 +82,29 @@
     },
     "message": "/inv #O1E906",
     "timestamp": "2026-05-04T04:17:19.195Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "fP610P26EjgCC3VpxjEhnoH1NIy1",
+      "shortId": "OWWZ41",
+      "name": "BON-JOVI",
+      "role": "USER",
+      "level": 46
+    },
+    "message": "/bolt [Dreamscape|LAR|WEAPON_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-04T04:25:42.091Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "fP610P26EjgCC3VpxjEhnoH1NIy1",
+      "shortId": "OWWZ41",
+      "name": "BON-JOVI",
+      "role": "USER",
+      "level": 46
+    },
+    "message": "/locate [Dreamscape|LAR|WEAPON_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-04T04:25:53.954Z"
   }
 ]
