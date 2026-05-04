@@ -526,5 +526,41 @@
     },
     "message": "Pew wsp",
     "timestamp": "2026-05-03T15:40:30.914Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "5d544b9e-5ca6-4638-b3a2-0318522e29af",
+      "shortId": "TRE873",
+      "name": "QWERTY",
+      "role": "USER",
+      "level": 66
+    },
+    "message": "Trading [Ranked_S3 Top100|Bayonet|WEAPON_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-04T01:59:39.977Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "5d544b9e-5ca6-4638-b3a2-0318522e29af",
+      "shortId": "TRE873",
+      "name": "QWERTY",
+      "role": "USER",
+      "level": 66
+    },
+    "message": "What?",
+    "timestamp": "2026-05-04T02:00:06.419Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "5d544b9e-5ca6-4638-b3a2-0318522e29af",
+      "shortId": "TRE873",
+      "name": "QWERTY",
+      "role": "USER",
+      "level": 66
+    },
+    "message": "What skin?",
+    "timestamp": "2026-05-04T02:00:25.869Z"
   }
 ]
