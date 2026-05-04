@@ -22,5 +22,29 @@
     },
     "message": "/bolt [Tiburon|Bayonet|WEAPON_SKIN|MYTHICAL]",
     "timestamp": "2026-05-04T01:55:20.221Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "d88f4f73-1334-4556-9168-e0c6945ad2a1",
+      "shortId": "KSOY64",
+      "name": "Blaze",
+      "role": "USER",
+      "level": 98
+    },
+    "message": "dms consoles",
+    "timestamp": "2026-05-04T01:57:40.119Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "d88f4f73-1334-4556-9168-e0c6945ad2a1",
+      "shortId": "KSOY64",
+      "name": "Blaze",
+      "role": "USER",
+      "level": 98
+    },
+    "message": "[Orion||BODY_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-04T01:59:45.768Z"
   }
 ]
