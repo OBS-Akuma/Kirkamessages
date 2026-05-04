@@ -118,5 +118,41 @@
     },
     "message": "also G48 i think its somewhat hard",
     "timestamp": "2026-05-04T08:03:23.110Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "enc7llcDrHZHxoB01vfNoUdOded2",
+      "shortId": "1LIMWK",
+      "name": "Vanisher",
+      "role": "USER",
+      "level": 15
+    },
+    "message": "guys how do i trade my shroud for a Lor?",
+    "timestamp": "2026-05-04T08:04:06.988Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "enc7llcDrHZHxoB01vfNoUdOded2",
+      "shortId": "1LIMWK",
+      "name": "Vanisher",
+      "role": "USER",
+      "level": 15
+    },
+    "message": "oh ok",
+    "timestamp": "2026-05-04T08:04:46.031Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "enc7llcDrHZHxoB01vfNoUdOded2",
+      "shortId": "1LIMWK",
+      "name": "Vanisher",
+      "role": "USER",
+      "level": 15
+    },
+    "message": "wait Lor is unobtainable?? why?",
+    "timestamp": "2026-05-04T08:04:56.129Z"
   }
 ]
