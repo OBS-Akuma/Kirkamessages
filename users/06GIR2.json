@@ -1,0 +1,38 @@
+[
+  {
+    "type": 2,
+    "user": {
+      "id": "9252167f-acb3-4f72-975f-49b97a8df81a",
+      "shortId": "06GIR2",
+      "name": "Mya!",
+      "role": "USER",
+      "level": 79
+    },
+    "message": "/hm [Mabel||BODY_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-04T03:25:01.231Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "9252167f-acb3-4f72-975f-49b97a8df81a",
+      "shortId": "06GIR2",
+      "name": "Mya!",
+      "role": "USER",
+      "level": 79
+    },
+    "message": "/hm [Samta||BODY_SKIN|LEGENDARY]",
+    "timestamp": "2026-05-04T03:27:22.303Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "9252167f-acb3-4f72-975f-49b97a8df81a",
+      "shortId": "06GIR2",
+      "name": "Mya!",
+      "role": "USER",
+      "level": 79
+    },
+    "message": "/hm [Splush|Shark|WEAPON_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-04T03:38:02.499Z"
+  }
+]
