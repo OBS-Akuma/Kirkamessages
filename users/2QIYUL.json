@@ -3178,5 +3178,65 @@
     },
     "message": "offer for ortus saint",
     "timestamp": "2026-05-04T07:03:45.390Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "1ae21f3a-c5d5-4161-8718-75880e3d3cc8",
+      "shortId": "2QIYUL",
+      "name": "RAGEx",
+      "role": "USER",
+      "level": 42
+    },
+    "message": "/wager [Ortus|Revolver|WEAPON_SKIN|MYTHICAL]x2 #WHYLIE",
+    "timestamp": "2026-05-04T07:04:21.408Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "1ae21f3a-c5d5-4161-8718-75880e3d3cc8",
+      "shortId": "2QIYUL",
+      "name": "RAGEx",
+      "role": "USER",
+      "level": 42
+    },
+    "message": "yo wtf",
+    "timestamp": "2026-05-04T07:05:59.178Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "1ae21f3a-c5d5-4161-8718-75880e3d3cc8",
+      "shortId": "2QIYUL",
+      "name": "RAGEx",
+      "role": "USER",
+      "level": 42
+    },
+    "message": "iWIN not funny",
+    "timestamp": "2026-05-04T07:06:16.991Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "1ae21f3a-c5d5-4161-8718-75880e3d3cc8",
+      "shortId": "2QIYUL",
+      "name": "RAGEx",
+      "role": "USER",
+      "level": 42
+    },
+    "message": "/claim",
+    "timestamp": "2026-05-04T07:06:19.131Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "1ae21f3a-c5d5-4161-8718-75880e3d3cc8",
+      "shortId": "2QIYUL",
+      "name": "RAGEx",
+      "role": "USER",
+      "level": 42
+    },
+    "message": "gojo too haar k bhag jata he",
+    "timestamp": "2026-05-04T07:06:37.140Z"
   }
 ]
