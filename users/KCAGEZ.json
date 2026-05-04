@@ -226,5 +226,17 @@
     },
     "message": "TRADING CFING OR WAGER [SAINT PATRICK[ 60M",
     "timestamp": "2026-05-04T06:56:47.687Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "L1pXyZKhoVQwGvtNQKFagYc3aSx1",
+      "shortId": "KCAGEZ",
+      "name": "KCAGEZ#3K5JD8",
+      "role": "USER",
+      "level": 16
+    },
+    "message": "[Saint Patrick|Shark|WEAPON_SKIN|LEGENDARY]",
+    "timestamp": "2026-05-04T06:56:54.383Z"
   }
 ]
