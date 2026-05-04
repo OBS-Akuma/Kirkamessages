@@ -82,5 +82,53 @@
     },
     "message": "[Forbidden|AR-9|WEAPON_SKIN|MYTHICAL] and what else",
     "timestamp": "2026-05-04T03:04:37.781Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "5534ea38-0ecd-43e9-a324-608849264d1c",
+      "shortId": "CURSED",
+      "name": "nefor",
+      "role": "USER",
+      "level": 98
+    },
+    "message": "guys",
+    "timestamp": "2026-05-04T03:06:52.793Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "5534ea38-0ecd-43e9-a324-608849264d1c",
+      "shortId": "CURSED",
+      "name": "nefor",
+      "role": "USER",
+      "level": 98
+    },
+    "message": "whats the cw rewards",
+    "timestamp": "2026-05-04T03:07:01.040Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "5534ea38-0ecd-43e9-a324-608849264d1c",
+      "shortId": "CURSED",
+      "name": "nefor",
+      "role": "USER",
+      "level": 98
+    },
+    "message": "i have only [Forbidden|AR-9|WEAPON_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-04T03:07:10.308Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "5534ea38-0ecd-43e9-a324-608849264d1c",
+      "shortId": "CURSED",
+      "name": "nefor",
+      "role": "USER",
+      "level": 98
+    },
+    "message": "i wanna know that else",
+    "timestamp": "2026-05-04T03:07:22.875Z"
   }
 ]
