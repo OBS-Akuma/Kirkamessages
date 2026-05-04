@@ -286,5 +286,77 @@
     },
     "message": "Lf [Void SCAR|SCAR|WEAPON_SKIN|MYTHICAL] [Void Shark|Shark|WEAPON_SKIN|MYTHICAL] [Void VITA|VITA|WEAPON_SKIN|MYTHICAL]",
     "timestamp": "2026-05-04T07:29:26.933Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "fcb2da3e-5617-4afa-9769-d677b7479782",
+      "shortId": "2HPWTQ",
+      "name": "G4B.",
+      "role": "USER",
+      "level": 67
+    },
+    "message": "tr [Tiburon|Bayonet|WEAPON_SKIN|MYTHICAL][Forbidden|AR-9|WEAPON_SKIN|MYTHICAL][Ortus|Revolver|WEAPON_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-04T08:01:43.076Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "fcb2da3e-5617-4afa-9769-d677b7479782",
+      "shortId": "2HPWTQ",
+      "name": "G4B.",
+      "role": "USER",
+      "level": 67
+    },
+    "message": "Lf [Void SCAR|SCAR|WEAPON_SKIN|MYTHICAL] [Void Shark|Shark|WEAPON_SKIN|MYTHICAL] [Void VITA|VITA|WEAPON_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-04T08:01:44.626Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "fcb2da3e-5617-4afa-9769-d677b7479782",
+      "shortId": "2HPWTQ",
+      "name": "G4B.",
+      "role": "USER",
+      "level": 67
+    },
+    "message": "who have [Solar|Shark|WEAPON_SKIN|LEGENDARY] [eclie]",
+    "timestamp": "2026-05-04T08:02:01.999Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "fcb2da3e-5617-4afa-9769-d677b7479782",
+      "shortId": "2HPWTQ",
+      "name": "G4B.",
+      "role": "USER",
+      "level": 67
+    },
+    "message": "who have [Solar|Shark|WEAPON_SKIN|LEGENDARY] [Eclipse|Bayonet|WEAPON_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-04T08:02:09.851Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "fcb2da3e-5617-4afa-9769-d677b7479782",
+      "shortId": "2HPWTQ",
+      "name": "G4B.",
+      "role": "USER",
+      "level": 67
+    },
+    "message": "japanese",
+    "timestamp": "2026-05-04T08:02:48.157Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "fcb2da3e-5617-4afa-9769-d677b7479782",
+      "shortId": "2HPWTQ",
+      "name": "G4B.",
+      "role": "USER",
+      "level": 67
+    },
+    "message": "is japanese hard?",
+    "timestamp": "2026-05-04T08:03:01.020Z"
   }
 ]
