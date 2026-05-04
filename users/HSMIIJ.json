@@ -130,5 +130,29 @@
     },
     "message": "nty pew",
     "timestamp": "2026-05-03T15:42:55.673Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "vbJO1f7CfMUMPVwv0dftq3g81rk1",
+      "shortId": "HSMIIJ",
+      "name": "Ridou_is_Back",
+      "role": "USER",
+      "level": 90
+    },
+    "message": "/last10 [Forbidden|AR-9|WEAPON_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-03T16:09:33.474Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "vbJO1f7CfMUMPVwv0dftq3g81rk1",
+      "shortId": "HSMIIJ",
+      "name": "Ridou_is_Back",
+      "role": "USER",
+      "level": 90
+    },
+    "message": "tr[Forbidden|AR-9|WEAPON_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-03T16:10:19.923Z"
   }
 ]
