@@ -442,5 +442,101 @@
     },
     "message": "yea thats a scam",
     "timestamp": "2026-05-04T02:04:04.786Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "39e45b35-dade-4acb-bba1-be7363406ffb",
+      "shortId": "4EDJJH",
+      "name": "Newbie#1",
+      "role": "USER",
+      "level": 8
+    },
+    "message": "zyrex u japanese",
+    "timestamp": "2026-05-04T02:06:29.774Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "39e45b35-dade-4acb-bba1-be7363406ffb",
+      "shortId": "4EDJJH",
+      "name": "Newbie#1",
+      "role": "USER",
+      "level": 8
+    },
+    "message": "ok",
+    "timestamp": "2026-05-04T02:06:41.942Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "39e45b35-dade-4acb-bba1-be7363406ffb",
+      "shortId": "4EDJJH",
+      "name": "Newbie#1",
+      "role": "USER",
+      "level": 8
+    },
+    "message": "im korean-chinese",
+    "timestamp": "2026-05-04T02:06:46.920Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "39e45b35-dade-4acb-bba1-be7363406ffb",
+      "shortId": "4EDJJH",
+      "name": "Newbie#1",
+      "role": "USER",
+      "level": 8
+    },
+    "message": "?",
+    "timestamp": "2026-05-04T02:07:14.310Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "39e45b35-dade-4acb-bba1-be7363406ffb",
+      "shortId": "4EDJJH",
+      "name": "Newbie#1",
+      "role": "USER",
+      "level": 8
+    },
+    "message": "i Dont speak korean tho",
+    "timestamp": "2026-05-04T02:07:22.508Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "39e45b35-dade-4acb-bba1-be7363406ffb",
+      "shortId": "4EDJJH",
+      "name": "Newbie#1",
+      "role": "USER",
+      "level": 8
+    },
+    "message": "nice",
+    "timestamp": "2026-05-04T02:07:28.457Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "39e45b35-dade-4acb-bba1-be7363406ffb",
+      "shortId": "4EDJJH",
+      "name": "Newbie#1",
+      "role": "USER",
+      "level": 8
+    },
+    "message": "does anyone want free skins",
+    "timestamp": "2026-05-04T02:08:05.673Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "39e45b35-dade-4acb-bba1-be7363406ffb",
+      "shortId": "4EDJJH",
+      "name": "Newbie#1",
+      "role": "USER",
+      "level": 8
+    },
+    "message": "no srry i dont",
+    "timestamp": "2026-05-04T02:08:33.044Z"
   }
 ]
