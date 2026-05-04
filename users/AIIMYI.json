@@ -10,5 +10,101 @@
     },
     "message": "/claim",
     "timestamp": "2026-05-03T03:12:40.030Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "5c75b2d7-9364-4cdf-8a05-4f98b9d990f5",
+      "shortId": "AIIMYI",
+      "name": "xyds",
+      "role": "USER",
+      "level": 83
+    },
+    "message": "/giveaway",
+    "timestamp": "2026-05-04T03:52:54.633Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "5c75b2d7-9364-4cdf-8a05-4f98b9d990f5",
+      "shortId": "AIIMYI",
+      "name": "xyds",
+      "role": "USER",
+      "level": 83
+    },
+    "message": "i dont trade",
+    "timestamp": "2026-05-04T03:53:16.363Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "5c75b2d7-9364-4cdf-8a05-4f98b9d990f5",
+      "shortId": "AIIMYI",
+      "name": "xyds",
+      "role": "USER",
+      "level": 83
+    },
+    "message": "hi saint",
+    "timestamp": "2026-05-04T03:53:28.236Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "5c75b2d7-9364-4cdf-8a05-4f98b9d990f5",
+      "shortId": "AIIMYI",
+      "name": "xyds",
+      "role": "USER",
+      "level": 83
+    },
+    "message": "im ok hbu",
+    "timestamp": "2026-05-04T03:53:47.767Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "5c75b2d7-9364-4cdf-8a05-4f98b9d990f5",
+      "shortId": "AIIMYI",
+      "name": "xyds",
+      "role": "USER",
+      "level": 83
+    },
+    "message": "yep he took my items traded away and just quit",
+    "timestamp": "2026-05-04T03:54:27.908Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "5c75b2d7-9364-4cdf-8a05-4f98b9d990f5",
+      "shortId": "AIIMYI",
+      "name": "xyds",
+      "role": "USER",
+      "level": 83
+    },
+    "message": "yup ikr",
+    "timestamp": "2026-05-04T03:54:52.223Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "5c75b2d7-9364-4cdf-8a05-4f98b9d990f5",
+      "shortId": "AIIMYI",
+      "name": "xyds",
+      "role": "USER",
+      "level": 83
+    },
+    "message": "everyone knows hes a scammer now",
+    "timestamp": "2026-05-04T03:55:22.183Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "5c75b2d7-9364-4cdf-8a05-4f98b9d990f5",
+      "shortId": "AIIMYI",
+      "name": "xyds",
+      "role": "USER",
+      "level": 83
+    },
+    "message": "i got him removed from squirt",
+    "timestamp": "2026-05-04T03:55:38.566Z"
   }
 ]
