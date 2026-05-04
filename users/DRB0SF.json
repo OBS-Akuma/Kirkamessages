@@ -130,5 +130,125 @@
     },
     "message": "all yall shut up for a sec",
     "timestamp": "2026-05-04T02:59:24.512Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "pjos8TgALMV593vz9HRCtuOw4p83",
+      "shortId": "DRB0SF",
+      "name": "UrBad",
+      "role": "USER",
+      "level": 23
+    },
+    "message": "[Cornfield|Bayonet|WEAPON_SKIN|MYTHICAL] up for trade",
+    "timestamp": "2026-05-04T03:01:31.307Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "pjos8TgALMV593vz9HRCtuOw4p83",
+      "shortId": "DRB0SF",
+      "name": "UrBad",
+      "role": "USER",
+      "level": 23
+    },
+    "message": "shut tell me",
+    "timestamp": "2026-05-04T03:01:35.681Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "pjos8TgALMV593vz9HRCtuOw4p83",
+      "shortId": "DRB0SF",
+      "name": "UrBad",
+      "role": "USER",
+      "level": 23
+    },
+    "message": "just",
+    "timestamp": "2026-05-04T03:01:40.354Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "pjos8TgALMV593vz9HRCtuOw4p83",
+      "shortId": "DRB0SF",
+      "name": "UrBad",
+      "role": "USER",
+      "level": 23
+    },
+    "message": "[Cornfield|Bayonet|WEAPON_SKIN|MYTHICAL] anyone wanna trade",
+    "timestamp": "2026-05-04T03:02:20.781Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "pjos8TgALMV593vz9HRCtuOw4p83",
+      "shortId": "DRB0SF",
+      "name": "UrBad",
+      "role": "USER",
+      "level": 23
+    },
+    "message": "/wager [Cornfield|Bayonet|WEAPON_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-04T03:03:04.687Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "pjos8TgALMV593vz9HRCtuOw4p83",
+      "shortId": "DRB0SF",
+      "name": "UrBad",
+      "role": "USER",
+      "level": 23
+    },
+    "message": "/wager [Cornfield|Bayonet|WEAPON_SKIN|MYTHICAL]1",
+    "timestamp": "2026-05-04T03:03:23.114Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "pjos8TgALMV593vz9HRCtuOw4p83",
+      "shortId": "DRB0SF",
+      "name": "UrBad",
+      "role": "USER",
+      "level": 23
+    },
+    "message": "/wager [Cornfield|Bayonet|WEAPON_SKIN|MYTHICAL] <1>",
+    "timestamp": "2026-05-04T03:03:35.391Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "pjos8TgALMV593vz9HRCtuOw4p83",
+      "shortId": "DRB0SF",
+      "name": "UrBad",
+      "role": "USER",
+      "level": 23
+    },
+    "message": "/wager [Cornfield|Bayonet|WEAPON_SKIN|MYTHICAL]x1",
+    "timestamp": "2026-05-04T03:04:41.440Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "pjos8TgALMV593vz9HRCtuOw4p83",
+      "shortId": "DRB0SF",
+      "name": "UrBad",
+      "role": "USER",
+      "level": 23
+    },
+    "message": "/enter",
+    "timestamp": "2026-05-04T03:04:55.956Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "pjos8TgALMV593vz9HRCtuOw4p83",
+      "shortId": "DRB0SF",
+      "name": "UrBad",
+      "role": "USER",
+      "level": 23
+    },
+    "message": "how do i wager [Cornfield|Bayonet|WEAPON_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-04T03:05:58.435Z"
   }
 ]
