@@ -10,5 +10,17 @@
     },
     "message": "5k golden is crazy",
     "timestamp": "2026-05-04T07:04:00.870Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "aeaadd9b-0cde-45f8-b9ee-06b3d3f553b9",
+      "shortId": "XCYZRP",
+      "name": "Idiot",
+      "role": "USER",
+      "level": 62
+    },
+    "message": "lf [Forbidden|AR-9|WEAPON_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-04T07:39:30.092Z"
   }
 ]
