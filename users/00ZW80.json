@@ -634,5 +634,29 @@
     },
     "message": "nty",
     "timestamp": "2026-05-03T04:07:35.629Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "99cc3bc0-e1e3-48ee-815b-9bfe1f7f7fe2",
+      "shortId": "00ZW80",
+      "name": "Newbie",
+      "role": "USER",
+      "level": 29
+    },
+    "message": "monk",
+    "timestamp": "2026-05-04T03:12:49.977Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "99cc3bc0-e1e3-48ee-815b-9bfe1f7f7fe2",
+      "shortId": "00ZW80",
+      "name": "Newbie",
+      "role": "USER",
+      "level": 29
+    },
+    "message": "what u trading",
+    "timestamp": "2026-05-04T03:12:57.814Z"
   }
 ]
