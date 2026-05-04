@@ -1,0 +1,62 @@
+[
+  {
+    "type": 2,
+    "user": {
+      "id": "e48bab4e-32a1-4102-a5f1-58e7f43c19ab",
+      "shortId": "4L8KKK",
+      "name": "NaruPart.",
+      "role": "USER",
+      "level": 99
+    },
+    "message": "ねね",
+    "timestamp": "2026-05-04T02:31:15.857Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "e48bab4e-32a1-4102-a5f1-58e7f43c19ab",
+      "shortId": "4L8KKK",
+      "name": "NaruPart.",
+      "role": "USER",
+      "level": 99
+    },
+    "message": "クランスキンもらった？",
+    "timestamp": "2026-05-04T02:31:20.667Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "e48bab4e-32a1-4102-a5f1-58e7f43c19ab",
+      "shortId": "4L8KKK",
+      "name": "NaruPart.",
+      "role": "USER",
+      "level": 99
+    },
+    "message": "/inv",
+    "timestamp": "2026-05-04T02:44:36.817Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "e48bab4e-32a1-4102-a5f1-58e7f43c19ab",
+      "shortId": "4L8KKK",
+      "name": "NaruPart.",
+      "role": "USER",
+      "level": 99
+    },
+    "message": "tr [Slay||BODY_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-04T02:45:02.366Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "e48bab4e-32a1-4102-a5f1-58e7f43c19ab",
+      "shortId": "4L8KKK",
+      "name": "NaruPart.",
+      "role": "USER",
+      "level": 99
+    },
+    "message": "trading [Slay||BODY_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-04T02:48:12.049Z"
+  }
+]
