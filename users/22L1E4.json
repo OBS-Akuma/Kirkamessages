@@ -1376,7 +1376,7 @@
       "role": "USER",
       "level": 17
     },
-    "message": "i know only kemon ache ð¥",
+    "message": "i know only kemon ache Ã°ÂÂ¥Â",
     "timestamp": "2026-05-04T07:31:56.568Z"
   },
   {
@@ -2110,5 +2110,65 @@
     },
     "message": "/confirmwager",
     "timestamp": "2026-05-04T07:57:53.121Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "ffebb0b6-66b1-4380-9516-c5fe704e98ff",
+      "shortId": "22L1E4",
+      "name": "Walterdaguy",
+      "role": "USER",
+      "level": 17
+    },
+    "message": "**1v1 RANKED WAGERING**[Bay|Shark|WEAPON_SKIN|LEGENDARY][Arachne|VITA|WEAPON_SKIN|MYTHICAL]x2[Forbidden|AR-9|WEAPON_SKIN|MYTHICAL]..",
+    "timestamp": "2026-05-04T07:59:27.587Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "ffebb0b6-66b1-4380-9516-c5fe704e98ff",
+      "shortId": "22L1E4",
+      "name": "Walterdaguy",
+      "role": "USER",
+      "level": 17
+    },
+    "message": "**1v1 RANKED WAGERING**[Bay|Shark|WEAPON_SKIN|LEGENDARY][Arachne|VITA|WEAPON_SKIN|MYTHICAL]x2[Forbidden|AR-9|WEAPON_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-04T07:59:29.218Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "ffebb0b6-66b1-4380-9516-c5fe704e98ff",
+      "shortId": "22L1E4",
+      "name": "Walterdaguy",
+      "role": "USER",
+      "level": 17
+    },
+    "message": "??",
+    "timestamp": "2026-05-04T07:59:36.761Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "ffebb0b6-66b1-4380-9516-c5fe704e98ff",
+      "shortId": "22L1E4",
+      "name": "Walterdaguy",
+      "role": "USER",
+      "level": 17
+    },
+    "message": "VENOM sCAMMER",
+    "timestamp": "2026-05-04T07:59:49.659Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "ffebb0b6-66b1-4380-9516-c5fe704e98ff",
+      "shortId": "22L1E4",
+      "name": "Walterdaguy",
+      "role": "USER",
+      "level": 17
+    },
+    "message": "VENOM ACCPET ELSE UR GETTING BAN AND MUTE",
+    "timestamp": "2026-05-04T08:03:00.875Z"
   }
 ]
