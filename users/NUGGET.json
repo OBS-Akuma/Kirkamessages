@@ -431,5 +431,137 @@
     },
     "message": "ehhhh purple",
     "timestamp": "2026-05-04T07:51:05.458Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "7f2a6090-abcb-48a7-8838-88ee8111b261",
+      "shortId": "NUGGET",
+      "name": "Akuma :3",
+      "role": "USER",
+      "level": 55
+    },
+    "message": "trading [Candle|Bayonet|WEAPON_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-04T08:08:42.075Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "7f2a6090-abcb-48a7-8838-88ee8111b261",
+      "shortId": "NUGGET",
+      "name": "Akuma :3",
+      "role": "USER",
+      "level": 55
+    },
+    "message": "[Pandora||BODY_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-04T08:08:58.055Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "7f2a6090-abcb-48a7-8838-88ee8111b261",
+      "shortId": "NUGGET",
+      "name": "Akuma :3",
+      "role": "USER",
+      "level": 55
+    },
+    "message": "/hm Pandora",
+    "timestamp": "2026-05-04T08:09:21.793Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "7f2a6090-abcb-48a7-8838-88ee8111b261",
+      "shortId": "NUGGET",
+      "name": "Akuma :3",
+      "role": "USER",
+      "level": 55
+    },
+    "message": "/locate Pandora",
+    "timestamp": "2026-05-04T08:09:38.509Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "7f2a6090-abcb-48a7-8838-88ee8111b261",
+      "shortId": "NUGGET",
+      "name": "Akuma :3",
+      "role": "USER",
+      "level": 55
+    },
+    "message": "/hm [Mikasa||BODY_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-04T08:09:51.756Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "7f2a6090-abcb-48a7-8838-88ee8111b261",
+      "shortId": "NUGGET",
+      "name": "Akuma :3",
+      "role": "USER",
+      "level": 55
+    },
+    "message": "candle is all I have meow",
+    "timestamp": "2026-05-04T08:10:10.901Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "7f2a6090-abcb-48a7-8838-88ee8111b261",
+      "shortId": "NUGGET",
+      "name": "Akuma :3",
+      "role": "USER",
+      "level": 55
+    },
+    "message": "well not all...",
+    "timestamp": "2026-05-04T08:10:29.764Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "7f2a6090-abcb-48a7-8838-88ee8111b261",
+      "shortId": "NUGGET",
+      "name": "Akuma :3",
+      "role": "USER",
+      "level": 55
+    },
+    "message": "but all I am trading",
+    "timestamp": "2026-05-04T08:10:35.459Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "7f2a6090-abcb-48a7-8838-88ee8111b261",
+      "shortId": "NUGGET",
+      "name": "Akuma :3",
+      "role": "USER",
+      "level": 55
+    },
+    "message": "/inv",
+    "timestamp": "2026-05-04T08:10:40.279Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "7f2a6090-abcb-48a7-8838-88ee8111b261",
+      "shortId": "NUGGET",
+      "name": "Akuma :3",
+      "role": "USER",
+      "level": 55
+    },
+    "message": "trading candel",
+    "timestamp": "2026-05-04T08:11:04.276Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "7f2a6090-abcb-48a7-8838-88ee8111b261",
+      "shortId": "NUGGET",
+      "name": "Akuma :3",
+      "role": "USER",
+      "level": 55
+    },
+    "message": "trading [Candle|Bayonet|WEAPON_SKIN|MYTHICAL], [Halloween||CHEST|MYTHICAL]x1700",
+    "timestamp": "2026-05-04T08:12:34.658Z"
   }
 ]
