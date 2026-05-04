@@ -1690,5 +1690,17 @@
     },
     "message": "bread return",
     "timestamp": "2026-05-03T15:48:57.564Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "97a6e840-b092-4f61-b9cf-e4ddd8e6ea1a",
+      "shortId": "PK727F",
+      "name": "Pew._.",
+      "role": "USER",
+      "level": 92
+    },
+    "message": "/hm [Hell let loose|M60|WEAPON_SKIN|LEGENDARY]",
+    "timestamp": "2026-05-04T03:51:12.968Z"
   }
 ]
