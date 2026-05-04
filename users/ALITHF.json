@@ -130,5 +130,17 @@
     },
     "message": "trading [Onryo||BODY_SKIN|MYTHICAL]",
     "timestamp": "2026-05-04T04:55:39.147Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "b8da81fb-ba0f-4d57-9c2b-560a302212ed",
+      "shortId": "ALITHF",
+      "name": "Bigmac",
+      "role": "USER",
+      "level": 76
+    },
+    "message": "trading [Onryo||BODY_SKIN|MYTHICAL].",
+    "timestamp": "2026-05-04T04:58:04.506Z"
   }
 ]
