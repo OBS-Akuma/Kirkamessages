@@ -286,5 +286,17 @@
     },
     "message": "[Scorcher|Shark|WEAPON_SKIN|MYTHICAL]",
     "timestamp": "2026-05-04T07:54:37.801Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "fddeb704-c4e4-4f50-8a81-28c407f6d5da",
+      "shortId": "LYUXIM",
+      "name": "tstep",
+      "role": "USER",
+      "level": 98
+    },
+    "message": "/price vintage",
+    "timestamp": "2026-05-04T07:58:23.504Z"
   }
 ]
