@@ -70,5 +70,53 @@
     },
     "message": "How much golden unhave",
     "timestamp": "2026-05-04T06:57:42.075Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "guest-65620a6d-142b-4bf1-a6de-d4efe847529e",
+      "shortId": "S91J1D",
+      "name": "[EGD]ThePhenom",
+      "role": "USER",
+      "level": 56
+    },
+    "message": "Aiiiii",
+    "timestamp": "2026-05-04T07:23:16.427Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "guest-65620a6d-142b-4bf1-a6de-d4efe847529e",
+      "shortId": "S91J1D",
+      "name": "[EGD]ThePhenom",
+      "role": "USER",
+      "level": 56
+    },
+    "message": "Tr[Tiburon|Bayonet|WEAPON_SKIN|MYTHICAL][Forbidden|AR-9|WEAPON_SKIN|MYTHICAL][Ortus|Revolver|WEAPON_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-04T07:24:38.256Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "guest-65620a6d-142b-4bf1-a6de-d4efe847529e",
+      "shortId": "S91J1D",
+      "name": "[EGD]ThePhenom",
+      "role": "USER",
+      "level": 56
+    },
+    "message": "Nahhh add",
+    "timestamp": "2026-05-04T07:25:09.478Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "guest-65620a6d-142b-4bf1-a6de-d4efe847529e",
+      "shortId": "S91J1D",
+      "name": "[EGD]ThePhenom",
+      "role": "USER",
+      "level": 56
+    },
+    "message": "TR[Tiburon|Bayonet|WEAPON_SKIN|MYTHICAL][Forbidden|AR-9|WEAPON_SKIN|MYTHICAL][Ortus|Revolver|WEAPON_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-04T07:25:57.672Z"
   }
 ]
