@@ -58,5 +58,77 @@
     },
     "message": "#4CQDEK can i get stuff for free",
     "timestamp": "2026-05-04T02:55:38.044Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "pjos8TgALMV593vz9HRCtuOw4p83",
+      "shortId": "DRB0SF",
+      "name": "UrBad",
+      "role": "USER",
+      "level": 23
+    },
+    "message": "how do you put the name of the weapon and mae it visible",
+    "timestamp": "2026-05-04T02:56:58.802Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "pjos8TgALMV593vz9HRCtuOw4p83",
+      "shortId": "DRB0SF",
+      "name": "UrBad",
+      "role": "USER",
+      "level": 23
+    },
+    "message": "yes",
+    "timestamp": "2026-05-04T02:57:11.747Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "pjos8TgALMV593vz9HRCtuOw4p83",
+      "shortId": "DRB0SF",
+      "name": "UrBad",
+      "role": "USER",
+      "level": 23
+    },
+    "message": "[Cornfield|Bayonet|WEAPON_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-04T02:57:39.498Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "pjos8TgALMV593vz9HRCtuOw4p83",
+      "shortId": "DRB0SF",
+      "name": "UrBad",
+      "role": "USER",
+      "level": 23
+    },
+    "message": "I have [Cornfield|Bayonet|WEAPON_SKIN|MYTHICAL] anyone wanna trade",
+    "timestamp": "2026-05-04T02:58:07.154Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "pjos8TgALMV593vz9HRCtuOw4p83",
+      "shortId": "DRB0SF",
+      "name": "UrBad",
+      "role": "USER",
+      "level": 23
+    },
+    "message": "[Cornfield|Bayonet|WEAPON_SKIN|MYTHICAL] for trade",
+    "timestamp": "2026-05-04T02:58:50.744Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "pjos8TgALMV593vz9HRCtuOw4p83",
+      "shortId": "DRB0SF",
+      "name": "UrBad",
+      "role": "USER",
+      "level": 23
+    },
+    "message": "all yall shut up for a sec",
+    "timestamp": "2026-05-04T02:59:24.512Z"
   }
 ]
