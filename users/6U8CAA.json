@@ -70,5 +70,17 @@
     },
     "message": "[Chloe||BODY_SKIN|MYTHICAL]",
     "timestamp": "2026-05-04T01:59:19.768Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "1f5fd400-324a-469a-b002-6373449ee0e3",
+      "shortId": "6U8CAA",
+      "name": "cocalola",
+      "role": "USER",
+      "level": 13
+    },
+    "message": "#VIVT45",
+    "timestamp": "2026-05-04T02:24:39.789Z"
   }
 ]
