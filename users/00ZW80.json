@@ -658,5 +658,29 @@
     },
     "message": "what u trading",
     "timestamp": "2026-05-04T03:12:57.814Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "99cc3bc0-e1e3-48ee-815b-9bfe1f7f7fe2",
+      "shortId": "00ZW80",
+      "name": "Newbie",
+      "role": "USER",
+      "level": 29
+    },
+    "message": "/enter",
+    "timestamp": "2026-05-04T03:15:11.940Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "99cc3bc0-e1e3-48ee-815b-9bfe1f7f7fe2",
+      "shortId": "00ZW80",
+      "name": "Newbie",
+      "role": "USER",
+      "level": 29
+    },
+    "message": "#6EBHAC hm for imperial",
+    "timestamp": "2026-05-04T03:17:38.214Z"
   }
 ]
