@@ -94,5 +94,29 @@
     },
     "message": "[Oblivion|SCAR|WEAPON_SKIN|MYTHICAL]",
     "timestamp": "2026-05-04T03:56:20.762Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "0775331c-8ae7-42de-b216-507402c39976",
+      "shortId": "YY9IF7",
+      "name": "PICKLEWICKEL",
+      "role": "USER",
+      "level": 88
+    },
+    "message": "LF SKEL",
+    "timestamp": "2026-05-04T07:31:16.592Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "0775331c-8ae7-42de-b216-507402c39976",
+      "shortId": "YY9IF7",
+      "name": "PICKLEWICKEL",
+      "role": "USER",
+      "level": 88
+    },
+    "message": "LF [Skel||BODY_SKIN|EPIC]",
+    "timestamp": "2026-05-04T07:35:38.263Z"
   }
 ]
