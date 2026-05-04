@@ -70,5 +70,41 @@
     },
     "message": "#SNIPER UMMUTE #2T3K8E",
     "timestamp": "2026-05-04T07:54:09.355Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "9a6a6309-8621-4f2b-8aed-fe7a2d5fd37a",
+      "shortId": "D5NV0W",
+      "name": "Novruz",
+      "role": "USER",
+      "level": 6
+    },
+    "message": "hi guys",
+    "timestamp": "2026-05-04T08:04:08.139Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "9a6a6309-8621-4f2b-8aed-fe7a2d5fd37a",
+      "shortId": "D5NV0W",
+      "name": "Novruz",
+      "role": "USER",
+      "level": 6
+    },
+    "message": "/inv",
+    "timestamp": "2026-05-04T08:04:25.040Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "9a6a6309-8621-4f2b-8aed-fe7a2d5fd37a",
+      "shortId": "D5NV0W",
+      "name": "Novruz",
+      "role": "USER",
+      "level": 6
+    },
+    "message": "#2T3K8E",
+    "timestamp": "2026-05-04T08:05:36.770Z"
   }
 ]
