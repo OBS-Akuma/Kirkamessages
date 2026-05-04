@@ -1,0 +1,26 @@
+[
+  {
+    "type": 2,
+    "user": {
+      "id": "b5b856b7-c455-4d13-9c58-9eb824d4550f",
+      "shortId": "HBR602",
+      "name": "glimmer",
+      "role": "USER",
+      "level": 84
+    },
+    "message": "tr[anryo] [Mabel||BODY_SKIN|MYTHICAL] [Slasher||BODY_SKIN|PARANORMAL] [Hallowkod||BODY_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-04T04:22:53.642Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "b5b856b7-c455-4d13-9c58-9eb824d4550f",
+      "shortId": "HBR602",
+      "name": "glimmer",
+      "role": "USER",
+      "level": 84
+    },
+    "message": "[anyro]",
+    "timestamp": "2026-05-04T04:23:04.702Z"
+  }
+]
