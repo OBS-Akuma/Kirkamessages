@@ -248,7 +248,7 @@
       "role": "USER",
       "level": 6
     },
-    "message": "持ってたよ",
+    "message": "æã£ã¦ãã",
     "timestamp": "2026-05-04T03:35:09.603Z"
   },
   {
@@ -260,7 +260,7 @@
       "role": "USER",
       "level": 6
     },
-    "message": "トレードしないと思う",
+    "message": "ãã¬ã¼ãããªãã¨æã",
     "timestamp": "2026-05-04T03:35:16.432Z"
   },
   {
@@ -272,7 +272,7 @@
       "role": "USER",
       "level": 6
     },
-    "message": "馬鹿なのかな",
+    "message": "é¦¬é¹¿ãªã®ããª",
     "timestamp": "2026-05-04T03:35:50.296Z"
   },
   {
@@ -358,5 +358,29 @@
     },
     "message": "GOP WILL YOU WAGER KITSUNE",
     "timestamp": "2026-05-04T03:47:43.552Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "guest-32c92a3a-7583-4d7e-9883-af88921f9e04",
+      "shortId": "92V31R",
+      "name": "Newbie",
+      "role": "USER",
+      "level": 6
+    },
+    "message": "#YY9IF7 Wager Chromium?",
+    "timestamp": "2026-05-04T03:56:57.682Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "guest-32c92a3a-7583-4d7e-9883-af88921f9e04",
+      "shortId": "92V31R",
+      "name": "Newbie",
+      "role": "USER",
+      "level": 6
+    },
+    "message": "Who wanna wager chromium",
+    "timestamp": "2026-05-04T03:57:03.757Z"
   }
 ]
