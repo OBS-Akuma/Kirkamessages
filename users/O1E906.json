@@ -368,7 +368,7 @@
       "role": "USER",
       "level": 12
     },
-    "message": "ThereÃÂÃÂÃÂÃÂ¢ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂs no request @king",
+    "message": "ThereÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ¢ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂs no request @king",
     "timestamp": "2026-05-04T04:14:42.153Z"
   },
   {
@@ -416,7 +416,7 @@
       "role": "USER",
       "level": 12
     },
-    "message": "I canÃÂÃÂÃÂÃÂ¢ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂt see your accept brooo",
+    "message": "I canÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ¢ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂt see your accept brooo",
     "timestamp": "2026-05-04T04:17:30.005Z"
   },
   {
@@ -632,7 +632,67 @@
       "role": "USER",
       "level": 12
     },
-    "message": "@darkf i accept my friend’s",
+    "message": "@darkf i accept my friendâs",
     "timestamp": "2026-05-04T07:55:45.184Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "a146f2b0-f71f-47b5-a1fb-0533511dcb22",
+      "shortId": "O1E906",
+      "name": "Myosotis",
+      "role": "USER",
+      "level": 12
+    },
+    "message": "hhh",
+    "timestamp": "2026-05-04T07:57:18.068Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "a146f2b0-f71f-47b5-a1fb-0533511dcb22",
+      "shortId": "O1E906",
+      "name": "Myosotis",
+      "role": "USER",
+      "level": 12
+    },
+    "message": "@darkf how to buy it i love it",
+    "timestamp": "2026-05-04T07:58:04.908Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "a146f2b0-f71f-47b5-a1fb-0533511dcb22",
+      "shortId": "O1E906",
+      "name": "Myosotis",
+      "role": "USER",
+      "level": 12
+    },
+    "message": "Everyone Who has a cool character skin I will spend 100k gold to buy it",
+    "timestamp": "2026-05-04T07:59:26.695Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "a146f2b0-f71f-47b5-a1fb-0533511dcb22",
+      "shortId": "O1E906",
+      "name": "Myosotis",
+      "role": "USER",
+      "level": 12
+    },
+    "message": "Everyone Everyone Who has a cool character skin I will spend 100k gold to buy it",
+    "timestamp": "2026-05-04T08:00:42.396Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "a146f2b0-f71f-47b5-a1fb-0533511dcb22",
+      "shortId": "O1E906",
+      "name": "Myosotis",
+      "role": "USER",
+      "level": 12
+    },
+    "message": "Everyone Who has a cool character skin I will spend 100k gold to buy it",
+    "timestamp": "2026-05-04T08:01:57.826Z"
   }
 ]
