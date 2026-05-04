@@ -646,5 +646,41 @@
     },
     "message": "Trading [Vibrant|Bayonet|WEAPON_SKIN|MYTHICAL]x2[Faded|Bayonet|WEAPON_SKIN|MYTHICAL][Saint Patrick|Shark|WEAPON_SKIN|LEGENDARY][Radioactive|Bayonet|WEAPON_SKIN|LEGENDARY][Ranked_S1 Top10|Bayonet|WEAPON_SKIN|MYTHICAL][Elysian|Shark|WEAPON_SKIN|MYTHICAL]",
     "timestamp": "2026-05-04T02:08:08.606Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "859b62ae-f34b-4ce7-848d-a4e501546a99",
+      "shortId": "9MDD8T",
+      "name": "Niflheim",
+      "role": "USER",
+      "level": 98
+    },
+    "message": ".",
+    "timestamp": "2026-05-04T02:11:16.313Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "859b62ae-f34b-4ce7-848d-a4e501546a99",
+      "shortId": "9MDD8T",
+      "name": "Niflheim",
+      "role": "USER",
+      "level": 98
+    },
+    "message": "ug [Imperial|SCAR|WEAPON_SKIN|MYTHICAL][Black Santa||BODY_SKIN|PARANORMAL]",
+    "timestamp": "2026-05-04T02:11:32.370Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "859b62ae-f34b-4ce7-848d-a4e501546a99",
+      "shortId": "9MDD8T",
+      "name": "Niflheim",
+      "role": "USER",
+      "level": 98
+    },
+    "message": "Trading [Vibrant|Bayonet|WEAPON_SKIN|MYTHICAL]x2[Faded|Bayonet|WEAPON_SKIN|MYTHICAL][Saint Patrick|Shark|WEAPON_SKIN|LEGENDARY][Radioactive|Bayonet|WEAPON_SKIN|LEGENDARY][Ranked_S1 Top10|Bayonet|WEAPON_SKIN|MYTHICAL][Elysian|Shark|WEAPON_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-04T02:11:34.064Z"
   }
 ]
