@@ -226,5 +226,17 @@
     },
     "message": "/mywager",
     "timestamp": "2026-05-04T03:10:11.915Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "4640c5e7-8889-4f71-8446-a54180b81f7c",
+      "shortId": "KLBFGG",
+      "name": "keyboard",
+      "role": "USER",
+      "level": 77
+    },
+    "message": "/enter",
+    "timestamp": "2026-05-04T03:14:38.921Z"
   }
 ]
