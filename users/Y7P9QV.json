@@ -10,5 +10,29 @@
     },
     "message": "twitch is on market for 8 mil",
     "timestamp": "2026-05-03T03:12:12.619Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "4a085bff-c7ec-430f-a058-f3b56a35090c",
+      "shortId": "Y7P9QV",
+      "name": "Pepo",
+      "role": "USER",
+      "level": 73
+    },
+    "message": "/inv",
+    "timestamp": "2026-05-04T03:02:13.627Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "4a085bff-c7ec-430f-a058-f3b56a35090c",
+      "shortId": "Y7P9QV",
+      "name": "Pepo",
+      "role": "USER",
+      "level": 73
+    },
+    "message": "I low-key have 5 million coins",
+    "timestamp": "2026-05-04T03:02:28.495Z"
   }
 ]
