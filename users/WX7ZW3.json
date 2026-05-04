@@ -886,5 +886,29 @@
     },
     "message": "LMAO",
     "timestamp": "2026-05-04T04:03:12.996Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "2r1UJOfesmQUx0DJGR3osZYWZTY2",
+      "shortId": "WX7ZW3",
+      "name": "Saint.",
+      "role": "USER",
+      "level": 98
+    },
+    "message": "paladin",
+    "timestamp": "2026-05-04T04:04:38.390Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "2r1UJOfesmQUx0DJGR3osZYWZTY2",
+      "shortId": "WX7ZW3",
+      "name": "Saint.",
+      "role": "USER",
+      "level": 98
+    },
+    "message": "5k for cw set",
+    "timestamp": "2026-05-04T04:04:44.949Z"
   }
 ]
