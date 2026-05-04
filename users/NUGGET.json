@@ -347,5 +347,29 @@
     },
     "message": "Trading 5m > [Halloween||CHEST|MYTHICAL] for > [Tiburon|Bayonet|WEAPON_SKIN|MYTHICAL]",
     "timestamp": "2026-05-03T15:49:46.147Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "7f2a6090-abcb-48a7-8838-88ee8111b261",
+      "shortId": "NUGGET",
+      "name": "Akumaware.xyz",
+      "role": "USER",
+      "level": 55
+    },
+    "message": "/hm [Halloween||CHEST|MYTHICAL]x700",
+    "timestamp": "2026-05-04T03:08:42.171Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "7f2a6090-abcb-48a7-8838-88ee8111b261",
+      "shortId": "NUGGET",
+      "name": "Akumaware.xyz",
+      "role": "USER",
+      "level": 55
+    },
+    "message": "holy oop",
+    "timestamp": "2026-05-04T03:09:38.829Z"
   }
 ]
