@@ -202,5 +202,41 @@
     },
     "message": "how much is forbidden bruh",
     "timestamp": "2026-05-04T02:53:55.686Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "4a4f4e7d-2afe-4ef9-898c-92517128a7a6",
+      "shortId": "0CAIAN",
+      "name": "Palisade",
+      "role": "USER",
+      "level": 25
+    },
+    "message": "/hm golem",
+    "timestamp": "2026-05-04T02:57:00.584Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "4a4f4e7d-2afe-4ef9-898c-92517128a7a6",
+      "shortId": "0CAIAN",
+      "name": "Palisade",
+      "role": "USER",
+      "level": 25
+    },
+    "message": "/lf [Punishment||BODY_SKIN|MYTHICAL],[Blessed||BODY_SKIN|MYTHICAL],[Archverse|Bayonet|WEAPON_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-04T02:58:00.792Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "4a4f4e7d-2afe-4ef9-898c-92517128a7a6",
+      "shortId": "0CAIAN",
+      "name": "Palisade",
+      "role": "USER",
+      "level": 25
+    },
+    "message": "/hm archverse",
+    "timestamp": "2026-05-04T02:58:22.118Z"
   }
 ]
