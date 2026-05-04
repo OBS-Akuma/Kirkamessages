@@ -22,5 +22,53 @@
     },
     "message": "/price pandora",
     "timestamp": "2026-05-03T03:41:44.344Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "fddeb704-c4e4-4f50-8a81-28c407f6d5da",
+      "shortId": "LYUXIM",
+      "name": "tstep",
+      "role": "USER",
+      "level": 98
+    },
+    "message": "im collecting pandora guys",
+    "timestamp": "2026-05-04T07:08:43.733Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "fddeb704-c4e4-4f50-8a81-28c407f6d5da",
+      "shortId": "LYUXIM",
+      "name": "tstep",
+      "role": "USER",
+      "level": 98
+    },
+    "message": "i have ne",
+    "timestamp": "2026-05-04T07:08:45.184Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "fddeb704-c4e4-4f50-8a81-28c407f6d5da",
+      "shortId": "LYUXIM",
+      "name": "tstep",
+      "role": "USER",
+      "level": 98
+    },
+    "message": "one",
+    "timestamp": "2026-05-04T07:08:46.684Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "fddeb704-c4e4-4f50-8a81-28c407f6d5da",
+      "shortId": "LYUXIM",
+      "name": "tstep",
+      "role": "USER",
+      "level": 98
+    },
+    "message": "hello pew",
+    "timestamp": "2026-05-04T07:09:12.641Z"
   }
 ]
