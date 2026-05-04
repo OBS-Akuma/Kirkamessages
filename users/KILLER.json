@@ -310,5 +310,89 @@
     },
     "message": "I will lose vintage for no reason",
     "timestamp": "2026-05-03T15:56:50.478Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "e94fc41b-ee11-41e2-8942-4381500742af",
+      "shortId": "KILLER",
+      "name": "Quitter",
+      "role": "USER",
+      "level": 99
+    },
+    "message": "Wagering [Bad Bunny||BODY_SKIN|LEGENDARY][Slime||BODY_SKIN|MYTHICAL][Bok||BODY_SKIN|MYTHICAL][Veiled||BODY_SKIN|LEGENDARY][Moon||BODY_SKIN|LEGENDARY][RGB Black||BODY_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-03T15:58:15.633Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "e94fc41b-ee11-41e2-8942-4381500742af",
+      "shortId": "KILLER",
+      "name": "Quitter",
+      "role": "USER",
+      "level": 99
+    },
+    "message": "/confirmwager",
+    "timestamp": "2026-05-03T16:09:09.828Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "e94fc41b-ee11-41e2-8942-4381500742af",
+      "shortId": "KILLER",
+      "name": "Quitter",
+      "role": "USER",
+      "level": 99
+    },
+    "message": "I got 1 haram left only -.-",
+    "timestamp": "2026-05-03T16:09:22.205Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "e94fc41b-ee11-41e2-8942-4381500742af",
+      "shortId": "KILLER",
+      "name": "Quitter",
+      "role": "USER",
+      "level": 99
+    },
+    "message": "I got no haram forbidden anymore hshshs",
+    "timestamp": "2026-05-03T16:09:56.711Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "e94fc41b-ee11-41e2-8942-4381500742af",
+      "shortId": "KILLER",
+      "name": "Quitter",
+      "role": "USER",
+      "level": 99
+    },
+    "message": "LF wager [Tiburon|Bayonet|WEAPON_SKIN|MYTHICAL][Ortus|Revolver|WEAPON_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-03T16:11:33.341Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "e94fc41b-ee11-41e2-8942-4381500742af",
+      "shortId": "KILLER",
+      "name": "Quitter",
+      "role": "USER",
+      "level": 99
+    },
+    "message": "Woah youre locking in",
+    "timestamp": "2026-05-03T16:13:08.261Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "e94fc41b-ee11-41e2-8942-4381500742af",
+      "shortId": "KILLER",
+      "name": "Quitter",
+      "role": "USER",
+      "level": 99
+    },
+    "message": "LF wager [Tiburon|Bayonet|WEAPON_SKIN|MYTHICAL][Ortus|Revolver|WEAPON_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-03T16:13:37.182Z"
   }
 ]
