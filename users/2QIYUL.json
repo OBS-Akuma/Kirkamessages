@@ -3130,5 +3130,53 @@
     },
     "message": "/wager [Forbidden|AR-9|WEAPON_SKIN|MYTHICAL] #ROZUH3",
     "timestamp": "2026-05-03T16:14:59.672Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "1ae21f3a-c5d5-4161-8718-75880e3d3cc8",
+      "shortId": "2QIYUL",
+      "name": "RAGEx",
+      "role": "USER",
+      "level": 42
+    },
+    "message": "011",
+    "timestamp": "2026-05-04T07:02:54.468Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "1ae21f3a-c5d5-4161-8718-75880e3d3cc8",
+      "shortId": "2QIYUL",
+      "name": "RAGEx",
+      "role": "USER",
+      "level": 42
+    },
+    "message": "2k for forbidden?",
+    "timestamp": "2026-05-04T07:03:03.563Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "1ae21f3a-c5d5-4161-8718-75880e3d3cc8",
+      "shortId": "2QIYUL",
+      "name": "RAGEx",
+      "role": "USER",
+      "level": 42
+    },
+    "message": "/hm wolfy",
+    "timestamp": "2026-05-04T07:03:34.283Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "1ae21f3a-c5d5-4161-8718-75880e3d3cc8",
+      "shortId": "2QIYUL",
+      "name": "RAGEx",
+      "role": "USER",
+      "level": 42
+    },
+    "message": "offer for ortus saint",
+    "timestamp": "2026-05-04T07:03:45.390Z"
   }
 ]
