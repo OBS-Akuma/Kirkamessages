@@ -1,0 +1,38 @@
+[
+  {
+    "type": 2,
+    "user": {
+      "id": "bfe86d3e-ea69-4142-b4e7-651d2c7e39c8",
+      "shortId": "N0GEHR",
+      "name": "Iconic",
+      "role": "USER",
+      "level": 95
+    },
+    "message": "今どれくらいで取引されてますか",
+    "timestamp": "2026-05-04T01:54:36.763Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "bfe86d3e-ea69-4142-b4e7-651d2c7e39c8",
+      "shortId": "N0GEHR",
+      "name": "Iconic",
+      "role": "USER",
+      "level": 95
+    },
+    "message": "まじ！？",
+    "timestamp": "2026-05-04T01:54:52.182Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "bfe86d3e-ea69-4142-b4e7-651d2c7e39c8",
+      "shortId": "N0GEHR",
+      "name": "Iconic",
+      "role": "USER",
+      "level": 95
+    },
+    "message": "欲しいんだが",
+    "timestamp": "2026-05-04T01:54:59.418Z"
+  }
+]
