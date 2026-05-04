@@ -238,5 +238,113 @@
     },
     "message": "i will offer if u tell me the price",
     "timestamp": "2026-05-03T03:21:00.411Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "z2RZt14XLhe7HEGJsZbzLGeDSt82",
+      "shortId": "926N9F",
+      "name": "noir.",
+      "role": "USER",
+      "level": 90
+    },
+    "message": "tr[Anon||BODY_SKIN|MYTHICAL][Lustre|Bayonet|WEAPON_SKIN|MYTHICAL][2026 Bayonet|Bayonet|WEAPON_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-04T01:53:04.149Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "z2RZt14XLhe7HEGJsZbzLGeDSt82",
+      "shortId": "926N9F",
+      "name": "noir.",
+      "role": "USER",
+      "level": 90
+    },
+    "message": "gg",
+    "timestamp": "2026-05-04T01:54:36.763Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "z2RZt14XLhe7HEGJsZbzLGeDSt82",
+      "shortId": "926N9F",
+      "name": "noir.",
+      "role": "USER",
+      "level": 90
+    },
+    "message": "have a nice day",
+    "timestamp": "2026-05-04T01:54:43.104Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "z2RZt14XLhe7HEGJsZbzLGeDSt82",
+      "shortId": "926N9F",
+      "name": "noir.",
+      "role": "USER",
+      "level": 90
+    },
+    "message": "tr[Anon||BODY_SKIN|MYTHICAL][Lustre|Bayonet|WEAPON_SKIN|MYTHICAL]x2",
+    "timestamp": "2026-05-04T01:55:09.314Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "z2RZt14XLhe7HEGJsZbzLGeDSt82",
+      "shortId": "926N9F",
+      "name": "noir.",
+      "role": "USER",
+      "level": 90
+    },
+    "message": "gopgop,",
+    "timestamp": "2026-05-04T01:55:25.263Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "z2RZt14XLhe7HEGJsZbzLGeDSt82",
+      "shortId": "926N9F",
+      "name": "noir.",
+      "role": "USER",
+      "level": 90
+    },
+    "message": "wager golden?",
+    "timestamp": "2026-05-04T01:55:29.301Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "z2RZt14XLhe7HEGJsZbzLGeDSt82",
+      "shortId": "926N9F",
+      "name": "noir.",
+      "role": "USER",
+      "level": 90
+    },
+    "message": "wanna wager goldens?",
+    "timestamp": "2026-05-04T01:55:44.906Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "z2RZt14XLhe7HEGJsZbzLGeDSt82",
+      "shortId": "926N9F",
+      "name": "noir.",
+      "role": "USER",
+      "level": 90
+    },
+    "message": "oh, than okay.",
+    "timestamp": "2026-05-04T01:55:53.192Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "z2RZt14XLhe7HEGJsZbzLGeDSt82",
+      "shortId": "926N9F",
+      "name": "noir.",
+      "role": "USER",
+      "level": 90
+    },
+    "message": "hv a nice day.",
+    "timestamp": "2026-05-04T01:56:01.294Z"
   }
 ]
