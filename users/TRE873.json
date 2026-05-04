@@ -934,5 +934,29 @@
     },
     "message": "Trading [Helendus|VITA|WEAPON_SKIN|MYTHICAL]",
     "timestamp": "2026-05-04T03:53:33.125Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "5d544b9e-5ca6-4638-b3a2-0318522e29af",
+      "shortId": "TRE873",
+      "name": "QWERTY",
+      "role": "USER",
+      "level": 66
+    },
+    "message": "CAT offer for vocaloid?",
+    "timestamp": "2026-05-04T07:53:30.717Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "5d544b9e-5ca6-4638-b3a2-0318522e29af",
+      "shortId": "TRE873",
+      "name": "QWERTY",
+      "role": "USER",
+      "level": 66
+    },
+    "message": "Aimless offer for solar?",
+    "timestamp": "2026-05-04T07:53:57.201Z"
   }
 ]
