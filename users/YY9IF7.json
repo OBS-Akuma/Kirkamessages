@@ -70,5 +70,29 @@
     },
     "message": "nopaytowin",
     "timestamp": "2026-05-03T03:27:08.484Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "0775331c-8ae7-42de-b216-507402c39976",
+      "shortId": "YY9IF7",
+      "name": "PICKLEWICKEL",
+      "role": "USER",
+      "level": 88
+    },
+    "message": "/locate forbidden",
+    "timestamp": "2026-05-04T03:56:09.081Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "0775331c-8ae7-42de-b216-507402c39976",
+      "shortId": "YY9IF7",
+      "name": "PICKLEWICKEL",
+      "role": "USER",
+      "level": 88
+    },
+    "message": "[Oblivion|SCAR|WEAPON_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-04T03:56:20.762Z"
   }
 ]
