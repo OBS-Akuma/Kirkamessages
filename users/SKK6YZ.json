@@ -104,7 +104,7 @@
       "role": "USER",
       "level": 44
     },
-    "message": "Ã£ÂÂÃ£ÂÂ",
+    "message": "ÃÂ£ÃÂÃÂÃÂ£ÃÂÃÂ",
     "timestamp": "2026-05-04T01:57:58.115Z"
   },
   {
@@ -116,7 +116,7 @@
       "role": "USER",
       "level": 44
     },
-    "message": "ã¼ã¤ã¬ãã¯ã¹è²·ã£ããã ",
+    "message": "Ã£ÂÂ¼Ã£ÂÂ¤Ã£ÂÂ¬Ã£ÂÂÃ£ÂÂ¯Ã£ÂÂ¹Ã¨Â²Â·Ã£ÂÂ£Ã£ÂÂÃ£ÂÂÃ£ÂÂ ",
     "timestamp": "2026-05-04T01:58:10.206Z"
   },
   {
@@ -128,7 +128,139 @@
       "role": "USER",
       "level": 44
     },
-    "message": "ãã®ãã¤ã",
+    "message": "Ã£ÂÂÃ£ÂÂ®Ã£ÂÂÃ£ÂÂ¤Ã£ÂÂ",
     "timestamp": "2026-05-04T01:58:15.393Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "c5323133-eee2-44bd-831a-902af618050a",
+      "shortId": "SKK6YZ",
+      "name": "Inshallah",
+      "role": "USER",
+      "level": 44
+    },
+    "message": "うお",
+    "timestamp": "2026-05-04T02:07:11.055Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "c5323133-eee2-44bd-831a-902af618050a",
+      "shortId": "SKK6YZ",
+      "name": "Inshallah",
+      "role": "USER",
+      "level": 44
+    },
+    "message": "かぼっちゃ",
+    "timestamp": "2026-05-04T02:07:17.723Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "c5323133-eee2-44bd-831a-902af618050a",
+      "shortId": "SKK6YZ",
+      "name": "Inshallah",
+      "role": "USER",
+      "level": 44
+    },
+    "message": "おひさ",
+    "timestamp": "2026-05-04T02:07:34.238Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "c5323133-eee2-44bd-831a-902af618050a",
+      "shortId": "SKK6YZ",
+      "name": "Inshallah",
+      "role": "USER",
+      "level": 44
+    },
+    "message": "やっときたな",
+    "timestamp": "2026-05-04T02:07:38.842Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "c5323133-eee2-44bd-831a-902af618050a",
+      "shortId": "SKK6YZ",
+      "name": "Inshallah",
+      "role": "USER",
+      "level": 44
+    },
+    "message": "俺旅行中でスマホ",
+    "timestamp": "2026-05-04T02:07:55.751Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "c5323133-eee2-44bd-831a-902af618050a",
+      "shortId": "SKK6YZ",
+      "name": "Inshallah",
+      "role": "USER",
+      "level": 44
+    },
+    "message": "まだサブ回収してない",
+    "timestamp": "2026-05-04T02:08:11.106Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "c5323133-eee2-44bd-831a-902af618050a",
+      "shortId": "SKK6YZ",
+      "name": "Inshallah",
+      "role": "USER",
+      "level": 44
+    },
+    "message": "そうか",
+    "timestamp": "2026-05-04T02:08:20.485Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "c5323133-eee2-44bd-831a-902af618050a",
+      "shortId": "SKK6YZ",
+      "name": "Inshallah",
+      "role": "USER",
+      "level": 44
+    },
+    "message": "w",
+    "timestamp": "2026-05-04T02:08:36.620Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "c5323133-eee2-44bd-831a-902af618050a",
+      "shortId": "SKK6YZ",
+      "name": "Inshallah",
+      "role": "USER",
+      "level": 44
+    },
+    "message": "やばじゅうじじゃん",
+    "timestamp": "2026-05-04T02:09:13.074Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "c5323133-eee2-44bd-831a-902af618050a",
+      "shortId": "SKK6YZ",
+      "name": "Inshallah",
+      "role": "USER",
+      "level": 44
+    },
+    "message": "10位",
+    "timestamp": "2026-05-04T02:09:24.625Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "c5323133-eee2-44bd-831a-902af618050a",
+      "shortId": "SKK6YZ",
+      "name": "Inshallah",
+      "role": "USER",
+      "level": 44
+    },
+    "message": "まあ途中から追い抜く",
+    "timestamp": "2026-05-04T02:09:36.091Z"
   }
 ]
