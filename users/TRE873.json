@@ -742,5 +742,29 @@
     },
     "message": "I dont sorry",
     "timestamp": "2026-05-04T02:13:47.405Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "5d544b9e-5ca6-4638-b3a2-0318522e29af",
+      "shortId": "TRE873",
+      "name": "QWERTY",
+      "role": "USER",
+      "level": 66
+    },
+    "message": "Carlos Coches",
+    "timestamp": "2026-05-04T02:20:18.970Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "5d544b9e-5ca6-4638-b3a2-0318522e29af",
+      "shortId": "TRE873",
+      "name": "QWERTY",
+      "role": "USER",
+      "level": 66
+    },
+    "message": "Wsp. chadmomster",
+    "timestamp": "2026-05-04T02:20:31.778Z"
   }
 ]
