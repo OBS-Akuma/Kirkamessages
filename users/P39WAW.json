@@ -166,5 +166,29 @@
     },
     "message": "Who hv [Vapor|Bayonet|WEAPON_SKIN|LEGENDARY]?",
     "timestamp": "2026-05-04T02:56:13.342Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "e86e8f49-e70a-4ccf-bb4e-60b5a0556b1c",
+      "shortId": "P39WAW",
+      "name": "SHELL",
+      "role": "USER",
+      "level": 81
+    },
+    "message": "Trading clownabeth",
+    "timestamp": "2026-05-04T02:59:20.604Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "e86e8f49-e70a-4ccf-bb4e-60b5a0556b1c",
+      "shortId": "P39WAW",
+      "name": "SHELL",
+      "role": "USER",
+      "level": 81
+    },
+    "message": "Trading kin and clownabeh",
+    "timestamp": "2026-05-04T03:00:08.068Z"
   }
 ]
