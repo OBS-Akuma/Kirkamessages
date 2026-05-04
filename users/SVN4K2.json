@@ -322,5 +322,29 @@
     },
     "message": "ns mor4e",
     "timestamp": "2026-05-03T15:47:53.238Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "Gz7vDsByrXSEwKYek3a6mgVwdFb2",
+      "shortId": "SVN4K2",
+      "name": "lolnoob",
+      "role": "USER",
+      "level": 94
+    },
+    "message": "tr[Garden|LAR|WEAPON_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-04T04:18:33.947Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "Gz7vDsByrXSEwKYek3a6mgVwdFb2",
+      "shortId": "SVN4K2",
+      "name": "lolnoob",
+      "role": "USER",
+      "level": 94
+    },
+    "message": "/price garden",
+    "timestamp": "2026-05-04T04:18:53.288Z"
   }
 ]
