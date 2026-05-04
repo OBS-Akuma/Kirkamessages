@@ -368,7 +368,7 @@
       "role": "USER",
       "level": 12
     },
-    "message": "ThereÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ¢ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂs no request @king",
+    "message": "ThereÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ¢ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂs no request @king",
     "timestamp": "2026-05-04T04:14:42.153Z"
   },
   {
@@ -416,7 +416,7 @@
       "role": "USER",
       "level": 12
     },
-    "message": "I canÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ¢ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂt see your accept brooo",
+    "message": "I canÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ¢ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂt see your accept brooo",
     "timestamp": "2026-05-04T04:17:30.005Z"
   },
   {
@@ -632,7 +632,7 @@
       "role": "USER",
       "level": 12
     },
-    "message": "@darkf i accept my friendâs",
+    "message": "@darkf i accept my friendÃ¢ÂÂs",
     "timestamp": "2026-05-04T07:55:45.184Z"
   },
   {
@@ -694,5 +694,77 @@
     },
     "message": "Everyone Who has a cool character skin I will spend 100k gold to buy it",
     "timestamp": "2026-05-04T08:01:57.826Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "a146f2b0-f71f-47b5-a1fb-0533511dcb22",
+      "shortId": "O1E906",
+      "name": "Myosotis",
+      "role": "USER",
+      "level": 12
+    },
+    "message": "日本",
+    "timestamp": "2026-05-04T08:02:39.446Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "a146f2b0-f71f-47b5-a1fb-0533511dcb22",
+      "shortId": "O1E906",
+      "name": "Myosotis",
+      "role": "USER",
+      "level": 12
+    },
+    "message": "Chinese is the hardest language lol",
+    "timestamp": "2026-05-04T08:03:27.849Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "a146f2b0-f71f-47b5-a1fb-0533511dcb22",
+      "shortId": "O1E906",
+      "name": "Myosotis",
+      "role": "USER",
+      "level": 12
+    },
+    "message": "But I learned Chinese",
+    "timestamp": "2026-05-04T08:03:40.785Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "a146f2b0-f71f-47b5-a1fb-0533511dcb22",
+      "shortId": "O1E906",
+      "name": "Myosotis",
+      "role": "USER",
+      "level": 12
+    },
+    "message": "大家好，我是吴帮我，你们都吃午饭了吗？",
+    "timestamp": "2026-05-04T08:04:15.962Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "a146f2b0-f71f-47b5-a1fb-0533511dcb22",
+      "shortId": "O1E906",
+      "name": "Myosotis",
+      "role": "USER",
+      "level": 12
+    },
+    "message": "#ICQBF4",
+    "timestamp": "2026-05-04T08:04:31.442Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "a146f2b0-f71f-47b5-a1fb-0533511dcb22",
+      "shortId": "O1E906",
+      "name": "Myosotis",
+      "role": "USER",
+      "level": 12
+    },
+    "message": "W",
+    "timestamp": "2026-05-04T08:06:30.414Z"
   }
 ]
