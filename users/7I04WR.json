@@ -1,0 +1,26 @@
+[
+  {
+    "type": 2,
+    "user": {
+      "id": "ddXeD5B4T4gSVwyPbk8MAyeBBSa2",
+      "shortId": "7I04WR",
+      "name": "Egyptian_HANA",
+      "role": "USER",
+      "level": 12
+    },
+    "message": "السلام",
+    "timestamp": "2026-05-03T16:12:15.659Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "ddXeD5B4T4gSVwyPbk8MAyeBBSa2",
+      "shortId": "7I04WR",
+      "name": "Egyptian_HANA",
+      "role": "USER",
+      "level": 12
+    },
+    "message": "عليكم",
+    "timestamp": "2026-05-03T16:12:28.599Z"
+  }
+]
