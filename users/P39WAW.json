@@ -10,5 +10,17 @@
     },
     "message": "trading kin clownabeth",
     "timestamp": "2026-05-03T15:36:39.339Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "e86e8f49-e70a-4ccf-bb4e-60b5a0556b1c",
+      "shortId": "P39WAW",
+      "name": "SHELL",
+      "role": "USER",
+      "level": 81
+    },
+    "message": "Begging.",
+    "timestamp": "2026-05-04T02:11:34.088Z"
   }
 ]
