@@ -1,0 +1,26 @@
+[
+  {
+    "type": 2,
+    "user": {
+      "id": "c16899df-c5e5-44cc-b53c-91fb54b59d54",
+      "shortId": "1799BS",
+      "name": "Dats",
+      "role": "USER",
+      "level": 100
+    },
+    "message": "/",
+    "timestamp": "2026-05-04T01:55:00.721Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "c16899df-c5e5-44cc-b53c-91fb54b59d54",
+      "shortId": "1799BS",
+      "name": "Dats",
+      "role": "USER",
+      "level": 100
+    },
+    "message": "/inv",
+    "timestamp": "2026-05-04T01:55:04.114Z"
+  }
+]
