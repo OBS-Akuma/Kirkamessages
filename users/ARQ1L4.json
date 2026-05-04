@@ -2288,7 +2288,7 @@
       "role": "USER",
       "level": 91
     },
-    "message": "Ã¥ÂÂÃ¤ÂºÂ",
+    "message": "ÃÂ¥ÃÂÃÂÃÂ¤ÃÂºÃÂ",
     "timestamp": "2026-05-04T04:50:47.847Z"
   },
   {
@@ -2372,7 +2372,7 @@
       "role": "USER",
       "level": 91
     },
-    "message": "Ã¦Â²Â¡Ã¤ÂºÂ",
+    "message": "ÃÂ¦ÃÂ²ÃÂ¡ÃÂ¤ÃÂºÃÂ",
     "timestamp": "2026-05-04T04:51:43.106Z"
   },
   {
@@ -2384,7 +2384,7 @@
       "role": "USER",
       "level": 91
     },
-    "message": "Ã§Â­ÂÃ¤Â¸ÂÃ¤Â¸Â",
+    "message": "ÃÂ§ÃÂ­ÃÂÃÂ¤ÃÂ¸ÃÂÃÂ¤ÃÂ¸ÃÂ",
     "timestamp": "2026-05-04T04:51:46.220Z"
   },
   {
@@ -2420,7 +2420,7 @@
       "role": "USER",
       "level": 91
     },
-    "message": "no but then didnt u say make tradeÃ¯Â¼Â",
+    "message": "no but then didnt u say make tradeÃÂ¯ÃÂ¼ÃÂ",
     "timestamp": "2026-05-04T04:52:19.708Z"
   },
   {
@@ -2770,5 +2770,29 @@
     },
     "message": "i got [Quilliam|VITA|WEAPON_SKIN|MYTHICAL] [Imperial|SCAR|WEAPON_SKIN|MYTHICAL] [Anarchy|VITA|WEAPON_SKIN|MYTHICAL] for now",
     "timestamp": "2026-05-04T06:54:07.693Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "7f630ea8-9489-40b2-9259-5ae155b686b3",
+      "shortId": "ARQ1L4",
+      "name": ".hpl",
+      "role": "USER",
+      "level": 91
+    },
+    "message": "want [Sculpture||BODY_SKIN|MYTHICAL]?",
+    "timestamp": "2026-05-04T06:57:17.804Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "7f630ea8-9489-40b2-9259-5ae155b686b3",
+      "shortId": "ARQ1L4",
+      "name": ".hpl",
+      "role": "USER",
+      "level": 91
+    },
+    "message": "yo kcagez",
+    "timestamp": "2026-05-04T06:57:35.890Z"
   }
 ]
