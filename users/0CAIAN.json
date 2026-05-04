@@ -730,5 +730,17 @@
     },
     "message": "why did u have to die son",
     "timestamp": "2026-05-04T04:03:05.974Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "4a4f4e7d-2afe-4ef9-898c-92517128a7a6",
+      "shortId": "0CAIAN",
+      "name": "Palisade",
+      "role": "USER",
+      "level": 25
+    },
+    "message": "yes king von",
+    "timestamp": "2026-05-04T04:14:46.044Z"
   }
 ]
