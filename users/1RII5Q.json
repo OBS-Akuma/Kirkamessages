@@ -1,0 +1,50 @@
+[
+  {
+    "type": 2,
+    "user": {
+      "id": "22f00454-ca7c-4e05-835d-ca0c33a439f0",
+      "shortId": "1RII5Q",
+      "name": "Vietnamvodich",
+      "role": "USER",
+      "level": 87
+    },
+    "message": "hi",
+    "timestamp": "2026-05-04T07:51:59.231Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "22f00454-ca7c-4e05-835d-ca0c33a439f0",
+      "shortId": "1RII5Q",
+      "name": "Vietnamvodich",
+      "role": "USER",
+      "level": 87
+    },
+    "message": "có ai Việt Nam không",
+    "timestamp": "2026-05-04T07:52:04.967Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "22f00454-ca7c-4e05-835d-ca0c33a439f0",
+      "shortId": "1RII5Q",
+      "name": "Vietnamvodich",
+      "role": "USER",
+      "level": 87
+    },
+    "message": "hi #ESCROW",
+    "timestamp": "2026-05-04T07:52:39.020Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "22f00454-ca7c-4e05-835d-ca0c33a439f0",
+      "shortId": "1RII5Q",
+      "name": "Vietnamvodich",
+      "role": "USER",
+      "level": 87
+    },
+    "message": "long time no see",
+    "timestamp": "2026-05-04T07:52:43.485Z"
+  }
+]
