@@ -104,7 +104,31 @@
       "role": "USER",
       "level": 44
     },
-    "message": "やあ",
+    "message": "ãã",
     "timestamp": "2026-05-04T01:57:58.115Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "c5323133-eee2-44bd-831a-902af618050a",
+      "shortId": "SKK6YZ",
+      "name": "Inshallah",
+      "role": "USER",
+      "level": 44
+    },
+    "message": "ゼイレックス買ったんだ",
+    "timestamp": "2026-05-04T01:58:10.206Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "c5323133-eee2-44bd-831a-902af618050a",
+      "shortId": "SKK6YZ",
+      "name": "Inshallah",
+      "role": "USER",
+      "level": 44
+    },
+    "message": "そのナイフ",
+    "timestamp": "2026-05-04T01:58:15.393Z"
   }
 ]
