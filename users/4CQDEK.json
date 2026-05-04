@@ -430,5 +430,41 @@
     },
     "message": "/inv",
     "timestamp": "2026-05-03T16:14:41.388Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "878dfc67-a2f4-46d9-b837-58e311d701d3",
+      "shortId": "4CQDEK",
+      "name": "UrBoiBeetle",
+      "role": "USER",
+      "level": 97
+    },
+    "message": "#7AEWTE yo",
+    "timestamp": "2026-05-04T02:13:34.147Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "878dfc67-a2f4-46d9-b837-58e311d701d3",
+      "shortId": "4CQDEK",
+      "name": "UrBoiBeetle",
+      "role": "USER",
+      "level": 97
+    },
+    "message": "#7AEWTE yo u here?",
+    "timestamp": "2026-05-04T02:14:26.093Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "878dfc67-a2f4-46d9-b837-58e311d701d3",
+      "shortId": "4CQDEK",
+      "name": "UrBoiBeetle",
+      "role": "USER",
+      "level": 97
+    },
+    "message": "wdym Leader",
+    "timestamp": "2026-05-04T02:15:01.954Z"
   }
 ]
