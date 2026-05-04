@@ -34,5 +34,29 @@
     },
     "message": "nxt",
     "timestamp": "2026-05-03T15:56:12.721Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "319dc0a0-c84a-44dd-8e9e-138e859704e9",
+      "shortId": "QHVNOP",
+      "name": "procrastinate",
+      "role": "USER",
+      "level": 101
+    },
+    "message": "[Waveform|Shark|WEAPON_SKIN|EPIC]",
+    "timestamp": "2026-05-04T03:59:39.312Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "319dc0a0-c84a-44dd-8e9e-138e859704e9",
+      "shortId": "QHVNOP",
+      "name": "procrastinate",
+      "role": "USER",
+      "level": 101
+    },
+    "message": "[Mirror|VITA|WEAPON_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-04T03:59:42.739Z"
   }
 ]
