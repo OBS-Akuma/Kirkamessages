@@ -3826,5 +3826,17 @@
     },
     "message": "bruh",
     "timestamp": "2026-05-04T07:24:10.445Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "1ae21f3a-c5d5-4161-8718-75880e3d3cc8",
+      "shortId": "2QIYUL",
+      "name": "RAGEx",
+      "role": "USER",
+      "level": 42
+    },
+    "message": "lf [Forbidden|AR-9|WEAPON_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-04T08:09:27.968Z"
   }
 ]
