@@ -1138,5 +1138,53 @@
     },
     "message": "saint wager ?",
     "timestamp": "2026-05-04T03:44:15.209Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "ceb6bda2-7bd4-4e73-b89c-7f892fed47d8",
+      "shortId": "IWQ903",
+      "name": "Em1LeG0@t",
+      "role": "USER",
+      "level": 73
+    },
+    "message": "who wanna wager ?",
+    "timestamp": "2026-05-04T07:14:13.298Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "ceb6bda2-7bd4-4e73-b89c-7f892fed47d8",
+      "shortId": "IWQ903",
+      "name": "Em1LeG0@t",
+      "role": "USER",
+      "level": 73
+    },
+    "message": "/wager [Golden||CHEST|LEGENDARY]x200 #HUB956",
+    "timestamp": "2026-05-04T07:56:05.040Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "ceb6bda2-7bd4-4e73-b89c-7f892fed47d8",
+      "shortId": "IWQ903",
+      "name": "Em1LeG0@t",
+      "role": "USER",
+      "level": 73
+    },
+    "message": "/cancelwager",
+    "timestamp": "2026-05-04T07:56:16.596Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "ceb6bda2-7bd4-4e73-b89c-7f892fed47d8",
+      "shortId": "IWQ903",
+      "name": "Em1LeG0@t",
+      "role": "USER",
+      "level": 73
+    },
+    "message": "waho is wagering golden",
+    "timestamp": "2026-05-04T07:56:25.396Z"
   }
 ]
