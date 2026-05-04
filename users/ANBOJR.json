@@ -46,5 +46,29 @@
     },
     "message": "/hm Starship",
     "timestamp": "2026-05-04T07:08:39.569Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "b3d1d8da-24aa-451c-b685-17702bb82f15",
+      "shortId": "ANBOJR",
+      "name": "Glitch",
+      "role": "USER",
+      "level": 61
+    },
+    "message": "/inv",
+    "timestamp": "2026-05-04T07:13:19.017Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "b3d1d8da-24aa-451c-b685-17702bb82f15",
+      "shortId": "ANBOJR",
+      "name": "Glitch",
+      "role": "USER",
+      "level": 61
+    },
+    "message": "bro i need [Oblivion|SCAR|WEAPON_SKIN|MYTHICAL] for my [Ortus|Revolver|WEAPON_SKIN|MYTHICAL]x2",
+    "timestamp": "2026-05-04T07:14:34.122Z"
   }
 ]
