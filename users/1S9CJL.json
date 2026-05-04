@@ -20,7 +20,7 @@
       "role": "USER",
       "level": 100
     },
-    "message": "should i accept king whylies offer Ã°ÂÂ¤Â",
+    "message": "should i accept king whylies offer ÃÂ°ÃÂÃÂ¤ÃÂ",
     "timestamp": "2026-05-04T07:48:10.192Z"
   },
   {
@@ -70,5 +70,17 @@
     },
     "message": "rabbi",
     "timestamp": "2026-05-04T07:54:00.695Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "bc6a6efe-4871-4c30-963d-058e61ce20e4",
+      "shortId": "1S9CJL",
+      "name": ".Aimless",
+      "role": "USER",
+      "level": 100
+    },
+    "message": "lf solar",
+    "timestamp": "2026-05-04T08:00:13.669Z"
   }
 ]
