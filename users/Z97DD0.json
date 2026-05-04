@@ -442,5 +442,65 @@
     },
     "message": "/confirmwager",
     "timestamp": "2026-05-04T03:08:15.652Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "b0c61921-21b4-4eb0-b848-92e85240af89",
+      "shortId": "Z97DD0",
+      "name": "ytdanielyoung6",
+      "role": "USER",
+      "level": 15
+    },
+    "message": "Gg",
+    "timestamp": "2026-05-04T03:09:12.922Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "b0c61921-21b4-4eb0-b848-92e85240af89",
+      "shortId": "Z97DD0",
+      "name": "ytdanielyoung6",
+      "role": "USER",
+      "level": 15
+    },
+    "message": "Chabz i aint upset i think i sniped a burger for 5k ;-;",
+    "timestamp": "2026-05-04T03:10:07.916Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "b0c61921-21b4-4eb0-b848-92e85240af89",
+      "shortId": "Z97DD0",
+      "name": "ytdanielyoung6",
+      "role": "USER",
+      "level": 15
+    },
+    "message": "/mywager",
+    "timestamp": "2026-05-04T03:10:30.744Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "b0c61921-21b4-4eb0-b848-92e85240af89",
+      "shortId": "Z97DD0",
+      "name": "ytdanielyoung6",
+      "role": "USER",
+      "level": 15
+    },
+    "message": "Chabz i lost yuki anon and chilly to wagers ;-;",
+    "timestamp": "2026-05-04T03:11:22.179Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "b0c61921-21b4-4eb0-b848-92e85240af89",
+      "shortId": "Z97DD0",
+      "name": "ytdanielyoung6",
+      "role": "USER",
+      "level": 15
+    },
+    "message": "And lost another chilly to maintenance or wtv xip was doing ;-;",
+    "timestamp": "2026-05-04T03:11:38.535Z"
   }
 ]
