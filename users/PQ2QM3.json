@@ -322,5 +322,17 @@
     },
     "message": "oh kk",
     "timestamp": "2026-05-04T04:06:47.168Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "f20b7a06-4259-43c3-8ec1-51c98ab462c9",
+      "shortId": "PQ2QM3",
+      "name": "Rencyy__",
+      "role": "USER",
+      "level": 29
+    },
+    "message": "/hm bansee",
+    "timestamp": "2026-05-04T04:23:22.825Z"
   }
 ]
