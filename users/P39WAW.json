@@ -202,5 +202,65 @@
     },
     "message": "#CURSEDi m trading kin and clownabeh",
     "timestamp": "2026-05-04T03:04:48.407Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "e86e8f49-e70a-4ccf-bb4e-60b5a0556b1c",
+      "shortId": "P39WAW",
+      "name": "SHELL",
+      "role": "USER",
+      "level": 81
+    },
+    "message": "/locate vapir",
+    "timestamp": "2026-05-04T03:09:17.325Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "e86e8f49-e70a-4ccf-bb4e-60b5a0556b1c",
+      "shortId": "P39WAW",
+      "name": "SHELL",
+      "role": "USER",
+      "level": 81
+    },
+    "message": "/locate vapor",
+    "timestamp": "2026-05-04T03:09:30.261Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "e86e8f49-e70a-4ccf-bb4e-60b5a0556b1c",
+      "shortId": "P39WAW",
+      "name": "SHELL",
+      "role": "USER",
+      "level": 81
+    },
+    "message": "/locate vapor p2",
+    "timestamp": "2026-05-04T03:10:09.445Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "e86e8f49-e70a-4ccf-bb4e-60b5a0556b1c",
+      "shortId": "P39WAW",
+      "name": "SHELL",
+      "role": "USER",
+      "level": 81
+    },
+    "message": "/locate boo",
+    "timestamp": "2026-05-04T03:10:46.823Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "e86e8f49-e70a-4ccf-bb4e-60b5a0556b1c",
+      "shortId": "P39WAW",
+      "name": "SHELL",
+      "role": "USER",
+      "level": 81
+    },
+    "message": "/locate lor",
+    "timestamp": "2026-05-04T03:10:59.641Z"
   }
 ]
