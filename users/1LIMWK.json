@@ -106,5 +106,17 @@
     },
     "message": "guys how do i trade stuff",
     "timestamp": "2026-05-04T08:03:06.426Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "enc7llcDrHZHxoB01vfNoUdOded2",
+      "shortId": "1LIMWK",
+      "name": "Vanisher",
+      "role": "USER",
+      "level": 15
+    },
+    "message": "also G48 i think its somewhat hard",
+    "timestamp": "2026-05-04T08:03:23.110Z"
   }
 ]
