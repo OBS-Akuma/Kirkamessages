@@ -1,0 +1,26 @@
+[
+  {
+    "type": 2,
+    "user": {
+      "id": "0909a116-4e5b-42fb-9f7b-ca9b4f776a26",
+      "shortId": "KATANA",
+      "name": "Dream",
+      "role": "USER",
+      "level": 100
+    },
+    "message": "[2026 VITA|VITA|WEAPON_SKIN|MYTHICAL] for [Forbidden|AR-9|WEAPON_SKIN|MYTHICAL] anyone??",
+    "timestamp": "2026-05-04T04:01:48.688Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "0909a116-4e5b-42fb-9f7b-ca9b4f776a26",
+      "shortId": "KATANA",
+      "name": "Dream",
+      "role": "USER",
+      "level": 100
+    },
+    "message": "Np",
+    "timestamp": "2026-05-04T04:03:02.992Z"
+  }
+]
