@@ -1,0 +1,38 @@
+[
+  {
+    "type": 2,
+    "user": {
+      "id": "912bde0b-968f-4e24-b50e-91c385105c50",
+      "shortId": "X20F8T",
+      "name": "Nazuna_vsp",
+      "role": "USER",
+      "level": 97
+    },
+    "message": "ggs",
+    "timestamp": "2026-05-04T07:34:51.206Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "912bde0b-968f-4e24-b50e-91c385105c50",
+      "shortId": "X20F8T",
+      "name": "Nazuna_vsp",
+      "role": "USER",
+      "level": 97
+    },
+    "message": "lf[Gardener|Bayonet|WEAPON_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-04T07:44:28.164Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "912bde0b-968f-4e24-b50e-91c385105c50",
+      "shortId": "X20F8T",
+      "name": "Nazuna_vsp",
+      "role": "USER",
+      "level": 97
+    },
+    "message": "lf [Gardener|Bayonet|WEAPON_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-04T07:47:17.333Z"
+  }
+]
