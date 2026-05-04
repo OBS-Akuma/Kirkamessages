@@ -668,7 +668,7 @@
       "role": "USER",
       "level": 95
     },
-    "message": "#CURSED Можно мне 10 000 золотых, пожалуйста, братан?",
+    "message": "#CURSED ÐÐ¾Ð¶Ð½Ð¾ Ð¼Ð½Ðµ 10 000 Ð·Ð¾Ð»Ð¾ÑÑÑ, Ð¿Ð¾Ð¶Ð°Ð»ÑÐ¹ÑÑÐ°, Ð±ÑÐ°ÑÐ°Ð½?",
     "timestamp": "2026-05-04T03:25:22.209Z"
   },
   {
@@ -692,7 +692,7 @@
       "role": "USER",
       "level": 95
     },
-    "message": "С кем ты там разговариваешь?",
+    "message": "Ð¡ ÐºÐµÐ¼ ÑÑ ÑÐ°Ð¼ ÑÐ°Ð·Ð³Ð¾Ð²Ð°ÑÐ¸Ð²Ð°ÐµÑÑ?",
     "timestamp": "2026-05-04T03:26:25.761Z"
   },
   {
@@ -704,7 +704,7 @@
       "role": "USER",
       "level": 95
     },
-    "message": "с ума сошли?",
+    "message": "Ñ ÑÐ¼Ð° ÑÐ¾ÑÐ»Ð¸?",
     "timestamp": "2026-05-04T03:26:49.545Z"
   },
   {
@@ -754,5 +754,113 @@
     },
     "message": "yeah bro gg",
     "timestamp": "2026-05-04T03:35:04.995Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "9bb89461-774b-4397-83ee-1385fc4b479c",
+      "shortId": "9S8FA7",
+      "name": "chabz",
+      "role": "USER",
+      "level": 95
+    },
+    "message": "yo",
+    "timestamp": "2026-05-04T04:01:10.419Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "9bb89461-774b-4397-83ee-1385fc4b479c",
+      "shortId": "9S8FA7",
+      "name": "chabz",
+      "role": "USER",
+      "level": 95
+    },
+    "message": "make it",
+    "timestamp": "2026-05-04T04:01:15.199Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "9bb89461-774b-4397-83ee-1385fc4b479c",
+      "shortId": "9S8FA7",
+      "name": "chabz",
+      "role": "USER",
+      "level": 95
+    },
+    "message": "why is it bugging",
+    "timestamp": "2026-05-04T04:04:07.295Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "9bb89461-774b-4397-83ee-1385fc4b479c",
+      "shortId": "9S8FA7",
+      "name": "chabz",
+      "role": "USER",
+      "level": 95
+    },
+    "message": "wait",
+    "timestamp": "2026-05-04T04:05:10.639Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "9bb89461-774b-4397-83ee-1385fc4b479c",
+      "shortId": "9S8FA7",
+      "name": "chabz",
+      "role": "USER",
+      "level": 95
+    },
+    "message": "i forgot hellletloose",
+    "timestamp": "2026-05-04T04:05:15.202Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "9bb89461-774b-4397-83ee-1385fc4b479c",
+      "shortId": "9S8FA7",
+      "name": "chabz",
+      "role": "USER",
+      "level": 95
+    },
+    "message": "yes",
+    "timestamp": "2026-05-04T04:05:43.510Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "9bb89461-774b-4397-83ee-1385fc4b479c",
+      "shortId": "9S8FA7",
+      "name": "chabz",
+      "role": "USER",
+      "level": 95
+    },
+    "message": "request",
+    "timestamp": "2026-05-04T04:05:45.492Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "9bb89461-774b-4397-83ee-1385fc4b479c",
+      "shortId": "9S8FA7",
+      "name": "chabz",
+      "role": "USER",
+      "level": 95
+    },
+    "message": "my bad",
+    "timestamp": "2026-05-04T04:05:47.653Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "9bb89461-774b-4397-83ee-1385fc4b479c",
+      "shortId": "9S8FA7",
+      "name": "chabz",
+      "role": "USER",
+      "level": 95
+    },
+    "message": "i said i forgot",
+    "timestamp": "2026-05-04T04:05:52.655Z"
   }
 ]
