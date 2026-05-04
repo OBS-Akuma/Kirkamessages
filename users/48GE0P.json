@@ -1,0 +1,50 @@
+[
+  {
+    "type": 2,
+    "user": {
+      "id": "2e201d4b-95f1-4665-ac6d-06fe2a36de77",
+      "shortId": "48GE0P",
+      "name": "xana",
+      "role": "USER",
+      "level": 55
+    },
+    "message": "/price forbidden",
+    "timestamp": "2026-05-04T03:36:12.191Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "2e201d4b-95f1-4665-ac6d-06fe2a36de77",
+      "shortId": "48GE0P",
+      "name": "xana",
+      "role": "USER",
+      "level": 55
+    },
+    "message": "/enter",
+    "timestamp": "2026-05-04T03:36:18.255Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "2e201d4b-95f1-4665-ac6d-06fe2a36de77",
+      "shortId": "48GE0P",
+      "name": "xana",
+      "role": "USER",
+      "level": 55
+    },
+    "message": "/price pollen",
+    "timestamp": "2026-05-04T03:41:08.459Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "2e201d4b-95f1-4665-ac6d-06fe2a36de77",
+      "shortId": "48GE0P",
+      "name": "xana",
+      "role": "USER",
+      "level": 55
+    },
+    "message": "/inv",
+    "timestamp": "2026-05-04T03:48:39.847Z"
+  }
+]
