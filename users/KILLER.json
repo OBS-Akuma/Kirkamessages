@@ -394,5 +394,17 @@
     },
     "message": "LF wager [Tiburon|Bayonet|WEAPON_SKIN|MYTHICAL][Ortus|Revolver|WEAPON_SKIN|MYTHICAL]",
     "timestamp": "2026-05-03T16:13:37.182Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "e94fc41b-ee11-41e2-8942-4381500742af",
+      "shortId": "KILLER",
+      "name": "Quitter",
+      "role": "USER",
+      "level": 99
+    },
+    "message": "LF wager [Ghoul||BODY_SKIN|MYTHICAL][Heavy|LAR|WEAPON_SKIN|MYTHICAL][Slasher||BODY_SKIN|PARANORMAL][Vintage|VITA|WEAPON_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-04T03:54:20.247Z"
   }
 ]
