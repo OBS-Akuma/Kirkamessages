@@ -514,5 +514,29 @@
     },
     "message": "/inv",
     "timestamp": "2026-05-04T02:10:17.739Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "af2a8134-8103-4f18-a202-352619fc307b",
+      "shortId": "QESXKG",
+      "name": "Caramel",
+      "role": "USER",
+      "level": 94
+    },
+    "message": "Aich they hit more damage but you hit faster so you just gotta get them like tha",
+    "timestamp": "2026-05-04T02:12:08.796Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "af2a8134-8103-4f18-a202-352619fc307b",
+      "shortId": "QESXKG",
+      "name": "Caramel",
+      "role": "USER",
+      "level": 94
+    },
+    "message": "/locate pollen",
+    "timestamp": "2026-05-04T02:12:52.167Z"
   }
 ]
