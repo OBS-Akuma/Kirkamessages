@@ -778,5 +778,41 @@
     },
     "message": "Uh",
     "timestamp": "2026-05-04T02:25:25.637Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "859b62ae-f34b-4ce7-848d-a4e501546a99",
+      "shortId": "9MDD8T",
+      "name": "Niflheim",
+      "role": "USER",
+      "level": 98
+    },
+    "message": "I don't think they accept without dc idk",
+    "timestamp": "2026-05-04T02:25:38.781Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "859b62ae-f34b-4ce7-848d-a4e501546a99",
+      "shortId": "9MDD8T",
+      "name": "Niflheim",
+      "role": "USER",
+      "level": 98
+    },
+    "message": "And i am not officer",
+    "timestamp": "2026-05-04T02:25:45.728Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "859b62ae-f34b-4ce7-848d-a4e501546a99",
+      "shortId": "9MDD8T",
+      "name": "Niflheim",
+      "role": "USER",
+      "level": 98
+    },
+    "message": "... Wdym?",
+    "timestamp": "2026-05-04T02:26:15.590Z"
   }
 ]
