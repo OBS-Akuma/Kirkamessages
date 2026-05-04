@@ -405,5 +405,29 @@
     },
     "message": "can i add sizzle?",
     "timestamp": "2026-05-02T19:23:47.768Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "a0103ee0-5459-48e5-9959-9199c3cac592",
+      "shortId": "1BY7KM",
+      "name": ".pepe",
+      "role": "USER",
+      "level": 96
+    },
+    "message": "gg",
+    "timestamp": "2026-05-04T04:54:52.146Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "a0103ee0-5459-48e5-9959-9199c3cac592",
+      "shortId": "1BY7KM",
+      "name": ".pepe",
+      "role": "USER",
+      "level": 96
+    },
+    "message": "all good",
+    "timestamp": "2026-05-04T04:55:02.856Z"
   }
 ]
