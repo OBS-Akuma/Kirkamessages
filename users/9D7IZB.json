@@ -10,5 +10,17 @@
     },
     "message": "Wagering pandora",
     "timestamp": "2026-05-03T03:38:24.561Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "98e76416-28bc-4578-b37a-8cbeb55b413c",
+      "shortId": "9D7IZB",
+      "name": "0range",
+      "role": "USER",
+      "level": 85
+    },
+    "message": "[Garden|LAR|WEAPON_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-04T08:07:29.432Z"
   }
 ]
