@@ -1376,7 +1376,7 @@
       "role": "USER",
       "level": 17
     },
-    "message": "i know only kemon ache Ã°ÂÂ¥Â",
+    "message": "i know only kemon ache ÃÂ°ÃÂÃÂ¥ÃÂ",
     "timestamp": "2026-05-04T07:31:56.568Z"
   },
   {
@@ -2170,5 +2170,53 @@
     },
     "message": "VENOM ACCPET ELSE UR GETTING BAN AND MUTE",
     "timestamp": "2026-05-04T08:03:00.875Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "ffebb0b6-66b1-4380-9516-c5fe704e98ff",
+      "shortId": "22L1E4",
+      "name": "Walterdaguy",
+      "role": "USER",
+      "level": 17
+    },
+    "message": "VENOM SCAMMER",
+    "timestamp": "2026-05-04T08:03:32.851Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "ffebb0b6-66b1-4380-9516-c5fe704e98ff",
+      "shortId": "22L1E4",
+      "name": "Walterdaguy",
+      "role": "USER",
+      "level": 17
+    },
+    "message": "VENOM SCAMMER..",
+    "timestamp": "2026-05-04T08:03:34.872Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "ffebb0b6-66b1-4380-9516-c5fe704e98ff",
+      "shortId": "22L1E4",
+      "name": "Walterdaguy",
+      "role": "USER",
+      "level": 17
+    },
+    "message": "**1v1 RANKED WAGERING**[Bay|Shark|WEAPON_SKIN|LEGENDARY][Arachne|VITA|WEAPON_SKIN|MYTHICAL]x2[Forbidden|AR-9|WEAPON_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-04T08:03:49.712Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "ffebb0b6-66b1-4380-9516-c5fe704e98ff",
+      "shortId": "22L1E4",
+      "name": "Walterdaguy",
+      "role": "USER",
+      "level": 17
+    },
+    "message": "**1v1 RANKED WAGERING**[Bay|Shark|WEAPON_SKIN|LEGENDARY][Arachne|VITA|WEAPON_SKIN|MYTHICAL]x2[Forbidden|AR-9|WEAPON_SKIN|MYTHICAL].",
+    "timestamp": "2026-05-04T08:04:14.264Z"
   }
 ]
