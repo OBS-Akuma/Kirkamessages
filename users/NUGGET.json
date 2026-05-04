@@ -371,5 +371,29 @@
     },
     "message": "holy oop",
     "timestamp": "2026-05-04T03:09:38.829Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "7f2a6090-abcb-48a7-8838-88ee8111b261",
+      "shortId": "NUGGET",
+      "name": "Akuma :3",
+      "role": "USER",
+      "level": 55
+    },
+    "message": "gg",
+    "timestamp": "2026-05-04T04:36:25.049Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "7f2a6090-abcb-48a7-8838-88ee8111b261",
+      "shortId": "NUGGET",
+      "name": "Akuma :3",
+      "role": "USER",
+      "level": 55
+    },
+    "message": "#WX7ZW3",
+    "timestamp": "2026-05-04T04:47:41.313Z"
   }
 ]
