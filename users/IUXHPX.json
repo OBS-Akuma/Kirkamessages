@@ -1,0 +1,38 @@
+[
+  {
+    "type": 2,
+    "user": {
+      "id": "syAxAo5byXUChd5H3uSz4qXKA173",
+      "shortId": "IUXHPX",
+      "name": "EL_SEBAS_XD",
+      "role": "USER",
+      "level": 5
+    },
+    "message": "Hi all",
+    "timestamp": "2026-05-04T02:23:41.273Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "syAxAo5byXUChd5H3uSz4qXKA173",
+      "shortId": "IUXHPX",
+      "name": "EL_SEBAS_XD",
+      "role": "USER",
+      "level": 5
+    },
+    "message": "/ta",
+    "timestamp": "2026-05-04T02:25:33.315Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "syAxAo5byXUChd5H3uSz4qXKA173",
+      "shortId": "IUXHPX",
+      "name": "EL_SEBAS_XD",
+      "role": "USER",
+      "level": 5
+    },
+    "message": "/claim",
+    "timestamp": "2026-05-04T02:39:09.323Z"
+  }
+]
