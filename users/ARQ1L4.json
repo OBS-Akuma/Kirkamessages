@@ -2288,7 +2288,7 @@
       "role": "USER",
       "level": 91
     },
-    "message": "åäº",
+    "message": "Ã¥ÂÂÃ¤ÂºÂ",
     "timestamp": "2026-05-04T04:50:47.847Z"
   },
   {
@@ -2372,7 +2372,7 @@
       "role": "USER",
       "level": 91
     },
-    "message": "æ²¡äº",
+    "message": "Ã¦Â²Â¡Ã¤ÂºÂ",
     "timestamp": "2026-05-04T04:51:43.106Z"
   },
   {
@@ -2384,7 +2384,7 @@
       "role": "USER",
       "level": 91
     },
-    "message": "ç­ä¸ä¸",
+    "message": "Ã§Â­ÂÃ¤Â¸ÂÃ¤Â¸Â",
     "timestamp": "2026-05-04T04:51:46.220Z"
   },
   {
@@ -2420,7 +2420,7 @@
       "role": "USER",
       "level": 91
     },
-    "message": "no but then didnt u say make tradeï¼",
+    "message": "no but then didnt u say make tradeÃ¯Â¼Â",
     "timestamp": "2026-05-04T04:52:19.708Z"
   },
   {
@@ -2710,5 +2710,65 @@
     },
     "message": "just remember that",
     "timestamp": "2026-05-04T04:57:13.105Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "7f630ea8-9489-40b2-9259-5ae155b686b3",
+      "shortId": "ARQ1L4",
+      "name": ".hpl",
+      "role": "USER",
+      "level": 91
+    },
+    "message": "yo sypzew",
+    "timestamp": "2026-05-04T06:53:17.200Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "7f630ea8-9489-40b2-9259-5ae155b686b3",
+      "shortId": "ARQ1L4",
+      "name": ".hpl",
+      "role": "USER",
+      "level": 91
+    },
+    "message": "want [Sculpture||BODY_SKIN|MYTHICAL]?",
+    "timestamp": "2026-05-04T06:53:21.815Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "7f630ea8-9489-40b2-9259-5ae155b686b3",
+      "shortId": "ARQ1L4",
+      "name": ".hpl",
+      "role": "USER",
+      "level": 91
+    },
+    "message": "yo blaze i got quil",
+    "timestamp": "2026-05-04T06:53:35.641Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "7f630ea8-9489-40b2-9259-5ae155b686b3",
+      "shortId": "ARQ1L4",
+      "name": ".hpl",
+      "role": "USER",
+      "level": 91
+    },
+    "message": "hm u dging lor for",
+    "timestamp": "2026-05-04T06:53:39.738Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "7f630ea8-9489-40b2-9259-5ae155b686b3",
+      "shortId": "ARQ1L4",
+      "name": ".hpl",
+      "role": "USER",
+      "level": 91
+    },
+    "message": "i got [Quilliam|VITA|WEAPON_SKIN|MYTHICAL] [Imperial|SCAR|WEAPON_SKIN|MYTHICAL] [Anarchy|VITA|WEAPON_SKIN|MYTHICAL] for now",
+    "timestamp": "2026-05-04T06:54:07.693Z"
   }
 ]
