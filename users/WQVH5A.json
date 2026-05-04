@@ -1,0 +1,26 @@
+[
+  {
+    "type": 2,
+    "user": {
+      "id": "91913001-dd8f-4e4c-8491-b4ae7d59b884",
+      "shortId": "WQVH5A",
+      "name": "Usagi.",
+      "role": "USER",
+      "level": 5
+    },
+    "message": "i want skin of character",
+    "timestamp": "2026-05-04T04:47:23.885Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "91913001-dd8f-4e4c-8491-b4ae7d59b884",
+      "shortId": "WQVH5A",
+      "name": "Usagi.",
+      "role": "USER",
+      "level": 5
+    },
+    "message": "i want a chracter",
+    "timestamp": "2026-05-04T04:47:44.072Z"
+  }
+]
