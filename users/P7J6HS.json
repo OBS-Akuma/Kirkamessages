@@ -70,5 +70,137 @@
     },
     "message": "[Helizabet||BODY_SKIN|MYTHICAL]",
     "timestamp": "2026-05-04T02:07:39.941Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "5cd48192-9987-4214-9fac-9dfb946f8c5a",
+      "shortId": "P7J6HS",
+      "name": "Hibiki",
+      "role": "USER",
+      "level": 100
+    },
+    "message": "[Cherry|Tomahawk|WEAPON_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-04T03:22:33.932Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "5cd48192-9987-4214-9fac-9dfb946f8c5a",
+      "shortId": "P7J6HS",
+      "name": "Hibiki",
+      "role": "USER",
+      "level": 100
+    },
+    "message": "[Orchid|Shark|WEAPON_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-04T03:23:14.385Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "5cd48192-9987-4214-9fac-9dfb946f8c5a",
+      "shortId": "P7J6HS",
+      "name": "Hibiki",
+      "role": "USER",
+      "level": 100
+    },
+    "message": "/hm [Veiled||BODY_SKIN|LEGENDARY]",
+    "timestamp": "2026-05-04T03:24:00.098Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "5cd48192-9987-4214-9fac-9dfb946f8c5a",
+      "shortId": "P7J6HS",
+      "name": "Hibiki",
+      "role": "USER",
+      "level": 100
+    },
+    "message": "/hm [Fever|SCAR|WEAPON_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-04T03:24:16.118Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "5cd48192-9987-4214-9fac-9dfb946f8c5a",
+      "shortId": "P7J6HS",
+      "name": "Hibiki",
+      "role": "USER",
+      "level": 100
+    },
+    "message": "nope",
+    "timestamp": "2026-05-04T03:24:18.786Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "5cd48192-9987-4214-9fac-9dfb946f8c5a",
+      "shortId": "P7J6HS",
+      "name": "Hibiki",
+      "role": "USER",
+      "level": 100
+    },
+    "message": "/hm [Lilith||BODY_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-04T03:25:02.351Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "5cd48192-9987-4214-9fac-9dfb946f8c5a",
+      "shortId": "P7J6HS",
+      "name": "Hibiki",
+      "role": "USER",
+      "level": 100
+    },
+    "message": "nope",
+    "timestamp": "2026-05-04T03:25:53.041Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "5cd48192-9987-4214-9fac-9dfb946f8c5a",
+      "shortId": "P7J6HS",
+      "name": "Hibiki",
+      "role": "USER",
+      "level": 100
+    },
+    "message": "/hm [Soak|Revolver|WEAPON_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-04T03:27:23.238Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "5cd48192-9987-4214-9fac-9dfb946f8c5a",
+      "shortId": "P7J6HS",
+      "name": "Hibiki",
+      "role": "USER",
+      "level": 100
+    },
+    "message": "/hm [Cherry|Tomahawk|WEAPON_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-04T03:27:38.641Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "5cd48192-9987-4214-9fac-9dfb946f8c5a",
+      "shortId": "P7J6HS",
+      "name": "Hibiki",
+      "role": "USER",
+      "level": 100
+    },
+    "message": "/hm [Born|M60|WEAPON_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-04T03:27:54.008Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "5cd48192-9987-4214-9fac-9dfb946f8c5a",
+      "shortId": "P7J6HS",
+      "name": "Hibiki",
+      "role": "USER",
+      "level": 100
+    },
+    "message": "/hm [Mommy|AR-9|WEAPON_SKIN|LEGENDARY]",
+    "timestamp": "2026-05-04T03:28:26.192Z"
   }
 ]
