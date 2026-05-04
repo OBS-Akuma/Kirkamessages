@@ -706,5 +706,29 @@
     },
     "message": "trading my invv",
     "timestamp": "2026-05-04T04:45:12.511Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "99cc3bc0-e1e3-48ee-815b-9bfe1f7f7fe2",
+      "shortId": "00ZW80",
+      "name": "Newbie",
+      "role": "USER",
+      "level": 29
+    },
+    "message": "what",
+    "timestamp": "2026-05-04T06:53:26.955Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "99cc3bc0-e1e3-48ee-815b-9bfe1f7f7fe2",
+      "shortId": "00ZW80",
+      "name": "Newbie",
+      "role": "USER",
+      "level": 29
+    },
+    "message": "lol",
+    "timestamp": "2026-05-04T06:53:39.889Z"
   }
 ]
