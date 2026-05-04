@@ -1,0 +1,26 @@
+[
+  {
+    "type": 2,
+    "user": {
+      "id": "4a4f4e7d-2afe-4ef9-898c-92517128a7a6",
+      "shortId": "0CAIAN",
+      "name": "Palisade",
+      "role": "USER",
+      "level": 25
+    },
+    "message": "aya do you remember me",
+    "timestamp": "2026-05-04T02:22:43.370Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "4a4f4e7d-2afe-4ef9-898c-92517128a7a6",
+      "shortId": "0CAIAN",
+      "name": "Palisade",
+      "role": "USER",
+      "level": 25
+    },
+    "message": "i go by paladin and ariel",
+    "timestamp": "2026-05-04T02:22:59.325Z"
+  }
+]
