@@ -670,5 +670,29 @@
     },
     "message": "chabz accept",
     "timestamp": "2026-05-04T04:38:29.914Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "250902c5-06d6-4124-bb85-39c5beffb9e1",
+      "shortId": "1AYMLK",
+      "name": "rayder",
+      "role": "USER",
+      "level": 10
+    },
+    "message": "/price drake",
+    "timestamp": "2026-05-04T04:59:37.842Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "250902c5-06d6-4124-bb85-39c5beffb9e1",
+      "shortId": "1AYMLK",
+      "name": "rayder",
+      "role": "USER",
+      "level": 10
+    },
+    "message": "/price majestic",
+    "timestamp": "2026-05-04T04:59:45.841Z"
   }
 ]
