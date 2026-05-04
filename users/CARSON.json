@@ -1,0 +1,26 @@
+[
+  {
+    "type": 2,
+    "user": {
+      "id": "9760c58b-fc34-425a-8d81-a957ad5a75c1",
+      "shortId": "CARSON",
+      "name": "CHADMONSTER",
+      "role": "USER",
+      "level": 98
+    },
+    "message": "[Metro|AR-9|WEAPON_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-04T02:20:17.719Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "9760c58b-fc34-425a-8d81-a957ad5a75c1",
+      "shortId": "CARSON",
+      "name": "CHADMONSTER",
+      "role": "USER",
+      "level": 98
+    },
+    "message": "/locate [Astral|AR-9|WEAPON_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-04T02:20:22.610Z"
+  }
+]
