@@ -262,5 +262,29 @@
     },
     "message": "tbf I was wrong",
     "timestamp": "2026-05-03T15:50:46.614Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "c4be612c-91b2-460a-a030-43bb277d1e8f",
+      "shortId": "21ERUV",
+      "name": "Leo_Xtc",
+      "role": "USER",
+      "level": 99
+    },
+    "message": "/wager [Marage||BODY_SKIN|MYTHICAL] #POOKIE",
+    "timestamp": "2026-05-03T16:09:22.205Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "c4be612c-91b2-460a-a030-43bb277d1e8f",
+      "shortId": "21ERUV",
+      "name": "Leo_Xtc",
+      "role": "USER",
+      "level": 99
+    },
+    "message": "wait not now sry",
+    "timestamp": "2026-05-03T16:09:57.996Z"
   }
 ]
