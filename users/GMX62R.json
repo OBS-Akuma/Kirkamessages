@@ -1,0 +1,62 @@
+[
+  {
+    "type": 2,
+    "user": {
+      "id": "bc8e6feb-bb40-4540-9470-ea5c349d769c",
+      "shortId": "GMX62R",
+      "name": "Ethong",
+      "role": "USER",
+      "level": 15
+    },
+    "message": "/hm murdered",
+    "timestamp": "2026-05-04T03:02:33.548Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "bc8e6feb-bb40-4540-9470-ea5c349d769c",
+      "shortId": "GMX62R",
+      "name": "Ethong",
+      "role": "USER",
+      "level": 15
+    },
+    "message": "i got {cheesy}",
+    "timestamp": "2026-05-04T03:03:32.084Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "bc8e6feb-bb40-4540-9470-ea5c349d769c",
+      "shortId": "GMX62R",
+      "name": "Ethong",
+      "role": "USER",
+      "level": 15
+    },
+    "message": "i got [Cheesy|Shark|WEAPON_SKIN|LEGENDARY]",
+    "timestamp": "2026-05-04T03:03:40.012Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "bc8e6feb-bb40-4540-9470-ea5c349d769c",
+      "shortId": "GMX62R",
+      "name": "Ethong",
+      "role": "USER",
+      "level": 15
+    },
+    "message": "/enter",
+    "timestamp": "2026-05-04T03:05:01.758Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "bc8e6feb-bb40-4540-9470-ea5c349d769c",
+      "shortId": "GMX62R",
+      "name": "Ethong",
+      "role": "USER",
+      "level": 15
+    },
+    "message": "/inv",
+    "timestamp": "2026-05-04T03:05:22.410Z"
+  }
+]
