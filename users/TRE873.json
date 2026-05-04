@@ -898,5 +898,41 @@
     },
     "message": "Trading [Ranked_S3 Top100|Bayonet|WEAPON_SKIN|MYTHICAL]",
     "timestamp": "2026-05-04T02:44:26.741Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "5d544b9e-5ca6-4638-b3a2-0318522e29af",
+      "shortId": "TRE873",
+      "name": "QWERTY",
+      "role": "USER",
+      "level": 66
+    },
+    "message": "Misa",
+    "timestamp": "2026-05-04T03:48:46.290Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "5d544b9e-5ca6-4638-b3a2-0318522e29af",
+      "shortId": "TRE873",
+      "name": "QWERTY",
+      "role": "USER",
+      "level": 66
+    },
+    "message": "/inv",
+    "timestamp": "2026-05-04T03:48:58.792Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "5d544b9e-5ca6-4638-b3a2-0318522e29af",
+      "shortId": "TRE873",
+      "name": "QWERTY",
+      "role": "USER",
+      "level": 66
+    },
+    "message": "Trading [Helendus|VITA|WEAPON_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-04T03:53:33.125Z"
   }
 ]
