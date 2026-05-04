@@ -178,5 +178,53 @@
     },
     "message": "/enter",
     "timestamp": "2026-05-04T03:05:07.377Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "4640c5e7-8889-4f71-8446-a54180b81f7c",
+      "shortId": "KLBFGG",
+      "name": "keyboard",
+      "role": "USER",
+      "level": 77
+    },
+    "message": "/wager [Golden||CHEST|LEGENDARY]x400 #9S8FA7",
+    "timestamp": "2026-05-04T03:09:31.224Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "4640c5e7-8889-4f71-8446-a54180b81f7c",
+      "shortId": "KLBFGG",
+      "name": "keyboard",
+      "role": "USER",
+      "level": 77
+    },
+    "message": "/cancelwager",
+    "timestamp": "2026-05-04T03:09:37.268Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "4640c5e7-8889-4f71-8446-a54180b81f7c",
+      "shortId": "KLBFGG",
+      "name": "keyboard",
+      "role": "USER",
+      "level": 77
+    },
+    "message": "/wager [Golden||CHEST|LEGENDARY]x400 #9S8FA7",
+    "timestamp": "2026-05-04T03:09:43.690Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "4640c5e7-8889-4f71-8446-a54180b81f7c",
+      "shortId": "KLBFGG",
+      "name": "keyboard",
+      "role": "USER",
+      "level": 77
+    },
+    "message": "/mywager",
+    "timestamp": "2026-05-04T03:10:11.915Z"
   }
 ]
