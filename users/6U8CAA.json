@@ -1,0 +1,74 @@
+[
+  {
+    "type": 2,
+    "user": {
+      "id": "1f5fd400-324a-469a-b002-6373449ee0e3",
+      "shortId": "6U8CAA",
+      "name": "cocalola",
+      "role": "USER",
+      "level": 13
+    },
+    "message": "tr [Bound|AR-9|WEAPON_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-04T01:56:55.888Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "1f5fd400-324a-469a-b002-6373449ee0e3",
+      "shortId": "6U8CAA",
+      "name": "cocalola",
+      "role": "USER",
+      "level": 13
+    },
+    "message": "tr [Bound|AR-9|WEAPON_SKIN|MYTHICAL] and [Nib||BODY_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-04T01:57:03.158Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "1f5fd400-324a-469a-b002-6373449ee0e3",
+      "shortId": "6U8CAA",
+      "name": "cocalola",
+      "role": "USER",
+      "level": 13
+    },
+    "message": "/hm [Bound|AR-9|WEAPON_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-04T01:59:04.766Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "1f5fd400-324a-469a-b002-6373449ee0e3",
+      "shortId": "6U8CAA",
+      "name": "cocalola",
+      "role": "USER",
+      "level": 13
+    },
+    "message": "/hm [Gardener|Bayonet|WEAPON_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-04T01:59:12.353Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "1f5fd400-324a-469a-b002-6373449ee0e3",
+      "shortId": "6U8CAA",
+      "name": "cocalola",
+      "role": "USER",
+      "level": 13
+    },
+    "message": "/Chloe]",
+    "timestamp": "2026-05-04T01:59:17.190Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "1f5fd400-324a-469a-b002-6373449ee0e3",
+      "shortId": "6U8CAA",
+      "name": "cocalola",
+      "role": "USER",
+      "level": 13
+    },
+    "message": "[Chloe||BODY_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-04T01:59:19.768Z"
+  }
+]
