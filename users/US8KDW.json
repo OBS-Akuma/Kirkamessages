@@ -1,0 +1,26 @@
+[
+  {
+    "type": 2,
+    "user": {
+      "id": "2aba86ca-764b-4dc2-9f8b-d5d1f61a5654",
+      "shortId": "US8KDW",
+      "name": "PwnstarIsGay",
+      "role": "USER",
+      "level": 75
+    },
+    "message": "/inv",
+    "timestamp": "2026-05-04T07:13:06.341Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "2aba86ca-764b-4dc2-9f8b-d5d1f61a5654",
+      "shortId": "US8KDW",
+      "name": "PwnstarIsGay",
+      "role": "USER",
+      "level": 75
+    },
+    "message": "Pwnstar lost me 10m in 2 days",
+    "timestamp": "2026-05-04T07:13:38.985Z"
+  }
+]
