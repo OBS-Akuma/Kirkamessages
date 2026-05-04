@@ -1186,5 +1186,161 @@
     },
     "message": "waho is wagering golden",
     "timestamp": "2026-05-04T07:56:25.396Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "ceb6bda2-7bd4-4e73-b89c-7f892fed47d8",
+      "shortId": "IWQ903",
+      "name": "Em1LeG0@t",
+      "role": "USER",
+      "level": 73
+    },
+    "message": "walter u got goldens ?",
+    "timestamp": "2026-05-04T07:57:20.826Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "ceb6bda2-7bd4-4e73-b89c-7f892fed47d8",
+      "shortId": "IWQ903",
+      "name": "Em1LeG0@t",
+      "role": "USER",
+      "level": 73
+    },
+    "message": "/confirmwager",
+    "timestamp": "2026-05-04T07:57:45.498Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "ceb6bda2-7bd4-4e73-b89c-7f892fed47d8",
+      "shortId": "IWQ903",
+      "name": "Em1LeG0@t",
+      "role": "USER",
+      "level": 73
+    },
+    "message": "gg",
+    "timestamp": "2026-05-04T07:58:11.253Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "ceb6bda2-7bd4-4e73-b89c-7f892fed47d8",
+      "shortId": "IWQ903",
+      "name": "Em1LeG0@t",
+      "role": "USER",
+      "level": 73
+    },
+    "message": "ggg",
+    "timestamp": "2026-05-04T07:58:16.301Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "ceb6bda2-7bd4-4e73-b89c-7f892fed47d8",
+      "shortId": "IWQ903",
+      "name": "Em1LeG0@t",
+      "role": "USER",
+      "level": 73
+    },
+    "message": "/wager [Golden||CHEST|LEGENDARY]x290 #HUB956",
+    "timestamp": "2026-05-04T07:58:37.686Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "ceb6bda2-7bd4-4e73-b89c-7f892fed47d8",
+      "shortId": "IWQ903",
+      "name": "Em1LeG0@t",
+      "role": "USER",
+      "level": 73
+    },
+    "message": "gg",
+    "timestamp": "2026-05-04T07:59:16.281Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "ceb6bda2-7bd4-4e73-b89c-7f892fed47d8",
+      "shortId": "IWQ903",
+      "name": "Em1LeG0@t",
+      "role": "USER",
+      "level": 73
+    },
+    "message": "/wager [Golden||CHEST|LEGENDARY]x580 #HUB956",
+    "timestamp": "2026-05-04T07:59:36.105Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "ceb6bda2-7bd4-4e73-b89c-7f892fed47d8",
+      "shortId": "IWQ903",
+      "name": "Em1LeG0@t",
+      "role": "USER",
+      "level": 73
+    },
+    "message": "hm coins u got ?",
+    "timestamp": "2026-05-04T07:59:43.550Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "ceb6bda2-7bd4-4e73-b89c-7f892fed47d8",
+      "shortId": "IWQ903",
+      "name": "Em1LeG0@t",
+      "role": "USER",
+      "level": 73
+    },
+    "message": "confirm F7",
+    "timestamp": "2026-05-04T07:59:55.740Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "ceb6bda2-7bd4-4e73-b89c-7f892fed47d8",
+      "shortId": "IWQ903",
+      "name": "Em1LeG0@t",
+      "role": "USER",
+      "level": 73
+    },
+    "message": "F7????",
+    "timestamp": "2026-05-04T08:00:14.425Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "ceb6bda2-7bd4-4e73-b89c-7f892fed47d8",
+      "shortId": "IWQ903",
+      "name": "Em1LeG0@t",
+      "role": "USER",
+      "level": 73
+    },
+    "message": "/cancelwager",
+    "timestamp": "2026-05-04T08:00:44.674Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "ceb6bda2-7bd4-4e73-b89c-7f892fed47d8",
+      "shortId": "IWQ903",
+      "name": "Em1LeG0@t",
+      "role": "USER",
+      "level": 73
+    },
+    "message": "/wager [Golden||CHEST|LEGENDARY]x580 #HUB956",
+    "timestamp": "2026-05-04T08:00:51.337Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "ceb6bda2-7bd4-4e73-b89c-7f892fed47d8",
+      "shortId": "IWQ903",
+      "name": "Em1LeG0@t",
+      "role": "USER",
+      "level": 73
+    },
+    "message": "y?",
+    "timestamp": "2026-05-04T08:01:01.674Z"
   }
 ]
