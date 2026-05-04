@@ -958,5 +958,17 @@
     },
     "message": "Aimless offer for solar?",
     "timestamp": "2026-05-04T07:53:57.201Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "5d544b9e-5ca6-4638-b3a2-0318522e29af",
+      "shortId": "TRE873",
+      "name": "QWERTY",
+      "role": "USER",
+      "level": 66
+    },
+    "message": "Tr [Aries|Shark|WEAPON_SKIN|MYTHICAL][Qod||BODY_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-04T08:13:36.687Z"
   }
 ]
