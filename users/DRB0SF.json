@@ -250,5 +250,77 @@
     },
     "message": "how do i wager [Cornfield|Bayonet|WEAPON_SKIN|MYTHICAL]",
     "timestamp": "2026-05-04T03:05:58.435Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "pjos8TgALMV593vz9HRCtuOw4p83",
+      "shortId": "DRB0SF",
+      "name": "UrBad",
+      "role": "USER",
+      "level": 23
+    },
+    "message": "/inv",
+    "timestamp": "2026-05-04T03:06:41.844Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "pjos8TgALMV593vz9HRCtuOw4p83",
+      "shortId": "DRB0SF",
+      "name": "UrBad",
+      "role": "USER",
+      "level": 23
+    },
+    "message": "pwnstar what about my invetory",
+    "timestamp": "2026-05-04T03:06:56.809Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "pjos8TgALMV593vz9HRCtuOw4p83",
+      "shortId": "DRB0SF",
+      "name": "UrBad",
+      "role": "USER",
+      "level": 23
+    },
+    "message": "/wager [Cornfield|Bayonet|WEAPON_SKIN|MYTHICAL]x<1>",
+    "timestamp": "2026-05-04T03:08:18.646Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "pjos8TgALMV593vz9HRCtuOw4p83",
+      "shortId": "DRB0SF",
+      "name": "UrBad",
+      "role": "USER",
+      "level": 23
+    },
+    "message": "pwnstar what agian",
+    "timestamp": "2026-05-04T03:08:52.808Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "pjos8TgALMV593vz9HRCtuOw4p83",
+      "shortId": "DRB0SF",
+      "name": "UrBad",
+      "role": "USER",
+      "level": 23
+    },
+    "message": "/claim",
+    "timestamp": "2026-05-04T03:09:27.337Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "pjos8TgALMV593vz9HRCtuOw4p83",
+      "shortId": "DRB0SF",
+      "name": "UrBad",
+      "role": "USER",
+      "level": 23
+    },
+    "message": "pwnstar",
+    "timestamp": "2026-05-04T03:10:49.220Z"
   }
 ]
