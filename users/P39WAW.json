@@ -262,5 +262,53 @@
     },
     "message": "/locate lor",
     "timestamp": "2026-05-04T03:10:59.641Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "e86e8f49-e70a-4ccf-bb4e-60b5a0556b1c",
+      "shortId": "P39WAW",
+      "name": "SHELL",
+      "role": "USER",
+      "level": 81
+    },
+    "message": "#6EBHACu want [Kin|Bayonet|WEAPON_SKIN|LEGENDARY]?",
+    "timestamp": "2026-05-04T03:16:50.737Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "e86e8f49-e70a-4ccf-bb4e-60b5a0556b1c",
+      "shortId": "P39WAW",
+      "name": "SHELL",
+      "role": "USER",
+      "level": 81
+    },
+    "message": "Ye",
+    "timestamp": "2026-05-04T03:17:02.606Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "e86e8f49-e70a-4ccf-bb4e-60b5a0556b1c",
+      "shortId": "P39WAW",
+      "name": "SHELL",
+      "role": "USER",
+      "level": 81
+    },
+    "message": "Lol",
+    "timestamp": "2026-05-04T03:17:06.804Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "e86e8f49-e70a-4ccf-bb4e-60b5a0556b1c",
+      "shortId": "P39WAW",
+      "name": "SHELL",
+      "role": "USER",
+      "level": 81
+    },
+    "message": "No free",
+    "timestamp": "2026-05-04T03:17:17.410Z"
   }
 ]
