@@ -2288,7 +2288,7 @@
       "role": "USER",
       "level": 91
     },
-    "message": "咋了",
+    "message": "åäº",
     "timestamp": "2026-05-04T04:50:47.847Z"
   },
   {
@@ -2372,7 +2372,7 @@
       "role": "USER",
       "level": 91
     },
-    "message": "没事",
+    "message": "æ²¡äº",
     "timestamp": "2026-05-04T04:51:43.106Z"
   },
   {
@@ -2384,7 +2384,7 @@
       "role": "USER",
       "level": 91
     },
-    "message": "等一下",
+    "message": "ç­ä¸ä¸",
     "timestamp": "2026-05-04T04:51:46.220Z"
   },
   {
@@ -2420,7 +2420,7 @@
       "role": "USER",
       "level": 91
     },
-    "message": "no but then didnt u say make trade？",
+    "message": "no but then didnt u say make tradeï¼",
     "timestamp": "2026-05-04T04:52:19.708Z"
   },
   {
@@ -2638,5 +2638,77 @@
     },
     "message": "forbidden's like 2-3",
     "timestamp": "2026-05-04T04:55:53.207Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "7f630ea8-9489-40b2-9259-5ae155b686b3",
+      "shortId": "ARQ1L4",
+      "name": ".hpl",
+      "role": "USER",
+      "level": 91
+    },
+    "message": "rn it's 2-3 ig",
+    "timestamp": "2026-05-04T04:56:11.206Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "7f630ea8-9489-40b2-9259-5ae155b686b3",
+      "shortId": "ARQ1L4",
+      "name": ".hpl",
+      "role": "USER",
+      "level": 91
+    },
+    "message": "i didnt gng..",
+    "timestamp": "2026-05-04T04:56:29.731Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "7f630ea8-9489-40b2-9259-5ae155b686b3",
+      "shortId": "ARQ1L4",
+      "name": ".hpl",
+      "role": "USER",
+      "level": 91
+    },
+    "message": "breh",
+    "timestamp": "2026-05-04T04:56:47.384Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "7f630ea8-9489-40b2-9259-5ae155b686b3",
+      "shortId": "ARQ1L4",
+      "name": ".hpl",
+      "role": "USER",
+      "level": 91
+    },
+    "message": "whatever",
+    "timestamp": "2026-05-04T04:57:05.731Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "7f630ea8-9489-40b2-9259-5ae155b686b3",
+      "shortId": "ARQ1L4",
+      "name": ".hpl",
+      "role": "USER",
+      "level": 91
+    },
+    "message": "i didnt say memestar",
+    "timestamp": "2026-05-04T04:57:09.785Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "7f630ea8-9489-40b2-9259-5ae155b686b3",
+      "shortId": "ARQ1L4",
+      "name": ".hpl",
+      "role": "USER",
+      "level": 91
+    },
+    "message": "just remember that",
+    "timestamp": "2026-05-04T04:57:13.105Z"
   }
 ]
