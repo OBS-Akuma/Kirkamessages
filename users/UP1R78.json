@@ -1690,5 +1690,17 @@
     },
     "message": "/inv",
     "timestamp": "2026-05-03T15:45:59.821Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "4b3c9e26-0516-4634-99f9-ea8361ccd6d8",
+      "shortId": "UP1R78",
+      "name": "CASH",
+      "role": "USER",
+      "level": 80
+    },
+    "message": "UPG[Jade|Bayonet|WEAPON_SKIN|MYTHICAL][2024|Bayonet|WEAPON_SKIN|MYTHICAL][CYB3R|Bayonet|WEAPON_SKIN|MYTHICAL][Cosmos|VITA|WEAPON_SKIN|MYTHICAL][1337|Shark|WEAPON_SKIN|MYTHICAL][Majestic|Shark|WEAPON_SKIN|MYTHICAL][Sandwich||BODY_SKIN|MYTHICAL][Thriller||BODY_SKIN|MYTHICAL][Drake|Bayonet|WEAPON_SKIN|MYTHICAL][Reed||BODY_SKIN|LEGENDARY]",
+    "timestamp": "2026-05-04T02:11:46.397Z"
   }
 ]
