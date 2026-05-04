@@ -1,0 +1,26 @@
+[
+  {
+    "type": 2,
+    "user": {
+      "id": "ace662a5-5507-473e-a0da-a1c5862e41ef",
+      "shortId": "1BZO8D",
+      "name": "Zenith",
+      "role": "USER",
+      "level": 62
+    },
+    "message": "[Ortus|Revolver|WEAPON_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-04T03:55:36.926Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "ace662a5-5507-473e-a0da-a1c5862e41ef",
+      "shortId": "1BZO8D",
+      "name": "Zenith",
+      "role": "USER",
+      "level": 62
+    },
+    "message": "LF [Shroud||BODY_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-04T03:58:46.692Z"
+  }
+]
