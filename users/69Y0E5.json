@@ -34,5 +34,17 @@
     },
     "message": "/price astatine",
     "timestamp": "2026-05-03T04:05:12.278Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "ef6ad6dd-220e-40eb-afe4-1520b78be5d7",
+      "shortId": "69Y0E5",
+      "name": "MrMelone",
+      "role": "USER",
+      "level": 50
+    },
+    "message": "/price boo",
+    "timestamp": "2026-05-04T01:57:25.238Z"
   }
 ]
