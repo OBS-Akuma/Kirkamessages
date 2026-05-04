@@ -754,5 +754,29 @@
     },
     "message": "do that for my [Astral|AR-9|WEAPON_SKIN|MYTHICAL][jp]",
     "timestamp": "2026-05-04T07:06:37.728Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "3fb2d1de-e6d5-4444-8c6c-1b84cc290d78",
+      "shortId": "WHYLIE",
+      "name": "Debonaire",
+      "role": "USER",
+      "level": 80
+    },
+    "message": "/wager [Forbidden|AR-9|WEAPON_SKIN|MYTHICAL] #22L1E4",
+    "timestamp": "2026-05-04T07:57:47.690Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "3fb2d1de-e6d5-4444-8c6c-1b84cc290d78",
+      "shortId": "WHYLIE",
+      "name": "Debonaire",
+      "role": "USER",
+      "level": 80
+    },
+    "message": "/cancelwager",
+    "timestamp": "2026-05-04T07:58:15.773Z"
   }
 ]
