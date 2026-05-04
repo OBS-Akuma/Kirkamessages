@@ -1,0 +1,26 @@
+[
+  {
+    "type": 2,
+    "user": {
+      "id": "guest-211431a1-0605-4d28-bfa2-d3e090f28628",
+      "shortId": "67SQJX",
+      "name": "Ephemeral",
+      "role": "USER",
+      "level": 5
+    },
+    "message": "Aight who wants 48 golden for free",
+    "timestamp": "2026-05-04T03:41:34.101Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "guest-211431a1-0605-4d28-bfa2-d3e090f28628",
+      "shortId": "67SQJX",
+      "name": "Ephemeral",
+      "role": "USER",
+      "level": 5
+    },
+    "message": "gg",
+    "timestamp": "2026-05-04T03:41:45.732Z"
+  }
+]
