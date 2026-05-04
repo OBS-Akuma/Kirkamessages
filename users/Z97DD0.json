@@ -394,5 +394,53 @@
     },
     "message": "So 6 of 11 if so",
     "timestamp": "2026-05-04T02:53:32.985Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "b0c61921-21b4-4eb0-b848-92e85240af89",
+      "shortId": "Z97DD0",
+      "name": "ytdanielyoung6",
+      "role": "USER",
+      "level": 15
+    },
+    "message": "Does cash actually have a daynight now?",
+    "timestamp": "2026-05-04T03:03:50.943Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "b0c61921-21b4-4eb0-b848-92e85240af89",
+      "shortId": "Z97DD0",
+      "name": "ytdanielyoung6",
+      "role": "USER",
+      "level": 15
+    },
+    "message": "/enter",
+    "timestamp": "2026-05-04T03:04:57.728Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "b0c61921-21b4-4eb0-b848-92e85240af89",
+      "shortId": "Z97DD0",
+      "name": "ytdanielyoung6",
+      "role": "USER",
+      "level": 15
+    },
+    "message": "Chabz do for 200",
+    "timestamp": "2026-05-04T03:07:27.269Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "b0c61921-21b4-4eb0-b848-92e85240af89",
+      "shortId": "Z97DD0",
+      "name": "ytdanielyoung6",
+      "role": "USER",
+      "level": 15
+    },
+    "message": "/confirmwager",
+    "timestamp": "2026-05-04T03:08:15.652Z"
   }
 ]
