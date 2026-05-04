@@ -910,5 +910,29 @@
     },
     "message": "5k for cw set",
     "timestamp": "2026-05-04T04:04:44.949Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "2r1UJOfesmQUx0DJGR3osZYWZTY2",
+      "shortId": "WX7ZW3",
+      "name": "Saint.",
+      "role": "USER",
+      "level": 98
+    },
+    "message": "lf [Garden|LAR|WEAPON_SKIN|MYTHICAL][Gardener|Bayonet|WEAPON_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-04T04:25:47.488Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "2r1UJOfesmQUx0DJGR3osZYWZTY2",
+      "shortId": "WX7ZW3",
+      "name": "Saint.",
+      "role": "USER",
+      "level": 98
+    },
+    "message": "/locate [Halloween||CHEST|MYTHICAL]",
+    "timestamp": "2026-05-04T04:36:48.914Z"
   }
 ]
