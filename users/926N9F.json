@@ -608,7 +608,7 @@
       "role": "USER",
       "level": 90
     },
-    "message": "[lustrex2 팝니다",
+    "message": "[lustrex2 íëë¤",
     "timestamp": "2026-05-04T02:06:33.587Z"
   },
   {
@@ -620,7 +620,7 @@
       "role": "USER",
       "level": 90
     },
-    "message": "[Lustre|Bayonet|WEAPON_SKIN|MYTHICAL]x2 거래합니다ㅏㅏㅏㅏㅏ",
+    "message": "[Lustre|Bayonet|WEAPON_SKIN|MYTHICAL]x2 ê±°ëí©ëë¤ããããã",
     "timestamp": "2026-05-04T02:06:48.632Z"
   },
   {
@@ -632,7 +632,7 @@
       "role": "USER",
       "level": 90
     },
-    "message": "#4EDJJH 한국말 하실줄 아세요?",
+    "message": "#4EDJJH íêµ­ë§ íì¤ì¤ ìì¸ì?",
     "timestamp": "2026-05-04T02:07:11.363Z"
   },
   {
@@ -694,5 +694,53 @@
     },
     "message": "tr[Lustre|Bayonet|WEAPON_SKIN|MYTHICAL]x2",
     "timestamp": "2026-05-04T02:08:15.869Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "z2RZt14XLhe7HEGJsZbzLGeDSt82",
+      "shortId": "926N9F",
+      "name": "noir.",
+      "role": "USER",
+      "level": 90
+    },
+    "message": "trading [Lustre|Bayonet|WEAPON_SKIN|MYTHICAL]x2",
+    "timestamp": "2026-05-04T02:16:47.010Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "z2RZt14XLhe7HEGJsZbzLGeDSt82",
+      "shortId": "926N9F",
+      "name": "noir.",
+      "role": "USER",
+      "level": 90
+    },
+    "message": "hi caramel!",
+    "timestamp": "2026-05-04T02:19:07.984Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "z2RZt14XLhe7HEGJsZbzLGeDSt82",
+      "shortId": "926N9F",
+      "name": "noir.",
+      "role": "USER",
+      "level": 90
+    },
+    "message": "tr[Lustre|Bayonet|WEAPON_SKIN|MYTHICAL]x2",
+    "timestamp": "2026-05-04T02:19:25.391Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "z2RZt14XLhe7HEGJsZbzLGeDSt82",
+      "shortId": "926N9F",
+      "name": "noir.",
+      "role": "USER",
+      "level": 90
+    },
+    "message": "trading [Lustre|Bayonet|WEAPON_SKIN|MYTHICAL]x2",
+    "timestamp": "2026-05-04T02:20:18.175Z"
   }
 ]
