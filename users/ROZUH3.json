@@ -1,0 +1,74 @@
+[
+  {
+    "type": 2,
+    "user": {
+      "id": "56202b7e-c117-48ac-afb0-5929b5bed894",
+      "shortId": "ROZUH3",
+      "name": "I-Think-So",
+      "role": "USER",
+      "level": 15
+    },
+    "message": "/wager [Forbidden|AR-9|WEAPON_SKIN|MYTHICAL] #WHYLIE",
+    "timestamp": "2026-05-03T16:11:40.229Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "56202b7e-c117-48ac-afb0-5929b5bed894",
+      "shortId": "ROZUH3",
+      "name": "I-Think-So",
+      "role": "USER",
+      "level": 15
+    },
+    "message": "/cancelwager",
+    "timestamp": "2026-05-03T16:11:56.206Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "56202b7e-c117-48ac-afb0-5929b5bed894",
+      "shortId": "ROZUH3",
+      "name": "I-Think-So",
+      "role": "USER",
+      "level": 15
+    },
+    "message": "/confirmwager",
+    "timestamp": "2026-05-03T16:12:19.382Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "56202b7e-c117-48ac-afb0-5929b5bed894",
+      "shortId": "ROZUH3",
+      "name": "I-Think-So",
+      "role": "USER",
+      "level": 15
+    },
+    "message": "/wager [Forbidden|AR-9|WEAPON_SKIN|MYTHICAL] #2QIYUL",
+    "timestamp": "2026-05-03T16:13:27.827Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "56202b7e-c117-48ac-afb0-5929b5bed894",
+      "shortId": "ROZUH3",
+      "name": "I-Think-So",
+      "role": "USER",
+      "level": 15
+    },
+    "message": "/claim",
+    "timestamp": "2026-05-03T16:14:13.016Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "56202b7e-c117-48ac-afb0-5929b5bed894",
+      "shortId": "ROZUH3",
+      "name": "I-Think-So",
+      "role": "USER",
+      "level": 15
+    },
+    "message": "RAGEx im not doing 2 sorry",
+    "timestamp": "2026-05-03T16:14:46.991Z"
+  }
+]
