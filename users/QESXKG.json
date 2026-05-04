@@ -704,7 +704,7 @@
       "role": "USER",
       "level": 94
     },
-    "message": "・pリセぜｎ",
+    "message": "ã»pãªã»ãï½",
     "timestamp": "2026-05-04T02:30:08.718Z"
   },
   {
@@ -716,7 +716,7 @@
       "role": "USER",
       "level": 94
     },
-    "message": "。。。",
+    "message": "ããã",
     "timestamp": "2026-05-04T02:30:12.748Z"
   },
   {
@@ -836,7 +836,7 @@
       "role": "USER",
       "level": 94
     },
-    "message": "ありがとう",
+    "message": "ãããã¨ã",
     "timestamp": "2026-05-04T02:38:12.729Z"
   },
   {
@@ -1066,5 +1066,101 @@
     },
     "message": "[item name]",
     "timestamp": "2026-05-04T02:57:21.184Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "af2a8134-8103-4f18-a202-352619fc307b",
+      "shortId": "QESXKG",
+      "name": "Caramel",
+      "role": "USER",
+      "level": 94
+    },
+    "message": "Spider i hav those already",
+    "timestamp": "2026-05-04T02:57:45.756Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "af2a8134-8103-4f18-a202-352619fc307b",
+      "shortId": "QESXKG",
+      "name": "Caramel",
+      "role": "USER",
+      "level": 94
+    },
+    "message": "Evil do u want to do 1f1 [Lustre|Bayonet|WEAPON_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-04T02:58:36.075Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "af2a8134-8103-4f18-a202-352619fc307b",
+      "shortId": "QESXKG",
+      "name": "Caramel",
+      "role": "USER",
+      "level": 94
+    },
+    "message": "ye",
+    "timestamp": "2026-05-04T02:58:53.092Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "af2a8134-8103-4f18-a202-352619fc307b",
+      "shortId": "QESXKG",
+      "name": "Caramel",
+      "role": "USER",
+      "level": 94
+    },
+    "message": "/trad bump",
+    "timestamp": "2026-05-04T02:59:32.074Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "af2a8134-8103-4f18-a202-352619fc307b",
+      "shortId": "QESXKG",
+      "name": "Caramel",
+      "role": "USER",
+      "level": 94
+    },
+    "message": "i add 50",
+    "timestamp": "2026-05-04T03:00:44.267Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "af2a8134-8103-4f18-a202-352619fc307b",
+      "shortId": "QESXKG",
+      "name": "Caramel",
+      "role": "USER",
+      "level": 94
+    },
+    "message": "gg",
+    "timestamp": "2026-05-04T03:01:28.851Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "af2a8134-8103-4f18-a202-352619fc307b",
+      "shortId": "QESXKG",
+      "name": "Caramel",
+      "role": "USER",
+      "level": 94
+    },
+    "message": "yes spider",
+    "timestamp": "2026-05-04T03:01:44.115Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "af2a8134-8103-4f18-a202-352619fc307b",
+      "shortId": "QESXKG",
+      "name": "Caramel",
+      "role": "USER",
+      "level": 94
+    },
+    "message": "sorry I really like it.",
+    "timestamp": "2026-05-04T03:01:52.867Z"
   }
 ]
