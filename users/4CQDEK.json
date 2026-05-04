@@ -2410,5 +2410,29 @@
     },
     "message": "aight",
     "timestamp": "2026-05-04T03:32:09.118Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "878dfc67-a2f4-46d9-b837-58e311d701d3",
+      "shortId": "4CQDEK",
+      "name": "UrBoiBeetle",
+      "role": "USER",
+      "level": 97
+    },
+    "message": "/price hotrod lar",
+    "timestamp": "2026-05-04T03:56:52.167Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "878dfc67-a2f4-46d9-b837-58e311d701d3",
+      "shortId": "4CQDEK",
+      "name": "UrBoiBeetle",
+      "role": "USER",
+      "level": 97
+    },
+    "message": "/hm hotrod lar",
+    "timestamp": "2026-05-04T03:56:57.251Z"
   }
 ]
