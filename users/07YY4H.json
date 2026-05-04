@@ -34,5 +34,41 @@
     },
     "message": "ok what are you trading for 2000 wood",
     "timestamp": "2026-05-04T03:19:33.657Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "38b0b0a3-d81f-4b46-aa0f-74226b4387c8",
+      "shortId": "07YY4H",
+      "name": "Altair",
+      "role": "USER",
+      "level": 22
+    },
+    "message": "gang what do you have",
+    "timestamp": "2026-05-04T03:19:50.252Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "38b0b0a3-d81f-4b46-aa0f-74226b4387c8",
+      "shortId": "07YY4H",
+      "name": "Altair",
+      "role": "USER",
+      "level": 22
+    },
+    "message": "i already have [Turtle|Bayonet|WEAPON_SKIN|MYTHICAL] and [Dragonic Bayonet|Bayonet|WEAPON_SKIN|MYTHICAL] in my main account",
+    "timestamp": "2026-05-04T03:20:16.593Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "38b0b0a3-d81f-4b46-aa0f-74226b4387c8",
+      "shortId": "07YY4H",
+      "name": "Altair",
+      "role": "USER",
+      "level": 22
+    },
+    "message": "ok i gtg",
+    "timestamp": "2026-05-04T03:20:55.491Z"
   }
 ]
