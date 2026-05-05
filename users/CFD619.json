@@ -22,5 +22,77 @@
     },
     "message": "/hm maze",
     "timestamp": "2026-05-04T07:07:51.472Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "7uQjmsMLoIh83pf6nDPh87oc87B2",
+      "shortId": "CFD619",
+      "name": "DragonMeowVN!",
+      "role": "USER",
+      "level": 26
+    },
+    "message": "/hm void scar",
+    "timestamp": "2026-05-04T08:11:29.121Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "7uQjmsMLoIh83pf6nDPh87oc87B2",
+      "shortId": "CFD619",
+      "name": "DragonMeowVN!",
+      "role": "USER",
+      "level": 26
+    },
+    "message": "how much [Void SCAR|SCAR|WEAPON_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-04T08:11:43.589Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "7uQjmsMLoIh83pf6nDPh87oc87B2",
+      "shortId": "CFD619",
+      "name": "DragonMeowVN!",
+      "role": "USER",
+      "level": 26
+    },
+    "message": "/hm scarey",
+    "timestamp": "2026-05-04T08:25:25.817Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "7uQjmsMLoIh83pf6nDPh87oc87B2",
+      "shortId": "CFD619",
+      "name": "DragonMeowVN!",
+      "role": "USER",
+      "level": 26
+    },
+    "message": "who has [Nova|SCAR|WEAPON_SKIN|MYTHICAL] or any void skin or [Cosmos|VITA|WEAPON_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-04T08:28:20.793Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "7uQjmsMLoIh83pf6nDPh87oc87B2",
+      "shortId": "CFD619",
+      "name": "DragonMeowVN!",
+      "role": "USER",
+      "level": 26
+    },
+    "message": "#IYFXUY how many goldens to get your scar",
+    "timestamp": "2026-05-04T08:29:07.492Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "7uQjmsMLoIh83pf6nDPh87oc87B2",
+      "shortId": "CFD619",
+      "name": "DragonMeowVN!",
+      "role": "USER",
+      "level": 26
+    },
+    "message": "/hm void scar",
+    "timestamp": "2026-05-04T08:29:19.979Z"
   }
 ]
