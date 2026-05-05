@@ -2110,5 +2110,17 @@
     },
     "message": "yo blaze wsg",
     "timestamp": "2026-05-05T04:33:12.369Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "97a6e840-b092-4f61-b9cf-e4ddd8e6ea1a",
+      "shortId": "PK727F",
+      "name": "Pochita",
+      "role": "USER",
+      "level": 92
+    },
+    "message": "yes or no ??",
+    "timestamp": "2026-05-05T04:41:34.660Z"
   }
 ]
