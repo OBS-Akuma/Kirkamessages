@@ -226,5 +226,29 @@
     },
     "message": "lora lala",
     "timestamp": "2026-05-04T08:01:13.534Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "0cba4816-6935-46f8-ae34-10ebe79465fc",
+      "shortId": "M27S4G",
+      "name": "SnipeR-WarrioR",
+      "role": "USER",
+      "level": 44
+    },
+    "message": "/enter",
+    "timestamp": "2026-05-05T05:13:21.181Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "0cba4816-6935-46f8-ae34-10ebe79465fc",
+      "shortId": "M27S4G",
+      "name": "SnipeR-WarrioR",
+      "role": "USER",
+      "level": 44
+    },
+    "message": "/lottery",
+    "timestamp": "2026-05-05T05:13:34.852Z"
   }
 ]
