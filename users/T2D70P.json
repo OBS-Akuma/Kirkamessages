@@ -22,5 +22,29 @@
     },
     "message": "buying [Nib||BODY_SKIN|MYTHICAL] for 1m",
     "timestamp": "2026-05-03T15:44:59.613Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "b943d97e-0e1e-4d2f-9e29-1ba3f9c6c0d4",
+      "shortId": "T2D70P",
+      "name": "Intrepidus",
+      "role": "USER",
+      "level": 82
+    },
+    "message": "/locate lilith",
+    "timestamp": "2026-05-05T05:14:34.988Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "b943d97e-0e1e-4d2f-9e29-1ba3f9c6c0d4",
+      "shortId": "T2D70P",
+      "name": "Intrepidus",
+      "role": "USER",
+      "level": 82
+    },
+    "message": "/locate onryo",
+    "timestamp": "2026-05-05T05:21:13.575Z"
   }
 ]
