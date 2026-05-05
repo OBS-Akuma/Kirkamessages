@@ -934,5 +934,53 @@
     },
     "message": "cant u send inv?",
     "timestamp": "2026-05-04T07:50:48.168Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "d88f4f73-1334-4556-9168-e0c6945ad2a1",
+      "shortId": "KSOY64",
+      "name": "Blaze",
+      "role": "USER",
+      "level": 98
+    },
+    "message": "/locate [Ukiyo|VITA|WEAPON_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-05T04:29:16.464Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "d88f4f73-1334-4556-9168-e0c6945ad2a1",
+      "shortId": "KSOY64",
+      "name": "Blaze",
+      "role": "USER",
+      "level": 98
+    },
+    "message": "/locate [Ukiyo|VITA|WEAPON_SKIN|MYTHICAL] p2",
+    "timestamp": "2026-05-05T04:30:07.240Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "d88f4f73-1334-4556-9168-e0c6945ad2a1",
+      "shortId": "KSOY64",
+      "name": "Blaze",
+      "role": "USER",
+      "level": 98
+    },
+    "message": "/locate [Ukiyo|VITA|WEAPON_SKIN|MYTHICAL] p3",
+    "timestamp": "2026-05-05T04:30:50.481Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "d88f4f73-1334-4556-9168-e0c6945ad2a1",
+      "shortId": "KSOY64",
+      "name": "Blaze",
+      "role": "USER",
+      "level": 98
+    },
+    "message": "/locate [Ukiyo|VITA|WEAPON_SKIN|MYTHICAL] p4",
+    "timestamp": "2026-05-05T04:31:39.238Z"
   }
 ]
