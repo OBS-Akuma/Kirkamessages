@@ -82,5 +82,17 @@
     },
     "message": "[gilli]",
     "timestamp": "2026-05-04T07:58:48.730Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "83364ed5-101e-4a26-8a69-372da4bad353",
+      "shortId": "SC0N3D",
+      "name": "Viores[VN]",
+      "role": "USER",
+      "level": 10
+    },
+    "message": "/hm forbidden",
+    "timestamp": "2026-05-04T08:16:28.475Z"
   }
 ]
