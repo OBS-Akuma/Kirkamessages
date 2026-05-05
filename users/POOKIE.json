@@ -1270,5 +1270,17 @@
     },
     "message": "#609GEM",
     "timestamp": "2026-05-04T04:38:37.850Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "7b609f0d-49c0-45b7-b15d-9934489db3d9",
+      "shortId": "POOKIE",
+      "name": "_Nxt",
+      "role": "USER",
+      "level": 99
+    },
+    "message": "/locate garden",
+    "timestamp": "2026-05-05T04:51:13.673Z"
   }
 ]
