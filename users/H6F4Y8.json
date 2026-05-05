@@ -22,5 +22,29 @@
     },
     "message": "/price [Bansee|VITA|WEAPON_SKIN|MYTHICAL]",
     "timestamp": "2026-05-05T05:31:25.878Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "U2TClvBwGvgshMlK8lPk6H5zHX42",
+      "shortId": "H6F4Y8",
+      "name": "CHAMPION",
+      "role": "USER",
+      "level": 78
+    },
+    "message": "Nifht hm [Imperial|SCAR|WEAPON_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-05T05:31:49.000Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "U2TClvBwGvgshMlK8lPk6H5zHX42",
+      "shortId": "H6F4Y8",
+      "name": "CHAMPION",
+      "role": "USER",
+      "level": 78
+    },
+    "message": "my [Keith||BODY_SKIN|MYTHICAL] and your:[Imperial|SCAR|WEAPON_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-05T05:32:07.319Z"
   }
 ]
