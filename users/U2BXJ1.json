@@ -1,0 +1,38 @@
+[
+  {
+    "type": 2,
+    "user": {
+      "id": "ed29cf75-a70c-4e1c-8f21-382a23d8c5fb",
+      "shortId": "U2BXJ1",
+      "name": "HalfTwo",
+      "role": "USER",
+      "level": 95
+    },
+    "message": "/wager #IWQ903 [Golden||CHEST|LEGENDARY]x1000",
+    "timestamp": "2026-05-05T05:28:35.278Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "ed29cf75-a70c-4e1c-8f21-382a23d8c5fb",
+      "shortId": "U2BXJ1",
+      "name": "HalfTwo",
+      "role": "USER",
+      "level": 95
+    },
+    "message": "/wager [Golden||CHEST|LEGENDARY]x1000 #IWQ903",
+    "timestamp": "2026-05-05T05:28:42.168Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "ed29cf75-a70c-4e1c-8f21-382a23d8c5fb",
+      "shortId": "U2BXJ1",
+      "name": "HalfTwo",
+      "role": "USER",
+      "level": 95
+    },
+    "message": "gr",
+    "timestamp": "2026-05-05T05:29:27.646Z"
+  }
+]
