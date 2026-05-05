@@ -82,5 +82,65 @@
     },
     "message": "/bolt widow",
     "timestamp": "2026-05-04T07:30:44.028Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "fdafc255-e85b-4f66-9af0-46e32f93c3ef",
+      "shortId": "DN581C",
+      "name": "z0diac",
+      "role": "USER",
+      "level": 75
+    },
+    "message": "/locate ripped santa",
+    "timestamp": "2026-05-04T08:20:00.457Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "fdafc255-e85b-4f66-9af0-46e32f93c3ef",
+      "shortId": "DN581C",
+      "name": "z0diac",
+      "role": "USER",
+      "level": 75
+    },
+    "message": "/locate mikasa",
+    "timestamp": "2026-05-04T08:20:12.047Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "fdafc255-e85b-4f66-9af0-46e32f93c3ef",
+      "shortId": "DN581C",
+      "name": "z0diac",
+      "role": "USER",
+      "level": 75
+    },
+    "message": "/bolt ripped santa",
+    "timestamp": "2026-05-04T08:20:35.361Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "fdafc255-e85b-4f66-9af0-46e32f93c3ef",
+      "shortId": "DN581C",
+      "name": "z0diac",
+      "role": "USER",
+      "level": 75
+    },
+    "message": "/bolt mikasa",
+    "timestamp": "2026-05-04T08:20:43.730Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "fdafc255-e85b-4f66-9af0-46e32f93c3ef",
+      "shortId": "DN581C",
+      "name": "z0diac",
+      "role": "USER",
+      "level": 75
+    },
+    "message": "tr[Chick||BODY_SKIN|MYTHICAL][rippedsanta]",
+    "timestamp": "2026-05-04T08:20:59.547Z"
   }
 ]
