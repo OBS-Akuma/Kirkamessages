@@ -82,5 +82,53 @@
     },
     "message": "/inv",
     "timestamp": "2026-05-04T07:48:03.299Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "0f19c49b-cc4f-4df3-ab7b-b388c5515c2a",
+      "shortId": "P3QY1Y",
+      "name": "killerstrike2",
+      "role": "USER",
+      "level": 96
+    },
+    "message": "/hm v scar",
+    "timestamp": "2026-05-04T08:30:12.936Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "0f19c49b-cc4f-4df3-ab7b-b388c5515c2a",
+      "shortId": "P3QY1Y",
+      "name": "killerstrike2",
+      "role": "USER",
+      "level": 96
+    },
+    "message": "/hm void scar",
+    "timestamp": "2026-05-04T08:30:21.361Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "0f19c49b-cc4f-4df3-ab7b-b388c5515c2a",
+      "shortId": "P3QY1Y",
+      "name": "killerstrike2",
+      "role": "USER",
+      "level": 96
+    },
+    "message": "/inv v",
+    "timestamp": "2026-05-04T08:31:06.096Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "0f19c49b-cc4f-4df3-ab7b-b388c5515c2a",
+      "shortId": "P3QY1Y",
+      "name": "killerstrike2",
+      "role": "USER",
+      "level": 96
+    },
+    "message": "/inv #TAIWAN",
+    "timestamp": "2026-05-04T08:31:13.751Z"
   }
 ]
