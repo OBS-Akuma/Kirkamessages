@@ -34,5 +34,77 @@
     },
     "message": "[Mage||BODY_SKIN|MYTHICAL]",
     "timestamp": "2026-05-04T08:04:17.342Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "745ddc76-ceb8-4e5f-8b1a-f5981c23d994",
+      "shortId": "BJMC35",
+      "name": ".fan",
+      "role": "USER",
+      "level": 98
+    },
+    "message": "[twintail",
+    "timestamp": "2026-05-04T08:13:20.386Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "745ddc76-ceb8-4e5f-8b1a-f5981c23d994",
+      "shortId": "BJMC35",
+      "name": ".fan",
+      "role": "USER",
+      "level": 98
+    },
+    "message": "[twintail]",
+    "timestamp": "2026-05-04T08:13:22.318Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "745ddc76-ceb8-4e5f-8b1a-f5981c23d994",
+      "shortId": "BJMC35",
+      "name": ".fan",
+      "role": "USER",
+      "level": 98
+    },
+    "message": "[twin tail]",
+    "timestamp": "2026-05-04T08:13:26.445Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "745ddc76-ceb8-4e5f-8b1a-f5981c23d994",
+      "shortId": "BJMC35",
+      "name": ".fan",
+      "role": "USER",
+      "level": 98
+    },
+    "message": "[Gift|VITA|WEAPON_SKIN|EPIC]",
+    "timestamp": "2026-05-04T08:14:49.961Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "745ddc76-ceb8-4e5f-8b1a-f5981c23d994",
+      "shortId": "BJMC35",
+      "name": ".fan",
+      "role": "USER",
+      "level": 98
+    },
+    "message": "/inv",
+    "timestamp": "2026-05-04T08:19:46.591Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "745ddc76-ceb8-4e5f-8b1a-f5981c23d994",
+      "shortId": "BJMC35",
+      "name": ".fan",
+      "role": "USER",
+      "level": 98
+    },
+    "message": "[Splash|Bayonet|WEAPON_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-04T08:24:35.987Z"
   }
 ]
