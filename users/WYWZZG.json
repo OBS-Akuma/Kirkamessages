@@ -34,5 +34,29 @@
     },
     "message": "thanks man",
     "timestamp": "2026-05-05T05:11:20.164Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "nQGpp2TmQtdsWWJMnRalibndx4d2",
+      "shortId": "WYWZZG",
+      "name": "wallibear",
+      "role": "USER",
+      "level": 5
+    },
+    "message": "ASKING",
+    "timestamp": "2026-05-05T05:37:24.668Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "nQGpp2TmQtdsWWJMnRalibndx4d2",
+      "shortId": "WYWZZG",
+      "name": "wallibear",
+      "role": "USER",
+      "level": 5
+    },
+    "message": "GUYS INVITE ME PLWASE",
+    "timestamp": "2026-05-05T05:38:14.899Z"
   }
 ]
