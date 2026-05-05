@@ -2170,5 +2170,29 @@
     },
     "message": "arch is 15 base",
     "timestamp": "2026-05-05T05:09:23.815Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "97a6e840-b092-4f61-b9cf-e4ddd8e6ea1a",
+      "shortId": "PK727F",
+      "name": "Pochita",
+      "role": "USER",
+      "level": 92
+    },
+    "message": "[ranked_s6 top100[",
+    "timestamp": "2026-05-05T05:45:19.948Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "97a6e840-b092-4f61-b9cf-e4ddd8e6ea1a",
+      "shortId": "PK727F",
+      "name": "Pochita",
+      "role": "USER",
+      "level": 92
+    },
+    "message": "[ranked_s6 top100]",
+    "timestamp": "2026-05-05T05:45:27.966Z"
   }
 ]
