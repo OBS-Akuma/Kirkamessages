@@ -622,5 +622,161 @@
     },
     "message": "/inv #Z97DD0",
     "timestamp": "2026-05-04T04:55:27.712Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "Gz7vDsByrXSEwKYek3a6mgVwdFb2",
+      "shortId": "SVN4K2",
+      "name": "lolnoob",
+      "role": "USER",
+      "level": 94
+    },
+    "message": "/locate scorcherr",
+    "timestamp": "2026-05-05T05:00:37.500Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "Gz7vDsByrXSEwKYek3a6mgVwdFb2",
+      "shortId": "SVN4K2",
+      "name": "lolnoob",
+      "role": "USER",
+      "level": 94
+    },
+    "message": "/locate scorcher",
+    "timestamp": "2026-05-05T05:00:39.661Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "Gz7vDsByrXSEwKYek3a6mgVwdFb2",
+      "shortId": "SVN4K2",
+      "name": "lolnoob",
+      "role": "USER",
+      "level": 94
+    },
+    "message": "wager [Foil||BODY_SKIN|MYTHICAL][Thriller||BODY_SKIN|MYTHICAL][Bamboo|VITA|WEAPON_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-05T05:01:26.400Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "Gz7vDsByrXSEwKYek3a6mgVwdFb2",
+      "shortId": "SVN4K2",
+      "name": "lolnoob",
+      "role": "USER",
+      "level": 94
+    },
+    "message": "wager [Foil||BODY_SKIN|MYTHICAL][Thriller||BODY_SKIN|MYTHICAL][Bamboo|VITA|WEAPON_SKIN|MYTHICAL].",
+    "timestamp": "2026-05-05T05:02:07.357Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "Gz7vDsByrXSEwKYek3a6mgVwdFb2",
+      "shortId": "SVN4K2",
+      "name": "lolnoob",
+      "role": "USER",
+      "level": 94
+    },
+    "message": "/hm flaming",
+    "timestamp": "2026-05-05T05:07:21.040Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "Gz7vDsByrXSEwKYek3a6mgVwdFb2",
+      "shortId": "SVN4K2",
+      "name": "lolnoob",
+      "role": "USER",
+      "level": 94
+    },
+    "message": "[Vocaloid|SCAR|WEAPON_SKIN|LEGENDARY]",
+    "timestamp": "2026-05-05T05:07:39.505Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "Gz7vDsByrXSEwKYek3a6mgVwdFb2",
+      "shortId": "SVN4K2",
+      "name": "lolnoob",
+      "role": "USER",
+      "level": 94
+    },
+    "message": "[Bled|Bayonet|WEAPON_SKIN|LEGENDARY]",
+    "timestamp": "2026-05-05T05:07:42.235Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "Gz7vDsByrXSEwKYek3a6mgVwdFb2",
+      "shortId": "SVN4K2",
+      "name": "lolnoob",
+      "role": "USER",
+      "level": 94
+    },
+    "message": "[Flow|Revolver|WEAPON_SKIN|EPIC]",
+    "timestamp": "2026-05-05T05:07:57.687Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "Gz7vDsByrXSEwKYek3a6mgVwdFb2",
+      "shortId": "SVN4K2",
+      "name": "lolnoob",
+      "role": "USER",
+      "level": 94
+    },
+    "message": "[Beast||BODY_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-05T05:08:12.058Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "Gz7vDsByrXSEwKYek3a6mgVwdFb2",
+      "shortId": "SVN4K2",
+      "name": "lolnoob",
+      "role": "USER",
+      "level": 94
+    },
+    "message": "[Zombie||BODY_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-05T05:08:18.174Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "Gz7vDsByrXSEwKYek3a6mgVwdFb2",
+      "shortId": "SVN4K2",
+      "name": "lolnoob",
+      "role": "USER",
+      "level": 94
+    },
+    "message": "/inv #IJ1L09",
+    "timestamp": "2026-05-05T05:17:26.810Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "Gz7vDsByrXSEwKYek3a6mgVwdFb2",
+      "shortId": "SVN4K2",
+      "name": "lolnoob",
+      "role": "USER",
+      "level": 94
+    },
+    "message": "/inv",
+    "timestamp": "2026-05-05T05:17:36.024Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "Gz7vDsByrXSEwKYek3a6mgVwdFb2",
+      "shortId": "SVN4K2",
+      "name": "lolnoob",
+      "role": "USER",
+      "level": 94
+    },
+    "message": "/locate ultraviolet",
+    "timestamp": "2026-05-05T05:25:34.205Z"
   }
 ]
