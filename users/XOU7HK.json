@@ -106,5 +106,17 @@
     },
     "message": "/price polar",
     "timestamp": "2026-05-04T04:57:41.709Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "aX8psLSnw8ejOFoZavWC0ijahY62",
+      "shortId": "XOU7HK",
+      "name": "TienMinh",
+      "role": "USER",
+      "level": 68
+    },
+    "message": "/claim",
+    "timestamp": "2026-05-05T04:37:03.716Z"
   }
 ]
