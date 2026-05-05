@@ -10,5 +10,77 @@
     },
     "message": "/hm Noble",
     "timestamp": "2026-05-02T19:28:40.734Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "xD0pJiLgLydrB3SPJOMdY6qc6tZ2",
+      "shortId": "CRM7LY",
+      "name": "Heiko.",
+      "role": "USER",
+      "level": 99
+    },
+    "message": "=/",
+    "timestamp": "2026-05-05T23:33:58.621Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "xD0pJiLgLydrB3SPJOMdY6qc6tZ2",
+      "shortId": "CRM7LY",
+      "name": "Heiko.",
+      "role": "USER",
+      "level": 99
+    },
+    "message": "wager [Golden||CHEST|LEGENDARY]x9000,[Halloween||CHEST|MYTHICAL]x1700",
+    "timestamp": "2026-05-05T23:34:24.892Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "xD0pJiLgLydrB3SPJOMdY6qc6tZ2",
+      "shortId": "CRM7LY",
+      "name": "Heiko.",
+      "role": "USER",
+      "level": 99
+    },
+    "message": "=/",
+    "timestamp": "2026-05-05T23:36:22.996Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "xD0pJiLgLydrB3SPJOMdY6qc6tZ2",
+      "shortId": "CRM7LY",
+      "name": "Heiko.",
+      "role": "USER",
+      "level": 99
+    },
+    "message": "caramel estas ay¿",
+    "timestamp": "2026-05-05T23:36:56.019Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "xD0pJiLgLydrB3SPJOMdY6qc6tZ2",
+      "shortId": "CRM7LY",
+      "name": "Heiko.",
+      "role": "USER",
+      "level": 99
+    },
+    "message": "/price Borg",
+    "timestamp": "2026-05-05T23:37:18.803Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "xD0pJiLgLydrB3SPJOMdY6qc6tZ2",
+      "shortId": "CRM7LY",
+      "name": "Heiko.",
+      "role": "USER",
+      "level": 99
+    },
+    "message": "/price Endless",
+    "timestamp": "2026-05-05T23:38:33.789Z"
   }
 ]
