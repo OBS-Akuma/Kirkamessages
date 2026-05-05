@@ -982,5 +982,17 @@
     },
     "message": "/locate [Ukiyo|VITA|WEAPON_SKIN|MYTHICAL] p4",
     "timestamp": "2026-05-05T04:31:39.238Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "d88f4f73-1334-4556-9168-e0c6945ad2a1",
+      "shortId": "KSOY64",
+      "name": "Blaze",
+      "role": "USER",
+      "level": 98
+    },
+    "message": "/locate [Ukiyo|VITA|WEAPON_SKIN|MYTHICAL] p5",
+    "timestamp": "2026-05-05T04:32:32.286Z"
   }
 ]
