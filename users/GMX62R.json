@@ -58,5 +58,29 @@
     },
     "message": "/inv",
     "timestamp": "2026-05-04T03:05:22.410Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "bc8e6feb-bb40-4540-9470-ea5c349d769c",
+      "shortId": "GMX62R",
+      "name": "Ethong",
+      "role": "USER",
+      "level": 16
+    },
+    "message": "whens giveway",
+    "timestamp": "2026-05-05T23:34:30.543Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "bc8e6feb-bb40-4540-9470-ea5c349d769c",
+      "shortId": "GMX62R",
+      "name": "Ethong",
+      "role": "USER",
+      "level": 16
+    },
+    "message": "/enter",
+    "timestamp": "2026-05-05T23:34:51.268Z"
   }
 ]
