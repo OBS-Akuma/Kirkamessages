@@ -10,5 +10,245 @@
     },
     "message": "/price [Polar||BODY_SKIN|MYTHICAL]",
     "timestamp": "2026-05-05T04:29:28.426Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "f85bea4d-40d3-4665-87b2-2eb597121eab",
+      "shortId": "42IKHE",
+      "name": "SUBLIME!",
+      "role": "USER",
+      "level": 87
+    },
+    "message": "/hm tiburon",
+    "timestamp": "2026-05-05T04:35:49.031Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "f85bea4d-40d3-4665-87b2-2eb597121eab",
+      "shortId": "42IKHE",
+      "name": "SUBLIME!",
+      "role": "USER",
+      "level": 87
+    },
+    "message": "/price [Tiburon|Bayonet|WEAPON_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-05T04:35:56.982Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "f85bea4d-40d3-4665-87b2-2eb597121eab",
+      "shortId": "42IKHE",
+      "name": "SUBLIME!",
+      "role": "USER",
+      "level": 87
+    },
+    "message": "/price [Nutcracker||BODY_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-05T04:45:58.826Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "f85bea4d-40d3-4665-87b2-2eb597121eab",
+      "shortId": "42IKHE",
+      "name": "SUBLIME!",
+      "role": "USER",
+      "level": 87
+    },
+    "message": "/price [Underwater|AR-9|WEAPON_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-05T04:49:22.037Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "f85bea4d-40d3-4665-87b2-2eb597121eab",
+      "shortId": "42IKHE",
+      "name": "SUBLIME!",
+      "role": "USER",
+      "level": 87
+    },
+    "message": "[Diane|Shark|WEAPON_SKIN|MYTHICAL] market 360k",
+    "timestamp": "2026-05-05T04:50:49.364Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "f85bea4d-40d3-4665-87b2-2eb597121eab",
+      "shortId": "42IKHE",
+      "name": "SUBLIME!",
+      "role": "USER",
+      "level": 87
+    },
+    "message": "/price [2024|Bayonet|WEAPON_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-05T04:51:00.683Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "f85bea4d-40d3-4665-87b2-2eb597121eab",
+      "shortId": "42IKHE",
+      "name": "SUBLIME!",
+      "role": "USER",
+      "level": 87
+    },
+    "message": "/price [Cornfield|Bayonet|WEAPON_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-05T04:51:32.594Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "f85bea4d-40d3-4665-87b2-2eb597121eab",
+      "shortId": "42IKHE",
+      "name": "SUBLIME!",
+      "role": "USER",
+      "level": 87
+    },
+    "message": "[Cornfield|Bayonet|WEAPON_SKIN|MYTHICAL] 380k market",
+    "timestamp": "2026-05-05T04:52:45.329Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "f85bea4d-40d3-4665-87b2-2eb597121eab",
+      "shortId": "42IKHE",
+      "name": "SUBLIME!",
+      "role": "USER",
+      "level": 87
+    },
+    "message": "/price [2025 Revolver|Revolver|WEAPON_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-05T04:52:57.689Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "f85bea4d-40d3-4665-87b2-2eb597121eab",
+      "shortId": "42IKHE",
+      "name": "SUBLIME!",
+      "role": "USER",
+      "level": 87
+    },
+    "message": "[2025 Revolver|Revolver|WEAPON_SKIN|MYTHICAL] market 600k",
+    "timestamp": "2026-05-05T04:53:22.267Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "f85bea4d-40d3-4665-87b2-2eb597121eab",
+      "shortId": "42IKHE",
+      "name": "SUBLIME!",
+      "role": "USER",
+      "level": 87
+    },
+    "message": "market",
+    "timestamp": "2026-05-05T04:53:29.970Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "f85bea4d-40d3-4665-87b2-2eb597121eab",
+      "shortId": "42IKHE",
+      "name": "SUBLIME!",
+      "role": "USER",
+      "level": 87
+    },
+    "message": "/price [2024|Bayonet|WEAPON_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-05T04:55:18.939Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "f85bea4d-40d3-4665-87b2-2eb597121eab",
+      "shortId": "42IKHE",
+      "name": "SUBLIME!",
+      "role": "USER",
+      "level": 87
+    },
+    "message": "[Cornfield|Bayonet|WEAPON_SKIN|MYTHICAL] market 380k",
+    "timestamp": "2026-05-05T04:55:44.282Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "f85bea4d-40d3-4665-87b2-2eb597121eab",
+      "shortId": "42IKHE",
+      "name": "SUBLIME!",
+      "role": "USER",
+      "level": 87
+    },
+    "message": "[2024|Bayonet|WEAPON_SKIN|MYTHICAL] market 540k",
+    "timestamp": "2026-05-05T04:55:54.141Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "f85bea4d-40d3-4665-87b2-2eb597121eab",
+      "shortId": "42IKHE",
+      "name": "SUBLIME!",
+      "role": "USER",
+      "level": 87
+    },
+    "message": "[price [panda]",
+    "timestamp": "2026-05-05T04:57:59.120Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "f85bea4d-40d3-4665-87b2-2eb597121eab",
+      "shortId": "42IKHE",
+      "name": "SUBLIME!",
+      "role": "USER",
+      "level": 87
+    },
+    "message": "/price [Panda||BODY_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-05T04:58:03.736Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "f85bea4d-40d3-4665-87b2-2eb597121eab",
+      "shortId": "42IKHE",
+      "name": "SUBLIME!",
+      "role": "USER",
+      "level": 87
+    },
+    "message": "[panda[ market 500k",
+    "timestamp": "2026-05-05T04:58:27.627Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "f85bea4d-40d3-4665-87b2-2eb597121eab",
+      "shortId": "42IKHE",
+      "name": "SUBLIME!",
+      "role": "USER",
+      "level": 87
+    },
+    "message": "[Panda||BODY_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-05T04:58:36.333Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "f85bea4d-40d3-4665-87b2-2eb597121eab",
+      "shortId": "42IKHE",
+      "name": "SUBLIME!",
+      "role": "USER",
+      "level": 87
+    },
+    "message": "[Cornfield|Bayonet|WEAPON_SKIN|MYTHICAL] market 300k",
+    "timestamp": "2026-05-05T05:00:20.636Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "f85bea4d-40d3-4665-87b2-2eb597121eab",
+      "shortId": "42IKHE",
+      "name": "SUBLIME!",
+      "role": "USER",
+      "level": 87
+    },
+    "message": "pls buy",
+    "timestamp": "2026-05-05T05:00:40.208Z"
   }
 ]
