@@ -562,5 +562,41 @@
     },
     "message": "/hm blast tomahawk",
     "timestamp": "2026-05-04T03:05:48.836Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "5147fc60-a935-401f-aaf8-3b491777bac1",
+      "shortId": "IS5FRI",
+      "name": "EvilSpider111",
+      "role": "USER",
+      "level": 79
+    },
+    "message": "/hm tiburon",
+    "timestamp": "2026-05-05T05:22:54.322Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "5147fc60-a935-401f-aaf8-3b491777bac1",
+      "shortId": "IS5FRI",
+      "name": "EvilSpider111",
+      "role": "USER",
+      "level": 79
+    },
+    "message": "/price tiburon",
+    "timestamp": "2026-05-05T05:23:10.139Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "5147fc60-a935-401f-aaf8-3b491777bac1",
+      "shortId": "IS5FRI",
+      "name": "EvilSpider111",
+      "role": "USER",
+      "level": 79
+    },
+    "message": "/hm scarey",
+    "timestamp": "2026-05-05T05:24:19.812Z"
   }
 ]
