@@ -22,5 +22,41 @@
     },
     "message": "[anyro]",
     "timestamp": "2026-05-04T04:23:04.702Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "b5b856b7-c455-4d13-9c58-9eb824d4550f",
+      "shortId": "HBR602",
+      "name": "glimmer",
+      "role": "USER",
+      "level": 85
+    },
+    "message": "tr [onyro]",
+    "timestamp": "2026-05-05T05:45:17.791Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "b5b856b7-c455-4d13-9c58-9eb824d4550f",
+      "shortId": "HBR602",
+      "name": "glimmer",
+      "role": "USER",
+      "level": 85
+    },
+    "message": "[Onryo||BODY_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-05T05:45:23.883Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "b5b856b7-c455-4d13-9c58-9eb824d4550f",
+      "shortId": "HBR602",
+      "name": "glimmer",
+      "role": "USER",
+      "level": 85
+    },
+    "message": "idk Neptune but do you wanna offer for mine",
+    "timestamp": "2026-05-05T05:46:04.218Z"
   }
 ]
