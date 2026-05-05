@@ -1,0 +1,38 @@
+[
+  {
+    "type": 2,
+    "user": {
+      "id": "0e847d26-bdad-4185-8d63-5814b612a53b",
+      "shortId": "QWYKDW",
+      "name": "SubmattedSkull",
+      "role": "USER",
+      "level": 98
+    },
+    "message": "/price [Aries|Shark|WEAPON_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-04T08:10:40.246Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "0e847d26-bdad-4185-8d63-5814b612a53b",
+      "shortId": "QWYKDW",
+      "name": "SubmattedSkull",
+      "role": "USER",
+      "level": 98
+    },
+    "message": "/price [amge;",
+    "timestamp": "2026-05-04T08:10:50.590Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "0e847d26-bdad-4185-8d63-5814b612a53b",
+      "shortId": "QWYKDW",
+      "name": "SubmattedSkull",
+      "role": "USER",
+      "level": 98
+    },
+    "message": "/price [Angel||BODY_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-04T08:10:58.705Z"
+  }
+]
