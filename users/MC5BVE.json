@@ -190,5 +190,17 @@
     },
     "message": "hm for vocaloid?",
     "timestamp": "2026-05-04T08:31:21.737Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "4f775d3a-6a4b-4d70-a040-7a598ea4f7a0",
+      "shortId": "MC5BVE",
+      "name": "SQRT|Virxl_*_*",
+      "role": "USER",
+      "level": 86
+    },
+    "message": "/hm [Apple|Bayonet|WEAPON_SKIN|LEGENDARY]",
+    "timestamp": "2026-05-05T05:29:56.304Z"
   }
 ]
