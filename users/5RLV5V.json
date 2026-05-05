@@ -562,5 +562,53 @@
     },
     "message": "ready",
     "timestamp": "2026-05-03T16:14:18.523Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "4c0e6b7a-a7e5-4eff-b697-853cf8d3cafa",
+      "shortId": "5RLV5V",
+      "name": "kinnn",
+      "role": "USER",
+      "level": 6
+    },
+    "message": "cf[Forbidden|AR-9|WEAPON_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-04T08:30:42.111Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "4c0e6b7a-a7e5-4eff-b697-853cf8d3cafa",
+      "shortId": "5RLV5V",
+      "name": "kinnn",
+      "role": "USER",
+      "level": 6
+    },
+    "message": "god",
+    "timestamp": "2026-05-04T08:30:52.092Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "4c0e6b7a-a7e5-4eff-b697-853cf8d3cafa",
+      "shortId": "5RLV5V",
+      "name": "kinnn",
+      "role": "USER",
+      "level": 6
+    },
+    "message": "god can i have one [Melody||BODY_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-04T08:31:08.890Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "4c0e6b7a-a7e5-4eff-b697-853cf8d3cafa",
+      "shortId": "5RLV5V",
+      "name": "kinnn",
+      "role": "USER",
+      "level": 6
+    },
+    "message": "mikoo u remmber [aranrchy],[ahry]",
+    "timestamp": "2026-05-04T08:31:34.025Z"
   }
 ]
