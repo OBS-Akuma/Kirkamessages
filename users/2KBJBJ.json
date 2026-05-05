@@ -10,5 +10,17 @@
     },
     "message": "lf [Hellbent|Shark|WEAPON_SKIN|MYTHICAL]",
     "timestamp": "2026-05-05T04:30:48.609Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "a2a87ac9-d670-40b6-9077-ab9993971cd8",
+      "shortId": "2KBJBJ",
+      "name": "Kimura",
+      "role": "USER",
+      "level": 86
+    },
+    "message": "tr[Bound|AR-9|WEAPON_SKIN|MYTHICAL][Lustre|Bayonet|WEAPON_SKIN|MYTHICAL][Ramses|LAR|WEAPON_SKIN|MYTHICAL]lf[Hellbent|Shark|WEAPON_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-05T04:35:21.472Z"
   }
 ]
