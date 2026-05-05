@@ -106,5 +106,41 @@
     },
     "message": "its been so long since i acctuly hoped on for a grind",
     "timestamp": "2026-05-03T04:10:09.727Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "e593855f-34dd-4d12-b03f-87cf92b607c9",
+      "shortId": "Q9COV0",
+      "name": "Dutchman",
+      "role": "USER",
+      "level": 94
+    },
+    "message": "/price [Or|Bayonet|WEAPON_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-05T23:33:56.650Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "e593855f-34dd-4d12-b03f-87cf92b607c9",
+      "shortId": "Q9COV0",
+      "name": "Dutchman",
+      "role": "USER",
+      "level": 94
+    },
+    "message": "sure",
+    "timestamp": "2026-05-05T23:34:10.249Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "e593855f-34dd-4d12-b03f-87cf92b607c9",
+      "shortId": "Q9COV0",
+      "name": "Dutchman",
+      "role": "USER",
+      "level": 94
+    },
+    "message": "/enter",
+    "timestamp": "2026-05-05T23:35:00.401Z"
   }
 ]
