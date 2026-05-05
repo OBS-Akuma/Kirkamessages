@@ -563,5 +563,125 @@
     },
     "message": "trading [Candle|Bayonet|WEAPON_SKIN|MYTHICAL], [Halloween||CHEST|MYTHICAL]x1700",
     "timestamp": "2026-05-04T08:12:34.658Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "7f2a6090-abcb-48a7-8838-88ee8111b261",
+      "shortId": "NUGGET",
+      "name": "Akuma :3",
+      "role": "USER",
+      "level": 55
+    },
+    "message": "trading candle",
+    "timestamp": "2026-05-04T08:13:10.565Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "7f2a6090-abcb-48a7-8838-88ee8111b261",
+      "shortId": "NUGGET",
+      "name": "Akuma :3",
+      "role": "USER",
+      "level": 55
+    },
+    "message": "/hm [Qod||BODY_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-04T08:13:48.833Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "7f2a6090-abcb-48a7-8838-88ee8111b261",
+      "shortId": "NUGGET",
+      "name": "Akuma :3",
+      "role": "USER",
+      "level": 55
+    },
+    "message": "dam",
+    "timestamp": "2026-05-04T08:13:52.041Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "7f2a6090-abcb-48a7-8838-88ee8111b261",
+      "shortId": "NUGGET",
+      "name": "Akuma :3",
+      "role": "USER",
+      "level": 55
+    },
+    "message": "trading candle",
+    "timestamp": "2026-05-04T08:14:20.863Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "7f2a6090-abcb-48a7-8838-88ee8111b261",
+      "shortId": "NUGGET",
+      "name": "Akuma :3",
+      "role": "USER",
+      "level": 55
+    },
+    "message": "/locate [Wiggleworp|VITA|WEAPON_SKIN|PARANORMAL]",
+    "timestamp": "2026-05-04T08:15:52.509Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "7f2a6090-abcb-48a7-8838-88ee8111b261",
+      "shortId": "NUGGET",
+      "name": "Akuma :3",
+      "role": "USER",
+      "level": 55
+    },
+    "message": "/inv TRE873",
+    "timestamp": "2026-05-04T08:25:46.741Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "7f2a6090-abcb-48a7-8838-88ee8111b261",
+      "shortId": "NUGGET",
+      "name": "Akuma :3",
+      "role": "USER",
+      "level": 55
+    },
+    "message": "trading candle",
+    "timestamp": "2026-05-04T08:29:15.828Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "7f2a6090-abcb-48a7-8838-88ee8111b261",
+      "shortId": "NUGGET",
+      "name": "Akuma :3",
+      "role": "USER",
+      "level": 55
+    },
+    "message": "yo #9MDD8T",
+    "timestamp": "2026-05-04T08:30:02.045Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "7f2a6090-abcb-48a7-8838-88ee8111b261",
+      "shortId": "NUGGET",
+      "name": "Akuma :3",
+      "role": "USER",
+      "level": 55
+    },
+    "message": "you looking for Halloween ?",
+    "timestamp": "2026-05-04T08:30:18.285Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "7f2a6090-abcb-48a7-8838-88ee8111b261",
+      "shortId": "NUGGET",
+      "name": "Akuma :3",
+      "role": "USER",
+      "level": 55
+    },
+    "message": "ah alr alr",
+    "timestamp": "2026-05-04T08:30:28.992Z"
   }
 ]
