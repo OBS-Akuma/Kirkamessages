@@ -526,5 +526,77 @@
     },
     "message": "/inv",
     "timestamp": "2026-05-05T05:38:53.442Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "5c0f020b-5dfa-4e89-8a66-f0f92ffadc40",
+      "shortId": "WL23PI",
+      "name": "WWWWWWWWWWWWWW",
+      "role": "USER",
+      "level": 84
+    },
+    "message": "trading [Magic|Shark|WEAPON_SKIN|MYTHICAL],[Ramses|LAR|WEAPON_SKIN|MYTHICAL],[Golden||CHEST|LEGENDARY]x900,[2026 VITA|VITA|WEAPON_SKIN|MYTHICAL],[sht bayonet]",
+    "timestamp": "2026-05-05T05:39:56.597Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "5c0f020b-5dfa-4e89-8a66-f0f92ffadc40",
+      "shortId": "WL23PI",
+      "name": "WWWWWWWWWWWWWW",
+      "role": "USER",
+      "level": 84
+    },
+    "message": "/price gem stoe",
+    "timestamp": "2026-05-05T05:40:29.382Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "5c0f020b-5dfa-4e89-8a66-f0f92ffadc40",
+      "shortId": "WL23PI",
+      "name": "WWWWWWWWWWWWWW",
+      "role": "USER",
+      "level": 84
+    },
+    "message": "/price gem stone",
+    "timestamp": "2026-05-05T05:40:34.451Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "5c0f020b-5dfa-4e89-8a66-f0f92ffadc40",
+      "shortId": "WL23PI",
+      "name": "WWWWWWWWWWWWWW",
+      "role": "USER",
+      "level": 84
+    },
+    "message": "trading [Magic|Shark|WEAPON_SKIN|MYTHICAL],[Ramses|LAR|WEAPON_SKIN|MYTHICAL],[Golden||CHEST|LEGENDARY]x900,[2026 VITA|VITA|WEAPON_SKIN|MYTHICAL],[sht bayonet]",
+    "timestamp": "2026-05-05T05:40:42.441Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "5c0f020b-5dfa-4e89-8a66-f0f92ffadc40",
+      "shortId": "WL23PI",
+      "name": "WWWWWWWWWWWWWW",
+      "role": "USER",
+      "level": 84
+    },
+    "message": "chick looks cute",
+    "timestamp": "2026-05-05T05:41:02.722Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "5c0f020b-5dfa-4e89-8a66-f0f92ffadc40",
+      "shortId": "WL23PI",
+      "name": "WWWWWWWWWWWWWW",
+      "role": "USER",
+      "level": 84
+    },
+    "message": "trading [Magic|Shark|WEAPON_SKIN|MYTHICAL],[Ramses|LAR|WEAPON_SKIN|MYTHICAL],[Golden||CHEST|LEGENDARY]x900,[2026 VITA|VITA|WEAPON_SKIN|MYTHICAL],[sht bayonet]",
+    "timestamp": "2026-05-05T05:41:17.289Z"
   }
 ]
