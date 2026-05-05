@@ -142,5 +142,17 @@
     },
     "message": ":3",
     "timestamp": "2026-05-05T04:32:10.320Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "23e6aa56-8dcf-4f7f-90a0-4e3ddb1a770d",
+      "shortId": "MST5WM",
+      "name": "Kourdog",
+      "role": "USER",
+      "level": 65
+    },
+    "message": "/price blast shark",
+    "timestamp": "2026-05-05T04:36:18.285Z"
   }
 ]
