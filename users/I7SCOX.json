@@ -154,5 +154,65 @@
     },
     "message": "nty",
     "timestamp": "2026-05-05T23:37:42.733Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "e53ac14c-dc7d-421c-8abd-fe7b9e185688",
+      "shortId": "I7SCOX",
+      "name": "cocoa_koala",
+      "role": "USER",
+      "level": 80
+    },
+    "message": "/hm nova",
+    "timestamp": "2026-05-05T23:38:32.359Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "e53ac14c-dc7d-421c-8abd-fe7b9e185688",
+      "shortId": "I7SCOX",
+      "name": "cocoa_koala",
+      "role": "USER",
+      "level": 80
+    },
+    "message": "no.",
+    "timestamp": "2026-05-05T23:38:49.488Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "e53ac14c-dc7d-421c-8abd-fe7b9e185688",
+      "shortId": "I7SCOX",
+      "name": "cocoa_koala",
+      "role": "USER",
+      "level": 80
+    },
+    "message": "nty",
+    "timestamp": "2026-05-05T23:40:50.845Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "e53ac14c-dc7d-421c-8abd-fe7b9e185688",
+      "shortId": "I7SCOX",
+      "name": "cocoa_koala",
+      "role": "USER",
+      "level": 80
+    },
+    "message": "offer smth else venom",
+    "timestamp": "2026-05-05T23:41:16.753Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "e53ac14c-dc7d-421c-8abd-fe7b9e185688",
+      "shortId": "I7SCOX",
+      "name": "cocoa_koala",
+      "role": "USER",
+      "level": 80
+    },
+    "message": "??? im telling u no",
+    "timestamp": "2026-05-05T23:41:45.661Z"
   }
 ]
