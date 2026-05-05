@@ -346,5 +346,65 @@
     },
     "message": "/inv",
     "timestamp": "2026-05-05T05:36:22.884Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "7001fed6-5d8a-4759-97fb-f4d659e9cea0",
+      "shortId": "C3F13Y",
+      "name": "NewbiexDzdz",
+      "role": "USER",
+      "level": 42
+    },
+    "message": "[SCAR||WEAPON_1|COMMON]",
+    "timestamp": "2026-05-05T05:42:23.029Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "7001fed6-5d8a-4759-97fb-f4d659e9cea0",
+      "shortId": "C3F13Y",
+      "name": "NewbiexDzdz",
+      "role": "USER",
+      "level": 42
+    },
+    "message": "/locate [SCAR||WEAPON_1|COMMON]",
+    "timestamp": "2026-05-05T05:43:00.554Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "7001fed6-5d8a-4759-97fb-f4d659e9cea0",
+      "shortId": "C3F13Y",
+      "name": "NewbiexDzdz",
+      "role": "USER",
+      "level": 42
+    },
+    "message": "/topskin Scar",
+    "timestamp": "2026-05-05T05:43:35.840Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "7001fed6-5d8a-4759-97fb-f4d659e9cea0",
+      "shortId": "C3F13Y",
+      "name": "NewbiexDzdz",
+      "role": "USER",
+      "level": 42
+    },
+    "message": "[Oblivion|SCAR|WEAPON_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-05T05:43:51.789Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "7001fed6-5d8a-4759-97fb-f4d659e9cea0",
+      "shortId": "C3F13Y",
+      "name": "NewbiexDzdz",
+      "role": "USER",
+      "level": 42
+    },
+    "message": "[Scarey|SCAR|WEAPON_SKIN|EPIC]",
+    "timestamp": "2026-05-05T05:44:04.985Z"
   }
 ]
