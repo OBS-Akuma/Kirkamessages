@@ -1,0 +1,50 @@
+[
+  {
+    "type": 2,
+    "user": {
+      "id": "VGmTosMx4ERZyrXrimUabS3vmbu2",
+      "shortId": "TPQAC0",
+      "name": "SupremeJK",
+      "role": "USER",
+      "level": 90
+    },
+    "message": "/inv",
+    "timestamp": "2026-05-05T05:30:10.552Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "VGmTosMx4ERZyrXrimUabS3vmbu2",
+      "shortId": "TPQAC0",
+      "name": "SupremeJK",
+      "role": "USER",
+      "level": 90
+    },
+    "message": "/inv (avg)",
+    "timestamp": "2026-05-05T05:30:47.519Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "VGmTosMx4ERZyrXrimUabS3vmbu2",
+      "shortId": "TPQAC0",
+      "name": "SupremeJK",
+      "role": "USER",
+      "level": 90
+    },
+    "message": "/price [Damascus|Tomahawk|WEAPON_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-05T05:32:29.496Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "VGmTosMx4ERZyrXrimUabS3vmbu2",
+      "shortId": "TPQAC0",
+      "name": "SupremeJK",
+      "role": "USER",
+      "level": 90
+    },
+    "message": "/price [Capricorn|Tomahawk|WEAPON_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-05T05:32:53.780Z"
+  }
+]
