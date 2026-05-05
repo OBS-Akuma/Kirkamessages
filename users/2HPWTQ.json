@@ -358,5 +358,29 @@
     },
     "message": "is japanese hard?",
     "timestamp": "2026-05-04T08:03:01.020Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "fcb2da3e-5617-4afa-9769-d677b7479782",
+      "shortId": "2HPWTQ",
+      "name": "G4B.",
+      "role": "USER",
+      "level": 67
+    },
+    "message": "crim, japanese is hard?",
+    "timestamp": "2026-05-04T08:03:22.600Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "fcb2da3e-5617-4afa-9769-d677b7479782",
+      "shortId": "2HPWTQ",
+      "name": "G4B.",
+      "role": "USER",
+      "level": 67
+    },
+    "message": "yh, i want to learn japanse",
+    "timestamp": "2026-05-04T08:03:54.096Z"
   }
 ]
