@@ -683,5 +683,53 @@
     },
     "message": "ah alr alr",
     "timestamp": "2026-05-04T08:30:28.992Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "7f2a6090-abcb-48a7-8838-88ee8111b261",
+      "shortId": "NUGGET",
+      "name": "Akuma :3",
+      "role": "USER",
+      "level": 55
+    },
+    "message": "trading 1700 halloween",
+    "timestamp": "2026-05-05T05:04:03.644Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "7f2a6090-abcb-48a7-8838-88ee8111b261",
+      "shortId": "NUGGET",
+      "name": "Akuma :3",
+      "role": "USER",
+      "level": 55
+    },
+    "message": "hehe",
+    "timestamp": "2026-05-05T05:05:53.996Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "7f2a6090-abcb-48a7-8838-88ee8111b261",
+      "shortId": "NUGGET",
+      "name": "Akuma :3",
+      "role": "USER",
+      "level": 55
+    },
+    "message": "hehe :3",
+    "timestamp": "2026-05-05T05:06:17.155Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "7f2a6090-abcb-48a7-8838-88ee8111b261",
+      "shortId": "NUGGET",
+      "name": "Akuma :3",
+      "role": "USER",
+      "level": 55
+    },
+    "message": "/inv",
+    "timestamp": "2026-05-05T05:06:42.450Z"
   }
 ]
