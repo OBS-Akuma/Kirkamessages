@@ -334,5 +334,53 @@
     },
     "message": "what?",
     "timestamp": "2026-05-05T05:32:53.781Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "60a1092c-bdd2-410e-8fd8-379ea3fd3720",
+      "shortId": "C1421W",
+      "name": "Void.",
+      "role": "USER",
+      "level": 86
+    },
+    "message": "no i lost all my inv",
+    "timestamp": "2026-05-05T05:36:49.416Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "60a1092c-bdd2-410e-8fd8-379ea3fd3720",
+      "shortId": "C1421W",
+      "name": "Void.",
+      "role": "USER",
+      "level": 86
+    },
+    "message": "/hm maze",
+    "timestamp": "2026-05-05T05:37:20.599Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "60a1092c-bdd2-410e-8fd8-379ea3fd3720",
+      "shortId": "C1421W",
+      "name": "Void.",
+      "role": "USER",
+      "level": 86
+    },
+    "message": "/price maze",
+    "timestamp": "2026-05-05T05:37:26.988Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "60a1092c-bdd2-410e-8fd8-379ea3fd3720",
+      "shortId": "C1421W",
+      "name": "Void.",
+      "role": "USER",
+      "level": 86
+    },
+    "message": "no",
+    "timestamp": "2026-05-05T05:38:53.116Z"
   }
 ]
