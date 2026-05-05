@@ -550,5 +550,41 @@
     },
     "message": "TR [2024|Bayonet|WEAPON_SKIN|MYTHICAL][CYB3R|Bayonet|WEAPON_SKIN|MYTHICAL][Forbidden|AR-9|WEAPON_SKIN|MYTHICAL][Ortus|Revolver|WEAPON_SKIN|MYTHICAL][2024|Bayonet|WEAPON_SKIN|MYTHICAL][Koi|Bayonet|WEAPON_SKIN|MYTHICAL][Fever|SCAR|WEAPON_SKIN|MYTHICAL][2026||BODY_SKIN|MYTHICAL][Blackout|Revolver|WEAPON_SKIN|LEGENDARY]",
     "timestamp": "2026-05-05T05:29:26.007Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "aC4eJ9XToJg3hfiixxui6Cv8ymy2",
+      "shortId": "0BPRZO",
+      "name": "Abyss",
+      "role": "USER",
+      "level": 48
+    },
+    "message": "/price [Gentleman||BODY_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-05T05:31:25.055Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "aC4eJ9XToJg3hfiixxui6Cv8ymy2",
+      "shortId": "0BPRZO",
+      "name": "Abyss",
+      "role": "USER",
+      "level": 48
+    },
+    "message": "/price [Dragon Shark|Shark|WEAPON_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-05T05:34:21.029Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "aC4eJ9XToJg3hfiixxui6Cv8ymy2",
+      "shortId": "0BPRZO",
+      "name": "Abyss",
+      "role": "USER",
+      "level": 48
+    },
+    "message": "TR [2024|Bayonet|WEAPON_SKIN|MYTHICAL][CYB3R|Bayonet|WEAPON_SKIN|MYTHICAL][Forbidden|AR-9|WEAPON_SKIN|MYTHICAL][Ortus|Revolver|WEAPON_SKIN|MYTHICAL][2024|Bayonet|WEAPON_SKIN|MYTHICAL][Koi|Bayonet|WEAPON_SKIN|MYTHICAL][Fever|SCAR|WEAPON_SKIN|MYTHICAL][2026||BODY_SKIN|MYTHICAL][Blackout|Revolver|WEAPON_SKIN|LEGENDARY]",
+    "timestamp": "2026-05-05T05:34:34.692Z"
   }
 ]
