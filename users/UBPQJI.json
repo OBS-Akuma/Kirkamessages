@@ -1,0 +1,38 @@
+[
+  {
+    "type": 2,
+    "user": {
+      "id": "168bb422-c8d4-4767-9c11-da92aab2f5c2",
+      "shortId": "UBPQJI",
+      "name": "hunter",
+      "role": "USER",
+      "level": 34
+    },
+    "message": "[Flaming|Bayonet|WEAPON_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-05T05:06:54.175Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "168bb422-c8d4-4767-9c11-da92aab2f5c2",
+      "shortId": "UBPQJI",
+      "name": "hunter",
+      "role": "USER",
+      "level": 34
+    },
+    "message": "/price flaming",
+    "timestamp": "2026-05-05T05:07:06.317Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "168bb422-c8d4-4767-9c11-da92aab2f5c2",
+      "shortId": "UBPQJI",
+      "name": "hunter",
+      "role": "USER",
+      "level": 34
+    },
+    "message": "[Starstruck|Shark|WEAPON_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-05T05:07:29.040Z"
+  }
+]
