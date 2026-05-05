@@ -850,5 +850,101 @@
     },
     "message": "selling [Tide|SCAR|WEAPON_SKIN|LEGENDARY] 9m",
     "timestamp": "2026-05-04T05:01:54.317Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "02506a6c-de4d-4da9-833f-35e586b9b089",
+      "shortId": "H9H0OI",
+      "name": "Hafla_",
+      "role": "USER",
+      "level": 62
+    },
+    "message": "GO COP [Darkweb||BODY_SKIN|MYTHICAL] 25M ON MARKET!!!",
+    "timestamp": "2026-05-05T04:42:13.676Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "02506a6c-de4d-4da9-833f-35e586b9b089",
+      "shortId": "H9H0OI",
+      "name": "Hafla_",
+      "role": "USER",
+      "level": 62
+    },
+    "message": "TRADING [Sunday|Bayonet|WEAPON_SKIN|MYTHICAL] AND [Tide|SCAR|WEAPON_SKIN|LEGENDARY] FOR VOID SET!",
+    "timestamp": "2026-05-05T04:44:12.055Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "02506a6c-de4d-4da9-833f-35e586b9b089",
+      "shortId": "H9H0OI",
+      "name": "Hafla_",
+      "role": "USER",
+      "level": 62
+    },
+    "message": "!TRADING [Sunday|Bayonet|WEAPON_SKIN|MYTHICAL] AND [Tide|SCAR|WEAPON_SKIN|LEGENDARY] FOR VOID SET!",
+    "timestamp": "2026-05-05T04:45:46.203Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "02506a6c-de4d-4da9-833f-35e586b9b089",
+      "shortId": "H9H0OI",
+      "name": "Hafla_",
+      "role": "USER",
+      "level": 62
+    },
+    "message": "#7YEJ55",
+    "timestamp": "2026-05-05T04:48:22.360Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "02506a6c-de4d-4da9-833f-35e586b9b089",
+      "shortId": "H9H0OI",
+      "name": "Hafla_",
+      "role": "USER",
+      "level": 62
+    },
+    "message": "LF void set",
+    "timestamp": "2026-05-05T04:49:28.178Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "02506a6c-de4d-4da9-833f-35e586b9b089",
+      "shortId": "H9H0OI",
+      "name": "Hafla_",
+      "role": "USER",
+      "level": 62
+    },
+    "message": "w gummy",
+    "timestamp": "2026-05-05T04:52:00.447Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "02506a6c-de4d-4da9-833f-35e586b9b089",
+      "shortId": "H9H0OI",
+      "name": "Hafla_",
+      "role": "USER",
+      "level": 62
+    },
+    "message": "[Darkweb||BODY_SKIN|MYTHICAL] 25m on market :)",
+    "timestamp": "2026-05-05T04:56:01.303Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "02506a6c-de4d-4da9-833f-35e586b9b089",
+      "shortId": "H9H0OI",
+      "name": "Hafla_",
+      "role": "USER",
+      "level": 62
+    },
+    "message": ";)",
+    "timestamp": "2026-05-05T05:01:35.577Z"
   }
 ]
