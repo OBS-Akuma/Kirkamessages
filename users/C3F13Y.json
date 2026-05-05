@@ -322,5 +322,29 @@
     },
     "message": "Bye",
     "timestamp": "2026-05-05T05:26:30.593Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "7001fed6-5d8a-4759-97fb-f4d659e9cea0",
+      "shortId": "C3F13Y",
+      "name": "NewbiexDzdz",
+      "role": "USER",
+      "level": 42
+    },
+    "message": "/inv #IV6VC4",
+    "timestamp": "2026-05-05T05:36:05.680Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "7001fed6-5d8a-4759-97fb-f4d659e9cea0",
+      "shortId": "C3F13Y",
+      "name": "NewbiexDzdz",
+      "role": "USER",
+      "level": 42
+    },
+    "message": "/inv",
+    "timestamp": "2026-05-05T05:36:22.884Z"
   }
 ]
