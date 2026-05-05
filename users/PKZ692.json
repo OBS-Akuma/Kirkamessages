@@ -1,0 +1,26 @@
+[
+  {
+    "type": 2,
+    "user": {
+      "id": "xyKdlnlZC6apyEc6Lfqh2qO9Ab92",
+      "shortId": "PKZ692",
+      "name": "kieen",
+      "role": "USER",
+      "level": 45
+    },
+    "message": "/hm:[Magic|Shark|WEAPON_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-05T05:48:21.371Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "xyKdlnlZC6apyEc6Lfqh2qO9Ab92",
+      "shortId": "PKZ692",
+      "name": "kieen",
+      "role": "USER",
+      "level": 45
+    },
+    "message": "/hm[Abstraction|VITA|WEAPON_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-05T05:49:05.575Z"
+  }
+]
