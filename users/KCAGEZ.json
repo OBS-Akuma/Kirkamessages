@@ -238,5 +238,101 @@
     },
     "message": "[Saint Patrick|Shark|WEAPON_SKIN|LEGENDARY]",
     "timestamp": "2026-05-04T06:56:54.383Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "L1pXyZKhoVQwGvtNQKFagYc3aSx1",
+      "shortId": "KCAGEZ",
+      "name": "KCAGEZ#3K5JD8",
+      "role": "USER",
+      "level": 16
+    },
+    "message": "tr,cf,wager [Saint Patrick|Shark|WEAPON_SKIN|LEGENDARY]",
+    "timestamp": "2026-05-05T05:16:47.734Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "L1pXyZKhoVQwGvtNQKFagYc3aSx1",
+      "shortId": "KCAGEZ",
+      "name": "KCAGEZ#3K5JD8",
+      "role": "USER",
+      "level": 16
+    },
+    "message": "d",
+    "timestamp": "2026-05-05T05:17:39.252Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "L1pXyZKhoVQwGvtNQKFagYc3aSx1",
+      "shortId": "KCAGEZ",
+      "name": "KCAGEZ#3K5JD8",
+      "role": "USER",
+      "level": 16
+    },
+    "message": "void",
+    "timestamp": "2026-05-05T05:17:44.802Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "L1pXyZKhoVQwGvtNQKFagYc3aSx1",
+      "shortId": "KCAGEZ",
+      "name": "KCAGEZ#3K5JD8",
+      "role": "USER",
+      "level": 16
+    },
+    "message": "[Chick||BODY_SKIN|MYTHICAL] for [Saint Patrick|Shark|WEAPON_SKIN|LEGENDARY] cf void",
+    "timestamp": "2026-05-05T05:18:27.705Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "L1pXyZKhoVQwGvtNQKFagYc3aSx1",
+      "shortId": "KCAGEZ",
+      "name": "KCAGEZ#3K5JD8",
+      "role": "USER",
+      "level": 16
+    },
+    "message": "tr,cf,wager [Saint Patrick|Shark|WEAPON_SKIN|LEGENDARY]",
+    "timestamp": "2026-05-05T05:19:43.560Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "L1pXyZKhoVQwGvtNQKFagYc3aSx1",
+      "shortId": "KCAGEZ",
+      "name": "KCAGEZ#3K5JD8",
+      "role": "USER",
+      "level": 16
+    },
+    "message": "milkorayu",
+    "timestamp": "2026-05-05T05:20:12.091Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "L1pXyZKhoVQwGvtNQKFagYc3aSx1",
+      "shortId": "KCAGEZ",
+      "name": "KCAGEZ#3K5JD8",
+      "role": "USER",
+      "level": 16
+    },
+    "message": "[Splanch|VITA|WEAPON_SKIN|MYTHICAL] for [Saint Patrick|Shark|WEAPON_SKIN|LEGENDARY] cf",
+    "timestamp": "2026-05-05T05:20:19.549Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "L1pXyZKhoVQwGvtNQKFagYc3aSx1",
+      "shortId": "KCAGEZ",
+      "name": "KCAGEZ#3K5JD8",
+      "role": "USER",
+      "level": 16
+    },
+    "message": "nah",
+    "timestamp": "2026-05-05T05:20:58.243Z"
   }
 ]
