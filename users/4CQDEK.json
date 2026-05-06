@@ -2998,5 +2998,41 @@
     },
     "message": "yo walter wsp",
     "timestamp": "2026-05-04T07:50:39.481Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "878dfc67-a2f4-46d9-b837-58e311d701d3",
+      "shortId": "4CQDEK",
+      "name": "UrBoiBeetle",
+      "role": "USER",
+      "level": 97
+    },
+    "message": "/inv",
+    "timestamp": "2026-05-05T23:45:57.798Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "878dfc67-a2f4-46d9-b837-58e311d701d3",
+      "shortId": "4CQDEK",
+      "name": "UrBoiBeetle",
+      "role": "USER",
+      "level": 97
+    },
+    "message": "biker is tuff imo",
+    "timestamp": "2026-05-05T23:49:36.620Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "878dfc67-a2f4-46d9-b837-58e311d701d3",
+      "shortId": "4CQDEK",
+      "name": "UrBoiBeetle",
+      "role": "USER",
+      "level": 97
+    },
+    "message": "TR[Bubblepop|Bayonet|WEAPON_SKIN|MYTHICAL][Candle|Bayonet|WEAPON_SKIN|MYTHICAL][Hans||BODY_SKIN|MYTHICAL][Sizzle||BODY_SKIN|MYTHICAL][Hotrod LAR|LAR|WEAPON_SKIN|MYTHICAL][Eci|Bayonet|WEAPON_SKIN|MYTHICAL][Honey|Bayonet|WEAPON_SKIN|MYTHICAL][Lustre|Bayonet|WEAPON_SKIN|MYTHICAL][Nib||BODY_SKIN|MYTHICAL][Veiled||BODY_SKIN|LEGENDARY]",
+    "timestamp": "2026-05-06T00:30:47.740Z"
   }
 ]
