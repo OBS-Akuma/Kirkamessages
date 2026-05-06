@@ -20,7 +20,7 @@
       "role": "USER",
       "level": 28
     },
-    "message": "Â¿",
+    "message": "ÃÂ¿",
     "timestamp": "2026-05-06T03:14:42.618Z"
   },
   {
@@ -44,7 +44,7 @@
       "role": "USER",
       "level": 28
     },
-    "message": "¿",
+    "message": "Â¿",
     "timestamp": "2026-05-06T03:15:32.945Z"
   },
   {
@@ -82,5 +82,101 @@
     },
     "message": "me speak spanish",
     "timestamp": "2026-05-06T03:16:29.856Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "WL7ZDTF6sjUV6FaPpRNfeKoPPBn2",
+      "shortId": "WIYC9V",
+      "name": "Heiko.",
+      "role": "USER",
+      "level": 28
+    },
+    "message": "accept corruption",
+    "timestamp": "2026-05-06T03:17:12.705Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "WL7ZDTF6sjUV6FaPpRNfeKoPPBn2",
+      "shortId": "WIYC9V",
+      "name": "Heiko.",
+      "role": "USER",
+      "level": 28
+    },
+    "message": "i have [Endless||BODY_SKIN|MYTHICAL],[Sinister||BODY_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-06T03:17:32.732Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "WL7ZDTF6sjUV6FaPpRNfeKoPPBn2",
+      "shortId": "WIYC9V",
+      "name": "Heiko.",
+      "role": "USER",
+      "level": 28
+    },
+    "message": "nah",
+    "timestamp": "2026-05-06T03:17:47.083Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "WL7ZDTF6sjUV6FaPpRNfeKoPPBn2",
+      "shortId": "WIYC9V",
+      "name": "Heiko.",
+      "role": "USER",
+      "level": 28
+    },
+    "message": "[Cozy James||BODY_SKIN|MYTHICAL],[Halloween||CHEST|MYTHICAL]x1500 for [Golden||CHEST|LEGENDARY]x40k¿",
+    "timestamp": "2026-05-06T03:18:06.243Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "WL7ZDTF6sjUV6FaPpRNfeKoPPBn2",
+      "shortId": "WIYC9V",
+      "name": "Heiko.",
+      "role": "USER",
+      "level": 28
+    },
+    "message": "ok",
+    "timestamp": "2026-05-06T03:18:14.173Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "WL7ZDTF6sjUV6FaPpRNfeKoPPBn2",
+      "shortId": "WIYC9V",
+      "name": "Heiko.",
+      "role": "USER",
+      "level": 28
+    },
+    "message": "no gracias bro",
+    "timestamp": "2026-05-06T03:19:03.882Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "WL7ZDTF6sjUV6FaPpRNfeKoPPBn2",
+      "shortId": "WIYC9V",
+      "name": "Heiko.",
+      "role": "USER",
+      "level": 28
+    },
+    "message": "[Sinister||BODY_SKIN|MYTHICAL] no lo tradeo ni [Endless||BODY_SKIN|MYTHICAL] loseinto",
+    "timestamp": "2026-05-06T03:19:24.253Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "WL7ZDTF6sjUV6FaPpRNfeKoPPBn2",
+      "shortId": "WIYC9V",
+      "name": "Heiko.",
+      "role": "USER",
+      "level": 28
+    },
+    "message": ":V",
+    "timestamp": "2026-05-06T03:20:11.919Z"
   }
 ]
