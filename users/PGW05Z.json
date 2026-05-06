@@ -10,5 +10,89 @@
     },
     "message": "/price steve",
     "timestamp": "2026-05-05T05:21:45.062Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "f1c6940c-5a94-4af4-ba69-fb763d71ebb4",
+      "shortId": "PGW05Z",
+      "name": "Lord_Gazzel",
+      "role": "USER",
+      "level": 87
+    },
+    "message": "/PRICE JOLLY",
+    "timestamp": "2026-05-06T02:07:49.206Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "f1c6940c-5a94-4af4-ba69-fb763d71ebb4",
+      "shortId": "PGW05Z",
+      "name": "Lord_Gazzel",
+      "role": "USER",
+      "level": 87
+    },
+    "message": "/PRICE LIGHTENED",
+    "timestamp": "2026-05-06T02:08:18.134Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "f1c6940c-5a94-4af4-ba69-fb763d71ebb4",
+      "shortId": "PGW05Z",
+      "name": "Lord_Gazzel",
+      "role": "USER",
+      "level": 87
+    },
+    "message": "/price ligh tened",
+    "timestamp": "2026-05-06T02:08:39.496Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "f1c6940c-5a94-4af4-ba69-fb763d71ebb4",
+      "shortId": "PGW05Z",
+      "name": "Lord_Gazzel",
+      "role": "USER",
+      "level": 87
+    },
+    "message": "/PRICE JOLLY",
+    "timestamp": "2026-05-06T02:17:33.100Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "f1c6940c-5a94-4af4-ba69-fb763d71ebb4",
+      "shortId": "PGW05Z",
+      "name": "Lord_Gazzel",
+      "role": "USER",
+      "level": 87
+    },
+    "message": "/BOT",
+    "timestamp": "2026-05-06T02:21:58.575Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "f1c6940c-5a94-4af4-ba69-fb763d71ebb4",
+      "shortId": "PGW05Z",
+      "name": "Lord_Gazzel",
+      "role": "USER",
+      "level": 87
+    },
+    "message": "/HELP",
+    "timestamp": "2026-05-06T02:22:03.116Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "f1c6940c-5a94-4af4-ba69-fb763d71ebb4",
+      "shortId": "PGW05Z",
+      "name": "Lord_Gazzel",
+      "role": "USER",
+      "level": 87
+    },
+    "message": "/INVENTORY KIRKAID #LLF466",
+    "timestamp": "2026-05-06T02:22:49.753Z"
   }
 ]
