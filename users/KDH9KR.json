@@ -82,5 +82,41 @@
     },
     "message": "ok im getting off",
     "timestamp": "2026-05-03T16:12:10.800Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "TpaHcMKpZ1Uh0sdDEu4UDAONcdS2",
+      "shortId": "KDH9KR",
+      "name": "strange",
+      "role": "USER",
+      "level": 43
+    },
+    "message": "/inv",
+    "timestamp": "2026-05-06T00:15:03.683Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "TpaHcMKpZ1Uh0sdDEu4UDAONcdS2",
+      "shortId": "KDH9KR",
+      "name": "strange",
+      "role": "USER",
+      "level": 43
+    },
+    "message": "tr[Fudge|VITA|WEAPON_SKIN|MYTHICAL][Elf||BODY_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-06T00:15:20.026Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "TpaHcMKpZ1Uh0sdDEu4UDAONcdS2",
+      "shortId": "KDH9KR",
+      "name": "strange",
+      "role": "USER",
+      "level": 43
+    },
+    "message": "/enter",
+    "timestamp": "2026-05-06T00:16:57.904Z"
   }
 ]
