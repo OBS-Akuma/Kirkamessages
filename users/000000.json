@@ -833,5 +833,65 @@
     },
     "message": "#NOBODY today is the day",
     "timestamp": "2026-05-06T00:27:19.361Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "8f9423c1-73b5-46a4-969f-68ed04e8f0e8",
+      "shortId": "000000",
+      "name": "Daddy",
+      "role": "USER",
+      "level": 100
+    },
+    "message": "I can't wait to win woodx1",
+    "timestamp": "2026-05-06T00:35:42.389Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "8f9423c1-73b5-46a4-969f-68ed04e8f0e8",
+      "shortId": "000000",
+      "name": "Daddy",
+      "role": "USER",
+      "level": 100
+    },
+    "message": "/enter",
+    "timestamp": "2026-05-06T00:38:50.941Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "8f9423c1-73b5-46a4-969f-68ed04e8f0e8",
+      "shortId": "000000",
+      "name": "Daddy",
+      "role": "USER",
+      "level": 100
+    },
+    "message": "ello",
+    "timestamp": "2026-05-06T00:39:05.641Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "8f9423c1-73b5-46a4-969f-68ed04e8f0e8",
+      "shortId": "000000",
+      "name": "Daddy",
+      "role": "USER",
+      "level": 100
+    },
+    "message": "/price gentlemen",
+    "timestamp": "2026-05-06T00:39:25.014Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "8f9423c1-73b5-46a4-969f-68ed04e8f0e8",
+      "shortId": "000000",
+      "name": "Daddy",
+      "role": "USER",
+      "level": 100
+    },
+    "message": "/price gentleman",
+    "timestamp": "2026-05-06T00:39:29.395Z"
   }
 ]
