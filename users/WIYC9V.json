@@ -20,7 +20,7 @@
       "role": "USER",
       "level": 28
     },
-    "message": "ÃÂ¿",
+    "message": "ÃÂÃÂ¿",
     "timestamp": "2026-05-06T03:14:42.618Z"
   },
   {
@@ -44,7 +44,7 @@
       "role": "USER",
       "level": 28
     },
-    "message": "Â¿",
+    "message": "ÃÂ¿",
     "timestamp": "2026-05-06T03:15:32.945Z"
   },
   {
@@ -128,7 +128,7 @@
       "role": "USER",
       "level": 28
     },
-    "message": "[Cozy James||BODY_SKIN|MYTHICAL],[Halloween||CHEST|MYTHICAL]x1500 for [Golden||CHEST|LEGENDARY]x40k¿",
+    "message": "[Cozy James||BODY_SKIN|MYTHICAL],[Halloween||CHEST|MYTHICAL]x1500 for [Golden||CHEST|LEGENDARY]x40kÂ¿",
     "timestamp": "2026-05-06T03:18:06.243Z"
   },
   {
@@ -178,5 +178,29 @@
     },
     "message": ":V",
     "timestamp": "2026-05-06T03:20:11.919Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "WL7ZDTF6sjUV6FaPpRNfeKoPPBn2",
+      "shortId": "WIYC9V",
+      "name": "Heiko.",
+      "role": "USER",
+      "level": 28
+    },
+    "message": "[Gentleman||BODY_SKIN|MYTHICAL] is 35m",
+    "timestamp": "2026-05-06T03:20:41.306Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "WL7ZDTF6sjUV6FaPpRNfeKoPPBn2",
+      "shortId": "WIYC9V",
+      "name": "Heiko.",
+      "role": "USER",
+      "level": 28
+    },
+    "message": "tr [Cozy James||BODY_SKIN|MYTHICAL],[Halloween||CHEST|MYTHICAL]x1500 lf [Golden||CHEST|LEGENDARY]x40k",
+    "timestamp": "2026-05-06T03:21:13.935Z"
   }
 ]
