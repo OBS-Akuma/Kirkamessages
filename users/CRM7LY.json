@@ -56,7 +56,7 @@
       "role": "USER",
       "level": 99
     },
-    "message": "caramel estas ayÃÂÃÂ¿",
+    "message": "caramel estas ayÃÂÃÂÃÂÃÂ¿",
     "timestamp": "2026-05-05T23:36:56.019Z"
   },
   {
@@ -82,5 +82,29 @@
     },
     "message": "/price Endless",
     "timestamp": "2026-05-05T23:38:33.789Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "xD0pJiLgLydrB3SPJOMdY6qc6tZ2",
+      "shortId": "CRM7LY",
+      "name": "Heiko.",
+      "role": "USER",
+      "level": 99
+    },
+    "message": "/hm Mabel",
+    "timestamp": "2026-05-06T01:40:39.072Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "xD0pJiLgLydrB3SPJOMdY6qc6tZ2",
+      "shortId": "CRM7LY",
+      "name": "Heiko.",
+      "role": "USER",
+      "level": 99
+    },
+    "message": "caramel =D",
+    "timestamp": "2026-05-06T01:40:43.048Z"
   }
 ]
