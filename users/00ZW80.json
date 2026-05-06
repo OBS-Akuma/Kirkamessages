@@ -970,5 +970,17 @@
     },
     "message": "who has [Tiburon|Bayonet|WEAPON_SKIN|MYTHICAL]",
     "timestamp": "2026-05-06T00:30:24.864Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "99cc3bc0-e1e3-48ee-815b-9bfe1f7f7fe2",
+      "shortId": "00ZW80",
+      "name": "Newbie",
+      "role": "USER",
+      "level": 29
+    },
+    "message": "/enter",
+    "timestamp": "2026-05-06T00:38:56.010Z"
   }
 ]
