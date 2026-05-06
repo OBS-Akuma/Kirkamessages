@@ -118,5 +118,77 @@
     },
     "message": "k",
     "timestamp": "2026-05-06T03:06:40.523Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "bcb77265-e4df-4c6b-a6c3-32769bae62e9",
+      "shortId": "MORTAL",
+      "name": "Xoredore",
+      "role": "USER",
+      "level": 97
+    },
+    "message": "sure qwerty",
+    "timestamp": "2026-05-06T03:07:14.214Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "bcb77265-e4df-4c6b-a6c3-32769bae62e9",
+      "shortId": "MORTAL",
+      "name": "Xoredore",
+      "role": "USER",
+      "level": 97
+    },
+    "message": "qwerty i was offering warlord to shell xdd",
+    "timestamp": "2026-05-06T03:08:14.582Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "bcb77265-e4df-4c6b-a6c3-32769bae62e9",
+      "shortId": "MORTAL",
+      "name": "Xoredore",
+      "role": "USER",
+      "level": 97
+    },
+    "message": "LOLL",
+    "timestamp": "2026-05-06T03:08:27.564Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "bcb77265-e4df-4c6b-a6c3-32769bae62e9",
+      "shortId": "MORTAL",
+      "name": "Xoredore",
+      "role": "USER",
+      "level": 97
+    },
+    "message": "so u wantex [Oblivion|SCAR|WEAPON_SKIN|MYTHICAL] for [Liberty|VITA|WEAPON_SKIN|LEGENDARY]?",
+    "timestamp": "2026-05-06T03:08:58.331Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "bcb77265-e4df-4c6b-a6c3-32769bae62e9",
+      "shortId": "MORTAL",
+      "name": "Xoredore",
+      "role": "USER",
+      "level": 97
+    },
+    "message": "allr",
+    "timestamp": "2026-05-06T03:09:12.722Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "bcb77265-e4df-4c6b-a6c3-32769bae62e9",
+      "shortId": "MORTAL",
+      "name": "Xoredore",
+      "role": "USER",
+      "level": 97
+    },
+    "message": "alr",
+    "timestamp": "2026-05-06T03:09:14.822Z"
   }
 ]
