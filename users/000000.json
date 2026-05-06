@@ -1409,5 +1409,29 @@
     },
     "message": "/price koi",
     "timestamp": "2026-05-06T02:43:21.636Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "8f9423c1-73b5-46a4-969f-68ed04e8f0e8",
+      "shortId": "000000",
+      "name": "Daddy",
+      "role": "USER",
+      "level": 100
+    },
+    "message": "LF Wicked",
+    "timestamp": "2026-05-06T02:47:53.407Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "8f9423c1-73b5-46a4-969f-68ed04e8f0e8",
+      "shortId": "000000",
+      "name": "Daddy",
+      "role": "USER",
+      "level": 100
+    },
+    "message": "Wagering [Yuki||BODY_SKIN|MYTHICAL][Angel||BODY_SKIN|MYTHICAL][Lightning|AR-9|WEAPON_SKIN|EPIC][Hearts||BODY_SKIN|MYTHICAL][Gold Coins|Bayonet|WEAPON_SKIN|LEGENDARY][Saint Patrick|Shark|WEAPON_SKIN|LEGENDARY][Dreamscape|LAR|WEAPON_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-06T02:49:18.607Z"
   }
 ]
