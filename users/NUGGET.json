@@ -755,5 +755,17 @@
     },
     "message": "/inv",
     "timestamp": "2026-05-05T23:44:03.099Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "7f2a6090-abcb-48a7-8838-88ee8111b261",
+      "shortId": "NUGGET",
+      "name": "Akuma :3",
+      "role": "USER",
+      "level": 56
+    },
+    "message": "meow",
+    "timestamp": "2026-05-06T00:38:11.715Z"
   }
 ]
