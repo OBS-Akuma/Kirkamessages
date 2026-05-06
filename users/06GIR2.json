@@ -46,5 +46,17 @@
     },
     "message": "/hm [Rosy|VITA|WEAPON_SKIN|MYTHICAL]",
     "timestamp": "2026-05-06T01:52:42.597Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "9252167f-acb3-4f72-975f-49b97a8df81a",
+      "shortId": "06GIR2",
+      "name": "Mya!",
+      "role": "USER",
+      "level": 79
+    },
+    "message": "/hm [Mabel||BODY_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-06T02:12:15.410Z"
   }
 ]
