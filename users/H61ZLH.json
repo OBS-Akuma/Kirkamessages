@@ -994,5 +994,41 @@
     },
     "message": "gg",
     "timestamp": "2026-05-06T00:23:11.659Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "iDzsd49yqFTGnXi6Sv4GrC2ntX13",
+      "shortId": "H61ZLH",
+      "name": "Chuck",
+      "role": "USER",
+      "level": 88
+    },
+    "message": "/hm allighted",
+    "timestamp": "2026-05-06T02:19:05.522Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "iDzsd49yqFTGnXi6Sv4GrC2ntX13",
+      "shortId": "H61ZLH",
+      "name": "Chuck",
+      "role": "USER",
+      "level": 88
+    },
+    "message": "/hm a lit=ghted",
+    "timestamp": "2026-05-06T02:19:11.685Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "iDzsd49yqFTGnXi6Sv4GrC2ntX13",
+      "shortId": "H61ZLH",
+      "name": "Chuck",
+      "role": "USER",
+      "level": 88
+    },
+    "message": "/hm alighted",
+    "timestamp": "2026-05-06T02:19:16.449Z"
   }
 ]
