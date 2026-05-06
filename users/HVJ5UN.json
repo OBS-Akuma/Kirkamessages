@@ -34,5 +34,29 @@
     },
     "message": "/price [Lustre|Bayonet|WEAPON_SKIN|MYTHICAL]",
     "timestamp": "2026-05-06T01:39:16.998Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "85d2bfa0-b9b2-4b74-8a63-2c73dff06760",
+      "shortId": "HVJ5UN",
+      "name": ".......",
+      "role": "USER",
+      "level": 95
+    },
+    "message": "ty ty",
+    "timestamp": "2026-05-06T02:06:13.817Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "85d2bfa0-b9b2-4b74-8a63-2c73dff06760",
+      "shortId": "HVJ5UN",
+      "name": ".......",
+      "role": "USER",
+      "level": 95
+    },
+    "message": "idw",
+    "timestamp": "2026-05-06T02:06:36.525Z"
   }
 ]
