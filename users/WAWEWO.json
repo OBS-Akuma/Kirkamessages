@@ -22,5 +22,17 @@
     },
     "message": "/hm Forbiden",
     "timestamp": "2026-05-04T02:18:20.636Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "6b0e8c37-7d10-44bf-9e21-767626c29c0c",
+      "shortId": "WAWEWO",
+      "name": "xPicturesque.",
+      "role": "USER",
+      "level": 97
+    },
+    "message": "/enter",
+    "timestamp": "2026-05-06T01:40:06.454Z"
   }
 ]
