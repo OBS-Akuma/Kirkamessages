@@ -20,7 +20,67 @@
       "role": "USER",
       "level": 28
     },
-    "message": "¿",
+    "message": "Â¿",
     "timestamp": "2026-05-06T03:14:42.618Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "WL7ZDTF6sjUV6FaPpRNfeKoPPBn2",
+      "shortId": "WIYC9V",
+      "name": "Heiko.",
+      "role": "USER",
+      "level": 28
+    },
+    "message": "/price Sinister",
+    "timestamp": "2026-05-06T03:15:25.381Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "WL7ZDTF6sjUV6FaPpRNfeKoPPBn2",
+      "shortId": "WIYC9V",
+      "name": "Heiko.",
+      "role": "USER",
+      "level": 28
+    },
+    "message": "¿",
+    "timestamp": "2026-05-06T03:15:32.945Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "WL7ZDTF6sjUV6FaPpRNfeKoPPBn2",
+      "shortId": "WIYC9V",
+      "name": "Heiko.",
+      "role": "USER",
+      "level": 28
+    },
+    "message": ".",
+    "timestamp": "2026-05-06T03:16:11.029Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "WL7ZDTF6sjUV6FaPpRNfeKoPPBn2",
+      "shortId": "WIYC9V",
+      "name": "Heiko.",
+      "role": "USER",
+      "level": 28
+    },
+    "message": "nah",
+    "timestamp": "2026-05-06T03:16:12.223Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "WL7ZDTF6sjUV6FaPpRNfeKoPPBn2",
+      "shortId": "WIYC9V",
+      "name": "Heiko.",
+      "role": "USER",
+      "level": 28
+    },
+    "message": "me speak spanish",
+    "timestamp": "2026-05-06T03:16:29.856Z"
   }
 ]
