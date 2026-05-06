@@ -658,5 +658,17 @@
     },
     "message": "not for qod",
     "timestamp": "2026-05-06T02:24:50.886Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "4a9f515a-7058-4534-877a-d09773f0f911",
+      "shortId": "OZUAT1",
+      "name": "wasd",
+      "role": "USER",
+      "level": 99
+    },
+    "message": "trading [Proton Beam|LAR|WEAPON_SKIN|LEGENDARY][Nova|SCAR|WEAPON_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-06T03:21:34.210Z"
   }
 ]
