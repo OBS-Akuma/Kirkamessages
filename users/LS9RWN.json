@@ -94,5 +94,17 @@
     },
     "message": "tr[Paypay||BODY_SKIN|MYTHICAL]",
     "timestamp": "2026-05-06T02:42:04.219Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "47bc2863-0453-43dd-82cc-016ae19e3639",
+      "shortId": "LS9RWN",
+      "name": "Newbie",
+      "role": "USER",
+      "level": 34
+    },
+    "message": "tr [Paypay||BODY_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-06T02:48:23.759Z"
   }
 ]
