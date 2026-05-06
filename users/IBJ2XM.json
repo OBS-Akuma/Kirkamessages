@@ -1,0 +1,26 @@
+[
+  {
+    "type": 2,
+    "user": {
+      "id": "TJklp2rWrMVz3nKHI6IZ9FRSRM93",
+      "shortId": "IBJ2XM",
+      "name": "nikosami",
+      "role": "USER",
+      "level": 87
+    },
+    "message": "hola heiko",
+    "timestamp": "2026-05-06T01:41:09.988Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "TJklp2rWrMVz3nKHI6IZ9FRSRM93",
+      "shortId": "IBJ2XM",
+      "name": "nikosami",
+      "role": "USER",
+      "level": 87
+    },
+    "message": "hace rato no te veia",
+    "timestamp": "2026-05-06T01:41:14.736Z"
+  }
+]
