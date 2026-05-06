@@ -118,5 +118,29 @@
     },
     "message": "/enter",
     "timestamp": "2026-05-06T00:16:57.904Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "TpaHcMKpZ1Uh0sdDEu4UDAONcdS2",
+      "shortId": "KDH9KR",
+      "name": "strange",
+      "role": "USER",
+      "level": 43
+    },
+    "message": "bro there was a guy who had hallowkod and he wanted forbidden",
+    "timestamp": "2026-05-06T01:38:55.207Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "TpaHcMKpZ1Uh0sdDEu4UDAONcdS2",
+      "shortId": "KDH9KR",
+      "name": "strange",
+      "role": "USER",
+      "level": 43
+    },
+    "message": "where did he go",
+    "timestamp": "2026-05-06T01:38:58.481Z"
   }
 ]
