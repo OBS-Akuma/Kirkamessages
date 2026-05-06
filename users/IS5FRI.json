@@ -598,5 +598,65 @@
     },
     "message": "/hm scarey",
     "timestamp": "2026-05-05T05:24:19.812Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "5147fc60-a935-401f-aaf8-3b491777bac1",
+      "shortId": "IS5FRI",
+      "name": "EvilSpider111",
+      "role": "USER",
+      "level": 79
+    },
+    "message": "guys who have SCAREY?",
+    "timestamp": "2026-05-06T00:09:20.674Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "5147fc60-a935-401f-aaf8-3b491777bac1",
+      "shortId": "IS5FRI",
+      "name": "EvilSpider111",
+      "role": "USER",
+      "level": 79
+    },
+    "message": "/hm tiburon",
+    "timestamp": "2026-05-06T00:10:34.725Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "5147fc60-a935-401f-aaf8-3b491777bac1",
+      "shortId": "IS5FRI",
+      "name": "EvilSpider111",
+      "role": "USER",
+      "level": 79
+    },
+    "message": "/price tiburon",
+    "timestamp": "2026-05-06T00:10:54.517Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "5147fc60-a935-401f-aaf8-3b491777bac1",
+      "shortId": "IS5FRI",
+      "name": "EvilSpider111",
+      "role": "USER",
+      "level": 79
+    },
+    "message": "who have SCAREY¡",
+    "timestamp": "2026-05-06T00:11:19.261Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "5147fc60-a935-401f-aaf8-3b491777bac1",
+      "shortId": "IS5FRI",
+      "name": "EvilSpider111",
+      "role": "USER",
+      "level": 79
+    },
+    "message": "?",
+    "timestamp": "2026-05-06T00:11:21.224Z"
   }
 ]
