@@ -1,0 +1,38 @@
+[
+  {
+    "type": 2,
+    "user": {
+      "id": "85d2bfa0-b9b2-4b74-8a63-2c73dff06760",
+      "shortId": "HVJ5UN",
+      "name": ".......",
+      "role": "USER",
+      "level": 95
+    },
+    "message": "/pice [Lustre|Bayonet|WEAPON_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-06T01:38:54.478Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "85d2bfa0-b9b2-4b74-8a63-2c73dff06760",
+      "shortId": "HVJ5UN",
+      "name": ".......",
+      "role": "USER",
+      "level": 95
+    },
+    "message": ".",
+    "timestamp": "2026-05-06T01:39:10.989Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "85d2bfa0-b9b2-4b74-8a63-2c73dff06760",
+      "shortId": "HVJ5UN",
+      "name": ".......",
+      "role": "USER",
+      "level": 95
+    },
+    "message": "/price [Lustre|Bayonet|WEAPON_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-06T01:39:16.998Z"
+  }
+]
