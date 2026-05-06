@@ -1222,5 +1222,29 @@
     },
     "message": "Hm shell?",
     "timestamp": "2026-05-06T03:04:43.388Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "5d544b9e-5ca6-4638-b3a2-0318522e29af",
+      "shortId": "TRE873",
+      "name": "QWERTY",
+      "role": "USER",
+      "level": 66
+    },
+    "message": "I see",
+    "timestamp": "2026-05-06T03:05:22.519Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "5d544b9e-5ca6-4638-b3a2-0318522e29af",
+      "shortId": "TRE873",
+      "name": "QWERTY",
+      "role": "USER",
+      "level": 66
+    },
+    "message": "I do yes Xore",
+    "timestamp": "2026-05-06T03:06:18.679Z"
   }
 ]
