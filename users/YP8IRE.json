@@ -10,5 +10,53 @@
     },
     "message": "[Ornaments|Bayonet|WEAPON_SKIN|MYTHICAL]",
     "timestamp": "2026-05-01T20:13:29.414Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "fc6beb3f-3266-4926-af7f-d27a9fd34398",
+      "shortId": "YP8IRE",
+      "name": "Danis^Sx",
+      "role": "USER",
+      "level": 89
+    },
+    "message": "Tr [Rainy||BODY_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-06T03:10:15.275Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "fc6beb3f-3266-4926-af7f-d27a9fd34398",
+      "shortId": "YP8IRE",
+      "name": "Danis^Sx",
+      "role": "USER",
+      "level": 89
+    },
+    "message": "/price Ophelia",
+    "timestamp": "2026-05-06T03:10:48.794Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "fc6beb3f-3266-4926-af7f-d27a9fd34398",
+      "shortId": "YP8IRE",
+      "name": "Danis^Sx",
+      "role": "USER",
+      "level": 89
+    },
+    "message": "/price rainy",
+    "timestamp": "2026-05-06T03:10:54.913Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "fc6beb3f-3266-4926-af7f-d27a9fd34398",
+      "shortId": "YP8IRE",
+      "name": "Danis^Sx",
+      "role": "USER",
+      "level": 89
+    },
+    "message": "/inv",
+    "timestamp": "2026-05-06T03:11:30.140Z"
   }
 ]
