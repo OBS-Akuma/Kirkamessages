@@ -82,5 +82,113 @@
     },
     "message": "thats all",
     "timestamp": "2026-05-06T02:58:19.463Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "407c8457-a88c-495b-8540-9a63797d20ea",
+      "shortId": "BWXE30",
+      "name": "Nickeru-Chan",
+      "role": "USER",
+      "level": 65
+    },
+    "message": "Zyrex",
+    "timestamp": "2026-05-06T02:59:49.995Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "407c8457-a88c-495b-8540-9a63797d20ea",
+      "shortId": "BWXE30",
+      "name": "Nickeru-Chan",
+      "role": "USER",
+      "level": 65
+    },
+    "message": "Do u have [Bunny||BODY_SKIN|EPIC]?",
+    "timestamp": "2026-05-06T03:00:01.680Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "407c8457-a88c-495b-8540-9a63797d20ea",
+      "shortId": "BWXE30",
+      "name": "Nickeru-Chan",
+      "role": "USER",
+      "level": 65
+    },
+    "message": "no",
+    "timestamp": "2026-05-06T03:00:18.825Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "407c8457-a88c-495b-8540-9a63797d20ea",
+      "shortId": "BWXE30",
+      "name": "Nickeru-Chan",
+      "role": "USER",
+      "level": 65
+    },
+    "message": "na",
+    "timestamp": "2026-05-06T03:00:37.327Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "407c8457-a88c-495b-8540-9a63797d20ea",
+      "shortId": "BWXE30",
+      "name": "Nickeru-Chan",
+      "role": "USER",
+      "level": 65
+    },
+    "message": "/price rabit",
+    "timestamp": "2026-05-06T03:00:47.312Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "407c8457-a88c-495b-8540-9a63797d20ea",
+      "shortId": "BWXE30",
+      "name": "Nickeru-Chan",
+      "role": "USER",
+      "level": 65
+    },
+    "message": "/price rabbit",
+    "timestamp": "2026-05-06T03:00:52.596Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "407c8457-a88c-495b-8540-9a63797d20ea",
+      "shortId": "BWXE30",
+      "name": "Nickeru-Chan",
+      "role": "USER",
+      "level": 65
+    },
+    "message": "Trade?",
+    "timestamp": "2026-05-06T03:01:03.130Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "407c8457-a88c-495b-8540-9a63797d20ea",
+      "shortId": "BWXE30",
+      "name": "Nickeru-Chan",
+      "role": "USER",
+      "level": 65
+    },
+    "message": "or free?",
+    "timestamp": "2026-05-06T03:01:06.100Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "407c8457-a88c-495b-8540-9a63797d20ea",
+      "shortId": "BWXE30",
+      "name": "Nickeru-Chan",
+      "role": "USER",
+      "level": 65
+    },
+    "message": "for?",
+    "timestamp": "2026-05-06T03:01:13.932Z"
   }
 ]
