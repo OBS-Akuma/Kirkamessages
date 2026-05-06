@@ -1078,5 +1078,17 @@
     },
     "message": "Hmmm",
     "timestamp": "2026-05-04T08:17:21.498Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "5d544b9e-5ca6-4638-b3a2-0318522e29af",
+      "shortId": "TRE873",
+      "name": "QWERTY",
+      "role": "USER",
+      "level": 66
+    },
+    "message": "Sheref",
+    "timestamp": "2026-05-06T02:55:32.886Z"
   }
 ]
