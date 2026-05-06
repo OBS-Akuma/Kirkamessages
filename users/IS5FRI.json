@@ -644,7 +644,7 @@
       "role": "USER",
       "level": 79
     },
-    "message": "who have SCAREYÃÂÃÂ¡",
+    "message": "who have SCAREYÃÂÃÂÃÂÃÂ¡",
     "timestamp": "2026-05-06T00:11:19.261Z"
   },
   {
@@ -658,5 +658,53 @@
     },
     "message": "?",
     "timestamp": "2026-05-06T00:11:21.224Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "5147fc60-a935-401f-aaf8-3b491777bac1",
+      "shortId": "IS5FRI",
+      "name": "EvilSpider111",
+      "role": "USER",
+      "level": 79
+    },
+    "message": "hola heiko tienes scarey?",
+    "timestamp": "2026-05-06T02:22:23.895Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "5147fc60-a935-401f-aaf8-3b491777bac1",
+      "shortId": "IS5FRI",
+      "name": "EvilSpider111",
+      "role": "USER",
+      "level": 79
+    },
+    "message": "okey",
+    "timestamp": "2026-05-06T02:22:33.632Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "5147fc60-a935-401f-aaf8-3b491777bac1",
+      "shortId": "IS5FRI",
+      "name": "EvilSpider111",
+      "role": "USER",
+      "level": 79
+    },
+    "message": "y conoces a alguien que lo tenga?",
+    "timestamp": "2026-05-06T02:22:47.174Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "5147fc60-a935-401f-aaf8-3b491777bac1",
+      "shortId": "IS5FRI",
+      "name": "EvilSpider111",
+      "role": "USER",
+      "level": 79
+    },
+    "message": "ah okey gracias",
+    "timestamp": "2026-05-06T02:23:02.400Z"
   }
 ]
