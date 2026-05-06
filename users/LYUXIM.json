@@ -298,5 +298,17 @@
     },
     "message": "/price vintage",
     "timestamp": "2026-05-04T07:58:23.504Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "fddeb704-c4e4-4f50-8a81-28c407f6d5da",
+      "shortId": "LYUXIM",
+      "name": "tstep",
+      "role": "USER",
+      "level": 98
+    },
+    "message": "lf static",
+    "timestamp": "2026-05-06T03:12:27.432Z"
   }
 ]
