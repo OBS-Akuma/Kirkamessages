@@ -778,5 +778,17 @@
     },
     "message": "/cancelwager",
     "timestamp": "2026-05-04T07:58:15.773Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "3fb2d1de-e6d5-4444-8c6c-1b84cc290d78",
+      "shortId": "WHYLIE",
+      "name": "Debonaire",
+      "role": "USER",
+      "level": 80
+    },
+    "message": "/mywager",
+    "timestamp": "2026-05-06T01:46:29.861Z"
   }
 ]
