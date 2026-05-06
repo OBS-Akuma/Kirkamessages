@@ -106,5 +106,29 @@
     },
     "message": "thanks",
     "timestamp": "2026-05-06T01:49:56.349Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "22323f5b-b8e2-4134-8ab8-a488356efe8f",
+      "shortId": "GQ7X12",
+      "name": "jardin",
+      "role": "USER",
+      "level": 81
+    },
+    "message": "/hm [Alighted|Bayonet|WEAPON_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-06T02:11:44.906Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "22323f5b-b8e2-4134-8ab8-a488356efe8f",
+      "shortId": "GQ7X12",
+      "name": "jardin",
+      "role": "USER",
+      "level": 81
+    },
+    "message": "/hm [Rar|LAR|WEAPON_SKIN|LEGENDARY]",
+    "timestamp": "2026-05-06T02:12:08.727Z"
   }
 ]
