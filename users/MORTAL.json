@@ -250,5 +250,17 @@
     },
     "message": "LF [Liberty|VITA|WEAPON_SKIN|LEGENDARY]",
     "timestamp": "2026-05-06T03:15:02.187Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "bcb77265-e4df-4c6b-a6c3-32769bae62e9",
+      "shortId": "MORTAL",
+      "name": "Xoredore",
+      "role": "USER",
+      "level": 97
+    },
+    "message": "e",
+    "timestamp": "2026-05-06T03:21:37.120Z"
   }
 ]
