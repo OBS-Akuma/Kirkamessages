@@ -82,5 +82,29 @@
     },
     "message": "/price [Distortion|MAC-10|WEAPON_SKIN|MYTHICAL]",
     "timestamp": "2026-05-06T01:48:37.603Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "22323f5b-b8e2-4134-8ab8-a488356efe8f",
+      "shortId": "GQ7X12",
+      "name": "jardin",
+      "role": "USER",
+      "level": 81
+    },
+    "message": "/price [Distortion|MAC-10|WEAPON_SKIN|MYTHICAL]_",
+    "timestamp": "2026-05-06T01:49:19.473Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "22323f5b-b8e2-4134-8ab8-a488356efe8f",
+      "shortId": "GQ7X12",
+      "name": "jardin",
+      "role": "USER",
+      "level": 81
+    },
+    "message": "thanks",
+    "timestamp": "2026-05-06T01:49:56.349Z"
   }
 ]
