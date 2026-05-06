@@ -118,5 +118,17 @@
     },
     "message": "#EHPSUQ how u not lose",
     "timestamp": "2026-05-06T01:46:26.781Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "70184f38-6b61-4ca3-bf66-2cdbc3f42f1b",
+      "shortId": "Z1WXJR",
+      "name": "ZouD",
+      "role": "USER",
+      "level": 43
+    },
+    "message": "/tr offer",
+    "timestamp": "2026-05-06T01:47:56.193Z"
   }
 ]
