@@ -502,5 +502,161 @@
     },
     "message": "gg ty",
     "timestamp": "2026-05-04T04:54:56.972Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "4a9f515a-7058-4534-877a-d09773f0f911",
+      "shortId": "OZUAT1",
+      "name": "wasd",
+      "role": "USER",
+      "level": 99
+    },
+    "message": "[Sculpture||BODY_SKIN|MYTHICAL] has 10 less units than [Qod||BODY_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-06T02:19:15.522Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "4a9f515a-7058-4534-877a-d09773f0f911",
+      "shortId": "OZUAT1",
+      "name": "wasd",
+      "role": "USER",
+      "level": 99
+    },
+    "message": "and i still think [Sculpture||BODY_SKIN|MYTHICAL] looks better",
+    "timestamp": "2026-05-06T02:19:34.925Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "4a9f515a-7058-4534-877a-d09773f0f911",
+      "shortId": "OZUAT1",
+      "name": "wasd",
+      "role": "USER",
+      "level": 99
+    },
+    "message": "[Sculpture||BODY_SKIN|MYTHICAL][Angel||BODY_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-06T02:20:56.213Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "4a9f515a-7058-4534-877a-d09773f0f911",
+      "shortId": "OZUAT1",
+      "name": "wasd",
+      "role": "USER",
+      "level": 99
+    },
+    "message": "/price [Anarchy|VITA|WEAPON_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-06T02:21:39.796Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "4a9f515a-7058-4534-877a-d09773f0f911",
+      "shortId": "OZUAT1",
+      "name": "wasd",
+      "role": "USER",
+      "level": 99
+    },
+    "message": "/price [Rosed|VITA|WEAPON_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-06T02:21:41.963Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "4a9f515a-7058-4534-877a-d09773f0f911",
+      "shortId": "OZUAT1",
+      "name": "wasd",
+      "role": "USER",
+      "level": 99
+    },
+    "message": "/price [Sinister||BODY_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-06T02:21:44.325Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "4a9f515a-7058-4534-877a-d09773f0f911",
+      "shortId": "OZUAT1",
+      "name": "wasd",
+      "role": "USER",
+      "level": 99
+    },
+    "message": "no",
+    "timestamp": "2026-05-06T02:22:32.879Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "4a9f515a-7058-4534-877a-d09773f0f911",
+      "shortId": "OZUAT1",
+      "name": "wasd",
+      "role": "USER",
+      "level": 99
+    },
+    "message": "[Wolfy||BODY_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-06T02:23:11.217Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "4a9f515a-7058-4534-877a-d09773f0f911",
+      "shortId": "OZUAT1",
+      "name": "wasd",
+      "role": "USER",
+      "level": 99
+    },
+    "message": "i dont have adds",
+    "timestamp": "2026-05-06T02:23:15.271Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "4a9f515a-7058-4534-877a-d09773f0f911",
+      "shortId": "OZUAT1",
+      "name": "wasd",
+      "role": "USER",
+      "level": 99
+    },
+    "message": "nty",
+    "timestamp": "2026-05-06T02:24:10.706Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "4a9f515a-7058-4534-877a-d09773f0f911",
+      "shortId": "OZUAT1",
+      "name": "wasd",
+      "role": "USER",
+      "level": 99
+    },
+    "message": "/inv",
+    "timestamp": "2026-05-06T02:24:26.871Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "4a9f515a-7058-4534-877a-d09773f0f911",
+      "shortId": "OZUAT1",
+      "name": "wasd",
+      "role": "USER",
+      "level": 99
+    },
+    "message": "trading [Nova|SCAR|WEAPON_SKIN|MYTHICAL][Shiver||BODY_SKIN|MYTHICAL][Proton Beam|LAR|WEAPON_SKIN|LEGENDARY]",
+    "timestamp": "2026-05-06T02:24:32.152Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "4a9f515a-7058-4534-877a-d09773f0f911",
+      "shortId": "OZUAT1",
+      "name": "wasd",
+      "role": "USER",
+      "level": 99
+    },
+    "message": "not for qod",
+    "timestamp": "2026-05-06T02:24:50.886Z"
   }
 ]
