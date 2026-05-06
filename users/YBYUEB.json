@@ -34,5 +34,41 @@
     },
     "message": "fg",
     "timestamp": "2026-05-03T15:56:33.600Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "zgt34rymSsY96gZS0tTzLR0OnLA2",
+      "shortId": "YBYUEB",
+      "name": "Blood_Hunt|RpG",
+      "role": "USER",
+      "level": 83
+    },
+    "message": "tr [Tiburon|Bayonet|WEAPON_SKIN|MYTHICAL],[Ortus|Revolver|WEAPON_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-06T01:47:50.926Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "zgt34rymSsY96gZS0tTzLR0OnLA2",
+      "shortId": "YBYUEB",
+      "name": "Blood_Hunt|RpG",
+      "role": "USER",
+      "level": 83
+    },
+    "message": "serrious?",
+    "timestamp": "2026-05-06T01:48:20.607Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "zgt34rymSsY96gZS0tTzLR0OnLA2",
+      "shortId": "YBYUEB",
+      "name": "Blood_Hunt|RpG",
+      "role": "USER",
+      "level": 83
+    },
+    "message": "accept",
+    "timestamp": "2026-05-06T01:49:35.188Z"
   }
 ]
