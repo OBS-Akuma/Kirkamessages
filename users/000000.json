@@ -221,5 +221,617 @@
     },
     "message": "/locate wood",
     "timestamp": "2026-05-05T05:09:21.050Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "8f9423c1-73b5-46a4-969f-68ed04e8f0e8",
+      "shortId": "000000",
+      "name": "Daddy",
+      "role": "USER",
+      "level": 100
+    },
+    "message": "/wager [Phantom||BODY_SKIN|MYTHICAL] #00ZW80",
+    "timestamp": "2026-05-06T00:07:17.286Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "8f9423c1-73b5-46a4-969f-68ed04e8f0e8",
+      "shortId": "000000",
+      "name": "Daddy",
+      "role": "USER",
+      "level": 100
+    },
+    "message": "/cancelwager",
+    "timestamp": "2026-05-06T00:07:35.181Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "8f9423c1-73b5-46a4-969f-68ed04e8f0e8",
+      "shortId": "000000",
+      "name": "Daddy",
+      "role": "USER",
+      "level": 100
+    },
+    "message": "./inv",
+    "timestamp": "2026-05-06T00:07:43.998Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "8f9423c1-73b5-46a4-969f-68ed04e8f0e8",
+      "shortId": "000000",
+      "name": "Daddy",
+      "role": "USER",
+      "level": 100
+    },
+    "message": "/wager [Phantom||BODY_SKIN|MYTHICAL] #00ZW80",
+    "timestamp": "2026-05-06T00:08:19.422Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "8f9423c1-73b5-46a4-969f-68ed04e8f0e8",
+      "shortId": "000000",
+      "name": "Daddy",
+      "role": "USER",
+      "level": 100
+    },
+    "message": "/inv #E779VY",
+    "timestamp": "2026-05-06T00:08:25.178Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "8f9423c1-73b5-46a4-969f-68ed04e8f0e8",
+      "shortId": "000000",
+      "name": "Daddy",
+      "role": "USER",
+      "level": 100
+    },
+    "message": "#E779VY wager sp?",
+    "timestamp": "2026-05-06T00:09:20.444Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "8f9423c1-73b5-46a4-969f-68ed04e8f0e8",
+      "shortId": "000000",
+      "name": "Daddy",
+      "role": "USER",
+      "level": 100
+    },
+    "message": "Always wager",
+    "timestamp": "2026-05-06T00:09:37.365Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "8f9423c1-73b5-46a4-969f-68ed04e8f0e8",
+      "shortId": "000000",
+      "name": "Daddy",
+      "role": "USER",
+      "level": 100
+    },
+    "message": "/cancelwager",
+    "timestamp": "2026-05-06T00:11:51.392Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "8f9423c1-73b5-46a4-969f-68ed04e8f0e8",
+      "shortId": "000000",
+      "name": "Daddy",
+      "role": "USER",
+      "level": 100
+    },
+    "message": "/wager [Mabel||BODY_SKIN|MYTHICAL] #8KK5DM",
+    "timestamp": "2026-05-06T00:12:00.686Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "8f9423c1-73b5-46a4-969f-68ed04e8f0e8",
+      "shortId": "000000",
+      "name": "Daddy",
+      "role": "USER",
+      "level": 100
+    },
+    "message": "I'm so deep in the hole, I've lost so much recently",
+    "timestamp": "2026-05-06T00:12:44.463Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "8f9423c1-73b5-46a4-969f-68ed04e8f0e8",
+      "shortId": "000000",
+      "name": "Daddy",
+      "role": "USER",
+      "level": 100
+    },
+    "message": "gg",
+    "timestamp": "2026-05-06T00:13:44.569Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "8f9423c1-73b5-46a4-969f-68ed04e8f0e8",
+      "shortId": "000000",
+      "name": "Daddy",
+      "role": "USER",
+      "level": 100
+    },
+    "message": "/claim",
+    "timestamp": "2026-05-06T00:13:49.047Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "8f9423c1-73b5-46a4-969f-68ed04e8f0e8",
+      "shortId": "000000",
+      "name": "Daddy",
+      "role": "USER",
+      "level": 100
+    },
+    "message": "im rich",
+    "timestamp": "2026-05-06T00:14:03.321Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "8f9423c1-73b5-46a4-969f-68ed04e8f0e8",
+      "shortId": "000000",
+      "name": "Daddy",
+      "role": "USER",
+      "level": 100
+    },
+    "message": "/wager [Golden||CHEST|LEGENDARY]x100 #H61ZLH",
+    "timestamp": "2026-05-06T00:14:59.091Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "8f9423c1-73b5-46a4-969f-68ed04e8f0e8",
+      "shortId": "000000",
+      "name": "Daddy",
+      "role": "USER",
+      "level": 100
+    },
+    "message": "gg",
+    "timestamp": "2026-05-06T00:15:57.226Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "8f9423c1-73b5-46a4-969f-68ed04e8f0e8",
+      "shortId": "000000",
+      "name": "Daddy",
+      "role": "USER",
+      "level": 100
+    },
+    "message": "/claim",
+    "timestamp": "2026-05-06T00:15:59.637Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "8f9423c1-73b5-46a4-969f-68ed04e8f0e8",
+      "shortId": "000000",
+      "name": "Daddy",
+      "role": "USER",
+      "level": 100
+    },
+    "message": "ello",
+    "timestamp": "2026-05-06T00:16:31.529Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "8f9423c1-73b5-46a4-969f-68ed04e8f0e8",
+      "shortId": "000000",
+      "name": "Daddy",
+      "role": "USER",
+      "level": 100
+    },
+    "message": "/wager [Golden||CHEST|LEGENDARY]x200 #H61ZLH",
+    "timestamp": "2026-05-06T00:16:44.081Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "8f9423c1-73b5-46a4-969f-68ed04e8f0e8",
+      "shortId": "000000",
+      "name": "Daddy",
+      "role": "USER",
+      "level": 100
+    },
+    "message": "/enter",
+    "timestamp": "2026-05-06T00:17:12.388Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "8f9423c1-73b5-46a4-969f-68ed04e8f0e8",
+      "shortId": "000000",
+      "name": "Daddy",
+      "role": "USER",
+      "level": 100
+    },
+    "message": "gg",
+    "timestamp": "2026-05-06T00:17:16.285Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "8f9423c1-73b5-46a4-969f-68ed04e8f0e8",
+      "shortId": "000000",
+      "name": "Daddy",
+      "role": "USER",
+      "level": 100
+    },
+    "message": "/claim",
+    "timestamp": "2026-05-06T00:17:17.494Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "8f9423c1-73b5-46a4-969f-68ed04e8f0e8",
+      "shortId": "000000",
+      "name": "Daddy",
+      "role": "USER",
+      "level": 100
+    },
+    "message": "/claIm",
+    "timestamp": "2026-05-06T00:17:25.191Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "8f9423c1-73b5-46a4-969f-68ed04e8f0e8",
+      "shortId": "000000",
+      "name": "Daddy",
+      "role": "USER",
+      "level": 100
+    },
+    "message": "/giveway wood 10",
+    "timestamp": "2026-05-06T00:17:56.374Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "8f9423c1-73b5-46a4-969f-68ed04e8f0e8",
+      "shortId": "000000",
+      "name": "Daddy",
+      "role": "USER",
+      "level": 100
+    },
+    "message": "/giveaway wood 10",
+    "timestamp": "2026-05-06T00:18:00.865Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "8f9423c1-73b5-46a4-969f-68ed04e8f0e8",
+      "shortId": "000000",
+      "name": "Daddy",
+      "role": "USER",
+      "level": 100
+    },
+    "message": "/giveaway [Wood||CHEST|COMMON] 10",
+    "timestamp": "2026-05-06T00:18:06.291Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "8f9423c1-73b5-46a4-969f-68ed04e8f0e8",
+      "shortId": "000000",
+      "name": "Daddy",
+      "role": "USER",
+      "level": 100
+    },
+    "message": "Wagering [Yuki||BODY_SKIN|MYTHICAL][Angel||BODY_SKIN|MYTHICAL][Lightning|AR-9|WEAPON_SKIN|EPIC][Hearts||BODY_SKIN|MYTHICAL][Gold Coins|Bayonet|WEAPON_SKIN|LEGENDARY][Saint Patrick|Shark|WEAPON_SKIN|LEGENDARY][Dreamscape|LAR|WEAPON_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-06T00:18:45.629Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "8f9423c1-73b5-46a4-969f-68ed04e8f0e8",
+      "shortId": "000000",
+      "name": "Daddy",
+      "role": "USER",
+      "level": 100
+    },
+    "message": "/wager [Retro|Bayonet|WEAPON_SKIN|MYTHICAL] #1KVELO",
+    "timestamp": "2026-05-06T00:19:00.070Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "8f9423c1-73b5-46a4-969f-68ed04e8f0e8",
+      "shortId": "000000",
+      "name": "Daddy",
+      "role": "USER",
+      "level": 100
+    },
+    "message": "ello",
+    "timestamp": "2026-05-06T00:19:07.805Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "8f9423c1-73b5-46a4-969f-68ed04e8f0e8",
+      "shortId": "000000",
+      "name": "Daddy",
+      "role": "USER",
+      "level": 100
+    },
+    "message": "/price gore",
+    "timestamp": "2026-05-06T00:19:17.328Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "8f9423c1-73b5-46a4-969f-68ed04e8f0e8",
+      "shortId": "000000",
+      "name": "Daddy",
+      "role": "USER",
+      "level": 100
+    },
+    "message": "#QM1SZL no ty",
+    "timestamp": "2026-05-06T00:19:25.864Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "8f9423c1-73b5-46a4-969f-68ed04e8f0e8",
+      "shortId": "000000",
+      "name": "Daddy",
+      "role": "USER",
+      "level": 100
+    },
+    "message": "again",
+    "timestamp": "2026-05-06T00:19:40.854Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "8f9423c1-73b5-46a4-969f-68ed04e8f0e8",
+      "shortId": "000000",
+      "name": "Daddy",
+      "role": "USER",
+      "level": 100
+    },
+    "message": "commands have a cooldown",
+    "timestamp": "2026-05-06T00:19:46.388Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "8f9423c1-73b5-46a4-969f-68ed04e8f0e8",
+      "shortId": "000000",
+      "name": "Daddy",
+      "role": "USER",
+      "level": 100
+    },
+    "message": "gg",
+    "timestamp": "2026-05-06T00:20:27.817Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "8f9423c1-73b5-46a4-969f-68ed04e8f0e8",
+      "shortId": "000000",
+      "name": "Daddy",
+      "role": "USER",
+      "level": 100
+    },
+    "message": "/claim",
+    "timestamp": "2026-05-06T00:20:28.967Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "8f9423c1-73b5-46a4-969f-68ed04e8f0e8",
+      "shortId": "000000",
+      "name": "Daddy",
+      "role": "USER",
+      "level": 100
+    },
+    "message": "I don't have cyb3r]",
+    "timestamp": "2026-05-06T00:20:47.092Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "8f9423c1-73b5-46a4-969f-68ed04e8f0e8",
+      "shortId": "000000",
+      "name": "Daddy",
+      "role": "USER",
+      "level": 100
+    },
+    "message": "Nope, lost them both to wagers lol",
+    "timestamp": "2026-05-06T00:21:03.252Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "8f9423c1-73b5-46a4-969f-68ed04e8f0e8",
+      "shortId": "000000",
+      "name": "Daddy",
+      "role": "USER",
+      "level": 100
+    },
+    "message": "/wager [Underwater|AR-9|WEAPON_SKIN|MYTHICAL] #1KVELO",
+    "timestamp": "2026-05-06T00:21:08.897Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "8f9423c1-73b5-46a4-969f-68ed04e8f0e8",
+      "shortId": "000000",
+      "name": "Daddy",
+      "role": "USER",
+      "level": 100
+    },
+    "message": "/cancelwager",
+    "timestamp": "2026-05-06T00:21:15.318Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "8f9423c1-73b5-46a4-969f-68ed04e8f0e8",
+      "shortId": "000000",
+      "name": "Daddy",
+      "role": "USER",
+      "level": 100
+    },
+    "message": "I don't have 2206",
+    "timestamp": "2026-05-06T00:21:20.061Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "8f9423c1-73b5-46a4-969f-68ed04e8f0e8",
+      "shortId": "000000",
+      "name": "Daddy",
+      "role": "USER",
+      "level": 100
+    },
+    "message": "2026",
+    "timestamp": "2026-05-06T00:21:21.855Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "8f9423c1-73b5-46a4-969f-68ed04e8f0e8",
+      "shortId": "000000",
+      "name": "Daddy",
+      "role": "USER",
+      "level": 100
+    },
+    "message": "/wager [Underwater|AR-9|WEAPON_SKIN|MYTHICAL] #1KVELO",
+    "timestamp": "2026-05-06T00:21:27.663Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "8f9423c1-73b5-46a4-969f-68ed04e8f0e8",
+      "shortId": "000000",
+      "name": "Daddy",
+      "role": "USER",
+      "level": 100
+    },
+    "message": "gg",
+    "timestamp": "2026-05-06T00:21:54.293Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "8f9423c1-73b5-46a4-969f-68ed04e8f0e8",
+      "shortId": "000000",
+      "name": "Daddy",
+      "role": "USER",
+      "level": 100
+    },
+    "message": "/claim",
+    "timestamp": "2026-05-06T00:21:55.686Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "8f9423c1-73b5-46a4-969f-68ed04e8f0e8",
+      "shortId": "000000",
+      "name": "Daddy",
+      "role": "USER",
+      "level": 100
+    },
+    "message": "I don't have any ice",
+    "timestamp": "2026-05-06T00:22:28.660Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "8f9423c1-73b5-46a4-969f-68ed04e8f0e8",
+      "shortId": "000000",
+      "name": "Daddy",
+      "role": "USER",
+      "level": 100
+    },
+    "message": "You can't make 5m gws",
+    "timestamp": "2026-05-06T00:23:12.128Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "8f9423c1-73b5-46a4-969f-68ed04e8f0e8",
+      "shortId": "000000",
+      "name": "Daddy",
+      "role": "USER",
+      "level": 100
+    },
+    "message": "Unless skywalk changed it",
+    "timestamp": "2026-05-06T00:23:17.318Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "8f9423c1-73b5-46a4-969f-68ed04e8f0e8",
+      "shortId": "000000",
+      "name": "Daddy",
+      "role": "USER",
+      "level": 100
+    },
+    "message": "#1KVELO Nothing, I'm poor",
+    "timestamp": "2026-05-06T00:23:30.675Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "8f9423c1-73b5-46a4-969f-68ed04e8f0e8",
+      "shortId": "000000",
+      "name": "Daddy",
+      "role": "USER",
+      "level": 100
+    },
+    "message": "/inv #1KVELO",
+    "timestamp": "2026-05-06T00:23:47.638Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "8f9423c1-73b5-46a4-969f-68ed04e8f0e8",
+      "shortId": "000000",
+      "name": "Daddy",
+      "role": "USER",
+      "level": 100
+    },
+    "message": "Wagering [Yuki||BODY_SKIN|MYTHICAL][Angel||BODY_SKIN|MYTHICAL][Lightning|AR-9|WEAPON_SKIN|EPIC][Hearts||BODY_SKIN|MYTHICAL][Gold Coins|Bayonet|WEAPON_SKIN|LEGENDARY][Saint Patrick|Shark|WEAPON_SKIN|LEGENDARY][Dreamscape|LAR|WEAPON_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-06T00:25:11.255Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "8f9423c1-73b5-46a4-969f-68ed04e8f0e8",
+      "shortId": "000000",
+      "name": "Daddy",
+      "role": "USER",
+      "level": 100
+    },
+    "message": "/enter",
+    "timestamp": "2026-05-06T00:25:14.317Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "8f9423c1-73b5-46a4-969f-68ed04e8f0e8",
+      "shortId": "000000",
+      "name": "Daddy",
+      "role": "USER",
+      "level": 100
+    },
+    "message": "#NOBODY today is the day",
+    "timestamp": "2026-05-06T00:27:19.361Z"
   }
 ]
