@@ -262,5 +262,41 @@
     },
     "message": "can I join elder",
     "timestamp": "2026-05-06T00:09:06.712Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "4640c5e7-8889-4f71-8446-a54180b81f7c",
+      "shortId": "KLBFGG",
+      "name": "keyboard",
+      "role": "USER",
+      "level": 77
+    },
+    "message": "/wager [Golden||CHEST|LEGENDARY]x500 #Z1WXJR",
+    "timestamp": "2026-05-06T01:43:15.047Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "4640c5e7-8889-4f71-8446-a54180b81f7c",
+      "shortId": "KLBFGG",
+      "name": "keyboard",
+      "role": "USER",
+      "level": 77
+    },
+    "message": "gg",
+    "timestamp": "2026-05-06T01:43:55.355Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "4640c5e7-8889-4f71-8446-a54180b81f7c",
+      "shortId": "KLBFGG",
+      "name": "keyboard",
+      "role": "USER",
+      "level": 77
+    },
+    "message": "#QM1SZL [Biker||BODY_SKIN|MYTHICAL]?",
+    "timestamp": "2026-05-06T01:46:42.057Z"
   }
 ]
