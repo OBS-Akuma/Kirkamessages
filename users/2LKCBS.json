@@ -154,5 +154,29 @@
     },
     "message": "por q tu nombre es de color azul?",
     "timestamp": "2026-05-06T02:59:54.326Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "7907ed30-1e73-4c45-bb34-bac989e7e742",
+      "shortId": "2LKCBS",
+      "name": "XDXDXDXDXDXD",
+      "role": "USER",
+      "level": 61
+    },
+    "message": "ESCOBAR",
+    "timestamp": "2026-05-06T03:25:26.050Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "7907ed30-1e73-4c45-bb34-bac989e7e742",
+      "shortId": "2LKCBS",
+      "name": "XDXDXDXDXDXD",
+      "role": "USER",
+      "level": 61
+    },
+    "message": "pvp 1v1",
+    "timestamp": "2026-05-06T03:25:38.641Z"
   }
 ]
