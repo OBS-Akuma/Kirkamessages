@@ -1,0 +1,86 @@
+[
+  {
+    "type": 2,
+    "user": {
+      "id": "22323f5b-b8e2-4134-8ab8-a488356efe8f",
+      "shortId": "GQ7X12",
+      "name": "jardin",
+      "role": "USER",
+      "level": 81
+    },
+    "message": "/price [astranova]",
+    "timestamp": "2026-05-06T01:44:01.309Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "22323f5b-b8e2-4134-8ab8-a488356efe8f",
+      "shortId": "GQ7X12",
+      "name": "jardin",
+      "role": "USER",
+      "level": 81
+    },
+    "message": "/price [Astronova|LAR|WEAPON_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-06T01:44:46.755Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "22323f5b-b8e2-4134-8ab8-a488356efe8f",
+      "shortId": "GQ7X12",
+      "name": "jardin",
+      "role": "USER",
+      "level": 81
+    },
+    "message": "/price [Lis|Revolver|WEAPON_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-06T01:45:19.086Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "22323f5b-b8e2-4134-8ab8-a488356efe8f",
+      "shortId": "GQ7X12",
+      "name": "jardin",
+      "role": "USER",
+      "level": 81
+    },
+    "message": "/price [Astronova|LAR|WEAPON_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-06T01:45:29.155Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "22323f5b-b8e2-4134-8ab8-a488356efe8f",
+      "shortId": "GQ7X12",
+      "name": "jardin",
+      "role": "USER",
+      "level": 81
+    },
+    "message": "/price [Scarey|SCAR|WEAPON_SKIN|EPIC]",
+    "timestamp": "2026-05-06T01:46:00.676Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "22323f5b-b8e2-4134-8ab8-a488356efe8f",
+      "shortId": "GQ7X12",
+      "name": "jardin",
+      "role": "USER",
+      "level": 81
+    },
+    "message": "/price [Spooder|Shark|WEAPON_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-06T01:46:26.052Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "22323f5b-b8e2-4134-8ab8-a488356efe8f",
+      "shortId": "GQ7X12",
+      "name": "jardin",
+      "role": "USER",
+      "level": 81
+    },
+    "message": "/price [Distortion|MAC-10|WEAPON_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-06T01:48:37.603Z"
+  }
+]
