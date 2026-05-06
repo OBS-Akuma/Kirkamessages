@@ -1090,5 +1090,89 @@
     },
     "message": "Sheref",
     "timestamp": "2026-05-06T02:55:32.886Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "5d544b9e-5ca6-4638-b3a2-0318522e29af",
+      "shortId": "TRE873",
+      "name": "QWERTY",
+      "role": "USER",
+      "level": 66
+    },
+    "message": "Nickeru do u want [Arachne|VITA|WEAPON_SKIN|MYTHICAL]?",
+    "timestamp": "2026-05-06T03:00:08.161Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "5d544b9e-5ca6-4638-b3a2-0318522e29af",
+      "shortId": "TRE873",
+      "name": "QWERTY",
+      "role": "USER",
+      "level": 66
+    },
+    "message": "[Rabbit|Shark|WEAPON_SKIN|MYTHICAL] do u want?",
+    "timestamp": "2026-05-06T03:00:26.764Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "5d544b9e-5ca6-4638-b3a2-0318522e29af",
+      "shortId": "TRE873",
+      "name": "QWERTY",
+      "role": "USER",
+      "level": 66
+    },
+    "message": "I see",
+    "timestamp": "2026-05-06T03:00:42.869Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "5d544b9e-5ca6-4638-b3a2-0318522e29af",
+      "shortId": "TRE873",
+      "name": "QWERTY",
+      "role": "USER",
+      "level": 66
+    },
+    "message": "[Pastel||BODY_SKIN|MYTHICAL] you want?",
+    "timestamp": "2026-05-06T03:00:50.737Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "5d544b9e-5ca6-4638-b3a2-0318522e29af",
+      "shortId": "TRE873",
+      "name": "QWERTY",
+      "role": "USER",
+      "level": 66
+    },
+    "message": "Yes",
+    "timestamp": "2026-05-06T03:01:06.450Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "5d544b9e-5ca6-4638-b3a2-0318522e29af",
+      "shortId": "TRE873",
+      "name": "QWERTY",
+      "role": "USER",
+      "level": 66
+    },
+    "message": "Trade",
+    "timestamp": "2026-05-06T03:01:09.993Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "5d544b9e-5ca6-4638-b3a2-0318522e29af",
+      "shortId": "TRE873",
+      "name": "QWERTY",
+      "role": "USER",
+      "level": 66
+    },
+    "message": "What can u offer?",
+    "timestamp": "2026-05-06T03:01:43.994Z"
   }
 ]
