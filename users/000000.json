@@ -1337,5 +1337,77 @@
     },
     "message": "1",
     "timestamp": "2026-05-06T02:39:47.752Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "8f9423c1-73b5-46a4-969f-68ed04e8f0e8",
+      "shortId": "000000",
+      "name": "Daddy",
+      "role": "USER",
+      "level": 100
+    },
+    "message": "/CANCELWAGER",
+    "timestamp": "2026-05-06T02:41:35.648Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "8f9423c1-73b5-46a4-969f-68ed04e8f0e8",
+      "shortId": "000000",
+      "name": "Daddy",
+      "role": "USER",
+      "level": 100
+    },
+    "message": "LF Wicked",
+    "timestamp": "2026-05-06T02:41:41.469Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "8f9423c1-73b5-46a4-969f-68ed04e8f0e8",
+      "shortId": "000000",
+      "name": "Daddy",
+      "role": "USER",
+      "level": 100
+    },
+    "message": "/wager [Koi|Bayonet|WEAPON_SKIN|MYTHICAL] #Z97DD0",
+    "timestamp": "2026-05-06T02:42:29.078Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "8f9423c1-73b5-46a4-969f-68ed04e8f0e8",
+      "shortId": "000000",
+      "name": "Daddy",
+      "role": "USER",
+      "level": 100
+    },
+    "message": "/cancelwager",
+    "timestamp": "2026-05-06T02:42:54.595Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "8f9423c1-73b5-46a4-969f-68ed04e8f0e8",
+      "shortId": "000000",
+      "name": "Daddy",
+      "role": "USER",
+      "level": 100
+    },
+    "message": "#Z97DD0 [Gold Coins|Bayonet|WEAPON_SKIN|LEGENDARY] for 2x[Koi|Bayonet|WEAPON_SKIN|MYTHICAL]?",
+    "timestamp": "2026-05-06T02:43:06.992Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "8f9423c1-73b5-46a4-969f-68ed04e8f0e8",
+      "shortId": "000000",
+      "name": "Daddy",
+      "role": "USER",
+      "level": 100
+    },
+    "message": "/price koi",
+    "timestamp": "2026-05-06T02:43:21.636Z"
   }
 ]
