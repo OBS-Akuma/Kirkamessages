@@ -1150,5 +1150,41 @@
     },
     "message": "nty",
     "timestamp": "2026-05-06T03:18:11.421Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "2r1UJOfesmQUx0DJGR3osZYWZTY2",
+      "shortId": "WX7ZW3",
+      "name": "Saint.",
+      "role": "USER",
+      "level": 98
+    },
+    "message": "trading [R32|Shark|WEAPON_SKIN|MYTHICAL][Bullseye||BODY_SKIN|MYTHICAL][Spice||BODY_SKIN|MYTHICAL][Golden||CHEST|LEGENDARY]x40k[Tiburon|Bayonet|WEAPON_SKIN|MYTHICAL]x4",
+    "timestamp": "2026-05-06T03:23:13.029Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "2r1UJOfesmQUx0DJGR3osZYWZTY2",
+      "shortId": "WX7ZW3",
+      "name": "Saint.",
+      "role": "USER",
+      "level": 98
+    },
+    "message": "lf [Gentleman||BODY_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-06T03:23:42.402Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "2r1UJOfesmQUx0DJGR3osZYWZTY2",
+      "shortId": "WX7ZW3",
+      "name": "Saint.",
+      "role": "USER",
+      "level": 98
+    },
+    "message": "trading [R32|Shark|WEAPON_SKIN|MYTHICAL][Bullseye||BODY_SKIN|MYTHICAL][Spice||BODY_SKIN|MYTHICAL][Golden||CHEST|LEGENDARY]x40k[Tiburon|Bayonet|WEAPON_SKIN|MYTHICAL]x4.",
+    "timestamp": "2026-05-06T03:24:32.723Z"
   }
 ]
