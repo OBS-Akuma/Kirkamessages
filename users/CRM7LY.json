@@ -56,7 +56,7 @@
       "role": "USER",
       "level": 99
     },
-    "message": "caramel estas ayÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ¿",
+    "message": "caramel estas ayÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ¿",
     "timestamp": "2026-05-05T23:36:56.019Z"
   },
   {
@@ -176,7 +176,7 @@
       "role": "USER",
       "level": 99
     },
-    "message": "caramel estas ayÂ¿",
+    "message": "caramel estas ayÃÂ¿",
     "timestamp": "2026-05-06T02:10:52.732Z"
   },
   {
@@ -332,7 +332,7 @@
       "role": "USER",
       "level": 99
     },
-    "message": "soy buen amigoÂ¿",
+    "message": "soy buen amigoÃÂ¿",
     "timestamp": "2026-05-06T02:21:00.074Z"
   },
   {
@@ -440,7 +440,7 @@
       "role": "USER",
       "level": 99
     },
-    "message": "[Halloween||CHEST|MYTHICAL]x1000,[Cozy James||BODY_SKIN|MYTHICAL] for [Golden||CHEST|LEGENDARY]x40kÂ¿",
+    "message": "[Halloween||CHEST|MYTHICAL]x1000,[Cozy James||BODY_SKIN|MYTHICAL] for [Golden||CHEST|LEGENDARY]x40kÃÂ¿",
     "timestamp": "2026-05-06T02:29:32.159Z"
   },
   {
@@ -526,5 +526,65 @@
     },
     "message": "/hm Cozy James,Halloween]x1600",
     "timestamp": "2026-05-06T02:33:21.173Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "xD0pJiLgLydrB3SPJOMdY6qc6tZ2",
+      "shortId": "CRM7LY",
+      "name": "Heiko.",
+      "role": "USER",
+      "level": 99
+    },
+    "message": "la verdad que campero eres._.",
+    "timestamp": "2026-05-06T02:43:18.462Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "xD0pJiLgLydrB3SPJOMdY6qc6tZ2",
+      "shortId": "CRM7LY",
+      "name": "Heiko.",
+      "role": "USER",
+      "level": 99
+    },
+    "message": "sapegato gey de mrd",
+    "timestamp": "2026-05-06T02:43:43.139Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "xD0pJiLgLydrB3SPJOMdY6qc6tZ2",
+      "shortId": "CRM7LY",
+      "name": "Heiko.",
+      "role": "USER",
+      "level": 99
+    },
+    "message": "yo por que puedo lanzar una rrafaga",
+    "timestamp": "2026-05-06T02:44:29.533Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "xD0pJiLgLydrB3SPJOMdY6qc6tZ2",
+      "shortId": "CRM7LY",
+      "name": "Heiko.",
+      "role": "USER",
+      "level": 99
+    },
+    "message": "por eso mato en segundos",
+    "timestamp": "2026-05-06T02:44:34.545Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "xD0pJiLgLydrB3SPJOMdY6qc6tZ2",
+      "shortId": "CRM7LY",
+      "name": "Heiko.",
+      "role": "USER",
+      "level": 99
+    },
+    "message": "pero eso no importa",
+    "timestamp": "2026-05-06T02:44:39.199Z"
   }
 ]
