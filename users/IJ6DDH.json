@@ -478,5 +478,77 @@
     },
     "message": "Salki",
     "timestamp": "2026-05-06T03:24:47.534Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "guest-54be4ece-9e2b-474f-9d38-577976065f54",
+      "shortId": "IJ6DDH",
+      "name": "EGD|Galaxy",
+      "role": "USER",
+      "level": 27
+    },
+    "message": "Trade I need [Retro|Bayonet|WEAPON_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-06T03:25:14.258Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "guest-54be4ece-9e2b-474f-9d38-577976065f54",
+      "shortId": "IJ6DDH",
+      "name": "EGD|Galaxy",
+      "role": "USER",
+      "level": 27
+    },
+    "message": "[Ticketeer|SCAR|WEAPON_SKIN|MYTHICAL] salki",
+    "timestamp": "2026-05-06T03:25:53.969Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "guest-54be4ece-9e2b-474f-9d38-577976065f54",
+      "shortId": "IJ6DDH",
+      "name": "EGD|Galaxy",
+      "role": "USER",
+      "level": 27
+    },
+    "message": "Ok",
+    "timestamp": "2026-05-06T03:26:02.541Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "guest-54be4ece-9e2b-474f-9d38-577976065f54",
+      "shortId": "IJ6DDH",
+      "name": "EGD|Galaxy",
+      "role": "USER",
+      "level": 27
+    },
+    "message": "Lemme",
+    "timestamp": "2026-05-06T03:26:18.679Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "guest-54be4ece-9e2b-474f-9d38-577976065f54",
+      "shortId": "IJ6DDH",
+      "name": "EGD|Galaxy",
+      "role": "USER",
+      "level": 27
+    },
+    "message": "Add",
+    "timestamp": "2026-05-06T03:26:21.277Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "guest-54be4ece-9e2b-474f-9d38-577976065f54",
+      "shortId": "IJ6DDH",
+      "name": "EGD|Galaxy",
+      "role": "USER",
+      "level": 27
+    },
+    "message": "Ok",
+    "timestamp": "2026-05-06T03:26:27.480Z"
   }
 ]
