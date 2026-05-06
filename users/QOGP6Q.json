@@ -1700,7 +1700,7 @@
       "role": "USER",
       "level": 29
     },
-    "message": "ÃÂ¿Me regalas algo por favor?",
+    "message": "ÃÂÃÂ¿Me regalas algo por favor?",
     "timestamp": "2026-05-06T03:16:31.418Z"
   },
   {
@@ -1796,7 +1796,7 @@
       "role": "USER",
       "level": 29
     },
-    "message": "heiko Â¿podrÃ­as aceptar mi cambio por siniestro por favor?",
+    "message": "heiko ÃÂ¿podrÃÂ­as aceptar mi cambio por siniestro por favor?",
     "timestamp": "2026-05-06T03:18:54.638Z"
   },
   {
@@ -1966,5 +1966,89 @@
     },
     "message": "?",
     "timestamp": "2026-05-06T03:21:44.957Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "0732e679-7797-44c3-afad-52bff954be9b",
+      "shortId": "QOGP6Q",
+      "name": "Corruption",
+      "role": "USER",
+      "level": 29
+    },
+    "message": "no sry",
+    "timestamp": "2026-05-06T03:22:01.600Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "0732e679-7797-44c3-afad-52bff954be9b",
+      "shortId": "QOGP6Q",
+      "name": "Corruption",
+      "role": "USER",
+      "level": 29
+    },
+    "message": "por favor heiko necesito esto",
+    "timestamp": "2026-05-06T03:22:06.119Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "0732e679-7797-44c3-afad-52bff954be9b",
+      "shortId": "QOGP6Q",
+      "name": "Corruption",
+      "role": "USER",
+      "level": 29
+    },
+    "message": "yes I do",
+    "timestamp": "2026-05-06T03:22:09.713Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "0732e679-7797-44c3-afad-52bff954be9b",
+      "shortId": "QOGP6Q",
+      "name": "Corruption",
+      "role": "USER",
+      "level": 29
+    },
+    "message": "oops",
+    "timestamp": "2026-05-06T03:22:11.500Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "0732e679-7797-44c3-afad-52bff954be9b",
+      "shortId": "QOGP6Q",
+      "name": "Corruption",
+      "role": "USER",
+      "level": 29
+    },
+    "message": "TRADING [Gentleman||BODY_SKIN|MYTHICAL],[Mabel||BODY_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-06T03:22:18.867Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "0732e679-7797-44c3-afad-52bff954be9b",
+      "shortId": "QOGP6Q",
+      "name": "Corruption",
+      "role": "USER",
+      "level": 29
+    },
+    "message": "sure",
+    "timestamp": "2026-05-06T03:22:31.798Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "0732e679-7797-44c3-afad-52bff954be9b",
+      "shortId": "QOGP6Q",
+      "name": "Corruption",
+      "role": "USER",
+      "level": 29
+    },
+    "message": "no chunkbug low demand and is not 35m",
+    "timestamp": "2026-05-06T03:22:41.788Z"
   }
 ]
