@@ -959,5 +959,29 @@
     },
     "message": "peak id",
     "timestamp": "2026-05-06T02:39:46.670Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "7f2a6090-abcb-48a7-8838-88ee8111b261",
+      "shortId": "NUGGET",
+      "name": "Akuma :3",
+      "role": "USER",
+      "level": 56
+    },
+    "message": "uwu~",
+    "timestamp": "2026-05-06T02:40:50.673Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "7f2a6090-abcb-48a7-8838-88ee8111b261",
+      "shortId": "NUGGET",
+      "name": "Akuma :3",
+      "role": "USER",
+      "level": 56
+    },
+    "message": "trading [Gazer||BODY_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-06T02:40:55.716Z"
   }
 ]
