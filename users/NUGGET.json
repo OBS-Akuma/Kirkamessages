@@ -983,5 +983,41 @@
     },
     "message": "trading [Gazer||BODY_SKIN|MYTHICAL]",
     "timestamp": "2026-05-06T02:40:55.716Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "7f2a6090-abcb-48a7-8838-88ee8111b261",
+      "shortId": "NUGGET",
+      "name": "Akuma :3",
+      "role": "USER",
+      "level": 56
+    },
+    "message": "trading gazer",
+    "timestamp": "2026-05-06T02:43:54.798Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "7f2a6090-abcb-48a7-8838-88ee8111b261",
+      "shortId": "NUGGET",
+      "name": "Akuma :3",
+      "role": "USER",
+      "level": 56
+    },
+    "message": "what the hell is that trade bruz",
+    "timestamp": "2026-05-06T02:44:23.038Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "7f2a6090-abcb-48a7-8838-88ee8111b261",
+      "shortId": "NUGGET",
+      "name": "Akuma :3",
+      "role": "USER",
+      "level": 56
+    },
+    "message": "pollen is not that good",
+    "timestamp": "2026-05-06T02:44:35.245Z"
   }
 ]
