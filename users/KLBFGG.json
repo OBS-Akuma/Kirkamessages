@@ -238,5 +238,29 @@
     },
     "message": "/enter",
     "timestamp": "2026-05-04T03:14:38.921Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "4640c5e7-8889-4f71-8446-a54180b81f7c",
+      "shortId": "KLBFGG",
+      "name": "keyboard",
+      "role": "USER",
+      "level": 77
+    },
+    "message": "yo iWin",
+    "timestamp": "2026-05-06T00:09:03.816Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "4640c5e7-8889-4f71-8446-a54180b81f7c",
+      "shortId": "KLBFGG",
+      "name": "keyboard",
+      "role": "USER",
+      "level": 77
+    },
+    "message": "can I join elder",
+    "timestamp": "2026-05-06T00:09:06.712Z"
   }
 ]
