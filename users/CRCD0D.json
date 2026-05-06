@@ -622,5 +622,53 @@
     },
     "message": "my [Golden||CHEST|LEGENDARY]x1000 for you [Tiburon|Bayonet|WEAPON_SKIN|MYTHICAL]?",
     "timestamp": "2026-05-03T15:55:10.578Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "6ea76ffe-0fdc-46fc-b3a0-95b6bab931e2",
+      "shortId": "CRCD0D",
+      "name": "TP|Jhosen|Live",
+      "role": "USER",
+      "level": 93
+    },
+    "message": "e",
+    "timestamp": "2026-05-06T01:39:18.842Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "6ea76ffe-0fdc-46fc-b3a0-95b6bab931e2",
+      "shortId": "CRCD0D",
+      "name": "TP|Jhosen|Live",
+      "role": "USER",
+      "level": 93
+    },
+    "message": "am?",
+    "timestamp": "2026-05-06T01:39:35.213Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "6ea76ffe-0fdc-46fc-b3a0-95b6bab931e2",
+      "shortId": "CRCD0D",
+      "name": "TP|Jhosen|Live",
+      "role": "USER",
+      "level": 93
+    },
+    "message": "/hm [Immortal|Bayonet|WEAPON_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-06T01:40:19.594Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "6ea76ffe-0fdc-46fc-b3a0-95b6bab931e2",
+      "shortId": "CRCD0D",
+      "name": "TP|Jhosen|Live",
+      "role": "USER",
+      "level": 93
+    },
+    "message": "e",
+    "timestamp": "2026-05-06T01:43:15.479Z"
   }
 ]
