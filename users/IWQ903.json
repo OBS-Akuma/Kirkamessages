@@ -2458,5 +2458,77 @@
     },
     "message": "/wager [Golden||CHEST|LEGENDARY]x1000 #CRCD0D",
     "timestamp": "2026-05-06T02:36:11.935Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "ceb6bda2-7bd4-4e73-b89c-7f892fed47d8",
+      "shortId": "IWQ903",
+      "name": "Em1LeG0@t",
+      "role": "USER",
+      "level": 73
+    },
+    "message": "trading [Blessed||BODY_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-06T03:12:22.059Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "ceb6bda2-7bd4-4e73-b89c-7f892fed47d8",
+      "shortId": "IWQ903",
+      "name": "Em1LeG0@t",
+      "role": "USER",
+      "level": 73
+    },
+    "message": "wagering 1k goldens",
+    "timestamp": "2026-05-06T03:12:57.631Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "ceb6bda2-7bd4-4e73-b89c-7f892fed47d8",
+      "shortId": "IWQ903",
+      "name": "Em1LeG0@t",
+      "role": "USER",
+      "level": 73
+    },
+    "message": "#YY9IF7 wanna wager [Ortus|Revolver|WEAPON_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-06T03:13:44.378Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "ceb6bda2-7bd4-4e73-b89c-7f892fed47d8",
+      "shortId": "IWQ903",
+      "name": "Em1LeG0@t",
+      "role": "USER",
+      "level": 73
+    },
+    "message": "/wager [Ortus|Revolver|WEAPON_SKIN|MYTHICAL] #YY9IF7",
+    "timestamp": "2026-05-06T03:13:56.520Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "ceb6bda2-7bd4-4e73-b89c-7f892fed47d8",
+      "shortId": "IWQ903",
+      "name": "Em1LeG0@t",
+      "role": "USER",
+      "level": 73
+    },
+    "message": "/cancelwager",
+    "timestamp": "2026-05-06T03:14:03.766Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "ceb6bda2-7bd4-4e73-b89c-7f892fed47d8",
+      "shortId": "IWQ903",
+      "name": "Em1LeG0@t",
+      "role": "USER",
+      "level": 73
+    },
+    "message": "/wager [Ortus|Revolver|WEAPON_SKIN|MYTHICAL] #YY9IF7",
+    "timestamp": "2026-05-06T03:14:11.754Z"
   }
 ]
