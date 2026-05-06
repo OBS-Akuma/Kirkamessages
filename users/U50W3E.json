@@ -1,0 +1,38 @@
+[
+  {
+    "type": 2,
+    "user": {
+      "id": "38365332-ed6d-408e-ad6a-23965bbfb70a",
+      "shortId": "U50W3E",
+      "name": "Pegasus",
+      "role": "USER",
+      "level": 23
+    },
+    "message": "[SCAR||WEAPON_1|COMMON]",
+    "timestamp": "2026-05-06T02:25:30.925Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "38365332-ed6d-408e-ad6a-23965bbfb70a",
+      "shortId": "U50W3E",
+      "name": "Pegasus",
+      "role": "USER",
+      "level": 23
+    },
+    "message": "[Tomahawk||WEAPON_3|COMMON]",
+    "timestamp": "2026-05-06T02:25:41.062Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "38365332-ed6d-408e-ad6a-23965bbfb70a",
+      "shortId": "U50W3E",
+      "name": "Pegasus",
+      "role": "USER",
+      "level": 23
+    },
+    "message": "/hm [Slasher||BODY_SKIN|PARANORMAL]",
+    "timestamp": "2026-05-06T02:27:02.268Z"
+  }
+]
