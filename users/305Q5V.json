@@ -70,5 +70,41 @@
     },
     "message": "Plzx100000",
     "timestamp": "2026-05-04T02:13:57.907Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "4b789cea-e6d0-4391-bab3-a43b716b6a1a",
+      "shortId": "305Q5V",
+      "name": "GxdLJONATHAN03",
+      "role": "USER",
+      "level": 96
+    },
+    "message": "https://kirka.io/___lobby___/ASIA~rfQnzu2zB",
+    "timestamp": "2026-05-06T02:14:29.668Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "4b789cea-e6d0-4391-bab3-a43b716b6a1a",
+      "shortId": "305Q5V",
+      "name": "GxdLJONATHAN03",
+      "role": "USER",
+      "level": 96
+    },
+    "message": "1v1",
+    "timestamp": "2026-05-06T02:14:32.597Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "4b789cea-e6d0-4391-bab3-a43b716b6a1a",
+      "shortId": "305Q5V",
+      "name": "GxdLJONATHAN03",
+      "role": "USER",
+      "level": 96
+    },
+    "message": "Worman join 4 1v1",
+    "timestamp": "2026-05-06T02:14:49.472Z"
   }
 ]
