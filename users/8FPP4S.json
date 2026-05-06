@@ -1,0 +1,26 @@
+[
+  {
+    "type": 2,
+    "user": {
+      "id": "679b20be-1a59-470d-85cd-b7ab4acc00a2",
+      "shortId": "8FPP4S",
+      "name": "catgirlgoonr",
+      "role": "USER",
+      "level": 7
+    },
+    "message": "/help",
+    "timestamp": "2026-05-06T02:37:30.660Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "679b20be-1a59-470d-85cd-b7ab4acc00a2",
+      "shortId": "8FPP4S",
+      "name": "catgirlgoonr",
+      "role": "USER",
+      "level": 7
+    },
+    "message": "/c3 trade",
+    "timestamp": "2026-05-06T02:37:41.569Z"
+  }
+]
