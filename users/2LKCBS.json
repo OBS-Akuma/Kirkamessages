@@ -130,5 +130,29 @@
     },
     "message": ":O",
     "timestamp": "2026-05-06T02:51:00.293Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "7907ed30-1e73-4c45-bb34-bac989e7e742",
+      "shortId": "2LKCBS",
+      "name": "XDXDXDXDXDXD",
+      "role": "USER",
+      "level": 61
+    },
+    "message": "heiko",
+    "timestamp": "2026-05-06T02:59:45.375Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "7907ed30-1e73-4c45-bb34-bac989e7e742",
+      "shortId": "2LKCBS",
+      "name": "XDXDXDXDXDXD",
+      "role": "USER",
+      "level": 61
+    },
+    "message": "por q tu nombre es de color azul?",
+    "timestamp": "2026-05-06T02:59:54.326Z"
   }
 ]
