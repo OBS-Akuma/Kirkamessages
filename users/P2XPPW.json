@@ -1,0 +1,62 @@
+[
+  {
+    "type": 2,
+    "user": {
+      "id": "6737d15f-f015-411b-b366-612182314ca8",
+      "shortId": "P2XPPW",
+      "name": "Newbie",
+      "role": "USER",
+      "level": 5
+    },
+    "message": "{wolfy}",
+    "timestamp": "2026-05-07T20:10:16.154Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "6737d15f-f015-411b-b366-612182314ca8",
+      "shortId": "P2XPPW",
+      "name": "Newbie",
+      "role": "USER",
+      "level": 5
+    },
+    "message": "[Wolfy||BODY_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-07T20:10:24.102Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "6737d15f-f015-411b-b366-612182314ca8",
+      "shortId": "P2XPPW",
+      "name": "Newbie",
+      "role": "USER",
+      "level": 5
+    },
+    "message": "[Chilly||BODY_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-07T20:10:37.072Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "6737d15f-f015-411b-b366-612182314ca8",
+      "shortId": "P2XPPW",
+      "name": "Newbie",
+      "role": "USER",
+      "level": 5
+    },
+    "message": "[Anon||BODY_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-07T20:10:50.738Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "6737d15f-f015-411b-b366-612182314ca8",
+      "shortId": "P2XPPW",
+      "name": "Newbie",
+      "role": "USER",
+      "level": 5
+    },
+    "message": "[Biker||BODY_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-07T20:11:01.430Z"
+  }
+]
