@@ -430,5 +430,29 @@
     },
     "message": "/enter",
     "timestamp": "2026-05-07T20:19:02.909Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "c4be612c-91b2-460a-a030-43bb277d1e8f",
+      "shortId": "21ERUV",
+      "name": "Leo_Xtc",
+      "role": "USER",
+      "level": 99
+    },
+    "message": "Last and ggs",
+    "timestamp": "2026-05-07T20:42:11.316Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "c4be612c-91b2-460a-a030-43bb277d1e8f",
+      "shortId": "21ERUV",
+      "name": "Leo_Xtc",
+      "role": "USER",
+      "level": 99
+    },
+    "message": "gg",
+    "timestamp": "2026-05-07T20:42:20.464Z"
   }
 ]
