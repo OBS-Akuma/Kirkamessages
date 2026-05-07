@@ -910,5 +910,149 @@
     },
     "message": "/inv #DUHAST",
     "timestamp": "2026-05-07T19:13:25.267Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "10cc9aa1-cdbb-4880-b539-82906b95c8ab",
+      "shortId": "QPQ5MV",
+      "name": "BuffPigeon",
+      "role": "USER",
+      "level": 59
+    },
+    "message": "trading [Elysian|Shark|WEAPON_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-07T19:14:34.935Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "10cc9aa1-cdbb-4880-b539-82906b95c8ab",
+      "shortId": "QPQ5MV",
+      "name": "BuffPigeon",
+      "role": "USER",
+      "level": 59
+    },
+    "message": "lf1",
+    "timestamp": "2026-05-07T19:14:37.752Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "10cc9aa1-cdbb-4880-b539-82906b95c8ab",
+      "shortId": "QPQ5MV",
+      "name": "BuffPigeon",
+      "role": "USER",
+      "level": 59
+    },
+    "message": "/inv #2QIYUL",
+    "timestamp": "2026-05-07T19:17:25.846Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "10cc9aa1-cdbb-4880-b539-82906b95c8ab",
+      "shortId": "QPQ5MV",
+      "name": "BuffPigeon",
+      "role": "USER",
+      "level": 59
+    },
+    "message": "rich",
+    "timestamp": "2026-05-07T19:17:31.690Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "10cc9aa1-cdbb-4880-b539-82906b95c8ab",
+      "shortId": "QPQ5MV",
+      "name": "BuffPigeon",
+      "role": "USER",
+      "level": 59
+    },
+    "message": "/inv",
+    "timestamp": "2026-05-07T19:17:45.038Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "10cc9aa1-cdbb-4880-b539-82906b95c8ab",
+      "shortId": "QPQ5MV",
+      "name": "BuffPigeon",
+      "role": "USER",
+      "level": 59
+    },
+    "message": "/hm elysian",
+    "timestamp": "2026-05-07T19:17:56.254Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "10cc9aa1-cdbb-4880-b539-82906b95c8ab",
+      "shortId": "QPQ5MV",
+      "name": "BuffPigeon",
+      "role": "USER",
+      "level": 59
+    },
+    "message": "trading [Elysian|Shark|WEAPON_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-07T19:18:25.850Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "10cc9aa1-cdbb-4880-b539-82906b95c8ab",
+      "shortId": "QPQ5MV",
+      "name": "BuffPigeon",
+      "role": "USER",
+      "level": 59
+    },
+    "message": "only ug",
+    "timestamp": "2026-05-07T19:18:28.658Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "10cc9aa1-cdbb-4880-b539-82906b95c8ab",
+      "shortId": "QPQ5MV",
+      "name": "BuffPigeon",
+      "role": "USER",
+      "level": 59
+    },
+    "message": "ye",
+    "timestamp": "2026-05-07T19:18:47.387Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "10cc9aa1-cdbb-4880-b539-82906b95c8ab",
+      "shortId": "QPQ5MV",
+      "name": "BuffPigeon",
+      "role": "USER",
+      "level": 59
+    },
+    "message": "no sry",
+    "timestamp": "2026-05-07T19:18:57.118Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "10cc9aa1-cdbb-4880-b539-82906b95c8ab",
+      "shortId": "QPQ5MV",
+      "name": "BuffPigeon",
+      "role": "USER",
+      "level": 59
+    },
+    "message": "looking for 1f1",
+    "timestamp": "2026-05-07T19:19:01.719Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "10cc9aa1-cdbb-4880-b539-82906b95c8ab",
+      "shortId": "QPQ5MV",
+      "name": "BuffPigeon",
+      "role": "USER",
+      "level": 59
+    },
+    "message": "#2QIYUL prob not",
+    "timestamp": "2026-05-07T19:19:27.103Z"
   }
 ]
