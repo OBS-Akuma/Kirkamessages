@@ -442,5 +442,101 @@
     },
     "message": "[Forbidden|AR-9|WEAPON_SKIN|MYTHICAL]",
     "timestamp": "2026-05-07T20:09:59.916Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "c1395033-1fb5-4aaa-b05a-3ef690f82834",
+      "shortId": "TGCX2C",
+      "name": "mid|+bliss",
+      "role": "USER",
+      "level": 73
+    },
+    "message": "/confirmwager",
+    "timestamp": "2026-05-07T20:10:28.264Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "c1395033-1fb5-4aaa-b05a-3ef690f82834",
+      "shortId": "TGCX2C",
+      "name": "mid|+bliss",
+      "role": "USER",
+      "level": 73
+    },
+    "message": "wait what?",
+    "timestamp": "2026-05-07T20:10:51.443Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "c1395033-1fb5-4aaa-b05a-3ef690f82834",
+      "shortId": "TGCX2C",
+      "name": "mid|+bliss",
+      "role": "USER",
+      "level": 73
+    },
+    "message": "i dont hav [Forbidden|AR-9|WEAPON_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-07T20:11:05.182Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "c1395033-1fb5-4aaa-b05a-3ef690f82834",
+      "shortId": "TGCX2C",
+      "name": "mid|+bliss",
+      "role": "USER",
+      "level": 73
+    },
+    "message": "im looking for it",
+    "timestamp": "2026-05-07T20:11:09.921Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "c1395033-1fb5-4aaa-b05a-3ef690f82834",
+      "shortId": "TGCX2C",
+      "name": "SS03|mid_bliss",
+      "role": "USER",
+      "level": 73
+    },
+    "message": "/enter",
+    "timestamp": "2026-05-07T20:20:14.051Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "c1395033-1fb5-4aaa-b05a-3ef690f82834",
+      "shortId": "TGCX2C",
+      "name": "SS03|mid_bliss",
+      "role": "USER",
+      "level": 73
+    },
+    "message": "adeed",
+    "timestamp": "2026-05-07T21:03:27.973Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "c1395033-1fb5-4aaa-b05a-3ef690f82834",
+      "shortId": "TGCX2C",
+      "name": "SS03|mid_bliss",
+      "role": "USER",
+      "level": 73
+    },
+    "message": "do u hv [Angel||BODY_SKIN|MYTHICAL]?",
+    "timestamp": "2026-05-07T21:03:43.494Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "c1395033-1fb5-4aaa-b05a-3ef690f82834",
+      "shortId": "TGCX2C",
+      "name": "SS03|mid_bliss",
+      "role": "USER",
+      "level": 73
+    },
+    "message": "darkside 1v1 for [Wicked|VITA|WEAPON_SKIN|MYTHICAL]?",
+    "timestamp": "2026-05-07T21:04:23.643Z"
   }
 ]
