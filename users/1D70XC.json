@@ -94,5 +94,29 @@
     },
     "message": "/price maze",
     "timestamp": "2026-05-04T05:01:43.423Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "3d3286c6-c2a7-4fc0-825c-940dc21e56b3",
+      "shortId": "1D70XC",
+      "name": "FAKE_NEWBIE",
+      "role": "USER",
+      "level": 18
+    },
+    "message": "/",
+    "timestamp": "2026-05-07T09:03:11.849Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "3d3286c6-c2a7-4fc0-825c-940dc21e56b3",
+      "shortId": "1D70XC",
+      "name": "FAKE_NEWBIE",
+      "role": "USER",
+      "level": 18
+    },
+    "message": "/inv",
+    "timestamp": "2026-05-07T09:03:13.198Z"
   }
 ]
