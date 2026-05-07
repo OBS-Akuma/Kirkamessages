@@ -1637,5 +1637,89 @@
     },
     "message": "?",
     "timestamp": "2026-05-07T05:24:28.360Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "8f9423c1-73b5-46a4-969f-68ed04e8f0e8",
+      "shortId": "000000",
+      "name": "Daddy",
+      "role": "USER",
+      "level": 100
+    },
+    "message": "#4CQDEK im not, I just win it from wagers",
+    "timestamp": "2026-05-07T05:25:21.929Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "8f9423c1-73b5-46a4-969f-68ed04e8f0e8",
+      "shortId": "000000",
+      "name": "Daddy",
+      "role": "USER",
+      "level": 100
+    },
+    "message": "/locate gold coins",
+    "timestamp": "2026-05-07T05:25:43.202Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "8f9423c1-73b5-46a4-969f-68ed04e8f0e8",
+      "shortId": "000000",
+      "name": "Daddy",
+      "role": "USER",
+      "level": 100
+    },
+    "message": "All wagers",
+    "timestamp": "2026-05-07T05:25:45.372Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "8f9423c1-73b5-46a4-969f-68ed04e8f0e8",
+      "shortId": "000000",
+      "name": "Daddy",
+      "role": "USER",
+      "level": 100
+    },
+    "message": "#T8LNH0 I have mabel",
+    "timestamp": "2026-05-07T05:26:01.169Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "8f9423c1-73b5-46a4-969f-68ed04e8f0e8",
+      "shortId": "000000",
+      "name": "Daddy",
+      "role": "USER",
+      "level": 100
+    },
+    "message": "Wagering [Yuki||BODY_SKIN|MYTHICAL][Angel||BODY_SKIN|MYTHICAL][Lightning|AR-9|WEAPON_SKIN|EPIC][Hearts||BODY_SKIN|MYTHICAL][Gold Coins|Bayonet|WEAPON_SKIN|LEGENDARY][Saint Patrick|Shark|WEAPON_SKIN|LEGENDARY][Dreamscape|LAR|WEAPON_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-07T05:27:55.218Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "8f9423c1-73b5-46a4-969f-68ed04e8f0e8",
+      "shortId": "000000",
+      "name": "Daddy",
+      "role": "USER",
+      "level": 100
+    },
+    "message": "#4CQDEK Sinister nft, unless it's for the whole stack",
+    "timestamp": "2026-05-07T05:28:22.255Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "8f9423c1-73b5-46a4-969f-68ed04e8f0e8",
+      "shortId": "000000",
+      "name": "Daddy",
+      "role": "USER",
+      "level": 100
+    },
+    "message": "#4CQDEK That's how it is",
+    "timestamp": "2026-05-07T05:28:50.001Z"
   }
 ]
