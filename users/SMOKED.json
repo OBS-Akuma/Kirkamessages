@@ -538,5 +538,161 @@
     },
     "message": "/wager [Golden||CHEST|LEGENDARY]x300 #8KK5DM",
     "timestamp": "2026-05-07T19:11:32.153Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "8130e18e-ff15-4f5b-a4e4-e3b8692ee32b",
+      "shortId": "SMOKED",
+      "name": "Torque_",
+      "role": "USER",
+      "level": 100
+    },
+    "message": "/cancel wager",
+    "timestamp": "2026-05-07T19:11:57.215Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "8130e18e-ff15-4f5b-a4e4-e3b8692ee32b",
+      "shortId": "SMOKED",
+      "name": "Torque_",
+      "role": "USER",
+      "level": 100
+    },
+    "message": "/cancelwager",
+    "timestamp": "2026-05-07T19:12:01.174Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "8130e18e-ff15-4f5b-a4e4-e3b8692ee32b",
+      "shortId": "SMOKED",
+      "name": "Torque_",
+      "role": "USER",
+      "level": 100
+    },
+    "message": "hey jolly",
+    "timestamp": "2026-05-07T19:12:33.362Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "8130e18e-ff15-4f5b-a4e4-e3b8692ee32b",
+      "shortId": "SMOKED",
+      "name": "Torque_",
+      "role": "USER",
+      "level": 100
+    },
+    "message": "#8KK5DM",
+    "timestamp": "2026-05-07T19:12:57.218Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "8130e18e-ff15-4f5b-a4e4-e3b8692ee32b",
+      "shortId": "SMOKED",
+      "name": "Torque_",
+      "role": "USER",
+      "level": 100
+    },
+    "message": "/confirmwager",
+    "timestamp": "2026-05-07T19:13:40.767Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "8130e18e-ff15-4f5b-a4e4-e3b8692ee32b",
+      "shortId": "SMOKED",
+      "name": "Torque_",
+      "role": "USER",
+      "level": 100
+    },
+    "message": "/cancelwager",
+    "timestamp": "2026-05-07T19:13:53.894Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "8130e18e-ff15-4f5b-a4e4-e3b8692ee32b",
+      "shortId": "SMOKED",
+      "name": "Torque_",
+      "role": "USER",
+      "level": 100
+    },
+    "message": "/wager [Carrot||BODY_SKIN|LEGENDARY]x20 #8KK5DM",
+    "timestamp": "2026-05-07T19:15:14.609Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "8130e18e-ff15-4f5b-a4e4-e3b8692ee32b",
+      "shortId": "SMOKED",
+      "name": "Torque_",
+      "role": "USER",
+      "level": 100
+    },
+    "message": "/cancelwager",
+    "timestamp": "2026-05-07T19:15:33.805Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "8130e18e-ff15-4f5b-a4e4-e3b8692ee32b",
+      "shortId": "SMOKED",
+      "name": "Torque_",
+      "role": "USER",
+      "level": 100
+    },
+    "message": "damiut",
+    "timestamp": "2026-05-07T19:15:38.938Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "8130e18e-ff15-4f5b-a4e4-e3b8692ee32b",
+      "shortId": "SMOKED",
+      "name": "Torque_",
+      "role": "USER",
+      "level": 100
+    },
+    "message": "damit*",
+    "timestamp": "2026-05-07T19:15:42.915Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "8130e18e-ff15-4f5b-a4e4-e3b8692ee32b",
+      "shortId": "SMOKED",
+      "name": "Torque_",
+      "role": "USER",
+      "level": 100
+    },
+    "message": "i only have 1 :/",
+    "timestamp": "2026-05-07T19:16:04.817Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "8130e18e-ff15-4f5b-a4e4-e3b8692ee32b",
+      "shortId": "SMOKED",
+      "name": "Torque_",
+      "role": "USER",
+      "level": 100
+    },
+    "message": "/confirmwager",
+    "timestamp": "2026-05-07T19:16:36.148Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "8130e18e-ff15-4f5b-a4e4-e3b8692ee32b",
+      "shortId": "SMOKED",
+      "name": "Torque_",
+      "role": "USER",
+      "level": 100
+    },
+    "message": "ggs",
+    "timestamp": "2026-05-07T19:17:09.417Z"
   }
 ]
