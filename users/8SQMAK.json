@@ -598,5 +598,89 @@
     },
     "message": "i have [Melody||BODY_SKIN|MYTHICAL]",
     "timestamp": "2026-05-07T05:18:34.967Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "e7ca017c-557f-4b21-96eb-3ec2a9a728ab",
+      "shortId": "8SQMAK",
+      "name": "Eri.",
+      "role": "USER",
+      "level": 52
+    },
+    "message": "shost  trade",
+    "timestamp": "2026-05-07T05:36:05.899Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "e7ca017c-557f-4b21-96eb-3ec2a9a728ab",
+      "shortId": "8SQMAK",
+      "name": "Eri.",
+      "role": "USER",
+      "level": 52
+    },
+    "message": "who have  [Melody||BODY_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-07T05:37:45.269Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "e7ca017c-557f-4b21-96eb-3ec2a9a728ab",
+      "shortId": "8SQMAK",
+      "name": "Eri.",
+      "role": "USER",
+      "level": 52
+    },
+    "message": "who want [Melody||BODY_SKIN|MYTHICAL] ?",
+    "timestamp": "2026-05-07T05:38:26.026Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "e7ca017c-557f-4b21-96eb-3ec2a9a728ab",
+      "shortId": "8SQMAK",
+      "name": "Eri.",
+      "role": "USER",
+      "level": 52
+    },
+    "message": "buy [CV01|Bayonet|WEAPON_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-07T05:49:05.339Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "e7ca017c-557f-4b21-96eb-3ec2a9a728ab",
+      "shortId": "8SQMAK",
+      "name": "Eri.",
+      "role": "USER",
+      "level": 52
+    },
+    "message": "/hm ghoul]",
+    "timestamp": "2026-05-07T05:49:29.145Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "e7ca017c-557f-4b21-96eb-3ec2a9a728ab",
+      "shortId": "8SQMAK",
+      "name": "Eri.",
+      "role": "USER",
+      "level": 52
+    },
+    "message": "i have [Melody||BODY_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-07T05:50:04.206Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "e7ca017c-557f-4b21-96eb-3ec2a9a728ab",
+      "shortId": "8SQMAK",
+      "name": "Eri.",
+      "role": "USER",
+      "level": 52
+    },
+    "message": "who want",
+    "timestamp": "2026-05-07T05:50:17.594Z"
   }
 ]
