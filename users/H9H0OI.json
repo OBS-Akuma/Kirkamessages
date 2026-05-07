@@ -1150,5 +1150,41 @@
     },
     "message": "GO COP [Sunday|Bayonet|WEAPON_SKIN|MYTHICAL] 15M AND [Darkweb||BODY_SKIN|MYTHICAL] 25M ON MARKET!",
     "timestamp": "2026-05-07T07:02:58.953Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "02506a6c-de4d-4da9-833f-35e586b9b089",
+      "shortId": "H9H0OI",
+      "name": "Hafla_",
+      "role": "USER",
+      "level": 62
+    },
+    "message": "lf void mac or void revolver",
+    "timestamp": "2026-05-07T07:08:29.808Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "02506a6c-de4d-4da9-833f-35e586b9b089",
+      "shortId": "H9H0OI",
+      "name": "Hafla_",
+      "role": "USER",
+      "level": 62
+    },
+    "message": "hehehehhe",
+    "timestamp": "2026-05-07T07:09:29.470Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "02506a6c-de4d-4da9-833f-35e586b9b089",
+      "shortId": "H9H0OI",
+      "name": "Hafla_",
+      "role": "USER",
+      "level": 62
+    },
+    "message": "hmuch for [Void SCAR|SCAR|WEAPON_SKIN|MYTHICAL]?",
+    "timestamp": "2026-05-07T07:09:35.393Z"
   }
 ]
