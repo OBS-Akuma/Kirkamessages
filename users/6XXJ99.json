@@ -1258,5 +1258,101 @@
     },
     "message": "/wager [Golden||CHEST|LEGENDARY]x100 #609GEM",
     "timestamp": "2026-05-07T06:09:01.279Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "baf58a91-5cb0-4253-b7b1-7ea43c395844",
+      "shortId": "6XXJ99",
+      "name": "Zenix",
+      "role": "USER",
+      "level": 81
+    },
+    "message": "??",
+    "timestamp": "2026-05-07T06:10:07.811Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "baf58a91-5cb0-4253-b7b1-7ea43c395844",
+      "shortId": "6XXJ99",
+      "name": "Zenix",
+      "role": "USER",
+      "level": 81
+    },
+    "message": "yeah",
+    "timestamp": "2026-05-07T06:10:10.664Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "baf58a91-5cb0-4253-b7b1-7ea43c395844",
+      "shortId": "6XXJ99",
+      "name": "Zenix",
+      "role": "USER",
+      "level": 81
+    },
+    "message": "no",
+    "timestamp": "2026-05-07T06:10:21.814Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "baf58a91-5cb0-4253-b7b1-7ea43c395844",
+      "shortId": "6XXJ99",
+      "name": "Zenix",
+      "role": "USER",
+      "level": 81
+    },
+    "message": "pepe make",
+    "timestamp": "2026-05-07T06:10:41.035Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "baf58a91-5cb0-4253-b7b1-7ea43c395844",
+      "shortId": "6XXJ99",
+      "name": "Zenix",
+      "role": "USER",
+      "level": 81
+    },
+    "message": "/confirmwager",
+    "timestamp": "2026-05-07T06:10:48.021Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "baf58a91-5cb0-4253-b7b1-7ea43c395844",
+      "shortId": "6XXJ99",
+      "name": "Zenix",
+      "role": "USER",
+      "level": 81
+    },
+    "message": "/claim",
+    "timestamp": "2026-05-07T06:11:23.006Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "baf58a91-5cb0-4253-b7b1-7ea43c395844",
+      "shortId": "6XXJ99",
+      "name": "Zenix",
+      "role": "USER",
+      "level": 81
+    },
+    "message": "nty",
+    "timestamp": "2026-05-07T06:11:41.746Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "baf58a91-5cb0-4253-b7b1-7ea43c395844",
+      "shortId": "6XXJ99",
+      "name": "Zenix",
+      "role": "USER",
+      "level": 81
+    },
+    "message": "/mywager",
+    "timestamp": "2026-05-07T06:11:44.472Z"
   }
 ]
