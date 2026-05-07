@@ -154,5 +154,65 @@
     },
     "message": ":3",
     "timestamp": "2026-05-07T18:13:05.754Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "59144c5e-27f0-4123-b89f-b29dc2962461",
+      "shortId": "OOTN4L",
+      "name": "Ruby._.",
+      "role": "USER",
+      "level": 98
+    },
+    "message": "canel?",
+    "timestamp": "2026-05-07T18:13:23.402Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "59144c5e-27f0-4123-b89f-b29dc2962461",
+      "shortId": "OOTN4L",
+      "name": "Ruby._.",
+      "role": "USER",
+      "level": 98
+    },
+    "message": "omg tysm",
+    "timestamp": "2026-05-07T18:13:45.517Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "59144c5e-27f0-4123-b89f-b29dc2962461",
+      "shortId": "OOTN4L",
+      "name": "Ruby._.",
+      "role": "USER",
+      "level": 98
+    },
+    "message": "<3",
+    "timestamp": "2026-05-07T18:13:58.928Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "59144c5e-27f0-4123-b89f-b29dc2962461",
+      "shortId": "OOTN4L",
+      "name": "Ruby._.",
+      "role": "USER",
+      "level": 98
+    },
+    "message": "/enter",
+    "timestamp": "2026-05-07T18:14:11.691Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "59144c5e-27f0-4123-b89f-b29dc2962461",
+      "shortId": "OOTN4L",
+      "name": "Ruby._.",
+      "role": "USER",
+      "level": 98
+    },
+    "message": "/confirmwager",
+    "timestamp": "2026-05-07T18:18:06.576Z"
   }
 ]
