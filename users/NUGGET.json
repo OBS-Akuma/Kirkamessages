@@ -1499,5 +1499,65 @@
     },
     "message": "#Y2OOB2, #985CBJ, #NUGGET",
     "timestamp": "2026-05-07T04:36:35.753Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "7f2a6090-abcb-48a7-8838-88ee8111b261",
+      "shortId": "NUGGET",
+      "name": "Akuma :3",
+      "role": "USER",
+      "level": 56
+    },
+    "message": "/cmds",
+    "timestamp": "2026-05-07T18:09:09.278Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "7f2a6090-abcb-48a7-8838-88ee8111b261",
+      "shortId": "NUGGET",
+      "name": "Akuma :3",
+      "role": "USER",
+      "level": 56
+    },
+    "message": "/help",
+    "timestamp": "2026-05-07T18:09:12.307Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "7f2a6090-abcb-48a7-8838-88ee8111b261",
+      "shortId": "NUGGET",
+      "name": "Akuma :3",
+      "role": "USER",
+      "level": 56
+    },
+    "message": "/c3",
+    "timestamp": "2026-05-07T18:09:20.732Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "7f2a6090-abcb-48a7-8838-88ee8111b261",
+      "shortId": "NUGGET",
+      "name": "Akuma :3",
+      "role": "USER",
+      "level": 56
+    },
+    "message": "/c4",
+    "timestamp": "2026-05-07T18:09:26.040Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "7f2a6090-abcb-48a7-8838-88ee8111b261",
+      "shortId": "NUGGET",
+      "name": "Akuma :3",
+      "role": "USER",
+      "level": 56
+    },
+    "message": "/c10",
+    "timestamp": "2026-05-07T18:09:39.916Z"
   }
 ]
