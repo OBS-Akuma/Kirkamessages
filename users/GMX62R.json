@@ -238,5 +238,53 @@
     },
     "message": "/enter",
     "timestamp": "2026-05-07T20:18:58.759Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "bc8e6feb-bb40-4540-9470-ea5c349d769c",
+      "shortId": "GMX62R",
+      "name": "Ethong",
+      "role": "USER",
+      "level": 20
+    },
+    "message": "/hm dragon",
+    "timestamp": "2026-05-07T22:54:24.907Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "bc8e6feb-bb40-4540-9470-ea5c349d769c",
+      "shortId": "GMX62R",
+      "name": "Ethong",
+      "role": "USER",
+      "level": 20
+    },
+    "message": "DOES ANYONE HAVE [Dragon||BODY_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-07T22:54:46.578Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "bc8e6feb-bb40-4540-9470-ea5c349d769c",
+      "shortId": "GMX62R",
+      "name": "Ethong",
+      "role": "USER",
+      "level": 20
+    },
+    "message": "IM LOOKING FOR [Dragon||BODY_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-07T22:55:58.006Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "bc8e6feb-bb40-4540-9470-ea5c349d769c",
+      "shortId": "GMX62R",
+      "name": "Ethong",
+      "role": "USER",
+      "level": 20
+    },
+    "message": "IWIN I GOT TRADE FOR U",
+    "timestamp": "2026-05-07T22:56:47.272Z"
   }
 ]
