@@ -178,5 +178,29 @@
     },
     "message": "qwerty what did you trade for helendus?",
     "timestamp": "2026-05-04T03:55:09.471Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "a2035d2a-40d0-4d1e-952b-4fc48dc53c94",
+      "shortId": "02979J",
+      "name": "Baduy",
+      "role": "USER",
+      "level": 96
+    },
+    "message": "/hm verde",
+    "timestamp": "2026-05-07T09:19:22.638Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "a2035d2a-40d0-4d1e-952b-4fc48dc53c94",
+      "shortId": "02979J",
+      "name": "Baduy",
+      "role": "USER",
+      "level": 96
+    },
+    "message": "/hm synergy",
+    "timestamp": "2026-05-07T09:19:29.089Z"
   }
 ]
