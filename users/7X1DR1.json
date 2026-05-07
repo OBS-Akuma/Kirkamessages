@@ -226,5 +226,77 @@
     },
     "message": "idh [Panda||BODY_SKIN|MYTHICAL]",
     "timestamp": "2026-05-07T18:10:40.870Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "a85523e5-6504-4784-9376-5914fc6aa06e",
+      "shortId": "7X1DR1",
+      "name": "HANNA",
+      "role": "USER",
+      "level": 27
+    },
+    "message": "/mywager",
+    "timestamp": "2026-05-07T18:16:35.110Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "a85523e5-6504-4784-9376-5914fc6aa06e",
+      "shortId": "7X1DR1",
+      "name": "HANNA",
+      "role": "USER",
+      "level": 27
+    },
+    "message": "/wager [Forbidden|AR-9|WEAPON_SKIN|MYTHICAL] #89z21j",
+    "timestamp": "2026-05-07T18:16:55.422Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "a85523e5-6504-4784-9376-5914fc6aa06e",
+      "shortId": "7X1DR1",
+      "name": "HANNA",
+      "role": "USER",
+      "level": 27
+    },
+    "message": "/last",
+    "timestamp": "2026-05-07T18:17:13.957Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "a85523e5-6504-4784-9376-5914fc6aa06e",
+      "shortId": "7X1DR1",
+      "name": "HANNA",
+      "role": "USER",
+      "level": 27
+    },
+    "message": "noo",
+    "timestamp": "2026-05-07T18:17:27.665Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "a85523e5-6504-4784-9376-5914fc6aa06e",
+      "shortId": "7X1DR1",
+      "name": "HANNA",
+      "role": "USER",
+      "level": 27
+    },
+    "message": "/enter",
+    "timestamp": "2026-05-07T18:17:50.204Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "a85523e5-6504-4784-9376-5914fc6aa06e",
+      "shortId": "7X1DR1",
+      "name": "HANNA",
+      "role": "USER",
+      "level": 27
+    },
+    "message": "/wager [Ortus|Revolver|WEAPON_SKIN|MYTHICAL] #ootn4l",
+    "timestamp": "2026-05-07T18:17:59.664Z"
   }
 ]
