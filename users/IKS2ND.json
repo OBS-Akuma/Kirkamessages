@@ -22,5 +22,41 @@
     },
     "message": "who wants to cf goldens",
     "timestamp": "2026-05-07T22:36:37.773Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "8f8504ad-4217-4a7e-86ac-9eeffb88829c",
+      "shortId": "IKS2ND",
+      "name": "El_Diablo",
+      "role": "USER",
+      "level": 78
+    },
+    "message": "/enter",
+    "timestamp": "2026-05-07T23:17:36.004Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "8f8504ad-4217-4a7e-86ac-9eeffb88829c",
+      "shortId": "IKS2ND",
+      "name": "El_Diablo",
+      "role": "USER",
+      "level": 78
+    },
+    "message": "/wager #F6XWN1 [Golden||CHEST|LEGENDARY]x200",
+    "timestamp": "2026-05-07T23:18:30.558Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "8f8504ad-4217-4a7e-86ac-9eeffb88829c",
+      "shortId": "IKS2ND",
+      "name": "El_Diablo",
+      "role": "USER",
+      "level": 78
+    },
+    "message": "/wager [Golden||CHEST|LEGENDARY]x200 #F6XWN1",
+    "timestamp": "2026-05-07T23:18:38.516Z"
   }
 ]
