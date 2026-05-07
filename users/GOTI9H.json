@@ -46,5 +46,29 @@
     },
     "message": "what's skin is the most expensive in the game",
     "timestamp": "2026-05-07T07:02:24.618Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "9c0118f5-b14f-4043-a9a8-00f0c8eec67c",
+      "shortId": "GOTI9H",
+      "name": "stagkiller",
+      "role": "USER",
+      "level": 81
+    },
+    "message": "[3bil]",
+    "timestamp": "2026-05-07T07:05:46.974Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "9c0118f5-b14f-4043-a9a8-00f0c8eec67c",
+      "shortId": "GOTI9H",
+      "name": "stagkiller",
+      "role": "USER",
+      "level": 81
+    },
+    "message": "what's a skin for 3bill",
+    "timestamp": "2026-05-07T07:06:02.338Z"
   }
 ]
