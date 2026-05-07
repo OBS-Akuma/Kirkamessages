@@ -382,5 +382,17 @@
     },
     "message": "ggs",
     "timestamp": "2026-05-04T08:01:26.871Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "c4be612c-91b2-460a-a030-43bb277d1e8f",
+      "shortId": "21ERUV",
+      "name": "Leo_Xtc",
+      "role": "USER",
+      "level": 99
+    },
+    "message": "/mywager",
+    "timestamp": "2026-05-07T17:59:48.260Z"
   }
 ]
