@@ -70,5 +70,29 @@
     },
     "message": "?",
     "timestamp": "2026-05-01T19:42:45.762Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "73f39405-343d-46a5-98f1-e401d46b81c0",
+      "shortId": "ECI0ZP",
+      "name": "SAKANDEEZNUTS",
+      "role": "USER",
+      "level": 100
+    },
+    "message": "/inv",
+    "timestamp": "2026-05-07T09:16:07.570Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "73f39405-343d-46a5-98f1-e401d46b81c0",
+      "shortId": "ECI0ZP",
+      "name": "SAKANDEEZNUTS",
+      "role": "USER",
+      "level": 100
+    },
+    "message": "no skull only dead",
+    "timestamp": "2026-05-07T09:16:24.993Z"
   }
 ]
