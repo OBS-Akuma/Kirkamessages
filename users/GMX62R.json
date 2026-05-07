@@ -202,5 +202,29 @@
     },
     "message": "/cancle",
     "timestamp": "2026-05-07T03:58:50.941Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "bc8e6feb-bb40-4540-9470-ea5c349d769c",
+      "shortId": "GMX62R",
+      "name": "Ethong",
+      "role": "USER",
+      "level": 19
+    },
+    "message": "DOES ANYONE HAVE DRAGON",
+    "timestamp": "2026-05-07T04:00:13.606Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "bc8e6feb-bb40-4540-9470-ea5c349d769c",
+      "shortId": "GMX62R",
+      "name": "Ethong",
+      "role": "USER",
+      "level": 19
+    },
+    "message": "/locate dragon",
+    "timestamp": "2026-05-07T04:00:19.816Z"
   }
 ]
