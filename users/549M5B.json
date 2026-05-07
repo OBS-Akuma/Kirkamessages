@@ -70,5 +70,17 @@
     },
     "message": "/mywager",
     "timestamp": "2026-05-07T23:15:09.411Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "8685e1d3-c485-4f8c-9e7f-55fa5f66839d",
+      "shortId": "549M5B",
+      "name": ".gg/faintw",
+      "role": "USER",
+      "level": 61
+    },
+    "message": "/claim",
+    "timestamp": "2026-05-07T23:16:17.838Z"
   }
 ]
