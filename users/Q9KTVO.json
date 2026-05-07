@@ -154,5 +154,17 @@
     },
     "message": "/hm [Forbidden|AR-9|WEAPON_SKIN|MYTHICAL]",
     "timestamp": "2026-05-07T03:50:22.592Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "726a6e5c-35f2-4a5a-a70a-a7b47b387951",
+      "shortId": "Q9KTVO",
+      "name": "TRULY",
+      "role": "USER",
+      "level": 70
+    },
+    "message": "collecting [Skyboy||BODY_SKIN|COMMON]",
+    "timestamp": "2026-05-07T03:58:20.745Z"
   }
 ]
