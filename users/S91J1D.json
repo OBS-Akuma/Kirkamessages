@@ -284,7 +284,7 @@
       "role": "USER",
       "level": 56
     },
-    "message": "I don’t have any better skin",
+    "message": "I donât have any better skin",
     "timestamp": "2026-05-07T06:40:06.403Z"
   },
   {
@@ -392,7 +392,7 @@
       "role": "USER",
       "level": 56
     },
-    "message": "Brooo it’s not fair mate",
+    "message": "Brooo itâs not fair mate",
     "timestamp": "2026-05-07T06:42:30.709Z"
   },
   {
@@ -464,7 +464,67 @@
       "role": "USER",
       "level": 56
     },
-    "message": "I’m crying!",
+    "message": "Iâm crying!",
     "timestamp": "2026-05-07T06:45:50.020Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "guest-65620a6d-142b-4bf1-a6de-d4efe847529e",
+      "shortId": "S91J1D",
+      "name": "[EGD]ThePhenom",
+      "role": "USER",
+      "level": 56
+    },
+    "message": "Lol",
+    "timestamp": "2026-05-07T06:57:00.017Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "guest-65620a6d-142b-4bf1-a6de-d4efe847529e",
+      "shortId": "S91J1D",
+      "name": "[EGD]ThePhenom",
+      "role": "USER",
+      "level": 56
+    },
+    "message": "Bruh",
+    "timestamp": "2026-05-07T06:58:01.484Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "guest-65620a6d-142b-4bf1-a6de-d4efe847529e",
+      "shortId": "S91J1D",
+      "name": "[EGD]ThePhenom",
+      "role": "USER",
+      "level": 56
+    },
+    "message": "Bye",
+    "timestamp": "2026-05-07T06:58:06.354Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "guest-65620a6d-142b-4bf1-a6de-d4efe847529e",
+      "shortId": "S91J1D",
+      "name": "[EGD]ThePhenom",
+      "role": "USER",
+      "level": 56
+    },
+    "message": "Tr[Vionix||BODY_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-07T06:58:33.696Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "guest-65620a6d-142b-4bf1-a6de-d4efe847529e",
+      "shortId": "S91J1D",
+      "name": "[EGD]ThePhenom",
+      "role": "USER",
+      "level": 56
+    },
+    "message": "[Vionix||BODY_SKIN|MYTHICAL] for [Punishment||BODY_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-07T06:59:23.470Z"
   }
 ]
