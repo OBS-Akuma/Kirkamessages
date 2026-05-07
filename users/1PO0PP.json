@@ -250,5 +250,17 @@
     },
     "message": "ok",
     "timestamp": "2026-05-07T18:03:02.024Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "488edfbc-cedd-422c-98dc-6d25fc41f35e",
+      "shortId": "1PO0PP",
+      "name": "|_Dark_Nova_|",
+      "role": "USER",
+      "level": 84
+    },
+    "message": "/wagar [Boby||BODY_SKIN|COMMON]",
+    "timestamp": "2026-05-07T18:13:16.125Z"
   }
 ]
