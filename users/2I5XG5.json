@@ -1070,5 +1070,53 @@
     },
     "message": "vm",
     "timestamp": "2026-05-07T21:17:55.887Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "2498c3da-6441-41f3-847f-8416f1e874f2",
+      "shortId": "2I5XG5",
+      "name": "4xbg",
+      "role": "USER",
+      "level": 38
+    },
+    "message": "/inv",
+    "timestamp": "2026-05-07T23:52:13.276Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "2498c3da-6441-41f3-847f-8416f1e874f2",
+      "shortId": "2I5XG5",
+      "name": "4xbg",
+      "role": "USER",
+      "level": 38
+    },
+    "message": "LF[Golden||CHEST|LEGENDARY]x30k",
+    "timestamp": "2026-05-07T23:55:38.139Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "2498c3da-6441-41f3-847f-8416f1e874f2",
+      "shortId": "2I5XG5",
+      "name": "4xbg",
+      "role": "USER",
+      "level": 38
+    },
+    "message": "/inv #HUB956",
+    "timestamp": "2026-05-07T23:56:28.168Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "2498c3da-6441-41f3-847f-8416f1e874f2",
+      "shortId": "2I5XG5",
+      "name": "4xbg",
+      "role": "USER",
+      "level": 38
+    },
+    "message": "/inv #2MHNQX",
+    "timestamp": "2026-05-07T23:57:59.262Z"
   }
 ]
