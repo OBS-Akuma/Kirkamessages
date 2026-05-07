@@ -226,5 +226,29 @@
     },
     "message": "/hm [Arachne|VITA|WEAPON_SKIN|MYTHICAL]",
     "timestamp": "2026-05-04T04:06:55.330Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "5c75b2d7-9364-4cdf-8a05-4f98b9d990f5",
+      "shortId": "AIIMYI",
+      "name": "xyds",
+      "role": "USER",
+      "level": 84
+    },
+    "message": "/hm [Blueberry|VITA|WEAPON_SKIN|RARE]",
+    "timestamp": "2026-05-07T02:42:11.973Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "5c75b2d7-9364-4cdf-8a05-4f98b9d990f5",
+      "shortId": "AIIMYI",
+      "name": "xyds",
+      "role": "USER",
+      "level": 84
+    },
+    "message": "/hm [Gazer||BODY_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-07T02:44:32.837Z"
   }
 ]
