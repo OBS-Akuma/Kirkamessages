@@ -478,5 +478,41 @@
     },
     "message": "/price skillz",
     "timestamp": "2026-05-04T08:25:57.395Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "34f8f3a3-088e-45dd-badd-4e80aca43934",
+      "shortId": "IGADFZ",
+      "name": "Night.",
+      "role": "USER",
+      "level": 66
+    },
+    "message": "/price lion",
+    "timestamp": "2026-05-07T07:38:52.174Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "34f8f3a3-088e-45dd-badd-4e80aca43934",
+      "shortId": "IGADFZ",
+      "name": "Night.",
+      "role": "USER",
+      "level": 66
+    },
+    "message": "/price tides",
+    "timestamp": "2026-05-07T07:38:58.022Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "34f8f3a3-088e-45dd-badd-4e80aca43934",
+      "shortId": "IGADFZ",
+      "name": "Night.",
+      "role": "USER",
+      "level": 66
+    },
+    "message": "/price waves",
+    "timestamp": "2026-05-07T07:39:03.688Z"
   }
 ]
