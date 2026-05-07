@@ -8,7 +8,7 @@
       "role": "USER",
       "level": 48
     },
-    "message": "TÃÂ¡ com inveja?",
+    "message": "TÃÂÃÂ¡ com inveja?",
     "timestamp": "2026-05-07T18:01:54.923Z"
   },
   {
@@ -116,7 +116,7 @@
       "role": "USER",
       "level": 48
     },
-    "message": "Já acabei o trade",
+    "message": "JÃ¡ acabei o trade",
     "timestamp": "2026-05-07T18:09:01.197Z"
   },
   {
@@ -130,5 +130,17 @@
     },
     "message": "Bora bora",
     "timestamp": "2026-05-07T18:09:14.250Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "7d4f78ef-2b90-4c0a-be76-d47c869d11c8",
+      "shortId": "9ZUY3P",
+      "name": "MY|NIGHTMARE",
+      "role": "USER",
+      "level": 48
+    },
+    "message": "Someone have Frozen?",
+    "timestamp": "2026-05-07T18:14:21.817Z"
   }
 ]
