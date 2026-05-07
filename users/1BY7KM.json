@@ -2241,5 +2241,41 @@
     },
     "message": "dragon shark,[Sunshine||BODY_SKIN|MYTHICAL] for it?",
     "timestamp": "2026-05-07T07:54:34.733Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "a0103ee0-5459-48e5-9959-9199c3cac592",
+      "shortId": "1BY7KM",
+      "name": "pepe",
+      "role": "USER",
+      "level": 96
+    },
+    "message": "[Sunshine||BODY_SKIN|MYTHICAL],2x[Ortus|Revolver|WEAPON_SKIN|MYTHICAL] for your:{janett]",
+    "timestamp": "2026-05-07T08:06:53.677Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "a0103ee0-5459-48e5-9959-9199c3cac592",
+      "shortId": "1BY7KM",
+      "name": "pepe",
+      "role": "USER",
+      "level": 96
+    },
+    "message": "accept",
+    "timestamp": "2026-05-07T08:07:41.822Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "a0103ee0-5459-48e5-9959-9199c3cac592",
+      "shortId": "1BY7KM",
+      "name": "pepe",
+      "role": "USER",
+      "level": 96
+    },
+    "message": "!!!",
+    "timestamp": "2026-05-07T08:07:42.949Z"
   }
 ]
