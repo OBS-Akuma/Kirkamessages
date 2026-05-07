@@ -598,5 +598,29 @@
     },
     "message": "/inv #GIXFLX",
     "timestamp": "2026-05-07T19:07:27.805Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "zkUzuHzV1sOAL9ZUyRPVDszlcgq2",
+      "shortId": "LU1ND8",
+      "name": "Br0keN|yt",
+      "role": "USER",
+      "level": 83
+    },
+    "message": "/wager [RGB||BODY_SKIN|LEGENDARY] #M1D0JC",
+    "timestamp": "2026-05-07T19:08:18.752Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "zkUzuHzV1sOAL9ZUyRPVDszlcgq2",
+      "shortId": "LU1ND8",
+      "name": "Br0keN|yt",
+      "role": "USER",
+      "level": 83
+    },
+    "message": "/wager [RGB||BODY_SKIN|LEGENDARY] #M1D0JC.",
+    "timestamp": "2026-05-07T19:09:51.662Z"
   }
 ]
