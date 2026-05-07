@@ -118,5 +118,89 @@
     },
     "message": "i want CV01",
     "timestamp": "2026-05-03T15:44:29.895Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "e7ca017c-557f-4b21-96eb-3ec2a9a728ab",
+      "shortId": "8SQMAK",
+      "name": "Eri.",
+      "role": "USER",
+      "level": 52
+    },
+    "message": "/hm polar",
+    "timestamp": "2026-05-07T04:35:49.441Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "e7ca017c-557f-4b21-96eb-3ec2a9a728ab",
+      "shortId": "8SQMAK",
+      "name": "Eri.",
+      "role": "USER",
+      "level": 52
+    },
+    "message": "tr [Melody||BODY_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-07T04:36:08.936Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "e7ca017c-557f-4b21-96eb-3ec2a9a728ab",
+      "shortId": "8SQMAK",
+      "name": "Eri.",
+      "role": "USER",
+      "level": 52
+    },
+    "message": "tagi melody tr golar",
+    "timestamp": "2026-05-07T04:36:45.371Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "e7ca017c-557f-4b21-96eb-3ec2a9a728ab",
+      "shortId": "8SQMAK",
+      "name": "Eri.",
+      "role": "USER",
+      "level": 52
+    },
+    "message": "tr melody",
+    "timestamp": "2026-05-07T04:37:11.918Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "e7ca017c-557f-4b21-96eb-3ec2a9a728ab",
+      "shortId": "8SQMAK",
+      "name": "Eri.",
+      "role": "USER",
+      "level": 52
+    },
+    "message": "#8SQMAK",
+    "timestamp": "2026-05-07T04:38:44.482Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "e7ca017c-557f-4b21-96eb-3ec2a9a728ab",
+      "shortId": "8SQMAK",
+      "name": "Eri.",
+      "role": "USER",
+      "level": 52
+    },
+    "message": "TRADE",
+    "timestamp": "2026-05-07T04:38:59.494Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "e7ca017c-557f-4b21-96eb-3ec2a9a728ab",
+      "shortId": "8SQMAK",
+      "name": "Eri.",
+      "role": "USER",
+      "level": 52
+    },
+    "message": "TAGIYEV07 HAVE [Melody||BODY_SKIN|MYTHICAL] AND [Koi|Bayonet|WEAPON_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-07T04:39:43.879Z"
   }
 ]
