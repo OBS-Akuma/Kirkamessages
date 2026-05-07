@@ -214,5 +214,17 @@
     },
     "message": "/price vintage",
     "timestamp": "2026-05-07T05:53:00.151Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "ef6ad6dd-220e-40eb-afe4-1520b78be5d7",
+      "shortId": "69Y0E5",
+      "name": "MrMelone",
+      "role": "USER",
+      "level": 52
+    },
+    "message": "tanjori",
+    "timestamp": "2026-05-07T06:34:18.771Z"
   }
 ]
