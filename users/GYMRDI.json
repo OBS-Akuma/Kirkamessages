@@ -142,5 +142,17 @@
     },
     "message": "ata",
     "timestamp": "2026-05-07T18:06:27.331Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "aff12ba2-95c0-4420-b396-aa096ad81dc3",
+      "shortId": "GYMRDI",
+      "name": "fodepaty",
+      "role": "USER",
+      "level": 56
+    },
+    "message": "ranked nn mn",
+    "timestamp": "2026-05-07T18:08:56.368Z"
   }
 ]
