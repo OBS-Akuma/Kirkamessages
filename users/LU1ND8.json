@@ -574,5 +574,29 @@
     },
     "message": "yes?",
     "timestamp": "2026-05-07T18:39:24.847Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "zkUzuHzV1sOAL9ZUyRPVDszlcgq2",
+      "shortId": "LU1ND8",
+      "name": "Br0keN|yt",
+      "role": "USER",
+      "level": 83
+    },
+    "message": "TR[Anon||BODY_SKIN|MYTHICAL][Cinder||BODY_SKIN|MYTHICAL][RGB||BODY_SKIN|LEGENDARY]",
+    "timestamp": "2026-05-07T19:07:17.941Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "zkUzuHzV1sOAL9ZUyRPVDszlcgq2",
+      "shortId": "LU1ND8",
+      "name": "Br0keN|yt",
+      "role": "USER",
+      "level": 83
+    },
+    "message": "/inv #GIXFLX",
+    "timestamp": "2026-05-07T19:07:27.805Z"
   }
 ]
