@@ -3514,5 +3514,41 @@
     },
     "message": "first time winning in like 4 days",
     "timestamp": "2026-05-07T22:04:59.950Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "ca796794-55ff-407e-801b-d8512272b68d",
+      "shortId": "HC3YLK",
+      "name": "Flying_Bread",
+      "role": "USER",
+      "level": 65
+    },
+    "message": "wait",
+    "timestamp": "2026-05-07T22:05:19.885Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "ca796794-55ff-407e-801b-d8512272b68d",
+      "shortId": "HC3YLK",
+      "name": "Flying_Bread",
+      "role": "USER",
+      "level": 65
+    },
+    "message": "Leo... can I trade my [Twitch||BODY_SKIN|MYTHICAL] for something from ur inv and then we wager that?",
+    "timestamp": "2026-05-07T22:05:44.145Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "ca796794-55ff-407e-801b-d8512272b68d",
+      "shortId": "HC3YLK",
+      "name": "Flying_Bread",
+      "role": "USER",
+      "level": 65
+    },
+    "message": "cuz I wanna wager like small things... before I go broke again",
+    "timestamp": "2026-05-07T22:06:07.069Z"
   }
 ]
