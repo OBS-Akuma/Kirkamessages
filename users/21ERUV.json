@@ -394,5 +394,29 @@
     },
     "message": "/mywager",
     "timestamp": "2026-05-07T17:59:48.260Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "c4be612c-91b2-460a-a030-43bb277d1e8f",
+      "shortId": "21ERUV",
+      "name": "Leo_Xtc",
+      "role": "USER",
+      "level": 99
+    },
+    "message": "Last and ggs",
+    "timestamp": "2026-05-07T20:03:27.065Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "c4be612c-91b2-460a-a030-43bb277d1e8f",
+      "shortId": "21ERUV",
+      "name": "Leo_Xtc",
+      "role": "USER",
+      "level": 99
+    },
+    "message": "ggs",
+    "timestamp": "2026-05-07T20:03:43.497Z"
   }
 ]
