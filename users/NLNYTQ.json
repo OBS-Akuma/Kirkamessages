@@ -1126,5 +1126,41 @@
     },
     "message": "/vt 19153",
     "timestamp": "2026-05-07T06:59:24.686Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "ec9f98f4-60e6-4523-aa96-bcf7fcd9a4bb",
+      "shortId": "NLNYTQ",
+      "name": "_DaMinion",
+      "role": "USER",
+      "level": 84
+    },
+    "message": "trading [Qod||BODY_SKIN|MYTHICAL] lol",
+    "timestamp": "2026-05-07T07:03:35.884Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "ec9f98f4-60e6-4523-aa96-bcf7fcd9a4bb",
+      "shortId": "NLNYTQ",
+      "name": "_DaMinion",
+      "role": "USER",
+      "level": 84
+    },
+    "message": "killeerrstrike",
+    "timestamp": "2026-05-07T07:05:23.415Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "ec9f98f4-60e6-4523-aa96-bcf7fcd9a4bb",
+      "shortId": "NLNYTQ",
+      "name": "_DaMinion",
+      "role": "USER",
+      "level": 84
+    },
+    "message": "[Beach|Bayonet|WEAPON_SKIN|LEGENDARY]",
+    "timestamp": "2026-05-07T07:06:16.216Z"
   }
 ]
