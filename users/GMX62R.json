@@ -226,5 +226,17 @@
     },
     "message": "/locate dragon",
     "timestamp": "2026-05-07T04:00:19.816Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "bc8e6feb-bb40-4540-9470-ea5c349d769c",
+      "shortId": "GMX62R",
+      "name": "Ethong",
+      "role": "USER",
+      "level": 20
+    },
+    "message": "/enter",
+    "timestamp": "2026-05-07T20:18:58.759Z"
   }
 ]
