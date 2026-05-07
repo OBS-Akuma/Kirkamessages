@@ -1642,5 +1642,65 @@
     },
     "message": "Then?",
     "timestamp": "2026-05-07T08:14:59.788Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "ccb0989c-752e-489f-a2a2-cacbd0491076",
+      "shortId": "5GP14K",
+      "name": "Dr.strange",
+      "role": "USER",
+      "level": 84
+    },
+    "message": "Umm",
+    "timestamp": "2026-05-07T08:15:17.769Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "ccb0989c-752e-489f-a2a2-cacbd0491076",
+      "shortId": "5GP14K",
+      "name": "Dr.strange",
+      "role": "USER",
+      "level": 84
+    },
+    "message": "[Astronova|LAR|WEAPON_SKIN|MYTHICAL]?",
+    "timestamp": "2026-05-07T08:15:36.325Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "ccb0989c-752e-489f-a2a2-cacbd0491076",
+      "shortId": "5GP14K",
+      "name": "Dr.strange",
+      "role": "USER",
+      "level": 84
+    },
+    "message": "Level 102 spawn",
+    "timestamp": "2026-05-07T08:15:47.449Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "ccb0989c-752e-489f-a2a2-cacbd0491076",
+      "shortId": "5GP14K",
+      "name": "Dr.strange",
+      "role": "USER",
+      "level": 84
+    },
+    "message": "/wager [Astronova|LAR|WEAPON_SKIN|MYTHICAL] #609GEM",
+    "timestamp": "2026-05-07T08:16:03.853Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "ccb0989c-752e-489f-a2a2-cacbd0491076",
+      "shortId": "5GP14K",
+      "name": "Dr.strange",
+      "role": "USER",
+      "level": 84
+    },
+    "message": "Accept???",
+    "timestamp": "2026-05-07T08:16:53.869Z"
   }
 ]
