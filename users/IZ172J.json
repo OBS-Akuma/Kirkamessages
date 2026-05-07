@@ -58,5 +58,53 @@
     },
     "message": "Vortex my or and 200 golden for retro",
     "timestamp": "2026-05-07T18:02:25.964Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "13b24829-c64d-419c-be63-d763f6e055c4",
+      "shortId": "IZ172J",
+      "name": "Fear",
+      "role": "USER",
+      "level": 44
+    },
+    "message": "/hm retro",
+    "timestamp": "2026-05-07T18:02:40.572Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "13b24829-c64d-419c-be63-d763f6e055c4",
+      "shortId": "IZ172J",
+      "name": "Fear",
+      "role": "USER",
+      "level": 44
+    },
+    "message": "Ok",
+    "timestamp": "2026-05-07T18:03:35.730Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "13b24829-c64d-419c-be63-d763f6e055c4",
+      "shortId": "IZ172J",
+      "name": "Fear",
+      "role": "USER",
+      "level": 44
+    },
+    "message": "Ty vortex",
+    "timestamp": "2026-05-07T18:06:12.382Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "13b24829-c64d-419c-be63-d763f6e055c4",
+      "shortId": "IZ172J",
+      "name": "Fear",
+      "role": "USER",
+      "level": 44
+    },
+    "message": "Who has [Candle|Bayonet|WEAPON_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-07T18:07:46.178Z"
   }
 ]
