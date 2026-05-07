@@ -10,5 +10,29 @@
     },
     "message": "/enter",
     "timestamp": "2026-05-07T05:34:22.687Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "0aa4b82d-c493-46e5-b15e-1a5be70aca94",
+      "shortId": "71G00F",
+      "name": "cc-baals",
+      "role": "USER",
+      "level": 82
+    },
+    "message": "/",
+    "timestamp": "2026-05-07T18:17:29.392Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "0aa4b82d-c493-46e5-b15e-1a5be70aca94",
+      "shortId": "71G00F",
+      "name": "cc-baals",
+      "role": "USER",
+      "level": 82
+    },
+    "message": "/enter",
+    "timestamp": "2026-05-07T18:18:10.598Z"
   }
 ]
