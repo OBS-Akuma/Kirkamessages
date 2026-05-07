@@ -1570,5 +1570,53 @@
     },
     "message": "Trading [Ranked_S3 Top100|Bayonet|WEAPON_SKIN|MYTHICAL][Slasher||BODY_SKIN|PARANORMAL]",
     "timestamp": "2026-05-07T06:11:33.720Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "5d544b9e-5ca6-4638-b3a2-0318522e29af",
+      "shortId": "TRE873",
+      "name": "QWERTY",
+      "role": "USER",
+      "level": 67
+    },
+    "message": "Trading [Slasher||BODY_SKIN|PARANORMAL]",
+    "timestamp": "2026-05-07T06:11:59.387Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "5d544b9e-5ca6-4638-b3a2-0318522e29af",
+      "shortId": "TRE873",
+      "name": "QWERTY",
+      "role": "USER",
+      "level": 67
+    },
+    "message": "Intheroom",
+    "timestamp": "2026-05-07T06:12:36.034Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "5d544b9e-5ca6-4638-b3a2-0318522e29af",
+      "shortId": "TRE873",
+      "name": "QWERTY",
+      "role": "USER",
+      "level": 67
+    },
+    "message": "Already made trade intheroom",
+    "timestamp": "2026-05-07T06:13:18.134Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "5d544b9e-5ca6-4638-b3a2-0318522e29af",
+      "shortId": "TRE873",
+      "name": "QWERTY",
+      "role": "USER",
+      "level": 67
+    },
+    "message": "Ggs thanks!",
+    "timestamp": "2026-05-07T06:13:42.170Z"
   }
 ]
