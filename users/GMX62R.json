@@ -94,5 +94,41 @@
     },
     "message": "e",
     "timestamp": "2026-05-07T01:57:03.924Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "bc8e6feb-bb40-4540-9470-ea5c349d769c",
+      "shortId": "GMX62R",
+      "name": "Ethong",
+      "role": "USER",
+      "level": 18
+    },
+    "message": "/inv",
+    "timestamp": "2026-05-07T02:00:52.361Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "bc8e6feb-bb40-4540-9470-ea5c349d769c",
+      "shortId": "GMX62R",
+      "name": "Ethong",
+      "role": "USER",
+      "level": 18
+    },
+    "message": "/hm lucky]",
+    "timestamp": "2026-05-07T02:01:56.288Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "bc8e6feb-bb40-4540-9470-ea5c349d769c",
+      "shortId": "GMX62R",
+      "name": "Ethong",
+      "role": "USER",
+      "level": 18
+    },
+    "message": "I use to'",
+    "timestamp": "2026-05-07T02:02:27.554Z"
   }
 ]
