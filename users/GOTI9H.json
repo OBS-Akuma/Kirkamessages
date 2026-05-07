@@ -1,0 +1,50 @@
+[
+  {
+    "type": 2,
+    "user": {
+      "id": "9c0118f5-b14f-4043-a9a8-00f0c8eec67c",
+      "shortId": "GOTI9H",
+      "name": "stagkiller",
+      "role": "USER",
+      "level": 81
+    },
+    "message": "[Error||BODY_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-07T07:00:44.767Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "9c0118f5-b14f-4043-a9a8-00f0c8eec67c",
+      "shortId": "GOTI9H",
+      "name": "stagkiller",
+      "role": "USER",
+      "level": 81
+    },
+    "message": "/hm [Error||BODY_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-07T07:00:55.883Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "9c0118f5-b14f-4043-a9a8-00f0c8eec67c",
+      "shortId": "GOTI9H",
+      "name": "stagkiller",
+      "role": "USER",
+      "level": 81
+    },
+    "message": "/hm [Wraith||BODY_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-07T07:01:17.258Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "9c0118f5-b14f-4043-a9a8-00f0c8eec67c",
+      "shortId": "GOTI9H",
+      "name": "stagkiller",
+      "role": "USER",
+      "level": 81
+    },
+    "message": "what's skin is the most expensive in the game",
+    "timestamp": "2026-05-07T07:02:24.618Z"
+  }
+]
