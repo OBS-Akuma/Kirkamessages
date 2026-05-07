@@ -8,7 +8,7 @@
       "role": "USER",
       "level": 48
     },
-    "message": "TÃ¡ com inveja?",
+    "message": "TÃÂ¡ com inveja?",
     "timestamp": "2026-05-07T18:01:54.923Z"
   },
   {
@@ -58,5 +58,77 @@
     },
     "message": "Skin feia",
     "timestamp": "2026-05-07T18:04:05.604Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "7d4f78ef-2b90-4c0a-be76-d47c869d11c8",
+      "shortId": "9ZUY3P",
+      "name": "MY|NIGHTMARE",
+      "role": "USER",
+      "level": 48
+    },
+    "message": "Iwin",
+    "timestamp": "2026-05-07T18:07:17.403Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "7d4f78ef-2b90-4c0a-be76-d47c869d11c8",
+      "shortId": "9ZUY3P",
+      "name": "MY|NIGHTMARE",
+      "role": "USER",
+      "level": 48
+    },
+    "message": "Hm for gazer",
+    "timestamp": "2026-05-07T18:07:33.754Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "7d4f78ef-2b90-4c0a-be76-d47c869d11c8",
+      "shortId": "9ZUY3P",
+      "name": "MY|NIGHTMARE",
+      "role": "USER",
+      "level": 48
+    },
+    "message": "Im offering [Astatine||BODY_SKIN|MYTHICAL]x2",
+    "timestamp": "2026-05-07T18:08:12.417Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "7d4f78ef-2b90-4c0a-be76-d47c869d11c8",
+      "shortId": "9ZUY3P",
+      "name": "MY|NIGHTMARE",
+      "role": "USER",
+      "level": 48
+    },
+    "message": "Bora",
+    "timestamp": "2026-05-07T18:08:50.965Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "7d4f78ef-2b90-4c0a-be76-d47c869d11c8",
+      "shortId": "9ZUY3P",
+      "name": "MY|NIGHTMARE",
+      "role": "USER",
+      "level": 48
+    },
+    "message": "Já acabei o trade",
+    "timestamp": "2026-05-07T18:09:01.197Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "7d4f78ef-2b90-4c0a-be76-d47c869d11c8",
+      "shortId": "9ZUY3P",
+      "name": "MY|NIGHTMARE",
+      "role": "USER",
+      "level": 48
+    },
+    "message": "Bora bora",
+    "timestamp": "2026-05-07T18:09:14.250Z"
   }
 ]
