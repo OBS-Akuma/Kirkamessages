@@ -751,5 +751,29 @@
     },
     "message": "lol",
     "timestamp": "2026-05-07T04:20:45.812Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "c3e3dbc6-624d-450c-908a-672ba348b1fd",
+      "shortId": "FPUPR5",
+      "name": "Worman",
+      "role": "USER",
+      "level": 99
+    },
+    "message": "/hm lion",
+    "timestamp": "2026-05-07T05:14:30.034Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "c3e3dbc6-624d-450c-908a-672ba348b1fd",
+      "shortId": "FPUPR5",
+      "name": "Worman",
+      "role": "USER",
+      "level": 99
+    },
+    "message": "i think its too new for a price",
+    "timestamp": "2026-05-07T05:14:50.905Z"
   }
 ]
