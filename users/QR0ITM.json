@@ -3034,5 +3034,17 @@
     },
     "message": "do you trade any dupes item?",
     "timestamp": "2026-05-07T08:08:36.115Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "6828517b-6c30-42c0-a4b1-2601e1dd5206",
+      "shortId": "QR0ITM",
+      "name": "SayaAkanLawan!",
+      "role": "USER",
+      "level": 100
+    },
+    "message": "/inv",
+    "timestamp": "2026-05-07T08:27:30.662Z"
   }
 ]
