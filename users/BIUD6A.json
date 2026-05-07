@@ -166,5 +166,53 @@
     },
     "message": "/commands",
     "timestamp": "2026-05-02T19:35:57.446Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "830fe4c0-52ac-4cfd-b6c8-23978d88c95d",
+      "shortId": "BIUD6A",
+      "name": "gamer.pro",
+      "role": "USER",
+      "level": 55
+    },
+    "message": "beetle",
+    "timestamp": "2026-05-07T09:43:35.532Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "830fe4c0-52ac-4cfd-b6c8-23978d88c95d",
+      "shortId": "BIUD6A",
+      "name": "gamer.pro",
+      "role": "USER",
+      "level": 55
+    },
+    "message": "rgb and void vita for cyborg",
+    "timestamp": "2026-05-07T09:43:48.638Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "830fe4c0-52ac-4cfd-b6c8-23978d88c95d",
+      "shortId": "BIUD6A",
+      "name": "gamer.pro",
+      "role": "USER",
+      "level": 55
+    },
+    "message": "rgb for it",
+    "timestamp": "2026-05-07T09:44:00.724Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "830fe4c0-52ac-4cfd-b6c8-23978d88c95d",
+      "shortId": "BIUD6A",
+      "name": "gamer.pro",
+      "role": "USER",
+      "level": 55
+    },
+    "message": "[RGB||BODY_SKIN|LEGENDARY]",
+    "timestamp": "2026-05-07T09:44:20.692Z"
   }
 ]
