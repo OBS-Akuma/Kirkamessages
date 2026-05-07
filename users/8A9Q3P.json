@@ -1,0 +1,38 @@
+[
+  {
+    "type": 2,
+    "user": {
+      "id": "100fdbf9-ecd8-474d-9b18-556d4902d9e0",
+      "shortId": "8A9Q3P",
+      "name": "++Cy-_-Ls++",
+      "role": "USER",
+      "level": 6
+    },
+    "message": "/enter",
+    "timestamp": "2026-05-07T20:30:07.036Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "100fdbf9-ecd8-474d-9b18-556d4902d9e0",
+      "shortId": "8A9Q3P",
+      "name": "++Cy-_-Ls++",
+      "role": "USER",
+      "level": 6
+    },
+    "message": ";claim",
+    "timestamp": "2026-05-07T20:30:13.302Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "100fdbf9-ecd8-474d-9b18-556d4902d9e0",
+      "shortId": "8A9Q3P",
+      "name": "++Cy-_-Ls++",
+      "role": "USER",
+      "level": 6
+    },
+    "message": "/claim",
+    "timestamp": "2026-05-07T20:30:16.739Z"
+  }
+]
