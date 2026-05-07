@@ -82,5 +82,17 @@
     },
     "message": "/enter",
     "timestamp": "2026-05-05T23:34:51.268Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "bc8e6feb-bb40-4540-9470-ea5c349d769c",
+      "shortId": "GMX62R",
+      "name": "Ethong",
+      "role": "USER",
+      "level": 18
+    },
+    "message": "e",
+    "timestamp": "2026-05-07T01:57:03.924Z"
   }
 ]
