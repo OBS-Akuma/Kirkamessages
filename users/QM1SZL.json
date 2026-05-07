@@ -1714,5 +1714,53 @@
     },
     "message": "yt brooo",
     "timestamp": "2026-05-06T02:21:56.204Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "af68d0f3-d7f6-4e9e-8cda-3689fb482610",
+      "shortId": "QM1SZL",
+      "name": "RIHAN",
+      "role": "USER",
+      "level": 48
+    },
+    "message": "Tr [Elf||BODY_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-07T06:58:12.700Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "af68d0f3-d7f6-4e9e-8cda-3689fb482610",
+      "shortId": "QM1SZL",
+      "name": "RIHAN",
+      "role": "USER",
+      "level": 48
+    },
+    "message": "Zenix",
+    "timestamp": "2026-05-07T06:58:45.368Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "af68d0f3-d7f6-4e9e-8cda-3689fb482610",
+      "shortId": "QM1SZL",
+      "name": "RIHAN",
+      "role": "USER",
+      "level": 48
+    },
+    "message": "Zenix [Vocaloid|SCAR|WEAPON_SKIN|LEGENDARY] for [Elf||BODY_SKIN|MYTHICAL]?",
+    "timestamp": "2026-05-07T06:58:55.070Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "af68d0f3-d7f6-4e9e-8cda-3689fb482610",
+      "shortId": "QM1SZL",
+      "name": "RIHAN",
+      "role": "USER",
+      "level": 48
+    },
+    "message": "ok",
+    "timestamp": "2026-05-07T06:59:04.721Z"
   }
 ]
