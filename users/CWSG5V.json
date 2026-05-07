@@ -346,5 +346,77 @@
     },
     "message": "how is KLO calculated?",
     "timestamp": "2026-05-07T03:58:20.737Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "8555bb57-2c28-4acb-8d99-5ed0031e8883",
+      "shortId": "CWSG5V",
+      "name": "swankz",
+      "role": "USER",
+      "level": 81
+    },
+    "message": "/hm candle",
+    "timestamp": "2026-05-07T04:08:05.191Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "8555bb57-2c28-4acb-8d99-5ed0031e8883",
+      "shortId": "CWSG5V",
+      "name": "swankz",
+      "role": "USER",
+      "level": 81
+    },
+    "message": "/hm ostern",
+    "timestamp": "2026-05-07T04:08:10.257Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "8555bb57-2c28-4acb-8d99-5ed0031e8883",
+      "shortId": "CWSG5V",
+      "name": "swankz",
+      "role": "USER",
+      "level": 81
+    },
+    "message": "s",
+    "timestamp": "2026-05-07T04:08:16.158Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "8555bb57-2c28-4acb-8d99-5ed0031e8883",
+      "shortId": "CWSG5V",
+      "name": "swankz",
+      "role": "USER",
+      "level": 81
+    },
+    "message": "/hm ostern",
+    "timestamp": "2026-05-07T04:08:20.790Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "8555bb57-2c28-4acb-8d99-5ed0031e8883",
+      "shortId": "CWSG5V",
+      "name": "swankz",
+      "role": "USER",
+      "level": 81
+    },
+    "message": "s",
+    "timestamp": "2026-05-07T04:08:57.928Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "8555bb57-2c28-4acb-8d99-5ed0031e8883",
+      "shortId": "CWSG5V",
+      "name": "swankz",
+      "role": "USER",
+      "level": 81
+    },
+    "message": "/hm ostern",
+    "timestamp": "2026-05-07T04:09:01.459Z"
   }
 ]
