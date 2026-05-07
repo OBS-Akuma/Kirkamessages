@@ -154,5 +154,101 @@
     },
     "message": "sry mb idh i typed by mistake",
     "timestamp": "2026-05-07T07:56:48.220Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "3823c788-8970-4e00-ae41-b7667620cb07",
+      "shortId": "R5OVBZ",
+      "name": "SeductiveSnake",
+      "role": "USER",
+      "level": 28
+    },
+    "message": "trading [Gardener|Bayonet|WEAPON_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-07T07:57:19.408Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "3823c788-8970-4e00-ae41-b7667620cb07",
+      "shortId": "R5OVBZ",
+      "name": "SeductiveSnake",
+      "role": "USER",
+      "level": 28
+    },
+    "message": "whats the command to see the skin originated",
+    "timestamp": "2026-05-07T08:00:34.649Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "3823c788-8970-4e00-ae41-b7667620cb07",
+      "shortId": "R5OVBZ",
+      "name": "SeductiveSnake",
+      "role": "USER",
+      "level": 28
+    },
+    "message": "whats the command to see the skin originated ???",
+    "timestamp": "2026-05-07T08:00:38.937Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "3823c788-8970-4e00-ae41-b7667620cb07",
+      "shortId": "R5OVBZ",
+      "name": "SeductiveSnake",
+      "role": "USER",
+      "level": 28
+    },
+    "message": "/origin [Gazer||BODY_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-07T08:00:51.849Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "3823c788-8970-4e00-ae41-b7667620cb07",
+      "shortId": "R5OVBZ",
+      "name": "SeductiveSnake",
+      "role": "USER",
+      "level": 28
+    },
+    "message": "/find [Gazer||BODY_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-07T08:01:00.410Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "3823c788-8970-4e00-ae41-b7667620cb07",
+      "shortId": "R5OVBZ",
+      "name": "SeductiveSnake",
+      "role": "USER",
+      "level": 28
+    },
+    "message": "deimos whats the cmd to see the skin originated",
+    "timestamp": "2026-05-07T08:01:14.886Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "3823c788-8970-4e00-ae41-b7667620cb07",
+      "shortId": "R5OVBZ",
+      "name": "SeductiveSnake",
+      "role": "USER",
+      "level": 28
+    },
+    "message": "yeah like either its a twitch drop or shop or whatever",
+    "timestamp": "2026-05-07T08:01:36.673Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "3823c788-8970-4e00-ae41-b7667620cb07",
+      "shortId": "R5OVBZ",
+      "name": "SeductiveSnake",
+      "role": "USER",
+      "level": 28
+    },
+    "message": "deimos yk the cmd ?",
+    "timestamp": "2026-05-07T08:01:58.383Z"
   }
 ]
