@@ -466,5 +466,113 @@
     },
     "message": "for?",
     "timestamp": "2026-05-07T02:50:54.832Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "407c8457-a88c-495b-8540-9a63797d20ea",
+      "shortId": "BWXE30",
+      "name": "Nickeru-Chan",
+      "role": "USER",
+      "level": 65
+    },
+    "message": "wood",
+    "timestamp": "2026-05-07T02:51:11.809Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "407c8457-a88c-495b-8540-9a63797d20ea",
+      "shortId": "BWXE30",
+      "name": "Nickeru-Chan",
+      "role": "USER",
+      "level": 65
+    },
+    "message": "ok",
+    "timestamp": "2026-05-07T02:51:35.564Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "407c8457-a88c-495b-8540-9a63797d20ea",
+      "shortId": "BWXE30",
+      "name": "Nickeru-Chan",
+      "role": "USER",
+      "level": 65
+    },
+    "message": "/confirmwager",
+    "timestamp": "2026-05-07T02:51:40.977Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "407c8457-a88c-495b-8540-9a63797d20ea",
+      "shortId": "BWXE30",
+      "name": "Nickeru-Chan",
+      "role": "USER",
+      "level": 65
+    },
+    "message": "/claim",
+    "timestamp": "2026-05-07T02:52:17.453Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "407c8457-a88c-495b-8540-9a63797d20ea",
+      "shortId": "BWXE30",
+      "name": "Nickeru-Chan",
+      "role": "USER",
+      "level": 65
+    },
+    "message": "gg",
+    "timestamp": "2026-05-07T02:52:22.746Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "407c8457-a88c-495b-8540-9a63797d20ea",
+      "shortId": "BWXE30",
+      "name": "Nickeru-Chan",
+      "role": "USER",
+      "level": 65
+    },
+    "message": "k",
+    "timestamp": "2026-05-07T02:52:52.706Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "407c8457-a88c-495b-8540-9a63797d20ea",
+      "shortId": "BWXE30",
+      "name": "Nickeru-Chan",
+      "role": "USER",
+      "level": 65
+    },
+    "message": "/confirmwager",
+    "timestamp": "2026-05-07T02:53:04.150Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "407c8457-a88c-495b-8540-9a63797d20ea",
+      "shortId": "BWXE30",
+      "name": "Nickeru-Chan",
+      "role": "USER",
+      "level": 65
+    },
+    "message": "gg",
+    "timestamp": "2026-05-07T02:53:39.272Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "407c8457-a88c-495b-8540-9a63797d20ea",
+      "shortId": "BWXE30",
+      "name": "Nickeru-Chan",
+      "role": "USER",
+      "level": 65
+    },
+    "message": "Yo Emile",
+    "timestamp": "2026-05-07T02:53:59.035Z"
   }
 ]
