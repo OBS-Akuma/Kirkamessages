@@ -526,5 +526,17 @@
     },
     "message": "/cancelwager",
     "timestamp": "2026-05-07T04:47:31.751Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "8130e18e-ff15-4f5b-a4e4-e3b8692ee32b",
+      "shortId": "SMOKED",
+      "name": "Torque_",
+      "role": "USER",
+      "level": 100
+    },
+    "message": "/wager [Golden||CHEST|LEGENDARY]x300 #8KK5DM",
+    "timestamp": "2026-05-07T19:11:32.153Z"
   }
 ]
