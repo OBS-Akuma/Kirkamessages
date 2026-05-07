@@ -514,5 +514,89 @@
     },
     "message": "join ?",
     "timestamp": "2026-05-07T05:08:06.940Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "e7ca017c-557f-4b21-96eb-3ec2a9a728ab",
+      "shortId": "8SQMAK",
+      "name": "Eri.",
+      "role": "USER",
+      "level": 52
+    },
+    "message": "i want [CV01|Bayonet|WEAPON_SKIN|MYTHICAL]  [Angel||BODY_SKIN|MYTHICAL] [Polar||BODY_SKIN|MYTHICAL] [ ghillie]",
+    "timestamp": "2026-05-07T05:11:51.292Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "e7ca017c-557f-4b21-96eb-3ec2a9a728ab",
+      "shortId": "8SQMAK",
+      "name": "Eri.",
+      "role": "USER",
+      "level": 52
+    },
+    "message": "who want [Melody||BODY_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-07T05:12:27.855Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "e7ca017c-557f-4b21-96eb-3ec2a9a728ab",
+      "shortId": "8SQMAK",
+      "name": "Eri.",
+      "role": "USER",
+      "level": 52
+    },
+    "message": "tr[Forbidden|AR-9|WEAPON_SKIN|MYTHICAL] and [ostus]",
+    "timestamp": "2026-05-07T05:14:07.350Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "e7ca017c-557f-4b21-96eb-3ec2a9a728ab",
+      "shortId": "8SQMAK",
+      "name": "Eri.",
+      "role": "USER",
+      "level": 52
+    },
+    "message": "trade [Forbidden|AR-9|WEAPON_SKIN|MYTHICAL] [Ortus|Revolver|WEAPON_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-07T05:14:41.796Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "e7ca017c-557f-4b21-96eb-3ec2a9a728ab",
+      "shortId": "8SQMAK",
+      "name": "Eri.",
+      "role": "USER",
+      "level": 52
+    },
+    "message": "who trade melody",
+    "timestamp": "2026-05-07T05:16:08.683Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "e7ca017c-557f-4b21-96eb-3ec2a9a728ab",
+      "shortId": "8SQMAK",
+      "name": "Eri.",
+      "role": "USER",
+      "level": 52
+    },
+    "message": "/hm melody, ghillie,polar",
+    "timestamp": "2026-05-07T05:17:09.429Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "e7ca017c-557f-4b21-96eb-3ec2a9a728ab",
+      "shortId": "8SQMAK",
+      "name": "Eri.",
+      "role": "USER",
+      "level": 52
+    },
+    "message": "i have [Melody||BODY_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-07T05:18:34.967Z"
   }
 ]
