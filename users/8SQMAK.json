@@ -682,5 +682,29 @@
     },
     "message": "who want",
     "timestamp": "2026-05-07T05:50:17.594Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "e7ca017c-557f-4b21-96eb-3ec2a9a728ab",
+      "shortId": "8SQMAK",
+      "name": "Eri.",
+      "role": "USER",
+      "level": 52
+    },
+    "message": "/hm pie",
+    "timestamp": "2026-05-07T06:26:48.310Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "e7ca017c-557f-4b21-96eb-3ec2a9a728ab",
+      "shortId": "8SQMAK",
+      "name": "Eri.",
+      "role": "USER",
+      "level": 52
+    },
+    "message": "i buy lmao",
+    "timestamp": "2026-05-07T06:27:21.080Z"
   }
 ]
