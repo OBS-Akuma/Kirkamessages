@@ -118,5 +118,101 @@
     },
     "message": "Wagering",
     "timestamp": "2026-05-07T03:48:42.268Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "baf58a91-5cb0-4253-b7b1-7ea43c395844",
+      "shortId": "6XXJ99",
+      "name": "Zenix",
+      "role": "USER",
+      "level": 81
+    },
+    "message": "Who wanna wager",
+    "timestamp": "2026-05-07T03:49:48.111Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "baf58a91-5cb0-4253-b7b1-7ea43c395844",
+      "shortId": "6XXJ99",
+      "name": "Zenix",
+      "role": "USER",
+      "level": 81
+    },
+    "message": "/wager [Golden||CHEST|LEGENDARY]x100 #5GD3AU",
+    "timestamp": "2026-05-07T03:51:01.741Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "baf58a91-5cb0-4253-b7b1-7ea43c395844",
+      "shortId": "6XXJ99",
+      "name": "Zenix",
+      "role": "USER",
+      "level": 81
+    },
+    "message": "/cancelwager",
+    "timestamp": "2026-05-07T03:51:13.721Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "baf58a91-5cb0-4253-b7b1-7ea43c395844",
+      "shortId": "6XXJ99",
+      "name": "Zenix",
+      "role": "USER",
+      "level": 81
+    },
+    "message": "/wager [Golden||CHEST|LEGENDARY]x100 #UWB9ZQ",
+    "timestamp": "2026-05-07T03:52:00.619Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "baf58a91-5cb0-4253-b7b1-7ea43c395844",
+      "shortId": "6XXJ99",
+      "name": "Zenix",
+      "role": "USER",
+      "level": 81
+    },
+    "message": "/cancelwager",
+    "timestamp": "2026-05-07T03:52:24.422Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "baf58a91-5cb0-4253-b7b1-7ea43c395844",
+      "shortId": "6XXJ99",
+      "name": "Zenix",
+      "role": "USER",
+      "level": 81
+    },
+    "message": "/wager [Golden||CHEST|LEGENDARY]x100 #IJ6DDH",
+    "timestamp": "2026-05-07T03:52:34.102Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "baf58a91-5cb0-4253-b7b1-7ea43c395844",
+      "shortId": "6XXJ99",
+      "name": "Zenix",
+      "role": "USER",
+      "level": 81
+    },
+    "message": "/wager [Golden||CHEST|LEGENDARY]x200 #IJ6DDH",
+    "timestamp": "2026-05-07T03:54:17.427Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "baf58a91-5cb0-4253-b7b1-7ea43c395844",
+      "shortId": "6XXJ99",
+      "name": "Zenix",
+      "role": "USER",
+      "level": 81
+    },
+    "message": "Skully I'm buz",
+    "timestamp": "2026-05-07T03:54:39.138Z"
   }
 ]
