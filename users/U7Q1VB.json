@@ -646,5 +646,53 @@
     },
     "message": "yoo wsp beetle",
     "timestamp": "2026-05-07T05:10:54.476Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "ff032e01-ddd3-486d-8aa4-480894f456fa",
+      "shortId": "U7Q1VB",
+      "name": "YepImFloriz",
+      "role": "USER",
+      "level": 97
+    },
+    "message": "I'm fine ty",
+    "timestamp": "2026-05-07T05:11:08.298Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "ff032e01-ddd3-486d-8aa4-480894f456fa",
+      "shortId": "U7Q1VB",
+      "name": "YepImFloriz",
+      "role": "USER",
+      "level": 97
+    },
+    "message": "wanna 1v1",
+    "timestamp": "2026-05-07T05:11:11.435Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "ff032e01-ddd3-486d-8aa4-480894f456fa",
+      "shortId": "U7Q1VB",
+      "name": "YepImFloriz",
+      "role": "USER",
+      "level": 97
+    },
+    "message": "beetle 1v1",
+    "timestamp": "2026-05-07T05:11:21.792Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "ff032e01-ddd3-486d-8aa4-480894f456fa",
+      "shortId": "U7Q1VB",
+      "name": "YepImFloriz",
+      "role": "USER",
+      "level": 97
+    },
+    "message": "who wanna 1v1",
+    "timestamp": "2026-05-07T05:11:58.874Z"
   }
 ]
