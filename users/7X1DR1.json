@@ -154,5 +154,77 @@
     },
     "message": "[Mabel||BODY_SKIN|MYTHICAL]",
     "timestamp": "2026-05-07T18:06:37.372Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "a85523e5-6504-4784-9376-5914fc6aa06e",
+      "shortId": "7X1DR1",
+      "name": "HANNA",
+      "role": "USER",
+      "level": 27
+    },
+    "message": "#OOTN4L accept plz",
+    "timestamp": "2026-05-07T18:08:40.480Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "a85523e5-6504-4784-9376-5914fc6aa06e",
+      "shortId": "7X1DR1",
+      "name": "HANNA",
+      "role": "USER",
+      "level": 27
+    },
+    "message": "jack make",
+    "timestamp": "2026-05-07T18:09:12.465Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "a85523e5-6504-4784-9376-5914fc6aa06e",
+      "shortId": "7X1DR1",
+      "name": "HANNA",
+      "role": "USER",
+      "level": 27
+    },
+    "message": "/confirmwager",
+    "timestamp": "2026-05-07T18:09:26.638Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "a85523e5-6504-4784-9376-5914fc6aa06e",
+      "shortId": "7X1DR1",
+      "name": "HANNA",
+      "role": "USER",
+      "level": 27
+    },
+    "message": "/icantlose",
+    "timestamp": "2026-05-07T18:09:30.148Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "a85523e5-6504-4784-9376-5914fc6aa06e",
+      "shortId": "7X1DR1",
+      "name": "HANNA",
+      "role": "USER",
+      "level": 27
+    },
+    "message": "noo",
+    "timestamp": "2026-05-07T18:10:04.108Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "a85523e5-6504-4784-9376-5914fc6aa06e",
+      "shortId": "7X1DR1",
+      "name": "HANNA",
+      "role": "USER",
+      "level": 27
+    },
+    "message": "idh [Panda||BODY_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-07T18:10:40.870Z"
   }
 ]
