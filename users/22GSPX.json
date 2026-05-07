@@ -310,5 +310,305 @@
     },
     "message": "/raffle <golden>x5",
     "timestamp": "2026-05-07T20:19:47.616Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "127e0842-6c00-47e9-a4a6-df48e84e2d77",
+      "shortId": "22GSPX",
+      "name": "luca",
+      "role": "USER",
+      "level": 14
+    },
+    "message": "/lottery <50>",
+    "timestamp": "2026-05-07T20:20:07.268Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "127e0842-6c00-47e9-a4a6-df48e84e2d77",
+      "shortId": "22GSPX",
+      "name": "luca",
+      "role": "USER",
+      "level": 14
+    },
+    "message": "/lottery <5>",
+    "timestamp": "2026-05-07T20:20:35.146Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "127e0842-6c00-47e9-a4a6-df48e84e2d77",
+      "shortId": "22GSPX",
+      "name": "luca",
+      "role": "USER",
+      "level": 14
+    },
+    "message": "/raffle",
+    "timestamp": "2026-05-07T20:20:51.263Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "127e0842-6c00-47e9-a4a6-df48e84e2d77",
+      "shortId": "22GSPX",
+      "name": "luca",
+      "role": "USER",
+      "level": 14
+    },
+    "message": "/hm santa",
+    "timestamp": "2026-05-07T20:21:18.227Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "127e0842-6c00-47e9-a4a6-df48e84e2d77",
+      "shortId": "22GSPX",
+      "name": "luca",
+      "role": "USER",
+      "level": 14
+    },
+    "message": "/hm blue hell",
+    "timestamp": "2026-05-07T20:21:37.913Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "127e0842-6c00-47e9-a4a6-df48e84e2d77",
+      "shortId": "22GSPX",
+      "name": "luca",
+      "role": "USER",
+      "level": 14
+    },
+    "message": "/hm toy",
+    "timestamp": "2026-05-07T20:21:49.131Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "127e0842-6c00-47e9-a4a6-df48e84e2d77",
+      "shortId": "22GSPX",
+      "name": "luca",
+      "role": "USER",
+      "level": 14
+    },
+    "message": "/hm jap",
+    "timestamp": "2026-05-07T20:21:56.120Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "127e0842-6c00-47e9-a4a6-df48e84e2d77",
+      "shortId": "22GSPX",
+      "name": "luca",
+      "role": "USER",
+      "level": 14
+    },
+    "message": "/hm heatwave",
+    "timestamp": "2026-05-07T20:22:01.072Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "127e0842-6c00-47e9-a4a6-df48e84e2d77",
+      "shortId": "22GSPX",
+      "name": "luca",
+      "role": "USER",
+      "level": 14
+    },
+    "message": "/hm blackmetal",
+    "timestamp": "2026-05-07T20:22:14.252Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "127e0842-6c00-47e9-a4a6-df48e84e2d77",
+      "shortId": "22GSPX",
+      "name": "luca",
+      "role": "USER",
+      "level": 14
+    },
+    "message": "/hm black metal",
+    "timestamp": "2026-05-07T20:22:23.041Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "127e0842-6c00-47e9-a4a6-df48e84e2d77",
+      "shortId": "22GSPX",
+      "name": "luca",
+      "role": "USER",
+      "level": 14
+    },
+    "message": "/hm darling",
+    "timestamp": "2026-05-07T20:22:29.993Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "127e0842-6c00-47e9-a4a6-df48e84e2d77",
+      "shortId": "22GSPX",
+      "name": "luca",
+      "role": "USER",
+      "level": 14
+    },
+    "message": "/hm whiteout",
+    "timestamp": "2026-05-07T20:22:46.536Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "127e0842-6c00-47e9-a4a6-df48e84e2d77",
+      "shortId": "22GSPX",
+      "name": "luca",
+      "role": "USER",
+      "level": 14
+    },
+    "message": "/hm normal map",
+    "timestamp": "2026-05-07T20:22:54.685Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "127e0842-6c00-47e9-a4a6-df48e84e2d77",
+      "shortId": "22GSPX",
+      "name": "luca",
+      "role": "USER",
+      "level": 14
+    },
+    "message": "/hm bee",
+    "timestamp": "2026-05-07T20:23:10.528Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "127e0842-6c00-47e9-a4a6-df48e84e2d77",
+      "shortId": "22GSPX",
+      "name": "luca",
+      "role": "USER",
+      "level": 14
+    },
+    "message": "/hm crash",
+    "timestamp": "2026-05-07T20:23:18.763Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "127e0842-6c00-47e9-a4a6-df48e84e2d77",
+      "shortId": "22GSPX",
+      "name": "luca",
+      "role": "USER",
+      "level": 14
+    },
+    "message": "/hm treat",
+    "timestamp": "2026-05-07T20:23:25.960Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "127e0842-6c00-47e9-a4a6-df48e84e2d77",
+      "shortId": "22GSPX",
+      "name": "luca",
+      "role": "USER",
+      "level": 14
+    },
+    "message": "/hm franken james",
+    "timestamp": "2026-05-07T20:23:35.138Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "127e0842-6c00-47e9-a4a6-df48e84e2d77",
+      "shortId": "22GSPX",
+      "name": "luca",
+      "role": "USER",
+      "level": 14
+    },
+    "message": "/hm snowman",
+    "timestamp": "2026-05-07T20:23:43.124Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "127e0842-6c00-47e9-a4a6-df48e84e2d77",
+      "shortId": "22GSPX",
+      "name": "luca",
+      "role": "USER",
+      "level": 14
+    },
+    "message": "/hm destiny",
+    "timestamp": "2026-05-07T20:23:53.364Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "127e0842-6c00-47e9-a4a6-df48e84e2d77",
+      "shortId": "22GSPX",
+      "name": "luca",
+      "role": "USER",
+      "level": 14
+    },
+    "message": "/hm maksim",
+    "timestamp": "2026-05-07T20:24:02.274Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "127e0842-6c00-47e9-a4a6-df48e84e2d77",
+      "shortId": "22GSPX",
+      "name": "luca",
+      "role": "USER",
+      "level": 14
+    },
+    "message": "/hm scarygf",
+    "timestamp": "2026-05-07T20:24:30.793Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "127e0842-6c00-47e9-a4a6-df48e84e2d77",
+      "shortId": "22GSPX",
+      "name": "luca",
+      "role": "USER",
+      "level": 14
+    },
+    "message": "/lottery",
+    "timestamp": "2026-05-07T20:24:47.624Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "127e0842-6c00-47e9-a4a6-df48e84e2d77",
+      "shortId": "22GSPX",
+      "name": "luca",
+      "role": "USER",
+      "level": 14
+    },
+    "message": "/giveaway",
+    "timestamp": "2026-05-07T20:24:55.726Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "127e0842-6c00-47e9-a4a6-df48e84e2d77",
+      "shortId": "22GSPX",
+      "name": "luca",
+      "role": "USER",
+      "level": 14
+    },
+    "message": "/enter",
+    "timestamp": "2026-05-07T20:25:41.140Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "127e0842-6c00-47e9-a4a6-df48e84e2d77",
+      "shortId": "22GSPX",
+      "name": "luca",
+      "role": "USER",
+      "level": 14
+    },
+    "message": "/hm atmosphere",
+    "timestamp": "2026-05-07T20:26:18.774Z"
   }
 ]
