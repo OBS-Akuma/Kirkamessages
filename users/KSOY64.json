@@ -1978,5 +1978,17 @@
     },
     "message": "/locate [Lor||BODY_SKIN|LEGENDARY] p4",
     "timestamp": "2026-05-07T06:05:45.591Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "d88f4f73-1334-4556-9168-e0c6945ad2a1",
+      "shortId": "KSOY64",
+      "name": "Blaze",
+      "role": "USER",
+      "level": 98
+    },
+    "message": "/locate [Lor||BODY_SKIN|LEGENDARY] p5",
+    "timestamp": "2026-05-07T06:06:20.374Z"
   }
 ]
