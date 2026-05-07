@@ -1,0 +1,38 @@
+[
+  {
+    "type": 2,
+    "user": {
+      "id": "guest-fc429ec5-62a4-4567-a19f-90a2075621d0",
+      "shortId": "W8XSUU",
+      "name": "Ephemeral",
+      "role": "USER",
+      "level": 6
+    },
+    "message": "Who wants 68 golden chests for free",
+    "timestamp": "2026-05-07T05:33:36.124Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "guest-fc429ec5-62a4-4567-a19f-90a2075621d0",
+      "shortId": "W8XSUU",
+      "name": "Ephemeral",
+      "role": "USER",
+      "level": 6
+    },
+    "message": "dawg its free",
+    "timestamp": "2026-05-07T05:34:22.308Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "guest-fc429ec5-62a4-4567-a19f-90a2075621d0",
+      "shortId": "W8XSUU",
+      "name": "Ephemeral",
+      "role": "USER",
+      "level": 6
+    },
+    "message": "gg",
+    "timestamp": "2026-05-07T05:34:33.469Z"
+  }
+]
