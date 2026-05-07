@@ -284,7 +284,7 @@
       "role": "USER",
       "level": 56
     },
-    "message": "I donÃÂ¢ÃÂÃÂt have any better skin",
+    "message": "I donÃÂÃÂ¢ÃÂÃÂÃÂÃÂt have any better skin",
     "timestamp": "2026-05-07T06:40:06.403Z"
   },
   {
@@ -392,7 +392,7 @@
       "role": "USER",
       "level": 56
     },
-    "message": "Brooo itÃÂ¢ÃÂÃÂs not fair mate",
+    "message": "Brooo itÃÂÃÂ¢ÃÂÃÂÃÂÃÂs not fair mate",
     "timestamp": "2026-05-07T06:42:30.709Z"
   },
   {
@@ -464,7 +464,7 @@
       "role": "USER",
       "level": 56
     },
-    "message": "IÃÂ¢ÃÂÃÂm crying!",
+    "message": "IÃÂÃÂ¢ÃÂÃÂÃÂÃÂm crying!",
     "timestamp": "2026-05-07T06:45:50.020Z"
   },
   {
@@ -622,5 +622,41 @@
     },
     "message": "Tr[Vionix||BODY_SKIN|MYTHICAL]",
     "timestamp": "2026-05-07T07:11:39.060Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "guest-65620a6d-142b-4bf1-a6de-d4efe847529e",
+      "shortId": "S91J1D",
+      "name": "[EGD]ThePhenom",
+      "role": "USER",
+      "level": 56
+    },
+    "message": "/inv",
+    "timestamp": "2026-05-07T07:12:07.004Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "guest-65620a6d-142b-4bf1-a6de-d4efe847529e",
+      "shortId": "S91J1D",
+      "name": "[EGD]ThePhenom",
+      "role": "USER",
+      "level": 56
+    },
+    "message": "[namechange]",
+    "timestamp": "2026-05-07T07:12:52.567Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "guest-65620a6d-142b-4bf1-a6de-d4efe847529e",
+      "shortId": "S91J1D",
+      "name": "[EGD]ThePhenom",
+      "role": "USER",
+      "level": 56
+    },
+    "message": "I want [Moon||BODY_SKIN|LEGENDARY]",
+    "timestamp": "2026-05-07T07:14:21.250Z"
   }
 ]
