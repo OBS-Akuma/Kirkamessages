@@ -22,5 +22,65 @@
     },
     "message": "LF [Shroud||BODY_SKIN|MYTHICAL]",
     "timestamp": "2026-05-04T03:58:46.692Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "ace662a5-5507-473e-a0da-a1c5862e41ef",
+      "shortId": "1BZO8D",
+      "name": "Zenith",
+      "role": "USER",
+      "level": 64
+    },
+    "message": "trading [Melody||BODY_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-07T08:22:22.898Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "ace662a5-5507-473e-a0da-a1c5862e41ef",
+      "shortId": "1BZO8D",
+      "name": "Zenith",
+      "role": "USER",
+      "level": 64
+    },
+    "message": "trading melody",
+    "timestamp": "2026-05-07T08:23:10.151Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "ace662a5-5507-473e-a0da-a1c5862e41ef",
+      "shortId": "1BZO8D",
+      "name": "Zenith",
+      "role": "USER",
+      "level": 64
+    },
+    "message": "/mytrade",
+    "timestamp": "2026-05-07T08:23:16.803Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "ace662a5-5507-473e-a0da-a1c5862e41ef",
+      "shortId": "1BZO8D",
+      "name": "Zenith",
+      "role": "USER",
+      "level": 64
+    },
+    "message": "/inv",
+    "timestamp": "2026-05-07T08:23:26.123Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "ace662a5-5507-473e-a0da-a1c5862e41ef",
+      "shortId": "1BZO8D",
+      "name": "Zenith",
+      "role": "USER",
+      "level": 64
+    },
+    "message": "/hm melody",
+    "timestamp": "2026-05-07T08:23:37.489Z"
   }
 ]
