@@ -694,5 +694,41 @@
     },
     "message": "[Ticketeer|SCAR|WEAPON_SKIN|MYTHICAL][Arawn||BODY_SKIN|MYTHICAL][Rub1x|MAC-10|WEAPON_SKIN|MYTHICAL]",
     "timestamp": "2026-05-07T02:58:04.991Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "guest-54be4ece-9e2b-474f-9d38-577976065f54",
+      "shortId": "IJ6DDH",
+      "name": "EGD|Galaxy",
+      "role": "USER",
+      "level": 27
+    },
+    "message": "Trading [Waves|SCAR|WEAPON_SKIN|LEGENDARY]",
+    "timestamp": "2026-05-07T03:38:05.325Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "guest-54be4ece-9e2b-474f-9d38-577976065f54",
+      "shortId": "IJ6DDH",
+      "name": "EGD|Galaxy",
+      "role": "USER",
+      "level": 27
+    },
+    "message": "Tr[Ticketeer|SCAR|WEAPON_SKIN|MYTHICAL][Waves|SCAR|WEAPON_SKIN|LEGENDARY]",
+    "timestamp": "2026-05-07T03:38:59.308Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "guest-54be4ece-9e2b-474f-9d38-577976065f54",
+      "shortId": "IJ6DDH",
+      "name": "EGD|Galaxy",
+      "role": "USER",
+      "level": 27
+    },
+    "message": "Who has [Lor||BODY_SKIN|LEGENDARY]",
+    "timestamp": "2026-05-07T03:39:48.742Z"
   }
 ]
