@@ -1078,5 +1078,53 @@
     },
     "message": "who want [Moon||BODY_SKIN|LEGENDARY] !",
     "timestamp": "2026-05-07T08:06:02.466Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "PZFwu8FSMqfbpnVbQJLgs4FI4vL2",
+      "shortId": "LDF58K",
+      "name": "MAHORAGA",
+      "role": "USER",
+      "level": 68
+    },
+    "message": "who want [Biker||BODY_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-07T08:06:46.880Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "PZFwu8FSMqfbpnVbQJLgs4FI4vL2",
+      "shortId": "LDF58K",
+      "name": "MAHORAGA",
+      "role": "USER",
+      "level": 68
+    },
+    "message": "lol",
+    "timestamp": "2026-05-07T08:06:51.570Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "PZFwu8FSMqfbpnVbQJLgs4FI4vL2",
+      "shortId": "LDF58K",
+      "name": "MAHORAGA",
+      "role": "USER",
+      "level": 68
+    },
+    "message": "me have [Forbidden|AR-9|WEAPON_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-07T08:07:14.565Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "PZFwu8FSMqfbpnVbQJLgs4FI4vL2",
+      "shortId": "LDF58K",
+      "name": "MAHORAGA",
+      "role": "USER",
+      "level": 68
+    },
+    "message": "coping",
+    "timestamp": "2026-05-07T08:07:38.951Z"
   }
 ]
