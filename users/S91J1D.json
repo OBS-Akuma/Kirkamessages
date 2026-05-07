@@ -118,5 +118,41 @@
     },
     "message": "TR[Tiburon|Bayonet|WEAPON_SKIN|MYTHICAL][Forbidden|AR-9|WEAPON_SKIN|MYTHICAL][Ortus|Revolver|WEAPON_SKIN|MYTHICAL]",
     "timestamp": "2026-05-04T07:25:57.672Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "guest-65620a6d-142b-4bf1-a6de-d4efe847529e",
+      "shortId": "S91J1D",
+      "name": "[EGD]ThePhenom",
+      "role": "USER",
+      "level": 56
+    },
+    "message": "Gg",
+    "timestamp": "2026-05-07T06:18:33.812Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "guest-65620a6d-142b-4bf1-a6de-d4efe847529e",
+      "shortId": "S91J1D",
+      "name": "[EGD]ThePhenom",
+      "role": "USER",
+      "level": 56
+    },
+    "message": "Hm?",
+    "timestamp": "2026-05-07T06:21:20.419Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "guest-65620a6d-142b-4bf1-a6de-d4efe847529e",
+      "shortId": "S91J1D",
+      "name": "[EGD]ThePhenom",
+      "role": "USER",
+      "level": 56
+    },
+    "message": "What does wager mean",
+    "timestamp": "2026-05-07T06:21:32.690Z"
   }
 ]
