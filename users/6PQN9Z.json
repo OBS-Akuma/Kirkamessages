@@ -1,0 +1,38 @@
+[
+  {
+    "type": 2,
+    "user": {
+      "id": "d8ac7c18-bedb-4592-8d61-01eab13d3052",
+      "shortId": "6PQN9Z",
+      "name": "Emerald",
+      "role": "USER",
+      "level": 22
+    },
+    "message": "/enter",
+    "timestamp": "2026-05-07T20:28:01.410Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "d8ac7c18-bedb-4592-8d61-01eab13d3052",
+      "shortId": "6PQN9Z",
+      "name": "Emerald",
+      "role": "USER",
+      "level": 22
+    },
+    "message": "[miseltoe]",
+    "timestamp": "2026-05-07T20:34:39.468Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "d8ac7c18-bedb-4592-8d61-01eab13d3052",
+      "shortId": "6PQN9Z",
+      "name": "Emerald",
+      "role": "USER",
+      "level": 22
+    },
+    "message": "[misletoe]",
+    "timestamp": "2026-05-07T20:34:44.564Z"
+  }
+]
