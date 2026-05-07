@@ -214,5 +214,41 @@
     },
     "message": "I don't have",
     "timestamp": "2026-05-05T05:14:03.629Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "ccb0989c-752e-489f-a2a2-cacbd0491076",
+      "shortId": "5GP14K",
+      "name": "Dr.strange",
+      "role": "USER",
+      "level": 84
+    },
+    "message": "Wager",
+    "timestamp": "2026-05-07T07:13:19.093Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "ccb0989c-752e-489f-a2a2-cacbd0491076",
+      "shortId": "5GP14K",
+      "name": "Dr.strange",
+      "role": "USER",
+      "level": 84
+    },
+    "message": "Who wanna wager??",
+    "timestamp": "2026-05-07T07:13:26.054Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "ccb0989c-752e-489f-a2a2-cacbd0491076",
+      "shortId": "5GP14K",
+      "name": "Dr.strange",
+      "role": "USER",
+      "level": 84
+    },
+    "message": "#CG0G1I it's a trick bro",
+    "timestamp": "2026-05-07T07:13:41.314Z"
   }
 ]
