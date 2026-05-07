@@ -1498,5 +1498,89 @@
     },
     "message": "agian",
     "timestamp": "2026-05-07T06:19:41.490Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "6da59982-c088-49ca-933e-8a3fbfaa6592",
+      "shortId": "PL4OPG",
+      "name": "[VN]_NTAT_",
+      "role": "USER",
+      "level": 75
+    },
+    "message": "/wager [Golden||CHEST|LEGENDARY]x100 #609GEM",
+    "timestamp": "2026-05-07T06:21:39.136Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "6da59982-c088-49ca-933e-8a3fbfaa6592",
+      "shortId": "PL4OPG",
+      "name": "[VN]_NTAT_",
+      "role": "USER",
+      "level": 75
+    },
+    "message": "/wager [Golden||CHEST|LEGENDARY]x200 #609GEM",
+    "timestamp": "2026-05-07T06:22:29.820Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "6da59982-c088-49ca-933e-8a3fbfaa6592",
+      "shortId": "PL4OPG",
+      "name": "[VN]_NTAT_",
+      "role": "USER",
+      "level": 75
+    },
+    "message": "/wager [Golden||CHEST|LEGENDARY]x500 #609GEM",
+    "timestamp": "2026-05-07T06:23:19.158Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "6da59982-c088-49ca-933e-8a3fbfaa6592",
+      "shortId": "PL4OPG",
+      "name": "[VN]_NTAT_",
+      "role": "USER",
+      "level": 75
+    },
+    "message": "/wager [Golden||CHEST|LEGENDARY]x1000 #609GEM",
+    "timestamp": "2026-05-07T06:24:51.456Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "6da59982-c088-49ca-933e-8a3fbfaa6592",
+      "shortId": "PL4OPG",
+      "name": "[VN]_NTAT_",
+      "role": "USER",
+      "level": 75
+    },
+    "message": ";",
+    "timestamp": "2026-05-07T06:25:11.217Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "6da59982-c088-49ca-933e-8a3fbfaa6592",
+      "shortId": "PL4OPG",
+      "name": "[VN]_NTAT_",
+      "role": "USER",
+      "level": 75
+    },
+    "message": "/wager [Golden||CHEST|LEGENDARY]x1000 #609GEM",
+    "timestamp": "2026-05-07T06:25:13.150Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "6da59982-c088-49ca-933e-8a3fbfaa6592",
+      "shortId": "PL4OPG",
+      "name": "[VN]_NTAT_",
+      "role": "USER",
+      "level": 75
+    },
+    "message": "/claim",
+    "timestamp": "2026-05-07T06:25:57.313Z"
   }
 ]
