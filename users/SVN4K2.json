@@ -958,5 +958,29 @@
     },
     "message": "wager [Foil||BODY_SKIN|MYTHICAL][Thriller||BODY_SKIN|MYTHICAL][Bamboo|VITA|WEAPON_SKIN|MYTHICAL][Scorcher|Shark|WEAPON_SKIN|MYTHICAL].",
     "timestamp": "2026-05-07T05:17:24.102Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "Gz7vDsByrXSEwKYek3a6mgVwdFb2",
+      "shortId": "SVN4K2",
+      "name": "lolnoob",
+      "role": "USER",
+      "level": 94
+    },
+    "message": "/inv #M27S4G",
+    "timestamp": "2026-05-07T05:45:48.215Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "Gz7vDsByrXSEwKYek3a6mgVwdFb2",
+      "shortId": "SVN4K2",
+      "name": "lolnoob",
+      "role": "USER",
+      "level": 94
+    },
+    "message": "/inv #PLJ86G",
+    "timestamp": "2026-05-07T05:46:11.740Z"
   }
 ]
