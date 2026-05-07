@@ -322,5 +322,41 @@
     },
     "message": "you wannaw ager [Moonlight|MAC-10|WEAPON_SKIN|MYTHICAL] [Honey|Bayonet|WEAPON_SKIN|MYTHICAL] [Rub1x|MAC-10|WEAPON_SKIN|MYTHICAL] and other stuff",
     "timestamp": "2026-05-07T20:21:12.085Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "4640c5e7-8889-4f71-8446-a54180b81f7c",
+      "shortId": "KLBFGG",
+      "name": "keyboard",
+      "role": "USER",
+      "level": 77
+    },
+    "message": "wait I might have a few elmoo",
+    "timestamp": "2026-05-07T22:22:44.665Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "4640c5e7-8889-4f71-8446-a54180b81f7c",
+      "shortId": "KLBFGG",
+      "name": "keyboard",
+      "role": "USER",
+      "level": 77
+    },
+    "message": "/inv",
+    "timestamp": "2026-05-07T22:33:40.514Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "4640c5e7-8889-4f71-8446-a54180b81f7c",
+      "shortId": "KLBFGG",
+      "name": "keyboard",
+      "role": "USER",
+      "level": 77
+    },
+    "message": "/locate elmoo",
+    "timestamp": "2026-05-07T22:35:20.342Z"
   }
 ]
