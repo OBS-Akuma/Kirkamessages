@@ -1,0 +1,86 @@
+[
+  {
+    "type": 2,
+    "user": {
+      "id": "dece667a-fd9d-4728-88c0-104cad6d4c40",
+      "shortId": "7RPR5P",
+      "name": "RazorX",
+      "role": "USER",
+      "level": 36
+    },
+    "message": "/wager",
+    "timestamp": "2026-05-07T19:05:46.954Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "dece667a-fd9d-4728-88c0-104cad6d4c40",
+      "shortId": "7RPR5P",
+      "name": "RazorX",
+      "role": "USER",
+      "level": 36
+    },
+    "message": "what is wager?",
+    "timestamp": "2026-05-07T19:06:08.555Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "dece667a-fd9d-4728-88c0-104cad6d4c40",
+      "shortId": "7RPR5P",
+      "name": "RazorX",
+      "role": "USER",
+      "level": 36
+    },
+    "message": "hmmm",
+    "timestamp": "2026-05-07T19:06:28.021Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "dece667a-fd9d-4728-88c0-104cad6d4c40",
+      "shortId": "7RPR5P",
+      "name": "RazorX",
+      "role": "USER",
+      "level": 36
+    },
+    "message": "like idk wht it means",
+    "timestamp": "2026-05-07T19:06:35.123Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "dece667a-fd9d-4728-88c0-104cad6d4c40",
+      "shortId": "7RPR5P",
+      "name": "RazorX",
+      "role": "USER",
+      "level": 36
+    },
+    "message": "/wager [Golden||CHEST|LEGENDARY]",
+    "timestamp": "2026-05-07T19:07:16.016Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "dece667a-fd9d-4728-88c0-104cad6d4c40",
+      "shortId": "7RPR5P",
+      "name": "RazorX",
+      "role": "USER",
+      "level": 36
+    },
+    "message": "/wager [Golden||CHEST|LEGENDARY]x10",
+    "timestamp": "2026-05-07T19:07:26.629Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "dece667a-fd9d-4728-88c0-104cad6d4c40",
+      "shortId": "7RPR5P",
+      "name": "RazorX",
+      "role": "USER",
+      "level": 36
+    },
+    "message": "/inv",
+    "timestamp": "2026-05-07T19:07:42.163Z"
+  }
+]
