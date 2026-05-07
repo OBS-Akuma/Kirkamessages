@@ -1006,5 +1006,17 @@
     },
     "message": "no",
     "timestamp": "2026-05-07T03:30:17.964Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "99cc3bc0-e1e3-48ee-815b-9bfe1f7f7fe2",
+      "shortId": "00ZW80",
+      "name": "Newbie",
+      "role": "USER",
+      "level": 29
+    },
+    "message": "not for you",
+    "timestamp": "2026-05-07T03:37:27.138Z"
   }
 ]
