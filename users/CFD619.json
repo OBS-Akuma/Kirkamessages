@@ -140,7 +140,7 @@
       "role": "USER",
       "level": 28
     },
-    "message": "Äá»i ÄÃºng ko",
+    "message": "ÃÂÃ¡Â»Âi ÃÂÃÂºng ko",
     "timestamp": "2026-05-07T08:11:11.675Z"
   },
   {
@@ -152,7 +152,7 @@
       "role": "USER",
       "level": 28
     },
-    "message": "chuáº©n bá» nha",
+    "message": "chuÃ¡ÂºÂ©n bÃ¡Â»Â nha",
     "timestamp": "2026-05-07T08:11:17.734Z"
   },
   {
@@ -164,7 +164,7 @@
       "role": "USER",
       "level": 28
     },
-    "message": "r ÄÃ³",
+    "message": "r ÃÂÃÂ³",
     "timestamp": "2026-05-07T08:11:42.725Z"
   },
   {
@@ -176,7 +176,103 @@
       "role": "USER",
       "level": 28
     },
-    "message": "Äc chÆ°a",
+    "message": "ÃÂc chÃÂ°a",
     "timestamp": "2026-05-07T08:12:08.186Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "7uQjmsMLoIh83pf6nDPh87oc87B2",
+      "shortId": "CFD619",
+      "name": "DragonMeowVN!",
+      "role": "USER",
+      "level": 28
+    },
+    "message": "/hm confield",
+    "timestamp": "2026-05-07T08:26:38.125Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "7uQjmsMLoIh83pf6nDPh87oc87B2",
+      "shortId": "CFD619",
+      "name": "DragonMeowVN!",
+      "role": "USER",
+      "level": 28
+    },
+    "message": "nè m",
+    "timestamp": "2026-05-07T08:27:08.742Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "7uQjmsMLoIh83pf6nDPh87oc87B2",
+      "shortId": "CFD619",
+      "name": "DragonMeowVN!",
+      "role": "USER",
+      "level": 28
+    },
+    "message": "who has [Oblivion|SCAR|WEAPON_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-07T08:53:49.358Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "7uQjmsMLoIh83pf6nDPh87oc87B2",
+      "shortId": "CFD619",
+      "name": "DragonMeowVN!",
+      "role": "USER",
+      "level": 28
+    },
+    "message": "oh",
+    "timestamp": "2026-05-07T08:54:03.185Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "7uQjmsMLoIh83pf6nDPh87oc87B2",
+      "shortId": "CFD619",
+      "name": "DragonMeowVN!",
+      "role": "USER",
+      "level": 28
+    },
+    "message": "i offer [2025 Revolver|Revolver|WEAPON_SKIN|MYTHICAL] and golden x800",
+    "timestamp": "2026-05-07T08:54:26.634Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "7uQjmsMLoIh83pf6nDPh87oc87B2",
+      "shortId": "CFD619",
+      "name": "DragonMeowVN!",
+      "role": "USER",
+      "level": 28
+    },
+    "message": "ok?",
+    "timestamp": "2026-05-07T08:54:31.458Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "7uQjmsMLoIh83pf6nDPh87oc87B2",
+      "shortId": "CFD619",
+      "name": "DragonMeowVN!",
+      "role": "USER",
+      "level": 28
+    },
+    "message": "bruh",
+    "timestamp": "2026-05-07T08:54:37.601Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "7uQjmsMLoIh83pf6nDPh87oc87B2",
+      "shortId": "CFD619",
+      "name": "DragonMeowVN!",
+      "role": "USER",
+      "level": 28
+    },
+    "message": "how much [Oblivion|SCAR|WEAPON_SKIN|MYTHICAL] g4b",
+    "timestamp": "2026-05-07T08:54:55.610Z"
   }
 ]
