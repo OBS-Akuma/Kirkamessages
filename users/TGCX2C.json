@@ -238,5 +238,17 @@
     },
     "message": "tr[Pibble||BODY_SKIN|MYTHICAL]",
     "timestamp": "2026-05-06T00:32:12.395Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "c1395033-1fb5-4aaa-b05a-3ef690f82834",
+      "shortId": "TGCX2C",
+      "name": "mid|+bliss",
+      "role": "USER",
+      "level": 73
+    },
+    "message": "/enter",
+    "timestamp": "2026-05-07T18:00:12.722Z"
   }
 ]
