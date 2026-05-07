@@ -1,0 +1,38 @@
+[
+  {
+    "type": 2,
+    "user": {
+      "id": "r1Kq0qheqQgd3bHGo7o3WDT0ARx1",
+      "shortId": "6B9W5G",
+      "name": "Twix",
+      "role": "USER",
+      "level": 63
+    },
+    "message": "/inv",
+    "timestamp": "2026-05-07T21:08:16.411Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "r1Kq0qheqQgd3bHGo7o3WDT0ARx1",
+      "shortId": "6B9W5G",
+      "name": "Twix",
+      "role": "USER",
+      "level": 63
+    },
+    "message": "/claim",
+    "timestamp": "2026-05-07T21:08:21.463Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "r1Kq0qheqQgd3bHGo7o3WDT0ARx1",
+      "shortId": "6B9W5G",
+      "name": "Twix",
+      "role": "USER",
+      "level": 63
+    },
+    "message": "/inv",
+    "timestamp": "2026-05-07T21:08:35.152Z"
+  }
+]
