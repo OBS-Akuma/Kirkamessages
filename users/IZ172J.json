@@ -106,5 +106,53 @@
     },
     "message": "Who has [Candle|Bayonet|WEAPON_SKIN|MYTHICAL]",
     "timestamp": "2026-05-07T18:07:46.178Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "13b24829-c64d-419c-be63-d763f6e055c4",
+      "shortId": "IZ172J",
+      "name": "Fear",
+      "role": "USER",
+      "level": 44
+    },
+    "message": "/hm retro",
+    "timestamp": "2026-05-07T18:14:25.353Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "13b24829-c64d-419c-be63-d763f6e055c4",
+      "shortId": "IZ172J",
+      "name": "Fear",
+      "role": "USER",
+      "level": 44
+    },
+    "message": "/hm koi",
+    "timestamp": "2026-05-07T18:16:02.587Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "13b24829-c64d-419c-be63-d763f6e055c4",
+      "shortId": "IZ172J",
+      "name": "Fear",
+      "role": "USER",
+      "level": 44
+    },
+    "message": "[Blast VITA|VITA|WEAPON_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-07T18:16:57.996Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "13b24829-c64d-419c-be63-d763f6e055c4",
+      "shortId": "IZ172J",
+      "name": "Fear",
+      "role": "USER",
+      "level": 44
+    },
+    "message": "[Blast SCAR|SCAR|WEAPON_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-07T18:17:26.886Z"
   }
 ]
