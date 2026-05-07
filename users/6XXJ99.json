@@ -598,5 +598,41 @@
     },
     "message": "XDD",
     "timestamp": "2026-05-07T04:13:23.328Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "baf58a91-5cb0-4253-b7b1-7ea43c395844",
+      "shortId": "6XXJ99",
+      "name": "Zenix",
+      "role": "USER",
+      "level": 81
+    },
+    "message": "/price basket",
+    "timestamp": "2026-05-07T04:19:13.819Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "baf58a91-5cb0-4253-b7b1-7ea43c395844",
+      "shortId": "6XXJ99",
+      "name": "Zenix",
+      "role": "USER",
+      "level": 81
+    },
+    "message": "/st gingerman",
+    "timestamp": "2026-05-07T04:19:45.570Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "baf58a91-5cb0-4253-b7b1-7ea43c395844",
+      "shortId": "6XXJ99",
+      "name": "Zenix",
+      "role": "USER",
+      "level": 81
+    },
+    "message": "/vt 9161",
+    "timestamp": "2026-05-07T04:19:52.728Z"
   }
 ]
