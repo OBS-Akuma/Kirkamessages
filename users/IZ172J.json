@@ -154,5 +154,53 @@
     },
     "message": "[Blast SCAR|SCAR|WEAPON_SKIN|MYTHICAL]",
     "timestamp": "2026-05-07T18:17:26.886Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "13b24829-c64d-419c-be63-d763f6e055c4",
+      "shortId": "IZ172J",
+      "name": "Fear",
+      "role": "USER",
+      "level": 44
+    },
+    "message": "[Dragonic||BODY_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-07T22:00:18.196Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "13b24829-c64d-419c-be63-d763f6e055c4",
+      "shortId": "IZ172J",
+      "name": "Fear",
+      "role": "USER",
+      "level": 44
+    },
+    "message": "[Dragon scar]",
+    "timestamp": "2026-05-07T22:00:44.430Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "13b24829-c64d-419c-be63-d763f6e055c4",
+      "shortId": "IZ172J",
+      "name": "Fear",
+      "role": "USER",
+      "level": 44
+    },
+    "message": "[Drago ]",
+    "timestamp": "2026-05-07T22:00:53.304Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "13b24829-c64d-419c-be63-d763f6e055c4",
+      "shortId": "IZ172J",
+      "name": "Fear",
+      "role": "USER",
+      "level": 44
+    },
+    "message": "[Dragon||BODY_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-07T22:01:04.194Z"
   }
 ]
