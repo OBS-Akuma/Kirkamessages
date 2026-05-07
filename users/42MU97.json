@@ -10,5 +10,29 @@
     },
     "message": "Anybody here got 7 [Ghost|VITA|WEAPON_SKIN|EPIC]s?",
     "timestamp": "2026-05-03T03:55:59.068Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "e92adc75-e361-4bb3-9f53-8adb795167c4",
+      "shortId": "42MU97",
+      "name": "Nucleon",
+      "role": "USER",
+      "level": 46
+    },
+    "message": "[Lord||BODY_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-07T01:59:08.963Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "e92adc75-e361-4bb3-9f53-8adb795167c4",
+      "shortId": "42MU97",
+      "name": "Nucleon",
+      "role": "USER",
+      "level": 46
+    },
+    "message": "[Biker||BODY_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-07T02:00:01.049Z"
   }
 ]
