@@ -190,5 +190,137 @@
     },
     "message": "/price [Jazzin||BODY_SKIN|MYTHICAL]",
     "timestamp": "2026-05-07T02:33:54.364Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "1af9d0f1-d0f4-4b92-88ad-e7bde3dac851",
+      "shortId": "ZLSGY1",
+      "name": "PurPl3",
+      "role": "USER",
+      "level": 95
+    },
+    "message": "/new items",
+    "timestamp": "2026-05-07T20:35:11.800Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "1af9d0f1-d0f4-4b92-88ad-e7bde3dac851",
+      "shortId": "ZLSGY1",
+      "name": "PurPl3",
+      "role": "USER",
+      "level": 95
+    },
+    "message": "/newitems",
+    "timestamp": "2026-05-07T20:35:14.992Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "1af9d0f1-d0f4-4b92-88ad-e7bde3dac851",
+      "shortId": "ZLSGY1",
+      "name": "PurPl3",
+      "role": "USER",
+      "level": 95
+    },
+    "message": "£SAGHA",
+    "timestamp": "2026-05-07T20:38:26.369Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "1af9d0f1-d0f4-4b92-88ad-e7bde3dac851",
+      "shortId": "ZLSGY1",
+      "name": "PurPl3",
+      "role": "USER",
+      "level": 95
+    },
+    "message": "#SAGHA4",
+    "timestamp": "2026-05-07T20:38:33.060Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "1af9d0f1-d0f4-4b92-88ad-e7bde3dac851",
+      "shortId": "ZLSGY1",
+      "name": "PurPl3",
+      "role": "USER",
+      "level": 95
+    },
+    "message": "/help",
+    "timestamp": "2026-05-07T20:39:38.185Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "1af9d0f1-d0f4-4b92-88ad-e7bde3dac851",
+      "shortId": "ZLSGY1",
+      "name": "PurPl3",
+      "role": "USER",
+      "level": 95
+    },
+    "message": "/c4",
+    "timestamp": "2026-05-07T20:39:41.595Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "1af9d0f1-d0f4-4b92-88ad-e7bde3dac851",
+      "shortId": "ZLSGY1",
+      "name": "PurPl3",
+      "role": "USER",
+      "level": 95
+    },
+    "message": "/C4",
+    "timestamp": "2026-05-07T20:39:51.984Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "1af9d0f1-d0f4-4b92-88ad-e7bde3dac851",
+      "shortId": "ZLSGY1",
+      "name": "PurPl3",
+      "role": "USER",
+      "level": 95
+    },
+    "message": "/c3",
+    "timestamp": "2026-05-07T20:39:59.842Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "1af9d0f1-d0f4-4b92-88ad-e7bde3dac851",
+      "shortId": "ZLSGY1",
+      "name": "PurPl3",
+      "role": "USER",
+      "level": 95
+    },
+    "message": "/st [Hotrod LAR|LAR|WEAPON_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-07T20:40:07.105Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "1af9d0f1-d0f4-4b92-88ad-e7bde3dac851",
+      "shortId": "ZLSGY1",
+      "name": "PurPl3",
+      "role": "USER",
+      "level": 95
+    },
+    "message": "/st hotrod lar",
+    "timestamp": "2026-05-07T20:40:12.141Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "1af9d0f1-d0f4-4b92-88ad-e7bde3dac851",
+      "shortId": "ZLSGY1",
+      "name": "PurPl3",
+      "role": "USER",
+      "level": 95
+    },
+    "message": "/inv",
+    "timestamp": "2026-05-07T20:40:21.694Z"
   }
 ]
