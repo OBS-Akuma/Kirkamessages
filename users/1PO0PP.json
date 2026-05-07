@@ -70,5 +70,29 @@
     },
     "message": "[Ghillie||BODY_SKIN|MYTHICAL]",
     "timestamp": "2026-05-07T05:23:56.553Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "488edfbc-cedd-422c-98dc-6d25fc41f35e",
+      "shortId": "1PO0PP",
+      "name": "|_Dark_Nova_|",
+      "role": "USER",
+      "level": 83
+    },
+    "message": "ok wait i will b back",
+    "timestamp": "2026-05-07T05:24:48.546Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "488edfbc-cedd-422c-98dc-6d25fc41f35e",
+      "shortId": "1PO0PP",
+      "name": "|_Dark_Nova_|",
+      "role": "USER",
+      "level": 83
+    },
+    "message": "no scarlett",
+    "timestamp": "2026-05-07T05:27:07.189Z"
   }
 ]
