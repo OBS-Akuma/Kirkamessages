@@ -430,5 +430,17 @@
     },
     "message": "/confirmwager",
     "timestamp": "2026-05-07T05:21:06.100Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "Ec0OJktc9fUNcgZvvZIB4ykALS93",
+      "shortId": "UWB9ZQ",
+      "name": "ThE-DoMinAtoR",
+      "role": "USER",
+      "level": 10
+    },
+    "message": "/claim wager",
+    "timestamp": "2026-05-07T05:59:24.670Z"
   }
 ]
