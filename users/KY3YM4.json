@@ -850,5 +850,101 @@
     },
     "message": ":3",
     "timestamp": "2026-05-07T02:49:54.418Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "011a0adf-6f4c-4a80-bee0-c432126521b0",
+      "shortId": "KY3YM4",
+      "name": "N1TR0",
+      "role": "USER",
+      "level": 60
+    },
+    "message": "/claim",
+    "timestamp": "2026-05-07T02:50:21.773Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "011a0adf-6f4c-4a80-bee0-c432126521b0",
+      "shortId": "KY3YM4",
+      "name": "N1TR0",
+      "role": "USER",
+      "level": 60
+    },
+    "message": "gg bro",
+    "timestamp": "2026-05-07T02:50:37.503Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "011a0adf-6f4c-4a80-bee0-c432126521b0",
+      "shortId": "KY3YM4",
+      "name": "N1TR0",
+      "role": "USER",
+      "level": 60
+    },
+    "message": "wanna redo?",
+    "timestamp": "2026-05-07T02:50:46.822Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "011a0adf-6f4c-4a80-bee0-c432126521b0",
+      "shortId": "KY3YM4",
+      "name": "N1TR0",
+      "role": "USER",
+      "level": 60
+    },
+    "message": "i need to lose a few times",
+    "timestamp": "2026-05-07T02:50:58.676Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "011a0adf-6f4c-4a80-bee0-c432126521b0",
+      "shortId": "KY3YM4",
+      "name": "N1TR0",
+      "role": "USER",
+      "level": 60
+    },
+    "message": "idk",
+    "timestamp": "2026-05-07T02:51:01.839Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "011a0adf-6f4c-4a80-bee0-c432126521b0",
+      "shortId": "KY3YM4",
+      "name": "N1TR0",
+      "role": "USER",
+      "level": 60
+    },
+    "message": "ice or wood or golden",
+    "timestamp": "2026-05-07T02:51:11.740Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "011a0adf-6f4c-4a80-bee0-c432126521b0",
+      "shortId": "KY3YM4",
+      "name": "N1TR0",
+      "role": "USER",
+      "level": 60
+    },
+    "message": "alr",
+    "timestamp": "2026-05-07T02:51:14.229Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "011a0adf-6f4c-4a80-bee0-c432126521b0",
+      "shortId": "KY3YM4",
+      "name": "N1TR0",
+      "role": "USER",
+      "level": 60
+    },
+    "message": "1 wood?",
+    "timestamp": "2026-05-07T02:51:19.335Z"
   }
 ]
