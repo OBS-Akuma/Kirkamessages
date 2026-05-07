@@ -1,0 +1,230 @@
+[
+  {
+    "type": 2,
+    "user": {
+      "id": "5eca5e40-9a48-45e2-84b8-f6c3902872bd",
+      "shortId": "1CEW9O",
+      "name": "iced",
+      "role": "USER",
+      "level": 97
+    },
+    "message": "low value stuff u will prolly never trade up 7x",
+    "timestamp": "2026-05-07T05:39:45.148Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "5eca5e40-9a48-45e2-84b8-f6c3902872bd",
+      "shortId": "1CEW9O",
+      "name": "iced",
+      "role": "USER",
+      "level": 97
+    },
+    "message": "/commands",
+    "timestamp": "2026-05-07T05:40:44.684Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "5eca5e40-9a48-45e2-84b8-f6c3902872bd",
+      "shortId": "1CEW9O",
+      "name": "iced",
+      "role": "USER",
+      "level": 97
+    },
+    "message": "/c8",
+    "timestamp": "2026-05-07T05:40:48.774Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "5eca5e40-9a48-45e2-84b8-f6c3902872bd",
+      "shortId": "1CEW9O",
+      "name": "iced",
+      "role": "USER",
+      "level": 97
+    },
+    "message": "/wager [Vintage|VITA|WEAPON_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-07T05:41:00.727Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "5eca5e40-9a48-45e2-84b8-f6c3902872bd",
+      "shortId": "1CEW9O",
+      "name": "iced",
+      "role": "USER",
+      "level": 97
+    },
+    "message": "/price [Blessed||BODY_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-07T05:41:16.219Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "5eca5e40-9a48-45e2-84b8-f6c3902872bd",
+      "shortId": "1CEW9O",
+      "name": "iced",
+      "role": "USER",
+      "level": 97
+    },
+    "message": "/confirmwager",
+    "timestamp": "2026-05-07T05:41:32.401Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "5eca5e40-9a48-45e2-84b8-f6c3902872bd",
+      "shortId": "1CEW9O",
+      "name": "iced",
+      "role": "USER",
+      "level": 97
+    },
+    "message": "/claim",
+    "timestamp": "2026-05-07T05:42:11.294Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "5eca5e40-9a48-45e2-84b8-f6c3902872bd",
+      "shortId": "1CEW9O",
+      "name": "iced",
+      "role": "USER",
+      "level": 97
+    },
+    "message": "?",
+    "timestamp": "2026-05-07T05:42:33.944Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "5eca5e40-9a48-45e2-84b8-f6c3902872bd",
+      "shortId": "1CEW9O",
+      "name": "iced",
+      "role": "USER",
+      "level": 97
+    },
+    "message": "thanks twin",
+    "timestamp": "2026-05-07T05:42:43.064Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "5eca5e40-9a48-45e2-84b8-f6c3902872bd",
+      "shortId": "1CEW9O",
+      "name": "iced",
+      "role": "USER",
+      "level": 97
+    },
+    "message": "well i can wager something smaller",
+    "timestamp": "2026-05-07T05:42:52.295Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "5eca5e40-9a48-45e2-84b8-f6c3902872bd",
+      "shortId": "1CEW9O",
+      "name": "iced",
+      "role": "USER",
+      "level": 97
+    },
+    "message": "i have [Eggs|Bayonet|WEAPON_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-07T05:43:02.200Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "5eca5e40-9a48-45e2-84b8-f6c3902872bd",
+      "shortId": "1CEW9O",
+      "name": "iced",
+      "role": "USER",
+      "level": 97
+    },
+    "message": "/cancelwager",
+    "timestamp": "2026-05-07T05:43:26.785Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "5eca5e40-9a48-45e2-84b8-f6c3902872bd",
+      "shortId": "1CEW9O",
+      "name": "iced",
+      "role": "USER",
+      "level": 97
+    },
+    "message": "you have another ntat?",
+    "timestamp": "2026-05-07T05:44:04.777Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "5eca5e40-9a48-45e2-84b8-f6c3902872bd",
+      "shortId": "1CEW9O",
+      "name": "iced",
+      "role": "USER",
+      "level": 97
+    },
+    "message": "/confirmwager",
+    "timestamp": "2026-05-07T05:44:09.184Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "5eca5e40-9a48-45e2-84b8-f6c3902872bd",
+      "shortId": "1CEW9O",
+      "name": "iced",
+      "role": "USER",
+      "level": 97
+    },
+    "message": "its 2 what?'",
+    "timestamp": "2026-05-07T05:45:01.712Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "5eca5e40-9a48-45e2-84b8-f6c3902872bd",
+      "shortId": "1CEW9O",
+      "name": "iced",
+      "role": "USER",
+      "level": 97
+    },
+    "message": "/wager [Eggs|Bayonet|WEAPON_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-07T05:48:49.459Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "5eca5e40-9a48-45e2-84b8-f6c3902872bd",
+      "shortId": "1CEW9O",
+      "name": "iced",
+      "role": "USER",
+      "level": 97
+    },
+    "message": "yea",
+    "timestamp": "2026-05-07T05:49:01.716Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "5eca5e40-9a48-45e2-84b8-f6c3902872bd",
+      "shortId": "1CEW9O",
+      "name": "iced",
+      "role": "USER",
+      "level": 97
+    },
+    "message": "stop spamming navy",
+    "timestamp": "2026-05-07T05:49:20.592Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "5eca5e40-9a48-45e2-84b8-f6c3902872bd",
+      "shortId": "1CEW9O",
+      "name": "iced",
+      "role": "USER",
+      "level": 97
+    },
+    "message": "ok, do you want me to tag your id ntat or no?",
+    "timestamp": "2026-05-07T05:49:37.428Z"
+  }
+]
