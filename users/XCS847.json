@@ -1176,7 +1176,7 @@
       "role": "USER",
       "level": 84
     },
-    "message": "Bro [Sunday|Bayonet|WEAPON_SKIN|MYTHICAL] 7+ m Ã°ÂÂ¥Â",
+    "message": "Bro [Sunday|Bayonet|WEAPON_SKIN|MYTHICAL] 7+ m ÃÂ°ÃÂÃÂ¥ÃÂ",
     "timestamp": "2026-05-07T05:55:01.851Z"
   },
   {
@@ -1394,5 +1394,65 @@
     },
     "message": "Tr[Scarey|SCAR|WEAPON_SKIN|EPIC][Empress|VITA|WEAPON_SKIN|LEGENDARY][Sunday|Bayonet|WEAPON_SKIN|MYTHICAL][Taurus|Shark|WEAPON_SKIN|LEGENDARY][Capricorn|Tomahawk|WEAPON_SKIN|MYTHICAL][Garden|LAR|WEAPON_SKIN|MYTHICAL][Arachne|VITA|WEAPON_SKIN|MYTHICAL][Onryo||BODY_SKIN|MYTHICAL]",
     "timestamp": "2026-05-07T06:06:41.022Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "631aee1e-afcc-404d-a987-e3c180d9eeb1",
+      "shortId": "XCS847",
+      "name": "in_theroom",
+      "role": "USER",
+      "level": 84
+    },
+    "message": "Tr[Andromeda|MAC-10|WEAPON_SKIN|LEGENDARY][Grinchette||BODY_SKIN|MYTHICAL][Ghoul||BODY_SKIN|MYTHICAL][Vintage|VITA|WEAPON_SKIN|MYTHICAL][Rabbit|Shark|WEAPON_SKIN|MYTHICAL][Magic|Shark|WEAPON_SKIN|MYTHICAL][Damascus|Tomahawk|WEAPON_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-07T06:06:50.313Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "631aee1e-afcc-404d-a987-e3c180d9eeb1",
+      "shortId": "XCS847",
+      "name": "in_theroom",
+      "role": "USER",
+      "level": 84
+    },
+    "message": "I heav [Scarey|SCAR|WEAPON_SKIN|EPIC]",
+    "timestamp": "2026-05-07T06:08:27.083Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "631aee1e-afcc-404d-a987-e3c180d9eeb1",
+      "shortId": "XCS847",
+      "name": "in_theroom",
+      "role": "USER",
+      "level": 84
+    },
+    "message": "???",
+    "timestamp": "2026-05-07T06:08:42.667Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "631aee1e-afcc-404d-a987-e3c180d9eeb1",
+      "shortId": "XCS847",
+      "name": "in_theroom",
+      "role": "USER",
+      "level": 84
+    },
+    "message": "Nah wager scam",
+    "timestamp": "2026-05-07T06:08:52.067Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "631aee1e-afcc-404d-a987-e3c180d9eeb1",
+      "shortId": "XCS847",
+      "name": "in_theroom",
+      "role": "USER",
+      "level": 84
+    },
+    "message": "#4CQDEK offer for [Garden|LAR|WEAPON_SKIN|MYTHICAL]?",
+    "timestamp": "2026-05-07T06:10:51.474Z"
   }
 ]
