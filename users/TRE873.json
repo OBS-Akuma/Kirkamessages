@@ -1318,5 +1318,65 @@
     },
     "message": "Xore? Trade?",
     "timestamp": "2026-05-06T03:21:49.567Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "5d544b9e-5ca6-4638-b3a2-0318522e29af",
+      "shortId": "TRE873",
+      "name": "QWERTY",
+      "role": "USER",
+      "level": 67
+    },
+    "message": "Do u have dscar?",
+    "timestamp": "2026-05-07T01:50:58.608Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "5d544b9e-5ca6-4638-b3a2-0318522e29af",
+      "shortId": "TRE873",
+      "name": "QWERTY",
+      "role": "USER",
+      "level": 67
+    },
+    "message": "Wanna do?",
+    "timestamp": "2026-05-07T01:51:11.704Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "5d544b9e-5ca6-4638-b3a2-0318522e29af",
+      "shortId": "TRE873",
+      "name": "QWERTY",
+      "role": "USER",
+      "level": 67
+    },
+    "message": "I can add [Honey|Bayonet|WEAPON_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-07T01:52:17.658Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "5d544b9e-5ca6-4638-b3a2-0318522e29af",
+      "shortId": "TRE873",
+      "name": "QWERTY",
+      "role": "USER",
+      "level": 67
+    },
+    "message": "But thats max",
+    "timestamp": "2026-05-07T01:52:22.431Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "5d544b9e-5ca6-4638-b3a2-0318522e29af",
+      "shortId": "TRE873",
+      "name": "QWERTY",
+      "role": "USER",
+      "level": 67
+    },
+    "message": "Ggs bro",
+    "timestamp": "2026-05-07T01:53:24.170Z"
   }
 ]
