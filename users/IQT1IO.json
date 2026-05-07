@@ -466,5 +466,77 @@
     },
     "message": "Gg",
     "timestamp": "2026-05-07T20:03:33.095Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "fqEtaXQccqect4TrlfgeAzWrDg72",
+      "shortId": "IQT1IO",
+      "name": "dark",
+      "role": "USER",
+      "level": 20
+    },
+    "message": "/confirmwager",
+    "timestamp": "2026-05-07T20:04:42.177Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "fqEtaXQccqect4TrlfgeAzWrDg72",
+      "shortId": "IQT1IO",
+      "name": "dark",
+      "role": "USER",
+      "level": 20
+    },
+    "message": "meh",
+    "timestamp": "2026-05-07T20:05:41.798Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "fqEtaXQccqect4TrlfgeAzWrDg72",
+      "shortId": "IQT1IO",
+      "name": "dark",
+      "role": "USER",
+      "level": 20
+    },
+    "message": "/confirmwager",
+    "timestamp": "2026-05-07T20:05:51.435Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "fqEtaXQccqect4TrlfgeAzWrDg72",
+      "shortId": "IQT1IO",
+      "name": "dark",
+      "role": "USER",
+      "level": 20
+    },
+    "message": "lol",
+    "timestamp": "2026-05-07T20:07:48.776Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "fqEtaXQccqect4TrlfgeAzWrDg72",
+      "shortId": "IQT1IO",
+      "name": "dark",
+      "role": "USER",
+      "level": 20
+    },
+    "message": "/claim",
+    "timestamp": "2026-05-07T20:07:54.847Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "fqEtaXQccqect4TrlfgeAzWrDg72",
+      "shortId": "IQT1IO",
+      "name": "dark",
+      "role": "USER",
+      "level": 20
+    },
+    "message": "/confirmwager",
+    "timestamp": "2026-05-07T20:08:25.931Z"
   }
 ]
