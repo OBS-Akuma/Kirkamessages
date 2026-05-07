@@ -56,7 +56,7 @@
       "role": "USER",
       "level": 100
     },
-    "message": "😭",
+    "message": "ð­",
     "timestamp": "2026-05-07T21:12:27.747Z"
   },
   {
@@ -82,5 +82,41 @@
     },
     "message": "i mean thats not bad",
     "timestamp": "2026-05-07T21:12:53.089Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "6af7db84-1576-4125-9ded-74f25c88a6c2",
+      "shortId": "6O51FV",
+      "name": "hwinzz",
+      "role": "USER",
+      "level": 100
+    },
+    "message": "[Sugar James||BODY_SKIN|PARANORMAL]",
+    "timestamp": "2026-05-07T21:13:58.897Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "6af7db84-1576-4125-9ded-74f25c88a6c2",
+      "shortId": "6O51FV",
+      "name": "hwinzz",
+      "role": "USER",
+      "level": 100
+    },
+    "message": "WHAT",
+    "timestamp": "2026-05-07T21:14:18.398Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "6af7db84-1576-4125-9ded-74f25c88a6c2",
+      "shortId": "6O51FV",
+      "name": "hwinzz",
+      "role": "USER",
+      "level": 100
+    },
+    "message": "7 OWNERS?",
+    "timestamp": "2026-05-07T21:14:22.820Z"
   }
 ]
