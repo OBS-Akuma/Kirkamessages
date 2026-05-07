@@ -10,5 +10,29 @@
     },
     "message": "[Oblivion|SCAR|WEAPON_SKIN|MYTHICAL]",
     "timestamp": "2026-05-07T07:50:35.575Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "ca49be03-df12-4084-8cb0-a6f104265801",
+      "shortId": "EB3CAM",
+      "name": "KING_Z_BACK",
+      "role": "USER",
+      "level": 71
+    },
+    "message": "GLIMMER [Oblivion|SCAR|WEAPON_SKIN|MYTHICAL] i want",
+    "timestamp": "2026-05-07T08:55:36.105Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "ca49be03-df12-4084-8cb0-a6f104265801",
+      "shortId": "EB3CAM",
+      "name": "KING_Z_BACK",
+      "role": "USER",
+      "level": 71
+    },
+    "message": "coins or [2024|Bayonet|WEAPON_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-07T08:55:54.536Z"
   }
 ]
