@@ -334,5 +334,65 @@
     },
     "message": "/giveaway",
     "timestamp": "2026-05-07T19:09:18.143Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "5c75b2d7-9364-4cdf-8a05-4f98b9d990f5",
+      "shortId": "AIIMYI",
+      "name": "xyds",
+      "role": "USER",
+      "level": 84
+    },
+    "message": "/fav bolt",
+    "timestamp": "2026-05-07T23:15:08.131Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "5c75b2d7-9364-4cdf-8a05-4f98b9d990f5",
+      "shortId": "AIIMYI",
+      "name": "xyds",
+      "role": "USER",
+      "level": 84
+    },
+    "message": "/enter",
+    "timestamp": "2026-05-07T23:15:12.339Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "5c75b2d7-9364-4cdf-8a05-4f98b9d990f5",
+      "shortId": "AIIMYI",
+      "name": "xyds",
+      "role": "USER",
+      "level": 84
+    },
+    "message": "?",
+    "timestamp": "2026-05-07T23:15:26.400Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "5c75b2d7-9364-4cdf-8a05-4f98b9d990f5",
+      "shortId": "AIIMYI",
+      "name": "xyds",
+      "role": "USER",
+      "level": 84
+    },
+    "message": "/enter",
+    "timestamp": "2026-05-07T23:15:33.620Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "5c75b2d7-9364-4cdf-8a05-4f98b9d990f5",
+      "shortId": "AIIMYI",
+      "name": "xyds",
+      "role": "USER",
+      "level": 84
+    },
+    "message": "/hm [Boo||BODY_SKIN|LEGENDARY]",
+    "timestamp": "2026-05-07T23:16:12.887Z"
   }
 ]
