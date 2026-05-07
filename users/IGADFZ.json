@@ -514,5 +514,41 @@
     },
     "message": "/price waves",
     "timestamp": "2026-05-07T07:39:03.688Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "34f8f3a3-088e-45dd-badd-4e80aca43934",
+      "shortId": "IGADFZ",
+      "name": "Night.",
+      "role": "USER",
+      "level": 66
+    },
+    "message": "Who wants to join war_lords??",
+    "timestamp": "2026-05-07T08:20:28.870Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "34f8f3a3-088e-45dd-badd-4e80aca43934",
+      "shortId": "IGADFZ",
+      "name": "Night.",
+      "role": "USER",
+      "level": 66
+    },
+    "message": "melone?",
+    "timestamp": "2026-05-07T08:20:44.156Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "34f8f3a3-088e-45dd-badd-4e80aca43934",
+      "shortId": "IGADFZ",
+      "name": "Night.",
+      "role": "USER",
+      "level": 66
+    },
+    "message": "#69Y0E5?",
+    "timestamp": "2026-05-07T08:20:49.652Z"
   }
 ]
