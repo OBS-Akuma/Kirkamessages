@@ -70,5 +70,29 @@
     },
     "message": "accept",
     "timestamp": "2026-05-06T01:49:35.188Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "zgt34rymSsY96gZS0tTzLR0OnLA2",
+      "shortId": "YBYUEB",
+      "name": "Blood_Hunt|RpG",
+      "role": "USER",
+      "level": 84
+    },
+    "message": "vou mandar",
+    "timestamp": "2026-05-07T20:35:58.781Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "zgt34rymSsY96gZS0tTzLR0OnLA2",
+      "shortId": "YBYUEB",
+      "name": "Blood_Hunt|RpG",
+      "role": "USER",
+      "level": 84
+    },
+    "message": "tr [Jolly||BODY_SKIN|MYTHICAL] [Melody||BODY_SKIN|MYTHICAL] [Ortus|Revolver|WEAPON_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-07T20:39:50.339Z"
   }
 ]
