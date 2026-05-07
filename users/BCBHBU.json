@@ -106,5 +106,41 @@
     },
     "message": "ok",
     "timestamp": "2026-05-07T18:03:37.747Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "462b7f5f-1cb4-4f46-a1e1-f9c092da6a22",
+      "shortId": "BCBHBU",
+      "name": "canel",
+      "role": "USER",
+      "level": 99
+    },
+    "message": "/giveaway [Alighted|Bayonet|WEAPON_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-07T18:07:58.951Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "462b7f5f-1cb4-4f46-a1e1-f9c092da6a22",
+      "shortId": "BCBHBU",
+      "name": "canel",
+      "role": "USER",
+      "level": 99
+    },
+    "message": "/give away [Alighted|Bayonet|WEAPON_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-07T18:08:14.650Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "462b7f5f-1cb4-4f46-a1e1-f9c092da6a22",
+      "shortId": "BCBHBU",
+      "name": "canel",
+      "role": "USER",
+      "level": 99
+    },
+    "message": "iwin",
+    "timestamp": "2026-05-07T18:08:28.873Z"
   }
 ]
