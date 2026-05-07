@@ -250,5 +250,41 @@
     },
     "message": "/lottery",
     "timestamp": "2026-05-05T05:13:34.852Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "0cba4816-6935-46f8-ae34-10ebe79465fc",
+      "shortId": "M27S4G",
+      "name": "SnipeR-WarrioR",
+      "role": "USER",
+      "level": 45
+    },
+    "message": "jp",
+    "timestamp": "2026-05-07T05:19:01.967Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "0cba4816-6935-46f8-ae34-10ebe79465fc",
+      "shortId": "M27S4G",
+      "name": "SnipeR-WarrioR",
+      "role": "USER",
+      "level": 45
+    },
+    "message": "congo for 99 lvl",
+    "timestamp": "2026-05-07T05:19:05.992Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "0cba4816-6935-46f8-ae34-10ebe79465fc",
+      "shortId": "M27S4G",
+      "name": "SnipeR-WarrioR",
+      "role": "USER",
+      "level": 45
+    },
+    "message": "congrat for 99 lvl",
+    "timestamp": "2026-05-07T05:19:24.737Z"
   }
 ]
