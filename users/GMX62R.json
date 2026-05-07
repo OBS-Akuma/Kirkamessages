@@ -166,5 +166,41 @@
     },
     "message": "PLEASE TRADE ME I NEED VOID WETIE",
     "timestamp": "2026-05-07T02:12:18.779Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "bc8e6feb-bb40-4540-9470-ea5c349d769c",
+      "shortId": "GMX62R",
+      "name": "Ethong",
+      "role": "USER",
+      "level": 19
+    },
+    "message": "HEY CAN I TRADE U FOR DRAGON\"",
+    "timestamp": "2026-05-07T03:57:03.043Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "bc8e6feb-bb40-4540-9470-ea5c349d769c",
+      "shortId": "GMX62R",
+      "name": "Ethong",
+      "role": "USER",
+      "level": 19
+    },
+    "message": "LET ME TRADE FOR UR [Dragon||BODY_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-07T03:57:41.819Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "bc8e6feb-bb40-4540-9470-ea5c349d769c",
+      "shortId": "GMX62R",
+      "name": "Ethong",
+      "role": "USER",
+      "level": 19
+    },
+    "message": "/cancle",
+    "timestamp": "2026-05-07T03:58:50.941Z"
   }
 ]
