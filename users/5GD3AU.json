@@ -9140,5 +9140,257 @@
     },
     "message": "/claim",
     "timestamp": "2026-05-07T03:59:38.916Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "4525c2fd-62ac-46cf-8b35-f56bc75a81bb",
+      "shortId": "5GD3AU",
+      "name": "7xWORLDCHAMP",
+      "role": "USER",
+      "level": 45
+    },
+    "message": "/locate siniset p4",
+    "timestamp": "2026-05-07T03:59:50.881Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "4525c2fd-62ac-46cf-8b35-f56bc75a81bb",
+      "shortId": "5GD3AU",
+      "name": "7xWORLDCHAMP",
+      "role": "USER",
+      "level": 45
+    },
+    "message": "/locate sinister p4",
+    "timestamp": "2026-05-07T03:59:57.967Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "4525c2fd-62ac-46cf-8b35-f56bc75a81bb",
+      "shortId": "5GD3AU",
+      "name": "7xWORLDCHAMP",
+      "role": "USER",
+      "level": 45
+    },
+    "message": "i have sinister",
+    "timestamp": "2026-05-07T04:00:05.352Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "4525c2fd-62ac-46cf-8b35-f56bc75a81bb",
+      "shortId": "5GD3AU",
+      "name": "7xWORLDCHAMP",
+      "role": "USER",
+      "level": 45
+    },
+    "message": "where am i",
+    "timestamp": "2026-05-07T04:00:07.726Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "4525c2fd-62ac-46cf-8b35-f56bc75a81bb",
+      "shortId": "5GD3AU",
+      "name": "7xWORLDCHAMP",
+      "role": "USER",
+      "level": 45
+    },
+    "message": "/locate sinister p6",
+    "timestamp": "2026-05-07T04:00:13.908Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "4525c2fd-62ac-46cf-8b35-f56bc75a81bb",
+      "shortId": "5GD3AU",
+      "name": "7xWORLDCHAMP",
+      "role": "USER",
+      "level": 45
+    },
+    "message": "/last10 quilliam",
+    "timestamp": "2026-05-07T04:00:46.640Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "4525c2fd-62ac-46cf-8b35-f56bc75a81bb",
+      "shortId": "5GD3AU",
+      "name": "7xWORLDCHAMP",
+      "role": "USER",
+      "level": 45
+    },
+    "message": "/last10 bupplepop",
+    "timestamp": "2026-05-07T04:01:20.455Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "4525c2fd-62ac-46cf-8b35-f56bc75a81bb",
+      "shortId": "5GD3AU",
+      "name": "7xWORLDCHAMP",
+      "role": "USER",
+      "level": 45
+    },
+    "message": "wtf is it called",
+    "timestamp": "2026-05-07T04:01:27.111Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "4525c2fd-62ac-46cf-8b35-f56bc75a81bb",
+      "shortId": "5GD3AU",
+      "name": "7xWORLDCHAMP",
+      "role": "USER",
+      "level": 45
+    },
+    "message": "/inv",
+    "timestamp": "2026-05-07T04:01:48.956Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "4525c2fd-62ac-46cf-8b35-f56bc75a81bb",
+      "shortId": "5GD3AU",
+      "name": "7xWORLDCHAMP",
+      "role": "USER",
+      "level": 45
+    },
+    "message": "saint arent u in elder",
+    "timestamp": "2026-05-07T04:02:14.020Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "4525c2fd-62ac-46cf-8b35-f56bc75a81bb",
+      "shortId": "5GD3AU",
+      "name": "7xWORLDCHAMP",
+      "role": "USER",
+      "level": 45
+    },
+    "message": "/goat",
+    "timestamp": "2026-05-07T04:02:42.272Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "4525c2fd-62ac-46cf-8b35-f56bc75a81bb",
+      "shortId": "5GD3AU",
+      "name": "7xWORLDCHAMP",
+      "role": "USER",
+      "level": 45
+    },
+    "message": "/top10 goat",
+    "timestamp": "2026-05-07T04:02:48.797Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "4525c2fd-62ac-46cf-8b35-f56bc75a81bb",
+      "shortId": "5GD3AU",
+      "name": "7xWORLDCHAMP",
+      "role": "USER",
+      "level": 45
+    },
+    "message": "/goats",
+    "timestamp": "2026-05-07T04:02:55.823Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "4525c2fd-62ac-46cf-8b35-f56bc75a81bb",
+      "shortId": "5GD3AU",
+      "name": "7xWORLDCHAMP",
+      "role": "USER",
+      "level": 45
+    },
+    "message": "/goat top10",
+    "timestamp": "2026-05-07T04:03:04.593Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "4525c2fd-62ac-46cf-8b35-f56bc75a81bb",
+      "shortId": "5GD3AU",
+      "name": "7xWORLDCHAMP",
+      "role": "USER",
+      "level": 45
+    },
+    "message": "lmao",
+    "timestamp": "2026-05-07T04:03:09.570Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "4525c2fd-62ac-46cf-8b35-f56bc75a81bb",
+      "shortId": "5GD3AU",
+      "name": "7xWORLDCHAMP",
+      "role": "USER",
+      "level": 45
+    },
+    "message": "/goat fpupr5",
+    "timestamp": "2026-05-07T04:03:19.303Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "4525c2fd-62ac-46cf-8b35-f56bc75a81bb",
+      "shortId": "5GD3AU",
+      "name": "7xWORLDCHAMP",
+      "role": "USER",
+      "level": 45
+    },
+    "message": "saint",
+    "timestamp": "2026-05-07T04:03:37.142Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "4525c2fd-62ac-46cf-8b35-f56bc75a81bb",
+      "shortId": "5GD3AU",
+      "name": "7xWORLDCHAMP",
+      "role": "USER",
+      "level": 45
+    },
+    "message": "watch the grind",
+    "timestamp": "2026-05-07T04:03:42.242Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "4525c2fd-62ac-46cf-8b35-f56bc75a81bb",
+      "shortId": "5GD3AU",
+      "name": "7xWORLDCHAMP",
+      "role": "USER",
+      "level": 45
+    },
+    "message": "im gonna get that chromium",
+    "timestamp": "2026-05-07T04:03:46.789Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "4525c2fd-62ac-46cf-8b35-f56bc75a81bb",
+      "shortId": "5GD3AU",
+      "name": "7xWORLDCHAMP",
+      "role": "USER",
+      "level": 45
+    },
+    "message": "im gonna get that if i get 1st",
+    "timestamp": "2026-05-07T04:03:54.667Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "4525c2fd-62ac-46cf-8b35-f56bc75a81bb",
+      "shortId": "5GD3AU",
+      "name": "7xWORLDCHAMP",
+      "role": "USER",
+      "level": 45
+    },
+    "message": "watch",
+    "timestamp": "2026-05-07T04:03:58.849Z"
   }
 ]
