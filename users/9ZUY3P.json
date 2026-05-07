@@ -8,7 +8,7 @@
       "role": "USER",
       "level": 48
     },
-    "message": "TÃÂÃÂ¡ com inveja?",
+    "message": "TÃÂÃÂÃÂÃÂ¡ com inveja?",
     "timestamp": "2026-05-07T18:01:54.923Z"
   },
   {
@@ -116,7 +116,7 @@
       "role": "USER",
       "level": 48
     },
-    "message": "JÃ¡ acabei o trade",
+    "message": "JÃÂ¡ acabei o trade",
     "timestamp": "2026-05-07T18:09:01.197Z"
   },
   {
@@ -142,5 +142,41 @@
     },
     "message": "Someone have Frozen?",
     "timestamp": "2026-05-07T18:14:21.817Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "7d4f78ef-2b90-4c0a-be76-d47c869d11c8",
+      "shortId": "9ZUY3P",
+      "name": "MY|NIGHTMARE",
+      "role": "USER",
+      "level": 48
+    },
+    "message": "Tr[Astatine||BODY_SKIN|MYTHICAL]x2[Ghoul||BODY_SKIN|MYTHICAL][Dragonic||BODY_SKIN|MYTHICAL][Phantom||BODY_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-07T18:38:06.837Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "7d4f78ef-2b90-4c0a-be76-d47c869d11c8",
+      "shortId": "9ZUY3P",
+      "name": "MY|NIGHTMARE",
+      "role": "USER",
+      "level": 48
+    },
+    "message": "No one",
+    "timestamp": "2026-05-07T18:38:40.901Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "7d4f78ef-2b90-4c0a-be76-d47c869d11c8",
+      "shortId": "9ZUY3P",
+      "name": "MY|NIGHTMARE",
+      "role": "USER",
+      "level": 48
+    },
+    "message": "#LU1ND8",
+    "timestamp": "2026-05-07T18:39:17.569Z"
   }
 ]
