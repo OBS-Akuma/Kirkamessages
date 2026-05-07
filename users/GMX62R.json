@@ -142,5 +142,29 @@
     },
     "message": "/hm void weatie",
     "timestamp": "2026-05-07T02:09:42.560Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "bc8e6feb-bb40-4540-9470-ea5c349d769c",
+      "shortId": "GMX62R",
+      "name": "Ethong",
+      "role": "USER",
+      "level": 18
+    },
+    "message": "/hm aries",
+    "timestamp": "2026-05-07T02:11:56.246Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "bc8e6feb-bb40-4540-9470-ea5c349d769c",
+      "shortId": "GMX62R",
+      "name": "Ethong",
+      "role": "USER",
+      "level": 18
+    },
+    "message": "PLEASE TRADE ME I NEED VOID WETIE",
+    "timestamp": "2026-05-07T02:12:18.779Z"
   }
 ]
