@@ -706,5 +706,29 @@
     },
     "message": "i buy lmao",
     "timestamp": "2026-05-07T06:27:21.080Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "e7ca017c-557f-4b21-96eb-3ec2a9a728ab",
+      "shortId": "8SQMAK",
+      "name": "Eri.",
+      "role": "USER",
+      "level": 52
+    },
+    "message": "how do i place a bet ?",
+    "timestamp": "2026-05-07T06:31:34.259Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "e7ca017c-557f-4b21-96eb-3ec2a9a728ab",
+      "shortId": "8SQMAK",
+      "name": "Eri.",
+      "role": "USER",
+      "level": 52
+    },
+    "message": "wager",
+    "timestamp": "2026-05-07T06:31:42.815Z"
   }
 ]
