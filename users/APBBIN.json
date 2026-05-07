@@ -1042,5 +1042,125 @@
     },
     "message": "/wager [Golden||CHEST|LEGENDARY]x300 #PV831P",
     "timestamp": "2026-05-07T19:05:46.211Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "29a9336e-d8df-46ae-8ce7-3df48a298e31",
+      "shortId": "APBBIN",
+      "name": "adam",
+      "role": "USER",
+      "level": 62
+    },
+    "message": "me",
+    "timestamp": "2026-05-07T19:06:36.207Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "29a9336e-d8df-46ae-8ce7-3df48a298e31",
+      "shortId": "APBBIN",
+      "name": "adam",
+      "role": "USER",
+      "level": 62
+    },
+    "message": "/claim",
+    "timestamp": "2026-05-07T19:06:48.849Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "29a9336e-d8df-46ae-8ce7-3df48a298e31",
+      "shortId": "APBBIN",
+      "name": "adam",
+      "role": "USER",
+      "level": 62
+    },
+    "message": "wager for what",
+    "timestamp": "2026-05-07T19:07:07.716Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "29a9336e-d8df-46ae-8ce7-3df48a298e31",
+      "shortId": "APBBIN",
+      "name": "adam",
+      "role": "USER",
+      "level": 62
+    },
+    "message": "??",
+    "timestamp": "2026-05-07T19:07:43.569Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "29a9336e-d8df-46ae-8ce7-3df48a298e31",
+      "shortId": "APBBIN",
+      "name": "adam",
+      "role": "USER",
+      "level": 62
+    },
+    "message": "wager ??",
+    "timestamp": "2026-05-07T19:08:01.733Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "29a9336e-d8df-46ae-8ce7-3df48a298e31",
+      "shortId": "APBBIN",
+      "name": "adam",
+      "role": "USER",
+      "level": 62
+    },
+    "message": "OK",
+    "timestamp": "2026-05-07T19:08:03.573Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "29a9336e-d8df-46ae-8ce7-3df48a298e31",
+      "shortId": "APBBIN",
+      "name": "adam",
+      "role": "USER",
+      "level": 62
+    },
+    "message": "/wager [RGB||BODY_SKIN|LEGENDARY] #M1D0JC",
+    "timestamp": "2026-05-07T19:08:14.389Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "29a9336e-d8df-46ae-8ce7-3df48a298e31",
+      "shortId": "APBBIN",
+      "name": "adam",
+      "role": "USER",
+      "level": 62
+    },
+    "message": ",,",
+    "timestamp": "2026-05-07T19:08:33.461Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "29a9336e-d8df-46ae-8ce7-3df48a298e31",
+      "shortId": "APBBIN",
+      "name": "adam",
+      "role": "USER",
+      "level": 62
+    },
+    "message": "??",
+    "timestamp": "2026-05-07T19:08:35.505Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "29a9336e-d8df-46ae-8ce7-3df48a298e31",
+      "shortId": "APBBIN",
+      "name": "adam",
+      "role": "USER",
+      "level": 62
+    },
+    "message": "i have rgb",
+    "timestamp": "2026-05-07T19:08:40.665Z"
   }
 ]
