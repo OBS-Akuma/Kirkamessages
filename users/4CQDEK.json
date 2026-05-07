@@ -3070,5 +3070,77 @@
     },
     "message": "/price ivoire",
     "timestamp": "2026-05-07T02:09:32.472Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "878dfc67-a2f4-46d9-b837-58e311d701d3",
+      "shortId": "4CQDEK",
+      "name": "UrBoiBeetle",
+      "role": "USER",
+      "level": 98
+    },
+    "message": "yo guys I just got [Splanch|VITA|WEAPON_SKIN|MYTHICAL] :D",
+    "timestamp": "2026-05-07T02:44:45.719Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "878dfc67-a2f4-46d9-b837-58e311d701d3",
+      "shortId": "4CQDEK",
+      "name": "UrBoiBeetle",
+      "role": "USER",
+      "level": 98
+    },
+    "message": "thx Worman and Neptne <3 :)",
+    "timestamp": "2026-05-07T02:45:17.256Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "878dfc67-a2f4-46d9-b837-58e311d701d3",
+      "shortId": "4CQDEK",
+      "name": "UrBoiBeetle",
+      "role": "USER",
+      "level": 98
+    },
+    "message": "/inv",
+    "timestamp": "2026-05-07T02:45:25.264Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "878dfc67-a2f4-46d9-b837-58e311d701d3",
+      "shortId": "4CQDEK",
+      "name": "UrBoiBeetle",
+      "role": "USER",
+      "level": 98
+    },
+    "message": ":o",
+    "timestamp": "2026-05-07T02:45:30.204Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "878dfc67-a2f4-46d9-b837-58e311d701d3",
+      "shortId": "4CQDEK",
+      "name": "UrBoiBeetle",
+      "role": "USER",
+      "level": 98
+    },
+    "message": "/hm splanch",
+    "timestamp": "2026-05-07T02:45:35.886Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "878dfc67-a2f4-46d9-b837-58e311d701d3",
+      "shortId": "4CQDEK",
+      "name": "UrBoiBeetle",
+      "role": "USER",
+      "level": 98
+    },
+    "message": "/price splanch",
+    "timestamp": "2026-05-07T02:45:41.256Z"
   }
 ]
