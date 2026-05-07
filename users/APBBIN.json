@@ -394,5 +394,53 @@
     },
     "message": "/enter",
     "timestamp": "2026-05-07T18:10:52.145Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "29a9336e-d8df-46ae-8ce7-3df48a298e31",
+      "shortId": "APBBIN",
+      "name": "adam",
+      "role": "USER",
+      "level": 62
+    },
+    "message": "who wanna wager [Golden||CHEST|LEGENDARY]",
+    "timestamp": "2026-05-07T18:11:13.296Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "29a9336e-d8df-46ae-8ce7-3df48a298e31",
+      "shortId": "APBBIN",
+      "name": "adam",
+      "role": "USER",
+      "level": 62
+    },
+    "message": "/wager [Forbidden|AR-9|WEAPON_SKIN|MYTHICAL] #89Z21J",
+    "timestamp": "2026-05-07T18:14:52.704Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "29a9336e-d8df-46ae-8ce7-3df48a298e31",
+      "shortId": "APBBIN",
+      "name": "adam",
+      "role": "USER",
+      "level": 62
+    },
+    "message": "/claim",
+    "timestamp": "2026-05-07T18:15:35.006Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "29a9336e-d8df-46ae-8ce7-3df48a298e31",
+      "shortId": "APBBIN",
+      "name": "adam",
+      "role": "USER",
+      "level": 62
+    },
+    "message": "/wager [Forbidden|AR-9|WEAPON_SKIN|MYTHICAL] #89Z21J",
+    "timestamp": "2026-05-07T18:16:06.823Z"
   }
 ]
