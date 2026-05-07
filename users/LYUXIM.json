@@ -322,5 +322,17 @@
     },
     "message": "/enter",
     "timestamp": "2026-05-07T05:24:21.600Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "fddeb704-c4e4-4f50-8a81-28c407f6d5da",
+      "shortId": "LYUXIM",
+      "name": "tstep",
+      "role": "USER",
+      "level": 98
+    },
+    "message": "/price bay",
+    "timestamp": "2026-05-07T20:01:00.843Z"
   }
 ]
