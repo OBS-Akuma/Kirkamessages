@@ -814,5 +814,17 @@
     },
     "message": "/price punishment",
     "timestamp": "2026-05-07T03:09:31.782Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "407c8457-a88c-495b-8540-9a63797d20ea",
+      "shortId": "BWXE30",
+      "name": "Nickeru-Chan",
+      "role": "USER",
+      "level": 65
+    },
+    "message": "i have kraken",
+    "timestamp": "2026-05-07T03:12:13.005Z"
   }
 ]
