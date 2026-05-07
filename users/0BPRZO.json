@@ -1978,5 +1978,17 @@
     },
     "message": "/price [Lion||BODY_SKIN|MYTHICAL]",
     "timestamp": "2026-05-07T05:11:07.565Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "aC4eJ9XToJg3hfiixxui6Cv8ymy2",
+      "shortId": "0BPRZO",
+      "name": "Abyss",
+      "role": "USER",
+      "level": 48
+    },
+    "message": "/claim 7BC3EB",
+    "timestamp": "2026-05-07T08:53:05.350Z"
   }
 ]
