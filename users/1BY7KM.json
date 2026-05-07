@@ -2277,5 +2277,53 @@
     },
     "message": "!!!",
     "timestamp": "2026-05-07T08:07:42.949Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "a0103ee0-5459-48e5-9959-9199c3cac592",
+      "shortId": "1BY7KM",
+      "name": "pepe",
+      "role": "USER",
+      "level": 96
+    },
+    "message": "[Janett||BODY_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-07T08:56:13.300Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "a0103ee0-5459-48e5-9959-9199c3cac592",
+      "shortId": "1BY7KM",
+      "name": "pepe",
+      "role": "USER",
+      "level": 96
+    },
+    "message": "tr janett",
+    "timestamp": "2026-05-07T08:58:38.748Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "a0103ee0-5459-48e5-9959-9199c3cac592",
+      "shortId": "1BY7KM",
+      "name": "pepe",
+      "role": "USER",
+      "level": 96
+    },
+    "message": "lf [Noble|VITA|WEAPON_SKIN|LEGENDARY]",
+    "timestamp": "2026-05-07T08:58:43.296Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "a0103ee0-5459-48e5-9959-9199c3cac592",
+      "shortId": "1BY7KM",
+      "name": "pepe",
+      "role": "USER",
+      "level": 96
+    },
+    "message": "#2HPWTQ who is a scammer",
+    "timestamp": "2026-05-07T08:58:51.934Z"
   }
 ]
