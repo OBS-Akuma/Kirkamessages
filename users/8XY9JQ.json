@@ -1,0 +1,38 @@
+[
+  {
+    "type": 2,
+    "user": {
+      "id": "VHaGAlq1SfRIghYIOumONimnnIW2",
+      "shortId": "8XY9JQ",
+      "name": "lemonester",
+      "role": "USER",
+      "level": 12
+    },
+    "message": "yo how do i sell stuff ?",
+    "timestamp": "2026-05-07T19:14:33.974Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "VHaGAlq1SfRIghYIOumONimnnIW2",
+      "shortId": "8XY9JQ",
+      "name": "lemonester",
+      "role": "USER",
+      "level": 12
+    },
+    "message": "guys help",
+    "timestamp": "2026-05-07T19:15:02.214Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "VHaGAlq1SfRIghYIOumONimnnIW2",
+      "shortId": "8XY9JQ",
+      "name": "lemonester",
+      "role": "USER",
+      "level": 12
+    },
+    "message": "/help",
+    "timestamp": "2026-05-07T19:15:05.448Z"
+  }
+]
