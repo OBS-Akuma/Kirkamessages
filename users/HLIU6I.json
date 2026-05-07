@@ -1,0 +1,26 @@
+[
+  {
+    "type": 2,
+    "user": {
+      "id": "1deea32b-58d9-4428-a432-c1716143c945",
+      "shortId": "HLIU6I",
+      "name": "FutError",
+      "role": "USER",
+      "level": 63
+    },
+    "message": "memet",
+    "timestamp": "2026-05-07T18:09:18.568Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "1deea32b-58d9-4428-a432-c1716143c945",
+      "shortId": "HLIU6I",
+      "name": "FutError",
+      "role": "USER",
+      "level": 63
+    },
+    "message": "mehmet",
+    "timestamp": "2026-05-07T18:12:15.908Z"
+  }
+]
