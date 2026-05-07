@@ -970,5 +970,65 @@
     },
     "message": "GO COP [Sunday|Bayonet|WEAPON_SKIN|MYTHICAL] 15M AND [Darkweb||BODY_SKIN|MYTHICAL] 25M ON MARKET!",
     "timestamp": "2026-05-07T03:14:53.253Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "02506a6c-de4d-4da9-833f-35e586b9b089",
+      "shortId": "H9H0OI",
+      "name": "Hafla_",
+      "role": "USER",
+      "level": 62
+    },
+    "message": "lf [Void Tomahawk|Tomahawk|WEAPON_SKIN|MYTHICAL] for 7m coins",
+    "timestamp": "2026-05-07T04:51:36.188Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "02506a6c-de4d-4da9-833f-35e586b9b089",
+      "shortId": "H9H0OI",
+      "name": "Hafla_",
+      "role": "USER",
+      "level": 62
+    },
+    "message": "lf [Void Tomahawk|Tomahawk|WEAPON_SKIN|MYTHICAL] for 7m coins!",
+    "timestamp": "2026-05-07T04:52:25.339Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "02506a6c-de4d-4da9-833f-35e586b9b089",
+      "shortId": "H9H0OI",
+      "name": "Hafla_",
+      "role": "USER",
+      "level": 62
+    },
+    "message": "Trading [Sunday|Bayonet|WEAPON_SKIN|MYTHICAL],[Darkweb||BODY_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-07T04:57:08.768Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "02506a6c-de4d-4da9-833f-35e586b9b089",
+      "shortId": "H9H0OI",
+      "name": "Hafla_",
+      "role": "USER",
+      "level": 62
+    },
+    "message": "any offer for darkweb or sunday?",
+    "timestamp": "2026-05-07T04:57:46.687Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "02506a6c-de4d-4da9-833f-35e586b9b089",
+      "shortId": "H9H0OI",
+      "name": "Hafla_",
+      "role": "USER",
+      "level": 62
+    },
+    "message": "CAN SOMOENE SELL VOID TOMAHAWK FOR 7M?COINS",
+    "timestamp": "2026-05-07T04:58:26.918Z"
   }
 ]
