@@ -730,5 +730,89 @@
     },
     "message": "Who has [Lor||BODY_SKIN|LEGENDARY]",
     "timestamp": "2026-05-07T03:39:48.742Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "guest-54be4ece-9e2b-474f-9d38-577976065f54",
+      "shortId": "IJ6DDH",
+      "name": "EGD|Galaxy",
+      "role": "USER",
+      "level": 27
+    },
+    "message": "Guys who has [Lor||BODY_SKIN|LEGENDARY]",
+    "timestamp": "2026-05-07T03:51:19.452Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "guest-54be4ece-9e2b-474f-9d38-577976065f54",
+      "shortId": "IJ6DDH",
+      "name": "EGD|Galaxy",
+      "role": "USER",
+      "level": 27
+    },
+    "message": "Wager me pls",
+    "timestamp": "2026-05-07T03:52:18.878Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "guest-54be4ece-9e2b-474f-9d38-577976065f54",
+      "shortId": "IJ6DDH",
+      "name": "EGD|Galaxy",
+      "role": "USER",
+      "level": 27
+    },
+    "message": "/confirmwager",
+    "timestamp": "2026-05-07T03:52:45.677Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "guest-54be4ece-9e2b-474f-9d38-577976065f54",
+      "shortId": "IJ6DDH",
+      "name": "EGD|Galaxy",
+      "role": "USER",
+      "level": 27
+    },
+    "message": "/claim",
+    "timestamp": "2026-05-07T03:53:48.552Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "guest-54be4ece-9e2b-474f-9d38-577976065f54",
+      "shortId": "IJ6DDH",
+      "name": "EGD|Galaxy",
+      "role": "USER",
+      "level": 27
+    },
+    "message": "M",
+    "timestamp": "2026-05-07T03:54:10.674Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "guest-54be4ece-9e2b-474f-9d38-577976065f54",
+      "shortId": "IJ6DDH",
+      "name": "EGD|Galaxy",
+      "role": "USER",
+      "level": 27
+    },
+    "message": "/claim",
+    "timestamp": "2026-05-07T03:54:18.032Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "guest-54be4ece-9e2b-474f-9d38-577976065f54",
+      "shortId": "IJ6DDH",
+      "name": "EGD|Galaxy",
+      "role": "USER",
+      "level": 27
+    },
+    "message": ".",
+    "timestamp": "2026-05-07T03:55:07.277Z"
   }
 ]
