@@ -274,5 +274,77 @@
     },
     "message": "/claim",
     "timestamp": "2026-05-07T04:28:28.386Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "1385b47a-bc43-4879-a1c4-7baf533b7bcc",
+      "shortId": "2JDMSD",
+      "name": "[\\/]Ike",
+      "role": "USER",
+      "level": 47
+    },
+    "message": "Thats fair",
+    "timestamp": "2026-05-07T04:30:10.359Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "1385b47a-bc43-4879-a1c4-7baf533b7bcc",
+      "shortId": "2JDMSD",
+      "name": "[\\/]Ike",
+      "role": "USER",
+      "level": 47
+    },
+    "message": "/last10 [Ghoul||BODY_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-07T04:30:24.562Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "1385b47a-bc43-4879-a1c4-7baf533b7bcc",
+      "shortId": "2JDMSD",
+      "name": "[\\/]Ike",
+      "role": "USER",
+      "level": 47
+    },
+    "message": "wagering [Fever|SCAR|WEAPON_SKIN|MYTHICAL]x2,[Ghoul||BODY_SKIN|MYTHICAL]x2,[Love Bites|Bayonet|WEAPON_SKIN|MYTHICAL]x2,[Or|Bayonet|WEAPON_SKIN|MYTHICAL]x4",
+    "timestamp": "2026-05-07T04:31:24.615Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "1385b47a-bc43-4879-a1c4-7baf533b7bcc",
+      "shortId": "2JDMSD",
+      "name": "[\\/]Ike",
+      "role": "USER",
+      "level": 47
+    },
+    "message": "/last10 [V0id||BODY_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-07T04:32:11.686Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "1385b47a-bc43-4879-a1c4-7baf533b7bcc",
+      "shortId": "2JDMSD",
+      "name": "[\\/]Ike",
+      "role": "USER",
+      "level": 47
+    },
+    "message": "wagering [Fever|SCAR|WEAPON_SKIN|MYTHICAL]x2,[Ghoul||BODY_SKIN|MYTHICAL]x2,[Love Bites|Bayonet|WEAPON_SKIN|MYTHICAL]x2,[Or|Bayonet|WEAPON_SKIN|MYTHICAL]x4",
+    "timestamp": "2026-05-07T04:32:56.173Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "1385b47a-bc43-4879-a1c4-7baf533b7bcc",
+      "shortId": "2JDMSD",
+      "name": "[\\/]Ike",
+      "role": "USER",
+      "level": 47
+    },
+    "message": ".wagering [Fever|SCAR|WEAPON_SKIN|MYTHICAL]x2,[Ghoul||BODY_SKIN|MYTHICAL]x2,[Love Bites|Bayonet|WEAPON_SKIN|MYTHICAL]x2,[Or|Bayonet|WEAPON_SKIN|MYTHICAL]x4",
+    "timestamp": "2026-05-07T04:33:47.391Z"
   }
 ]
