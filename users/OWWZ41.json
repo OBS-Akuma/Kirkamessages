@@ -238,5 +238,17 @@
     },
     "message": "Trading koi set,lightning",
     "timestamp": "2026-05-07T09:40:13.184Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "fP610P26EjgCC3VpxjEhnoH1NIy1",
+      "shortId": "OWWZ41",
+      "name": "BON-JOVI",
+      "role": "USER",
+      "level": 46
+    },
+    "message": "trading koi set",
+    "timestamp": "2026-05-07T18:57:23.651Z"
   }
 ]
