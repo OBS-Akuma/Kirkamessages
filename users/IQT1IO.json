@@ -298,5 +298,17 @@
     },
     "message": "check kirka logs",
     "timestamp": "2026-05-07T06:55:49.820Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "fqEtaXQccqect4TrlfgeAzWrDg72",
+      "shortId": "IQT1IO",
+      "name": "dark",
+      "role": "USER",
+      "level": 20
+    },
+    "message": "ask xyds abt who scammed him",
+    "timestamp": "2026-05-07T06:56:40.539Z"
   }
 ]
