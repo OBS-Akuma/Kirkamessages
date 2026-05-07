@@ -58,5 +58,17 @@
     },
     "message": "idw",
     "timestamp": "2026-05-06T02:06:36.525Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "85d2bfa0-b9b2-4b74-8a63-2c73dff06760",
+      "shortId": "HVJ5UN",
+      "name": ".......",
+      "role": "USER",
+      "level": 95
+    },
+    "message": "/enter",
+    "timestamp": "2026-05-07T21:54:19.595Z"
   }
 ]
