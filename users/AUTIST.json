@@ -1,0 +1,26 @@
+[
+  {
+    "type": 2,
+    "user": {
+      "id": "474f8165-6a5b-46d8-87c6-6515efb80d02",
+      "shortId": "AUTIST",
+      "name": "skywalk",
+      "role": "VERIFIED",
+      "level": 101
+    },
+    "message": "/bank",
+    "timestamp": "2026-05-07T20:35:38.654Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "474f8165-6a5b-46d8-87c6-6515efb80d02",
+      "shortId": "AUTIST",
+      "name": "skywalk",
+      "role": "VERIFIED",
+      "level": 101
+    },
+    "message": "/reportinv #ESCROW",
+    "timestamp": "2026-05-07T20:35:44.350Z"
+  }
+]
