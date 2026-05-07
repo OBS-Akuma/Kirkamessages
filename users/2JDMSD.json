@@ -346,5 +346,41 @@
     },
     "message": ".wagering [Fever|SCAR|WEAPON_SKIN|MYTHICAL]x2,[Ghoul||BODY_SKIN|MYTHICAL]x2,[Love Bites|Bayonet|WEAPON_SKIN|MYTHICAL]x2,[Or|Bayonet|WEAPON_SKIN|MYTHICAL]x4",
     "timestamp": "2026-05-07T04:33:47.391Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "1385b47a-bc43-4879-a1c4-7baf533b7bcc",
+      "shortId": "2JDMSD",
+      "name": "[\\/]Ike",
+      "role": "USER",
+      "level": 47
+    },
+    "message": "Trading/wagering [Fever|SCAR|WEAPON_SKIN|MYTHICAL]x2,[Ghoul||BODY_SKIN|MYTHICAL]x3,[Love Bites|Bayonet|WEAPON_SKIN|MYTHICAL]x2,[Or|Bayonet|WEAPON_SKIN|MYTHICAL]x4,[Ivoire|Revolver|WEAPON_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-07T21:13:42.077Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "1385b47a-bc43-4879-a1c4-7baf533b7bcc",
+      "shortId": "2JDMSD",
+      "name": "[\\/]Ike",
+      "role": "USER",
+      "level": 47
+    },
+    "message": "/last10 [Biker||BODY_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-07T21:14:19.130Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "1385b47a-bc43-4879-a1c4-7baf533b7bcc",
+      "shortId": "2JDMSD",
+      "name": "[\\/]Ike",
+      "role": "USER",
+      "level": 47
+    },
+    "message": "Wth is that",
+    "timestamp": "2026-05-07T21:14:31.754Z"
   }
 ]
