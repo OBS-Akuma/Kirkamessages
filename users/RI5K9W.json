@@ -70,5 +70,29 @@
     },
     "message": "**TRADING** [Paypay||BODY_SKIN|MYTHICAL],[Bubblepop|Bayonet|WEAPON_SKIN|MYTHICAL],[Shinji||BODY_SKIN|MYTHICAL]..",
     "timestamp": "2026-05-03T03:26:25.799Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "335553f4-5229-43ef-a1b9-27f8f1ab9b93",
+      "shortId": "RI5K9W",
+      "name": "Opium",
+      "role": "USER",
+      "level": 13
+    },
+    "message": "#CARROTcongrats for 101 ^^",
+    "timestamp": "2026-05-07T02:29:49.110Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "335553f4-5229-43ef-a1b9-27f8f1ab9b93",
+      "shortId": "RI5K9W",
+      "name": "Opium",
+      "role": "USER",
+      "level": 13
+    },
+    "message": "[CYB3R|Bayonet|WEAPON_SKIN|MYTHICAL] **for only 480k in market**",
+    "timestamp": "2026-05-07T02:31:55.062Z"
   }
 ]
