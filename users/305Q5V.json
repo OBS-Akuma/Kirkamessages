@@ -106,5 +106,17 @@
     },
     "message": "Worman join 4 1v1",
     "timestamp": "2026-05-06T02:14:49.472Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "4b789cea-e6d0-4391-bab3-a43b716b6a1a",
+      "shortId": "305Q5V",
+      "name": "GxdLJONATHAN03",
+      "role": "USER",
+      "level": 96
+    },
+    "message": "/time",
+    "timestamp": "2026-05-07T01:57:09.149Z"
   }
 ]
