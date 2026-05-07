@@ -1,0 +1,38 @@
+[
+  {
+    "type": 2,
+    "user": {
+      "id": "e2639ef7-a545-4f71-b963-e0ce5a0806b2",
+      "shortId": "V47K37",
+      "name": "Newbie",
+      "role": "USER",
+      "level": 7
+    },
+    "message": "/goat #Q4ZBUO",
+    "timestamp": "2026-05-07T04:11:08.061Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "e2639ef7-a545-4f71-b963-e0ce5a0806b2",
+      "shortId": "V47K37",
+      "name": "Newbie",
+      "role": "USER",
+      "level": 7
+    },
+    "message": "/top10goat",
+    "timestamp": "2026-05-07T04:11:40.622Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "e2639ef7-a545-4f71-b963-e0ce5a0806b2",
+      "shortId": "V47K37",
+      "name": "Newbie",
+      "role": "USER",
+      "level": 7
+    },
+    "message": "/top10goats",
+    "timestamp": "2026-05-07T04:11:48.987Z"
+  }
+]
