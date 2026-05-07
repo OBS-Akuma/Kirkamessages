@@ -34,5 +34,53 @@
     },
     "message": "son",
     "timestamp": "2026-05-07T21:11:03.674Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "6af7db84-1576-4125-9ded-74f25c88a6c2",
+      "shortId": "6O51FV",
+      "name": "hwinzz",
+      "role": "USER",
+      "level": 100
+    },
+    "message": "ur rich af, why do u need legendarys",
+    "timestamp": "2026-05-07T21:11:22.696Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "6af7db84-1576-4125-9ded-74f25c88a6c2",
+      "shortId": "6O51FV",
+      "name": "hwinzz",
+      "role": "USER",
+      "level": 100
+    },
+    "message": "😭",
+    "timestamp": "2026-05-07T21:12:27.747Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "6af7db84-1576-4125-9ded-74f25c88a6c2",
+      "shortId": "6O51FV",
+      "name": "hwinzz",
+      "role": "USER",
+      "level": 100
+    },
+    "message": "/inv",
+    "timestamp": "2026-05-07T21:12:43.815Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "6af7db84-1576-4125-9ded-74f25c88a6c2",
+      "shortId": "6O51FV",
+      "name": "hwinzz",
+      "role": "USER",
+      "level": 100
+    },
+    "message": "i mean thats not bad",
+    "timestamp": "2026-05-07T21:12:53.089Z"
   }
 ]
