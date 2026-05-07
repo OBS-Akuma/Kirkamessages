@@ -224,7 +224,7 @@
       "role": "USER",
       "level": 95
     },
-    "message": "£SAGHA",
+    "message": "Â£SAGHA",
     "timestamp": "2026-05-07T20:38:26.369Z"
   },
   {
@@ -322,5 +322,53 @@
     },
     "message": "/inv",
     "timestamp": "2026-05-07T20:40:21.694Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "1af9d0f1-d0f4-4b92-88ad-e7bde3dac851",
+      "shortId": "ZLSGY1",
+      "name": "PurPl3",
+      "role": "USER",
+      "level": 95
+    },
+    "message": "/price [Cargo|SCAR|WEAPON_SKIN|LEGENDARY]",
+    "timestamp": "2026-05-07T21:12:41.009Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "1af9d0f1-d0f4-4b92-88ad-e7bde3dac851",
+      "shortId": "ZLSGY1",
+      "name": "PurPl3",
+      "role": "USER",
+      "level": 95
+    },
+    "message": "**Bitcoin is that endless offer real**",
+    "timestamp": "2026-05-07T21:13:58.728Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "1af9d0f1-d0f4-4b92-88ad-e7bde3dac851",
+      "shortId": "ZLSGY1",
+      "name": "PurPl3",
+      "role": "USER",
+      "level": 95
+    },
+    "message": "/daytrades",
+    "timestamp": "2026-05-07T21:14:56.412Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "1af9d0f1-d0f4-4b92-88ad-e7bde3dac851",
+      "shortId": "ZLSGY1",
+      "name": "PurPl3",
+      "role": "USER",
+      "level": 95
+    },
+    "message": "/daytrade",
+    "timestamp": "2026-05-07T21:15:01.203Z"
   }
 ]
