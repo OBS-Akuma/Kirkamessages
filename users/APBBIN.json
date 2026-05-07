@@ -958,5 +958,89 @@
     },
     "message": "/cancelwager",
     "timestamp": "2026-05-07T19:03:54.173Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "29a9336e-d8df-46ae-8ce7-3df48a298e31",
+      "shortId": "APBBIN",
+      "name": "adam",
+      "role": "USER",
+      "level": 62
+    },
+    "message": "who wanna wager",
+    "timestamp": "2026-05-07T19:04:00.034Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "29a9336e-d8df-46ae-8ce7-3df48a298e31",
+      "shortId": "APBBIN",
+      "name": "adam",
+      "role": "USER",
+      "level": 62
+    },
+    "message": "??",
+    "timestamp": "2026-05-07T19:04:01.897Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "29a9336e-d8df-46ae-8ce7-3df48a298e31",
+      "shortId": "APBBIN",
+      "name": "adam",
+      "role": "USER",
+      "level": 62
+    },
+    "message": "jolly wager",
+    "timestamp": "2026-05-07T19:04:30.410Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "29a9336e-d8df-46ae-8ce7-3df48a298e31",
+      "shortId": "APBBIN",
+      "name": "adam",
+      "role": "USER",
+      "level": 62
+    },
+    "message": "who wanna wager",
+    "timestamp": "2026-05-07T19:04:35.833Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "29a9336e-d8df-46ae-8ce7-3df48a298e31",
+      "shortId": "APBBIN",
+      "name": "adam",
+      "role": "USER",
+      "level": 62
+    },
+    "message": "torture god wager ??",
+    "timestamp": "2026-05-07T19:05:01.127Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "29a9336e-d8df-46ae-8ce7-3df48a298e31",
+      "shortId": "APBBIN",
+      "name": "adam",
+      "role": "USER",
+      "level": 62
+    },
+    "message": "wager [Golden||CHEST|LEGENDARY]x300",
+    "timestamp": "2026-05-07T19:05:24.620Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "29a9336e-d8df-46ae-8ce7-3df48a298e31",
+      "shortId": "APBBIN",
+      "name": "adam",
+      "role": "USER",
+      "level": 62
+    },
+    "message": "/wager [Golden||CHEST|LEGENDARY]x300 #PV831P",
+    "timestamp": "2026-05-07T19:05:46.211Z"
   }
 ]
