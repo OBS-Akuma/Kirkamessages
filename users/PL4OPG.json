@@ -214,5 +214,53 @@
     },
     "message": "/wager [ticketter] #QOGP6Q",
     "timestamp": "2026-05-07T04:30:42.866Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "6da59982-c088-49ca-933e-8a3fbfaa6592",
+      "shortId": "PL4OPG",
+      "name": "[VN]_NTAT_",
+      "role": "USER",
+      "level": 75
+    },
+    "message": "/wager [tichketeer] #QOGP6Q",
+    "timestamp": "2026-05-07T04:31:07.106Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "6da59982-c088-49ca-933e-8a3fbfaa6592",
+      "shortId": "PL4OPG",
+      "name": "[VN]_NTAT_",
+      "role": "USER",
+      "level": 75
+    },
+    "message": "/wager [Ticketeer|SCAR|WEAPON_SKIN|MYTHICAL] #QOGP6Q",
+    "timestamp": "2026-05-07T04:31:21.614Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "6da59982-c088-49ca-933e-8a3fbfaa6592",
+      "shortId": "PL4OPG",
+      "name": "[VN]_NTAT_",
+      "role": "USER",
+      "level": 75
+    },
+    "message": "/cancelwager",
+    "timestamp": "2026-05-07T04:31:35.693Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "6da59982-c088-49ca-933e-8a3fbfaa6592",
+      "shortId": "PL4OPG",
+      "name": "[VN]_NTAT_",
+      "role": "USER",
+      "level": 75
+    },
+    "message": "wager [scocher]",
+    "timestamp": "2026-05-07T04:32:07.554Z"
   }
 ]
