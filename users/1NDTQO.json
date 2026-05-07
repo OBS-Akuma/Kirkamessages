@@ -10,5 +10,89 @@
     },
     "message": "HI RAGE",
     "timestamp": "2026-05-03T15:55:41.207Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "guest-69326935-6e4e-461b-9115-b6bb334c18cd",
+      "shortId": "1NDTQO",
+      "name": "Zero",
+      "role": "USER",
+      "level": 17
+    },
+    "message": "[Nova Shark|Shark|WEAPON_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-07T21:27:07.235Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "guest-69326935-6e4e-461b-9115-b6bb334c18cd",
+      "shortId": "1NDTQO",
+      "name": "Zero",
+      "role": "USER",
+      "level": 17
+    },
+    "message": "[Watcher||BODY_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-07T21:27:19.968Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "guest-69326935-6e4e-461b-9115-b6bb334c18cd",
+      "shortId": "1NDTQO",
+      "name": "Zero",
+      "role": "USER",
+      "level": 17
+    },
+    "message": "[sen]",
+    "timestamp": "2026-05-07T21:27:24.346Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "guest-69326935-6e4e-461b-9115-b6bb334c18cd",
+      "shortId": "1NDTQO",
+      "name": "Zero",
+      "role": "USER",
+      "level": 17
+    },
+    "message": "[Zen|Bayonet|WEAPON_SKIN|LEGENDARY]",
+    "timestamp": "2026-05-07T21:27:29.035Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "guest-69326935-6e4e-461b-9115-b6bb334c18cd",
+      "shortId": "1NDTQO",
+      "name": "Zero",
+      "role": "USER",
+      "level": 17
+    },
+    "message": "[zero]",
+    "timestamp": "2026-05-07T21:27:41.474Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "guest-69326935-6e4e-461b-9115-b6bb334c18cd",
+      "shortId": "1NDTQO",
+      "name": "Zero",
+      "role": "USER",
+      "level": 17
+    },
+    "message": "[2022 vita]",
+    "timestamp": "2026-05-07T21:28:35.652Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "guest-69326935-6e4e-461b-9115-b6bb334c18cd",
+      "shortId": "1NDTQO",
+      "name": "Zero",
+      "role": "USER",
+      "level": 17
+    },
+    "message": "/enter",
+    "timestamp": "2026-05-07T21:33:28.691Z"
   }
 ]
