@@ -946,5 +946,221 @@
     },
     "message": "1 wood?",
     "timestamp": "2026-05-07T02:51:19.335Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "011a0adf-6f4c-4a80-bee0-c432126521b0",
+      "shortId": "KY3YM4",
+      "name": "N1TR0",
+      "role": "USER",
+      "level": 60
+    },
+    "message": "/wager [Wood||CHEST|COMMON] #BWXE30",
+    "timestamp": "2026-05-07T02:51:34.554Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "011a0adf-6f4c-4a80-bee0-c432126521b0",
+      "shortId": "KY3YM4",
+      "name": "N1TR0",
+      "role": "USER",
+      "level": 60
+    },
+    "message": "gg",
+    "timestamp": "2026-05-07T02:52:15.964Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "011a0adf-6f4c-4a80-bee0-c432126521b0",
+      "shortId": "KY3YM4",
+      "name": "N1TR0",
+      "role": "USER",
+      "level": 60
+    },
+    "message": "lol",
+    "timestamp": "2026-05-07T02:52:19.089Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "011a0adf-6f4c-4a80-bee0-c432126521b0",
+      "shortId": "KY3YM4",
+      "name": "N1TR0",
+      "role": "USER",
+      "level": 60
+    },
+    "message": "i need to lose again",
+    "timestamp": "2026-05-07T02:52:30.274Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "011a0adf-6f4c-4a80-bee0-c432126521b0",
+      "shortId": "KY3YM4",
+      "name": "N1TR0",
+      "role": "USER",
+      "level": 60
+    },
+    "message": "1 more?",
+    "timestamp": "2026-05-07T02:52:33.744Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "011a0adf-6f4c-4a80-bee0-c432126521b0",
+      "shortId": "KY3YM4",
+      "name": "N1TR0",
+      "role": "USER",
+      "level": 60
+    },
+    "message": "alr",
+    "timestamp": "2026-05-07T02:52:55.702Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "011a0adf-6f4c-4a80-bee0-c432126521b0",
+      "shortId": "KY3YM4",
+      "name": "N1TR0",
+      "role": "USER",
+      "level": 60
+    },
+    "message": "/wager [Wood||CHEST|COMMON] #BWXE30",
+    "timestamp": "2026-05-07T02:52:57.081Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "011a0adf-6f4c-4a80-bee0-c432126521b0",
+      "shortId": "KY3YM4",
+      "name": "N1TR0",
+      "role": "USER",
+      "level": 60
+    },
+    "message": "gg",
+    "timestamp": "2026-05-07T02:53:42.651Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "011a0adf-6f4c-4a80-bee0-c432126521b0",
+      "shortId": "KY3YM4",
+      "name": "N1TR0",
+      "role": "USER",
+      "level": 60
+    },
+    "message": "/claim",
+    "timestamp": "2026-05-07T02:53:48.852Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "011a0adf-6f4c-4a80-bee0-c432126521b0",
+      "shortId": "KY3YM4",
+      "name": "N1TR0",
+      "role": "USER",
+      "level": 60
+    },
+    "message": "wsp",
+    "timestamp": "2026-05-07T02:54:01.212Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "011a0adf-6f4c-4a80-bee0-c432126521b0",
+      "shortId": "KY3YM4",
+      "name": "N1TR0",
+      "role": "USER",
+      "level": 60
+    },
+    "message": ":3",
+    "timestamp": "2026-05-07T02:54:08.556Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "011a0adf-6f4c-4a80-bee0-c432126521b0",
+      "shortId": "KY3YM4",
+      "name": "N1TR0",
+      "role": "USER",
+      "level": 60
+    },
+    "message": "wager wood",
+    "timestamp": "2026-05-07T02:54:11.631Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "011a0adf-6f4c-4a80-bee0-c432126521b0",
+      "shortId": "KY3YM4",
+      "name": "N1TR0",
+      "role": "USER",
+      "level": 60
+    },
+    "message": "wanna wager golden 200?",
+    "timestamp": "2026-05-07T02:54:20.441Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "011a0adf-6f4c-4a80-bee0-c432126521b0",
+      "shortId": "KY3YM4",
+      "name": "N1TR0",
+      "role": "USER",
+      "level": 60
+    },
+    "message": "/wager [Golden||CHEST|LEGENDARY]x200 #IWQ903",
+    "timestamp": "2026-05-07T02:54:34.813Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "011a0adf-6f4c-4a80-bee0-c432126521b0",
+      "shortId": "KY3YM4",
+      "name": "N1TR0",
+      "role": "USER",
+      "level": 60
+    },
+    "message": ":/",
+    "timestamp": "2026-05-07T02:54:44.209Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "011a0adf-6f4c-4a80-bee0-c432126521b0",
+      "shortId": "KY3YM4",
+      "name": "N1TR0",
+      "role": "USER",
+      "level": 60
+    },
+    "message": "/cancel wager",
+    "timestamp": "2026-05-07T02:54:49.911Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "011a0adf-6f4c-4a80-bee0-c432126521b0",
+      "shortId": "KY3YM4",
+      "name": "N1TR0",
+      "role": "USER",
+      "level": 60
+    },
+    "message": "/wager cancel",
+    "timestamp": "2026-05-07T02:54:55.974Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "011a0adf-6f4c-4a80-bee0-c432126521b0",
+      "shortId": "KY3YM4",
+      "name": "N1TR0",
+      "role": "USER",
+      "level": 60
+    },
+    "message": "/cancelwager",
+    "timestamp": "2026-05-07T02:55:05.023Z"
   }
 ]
