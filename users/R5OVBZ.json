@@ -250,5 +250,113 @@
     },
     "message": "deimos yk the cmd ?",
     "timestamp": "2026-05-07T08:01:58.383Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "3823c788-8970-4e00-ae41-b7667620cb07",
+      "shortId": "R5OVBZ",
+      "name": "SeductiveSnake",
+      "role": "USER",
+      "level": 28
+    },
+    "message": "#Q4FDRT yk the cmd like to check the info of skin",
+    "timestamp": "2026-05-07T08:02:20.388Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "3823c788-8970-4e00-ae41-b7667620cb07",
+      "shortId": "R5OVBZ",
+      "name": "SeductiveSnake",
+      "role": "USER",
+      "level": 28
+    },
+    "message": "/info [Gazer||BODY_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-07T08:02:23.778Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "3823c788-8970-4e00-ae41-b7667620cb07",
+      "shortId": "R5OVBZ",
+      "name": "SeductiveSnake",
+      "role": "USER",
+      "level": 28
+    },
+    "message": "#Q4FDRT alright",
+    "timestamp": "2026-05-07T08:02:47.444Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "3823c788-8970-4e00-ae41-b7667620cb07",
+      "shortId": "R5OVBZ",
+      "name": "SeductiveSnake",
+      "role": "USER",
+      "level": 28
+    },
+    "message": "#Q4FDRT im trading [Gardener|Bayonet|WEAPON_SKIN|MYTHICAL] wanna offer ?",
+    "timestamp": "2026-05-07T08:03:09.671Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "3823c788-8970-4e00-ae41-b7667620cb07",
+      "shortId": "R5OVBZ",
+      "name": "SeductiveSnake",
+      "role": "USER",
+      "level": 28
+    },
+    "message": "ah np",
+    "timestamp": "2026-05-07T08:03:30.154Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "3823c788-8970-4e00-ae41-b7667620cb07",
+      "shortId": "R5OVBZ",
+      "name": "SeductiveSnake",
+      "role": "USER",
+      "level": 28
+    },
+    "message": "#Q4FDRT do you know a good skin around 50mil to offer for that",
+    "timestamp": "2026-05-07T08:04:07.633Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "3823c788-8970-4e00-ae41-b7667620cb07",
+      "shortId": "R5OVBZ",
+      "name": "SeductiveSnake",
+      "role": "USER",
+      "level": 28
+    },
+    "message": "#Q4FDRT do you know a good skin around 50mil to offer for [Gardener|Bayonet|WEAPON_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-07T08:04:47.001Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "3823c788-8970-4e00-ae41-b7667620cb07",
+      "shortId": "R5OVBZ",
+      "name": "SeductiveSnake",
+      "role": "USER",
+      "level": 28
+    },
+    "message": "/price [Qod||BODY_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-07T08:05:22.518Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "3823c788-8970-4e00-ae41-b7667620cb07",
+      "shortId": "R5OVBZ",
+      "name": "SeductiveSnake",
+      "role": "USER",
+      "level": 28
+    },
+    "message": "/price [Dragonic||BODY_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-07T08:06:29.091Z"
   }
 ]
