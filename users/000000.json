@@ -2237,5 +2237,149 @@
     },
     "message": "/confirmwager",
     "timestamp": "2026-05-07T06:23:55.997Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "8f9423c1-73b5-46a4-969f-68ed04e8f0e8",
+      "shortId": "000000",
+      "name": "Daddy",
+      "role": "USER",
+      "level": 100
+    },
+    "message": "gg",
+    "timestamp": "2026-05-07T06:24:31.708Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "8f9423c1-73b5-46a4-969f-68ed04e8f0e8",
+      "shortId": "000000",
+      "name": "Daddy",
+      "role": "USER",
+      "level": 100
+    },
+    "message": "/claim",
+    "timestamp": "2026-05-07T06:24:33.137Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "8f9423c1-73b5-46a4-969f-68ed04e8f0e8",
+      "shortId": "000000",
+      "name": "Daddy",
+      "role": "USER",
+      "level": 100
+    },
+    "message": "/claIm",
+    "timestamp": "2026-05-07T06:24:49.623Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "8f9423c1-73b5-46a4-969f-68ed04e8f0e8",
+      "shortId": "000000",
+      "name": "Daddy",
+      "role": "USER",
+      "level": 100
+    },
+    "message": "/mywager",
+    "timestamp": "2026-05-07T06:25:05.289Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "8f9423c1-73b5-46a4-969f-68ed04e8f0e8",
+      "shortId": "000000",
+      "name": "Daddy",
+      "role": "USER",
+      "level": 100
+    },
+    "message": "I've lost a ton recently",
+    "timestamp": "2026-05-07T06:25:23.701Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "8f9423c1-73b5-46a4-969f-68ed04e8f0e8",
+      "shortId": "000000",
+      "name": "Daddy",
+      "role": "USER",
+      "level": 100
+    },
+    "message": "I have no goldens",
+    "timestamp": "2026-05-07T06:25:43.385Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "8f9423c1-73b5-46a4-969f-68ed04e8f0e8",
+      "shortId": "000000",
+      "name": "Daddy",
+      "role": "USER",
+      "level": 100
+    },
+    "message": "Wagering [Yuki||BODY_SKIN|MYTHICAL][Angel||BODY_SKIN|MYTHICAL][Lightning|AR-9|WEAPON_SKIN|EPIC][Hearts||BODY_SKIN|MYTHICAL][Gold Coins|Bayonet|WEAPON_SKIN|LEGENDARY][Saint Patrick|Shark|WEAPON_SKIN|LEGENDARY][Dreamscape|LAR|WEAPON_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-07T06:26:56.846Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "8f9423c1-73b5-46a4-969f-68ed04e8f0e8",
+      "shortId": "000000",
+      "name": "Daddy",
+      "role": "USER",
+      "level": 100
+    },
+    "message": "/wager [2025 Revolver|Revolver|WEAPON_SKIN|MYTHICAL] #PL4OPG",
+    "timestamp": "2026-05-07T06:27:37.972Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "8f9423c1-73b5-46a4-969f-68ed04e8f0e8",
+      "shortId": "000000",
+      "name": "Daddy",
+      "role": "USER",
+      "level": 100
+    },
+    "message": "gg",
+    "timestamp": "2026-05-07T06:28:12.716Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "8f9423c1-73b5-46a4-969f-68ed04e8f0e8",
+      "shortId": "000000",
+      "name": "Daddy",
+      "role": "USER",
+      "level": 100
+    },
+    "message": "/claim",
+    "timestamp": "2026-05-07T06:28:13.923Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "8f9423c1-73b5-46a4-969f-68ed04e8f0e8",
+      "shortId": "000000",
+      "name": "Daddy",
+      "role": "USER",
+      "level": 100
+    },
+    "message": "/wager [Dragon||BODY_SKIN|MYTHICAL] #PL4OPG",
+    "timestamp": "2026-05-07T06:29:02.785Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "8f9423c1-73b5-46a4-969f-68ed04e8f0e8",
+      "shortId": "000000",
+      "name": "Daddy",
+      "role": "USER",
+      "level": 100
+    },
+    "message": "#S91J1D for what",
+    "timestamp": "2026-05-07T06:29:25.703Z"
   }
 ]
