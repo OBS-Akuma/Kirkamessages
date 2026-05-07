@@ -418,5 +418,17 @@
     },
     "message": "trading my wood for you GOLEM  and CHILLIE /trade accept 6789",
     "timestamp": "2026-05-07T04:59:11.564Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "Ec0OJktc9fUNcgZvvZIB4ykALS93",
+      "shortId": "UWB9ZQ",
+      "name": "ThE-DoMinAtoR",
+      "role": "USER",
+      "level": 10
+    },
+    "message": "/confirmwager",
+    "timestamp": "2026-05-07T05:21:06.100Z"
   }
 ]
