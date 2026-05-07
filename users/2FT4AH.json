@@ -1,0 +1,50 @@
+[
+  {
+    "type": 2,
+    "user": {
+      "id": "848f1b0a-e17e-46fa-8bbe-9b66340dedfd",
+      "shortId": "2FT4AH",
+      "name": "Hunterjimmy",
+      "role": "USER",
+      "level": 44
+    },
+    "message": "[SCAR||WEAPON_1|COMMON]",
+    "timestamp": "2026-05-07T22:23:54.483Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "848f1b0a-e17e-46fa-8bbe-9b66340dedfd",
+      "shortId": "2FT4AH",
+      "name": "Hunterjimmy",
+      "role": "USER",
+      "level": 44
+    },
+    "message": "tradeing [SCAR||WEAPON_1|COMMON]",
+    "timestamp": "2026-05-07T22:24:04.090Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "848f1b0a-e17e-46fa-8bbe-9b66340dedfd",
+      "shortId": "2FT4AH",
+      "name": "Hunterjimmy",
+      "role": "USER",
+      "level": 44
+    },
+    "message": "tra[Maze||BODY_SKIN|EPIC]",
+    "timestamp": "2026-05-07T22:24:26.703Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "848f1b0a-e17e-46fa-8bbe-9b66340dedfd",
+      "shortId": "2FT4AH",
+      "name": "Hunterjimmy",
+      "role": "USER",
+      "level": 44
+    },
+    "message": "can i plzz have [golme]",
+    "timestamp": "2026-05-07T22:24:58.528Z"
+  }
+]
