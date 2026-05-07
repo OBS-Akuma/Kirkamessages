@@ -118,5 +118,41 @@
     },
     "message": "nloo",
     "timestamp": "2026-05-07T18:05:11.216Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "a85523e5-6504-4784-9376-5914fc6aa06e",
+      "shortId": "7X1DR1",
+      "name": "HANNA",
+      "role": "USER",
+      "level": 27
+    },
+    "message": "idh [2025 Revolver|Revolver|WEAPON_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-07T18:05:49.632Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "a85523e5-6504-4784-9376-5914fc6aa06e",
+      "shortId": "7X1DR1",
+      "name": "HANNA",
+      "role": "USER",
+      "level": 27
+    },
+    "message": "[RGB||BODY_SKIN|LEGENDARY]",
+    "timestamp": "2026-05-07T18:06:23.647Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "a85523e5-6504-4784-9376-5914fc6aa06e",
+      "shortId": "7X1DR1",
+      "name": "HANNA",
+      "role": "USER",
+      "level": 27
+    },
+    "message": "[Mabel||BODY_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-07T18:06:37.372Z"
   }
 ]
