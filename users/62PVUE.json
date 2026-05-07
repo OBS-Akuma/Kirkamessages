@@ -1,0 +1,26 @@
+[
+  {
+    "type": 2,
+    "user": {
+      "id": "d26468d8-e6cc-43c0-a93f-54cbcc864512",
+      "shortId": "62PVUE",
+      "name": "Maria56",
+      "role": "USER",
+      "level": 16
+    },
+    "message": "hi all",
+    "timestamp": "2026-05-07T04:11:21.382Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "d26468d8-e6cc-43c0-a93f-54cbcc864512",
+      "shortId": "62PVUE",
+      "name": "Maria56",
+      "role": "USER",
+      "level": 16
+    },
+    "message": "hiii all:(",
+    "timestamp": "2026-05-07T04:13:34.769Z"
+  }
+]
