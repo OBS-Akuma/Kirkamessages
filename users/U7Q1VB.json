@@ -838,5 +838,77 @@
     },
     "message": "bro",
     "timestamp": "2026-05-07T06:16:31.939Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "ff032e01-ddd3-486d-8aa4-480894f456fa",
+      "shortId": "U7Q1VB",
+      "name": "YepImFloriz",
+      "role": "USER",
+      "level": 97
+    },
+    "message": "who wanna 1v1",
+    "timestamp": "2026-05-07T06:20:22.965Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "ff032e01-ddd3-486d-8aa4-480894f456fa",
+      "shortId": "U7Q1VB",
+      "name": "YepImFloriz",
+      "role": "USER",
+      "level": 97
+    },
+    "message": "/mytrade",
+    "timestamp": "2026-05-07T06:20:38.947Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "ff032e01-ddd3-486d-8aa4-480894f456fa",
+      "shortId": "U7Q1VB",
+      "name": "YepImFloriz",
+      "role": "USER",
+      "level": 97
+    },
+    "message": "nithem 1v1",
+    "timestamp": "2026-05-07T06:20:57.774Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "ff032e01-ddd3-486d-8aa4-480894f456fa",
+      "shortId": "U7Q1VB",
+      "name": "YepImFloriz",
+      "role": "USER",
+      "level": 97
+    },
+    "message": "killer",
+    "timestamp": "2026-05-07T06:21:10.383Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "ff032e01-ddd3-486d-8aa4-480894f456fa",
+      "shortId": "U7Q1VB",
+      "name": "YepImFloriz",
+      "role": "USER",
+      "level": 97
+    },
+    "message": "KILLER STRIKE",
+    "timestamp": "2026-05-07T06:21:14.093Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "ff032e01-ddd3-486d-8aa4-480894f456fa",
+      "shortId": "U7Q1VB",
+      "name": "YepImFloriz",
+      "role": "USER",
+      "level": 97
+    },
+    "message": "1v1",
+    "timestamp": "2026-05-07T06:21:16.286Z"
   }
 ]
