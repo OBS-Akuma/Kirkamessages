@@ -178,5 +178,29 @@
     },
     "message": "/locate mabel",
     "timestamp": "2026-05-05T05:28:17.456Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "0b4cd789-a014-4609-bfbf-4bb636738f75",
+      "shortId": "52N4M1",
+      "name": "BuggleLugs",
+      "role": "USER",
+      "level": 95
+    },
+    "message": "/locate hideyoshi",
+    "timestamp": "2026-05-07T19:32:45.700Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "0b4cd789-a014-4609-bfbf-4bb636738f75",
+      "shortId": "52N4M1",
+      "name": "BuggleLugs",
+      "role": "USER",
+      "level": 95
+    },
+    "message": "gg",
+    "timestamp": "2026-05-07T19:36:59.598Z"
   }
 ]
