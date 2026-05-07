@@ -670,5 +670,41 @@
     },
     "message": "wait bro brb",
     "timestamp": "2026-05-07T02:58:08.325Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "407c8457-a88c-495b-8540-9a63797d20ea",
+      "shortId": "BWXE30",
+      "name": "Nickeru-Chan",
+      "role": "USER",
+      "level": 65
+    },
+    "message": "/mywager",
+    "timestamp": "2026-05-07T03:01:59.339Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "407c8457-a88c-495b-8540-9a63797d20ea",
+      "shortId": "BWXE30",
+      "name": "Nickeru-Chan",
+      "role": "USER",
+      "level": 65
+    },
+    "message": "Ezo",
+    "timestamp": "2026-05-07T03:03:11.074Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "407c8457-a88c-495b-8540-9a63797d20ea",
+      "shortId": "BWXE30",
+      "name": "Nickeru-Chan",
+      "role": "USER",
+      "level": 65
+    },
+    "message": "[Pie||BODY_SKIN|MYTHICAL] for [Punishment||BODY_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-07T03:03:25.148Z"
   }
 ]
