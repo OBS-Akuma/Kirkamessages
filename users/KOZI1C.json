@@ -1,0 +1,26 @@
+[
+  {
+    "type": 2,
+    "user": {
+      "id": "guest-494212ba-6545-417d-ae42-6e3336d50697",
+      "shortId": "KOZI1C",
+      "name": "abdallah10010",
+      "role": "USER",
+      "level": 7
+    },
+    "message": "4",
+    "timestamp": "2026-05-07T06:38:08.671Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "guest-494212ba-6545-417d-ae42-6e3336d50697",
+      "shortId": "KOZI1C",
+      "name": "abdallah10010",
+      "role": "USER",
+      "level": 7
+    },
+    "message": "1",
+    "timestamp": "2026-05-07T06:38:11.735Z"
+  }
+]
