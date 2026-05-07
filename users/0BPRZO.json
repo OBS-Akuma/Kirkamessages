@@ -1222,5 +1222,17 @@
     },
     "message": "navy",
     "timestamp": "2026-05-07T04:00:20.440Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "aC4eJ9XToJg3hfiixxui6Cv8ymy2",
+      "shortId": "0BPRZO",
+      "name": "Abyss",
+      "role": "USER",
+      "level": 48
+    },
+    "message": "tr [Ortus|Revolver|WEAPON_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-07T04:14:20.552Z"
   }
 ]
