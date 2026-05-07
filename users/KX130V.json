@@ -44,7 +44,7 @@
       "role": "USER",
       "level": 65
     },
-    "message": "#7AEWTE jÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ¡ foi faz tempo",
+    "message": "#7AEWTE jÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ¡ foi faz tempo",
     "timestamp": "2026-05-07T20:24:36.167Z"
   },
   {
@@ -68,7 +68,7 @@
       "role": "USER",
       "level": 65
     },
-    "message": "#7AEWTE foram vÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ¡rias que somadas davam mais de 30 milhoes",
+    "message": "#7AEWTE foram vÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ¡rias que somadas davam mais de 30 milhoes",
     "timestamp": "2026-05-07T20:25:54.050Z"
   },
   {
@@ -92,7 +92,7 @@
       "role": "USER",
       "level": 65
     },
-    "message": "#7AEWTE que se foda o estilo mano, meu sonho ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ© o[Lor||BODY_SKIN|LEGENDARY] tenho que chegar nele",
+    "message": "#7AEWTE que se foda o estilo mano, meu sonho ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ© o[Lor||BODY_SKIN|LEGENDARY] tenho que chegar nele",
     "timestamp": "2026-05-07T20:26:59.326Z"
   },
   {
@@ -214,5 +214,29 @@
     },
     "message": "/price [Pollen||BODY_SKIN|MYTHICAL]",
     "timestamp": "2026-05-07T21:18:00.487Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "8SqouIMrWiUbLx6pQ3h7iL3jWnD3",
+      "shortId": "KX130V",
+      "name": "BITCOIN",
+      "role": "USER",
+      "level": 65
+    },
+    "message": "/price [Astatine||BODY_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-07T21:35:45.245Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "8SqouIMrWiUbLx6pQ3h7iL3jWnD3",
+      "shortId": "KX130V",
+      "name": "BITCOIN",
+      "role": "USER",
+      "level": 65
+    },
+    "message": "/price [Bros|VITA|WEAPON_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-07T21:52:26.743Z"
   }
 ]
