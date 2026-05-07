@@ -190,5 +190,29 @@
     },
     "message": "i still cant understand,what point was to add bots in SND",
     "timestamp": "2026-05-04T02:12:46.777Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "b1beaf45-5b0f-40e2-81dc-a34f8a974395",
+      "shortId": "CARROT",
+      "name": "BMW|RpG",
+      "role": "USER",
+      "level": 101
+    },
+    "message": "and i never had this ass in my frnd list",
+    "timestamp": "2026-05-07T02:29:26.990Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "b1beaf45-5b0f-40e2-81dc-a34f8a974395",
+      "shortId": "CARROT",
+      "name": "BMW|RpG",
+      "role": "USER",
+      "level": 101
+    },
+    "message": "ty,lucky",
+    "timestamp": "2026-05-07T02:29:31.259Z"
   }
 ]
