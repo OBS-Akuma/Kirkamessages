@@ -8146,5 +8146,29 @@
     },
     "message": "_NXT PAY ME OUT BRUDDA",
     "timestamp": "2026-05-07T08:58:06.457Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "878dfc67-a2f4-46d9-b837-58e311d701d3",
+      "shortId": "4CQDEK",
+      "name": "UrBoiBeetle",
+      "role": "USER",
+      "level": 98
+    },
+    "message": "#Q4FDRT",
+    "timestamp": "2026-05-07T09:05:49.386Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "878dfc67-a2f4-46d9-b837-58e311d701d3",
+      "shortId": "4CQDEK",
+      "name": "UrBoiBeetle",
+      "role": "USER",
+      "level": 98
+    },
+    "message": "[PCB|M60|WEAPON_SKIN|LEGENDARY]",
+    "timestamp": "2026-05-07T09:08:57.364Z"
   }
 ]
