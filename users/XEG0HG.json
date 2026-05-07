@@ -1,0 +1,38 @@
+[
+  {
+    "type": 2,
+    "user": {
+      "id": "e4b18726-59b3-4eeb-89d5-261b099072b6",
+      "shortId": "XEG0HG",
+      "name": "Nattou",
+      "role": "USER",
+      "level": 75
+    },
+    "message": "/price [LMAO||BODY_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-07T06:07:31.478Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "e4b18726-59b3-4eeb-89d5-261b099072b6",
+      "shortId": "XEG0HG",
+      "name": "Nattou",
+      "role": "USER",
+      "level": 75
+    },
+    "message": "/price [Void Bayonet|Bayonet|WEAPON_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-07T06:07:56.510Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "e4b18726-59b3-4eeb-89d5-261b099072b6",
+      "shortId": "XEG0HG",
+      "name": "Nattou",
+      "role": "USER",
+      "level": 75
+    },
+    "message": "Glitch oress ready",
+    "timestamp": "2026-05-07T06:09:06.378Z"
+  }
+]
