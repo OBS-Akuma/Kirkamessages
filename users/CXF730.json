@@ -358,5 +358,17 @@
     },
     "message": "ok i offer [Eve||BODY_SKIN|MYTHICAL][Golden||CHEST|LEGENDARY]x2000 for [Oblivion|SCAR|WEAPON_SKIN|MYTHICAL],[Void VITA|VITA|WEAPON_SKIN|MYTHICAL]",
     "timestamp": "2026-05-07T08:55:49.170Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "a74f3fe1-1a95-4245-9b06-d8d865f83f0c",
+      "shortId": "CXF730",
+      "name": "-CAT-",
+      "role": "USER",
+      "level": 13
+    },
+    "message": "/hm [2026 VITA|VITA|WEAPON_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-07T09:04:06.388Z"
   }
 ]
