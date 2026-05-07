@@ -322,5 +322,17 @@
     },
     "message": "/hm [Or|Bayonet|WEAPON_SKIN|MYTHICAL]",
     "timestamp": "2026-05-07T18:36:39.001Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "5c75b2d7-9364-4cdf-8a05-4f98b9d990f5",
+      "shortId": "AIIMYI",
+      "name": "xyds",
+      "role": "USER",
+      "level": 84
+    },
+    "message": "/giveaway",
+    "timestamp": "2026-05-07T19:09:18.143Z"
   }
 ]
