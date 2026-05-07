@@ -1412,7 +1412,7 @@
       "role": "USER",
       "level": 62
     },
-    "message": "ÙØ¹ÙØ¯ÙØ´",
+    "message": "ÃÂÃÂ¹ÃÂÃÂ¯ÃÂÃÂ´",
     "timestamp": "2026-05-07T19:14:28.691Z"
   },
   {
@@ -1436,7 +1436,7 @@
       "role": "USER",
       "level": 62
     },
-    "message": "ÙÙÙØ§Ù Ø´Øª Ø§ÙØ§ÙÙÙØªÙØ±Ù",
+    "message": "ÃÂÃÂÃÂÃÂ§ÃÂ ÃÂ´ÃÂª ÃÂ§ÃÂÃÂ§ÃÂÃÂÃÂÃÂªÃÂÃÂ±ÃÂ",
     "timestamp": "2026-05-07T19:15:39.606Z"
   },
   {
@@ -1448,7 +1448,7 @@
       "role": "USER",
       "level": 62
     },
-    "message": "ÙØ¹ÙØ¯ÙØ´",
+    "message": "ÃÂÃÂ¹ÃÂÃÂ¯ÃÂÃÂ´",
     "timestamp": "2026-05-07T19:15:48.872Z"
   },
   {
@@ -1822,5 +1822,41 @@
     },
     "message": "/cancelwager",
     "timestamp": "2026-05-07T20:02:36.430Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "29a9336e-d8df-46ae-8ce7-3df48a298e31",
+      "shortId": "APBBIN",
+      "name": "adam",
+      "role": "USER",
+      "level": 62
+    },
+    "message": "/wager [Forbidden|AR-9|WEAPON_SKIN|MYTHICAL] #IQT1IO",
+    "timestamp": "2026-05-07T20:02:47.643Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "29a9336e-d8df-46ae-8ce7-3df48a298e31",
+      "shortId": "APBBIN",
+      "name": "adam",
+      "role": "USER",
+      "level": 62
+    },
+    "message": "/claim",
+    "timestamp": "2026-05-07T20:03:27.428Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "29a9336e-d8df-46ae-8ce7-3df48a298e31",
+      "shortId": "APBBIN",
+      "name": "adam",
+      "role": "USER",
+      "level": 62
+    },
+    "message": "/wager [Scorcher|Shark|WEAPON_SKIN|MYTHICAL] #IQT1IO",
+    "timestamp": "2026-05-07T20:04:27.270Z"
   }
 ]
