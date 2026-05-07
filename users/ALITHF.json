@@ -142,5 +142,41 @@
     },
     "message": "trading [Onryo||BODY_SKIN|MYTHICAL].",
     "timestamp": "2026-05-04T04:58:04.506Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "b8da81fb-ba0f-4d57-9c2b-560a302212ed",
+      "shortId": "ALITHF",
+      "name": "Bigmac",
+      "role": "USER",
+      "level": 76
+    },
+    "message": "dg'ing [Ostern|Shark|WEAPON_SKIN|LEGENDARY][Candle|Bayonet|WEAPON_SKIN|MYTHICAL] lf [Bloo|Bayonet|WEAPON_SKIN|MYTHICAL][Billion|Shark|WEAPON_SKIN|MYTHICAL][Turtle|Bayonet|WEAPON_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-07T04:07:40.152Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "b8da81fb-ba0f-4d57-9c2b-560a302212ed",
+      "shortId": "ALITHF",
+      "name": "Bigmac",
+      "role": "USER",
+      "level": 76
+    },
+    "message": "yo i lowk want an ambro",
+    "timestamp": "2026-05-07T04:09:02.742Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "b8da81fb-ba0f-4d57-9c2b-560a302212ed",
+      "shortId": "ALITHF",
+      "name": "Bigmac",
+      "role": "USER",
+      "level": 76
+    },
+    "message": "ref u gonna offer skins for it or can i",
+    "timestamp": "2026-05-07T04:09:40.885Z"
   }
 ]
