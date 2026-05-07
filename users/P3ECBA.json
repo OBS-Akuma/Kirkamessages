@@ -56,7 +56,7 @@
       "role": "USER",
       "level": 81
     },
-    "message": "A MINHA ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ A TERCEIRS",
+    "message": "A MINHA ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ A TERCEIRS",
     "timestamp": "2026-05-07T18:06:03.877Z"
   },
   {
@@ -80,7 +80,7 @@
       "role": "USER",
       "level": 81
     },
-    "message": "PQ EU COMPREI NÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ",
+    "message": "PQ EU COMPREI NÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ",
     "timestamp": "2026-05-07T18:06:23.164Z"
   },
   {
@@ -152,7 +152,7 @@
       "role": "USER",
       "level": 81
     },
-    "message": "ganache pelo fudge ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ© bom?",
+    "message": "ganache pelo fudge ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ© bom?",
     "timestamp": "2026-05-07T18:08:43.903Z"
   },
   {
@@ -164,7 +164,79 @@
       "role": "USER",
       "level": 81
     },
-    "message": "sÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ³ se for favela",
+    "message": "sÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ³ se for favela",
     "timestamp": "2026-05-07T18:09:05.649Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "fAE7G1FcCFZwdwTA6sfu3Pljfxc2",
+      "shortId": "P3ECBA",
+      "name": "Sk.Smokyzera",
+      "role": "USER",
+      "level": 81
+    },
+    "message": "abeed",
+    "timestamp": "2026-05-07T20:56:42.974Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "fAE7G1FcCFZwdwTA6sfu3Pljfxc2",
+      "shortId": "P3ECBA",
+      "name": "Sk.Smokyzera",
+      "role": "USER",
+      "level": 81
+    },
+    "message": "cozy for what",
+    "timestamp": "2026-05-07T20:57:20.939Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "fAE7G1FcCFZwdwTA6sfu3Pljfxc2",
+      "shortId": "P3ECBA",
+      "name": "Sk.Smokyzera",
+      "role": "USER",
+      "level": 81
+    },
+    "message": "/inv #F8X5NM",
+    "timestamp": "2026-05-07T20:57:54.903Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "fAE7G1FcCFZwdwTA6sfu3Pljfxc2",
+      "shortId": "P3ECBA",
+      "name": "Sk.Smokyzera",
+      "role": "USER",
+      "level": 81
+    },
+    "message": "u not poor",
+    "timestamp": "2026-05-07T20:58:04.940Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "fAE7G1FcCFZwdwTA6sfu3Pljfxc2",
+      "shortId": "P3ECBA",
+      "name": "Sk.Smokyzera",
+      "role": "USER",
+      "level": 81
+    },
+    "message": "???",
+    "timestamp": "2026-05-07T20:59:00.503Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "fAE7G1FcCFZwdwTA6sfu3Pljfxc2",
+      "shortId": "P3ECBA",
+      "name": "Sk.Smokyzera",
+      "role": "USER",
+      "level": 81
+    },
+    "message": "ok, bye",
+    "timestamp": "2026-05-07T20:59:30.405Z"
   }
 ]
