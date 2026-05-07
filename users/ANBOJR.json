@@ -94,5 +94,17 @@
     },
     "message": "/hm pengu",
     "timestamp": "2026-05-07T02:11:35.265Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "b3d1d8da-24aa-451c-b685-17702bb82f15",
+      "shortId": "ANBOJR",
+      "name": "Glitch",
+      "role": "USER",
+      "level": 63
+    },
+    "message": "/inv",
+    "timestamp": "2026-05-07T04:25:01.218Z"
   }
 ]
