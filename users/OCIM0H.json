@@ -118,5 +118,29 @@
     },
     "message": "[Polar||BODY_SKIN|MYTHICAL]",
     "timestamp": "2026-05-07T07:25:27.771Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "2e44f774-a109-4ac3-aed2-b148419582a4",
+      "shortId": "OCIM0H",
+      "name": "SKIBIDI",
+      "role": "USER",
+      "level": 22
+    },
+    "message": "[target[",
+    "timestamp": "2026-05-07T07:58:03.038Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "2e44f774-a109-4ac3-aed2-b148419582a4",
+      "shortId": "OCIM0H",
+      "name": "SKIBIDI",
+      "role": "USER",
+      "level": 22
+    },
+    "message": "[Target|Revolver|WEAPON_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-07T07:58:05.742Z"
   }
 ]
