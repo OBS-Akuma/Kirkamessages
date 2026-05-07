@@ -358,5 +358,53 @@
     },
     "message": "https://kirka.io/___lobby___/ASIA~vfK0wK2t9",
     "timestamp": "2026-05-07T06:16:18.643Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "0cba4816-6935-46f8-ae34-10ebe79465fc",
+      "shortId": "M27S4G",
+      "name": "SnipeR-WarrioR",
+      "role": "USER",
+      "level": 46
+    },
+    "message": "wsp",
+    "timestamp": "2026-05-07T08:03:03.961Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "0cba4816-6935-46f8-ae34-10ebe79465fc",
+      "shortId": "M27S4G",
+      "name": "SnipeR-WarrioR",
+      "role": "USER",
+      "level": 46
+    },
+    "message": "#Q4FDRT",
+    "timestamp": "2026-05-07T08:03:08.956Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "0cba4816-6935-46f8-ae34-10ebe79465fc",
+      "shortId": "M27S4G",
+      "name": "SnipeR-WarrioR",
+      "role": "USER",
+      "level": 46
+    },
+    "message": "3x 2022 make trade #Q4FDRT",
+    "timestamp": "2026-05-07T08:03:31.997Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "0cba4816-6935-46f8-ae34-10ebe79465fc",
+      "shortId": "M27S4G",
+      "name": "SnipeR-WarrioR",
+      "role": "USER",
+      "level": 46
+    },
+    "message": "np:)",
+    "timestamp": "2026-05-07T08:03:56.150Z"
   }
 ]
