@@ -2158,5 +2158,29 @@
     },
     "message": "LF [Angel||BODY_SKIN|MYTHICAL],[Polar||BODY_SKIN|MYTHICAL],[Phantom||BODY_SKIN|MYTHICAL],[Sinister||BODY_SKIN|MYTHICAL]",
     "timestamp": "2026-05-07T07:05:22.786Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "ff032e01-ddd3-486d-8aa4-480894f456fa",
+      "shortId": "U7Q1VB",
+      "name": "YepImFloriz",
+      "role": "USER",
+      "level": 97
+    },
+    "message": "[Apple|Bayonet|WEAPON_SKIN|LEGENDARY]",
+    "timestamp": "2026-05-07T07:10:39.500Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "ff032e01-ddd3-486d-8aa4-480894f456fa",
+      "shortId": "U7Q1VB",
+      "name": "YepImFloriz",
+      "role": "USER",
+      "level": 97
+    },
+    "message": "/inv",
+    "timestamp": "2026-05-07T07:11:52.207Z"
   }
 ]
