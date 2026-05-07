@@ -34,5 +34,17 @@
     },
     "message": "[Mage||BODY_SKIN|MYTHICAL]",
     "timestamp": "2026-05-04T02:20:04.221Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "5ed9c8dd-6cd2-4d94-80c4-d85dc4e051a8",
+      "shortId": "K4XVU3",
+      "name": "Carlos_Coches",
+      "role": "USER",
+      "level": 93
+    },
+    "message": "[Lock||BODY_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-07T21:22:32.585Z"
   }
 ]
