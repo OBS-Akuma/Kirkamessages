@@ -70,5 +70,89 @@
     },
     "message": "trading [Pandora||BODY_SKIN|MYTHICAL][Bones||BODY_SKIN|MYTHICAL][Cryonic||BODY_SKIN|MYTHICAL][RGB Black||BODY_SKIN|MYTHICAL][Punishment||BODY_SKIN|MYTHICAL],",
     "timestamp": "2026-05-07T18:07:34.135Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "327f2750-569f-4912-a100-d4d58bcb8946",
+      "shortId": "AGGMR6",
+      "name": "BlackNinja",
+      "role": "USER",
+      "level": 97
+    },
+    "message": "hello",
+    "timestamp": "2026-05-07T19:29:37.622Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "327f2750-569f-4912-a100-d4d58bcb8946",
+      "shortId": "AGGMR6",
+      "name": "BlackNinja",
+      "role": "USER",
+      "level": 97
+    },
+    "message": "make the trade",
+    "timestamp": "2026-05-07T19:29:49.056Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "327f2750-569f-4912-a100-d4d58bcb8946",
+      "shortId": "AGGMR6",
+      "name": "BlackNinja",
+      "role": "USER",
+      "level": 97
+    },
+    "message": "ok",
+    "timestamp": "2026-05-07T19:30:22.669Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "327f2750-569f-4912-a100-d4d58bcb8946",
+      "shortId": "AGGMR6",
+      "name": "BlackNinja",
+      "role": "USER",
+      "level": 97
+    },
+    "message": "/inv",
+    "timestamp": "2026-05-07T19:30:31.786Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "327f2750-569f-4912-a100-d4d58bcb8946",
+      "shortId": "AGGMR6",
+      "name": "BlackNinja",
+      "role": "USER",
+      "level": 97
+    },
+    "message": "/inv refresh",
+    "timestamp": "2026-05-07T19:30:37.504Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "327f2750-569f-4912-a100-d4d58bcb8946",
+      "shortId": "AGGMR6",
+      "name": "BlackNinja",
+      "role": "USER",
+      "level": 97
+    },
+    "message": "/refresh inv",
+    "timestamp": "2026-05-07T19:30:45.511Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "327f2750-569f-4912-a100-d4d58bcb8946",
+      "shortId": "AGGMR6",
+      "name": "BlackNinja",
+      "role": "USER",
+      "level": 97
+    },
+    "message": "/inv",
+    "timestamp": "2026-05-07T19:30:50.951Z"
   }
 ]
