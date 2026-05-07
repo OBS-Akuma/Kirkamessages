@@ -346,5 +346,17 @@
     },
     "message": "free ig",
     "timestamp": "2026-05-07T06:16:07.276Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "0cba4816-6935-46f8-ae34-10ebe79465fc",
+      "shortId": "M27S4G",
+      "name": "SnipeR-WarrioR",
+      "role": "USER",
+      "level": 45
+    },
+    "message": "https://kirka.io/___lobby___/ASIA~vfK0wK2t9",
+    "timestamp": "2026-05-07T06:16:18.643Z"
   }
 ]
