@@ -34,5 +34,17 @@
     },
     "message": "/claim",
     "timestamp": "2026-05-04T02:39:09.323Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "syAxAo5byXUChd5H3uSz4qXKA173",
+      "shortId": "IUXHPX",
+      "name": "EL_SEBAS_XD",
+      "role": "USER",
+      "level": 8
+    },
+    "message": "/hm",
+    "timestamp": "2026-05-07T03:01:21.250Z"
   }
 ]
