@@ -502,5 +502,17 @@
     },
     "message": "/hm bones",
     "timestamp": "2026-05-07T04:13:52.898Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "e53ac14c-dc7d-421c-8abd-fe7b9e185688",
+      "shortId": "I7SCOX",
+      "name": "cocoa_koala",
+      "role": "USER",
+      "level": 81
+    },
+    "message": "/hm onryo",
+    "timestamp": "2026-05-07T04:15:33.645Z"
   }
 ]
