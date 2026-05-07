@@ -118,5 +118,77 @@
     },
     "message": "punishmen",
     "timestamp": "2026-05-07T09:00:51.160Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "7cb5c14a-5da1-4774-ae02-f108a9236567",
+      "shortId": "M1D0JC",
+      "name": "Ahmedchuchu",
+      "role": "USER",
+      "level": 89
+    },
+    "message": "/inv",
+    "timestamp": "2026-05-07T19:04:23.101Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "7cb5c14a-5da1-4774-ae02-f108a9236567",
+      "shortId": "M1D0JC",
+      "name": "Ahmedchuchu",
+      "role": "USER",
+      "level": 89
+    },
+    "message": "[Pibble||BODY_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-07T19:04:50.078Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "7cb5c14a-5da1-4774-ae02-f108a9236567",
+      "shortId": "M1D0JC",
+      "name": "Ahmedchuchu",
+      "role": "USER",
+      "level": 89
+    },
+    "message": "/hm [Pibble||BODY_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-07T19:05:11.006Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "7cb5c14a-5da1-4774-ae02-f108a9236567",
+      "shortId": "M1D0JC",
+      "name": "Ahmedchuchu",
+      "role": "USER",
+      "level": 89
+    },
+    "message": "/hm [Uranium||BODY_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-07T19:05:32.823Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "7cb5c14a-5da1-4774-ae02-f108a9236567",
+      "shortId": "M1D0JC",
+      "name": "Ahmedchuchu",
+      "role": "USER",
+      "level": 89
+    },
+    "message": "guys who want wager for skins",
+    "timestamp": "2026-05-07T19:05:50.122Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "7cb5c14a-5da1-4774-ae02-f108a9236567",
+      "shortId": "M1D0JC",
+      "name": "Ahmedchuchu",
+      "role": "USER",
+      "level": 89
+    },
+    "message": "#7RPR5P trade for skins",
+    "timestamp": "2026-05-07T19:06:19.797Z"
   }
 ]
