@@ -2014,5 +2014,17 @@
     },
     "message": "enjoy your mute",
     "timestamp": "2026-05-07T19:07:57.616Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "60798d39-3ac8-448b-9c8c-1774c9a33347",
+      "shortId": "E779VY",
+      "name": "sensehasego",
+      "role": "USER",
+      "level": 82
+    },
+    "message": "hisoka",
+    "timestamp": "2026-05-07T19:34:23.762Z"
   }
 ]
