@@ -1,0 +1,26 @@
+[
+  {
+    "type": 2,
+    "user": {
+      "id": "e45990f7-cb60-48c6-b664-41a0d09d25a1",
+      "shortId": "FUYR7K",
+      "name": "Meridian",
+      "role": "USER",
+      "level": 95
+    },
+    "message": "#system",
+    "timestamp": "2026-05-07T04:53:44.698Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "e45990f7-cb60-48c6-b664-41a0d09d25a1",
+      "shortId": "FUYR7K",
+      "name": "Meridian",
+      "role": "USER",
+      "level": 95
+    },
+    "message": "#SYSTEM",
+    "timestamp": "2026-05-07T04:53:48.407Z"
+  }
+]
