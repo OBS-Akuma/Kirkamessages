@@ -1462,5 +1462,17 @@
     },
     "message": "SayaAkan what about [Nerida|Bayonet|WEAPON_SKIN|MYTHICAL][Forbidden|AR-9|WEAPON_SKIN|MYTHICAL]?",
     "timestamp": "2026-05-07T02:01:22.894Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "5d544b9e-5ca6-4638-b3a2-0318522e29af",
+      "shortId": "TRE873",
+      "name": "QWERTY",
+      "role": "USER",
+      "level": 67
+    },
+    "message": "Legend offer for [Qod||BODY_SKIN|MYTHICAL][Aries|Shark|WEAPON_SKIN|MYTHICAL]?",
+    "timestamp": "2026-05-07T02:11:07.952Z"
   }
 ]
