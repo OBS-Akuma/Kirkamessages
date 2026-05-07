@@ -478,5 +478,41 @@
     },
     "message": "offer",
     "timestamp": "2026-05-07T05:04:46.896Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "e7ca017c-557f-4b21-96eb-3ec2a9a728ab",
+      "shortId": "8SQMAK",
+      "name": "Eri.",
+      "role": "USER",
+      "level": 52
+    },
+    "message": "i have 20m coins",
+    "timestamp": "2026-05-07T05:07:21.410Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "e7ca017c-557f-4b21-96eb-3ec2a9a728ab",
+      "shortId": "8SQMAK",
+      "name": "Eri.",
+      "role": "USER",
+      "level": 52
+    },
+    "message": "what",
+    "timestamp": "2026-05-07T05:07:32.728Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "e7ca017c-557f-4b21-96eb-3ec2a9a728ab",
+      "shortId": "8SQMAK",
+      "name": "Eri.",
+      "role": "USER",
+      "level": 52
+    },
+    "message": "join ?",
+    "timestamp": "2026-05-07T05:08:06.940Z"
   }
 ]
