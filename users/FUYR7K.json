@@ -22,5 +22,89 @@
     },
     "message": "#SYSTEM",
     "timestamp": "2026-05-07T04:53:48.407Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "e45990f7-cb60-48c6-b664-41a0d09d25a1",
+      "shortId": "FUYR7K",
+      "name": "Meridian",
+      "role": "USER",
+      "level": 95
+    },
+    "message": "/wager [Golden||CHEST|LEGENDARY]x100 #609GEM",
+    "timestamp": "2026-05-07T07:27:34.375Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "e45990f7-cb60-48c6-b664-41a0d09d25a1",
+      "shortId": "FUYR7K",
+      "name": "Meridian",
+      "role": "USER",
+      "level": 95
+    },
+    "message": "/hm caring",
+    "timestamp": "2026-05-07T07:38:12.851Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "e45990f7-cb60-48c6-b664-41a0d09d25a1",
+      "shortId": "FUYR7K",
+      "name": "Meridian",
+      "role": "USER",
+      "level": 95
+    },
+    "message": "pepo",
+    "timestamp": "2026-05-07T07:39:13.232Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "e45990f7-cb60-48c6-b664-41a0d09d25a1",
+      "shortId": "FUYR7K",
+      "name": "Meridian",
+      "role": "USER",
+      "level": 95
+    },
+    "message": "wager goldens?",
+    "timestamp": "2026-05-07T07:39:16.686Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "e45990f7-cb60-48c6-b664-41a0d09d25a1",
+      "shortId": "FUYR7K",
+      "name": "Meridian",
+      "role": "USER",
+      "level": 95
+    },
+    "message": "ye",
+    "timestamp": "2026-05-07T07:39:30.358Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "e45990f7-cb60-48c6-b664-41a0d09d25a1",
+      "shortId": "FUYR7K",
+      "name": "Meridian",
+      "role": "USER",
+      "level": 95
+    },
+    "message": "venom whats ur wager stats?",
+    "timestamp": "2026-05-07T07:39:59.392Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "e45990f7-cb60-48c6-b664-41a0d09d25a1",
+      "shortId": "FUYR7K",
+      "name": "Meridian",
+      "role": "USER",
+      "level": 95
+    },
+    "message": "/mywager",
+    "timestamp": "2026-05-07T07:40:02.153Z"
   }
 ]
