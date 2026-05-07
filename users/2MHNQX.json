@@ -862,5 +862,41 @@
     },
     "message": "/inv #NOBODY",
     "timestamp": "2026-05-07T22:09:37.522Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "1c9cf342-5e36-47ce-86d7-096f4170995e",
+      "shortId": "2MHNQX",
+      "name": "Midnight",
+      "role": "USER",
+      "level": 101
+    },
+    "message": "jhosen",
+    "timestamp": "2026-05-07T22:35:47.955Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "1c9cf342-5e36-47ce-86d7-096f4170995e",
+      "shortId": "2MHNQX",
+      "name": "Midnight",
+      "role": "USER",
+      "level": 101
+    },
+    "message": "did you come up with a trade yet?",
+    "timestamp": "2026-05-07T22:35:52.934Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "1c9cf342-5e36-47ce-86d7-096f4170995e",
+      "shortId": "2MHNQX",
+      "name": "Midnight",
+      "role": "USER",
+      "level": 101
+    },
+    "message": "/last10 onryo",
+    "timestamp": "2026-05-07T22:36:15.102Z"
   }
 ]
