@@ -6802,5 +6802,101 @@
     },
     "message": "/inv",
     "timestamp": "2026-05-07T18:37:05.454Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "1ae21f3a-c5d5-4161-8718-75880e3d3cc8",
+      "shortId": "2QIYUL",
+      "name": "RAGEx",
+      "role": "USER",
+      "level": 43
+    },
+    "message": "/inv",
+    "timestamp": "2026-05-07T19:01:58.468Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "1ae21f3a-c5d5-4161-8718-75880e3d3cc8",
+      "shortId": "2QIYUL",
+      "name": "RAGEx",
+      "role": "USER",
+      "level": 43
+    },
+    "message": "wtf man",
+    "timestamp": "2026-05-07T19:02:03.008Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "1ae21f3a-c5d5-4161-8718-75880e3d3cc8",
+      "shortId": "2QIYUL",
+      "name": "RAGEx",
+      "role": "USER",
+      "level": 43
+    },
+    "message": "/cancelwager",
+    "timestamp": "2026-05-07T19:02:10.517Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "1ae21f3a-c5d5-4161-8718-75880e3d3cc8",
+      "shortId": "2QIYUL",
+      "name": "RAGEx",
+      "role": "USER",
+      "level": 43
+    },
+    "message": "adam",
+    "timestamp": "2026-05-07T19:02:39.843Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "1ae21f3a-c5d5-4161-8718-75880e3d3cc8",
+      "shortId": "2QIYUL",
+      "name": "RAGEx",
+      "role": "USER",
+      "level": 43
+    },
+    "message": "hm for rgb",
+    "timestamp": "2026-05-07T19:02:43.595Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "1ae21f3a-c5d5-4161-8718-75880e3d3cc8",
+      "shortId": "2QIYUL",
+      "name": "RAGEx",
+      "role": "USER",
+      "level": 43
+    },
+    "message": "**TAKING OFFERS ON** [Marage||BODY_SKIN|MYTHICAL][Gamma||BODY_SKIN|MYTHICAL][Gardener|Bayonet|WEAPON_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-07T19:09:33.214Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "1ae21f3a-c5d5-4161-8718-75880e3d3cc8",
+      "shortId": "2QIYUL",
+      "name": "RAGEx",
+      "role": "USER",
+      "level": 43
+    },
+    "message": "asta",
+    "timestamp": "2026-05-07T19:09:46.256Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "1ae21f3a-c5d5-4161-8718-75880e3d3cc8",
+      "shortId": "2QIYUL",
+      "name": "RAGEx",
+      "role": "USER",
+      "level": 43
+    },
+    "message": "wanna wager gardener?",
+    "timestamp": "2026-05-07T19:09:53.207Z"
   }
 ]
