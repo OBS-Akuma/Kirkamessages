@@ -58,5 +58,65 @@
     },
     "message": "yeah",
     "timestamp": "2026-05-07T03:44:38.456Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "baf58a91-5cb0-4253-b7b1-7ea43c395844",
+      "shortId": "6XXJ99",
+      "name": "Zenix",
+      "role": "USER",
+      "level": 81
+    },
+    "message": "offer",
+    "timestamp": "2026-05-07T03:44:50.153Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "baf58a91-5cb0-4253-b7b1-7ea43c395844",
+      "shortId": "6XXJ99",
+      "name": "Zenix",
+      "role": "USER",
+      "level": 81
+    },
+    "message": "any skins which is good",
+    "timestamp": "2026-05-07T03:45:03.949Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "baf58a91-5cb0-4253-b7b1-7ea43c395844",
+      "shortId": "6XXJ99",
+      "name": "Zenix",
+      "role": "USER",
+      "level": 81
+    },
+    "message": "I have",
+    "timestamp": "2026-05-07T03:45:21.726Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "baf58a91-5cb0-4253-b7b1-7ea43c395844",
+      "shortId": "6XXJ99",
+      "name": "Zenix",
+      "role": "USER",
+      "level": 81
+    },
+    "message": "nty",
+    "timestamp": "2026-05-07T03:45:32.629Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "baf58a91-5cb0-4253-b7b1-7ea43c395844",
+      "shortId": "6XXJ99",
+      "name": "Zenix",
+      "role": "USER",
+      "level": 81
+    },
+    "message": "Wagering",
+    "timestamp": "2026-05-07T03:48:42.268Z"
   }
 ]
