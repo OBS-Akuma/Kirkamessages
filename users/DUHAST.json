@@ -168,5 +168,65 @@
     },
     "message": "/Locate [Gardener|Bayonet|WEAPON_SKIN|MYTHICAL]",
     "timestamp": "2026-05-07T08:10:12.034Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "b3e46a65-3682-40c5-8a7b-b4af725fa333",
+      "shortId": "DUHAST",
+      "name": "Rammstein",
+      "role": "USER",
+      "level": 79
+    },
+    "message": "chrom now 40 - 50m bro",
+    "timestamp": "2026-05-07T08:22:48.335Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "b3e46a65-3682-40c5-8a7b-b4af725fa333",
+      "shortId": "DUHAST",
+      "name": "Rammstein",
+      "role": "USER",
+      "level": 79
+    },
+    "message": "/Locate [Chromium|Bayonet|WEAPON_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-07T08:23:12.073Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "b3e46a65-3682-40c5-8a7b-b4af725fa333",
+      "shortId": "DUHAST",
+      "name": "Rammstein",
+      "role": "USER",
+      "level": 79
+    },
+    "message": "/inv",
+    "timestamp": "2026-05-07T08:23:19.677Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "b3e46a65-3682-40c5-8a7b-b4af725fa333",
+      "shortId": "DUHAST",
+      "name": "Rammstein",
+      "role": "USER",
+      "level": 79
+    },
+    "message": "/Locate [Chromium|Bayonet|WEAPON_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-07T08:23:23.357Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "b3e46a65-3682-40c5-8a7b-b4af725fa333",
+      "shortId": "DUHAST",
+      "name": "Rammstein",
+      "role": "USER",
+      "level": 79
+    },
+    "message": "yes",
+    "timestamp": "2026-05-07T08:23:49.964Z"
   }
 ]
