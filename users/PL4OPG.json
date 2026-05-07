@@ -1114,5 +1114,29 @@
     },
     "message": "[Blast Weatie|Weatie|WEAPON_SKIN|MYTHICAL],[Dragonic Shark|Shark|WEAPON_SKIN|MYTHICAL] for [Empress|VITA|WEAPON_SKIN|LEGENDARY]",
     "timestamp": "2026-05-07T05:55:55.864Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "6da59982-c088-49ca-933e-8a3fbfaa6592",
+      "shortId": "PL4OPG",
+      "name": "[VN]_NTAT_",
+      "role": "USER",
+      "level": 75
+    },
+    "message": "wager [Vintage|VITA|WEAPON_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-07T05:58:38.103Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "6da59982-c088-49ca-933e-8a3fbfaa6592",
+      "shortId": "PL4OPG",
+      "name": "[VN]_NTAT_",
+      "role": "USER",
+      "level": 75
+    },
+    "message": "nah bro",
+    "timestamp": "2026-05-07T05:59:08.674Z"
   }
 ]
