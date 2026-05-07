@@ -58,5 +58,29 @@
     },
     "message": "/hm [Mabel||BODY_SKIN|MYTHICAL]",
     "timestamp": "2026-05-06T02:12:15.410Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "9252167f-acb3-4f72-975f-49b97a8df81a",
+      "shortId": "06GIR2",
+      "name": "Mya!",
+      "role": "USER",
+      "level": 80
+    },
+    "message": "/hm [namechange]",
+    "timestamp": "2026-05-07T07:18:49.136Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "9252167f-acb3-4f72-975f-49b97a8df81a",
+      "shortId": "06GIR2",
+      "name": "Mya!",
+      "role": "USER",
+      "level": 80
+    },
+    "message": "im hakker",
+    "timestamp": "2026-05-07T07:19:01.627Z"
   }
 ]
