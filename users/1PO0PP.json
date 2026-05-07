@@ -94,5 +94,41 @@
     },
     "message": "no scarlett",
     "timestamp": "2026-05-07T05:27:07.189Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "488edfbc-cedd-422c-98dc-6d25fc41f35e",
+      "shortId": "1PO0PP",
+      "name": "|_Dark_Nova_|",
+      "role": "USER",
+      "level": 83
+    },
+    "message": "ghost",
+    "timestamp": "2026-05-07T05:31:10.962Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "488edfbc-cedd-422c-98dc-6d25fc41f35e",
+      "shortId": "1PO0PP",
+      "name": "|_Dark_Nova_|",
+      "role": "USER",
+      "level": 83
+    },
+    "message": "i wani [Nova|SCAR|WEAPON_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-07T05:31:27.386Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "488edfbc-cedd-422c-98dc-6d25fc41f35e",
+      "shortId": "1PO0PP",
+      "name": "|_Dark_Nova_|",
+      "role": "USER",
+      "level": 83
+    },
+    "message": "uf\"\"__\"\"",
+    "timestamp": "2026-05-07T05:31:52.929Z"
   }
 ]
