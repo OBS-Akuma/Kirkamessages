@@ -46,5 +46,53 @@
     },
     "message": "/last10 forbidden",
     "timestamp": "2026-05-03T15:37:14.321Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "c47637f0-61d5-474a-9701-cd4093828a1c",
+      "shortId": "6ED1PP",
+      "name": "max1",
+      "role": "USER",
+      "level": 98
+    },
+    "message": "**LOOKING FOR **[IMGERROR||BODY_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-07T04:55:31.746Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "c47637f0-61d5-474a-9701-cd4093828a1c",
+      "shortId": "6ED1PP",
+      "name": "max1",
+      "role": "USER",
+      "level": 98
+    },
+    "message": "**LOOKING FOR **[IMGERROR||BODY_SKIN|MYTHICAL].",
+    "timestamp": "2026-05-07T04:57:24.056Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "c47637f0-61d5-474a-9701-cd4093828a1c",
+      "shortId": "6ED1PP",
+      "name": "max1",
+      "role": "USER",
+      "level": 98
+    },
+    "message": ".",
+    "timestamp": "2026-05-07T04:57:29.910Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "c47637f0-61d5-474a-9701-cd4093828a1c",
+      "shortId": "6ED1PP",
+      "name": "max1",
+      "role": "USER",
+      "level": 98
+    },
+    "message": "greart",
+    "timestamp": "2026-05-07T05:00:07.785Z"
   }
 ]
