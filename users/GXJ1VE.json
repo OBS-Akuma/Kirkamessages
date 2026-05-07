@@ -322,5 +322,29 @@
     },
     "message": "lf [Ophelia||BODY_SKIN|MYTHICAL]",
     "timestamp": "2026-05-07T21:44:04.470Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "849b68b6-84ec-47c9-a14e-ccf0aa3cfc1e",
+      "shortId": "GXJ1VE",
+      "name": "ASTA",
+      "role": "USER",
+      "level": 96
+    },
+    "message": "hm skel",
+    "timestamp": "2026-05-07T22:19:27.458Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "849b68b6-84ec-47c9-a14e-ccf0aa3cfc1e",
+      "shortId": "GXJ1VE",
+      "name": "ASTA",
+      "role": "USER",
+      "level": 96
+    },
+    "message": "with new items?",
+    "timestamp": "2026-05-07T22:19:47.226Z"
   }
 ]
