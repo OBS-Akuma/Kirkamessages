@@ -2242,5 +2242,41 @@
     },
     "message": "nif said smth",
     "timestamp": "2026-05-07T06:56:00.511Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "d88f4f73-1334-4556-9168-e0c6945ad2a1",
+      "shortId": "KSOY64",
+      "name": "Blaze",
+      "role": "USER",
+      "level": 98
+    },
+    "message": "lobby",
+    "timestamp": "2026-05-07T06:56:03.366Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "d88f4f73-1334-4556-9168-e0c6945ad2a1",
+      "shortId": "KSOY64",
+      "name": "Blaze",
+      "role": "USER",
+      "level": 98
+    },
+    "message": "dark..",
+    "timestamp": "2026-05-07T06:56:23.287Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "d88f4f73-1334-4556-9168-e0c6945ad2a1",
+      "shortId": "KSOY64",
+      "name": "Blaze",
+      "role": "USER",
+      "level": 98
+    },
+    "message": "dark lbby",
+    "timestamp": "2026-05-07T06:56:46.053Z"
   }
 ]
