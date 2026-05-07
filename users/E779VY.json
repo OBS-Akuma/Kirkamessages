@@ -478,5 +478,17 @@
     },
     "message": "[Mabel||BODY_SKIN|MYTHICAL][Gwen||BODY_SKIN|MYTHICAL]",
     "timestamp": "2026-05-06T00:13:50.098Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "60798d39-3ac8-448b-9c8c-1774c9a33347",
+      "shortId": "E779VY",
+      "name": "sensehasego",
+      "role": "USER",
+      "level": 82
+    },
+    "message": "Trading [Constellations|Bayonet|WEAPON_SKIN|MYTHICAL][Ranked_S2 Top100|Bayonet|WEAPON_SKIN|MYTHICAL]/[Goblin||BODY_SKIN|MYTHICAL]x2[Bullseye||BODY_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-07T03:28:29.755Z"
   }
 ]
