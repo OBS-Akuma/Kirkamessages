@@ -34,5 +34,17 @@
     },
     "message": "[Aries|Shark|WEAPON_SKIN|MYTHICAL]",
     "timestamp": "2026-05-07T18:07:22.985Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "9bdebb7d-1bb9-41bd-9a14-d7a10db7e9f7",
+      "shortId": "EI4WQH",
+      "name": "Scream",
+      "role": "USER",
+      "level": 98
+    },
+    "message": "[Marage||BODY_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-07T18:35:12.683Z"
   }
 ]
