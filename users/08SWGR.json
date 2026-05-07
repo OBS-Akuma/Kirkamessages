@@ -1,0 +1,26 @@
+[
+  {
+    "type": 2,
+    "user": {
+      "id": "guest-d2641710-9ff2-4bb6-ade8-951cb6288c82",
+      "shortId": "08SWGR",
+      "name": "67_kid-67",
+      "role": "USER",
+      "level": 5
+    },
+    "message": "hi I just hit lvl 5",
+    "timestamp": "2026-05-07T23:50:12.501Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "guest-d2641710-9ff2-4bb6-ade8-951cb6288c82",
+      "shortId": "08SWGR",
+      "name": "67_kid-67",
+      "role": "USER",
+      "level": 5
+    },
+    "message": "HI I JUST HIT LVL 5",
+    "timestamp": "2026-05-07T23:59:35.396Z"
+  }
+]
