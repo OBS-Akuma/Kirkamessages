@@ -298,5 +298,29 @@
     },
     "message": "/wager [Ortus|Revolver|WEAPON_SKIN|MYTHICAL] #ootn4l",
     "timestamp": "2026-05-07T18:17:59.664Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "a85523e5-6504-4784-9376-5914fc6aa06e",
+      "shortId": "7X1DR1",
+      "name": "HANNA",
+      "role": "USER",
+      "level": 28
+    },
+    "message": "/wager [Golden||CHEST|LEGENDARY]x400 8kk5dm",
+    "timestamp": "2026-05-07T19:11:41.288Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "a85523e5-6504-4784-9376-5914fc6aa06e",
+      "shortId": "7X1DR1",
+      "name": "HANNA",
+      "role": "USER",
+      "level": 28
+    },
+    "message": "?",
+    "timestamp": "2026-05-07T19:11:48.051Z"
   }
 ]
