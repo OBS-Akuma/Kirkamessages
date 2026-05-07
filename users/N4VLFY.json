@@ -34,5 +34,17 @@
     },
     "message": "guys is there any shark skin with a colour of black and whote",
     "timestamp": "2026-05-07T03:32:17.672Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "867a5e10-e6af-44af-961c-ce3d00033320",
+      "shortId": "N4VLFY",
+      "name": "Chosen",
+      "role": "USER",
+      "level": 98
+    },
+    "message": "its in other acc",
+    "timestamp": "2026-05-07T08:56:50.610Z"
   }
 ]
