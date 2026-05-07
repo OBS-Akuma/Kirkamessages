@@ -142,5 +142,17 @@
     },
     "message": "Dg [Wolfy||BODY_SKIN|MYTHICAL]",
     "timestamp": "2026-05-07T09:49:27.706Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "849b68b6-84ec-47c9-a14e-ccf0aa3cfc1e",
+      "shortId": "GXJ1VE",
+      "name": "ASTA",
+      "role": "USER",
+      "level": 96
+    },
+    "message": "[Ophelia||BODY_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-07T18:07:59.111Z"
   }
 ]
