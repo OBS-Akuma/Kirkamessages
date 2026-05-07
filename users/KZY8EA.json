@@ -10,5 +10,17 @@
     },
     "message": "[Shard|Bayonet|WEAPON_SKIN|LEGENDARY]",
     "timestamp": "2026-05-07T07:14:05.171Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "efcbea00-666f-4ad4-af06-17e853c38d07",
+      "shortId": "KZY8EA",
+      "name": "TTVItemVault",
+      "role": "USER",
+      "level": 5
+    },
+    "message": "/enter",
+    "timestamp": "2026-05-07T20:33:40.152Z"
   }
 ]
