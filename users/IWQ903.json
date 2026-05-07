@@ -2626,5 +2626,29 @@
     },
     "message": "abstraction sooo tuf",
     "timestamp": "2026-05-07T03:19:46.248Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "ceb6bda2-7bd4-4e73-b89c-7f892fed47d8",
+      "shortId": "IWQ903",
+      "name": "Em1LeG0@t",
+      "role": "USER",
+      "level": 73
+    },
+    "message": "what are u guys trading for ?",
+    "timestamp": "2026-05-07T03:20:10.210Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "ceb6bda2-7bd4-4e73-b89c-7f892fed47d8",
+      "shortId": "IWQ903",
+      "name": "Em1LeG0@t",
+      "role": "USER",
+      "level": 73
+    },
+    "message": "dragonic ?",
+    "timestamp": "2026-05-07T03:20:26.407Z"
   }
 ]
