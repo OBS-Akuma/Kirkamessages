@@ -8,7 +8,7 @@
       "role": "USER",
       "level": 48
     },
-    "message": "Tá com inveja?",
+    "message": "TÃ¡ com inveja?",
     "timestamp": "2026-05-07T18:01:54.923Z"
   },
   {
@@ -34,5 +34,29 @@
     },
     "message": "Bota pronto em vez de reclamar da minha riqueza",
     "timestamp": "2026-05-07T18:02:50.246Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "7d4f78ef-2b90-4c0a-be76-d47c869d11c8",
+      "shortId": "9ZUY3P",
+      "name": "MY|NIGHTMARE",
+      "role": "USER",
+      "level": 48
+    },
+    "message": "Da ai",
+    "timestamp": "2026-05-07T18:03:53.333Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "7d4f78ef-2b90-4c0a-be76-d47c869d11c8",
+      "shortId": "9ZUY3P",
+      "name": "MY|NIGHTMARE",
+      "role": "USER",
+      "level": 48
+    },
+    "message": "Skin feia",
+    "timestamp": "2026-05-07T18:04:05.604Z"
   }
 ]
