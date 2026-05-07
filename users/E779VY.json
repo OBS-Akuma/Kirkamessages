@@ -2026,5 +2026,17 @@
     },
     "message": "hisoka",
     "timestamp": "2026-05-07T19:34:23.762Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "60798d39-3ac8-448b-9c8c-1774c9a33347",
+      "shortId": "E779VY",
+      "name": "sensehasego",
+      "role": "USER",
+      "level": 82
+    },
+    "message": "Trading [Bullseye||BODY_SKIN|MYTHICAL][Pandora||BODY_SKIN|MYTHICAL][Garden|LAR|WEAPON_SKIN|MYTHICAL][Gardener|Bayonet|WEAPON_SKIN|MYTHICAL][Bound|AR-9|WEAPON_SKIN|MYTHICAL][Error||BODY_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-07T20:05:25.274Z"
   }
 ]
