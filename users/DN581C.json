@@ -202,5 +202,41 @@
     },
     "message": "tr[Mabel||BODY_SKIN|MYTHICAL][Chick||BODY_SKIN|MYTHICAL][Gold Coins|Bayonet|WEAPON_SKIN|LEGENDARY][Ripped Santa||BODY_SKIN|PARANORMAL]",
     "timestamp": "2026-05-07T08:29:51.771Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "fdafc255-e85b-4f66-9af0-46e32f93c3ef",
+      "shortId": "DN581C",
+      "name": "$ableye",
+      "role": "USER",
+      "level": 77
+    },
+    "message": "/bolt[Glance|Bayonet|WEAPON_SKIN|LEGENDARY]",
+    "timestamp": "2026-05-07T09:32:22.225Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "fdafc255-e85b-4f66-9af0-46e32f93c3ef",
+      "shortId": "DN581C",
+      "name": "$ableye",
+      "role": "USER",
+      "level": 77
+    },
+    "message": "tr[Mabel||BODY_SKIN|MYTHICAL][Chick||BODY_SKIN|MYTHICAL][Gold Coins|Bayonet|WEAPON_SKIN|LEGENDARY][Ripped Santa||BODY_SKIN|PARANORMAL]",
+    "timestamp": "2026-05-07T09:33:51.834Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "fdafc255-e85b-4f66-9af0-46e32f93c3ef",
+      "shortId": "DN581C",
+      "name": "$ableye",
+      "role": "USER",
+      "level": 77
+    },
+    "message": "/bolt splanch",
+    "timestamp": "2026-05-07T09:37:13.355Z"
   }
 ]
