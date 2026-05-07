@@ -2698,5 +2698,29 @@
     },
     "message": "imma be honest I want the goldens to qs for coins",
     "timestamp": "2026-05-07T03:10:47.824Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "b0c61921-21b4-4eb0-b848-92e85240af89",
+      "shortId": "Z97DD0",
+      "name": "ytdanielyoung6",
+      "role": "USER",
+      "level": 15
+    },
+    "message": ":/",
+    "timestamp": "2026-05-07T03:11:52.478Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "b0c61921-21b4-4eb0-b848-92e85240af89",
+      "shortId": "Z97DD0",
+      "name": "ytdanielyoung6",
+      "role": "USER",
+      "level": 15
+    },
+    "message": "/hm [Kraken|Shark|WEAPON_SKIN|LEGENDARY]",
+    "timestamp": "2026-05-07T03:12:05.032Z"
   }
 ]
