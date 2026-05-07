@@ -284,7 +284,7 @@
       "role": "USER",
       "level": 56
     },
-    "message": "I donÃ¢ÂÂt have any better skin",
+    "message": "I donÃÂ¢ÃÂÃÂt have any better skin",
     "timestamp": "2026-05-07T06:40:06.403Z"
   },
   {
@@ -392,7 +392,7 @@
       "role": "USER",
       "level": 56
     },
-    "message": "Brooo itÃ¢ÂÂs not fair mate",
+    "message": "Brooo itÃÂ¢ÃÂÃÂs not fair mate",
     "timestamp": "2026-05-07T06:42:30.709Z"
   },
   {
@@ -464,7 +464,7 @@
       "role": "USER",
       "level": 56
     },
-    "message": "IÃ¢ÂÂm crying!",
+    "message": "IÃÂ¢ÃÂÃÂm crying!",
     "timestamp": "2026-05-07T06:45:50.020Z"
   },
   {
@@ -574,5 +574,53 @@
     },
     "message": "Yep can I offer for [Sinister||BODY_SKIN|MYTHICAL]?",
     "timestamp": "2026-05-07T07:06:06.749Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "guest-65620a6d-142b-4bf1-a6de-d4efe847529e",
+      "shortId": "S91J1D",
+      "name": "[EGD]ThePhenom",
+      "role": "USER",
+      "level": 56
+    },
+    "message": "Hm",
+    "timestamp": "2026-05-07T07:08:58.765Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "guest-65620a6d-142b-4bf1-a6de-d4efe847529e",
+      "shortId": "S91J1D",
+      "name": "[EGD]ThePhenom",
+      "role": "USER",
+      "level": 56
+    },
+    "message": "Hm?",
+    "timestamp": "2026-05-07T07:10:44.918Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "guest-65620a6d-142b-4bf1-a6de-d4efe847529e",
+      "shortId": "S91J1D",
+      "name": "[EGD]ThePhenom",
+      "role": "USER",
+      "level": 56
+    },
+    "message": "/price vionix",
+    "timestamp": "2026-05-07T07:11:23.977Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "guest-65620a6d-142b-4bf1-a6de-d4efe847529e",
+      "shortId": "S91J1D",
+      "name": "[EGD]ThePhenom",
+      "role": "USER",
+      "level": 56
+    },
+    "message": "Tr[Vionix||BODY_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-07T07:11:39.060Z"
   }
 ]
