@@ -1176,7 +1176,7 @@
       "role": "USER",
       "level": 84
     },
-    "message": "Bro [Sunday|Bayonet|WEAPON_SKIN|MYTHICAL] 7+ m ÃÂ°ÃÂÃÂ¥ÃÂ",
+    "message": "Bro [Sunday|Bayonet|WEAPON_SKIN|MYTHICAL] 7+ m ÃÂÃÂ°ÃÂÃÂÃÂÃÂ¥ÃÂÃÂ",
     "timestamp": "2026-05-07T05:55:01.851Z"
   },
   {
@@ -1454,5 +1454,53 @@
     },
     "message": "#4CQDEK offer for [Garden|LAR|WEAPON_SKIN|MYTHICAL]?",
     "timestamp": "2026-05-07T06:10:51.474Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "631aee1e-afcc-404d-a987-e3c180d9eeb1",
+      "shortId": "XCS847",
+      "name": "in_theroom",
+      "role": "USER",
+      "level": 84
+    },
+    "message": "Qwerty ghoul sunday for ranked slasher?",
+    "timestamp": "2026-05-07T06:12:15.034Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "631aee1e-afcc-404d-a987-e3c180d9eeb1",
+      "shortId": "XCS847",
+      "name": "in_theroom",
+      "role": "USER",
+      "level": 84
+    },
+    "message": "#TRE873?",
+    "timestamp": "2026-05-07T06:12:44.723Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "631aee1e-afcc-404d-a987-e3c180d9eeb1",
+      "shortId": "XCS847",
+      "name": "in_theroom",
+      "role": "USER",
+      "level": 84
+    },
+    "message": "Thanks",
+    "timestamp": "2026-05-07T06:13:38.485Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "631aee1e-afcc-404d-a987-e3c180d9eeb1",
+      "shortId": "XCS847",
+      "name": "in_theroom",
+      "role": "USER",
+      "level": 84
+    },
+    "message": "/inv",
+    "timestamp": "2026-05-07T06:14:00.399Z"
   }
 ]
