@@ -1,0 +1,38 @@
+[
+  {
+    "type": 2,
+    "user": {
+      "id": "dd70471f-a36c-4dab-af4a-36d6582008da",
+      "shortId": "XPV5W1",
+      "name": "Annihilator.",
+      "role": "USER",
+      "level": 87
+    },
+    "message": "[Rabbit|Shark|WEAPON_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-07T07:13:47.152Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "dd70471f-a36c-4dab-af4a-36d6582008da",
+      "shortId": "XPV5W1",
+      "name": "Annihilator.",
+      "role": "USER",
+      "level": 87
+    },
+    "message": "/price rabbit",
+    "timestamp": "2026-05-07T07:14:07.220Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "dd70471f-a36c-4dab-af4a-36d6582008da",
+      "shortId": "XPV5W1",
+      "name": "Annihilator.",
+      "role": "USER",
+      "level": 87
+    },
+    "message": "i have angel",
+    "timestamp": "2026-05-07T07:14:17.357Z"
+  }
+]
