@@ -1,0 +1,38 @@
+[
+  {
+    "type": 2,
+    "user": {
+      "id": "d93ce53d-09df-4326-ad21-cbbec8fafef5",
+      "shortId": "SNIPER",
+      "name": "Citrus",
+      "role": "VERIFIED",
+      "level": 97
+    },
+    "message": "/owners synergy",
+    "timestamp": "2026-05-07T04:09:55.300Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "d93ce53d-09df-4326-ad21-cbbec8fafef5",
+      "shortId": "SNIPER",
+      "name": "Citrus",
+      "role": "VERIFIED",
+      "level": 97
+    },
+    "message": "/locate synergy",
+    "timestamp": "2026-05-07T04:10:01.490Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "d93ce53d-09df-4326-ad21-cbbec8fafef5",
+      "shortId": "SNIPER",
+      "name": "Citrus",
+      "role": "VERIFIED",
+      "level": 97
+    },
+    "message": "[origin]",
+    "timestamp": "2026-05-07T04:10:40.078Z"
+  }
+]
