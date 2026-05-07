@@ -10112,5 +10112,41 @@
     },
     "message": ":/",
     "timestamp": "2026-05-07T04:53:44.391Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "4525c2fd-62ac-46cf-8b35-f56bc75a81bb",
+      "shortId": "5GD3AU",
+      "name": "7xWORLDCHAMP",
+      "role": "USER",
+      "level": 46
+    },
+    "message": ".",
+    "timestamp": "2026-05-07T05:07:29.010Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "4525c2fd-62ac-46cf-8b35-f56bc75a81bb",
+      "shortId": "5GD3AU",
+      "name": "7xWORLDCHAMP",
+      "role": "USER",
+      "level": 46
+    },
+    "message": "yo beetle",
+    "timestamp": "2026-05-07T05:09:33.456Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "4525c2fd-62ac-46cf-8b35-f56bc75a81bb",
+      "shortId": "5GD3AU",
+      "name": "7xWORLDCHAMP",
+      "role": "USER",
+      "level": 46
+    },
+    "message": "u like my offer?",
+    "timestamp": "2026-05-07T05:09:35.520Z"
   }
 ]
