@@ -1402,5 +1402,101 @@
     },
     "message": "wager [Golden||CHEST|LEGENDARY]s",
     "timestamp": "2026-05-07T06:14:14.024Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "6da59982-c088-49ca-933e-8a3fbfaa6592",
+      "shortId": "PL4OPG",
+      "name": "[VN]_NTAT_",
+      "role": "USER",
+      "level": 75
+    },
+    "message": "/wager [Golden||CHEST|LEGENDARY]x800 #HUB956",
+    "timestamp": "2026-05-07T06:16:43.042Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "6da59982-c088-49ca-933e-8a3fbfaa6592",
+      "shortId": "PL4OPG",
+      "name": "[VN]_NTAT_",
+      "role": "USER",
+      "level": 75
+    },
+    "message": "/wager [Golden||CHEST|LEGENDARY]x800 #609GEM",
+    "timestamp": "2026-05-07T06:17:21.639Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "6da59982-c088-49ca-933e-8a3fbfaa6592",
+      "shortId": "PL4OPG",
+      "name": "[VN]_NTAT_",
+      "role": "USER",
+      "level": 75
+    },
+    "message": "/cancelwager",
+    "timestamp": "2026-05-07T06:17:32.626Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "6da59982-c088-49ca-933e-8a3fbfaa6592",
+      "shortId": "PL4OPG",
+      "name": "[VN]_NTAT_",
+      "role": "USER",
+      "level": 75
+    },
+    "message": "/wager [Golden||CHEST|LEGENDARY]x300 #609GEM",
+    "timestamp": "2026-05-07T06:18:08.024Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "6da59982-c088-49ca-933e-8a3fbfaa6592",
+      "shortId": "PL4OPG",
+      "name": "[VN]_NTAT_",
+      "role": "USER",
+      "level": 75
+    },
+    "message": "venom",
+    "timestamp": "2026-05-07T06:18:18.245Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "6da59982-c088-49ca-933e-8a3fbfaa6592",
+      "shortId": "PL4OPG",
+      "name": "[VN]_NTAT_",
+      "role": "USER",
+      "level": 75
+    },
+    "message": "wager me",
+    "timestamp": "2026-05-07T06:18:23.981Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "6da59982-c088-49ca-933e-8a3fbfaa6592",
+      "shortId": "PL4OPG",
+      "name": "[VN]_NTAT_",
+      "role": "USER",
+      "level": 75
+    },
+    "message": "/wager [Golden||CHEST|LEGENDARY]x300 #609GEM",
+    "timestamp": "2026-05-07T06:18:46.831Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "6da59982-c088-49ca-933e-8a3fbfaa6592",
+      "shortId": "PL4OPG",
+      "name": "[VN]_NTAT_",
+      "role": "USER",
+      "level": 75
+    },
+    "message": "agian",
+    "timestamp": "2026-05-07T06:19:41.490Z"
   }
 ]
