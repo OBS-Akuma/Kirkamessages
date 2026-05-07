@@ -406,5 +406,17 @@
     },
     "message": "i win can you accept",
     "timestamp": "2026-05-07T08:11:09.239Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "3823c788-8970-4e00-ae41-b7667620cb07",
+      "shortId": "R5OVBZ",
+      "name": "SeductiveSnake",
+      "role": "USER",
+      "level": 28
+    },
+    "message": "trading [Gardener|Bayonet|WEAPON_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-07T08:14:24.650Z"
   }
 ]
