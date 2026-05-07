@@ -1,0 +1,26 @@
+[
+  {
+    "type": 2,
+    "user": {
+      "id": "5f6667eb-ddbc-45b7-bf71-f7a97f967ffe",
+      "shortId": "I0GVO6",
+      "name": "Saturn",
+      "role": "USER",
+      "level": 49
+    },
+    "message": "/inv",
+    "timestamp": "2026-05-07T08:31:06.526Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "5f6667eb-ddbc-45b7-bf71-f7a97f967ffe",
+      "shortId": "I0GVO6",
+      "name": "Saturn",
+      "role": "USER",
+      "level": 49
+    },
+    "message": "/inv",
+    "timestamp": "2026-05-07T08:53:07.688Z"
+  }
+]
