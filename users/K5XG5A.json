@@ -1,0 +1,26 @@
+[
+  {
+    "type": 2,
+    "user": {
+      "id": "9687f7d0-192e-4a81-969e-8b288d9a3cc7",
+      "shortId": "K5XG5A",
+      "name": "edge",
+      "role": "USER",
+      "level": 11
+    },
+    "message": "is this clobal chat",
+    "timestamp": "2026-05-07T07:12:01.265Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "9687f7d0-192e-4a81-969e-8b288d9a3cc7",
+      "shortId": "K5XG5A",
+      "name": "edge",
+      "role": "USER",
+      "level": 11
+    },
+    "message": "i did it",
+    "timestamp": "2026-05-07T07:12:11.295Z"
+  }
+]
