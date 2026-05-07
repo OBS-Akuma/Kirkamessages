@@ -106,5 +106,77 @@
     },
     "message": "/hm chessy",
     "timestamp": "2026-05-07T20:00:25.497Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "127e0842-6c00-47e9-a4a6-df48e84e2d77",
+      "shortId": "22GSPX",
+      "name": "luca",
+      "role": "USER",
+      "level": 14
+    },
+    "message": "/hm chessie",
+    "timestamp": "2026-05-07T20:00:33.790Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "127e0842-6c00-47e9-a4a6-df48e84e2d77",
+      "shortId": "22GSPX",
+      "name": "luca",
+      "role": "USER",
+      "level": 14
+    },
+    "message": "/hm cheesy",
+    "timestamp": "2026-05-07T20:00:43.351Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "127e0842-6c00-47e9-a4a6-df48e84e2d77",
+      "shortId": "22GSPX",
+      "name": "luca",
+      "role": "USER",
+      "level": 14
+    },
+    "message": "/hm void vita",
+    "timestamp": "2026-05-07T20:00:55.381Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "127e0842-6c00-47e9-a4a6-df48e84e2d77",
+      "shortId": "22GSPX",
+      "name": "luca",
+      "role": "USER",
+      "level": 14
+    },
+    "message": "/hm ham",
+    "timestamp": "2026-05-07T20:01:12.262Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "127e0842-6c00-47e9-a4a6-df48e84e2d77",
+      "shortId": "22GSPX",
+      "name": "luca",
+      "role": "USER",
+      "level": 14
+    },
+    "message": "/hm forge",
+    "timestamp": "2026-05-07T20:01:37.517Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "127e0842-6c00-47e9-a4a6-df48e84e2d77",
+      "shortId": "22GSPX",
+      "name": "luca",
+      "role": "USER",
+      "level": 14
+    },
+    "message": "/locate butterflies",
+    "timestamp": "2026-05-07T20:02:04.760Z"
   }
 ]
