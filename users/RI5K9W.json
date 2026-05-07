@@ -262,5 +262,77 @@
     },
     "message": "Same to u ^^",
     "timestamp": "2026-05-07T09:11:10.164Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "335553f4-5229-43ef-a1b9-27f8f1ab9b93",
+      "shortId": "RI5K9W",
+      "name": "Opium",
+      "role": "USER",
+      "level": 13
+    },
+    "message": "**TRADING** [Qod||BODY_SKIN|MYTHICAL],[Bubblepop|Bayonet|WEAPON_SKIN|MYTHICAL],[Wicked|VITA|WEAPON_SKIN|MYTHICAL],[Shinji||BODY_SKIN|MYTHICAL]..",
+    "timestamp": "2026-05-07T09:13:15.549Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "335553f4-5229-43ef-a1b9-27f8f1ab9b93",
+      "shortId": "RI5K9W",
+      "name": "Opium",
+      "role": "USER",
+      "level": 13
+    },
+    "message": "/inv #BG4WQX",
+    "timestamp": "2026-05-07T09:13:56.587Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "335553f4-5229-43ef-a1b9-27f8f1ab9b93",
+      "shortId": "RI5K9W",
+      "name": "Opium",
+      "role": "USER",
+      "level": 13
+    },
+    "message": "#QESXKGovp ?",
+    "timestamp": "2026-05-07T09:16:37.873Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "335553f4-5229-43ef-a1b9-27f8f1ab9b93",
+      "shortId": "RI5K9W",
+      "name": "Opium",
+      "role": "USER",
+      "level": 13
+    },
+    "message": "Kk",
+    "timestamp": "2026-05-07T09:16:51.587Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "335553f4-5229-43ef-a1b9-27f8f1ab9b93",
+      "shortId": "RI5K9W",
+      "name": "Opium",
+      "role": "USER",
+      "level": 13
+    },
+    "message": "150",
+    "timestamp": "2026-05-07T09:17:00.003Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "335553f4-5229-43ef-a1b9-27f8f1ab9b93",
+      "shortId": "RI5K9W",
+      "name": "Opium",
+      "role": "USER",
+      "level": 13
+    },
+    "message": "/inv",
+    "timestamp": "2026-05-07T09:17:34.294Z"
   }
 ]
