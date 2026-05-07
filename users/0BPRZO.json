@@ -1054,5 +1054,29 @@
     },
     "message": ":(",
     "timestamp": "2026-05-05T05:50:14.847Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "aC4eJ9XToJg3hfiixxui6Cv8ymy2",
+      "shortId": "0BPRZO",
+      "name": "Abyss",
+      "role": "USER",
+      "level": 48
+    },
+    "message": "#HUB956 yo",
+    "timestamp": "2026-05-07T03:53:34.827Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "aC4eJ9XToJg3hfiixxui6Cv8ymy2",
+      "shortId": "0BPRZO",
+      "name": "Abyss",
+      "role": "USER",
+      "level": 48
+    },
+    "message": "you want [Capricorn|Tomahawk|WEAPON_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-07T03:53:48.555Z"
   }
 ]
