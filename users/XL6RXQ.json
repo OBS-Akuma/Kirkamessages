@@ -1,0 +1,38 @@
+[
+  {
+    "type": 2,
+    "user": {
+      "id": "e4ae84c5-08eb-4890-ac3f-4bfada1b9304",
+      "shortId": "XL6RXQ",
+      "name": "Rose",
+      "role": "USER",
+      "level": 69
+    },
+    "message": "[sauras]",
+    "timestamp": "2026-05-07T21:18:09.904Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "e4ae84c5-08eb-4890-ac3f-4bfada1b9304",
+      "shortId": "XL6RXQ",
+      "name": "Rose",
+      "role": "USER",
+      "level": 69
+    },
+    "message": "[saures]",
+    "timestamp": "2026-05-07T21:18:21.311Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "e4ae84c5-08eb-4890-ac3f-4bfada1b9304",
+      "shortId": "XL6RXQ",
+      "name": "Rose",
+      "role": "USER",
+      "level": 69
+    },
+    "message": "Thx",
+    "timestamp": "2026-05-07T21:18:29.346Z"
+  }
+]
