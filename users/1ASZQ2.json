@@ -1,0 +1,26 @@
+[
+  {
+    "type": 2,
+    "user": {
+      "id": "15e1df1a-fea1-4cae-aa2e-c5099b386595",
+      "shortId": "1ASZQ2",
+      "name": "MEMEBOI69420",
+      "role": "USER",
+      "level": 24
+    },
+    "message": "anyone here speaks spanish?",
+    "timestamp": "2026-05-07T21:02:24.839Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "15e1df1a-fea1-4cae-aa2e-c5099b386595",
+      "shortId": "1ASZQ2",
+      "name": "MEMEBOI69420",
+      "role": "USER",
+      "level": 24
+    },
+    "message": "habla espanol?",
+    "timestamp": "2026-05-07T21:02:35.192Z"
+  }
+]
