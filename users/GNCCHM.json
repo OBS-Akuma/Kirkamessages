@@ -10,5 +10,17 @@
     },
     "message": "/inv",
     "timestamp": "2026-05-03T03:15:16.379Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "6b91b714-19c2-496f-adf9-3f65bca47839",
+      "shortId": "GNCCHM",
+      "name": "AURACAOBANG",
+      "role": "USER",
+      "level": 98
+    },
+    "message": "guys [Maid||BODY_SKIN|MYTHICAL] or [Queen||BODY_SKIN|MYTHICAL] whichone better",
+    "timestamp": "2026-05-07T05:11:08.176Z"
   }
 ]
