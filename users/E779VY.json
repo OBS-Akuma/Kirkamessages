@@ -1894,5 +1894,17 @@
     },
     "message": "accepted wrong trade",
     "timestamp": "2026-05-07T05:05:21.646Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "60798d39-3ac8-448b-9c8c-1774c9a33347",
+      "shortId": "E779VY",
+      "name": "sensehasego",
+      "role": "USER",
+      "level": 82
+    },
+    "message": "yo vqluable",
+    "timestamp": "2026-05-07T18:06:53.853Z"
   }
 ]
