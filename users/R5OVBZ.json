@@ -418,5 +418,113 @@
     },
     "message": "trading [Gardener|Bayonet|WEAPON_SKIN|MYTHICAL]",
     "timestamp": "2026-05-07T08:14:24.650Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "3823c788-8970-4e00-ae41-b7667620cb07",
+      "shortId": "R5OVBZ",
+      "name": "SeductiveSnake",
+      "role": "USER",
+      "level": 28
+    },
+    "message": "#DUHAST you here ?",
+    "timestamp": "2026-05-07T08:21:27.167Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "3823c788-8970-4e00-ae41-b7667620cb07",
+      "shortId": "R5OVBZ",
+      "name": "SeductiveSnake",
+      "role": "USER",
+      "level": 28
+    },
+    "message": "#DUHAST i want chromium can i add goldens",
+    "timestamp": "2026-05-07T08:21:52.653Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "3823c788-8970-4e00-ae41-b7667620cb07",
+      "shortId": "R5OVBZ",
+      "name": "SeductiveSnake",
+      "role": "USER",
+      "level": 28
+    },
+    "message": "#KW0S3H hm is gardener ??",
+    "timestamp": "2026-05-07T08:22:50.180Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "3823c788-8970-4e00-ae41-b7667620cb07",
+      "shortId": "R5OVBZ",
+      "name": "SeductiveSnake",
+      "role": "USER",
+      "level": 28
+    },
+    "message": "appke father you got chromium ??",
+    "timestamp": "2026-05-07T08:23:42.915Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "3823c788-8970-4e00-ae41-b7667620cb07",
+      "shortId": "R5OVBZ",
+      "name": "SeductiveSnake",
+      "role": "USER",
+      "level": 28
+    },
+    "message": "lf [Chromium|Bayonet|WEAPON_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-07T08:24:20.199Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "3823c788-8970-4e00-ae41-b7667620cb07",
+      "shortId": "R5OVBZ",
+      "name": "SeductiveSnake",
+      "role": "USER",
+      "level": 28
+    },
+    "message": "/last 10 [Gardener|Bayonet|WEAPON_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-07T08:25:09.642Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "3823c788-8970-4e00-ae41-b7667620cb07",
+      "shortId": "R5OVBZ",
+      "name": "SeductiveSnake",
+      "role": "USER",
+      "level": 28
+    },
+    "message": "/last10 [Gardener|Bayonet|WEAPON_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-07T08:25:22.553Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "3823c788-8970-4e00-ae41-b7667620cb07",
+      "shortId": "R5OVBZ",
+      "name": "SeductiveSnake",
+      "role": "USER",
+      "level": 28
+    },
+    "message": "lf [Lor||BODY_SKIN|LEGENDARY]",
+    "timestamp": "2026-05-07T08:30:53.527Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "3823c788-8970-4e00-ae41-b7667620cb07",
+      "shortId": "R5OVBZ",
+      "name": "SeductiveSnake",
+      "role": "USER",
+      "level": 28
+    },
+    "message": "caramel you reading ???",
+    "timestamp": "2026-05-07T08:48:49.420Z"
   }
 ]
