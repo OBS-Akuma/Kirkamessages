@@ -1,0 +1,26 @@
+[
+  {
+    "type": 2,
+    "user": {
+      "id": "19c3a3f2-fd02-4dd6-94c3-bb8e483ae88a",
+      "shortId": "BLM0XB",
+      "name": "Pointslayer",
+      "role": "USER",
+      "level": 74
+    },
+    "message": "pepe",
+    "timestamp": "2026-05-07T19:31:39.743Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "19c3a3f2-fd02-4dd6-94c3-bb8e483ae88a",
+      "shortId": "BLM0XB",
+      "name": "Pointslayer",
+      "role": "USER",
+      "level": 74
+    },
+    "message": "hi",
+    "timestamp": "2026-05-07T19:31:54.553Z"
+  }
+]
