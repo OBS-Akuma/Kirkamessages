@@ -1726,5 +1726,65 @@
     },
     "message": "no",
     "timestamp": "2026-05-07T06:52:44.684Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "2r1UJOfesmQUx0DJGR3osZYWZTY2",
+      "shortId": "WX7ZW3",
+      "name": "Saint.",
+      "role": "USER",
+      "level": 98
+    },
+    "message": "/locate [Tiburon|Bayonet|WEAPON_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-07T07:55:14.523Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "2r1UJOfesmQUx0DJGR3osZYWZTY2",
+      "shortId": "WX7ZW3",
+      "name": "Saint.",
+      "role": "USER",
+      "level": 98
+    },
+    "message": "4 ??",
+    "timestamp": "2026-05-07T07:55:20.186Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "2r1UJOfesmQUx0DJGR3osZYWZTY2",
+      "shortId": "WX7ZW3",
+      "name": "Saint.",
+      "role": "USER",
+      "level": 98
+    },
+    "message": "bruh",
+    "timestamp": "2026-05-07T07:55:22.201Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "2r1UJOfesmQUx0DJGR3osZYWZTY2",
+      "shortId": "WX7ZW3",
+      "name": "Saint.",
+      "role": "USER",
+      "level": 98
+    },
+    "message": "floriz u also scammed my friend",
+    "timestamp": "2026-05-07T07:56:32.541Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "2r1UJOfesmQUx0DJGR3osZYWZTY2",
+      "shortId": "WX7ZW3",
+      "name": "Saint.",
+      "role": "USER",
+      "level": 98
+    },
+    "message": "u lost the 1v1 wager and dipped",
+    "timestamp": "2026-05-07T07:56:42.601Z"
   }
 ]
