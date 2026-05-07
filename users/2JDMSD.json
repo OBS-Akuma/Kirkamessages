@@ -130,5 +130,89 @@
     },
     "message": "/last10 [Ghoul||BODY_SKIN|MYTHICAL]",
     "timestamp": "2026-05-07T04:17:52.227Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "1385b47a-bc43-4879-a1c4-7baf533b7bcc",
+      "shortId": "2JDMSD",
+      "name": "[\\/]Ike",
+      "role": "USER",
+      "level": 47
+    },
+    "message": "/wager [Ghoul||BODY_SKIN|MYTHICAL] #HUB956",
+    "timestamp": "2026-05-07T04:20:31.965Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "1385b47a-bc43-4879-a1c4-7baf533b7bcc",
+      "shortId": "2JDMSD",
+      "name": "[\\/]Ike",
+      "role": "USER",
+      "level": 47
+    },
+    "message": "/cancelwager",
+    "timestamp": "2026-05-07T04:21:01.883Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "1385b47a-bc43-4879-a1c4-7baf533b7bcc",
+      "shortId": "2JDMSD",
+      "name": "[\\/]Ike",
+      "role": "USER",
+      "level": 47
+    },
+    "message": "/wager [Ghoul||BODY_SKIN|MYTHICAL] #E779VY",
+    "timestamp": "2026-05-07T04:21:30.209Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "1385b47a-bc43-4879-a1c4-7baf533b7bcc",
+      "shortId": "2JDMSD",
+      "name": "[\\/]Ike",
+      "role": "USER",
+      "level": 47
+    },
+    "message": ".",
+    "timestamp": "2026-05-07T04:21:55.885Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "1385b47a-bc43-4879-a1c4-7baf533b7bcc",
+      "shortId": "2JDMSD",
+      "name": "[\\/]Ike",
+      "role": "USER",
+      "level": 47
+    },
+    "message": "/wager [Ghoul||BODY_SKIN|MYTHICAL] #E779VY",
+    "timestamp": "2026-05-07T04:22:09.031Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "1385b47a-bc43-4879-a1c4-7baf533b7bcc",
+      "shortId": "2JDMSD",
+      "name": "[\\/]Ike",
+      "role": "USER",
+      "level": 47
+    },
+    "message": "/confirmwager",
+    "timestamp": "2026-05-07T04:22:25.313Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "1385b47a-bc43-4879-a1c4-7baf533b7bcc",
+      "shortId": "2JDMSD",
+      "name": "[\\/]Ike",
+      "role": "USER",
+      "level": 47
+    },
+    "message": "/claim",
+    "timestamp": "2026-05-07T04:23:03.715Z"
   }
 ]
