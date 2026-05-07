@@ -1,0 +1,38 @@
+[
+  {
+    "type": 2,
+    "user": {
+      "id": "9438f3e4-06bc-4dbd-a4ab-e6b24b6f805e",
+      "shortId": "9SRIUY",
+      "name": "Chococokkie",
+      "role": "USER",
+      "level": 11
+    },
+    "message": "おはよう",
+    "timestamp": "2026-05-07T09:34:41.232Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "9438f3e4-06bc-4dbd-a4ab-e6b24b6f805e",
+      "shortId": "9SRIUY",
+      "name": "Chococokkie",
+      "role": "USER",
+      "level": 11
+    },
+    "message": "wager [Splanch|VITA|WEAPON_SKIN|MYTHICAL][Golden||CHEST|LEGENDARY]",
+    "timestamp": "2026-05-07T09:35:00.944Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "9438f3e4-06bc-4dbd-a4ab-e6b24b6f805e",
+      "shortId": "9SRIUY",
+      "name": "Chococokkie",
+      "role": "USER",
+      "level": 11
+    },
+    "message": "ああチャットバンだる",
+    "timestamp": "2026-05-07T09:35:15.656Z"
+  }
+]
