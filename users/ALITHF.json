@@ -178,5 +178,65 @@
     },
     "message": "ref u gonna offer skins for it or can i",
     "timestamp": "2026-05-07T04:09:40.885Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "b8da81fb-ba0f-4d57-9c2b-560a302212ed",
+      "shortId": "ALITHF",
+      "name": "Bigmac",
+      "role": "USER",
+      "level": 76
+    },
+    "message": "niflheim bound anarch for ambro?",
+    "timestamp": "2026-05-07T04:11:38.667Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "b8da81fb-ba0f-4d57-9c2b-560a302212ed",
+      "shortId": "ALITHF",
+      "name": "Bigmac",
+      "role": "USER",
+      "level": 76
+    },
+    "message": "i can swap anarch to forbidden",
+    "timestamp": "2026-05-07T04:12:47.474Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "b8da81fb-ba0f-4d57-9c2b-560a302212ed",
+      "shortId": "ALITHF",
+      "name": "Bigmac",
+      "role": "USER",
+      "level": 76
+    },
+    "message": "not anything worth 1m",
+    "timestamp": "2026-05-07T04:13:08.042Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "b8da81fb-ba0f-4d57-9c2b-560a302212ed",
+      "shortId": "ALITHF",
+      "name": "Bigmac",
+      "role": "USER",
+      "level": 76
+    },
+    "message": "nothing that id trade for ambro",
+    "timestamp": "2026-05-07T04:13:43.990Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "b8da81fb-ba0f-4d57-9c2b-560a302212ed",
+      "shortId": "ALITHF",
+      "name": "Bigmac",
+      "role": "USER",
+      "level": 76
+    },
+    "message": "gg",
+    "timestamp": "2026-05-07T04:14:51.420Z"
   }
 ]
