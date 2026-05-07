@@ -646,5 +646,53 @@
     },
     "message": "Ok",
     "timestamp": "2026-05-06T03:29:19.852Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "guest-54be4ece-9e2b-474f-9d38-577976065f54",
+      "shortId": "IJ6DDH",
+      "name": "EGD|Galaxy",
+      "role": "USER",
+      "level": 27
+    },
+    "message": "Tr[Ticketeer|SCAR|WEAPON_SKIN|MYTHICAL][Rub1x|MAC-10|WEAPON_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-07T02:52:03.189Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "guest-54be4ece-9e2b-474f-9d38-577976065f54",
+      "shortId": "IJ6DDH",
+      "name": "EGD|Galaxy",
+      "role": "USER",
+      "level": 27
+    },
+    "message": "#5GD3AU you left squirt",
+    "timestamp": "2026-05-07T02:56:55.114Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "guest-54be4ece-9e2b-474f-9d38-577976065f54",
+      "shortId": "IJ6DDH",
+      "name": "EGD|Galaxy",
+      "role": "USER",
+      "level": 27
+    },
+    "message": "Trading [Arawn||BODY_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-07T02:57:43.924Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "guest-54be4ece-9e2b-474f-9d38-577976065f54",
+      "shortId": "IJ6DDH",
+      "name": "EGD|Galaxy",
+      "role": "USER",
+      "level": 27
+    },
+    "message": "[Ticketeer|SCAR|WEAPON_SKIN|MYTHICAL][Arawn||BODY_SKIN|MYTHICAL][Rub1x|MAC-10|WEAPON_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-07T02:58:04.991Z"
   }
 ]
