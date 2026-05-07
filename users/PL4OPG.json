@@ -1138,5 +1138,53 @@
     },
     "message": "nah bro",
     "timestamp": "2026-05-07T05:59:08.674Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "6da59982-c088-49ca-933e-8a3fbfaa6592",
+      "shortId": "PL4OPG",
+      "name": "[VN]_NTAT_",
+      "role": "USER",
+      "level": 75
+    },
+    "message": "/wager [Golden||CHEST|LEGENDARY]x2000 #609GEM",
+    "timestamp": "2026-05-07T06:04:57.252Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "6da59982-c088-49ca-933e-8a3fbfaa6592",
+      "shortId": "PL4OPG",
+      "name": "[VN]_NTAT_",
+      "role": "USER",
+      "level": 75
+    },
+    "message": "/cancelwager",
+    "timestamp": "2026-05-07T06:05:20.935Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "6da59982-c088-49ca-933e-8a3fbfaa6592",
+      "shortId": "PL4OPG",
+      "name": "[VN]_NTAT_",
+      "role": "USER",
+      "level": 75
+    },
+    "message": "/wager [Golden||CHEST|LEGENDARY]x200",
+    "timestamp": "2026-05-07T06:05:33.100Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "6da59982-c088-49ca-933e-8a3fbfaa6592",
+      "shortId": "PL4OPG",
+      "name": "[VN]_NTAT_",
+      "role": "USER",
+      "level": 75
+    },
+    "message": "/wager [Golden||CHEST|LEGENDARY]x200 #609GEM",
+    "timestamp": "2026-05-07T06:05:42.924Z"
   }
 ]
