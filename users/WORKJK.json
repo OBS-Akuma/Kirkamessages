@@ -586,5 +586,77 @@
     },
     "message": "tr  all this is beyond my capacity, all the moons have no capacity in front of t",
     "timestamp": "2026-05-07T05:00:25.658Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "a93a6c05-0354-4898-b468-d0ac3266e380",
+      "shortId": "WORKJK",
+      "name": "Ghost",
+      "role": "USER",
+      "level": 69
+    },
+    "message": "tr [Ghillie||BODY_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-07T05:01:24.482Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "a93a6c05-0354-4898-b468-d0ac3266e380",
+      "shortId": "WORKJK",
+      "name": "Ghost",
+      "role": "USER",
+      "level": 69
+    },
+    "message": "tr [Ghillie||BODY_SKIN|MYTHICAL][Moon||BODY_SKIN|LEGENDARY][Vine||BODY_SKIN|LEGENDARY][Cinder||BODY_SKIN|MYTHICAL][Xx||BODY_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-07T05:02:29.200Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "a93a6c05-0354-4898-b468-d0ac3266e380",
+      "shortId": "WORKJK",
+      "name": "Ghost",
+      "role": "USER",
+      "level": 69
+    },
+    "message": "tr [Ghillie||BODY_SKIN|MYTHICAL][Cinder||BODY_SKIN|MYTHICAL][Xx||BODY_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-07T05:03:08.222Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "a93a6c05-0354-4898-b468-d0ac3266e380",
+      "shortId": "WORKJK",
+      "name": "Ghost",
+      "role": "USER",
+      "level": 69
+    },
+    "message": "[Shotdead|VITA|WEAPON_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-07T05:05:16.733Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "a93a6c05-0354-4898-b468-d0ac3266e380",
+      "shortId": "WORKJK",
+      "name": "Ghost",
+      "role": "USER",
+      "level": 69
+    },
+    "message": "/hm [Abstraction|VITA|WEAPON_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-07T05:05:34.342Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "a93a6c05-0354-4898-b468-d0ac3266e380",
+      "shortId": "WORKJK",
+      "name": "Ghost",
+      "role": "USER",
+      "level": 69
+    },
+    "message": "/hm shotdead",
+    "timestamp": "2026-05-07T05:05:42.787Z"
   }
 ]
