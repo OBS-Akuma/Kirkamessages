@@ -58,5 +58,29 @@
     },
     "message": "Tr[Pandora||BODY_SKIN|MYTHICAL]",
     "timestamp": "2026-05-07T07:52:25.340Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "0708a7de-a611-4ff0-a687-c5d4255075f7",
+      "shortId": "TXJL06",
+      "name": "[JP]shine",
+      "role": "USER",
+      "level": 97
+    },
+    "message": "ty",
+    "timestamp": "2026-05-07T09:08:44.462Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "0708a7de-a611-4ff0-a687-c5d4255075f7",
+      "shortId": "TXJL06",
+      "name": "[JP]shine",
+      "role": "USER",
+      "level": 97
+    },
+    "message": "/inv",
+    "timestamp": "2026-05-07T09:11:40.795Z"
   }
 ]
