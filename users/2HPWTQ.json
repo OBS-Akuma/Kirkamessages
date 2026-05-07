@@ -2396,7 +2396,7 @@
       "role": "USER",
       "level": 68
     },
-    "message": "Hisoka hablas espaÃÂÃÂ±ol?",
+    "message": "Hisoka hablas espaÃÂÃÂÃÂÃÂ±ol?",
     "timestamp": "2026-05-07T20:54:44.325Z"
   },
   {
@@ -2674,5 +2674,77 @@
     },
     "message": "apoco si cmo dice User",
     "timestamp": "2026-05-07T21:12:50.570Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "fcb2da3e-5617-4afa-9769-d677b7479782",
+      "shortId": "2HPWTQ",
+      "name": "G4B.",
+      "role": "USER",
+      "level": 68
+    },
+    "message": "ajajajaj",
+    "timestamp": "2026-05-07T21:13:04.636Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "fcb2da3e-5617-4afa-9769-d677b7479782",
+      "shortId": "2HPWTQ",
+      "name": "G4B.",
+      "role": "USER",
+      "level": 68
+    },
+    "message": ": (",
+    "timestamp": "2026-05-07T21:13:13.080Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "fcb2da3e-5617-4afa-9769-d677b7479782",
+      "shortId": "2HPWTQ",
+      "name": "G4B.",
+      "role": "USER",
+      "level": 68
+    },
+    "message": "no hac falta flexear [Sinister||BODY_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-07T21:13:19.169Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "fcb2da3e-5617-4afa-9769-d677b7479782",
+      "shortId": "2HPWTQ",
+      "name": "G4B.",
+      "role": "USER",
+      "level": 68
+    },
+    "message": "D :",
+    "timestamp": "2026-05-07T21:13:25.921Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "fcb2da3e-5617-4afa-9769-d677b7479782",
+      "shortId": "2HPWTQ",
+      "name": "G4B.",
+      "role": "USER",
+      "level": 68
+    },
+    "message": ": (",
+    "timestamp": "2026-05-07T21:13:46.613Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "fcb2da3e-5617-4afa-9769-d677b7479782",
+      "shortId": "2HPWTQ",
+      "name": "G4B.",
+      "role": "USER",
+      "level": 68
+    },
+    "message": "soy pobre",
+    "timestamp": "2026-05-07T21:13:51.254Z"
   }
 ]
