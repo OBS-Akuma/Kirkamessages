@@ -502,5 +502,29 @@
     },
     "message": "tr [Hazmat||BODY_SKIN|PARANORMAL] [Slasher||BODY_SKIN|PARANORMAL] [Hallowkod||BODY_SKIN|MYTHICAL] [Oblivion|SCAR|WEAPON_SKIN|MYTHICAL] [Onryo||BODY_SKIN|MYTHICAL] [Mabel||BODY_SKIN|MYTHICAL]",
     "timestamp": "2026-05-07T09:07:12.054Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "b5b856b7-c455-4d13-9c58-9eb824d4550f",
+      "shortId": "HBR602",
+      "name": "glimmer",
+      "role": "USER",
+      "level": 85
+    },
+    "message": "tr [Slasher||BODY_SKIN|PARANORMAL] [Hazmat||BODY_SKIN|PARANORMAL] [Mabel||BODY_SKIN|MYTHICAL] [Onryo||BODY_SKIN|MYTHICAL] [Target|Revolver|WEAPON_SKIN|MYTHICAL] [Halloween||CHEST|MYTHICAL]x3 [Hallowkod||BODY_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-07T09:15:25.372Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "b5b856b7-c455-4d13-9c58-9eb824d4550f",
+      "shortId": "HBR602",
+      "name": "glimmer",
+      "role": "USER",
+      "level": 85
+    },
+    "message": "[Onryo||BODY_SKIN|MYTHICAL] for [Rainy||BODY_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-07T09:16:24.894Z"
   }
 ]
