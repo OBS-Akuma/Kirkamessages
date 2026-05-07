@@ -646,5 +646,281 @@
     },
     "message": "/vt 64889",
     "timestamp": "2026-05-07T04:20:01.764Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "baf58a91-5cb0-4253-b7b1-7ea43c395844",
+      "shortId": "6XXJ99",
+      "name": "Zenix",
+      "role": "USER",
+      "level": 81
+    },
+    "message": "/inv",
+    "timestamp": "2026-05-07T05:36:44.961Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "baf58a91-5cb0-4253-b7b1-7ea43c395844",
+      "shortId": "6XXJ99",
+      "name": "Zenix",
+      "role": "USER",
+      "level": 81
+    },
+    "message": "/mywager",
+    "timestamp": "2026-05-07T05:36:51.200Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "baf58a91-5cb0-4253-b7b1-7ea43c395844",
+      "shortId": "6XXJ99",
+      "name": "Zenix",
+      "role": "USER",
+      "level": 81
+    },
+    "message": "who wanna wager",
+    "timestamp": "2026-05-07T05:36:55.577Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "baf58a91-5cb0-4253-b7b1-7ea43c395844",
+      "shortId": "6XXJ99",
+      "name": "Zenix",
+      "role": "USER",
+      "level": 81
+    },
+    "message": "/wager [Golden||CHEST|LEGENDARY]x100 #ICQBF4",
+    "timestamp": "2026-05-07T05:37:33.367Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "baf58a91-5cb0-4253-b7b1-7ea43c395844",
+      "shortId": "6XXJ99",
+      "name": "Zenix",
+      "role": "USER",
+      "level": 81
+    },
+    "message": "/cancelwager",
+    "timestamp": "2026-05-07T05:37:49.760Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "baf58a91-5cb0-4253-b7b1-7ea43c395844",
+      "shortId": "6XXJ99",
+      "name": "Zenix",
+      "role": "USER",
+      "level": 81
+    },
+    "message": "/wager [Golden||CHEST|LEGENDARY]x100 #CG0G1I",
+    "timestamp": "2026-05-07T05:38:02.068Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "baf58a91-5cb0-4253-b7b1-7ea43c395844",
+      "shortId": "6XXJ99",
+      "name": "Zenix",
+      "role": "USER",
+      "level": 81
+    },
+    "message": "/cancelwager",
+    "timestamp": "2026-05-07T05:38:19.886Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "baf58a91-5cb0-4253-b7b1-7ea43c395844",
+      "shortId": "6XXJ99",
+      "name": "Zenix",
+      "role": "USER",
+      "level": 81
+    },
+    "message": "/wager [Golden||CHEST|LEGENDARY]x100 #000000",
+    "timestamp": "2026-05-07T05:38:30.735Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "baf58a91-5cb0-4253-b7b1-7ea43c395844",
+      "shortId": "6XXJ99",
+      "name": "Zenix",
+      "role": "USER",
+      "level": 81
+    },
+    "message": "7X",
+    "timestamp": "2026-05-07T05:38:42.768Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "baf58a91-5cb0-4253-b7b1-7ea43c395844",
+      "shortId": "6XXJ99",
+      "name": "Zenix",
+      "role": "USER",
+      "level": 81
+    },
+    "message": "TRADING [Vintage|VITA|WEAPON_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-07T05:38:54.599Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "baf58a91-5cb0-4253-b7b1-7ea43c395844",
+      "shortId": "6XXJ99",
+      "name": "Zenix",
+      "role": "USER",
+      "level": 81
+    },
+    "message": "yeah",
+    "timestamp": "2026-05-07T05:39:01.664Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "baf58a91-5cb0-4253-b7b1-7ea43c395844",
+      "shortId": "6XXJ99",
+      "name": "Zenix",
+      "role": "USER",
+      "level": 81
+    },
+    "message": "nty",
+    "timestamp": "2026-05-07T05:39:04.000Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "baf58a91-5cb0-4253-b7b1-7ea43c395844",
+      "shortId": "6XXJ99",
+      "name": "Zenix",
+      "role": "USER",
+      "level": 81
+    },
+    "message": "I want [Tiburon|Bayonet|WEAPON_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-07T05:39:13.338Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "baf58a91-5cb0-4253-b7b1-7ea43c395844",
+      "shortId": "6XXJ99",
+      "name": "Zenix",
+      "role": "USER",
+      "level": 81
+    },
+    "message": "/cancelwager",
+    "timestamp": "2026-05-07T05:40:04.945Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "baf58a91-5cb0-4253-b7b1-7ea43c395844",
+      "shortId": "6XXJ99",
+      "name": "Zenix",
+      "role": "USER",
+      "level": 81
+    },
+    "message": "/locate forbidden",
+    "timestamp": "2026-05-07T05:50:42.634Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "baf58a91-5cb0-4253-b7b1-7ea43c395844",
+      "shortId": "6XXJ99",
+      "name": "Zenix",
+      "role": "USER",
+      "level": 81
+    },
+    "message": "/inv #KFTANI",
+    "timestamp": "2026-05-07T05:51:02.791Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "baf58a91-5cb0-4253-b7b1-7ea43c395844",
+      "shortId": "6XXJ99",
+      "name": "Zenix",
+      "role": "USER",
+      "level": 81
+    },
+    "message": "/hm forbidden",
+    "timestamp": "2026-05-07T05:51:13.435Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "baf58a91-5cb0-4253-b7b1-7ea43c395844",
+      "shortId": "6XXJ99",
+      "name": "Zenix",
+      "role": "USER",
+      "level": 81
+    },
+    "message": "/inv",
+    "timestamp": "2026-05-07T05:51:22.244Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "baf58a91-5cb0-4253-b7b1-7ea43c395844",
+      "shortId": "6XXJ99",
+      "name": "Zenix",
+      "role": "USER",
+      "level": 81
+    },
+    "message": "Who wanna wager",
+    "timestamp": "2026-05-07T05:52:04.106Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "baf58a91-5cb0-4253-b7b1-7ea43c395844",
+      "shortId": "6XXJ99",
+      "name": "Zenix",
+      "role": "USER",
+      "level": 81
+    },
+    "message": "/wager [Golden||CHEST|LEGENDARY]x100 #PL4OPG",
+    "timestamp": "2026-05-07T05:52:35.590Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "baf58a91-5cb0-4253-b7b1-7ea43c395844",
+      "shortId": "6XXJ99",
+      "name": "Zenix",
+      "role": "USER",
+      "level": 81
+    },
+    "message": "Yo Blaze",
+    "timestamp": "2026-05-07T05:52:43.958Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "baf58a91-5cb0-4253-b7b1-7ea43c395844",
+      "shortId": "6XXJ99",
+      "name": "Zenix",
+      "role": "USER",
+      "level": 81
+    },
+    "message": "wsp",
+    "timestamp": "2026-05-07T05:52:52.933Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "baf58a91-5cb0-4253-b7b1-7ea43c395844",
+      "shortId": "6XXJ99",
+      "name": "Zenix",
+      "role": "USER",
+      "level": 81
+    },
+    "message": "/cancelwager",
+    "timestamp": "2026-05-07T05:52:59.805Z"
   }
 ]
