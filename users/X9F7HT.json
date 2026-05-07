@@ -1,0 +1,26 @@
+[
+  {
+    "type": 2,
+    "user": {
+      "id": "7c62997f-d576-4060-a9de-97c845379c88",
+      "shortId": "X9F7HT",
+      "name": "vineq",
+      "role": "USER",
+      "level": 97
+    },
+    "message": "renz",
+    "timestamp": "2026-05-07T06:11:39.835Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "7c62997f-d576-4060-a9de-97c845379c88",
+      "shortId": "X9F7HT",
+      "name": "vineq",
+      "role": "USER",
+      "level": 97
+    },
+    "message": "RENZ",
+    "timestamp": "2026-05-07T06:11:42.737Z"
+  }
+]
