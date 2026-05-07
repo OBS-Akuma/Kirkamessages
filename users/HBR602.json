@@ -226,5 +226,41 @@
     },
     "message": "[tecette]",
     "timestamp": "2026-05-07T07:46:16.158Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "b5b856b7-c455-4d13-9c58-9eb824d4550f",
+      "shortId": "HBR602",
+      "name": "glimmer",
+      "role": "USER",
+      "level": 85
+    },
+    "message": "wait  phenom",
+    "timestamp": "2026-05-07T08:01:42.226Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "b5b856b7-c455-4d13-9c58-9eb824d4550f",
+      "shortId": "HBR602",
+      "name": "glimmer",
+      "role": "USER",
+      "level": 85
+    },
+    "message": "how did you get scammed",
+    "timestamp": "2026-05-07T08:01:46.802Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "b5b856b7-c455-4d13-9c58-9eb824d4550f",
+      "shortId": "HBR602",
+      "name": "glimmer",
+      "role": "USER",
+      "level": 85
+    },
+    "message": "wdym what happend",
+    "timestamp": "2026-05-07T08:02:04.869Z"
   }
 ]
