@@ -140,7 +140,7 @@
       "role": "USER",
       "level": 28
     },
-    "message": "ÃÂÃ¡Â»Âi ÃÂÃÂºng ko",
+    "message": "ÃÂÃÂÃÂ¡ÃÂ»ÃÂi ÃÂÃÂÃÂÃÂºng ko",
     "timestamp": "2026-05-07T08:11:11.675Z"
   },
   {
@@ -152,7 +152,7 @@
       "role": "USER",
       "level": 28
     },
-    "message": "chuÃ¡ÂºÂ©n bÃ¡Â»Â nha",
+    "message": "chuÃÂ¡ÃÂºÃÂ©n bÃÂ¡ÃÂ»ÃÂ nha",
     "timestamp": "2026-05-07T08:11:17.734Z"
   },
   {
@@ -164,7 +164,7 @@
       "role": "USER",
       "level": 28
     },
-    "message": "r ÃÂÃÂ³",
+    "message": "r ÃÂÃÂÃÂÃÂ³",
     "timestamp": "2026-05-07T08:11:42.725Z"
   },
   {
@@ -176,7 +176,7 @@
       "role": "USER",
       "level": 28
     },
-    "message": "ÃÂc chÃÂ°a",
+    "message": "ÃÂÃÂc chÃÂÃÂ°a",
     "timestamp": "2026-05-07T08:12:08.186Z"
   },
   {
@@ -200,7 +200,7 @@
       "role": "USER",
       "level": 28
     },
-    "message": "nè m",
+    "message": "nÃ¨ m",
     "timestamp": "2026-05-07T08:27:08.742Z"
   },
   {
@@ -274,5 +274,17 @@
     },
     "message": "how much [Oblivion|SCAR|WEAPON_SKIN|MYTHICAL] g4b",
     "timestamp": "2026-05-07T08:54:55.610Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "7uQjmsMLoIh83pf6nDPh87oc87B2",
+      "shortId": "CFD619",
+      "name": "DragonMeowVN!",
+      "role": "USER",
+      "level": 28
+    },
+    "message": "pls",
+    "timestamp": "2026-05-07T08:56:03.208Z"
   }
 ]
