@@ -1589,5 +1589,53 @@
     },
     "message": "#F6XWN1 are you wagering anything?",
     "timestamp": "2026-05-07T05:05:30.245Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "8f9423c1-73b5-46a4-969f-68ed04e8f0e8",
+      "shortId": "000000",
+      "name": "Daddy",
+      "role": "USER",
+      "level": 100
+    },
+    "message": "/cancelwager",
+    "timestamp": "2026-05-07T05:20:18.700Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "8f9423c1-73b5-46a4-969f-68ed04e8f0e8",
+      "shortId": "000000",
+      "name": "Daddy",
+      "role": "USER",
+      "level": 100
+    },
+    "message": "/wager [Saint Patrick|Shark|WEAPON_SKIN|LEGENDARY] #CG0G1I",
+    "timestamp": "2026-05-07T05:20:27.301Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "8f9423c1-73b5-46a4-969f-68ed04e8f0e8",
+      "shortId": "000000",
+      "name": "Daddy",
+      "role": "USER",
+      "level": 100
+    },
+    "message": "/enter",
+    "timestamp": "2026-05-07T05:24:15.352Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "8f9423c1-73b5-46a4-969f-68ed04e8f0e8",
+      "shortId": "000000",
+      "name": "Daddy",
+      "role": "USER",
+      "level": 100
+    },
+    "message": "?",
+    "timestamp": "2026-05-07T05:24:28.360Z"
   }
 ]
