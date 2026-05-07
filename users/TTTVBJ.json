@@ -1198,5 +1198,29 @@
     },
     "message": "tr [Lor||BODY_SKIN|LEGENDARY][Imperial|SCAR|WEAPON_SKIN|MYTHICAL][Astral|AR-9|WEAPON_SKIN|MYTHICAL][Bay|Shark|WEAPON_SKIN|LEGENDARY][Beach|Bayonet|WEAPON_SKIN|LEGENDARY][Tide|SCAR|WEAPON_SKIN|LEGENDARY][Sunset|VITA|WEAPON_SKIN|LEGENDARY][Gold Coins|Bayonet|WEAPON_SKIN|LEGENDARY][Sunshine||BODY_SKIN|MYTHICAL]",
     "timestamp": "2026-05-03T04:09:03.909Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "57c35b3e-2b0c-4971-b1b3-c6e3271ece0d",
+      "shortId": "TTTVBJ",
+      "name": "YipHerng",
+      "role": "USER",
+      "level": 76
+    },
+    "message": "/wager [Scorcher|Shark|WEAPON_SKIN|MYTHICAL] #Q9KTVO",
+    "timestamp": "2026-05-07T03:44:01.591Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "57c35b3e-2b0c-4971-b1b3-c6e3271ece0d",
+      "shortId": "TTTVBJ",
+      "name": "YipHerng",
+      "role": "USER",
+      "level": 76
+    },
+    "message": "Ggz",
+    "timestamp": "2026-05-07T03:44:57.587Z"
   }
 ]
