@@ -154,5 +154,41 @@
     },
     "message": "ranked nn mn",
     "timestamp": "2026-05-07T18:08:56.368Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "aff12ba2-95c0-4420-b396-aa096ad81dc3",
+      "shortId": "GYMRDI",
+      "name": "fodepaty",
+      "role": "USER",
+      "level": 56
+    },
+    "message": "rpzd",
+    "timestamp": "2026-05-07T18:09:58.054Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "aff12ba2-95c0-4420-b396-aa096ad81dc3",
+      "shortId": "GYMRDI",
+      "name": "fodepaty",
+      "role": "USER",
+      "level": 56
+    },
+    "message": "vou dar um pião",
+    "timestamp": "2026-05-07T18:10:02.466Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "aff12ba2-95c0-4420-b396-aa096ad81dc3",
+      "shortId": "GYMRDI",
+      "name": "fodepaty",
+      "role": "USER",
+      "level": 56
+    },
+    "message": "vou ter q sair",
+    "timestamp": "2026-05-07T18:10:05.176Z"
   }
 ]
