@@ -1714,5 +1714,89 @@
     },
     "message": "lor add",
     "timestamp": "2026-05-07T04:20:03.371Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "60798d39-3ac8-448b-9c8c-1774c9a33347",
+      "shortId": "E779VY",
+      "name": "sensehasego",
+      "role": "USER",
+      "level": 82
+    },
+    "message": "alr",
+    "timestamp": "2026-05-07T04:20:30.880Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "60798d39-3ac8-448b-9c8c-1774c9a33347",
+      "shortId": "E779VY",
+      "name": "sensehasego",
+      "role": "USER",
+      "level": 82
+    },
+    "message": "noo",
+    "timestamp": "2026-05-07T04:20:52.875Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "60798d39-3ac8-448b-9c8c-1774c9a33347",
+      "shortId": "E779VY",
+      "name": "sensehasego",
+      "role": "USER",
+      "level": 82
+    },
+    "message": "/cancelwager",
+    "timestamp": "2026-05-07T04:21:37.300Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "60798d39-3ac8-448b-9c8c-1774c9a33347",
+      "shortId": "E779VY",
+      "name": "sensehasego",
+      "role": "USER",
+      "level": 82
+    },
+    "message": "sure why not",
+    "timestamp": "2026-05-07T04:21:45.375Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "60798d39-3ac8-448b-9c8c-1774c9a33347",
+      "shortId": "E779VY",
+      "name": "sensehasego",
+      "role": "USER",
+      "level": 82
+    },
+    "message": "/wager [Ghoul||BODY_SKIN|MYTHICAL] #2JDMSD",
+    "timestamp": "2026-05-07T04:21:51.541Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "60798d39-3ac8-448b-9c8c-1774c9a33347",
+      "shortId": "E779VY",
+      "name": "sensehasego",
+      "role": "USER",
+      "level": 82
+    },
+    "message": "do confirmwager",
+    "timestamp": "2026-05-07T04:22:16.410Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "60798d39-3ac8-448b-9c8c-1774c9a33347",
+      "shortId": "E779VY",
+      "name": "sensehasego",
+      "role": "USER",
+      "level": 82
+    },
+    "message": "ah well",
+    "timestamp": "2026-05-07T04:23:01.135Z"
   }
 ]
