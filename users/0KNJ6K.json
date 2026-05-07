@@ -70,5 +70,41 @@
     },
     "message": "TR [FORBIDDEN AND [ALL SPARK",
     "timestamp": "2026-05-04T07:51:13.152Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "665f1a4c-31dc-42b2-9866-5c5b9e918c1f",
+      "shortId": "0KNJ6K",
+      "name": "Sloth",
+      "role": "USER",
+      "level": 80
+    },
+    "message": "curruption",
+    "timestamp": "2026-05-07T05:49:31.939Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "665f1a4c-31dc-42b2-9866-5c5b9e918c1f",
+      "shortId": "0KNJ6K",
+      "name": "Sloth",
+      "role": "USER",
+      "level": 80
+    },
+    "message": "/hm void shark",
+    "timestamp": "2026-05-07T05:49:56.705Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "665f1a4c-31dc-42b2-9866-5c5b9e918c1f",
+      "shortId": "0KNJ6K",
+      "name": "Sloth",
+      "role": "USER",
+      "level": 80
+    },
+    "message": "/giveaway [All Spark|Revolver|WEAPON_SKIN|MYTHICAL]x1",
+    "timestamp": "2026-05-07T05:51:36.625Z"
   }
 ]
