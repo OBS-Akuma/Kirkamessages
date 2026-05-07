@@ -144,5 +144,29 @@
     },
     "message": "[Gardener|Bayonet|WEAPON_SKIN|MYTHICAL]",
     "timestamp": "2026-05-07T08:03:23.395Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "b3e46a65-3682-40c5-8a7b-b4af725fa333",
+      "shortId": "DUHAST",
+      "name": "Rammstein",
+      "role": "USER",
+      "level": 79
+    },
+    "message": "gg",
+    "timestamp": "2026-05-07T08:08:48.740Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "b3e46a65-3682-40c5-8a7b-b4af725fa333",
+      "shortId": "DUHAST",
+      "name": "Rammstein",
+      "role": "USER",
+      "level": 79
+    },
+    "message": "/Locate [Gardener|Bayonet|WEAPON_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-07T08:10:12.034Z"
   }
 ]
