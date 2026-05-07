@@ -658,5 +658,53 @@
     },
     "message": "/hm shotdead",
     "timestamp": "2026-05-07T05:05:42.787Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "a93a6c05-0354-4898-b468-d0ac3266e380",
+      "shortId": "WORKJK",
+      "name": "Ghost",
+      "role": "USER",
+      "level": 69
+    },
+    "message": "[Lashes|Bayonet|WEAPON_SKIN|LEGENDARY]",
+    "timestamp": "2026-05-07T05:06:17.464Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "a93a6c05-0354-4898-b468-d0ac3266e380",
+      "shortId": "WORKJK",
+      "name": "Ghost",
+      "role": "USER",
+      "level": 69
+    },
+    "message": "[Veiled||BODY_SKIN|LEGENDARY]",
+    "timestamp": "2026-05-07T05:06:54.223Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "a93a6c05-0354-4898-b468-d0ac3266e380",
+      "shortId": "WORKJK",
+      "name": "Ghost",
+      "role": "USER",
+      "level": 69
+    },
+    "message": "/hm veiled",
+    "timestamp": "2026-05-07T05:07:02.834Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "a93a6c05-0354-4898-b468-d0ac3266e380",
+      "shortId": "WORKJK",
+      "name": "Ghost",
+      "role": "USER",
+      "level": 69
+    },
+    "message": "tr [Ghillie||BODY_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-07T05:08:22.926Z"
   }
 ]
