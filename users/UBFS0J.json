@@ -1,0 +1,38 @@
+[
+  {
+    "type": 2,
+    "user": {
+      "id": "tZqaY2aTNyXUd5YaYOtrSsxKZY63",
+      "shortId": "UBFS0J",
+      "name": "HACKER",
+      "role": "USER",
+      "level": 98
+    },
+    "message": "اسلام",
+    "timestamp": "2026-05-07T19:19:31.647Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "tZqaY2aTNyXUd5YaYOtrSsxKZY63",
+      "shortId": "UBFS0J",
+      "name": "HACKER",
+      "role": "USER",
+      "level": 98
+    },
+    "message": "تلعب",
+    "timestamp": "2026-05-07T19:19:45.785Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "tZqaY2aTNyXUd5YaYOtrSsxKZY63",
+      "shortId": "UBFS0J",
+      "name": "HACKER",
+      "role": "USER",
+      "level": 98
+    },
+    "message": "اكي",
+    "timestamp": "2026-05-07T19:19:59.165Z"
+  }
+]
