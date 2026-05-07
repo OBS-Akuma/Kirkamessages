@@ -10,5 +10,29 @@
     },
     "message": "im looking for the items in my trade, nothing else",
     "timestamp": "2026-05-02T19:18:23.682Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "44000ee7-74ef-402c-8347-94038f162411",
+      "shortId": "99KI3O",
+      "name": "ramen",
+      "role": "VERIFIED",
+      "level": 100
+    },
+    "message": "/inv",
+    "timestamp": "2026-05-07T19:15:43.810Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "44000ee7-74ef-402c-8347-94038f162411",
+      "shortId": "99KI3O",
+      "name": "ramen",
+      "role": "VERIFIED",
+      "level": 100
+    },
+    "message": "/locate [Catcat||BODY_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-07T19:19:41.329Z"
   }
 ]
