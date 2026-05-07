@@ -128,7 +128,7 @@
       "role": "USER",
       "level": 63
     },
-    "message": "فينوم",
+    "message": "ÙÙÙÙÙ",
     "timestamp": "2026-05-07T04:30:09.813Z"
   },
   {
@@ -140,7 +140,7 @@
       "role": "USER",
       "level": 63
     },
-    "message": "اسمع عرفني اش هو الواجر",
+    "message": "Ø§Ø³ÙØ¹ Ø¹Ø±ÙÙÙ Ø§Ø´ ÙÙ Ø§ÙÙØ§Ø¬Ø±",
     "timestamp": "2026-05-07T04:30:31.894Z"
   },
   {
@@ -152,7 +152,7 @@
       "role": "USER",
       "level": 63
     },
-    "message": "اك",
+    "message": "Ø§Ù",
     "timestamp": "2026-05-07T04:30:43.833Z"
   },
   {
@@ -164,7 +164,7 @@
       "role": "USER",
       "level": 63
     },
-    "message": "بس نفس الاسكن",
+    "message": "Ø¨Ø³ ÙÙØ³ Ø§ÙØ§Ø³ÙÙ",
     "timestamp": "2026-05-07T04:30:59.967Z"
   },
   {
@@ -176,7 +176,7 @@
       "role": "USER",
       "level": 63
     },
-    "message": "اك",
+    "message": "Ø§Ù",
     "timestamp": "2026-05-07T04:31:09.210Z"
   },
   {
@@ -188,7 +188,7 @@
       "role": "USER",
       "level": 63
     },
-    "message": "نجرب",
+    "message": "ÙØ¬Ø±Ø¨",
     "timestamp": "2026-05-07T04:31:25.477Z"
   },
   {
@@ -200,7 +200,91 @@
       "role": "USER",
       "level": 63
     },
-    "message": "على 500الف",
+    "message": "Ø¹ÙÙ 500Ø§ÙÙ",
     "timestamp": "2026-05-07T04:31:33.529Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "b3d1d8da-24aa-451c-b685-17702bb82f15",
+      "shortId": "ANBOJR",
+      "name": "Glitch",
+      "role": "USER",
+      "level": 63
+    },
+    "message": "لا على 500جولدين",
+    "timestamp": "2026-05-07T04:31:48.468Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "b3d1d8da-24aa-451c-b685-17702bb82f15",
+      "shortId": "ANBOJR",
+      "name": "Glitch",
+      "role": "USER",
+      "level": 63
+    },
+    "message": "بس لحظة",
+    "timestamp": "2026-05-07T04:31:58.858Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "b3d1d8da-24aa-451c-b685-17702bb82f15",
+      "shortId": "ANBOJR",
+      "name": "Glitch",
+      "role": "USER",
+      "level": 63
+    },
+    "message": "لا مش معاي",
+    "timestamp": "2026-05-07T04:32:14.808Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "b3d1d8da-24aa-451c-b685-17702bb82f15",
+      "shortId": "ANBOJR",
+      "name": "Glitch",
+      "role": "USER",
+      "level": 63
+    },
+    "message": "معاي 500جولدين",
+    "timestamp": "2026-05-07T04:32:30.986Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "b3d1d8da-24aa-451c-b685-17702bb82f15",
+      "shortId": "ANBOJR",
+      "name": "Glitch",
+      "role": "USER",
+      "level": 63
+    },
+    "message": "اك",
+    "timestamp": "2026-05-07T04:32:44.771Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "b3d1d8da-24aa-451c-b685-17702bb82f15",
+      "shortId": "ANBOJR",
+      "name": "Glitch",
+      "role": "USER",
+      "level": 63
+    },
+    "message": "بس لو انتة فزت حيكون تريد عادي صح",
+    "timestamp": "2026-05-07T04:32:57.836Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "b3d1d8da-24aa-451c-b685-17702bb82f15",
+      "shortId": "ANBOJR",
+      "name": "Glitch",
+      "role": "USER",
+      "level": 63
+    },
+    "message": "برو",
+    "timestamp": "2026-05-07T04:33:43.826Z"
   }
 ]
