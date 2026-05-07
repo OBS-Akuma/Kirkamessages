@@ -34,5 +34,29 @@
     },
     "message": "Glitch oress ready",
     "timestamp": "2026-05-07T06:09:06.378Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "e4b18726-59b3-4eeb-89d5-261b099072b6",
+      "shortId": "XEG0HG",
+      "name": "Nattou",
+      "role": "USER",
+      "level": 75
+    },
+    "message": "/price [Dynasty||BODY_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-07T06:12:33.460Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "e4b18726-59b3-4eeb-89d5-261b099072b6",
+      "shortId": "XEG0HG",
+      "name": "Nattou",
+      "role": "USER",
+      "level": 75
+    },
+    "message": "Nice skin but they same price",
+    "timestamp": "2026-05-07T06:13:15.727Z"
   }
 ]
