@@ -1,0 +1,38 @@
+[
+  {
+    "type": 2,
+    "user": {
+      "id": "ba8fb07a-cd4e-44c0-add5-732ae10a29bd",
+      "shortId": "XEZX6W",
+      "name": "BOIM",
+      "role": "USER",
+      "level": 77
+    },
+    "message": "/price [forbbiden]",
+    "timestamp": "2026-05-07T04:17:14.521Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "ba8fb07a-cd4e-44c0-add5-732ae10a29bd",
+      "shortId": "XEZX6W",
+      "name": "BOIM",
+      "role": "USER",
+      "level": 77
+    },
+    "message": "/price [forbiden]",
+    "timestamp": "2026-05-07T04:17:37.476Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "ba8fb07a-cd4e-44c0-add5-732ae10a29bd",
+      "shortId": "XEZX6W",
+      "name": "BOIM",
+      "role": "USER",
+      "level": 77
+    },
+    "message": "/price [Forbidden|AR-9|WEAPON_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-07T04:17:52.224Z"
+  }
+]
