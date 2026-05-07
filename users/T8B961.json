@@ -1,0 +1,26 @@
+[
+  {
+    "type": 2,
+    "user": {
+      "id": "c21aabca-5f2b-46fb-9c6a-5fc86574bfb8",
+      "shortId": "T8B961",
+      "name": "Capy",
+      "role": "USER",
+      "level": 64
+    },
+    "message": "/price pastel",
+    "timestamp": "2026-05-07T07:38:27.904Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "c21aabca-5f2b-46fb-9c6a-5fc86574bfb8",
+      "shortId": "T8B961",
+      "name": "Capy",
+      "role": "USER",
+      "level": 64
+    },
+    "message": "/price polar",
+    "timestamp": "2026-05-07T07:38:35.282Z"
+  }
+]
