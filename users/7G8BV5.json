@@ -1,0 +1,50 @@
+[
+  {
+    "type": 2,
+    "user": {
+      "id": "557447c2-d997-44be-b0cb-a93e84a42dfd",
+      "shortId": "7G8BV5",
+      "name": "Voidz",
+      "role": "USER",
+      "level": 100
+    },
+    "message": "Lf clan",
+    "timestamp": "2026-05-07T22:27:32.642Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "557447c2-d997-44be-b0cb-a93e84a42dfd",
+      "shortId": "7G8BV5",
+      "name": "Voidz",
+      "role": "USER",
+      "level": 100
+    },
+    "message": "/price [Waves|SCAR|WEAPON_SKIN|LEGENDARY]",
+    "timestamp": "2026-05-07T22:35:31.303Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "557447c2-d997-44be-b0cb-a93e84a42dfd",
+      "shortId": "7G8BV5",
+      "name": "Voidz",
+      "role": "USER",
+      "level": 100
+    },
+    "message": "/price [Cosmos|VITA|WEAPON_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-07T22:36:01.213Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "557447c2-d997-44be-b0cb-a93e84a42dfd",
+      "shortId": "7G8BV5",
+      "name": "Voidz",
+      "role": "USER",
+      "level": 100
+    },
+    "message": "/inv",
+    "timestamp": "2026-05-07T22:36:07.409Z"
+  }
+]
