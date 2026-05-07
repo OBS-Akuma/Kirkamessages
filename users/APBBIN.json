@@ -310,5 +310,89 @@
     },
     "message": "hanna",
     "timestamp": "2026-05-07T18:08:29.439Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "29a9336e-d8df-46ae-8ce7-3df48a298e31",
+      "shortId": "APBBIN",
+      "name": "adam",
+      "role": "USER",
+      "level": 62
+    },
+    "message": "wager [Panda||BODY_SKIN|MYTHICAL] [1337|Shark|WEAPON_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-07T18:08:48.728Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "29a9336e-d8df-46ae-8ce7-3df48a298e31",
+      "shortId": "APBBIN",
+      "name": "adam",
+      "role": "USER",
+      "level": 62
+    },
+    "message": "wager [Golden||CHEST|LEGENDARY]x300",
+    "timestamp": "2026-05-07T18:09:19.618Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "29a9336e-d8df-46ae-8ce7-3df48a298e31",
+      "shortId": "APBBIN",
+      "name": "adam",
+      "role": "USER",
+      "level": 62
+    },
+    "message": "/wager [Panda||BODY_SKIN|MYTHICAL] #7X1DR1",
+    "timestamp": "2026-05-07T18:10:10.755Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "29a9336e-d8df-46ae-8ce7-3df48a298e31",
+      "shortId": "APBBIN",
+      "name": "adam",
+      "role": "USER",
+      "level": 62
+    },
+    "message": "/wager [Panda||BODY_SKIN|MYTHICAL] #7X1DR1 ?",
+    "timestamp": "2026-05-07T18:10:17.610Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "29a9336e-d8df-46ae-8ce7-3df48a298e31",
+      "shortId": "APBBIN",
+      "name": "adam",
+      "role": "USER",
+      "level": 62
+    },
+    "message": "/wager [Panda||BODY_SKIN|MYTHICAL] #7X1DR1",
+    "timestamp": "2026-05-07T18:10:39.880Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "29a9336e-d8df-46ae-8ce7-3df48a298e31",
+      "shortId": "APBBIN",
+      "name": "adam",
+      "role": "USER",
+      "level": 62
+    },
+    "message": "/ENTER",
+    "timestamp": "2026-05-07T18:10:47.940Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "29a9336e-d8df-46ae-8ce7-3df48a298e31",
+      "shortId": "APBBIN",
+      "name": "adam",
+      "role": "USER",
+      "level": 62
+    },
+    "message": "/enter",
+    "timestamp": "2026-05-07T18:10:52.145Z"
   }
 ]
