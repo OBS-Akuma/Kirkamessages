@@ -34,5 +34,29 @@
     },
     "message": "/hm sam",
     "timestamp": "2026-05-07T18:09:36.330Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "5e481952-997e-4bff-b07c-86b0bb4192b5",
+      "shortId": "IMPMXD",
+      "name": "Astrogoose18",
+      "role": "USER",
+      "level": 48
+    },
+    "message": "/inv",
+    "timestamp": "2026-05-07T18:13:36.968Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "5e481952-997e-4bff-b07c-86b0bb4192b5",
+      "shortId": "IMPMXD",
+      "name": "Astrogoose18",
+      "role": "USER",
+      "level": 48
+    },
+    "message": "/hm turtle",
+    "timestamp": "2026-05-07T18:13:46.314Z"
   }
 ]
