@@ -910,5 +910,29 @@
     },
     "message": "1v1",
     "timestamp": "2026-05-07T06:21:16.286Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "ff032e01-ddd3-486d-8aa4-480894f456fa",
+      "shortId": "U7Q1VB",
+      "name": "YepImFloriz",
+      "role": "USER",
+      "level": 97
+    },
+    "message": "killer",
+    "timestamp": "2026-05-07T06:21:47.389Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "ff032e01-ddd3-486d-8aa4-480894f456fa",
+      "shortId": "U7Q1VB",
+      "name": "YepImFloriz",
+      "role": "USER",
+      "level": 97
+    },
+    "message": "join",
+    "timestamp": "2026-05-07T06:21:49.850Z"
   }
 ]
