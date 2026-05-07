@@ -1,0 +1,38 @@
+[
+  {
+    "type": 2,
+    "user": {
+      "id": "9bdebb7d-1bb9-41bd-9a14-d7a10db7e9f7",
+      "shortId": "EI4WQH",
+      "name": "Scream",
+      "role": "USER",
+      "level": 98
+    },
+    "message": "[Wolfy||BODY_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-07T18:07:05.207Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "9bdebb7d-1bb9-41bd-9a14-d7a10db7e9f7",
+      "shortId": "EI4WQH",
+      "name": "Scream",
+      "role": "USER",
+      "level": 98
+    },
+    "message": "[aries[",
+    "timestamp": "2026-05-07T18:07:18.248Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "9bdebb7d-1bb9-41bd-9a14-d7a10db7e9f7",
+      "shortId": "EI4WQH",
+      "name": "Scream",
+      "role": "USER",
+      "level": 98
+    },
+    "message": "[Aries|Shark|WEAPON_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-07T18:07:22.985Z"
+  }
+]
