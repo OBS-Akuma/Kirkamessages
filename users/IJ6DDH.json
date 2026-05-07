@@ -550,5 +550,101 @@
     },
     "message": "Ok",
     "timestamp": "2026-05-06T03:26:27.480Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "guest-54be4ece-9e2b-474f-9d38-577976065f54",
+      "shortId": "IJ6DDH",
+      "name": "EGD|Galaxy",
+      "role": "USER",
+      "level": 27
+    },
+    "message": "[Ticketeer|SCAR|WEAPON_SKIN|MYTHICAL][Rub1x|MAC-10|WEAPON_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-06T03:26:50.225Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "guest-54be4ece-9e2b-474f-9d38-577976065f54",
+      "shortId": "IJ6DDH",
+      "name": "EGD|Galaxy",
+      "role": "USER",
+      "level": 27
+    },
+    "message": "Ok",
+    "timestamp": "2026-05-06T03:27:07.422Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "guest-54be4ece-9e2b-474f-9d38-577976065f54",
+      "shortId": "IJ6DDH",
+      "name": "EGD|Galaxy",
+      "role": "USER",
+      "level": 27
+    },
+    "message": "Wait",
+    "timestamp": "2026-05-06T03:27:36.249Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "guest-54be4ece-9e2b-474f-9d38-577976065f54",
+      "shortId": "IJ6DDH",
+      "name": "EGD|Galaxy",
+      "role": "USER",
+      "level": 27
+    },
+    "message": "/price blast scar",
+    "timestamp": "2026-05-06T03:27:47.566Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "guest-54be4ece-9e2b-474f-9d38-577976065f54",
+      "shortId": "IJ6DDH",
+      "name": "EGD|Galaxy",
+      "role": "USER",
+      "level": 27
+    },
+    "message": "/price bamboo",
+    "timestamp": "2026-05-06T03:28:09.735Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "guest-54be4ece-9e2b-474f-9d38-577976065f54",
+      "shortId": "IJ6DDH",
+      "name": "EGD|Galaxy",
+      "role": "USER",
+      "level": 27
+    },
+    "message": "Salki",
+    "timestamp": "2026-05-06T03:28:51.668Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "guest-54be4ece-9e2b-474f-9d38-577976065f54",
+      "shortId": "IJ6DDH",
+      "name": "EGD|Galaxy",
+      "role": "USER",
+      "level": 27
+    },
+    "message": "[2024|Bayonet|WEAPON_SKIN|MYTHICAL] salki",
+    "timestamp": "2026-05-06T03:29:11.564Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "guest-54be4ece-9e2b-474f-9d38-577976065f54",
+      "shortId": "IJ6DDH",
+      "name": "EGD|Galaxy",
+      "role": "USER",
+      "level": 27
+    },
+    "message": "Ok",
+    "timestamp": "2026-05-06T03:29:19.852Z"
   }
 ]
