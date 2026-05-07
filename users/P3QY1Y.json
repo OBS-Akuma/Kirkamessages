@@ -190,5 +190,65 @@
     },
     "message": "/mytrade",
     "timestamp": "2026-05-07T06:21:04.767Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "0f19c49b-cc4f-4df3-ab7b-b388c5515c2a",
+      "shortId": "P3QY1Y",
+      "name": "killerstrike2",
+      "role": "USER",
+      "level": 97
+    },
+    "message": "/hm blast vita",
+    "timestamp": "2026-05-07T06:49:33.100Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "0f19c49b-cc4f-4df3-ab7b-b388c5515c2a",
+      "shortId": "P3QY1Y",
+      "name": "killerstrike2",
+      "role": "USER",
+      "level": 97
+    },
+    "message": "tell him to leave",
+    "timestamp": "2026-05-07T06:52:20.541Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "0f19c49b-cc4f-4df3-ab7b-b388c5515c2a",
+      "shortId": "P3QY1Y",
+      "name": "killerstrike2",
+      "role": "USER",
+      "level": 97
+    },
+    "message": "you choose map",
+    "timestamp": "2026-05-07T06:53:59.461Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "0f19c49b-cc4f-4df3-ab7b-b388c5515c2a",
+      "shortId": "P3QY1Y",
+      "name": "killerstrike2",
+      "role": "USER",
+      "level": 97
+    },
+    "message": "QUICKK",
+    "timestamp": "2026-05-07T06:56:13.025Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "0f19c49b-cc4f-4df3-ab7b-b388c5515c2a",
+      "shortId": "P3QY1Y",
+      "name": "killerstrike2",
+      "role": "USER",
+      "level": 97
+    },
+    "message": "I GTG",
+    "timestamp": "2026-05-07T06:56:14.733Z"
   }
 ]
