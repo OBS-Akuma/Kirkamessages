@@ -730,5 +730,17 @@
     },
     "message": "Tr[Biker||BODY_SKIN|MYTHICAL]35M[Dragonic||BODY_SKIN|MYTHICAL]45M[Chromium|Bayonet|WEAPON_SKIN|MYTHICAL]33M LF:[Anarchy|VITA|WEAPON_SKIN|MYTHICAL][Ukiyo|VITA|WEAPON_SKIN|MYTHICAL][Skel||BODY_SKIN|EPIC][Maze||BODY_SKIN|EPIC][Maid||BODY_SKIN|MYTHICAL]",
     "timestamp": "2026-05-05T05:52:43.173Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "b666b8f1-f958-4f26-97e6-e081cc5c7b0a",
+      "shortId": "8RN1LD",
+      "name": "GummyBear",
+      "role": "USER",
+      "level": 59
+    },
+    "message": "/inv",
+    "timestamp": "2026-05-07T05:30:22.891Z"
   }
 ]
