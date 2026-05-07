@@ -754,5 +754,17 @@
     },
     "message": "he is in my dms",
     "timestamp": "2026-05-07T06:56:58.356Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "3cd39bca-fb4d-4024-bf72-57d747f9a75f",
+      "shortId": "5ZCHYI",
+      "name": "Saint.",
+      "role": "USER",
+      "level": 73
+    },
+    "message": "trading [Lor||BODY_SKIN|LEGENDARY][Endless||BODY_SKIN|MYTHICAL][Astral|AR-9|WEAPON_SKIN|MYTHICAL][Scarlet|SCAR|WEAPON_SKIN|LEGENDARY][Garden|LAR|WEAPON_SKIN|MYTHICAL],",
+    "timestamp": "2026-05-07T18:15:07.337Z"
   }
 ]
