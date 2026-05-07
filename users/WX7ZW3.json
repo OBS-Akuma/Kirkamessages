@@ -1786,5 +1786,17 @@
     },
     "message": "u lost the 1v1 wager and dipped",
     "timestamp": "2026-05-07T07:56:42.601Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "2r1UJOfesmQUx0DJGR3osZYWZTY2",
+      "shortId": "WX7ZW3",
+      "name": "Saint.",
+      "role": "USER",
+      "level": 98
+    },
+    "message": "/locate [Forbidden|AR-9|WEAPON_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-07T07:59:31.543Z"
   }
 ]
