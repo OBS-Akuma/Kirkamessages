@@ -2302,5 +2302,65 @@
     },
     "message": "lf [Boo||BODY_SKIN|LEGENDARY]",
     "timestamp": "2026-05-07T08:30:14.052Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "d88f4f73-1334-4556-9168-e0c6945ad2a1",
+      "shortId": "KSOY64",
+      "name": "Blaze",
+      "role": "USER",
+      "level": 98
+    },
+    "message": "chosen wsp",
+    "timestamp": "2026-05-07T09:06:10.909Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "d88f4f73-1334-4556-9168-e0c6945ad2a1",
+      "shortId": "KSOY64",
+      "name": "Blaze",
+      "role": "USER",
+      "level": 98
+    },
+    "message": "yes?",
+    "timestamp": "2026-05-07T09:06:27.750Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "d88f4f73-1334-4556-9168-e0c6945ad2a1",
+      "shortId": "KSOY64",
+      "name": "Blaze",
+      "role": "USER",
+      "level": 98
+    },
+    "message": "i alr went broke",
+    "timestamp": "2026-05-07T09:06:35.527Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "d88f4f73-1334-4556-9168-e0c6945ad2a1",
+      "shortId": "KSOY64",
+      "name": "Blaze",
+      "role": "USER",
+      "level": 98
+    },
+    "message": "sry",
+    "timestamp": "2026-05-07T09:06:36.970Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "d88f4f73-1334-4556-9168-e0c6945ad2a1",
+      "shortId": "KSOY64",
+      "name": "Blaze",
+      "role": "USER",
+      "level": 98
+    },
+    "message": "wanna lobby for snd?",
+    "timestamp": "2026-05-07T09:06:40.760Z"
   }
 ]
