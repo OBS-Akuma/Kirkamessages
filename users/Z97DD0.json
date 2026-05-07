@@ -2830,5 +2830,53 @@
     },
     "message": "Selling pie for 1.1m cheaper then the cheapest",
     "timestamp": "2026-05-07T03:55:08.937Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "b0c61921-21b4-4eb0-b848-92e85240af89",
+      "shortId": "Z97DD0",
+      "name": "ytdanielyoung6",
+      "role": "USER",
+      "level": 15
+    },
+    "message": "Champ u should search up pie in market",
+    "timestamp": "2026-05-07T03:56:27.345Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "b0c61921-21b4-4eb0-b848-92e85240af89",
+      "shortId": "Z97DD0",
+      "name": "ytdanielyoung6",
+      "role": "USER",
+      "level": 15
+    },
+    "message": ":D",
+    "timestamp": "2026-05-07T03:56:37.484Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "b0c61921-21b4-4eb0-b848-92e85240af89",
+      "shortId": "Z97DD0",
+      "name": "ytdanielyoung6",
+      "role": "USER",
+      "level": 15
+    },
+    "message": "Selling pie 1.4m then the most expensive one in market",
+    "timestamp": "2026-05-07T03:57:51.591Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "b0c61921-21b4-4eb0-b848-92e85240af89",
+      "shortId": "Z97DD0",
+      "name": "ytdanielyoung6",
+      "role": "USER",
+      "level": 15
+    },
+    "message": "Cheaper then the most*",
+    "timestamp": "2026-05-07T03:58:00.457Z"
   }
 ]
