@@ -3310,5 +3310,125 @@
     },
     "message": "accept",
     "timestamp": "2026-05-07T06:55:18.532Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "x5SnOOPvACZyKsVSWNqdKawqktx1",
+      "shortId": "CG0G1I",
+      "name": "Corvo",
+      "role": "USER",
+      "level": 8
+    },
+    "message": "/wager [Saint Patrick|Shark|WEAPON_SKIN|LEGENDARY] #HUB956",
+    "timestamp": "2026-05-07T06:55:33.214Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "x5SnOOPvACZyKsVSWNqdKawqktx1",
+      "shortId": "CG0G1I",
+      "name": "Corvo",
+      "role": "USER",
+      "level": 8
+    },
+    "message": "yes",
+    "timestamp": "2026-05-07T06:55:44.730Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "x5SnOOPvACZyKsVSWNqdKawqktx1",
+      "shortId": "CG0G1I",
+      "name": "Corvo",
+      "role": "USER",
+      "level": 8
+    },
+    "message": "I cant accept",
+    "timestamp": "2026-05-07T06:56:39.002Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "x5SnOOPvACZyKsVSWNqdKawqktx1",
+      "shortId": "CG0G1I",
+      "name": "Corvo",
+      "role": "USER",
+      "level": 8
+    },
+    "message": "/cancelwager",
+    "timestamp": "2026-05-07T06:56:52.626Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "x5SnOOPvACZyKsVSWNqdKawqktx1",
+      "shortId": "CG0G1I",
+      "name": "Corvo",
+      "role": "USER",
+      "level": 8
+    },
+    "message": "[namechange]",
+    "timestamp": "2026-05-07T06:57:00.320Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "x5SnOOPvACZyKsVSWNqdKawqktx1",
+      "shortId": "CG0G1I",
+      "name": "Corvo",
+      "role": "USER",
+      "level": 8
+    },
+    "message": "/cancelwager",
+    "timestamp": "2026-05-07T06:59:18.855Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "x5SnOOPvACZyKsVSWNqdKawqktx1",
+      "shortId": "CG0G1I",
+      "name": "Corvo",
+      "role": "USER",
+      "level": 8
+    },
+    "message": "neptune",
+    "timestamp": "2026-05-07T06:59:20.621Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "x5SnOOPvACZyKsVSWNqdKawqktx1",
+      "shortId": "CG0G1I",
+      "name": "Corvo",
+      "role": "USER",
+      "level": 8
+    },
+    "message": "[Onesie||BODY_SKIN|MYTHICAL] for my [Saint Patrick|Shark|WEAPON_SKIN|LEGENDARY] cf neptune",
+    "timestamp": "2026-05-07T06:59:34.692Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "x5SnOOPvACZyKsVSWNqdKawqktx1",
+      "shortId": "CG0G1I",
+      "name": "Corvo",
+      "role": "USER",
+      "level": 8
+    },
+    "message": "no",
+    "timestamp": "2026-05-07T07:00:07.670Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "x5SnOOPvACZyKsVSWNqdKawqktx1",
+      "shortId": "CG0G1I",
+      "name": "Corvo",
+      "role": "USER",
+      "level": 8
+    },
+    "message": "I dont want 3x",
+    "timestamp": "2026-05-07T07:00:14.323Z"
   }
 ]
