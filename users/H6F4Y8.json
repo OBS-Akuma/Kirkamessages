@@ -226,5 +226,17 @@
     },
     "message": "/",
     "timestamp": "2026-05-07T06:17:13.156Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "U2TClvBwGvgshMlK8lPk6H5zHX42",
+      "shortId": "H6F4Y8",
+      "name": "CHAMPION",
+      "role": "USER",
+      "level": 78
+    },
+    "message": "/mytrade",
+    "timestamp": "2026-05-07T06:21:25.671Z"
   }
 ]
