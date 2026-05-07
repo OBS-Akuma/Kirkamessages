@@ -10,5 +10,137 @@
     },
     "message": "/locate pollen",
     "timestamp": "2026-05-04T07:49:35.249Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "dde0da8a-87f3-4294-bf44-5b5aaf07c020",
+      "shortId": "8AFZL2",
+      "name": "AIMTOME",
+      "role": "USER",
+      "level": 27
+    },
+    "message": "/inv",
+    "timestamp": "2026-05-07T09:20:29.701Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "dde0da8a-87f3-4294-bf44-5b5aaf07c020",
+      "shortId": "8AFZL2",
+      "name": "AIMTOME",
+      "role": "USER",
+      "level": 27
+    },
+    "message": "anyoneg [goblin?]",
+    "timestamp": "2026-05-07T09:24:08.653Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "dde0da8a-87f3-4294-bf44-5b5aaf07c020",
+      "shortId": "8AFZL2",
+      "name": "AIMTOME",
+      "role": "USER",
+      "level": 27
+    },
+    "message": "Anyone got goblin [Goblin||BODY_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-07T09:24:15.407Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "dde0da8a-87f3-4294-bf44-5b5aaf07c020",
+      "shortId": "8AFZL2",
+      "name": "AIMTOME",
+      "role": "USER",
+      "level": 27
+    },
+    "message": "/price goblin",
+    "timestamp": "2026-05-07T09:24:24.118Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "dde0da8a-87f3-4294-bf44-5b5aaf07c020",
+      "shortId": "8AFZL2",
+      "name": "AIMTOME",
+      "role": "USER",
+      "level": 27
+    },
+    "message": "trading [Goblin||BODY_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-07T09:27:15.230Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "dde0da8a-87f3-4294-bf44-5b5aaf07c020",
+      "shortId": "8AFZL2",
+      "name": "AIMTOME",
+      "role": "USER",
+      "level": 27
+    },
+    "message": "trading [Goblin||BODY_SKIN|MYTHICAL]!",
+    "timestamp": "2026-05-07T09:27:22.299Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "dde0da8a-87f3-4294-bf44-5b5aaf07c020",
+      "shortId": "8AFZL2",
+      "name": "AIMTOME",
+      "role": "USER",
+      "level": 27
+    },
+    "message": "/hm rainy",
+    "timestamp": "2026-05-07T09:27:54.553Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "dde0da8a-87f3-4294-bf44-5b5aaf07c020",
+      "shortId": "8AFZL2",
+      "name": "AIMTOME",
+      "role": "USER",
+      "level": 27
+    },
+    "message": "/hm zen",
+    "timestamp": "2026-05-07T09:28:36.753Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "dde0da8a-87f3-4294-bf44-5b5aaf07c020",
+      "shortId": "8AFZL2",
+      "name": "AIMTOME",
+      "role": "USER",
+      "level": 27
+    },
+    "message": "/hm gentleman",
+    "timestamp": "2026-05-07T09:29:01.216Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "dde0da8a-87f3-4294-bf44-5b5aaf07c020",
+      "shortId": "8AFZL2",
+      "name": "AIMTOME",
+      "role": "USER",
+      "level": 27
+    },
+    "message": "/hm employee",
+    "timestamp": "2026-05-07T09:29:12.172Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "dde0da8a-87f3-4294-bf44-5b5aaf07c020",
+      "shortId": "8AFZL2",
+      "name": "AIMTOME",
+      "role": "USER",
+      "level": 27
+    },
+    "message": "/hm employed",
+    "timestamp": "2026-05-07T09:29:22.003Z"
   }
 ]
