@@ -1,0 +1,38 @@
+[
+  {
+    "type": 2,
+    "user": {
+      "id": "SVkU0a4yuvWq2ktnxLIhGLdrpw23",
+      "shortId": "TLSTN8",
+      "name": "Arthurelolo",
+      "role": "USER",
+      "level": 16
+    },
+    "message": "HHola",
+    "timestamp": "2026-05-07T20:23:18.761Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "SVkU0a4yuvWq2ktnxLIhGLdrpw23",
+      "shortId": "TLSTN8",
+      "name": "Arthurelolo",
+      "role": "USER",
+      "level": 16
+    },
+    "message": "hola",
+    "timestamp": "2026-05-07T20:23:37.287Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "SVkU0a4yuvWq2ktnxLIhGLdrpw23",
+      "shortId": "TLSTN8",
+      "name": "Arthurelolo",
+      "role": "USER",
+      "level": 16
+    },
+    "message": "hola bro",
+    "timestamp": "2026-05-07T20:24:07.138Z"
+  }
+]
