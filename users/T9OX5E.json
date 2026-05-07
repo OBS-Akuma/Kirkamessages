@@ -298,5 +298,65 @@
     },
     "message": "my offer ??",
     "timestamp": "2026-05-01T20:18:37.544Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "99348ff4-3989-457c-b6a5-2f5c3239c4fa",
+      "shortId": "T9OX5E",
+      "name": "EnZo",
+      "role": "USER",
+      "level": 30
+    },
+    "message": "/hm apollo",
+    "timestamp": "2026-05-07T19:53:50.021Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "99348ff4-3989-457c-b6a5-2f5c3239c4fa",
+      "shortId": "T9OX5E",
+      "name": "EnZo",
+      "role": "USER",
+      "level": 30
+    },
+    "message": "/hm samurai",
+    "timestamp": "2026-05-07T19:53:54.400Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "99348ff4-3989-457c-b6a5-2f5c3239c4fa",
+      "shortId": "T9OX5E",
+      "name": "EnZo",
+      "role": "USER",
+      "level": 30
+    },
+    "message": "/price [Zen|Bayonet|WEAPON_SKIN|LEGENDARY]",
+    "timestamp": "2026-05-07T19:54:10.225Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "99348ff4-3989-457c-b6a5-2f5c3239c4fa",
+      "shortId": "T9OX5E",
+      "name": "EnZo",
+      "role": "USER",
+      "level": 30
+    },
+    "message": "/hm tiburon,forbidden",
+    "timestamp": "2026-05-07T19:54:46.898Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "99348ff4-3989-457c-b6a5-2f5c3239c4fa",
+      "shortId": "T9OX5E",
+      "name": "EnZo",
+      "role": "USER",
+      "level": 30
+    },
+    "message": "/price [Mirror|VITA|WEAPON_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-07T20:04:54.091Z"
   }
 ]
