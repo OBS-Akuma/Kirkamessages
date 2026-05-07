@@ -4822,5 +4822,77 @@
     },
     "message": "yea",
     "timestamp": "2026-05-07T19:13:01.136Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "558fa474-eaf1-4d9b-9509-3f0d12c28e9b",
+      "shortId": "8KK5DM",
+      "name": "iWin",
+      "role": "USER",
+      "level": 98
+    },
+    "message": "/confirmwager",
+    "timestamp": "2026-05-07T19:13:30.131Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "558fa474-eaf1-4d9b-9509-3f0d12c28e9b",
+      "shortId": "8KK5DM",
+      "name": "iWin",
+      "role": "USER",
+      "level": 98
+    },
+    "message": "ggs",
+    "timestamp": "2026-05-07T19:14:38.598Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "558fa474-eaf1-4d9b-9509-3f0d12c28e9b",
+      "shortId": "8KK5DM",
+      "name": "iWin",
+      "role": "USER",
+      "level": 98
+    },
+    "message": "/claim",
+    "timestamp": "2026-05-07T19:14:41.889Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "558fa474-eaf1-4d9b-9509-3f0d12c28e9b",
+      "shortId": "8KK5DM",
+      "name": "iWin",
+      "role": "USER",
+      "level": 98
+    },
+    "message": "LF [Periodic||CHARACTER_CARD|COMMON] TR [Gardener|Bayonet|WEAPON_SKIN|MYTHICAL][Hazmat||BODY_SKIN|PARANORMAL][Adora||BODY_SKIN|PARANORMAL][Biker||BODY_SKIN|MYTHICAL][Gazer||BODY_SKIN|MYTHICAL][Polka||BODY_SKIN|MYTHICAL][Golden||CHEST|LEGENDARY]x17k",
+    "timestamp": "2026-05-07T19:15:12.650Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "558fa474-eaf1-4d9b-9509-3f0d12c28e9b",
+      "shortId": "8KK5DM",
+      "name": "iWin",
+      "role": "USER",
+      "level": 98
+    },
+    "message": "lol idh carrots",
+    "timestamp": "2026-05-07T19:15:25.573Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "558fa474-eaf1-4d9b-9509-3f0d12c28e9b",
+      "shortId": "8KK5DM",
+      "name": "iWin",
+      "role": "USER",
+      "level": 98
+    },
+    "message": "/wager [Destiny||BODY_SKIN|LEGENDARY]x78 #SMOKED",
+    "timestamp": "2026-05-07T19:15:45.595Z"
   }
 ]
