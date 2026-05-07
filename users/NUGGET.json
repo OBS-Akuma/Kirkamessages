@@ -1067,5 +1067,53 @@
     },
     "message": "trading gazer",
     "timestamp": "2026-05-06T03:26:00.495Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "7f2a6090-abcb-48a7-8838-88ee8111b261",
+      "shortId": "NUGGET",
+      "name": "Akuma :3",
+      "role": "USER",
+      "level": 56
+    },
+    "message": "/hm jolly",
+    "timestamp": "2026-05-06T03:26:56.341Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "7f2a6090-abcb-48a7-8838-88ee8111b261",
+      "shortId": "NUGGET",
+      "name": "Akuma :3",
+      "role": "USER",
+      "level": 56
+    },
+    "message": "/enter",
+    "timestamp": "2026-05-06T03:27:08.393Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "7f2a6090-abcb-48a7-8838-88ee8111b261",
+      "shortId": "NUGGET",
+      "name": "Akuma :3",
+      "role": "USER",
+      "level": 56
+    },
+    "message": "/hm [Wiggleworp|VITA|WEAPON_SKIN|PARANORMAL]",
+    "timestamp": "2026-05-06T03:27:33.129Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "7f2a6090-abcb-48a7-8838-88ee8111b261",
+      "shortId": "NUGGET",
+      "name": "Akuma :3",
+      "role": "USER",
+      "level": 56
+    },
+    "message": "trade gazer",
+    "timestamp": "2026-05-06T03:27:39.202Z"
   }
 ]
