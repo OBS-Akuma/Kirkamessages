@@ -1198,5 +1198,41 @@
     },
     "message": "Tradinh [Sunday|Bayonet|WEAPON_SKIN|MYTHICAL],[Darkweb||BODY_SKIN|MYTHICAL] ;p",
     "timestamp": "2026-05-07T07:54:32.182Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "02506a6c-de4d-4da9-833f-35e586b9b089",
+      "shortId": "H9H0OI",
+      "name": "Hafla_",
+      "role": "USER",
+      "level": 62
+    },
+    "message": "Trading [Darkweb||BODY_SKIN|MYTHICAL],[Sunday|Bayonet|WEAPON_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-07T09:03:34.078Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "02506a6c-de4d-4da9-833f-35e586b9b089",
+      "shortId": "H9H0OI",
+      "name": "Hafla_",
+      "role": "USER",
+      "level": 62
+    },
+    "message": "GO COP [Sunday|Bayonet|WEAPON_SKIN|MYTHICAL] 15M AND [Darkweb||BODY_SKIN|MYTHICAL] 25M ON MARKET!",
+    "timestamp": "2026-05-07T09:03:56.588Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "02506a6c-de4d-4da9-833f-35e586b9b089",
+      "shortId": "H9H0OI",
+      "name": "Hafla_",
+      "role": "USER",
+      "level": 62
+    },
+    "message": "tr/selling [Darkweb||BODY_SKIN|MYTHICAL],[Sunday|Bayonet|WEAPON_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-07T09:04:09.920Z"
   }
 ]
