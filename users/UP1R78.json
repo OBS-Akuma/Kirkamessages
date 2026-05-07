@@ -2638,5 +2638,29 @@
     },
     "message": "/price lion",
     "timestamp": "2026-05-07T01:52:41.099Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "4b3c9e26-0516-4634-99f9-ea8361ccd6d8",
+      "shortId": "UP1R78",
+      "name": "CASH",
+      "role": "USER",
+      "level": 80
+    },
+    "message": "How much is twilight ?",
+    "timestamp": "2026-05-07T01:56:06.069Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "4b3c9e26-0516-4634-99f9-ea8361ccd6d8",
+      "shortId": "UP1R78",
+      "name": "CASH",
+      "role": "USER",
+      "level": 80
+    },
+    "message": "/price kyoto",
+    "timestamp": "2026-05-07T01:57:11.345Z"
   }
 ]
