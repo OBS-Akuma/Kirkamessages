@@ -250,5 +250,17 @@
     },
     "message": "me rude? what i say sorry bro i dont mean anything",
     "timestamp": "2026-05-07T19:10:39.214Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "849b68b6-84ec-47c9-a14e-ccf0aa3cfc1e",
+      "shortId": "GXJ1VE",
+      "name": "ASTA",
+      "role": "USER",
+      "level": 96
+    },
+    "message": "#DUHAST ramm bro you have ophelia?",
+    "timestamp": "2026-05-07T19:33:21.588Z"
   }
 ]
