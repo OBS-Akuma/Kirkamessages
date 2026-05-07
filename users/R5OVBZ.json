@@ -850,5 +850,53 @@
     },
     "message": "https://kirka.io/___lobby___/ASIA~VY2t4XdrI",
     "timestamp": "2026-05-07T18:03:22.012Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "3823c788-8970-4e00-ae41-b7667620cb07",
+      "shortId": "R5OVBZ",
+      "name": "SeductiveSnake",
+      "role": "USER",
+      "level": 29
+    },
+    "message": "https://kirka.io/___lobby___/ASIA~sgjaCNY2d",
+    "timestamp": "2026-05-07T18:05:26.548Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "3823c788-8970-4e00-ae41-b7667620cb07",
+      "shortId": "R5OVBZ",
+      "name": "SeductiveSnake",
+      "role": "USER",
+      "level": 29
+    },
+    "message": "join for 1v1",
+    "timestamp": "2026-05-07T18:05:28.719Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "3823c788-8970-4e00-ae41-b7667620cb07",
+      "shortId": "R5OVBZ",
+      "name": "SeductiveSnake",
+      "role": "USER",
+      "level": 29
+    },
+    "message": "https://kirka.io/___lobby___/ASIA~sgjaCNY2d",
+    "timestamp": "2026-05-07T18:05:30.049Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "3823c788-8970-4e00-ae41-b7667620cb07",
+      "shortId": "R5OVBZ",
+      "name": "SeductiveSnake",
+      "role": "USER",
+      "level": 29
+    },
+    "message": "1v1",
+    "timestamp": "2026-05-07T18:05:33.985Z"
   }
 ]
