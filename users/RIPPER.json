@@ -56,7 +56,7 @@
       "role": "USER",
       "level": 100
     },
-    "message": "Accept 😭",
+    "message": "Accept ð­",
     "timestamp": "2026-05-07T20:08:16.465Z"
   },
   {
@@ -68,7 +68,7 @@
       "role": "USER",
       "level": 100
     },
-    "message": "This one’s 4u to keep",
+    "message": "This oneâs 4u to keep",
     "timestamp": "2026-05-07T20:08:52.357Z"
   },
   {
@@ -154,5 +154,53 @@
     },
     "message": "B scar b vita engravementx5 goldenx1000",
     "timestamp": "2026-05-07T20:13:55.067Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "0319d8cd-42c2-4778-94c3-9216b05b3909",
+      "shortId": "RIPPER",
+      "name": "Matcha",
+      "role": "USER",
+      "level": 100
+    },
+    "message": "Rub1x pulse majestic bamboo",
+    "timestamp": "2026-05-07T20:15:41.469Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "0319d8cd-42c2-4778-94c3-9216b05b3909",
+      "shortId": "RIPPER",
+      "name": "Matcha",
+      "role": "USER",
+      "level": 100
+    },
+    "message": "Infernal fever",
+    "timestamp": "2026-05-07T20:16:50.587Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "0319d8cd-42c2-4778-94c3-9216b05b3909",
+      "shortId": "RIPPER",
+      "name": "Matcha",
+      "role": "USER",
+      "level": 100
+    },
+    "message": "Turtle",
+    "timestamp": "2026-05-07T20:16:59.352Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "0319d8cd-42c2-4778-94c3-9216b05b3909",
+      "shortId": "RIPPER",
+      "name": "Matcha",
+      "role": "USER",
+      "level": 100
+    },
+    "message": "For what sure",
+    "timestamp": "2026-05-07T20:17:36.013Z"
   }
 ]
