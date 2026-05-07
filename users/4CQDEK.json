@@ -7966,5 +7966,29 @@
     },
     "message": "#NLNYTQ sent",
     "timestamp": "2026-05-07T06:41:58.535Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "878dfc67-a2f4-46d9-b837-58e311d701d3",
+      "shortId": "4CQDEK",
+      "name": "UrBoiBeetle",
+      "role": "USER",
+      "level": 98
+    },
+    "message": "[Bloom||BODY_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-07T06:57:26.723Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "878dfc67-a2f4-46d9-b837-58e311d701d3",
+      "shortId": "4CQDEK",
+      "name": "UrBoiBeetle",
+      "role": "USER",
+      "level": 98
+    },
+    "message": "/hm bloom",
+    "timestamp": "2026-05-07T06:57:35.514Z"
   }
 ]
