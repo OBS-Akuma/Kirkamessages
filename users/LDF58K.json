@@ -346,5 +346,41 @@
     },
     "message": "bye",
     "timestamp": "2026-05-05T05:28:00.649Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "PZFwu8FSMqfbpnVbQJLgs4FI4vL2",
+      "shortId": "LDF58K",
+      "name": "MAHORAGA",
+      "role": "USER",
+      "level": 68
+    },
+    "message": "YO WHO WANT [Moon||BODY_SKIN|LEGENDARY]",
+    "timestamp": "2026-05-07T07:14:10.399Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "PZFwu8FSMqfbpnVbQJLgs4FI4vL2",
+      "shortId": "LDF58K",
+      "name": "MAHORAGA",
+      "role": "USER",
+      "level": 68
+    },
+    "message": "PEPO",
+    "timestamp": "2026-05-07T07:14:20.534Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "PZFwu8FSMqfbpnVbQJLgs4FI4vL2",
+      "shortId": "LDF58K",
+      "name": "MAHORAGA",
+      "role": "USER",
+      "level": 68
+    },
+    "message": "THEPENOMEN",
+    "timestamp": "2026-05-07T07:14:30.956Z"
   }
 ]
