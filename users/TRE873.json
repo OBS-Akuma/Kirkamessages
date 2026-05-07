@@ -1474,5 +1474,41 @@
     },
     "message": "Legend offer for [Qod||BODY_SKIN|MYTHICAL][Aries|Shark|WEAPON_SKIN|MYTHICAL]?",
     "timestamp": "2026-05-07T02:11:07.952Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "5d544b9e-5ca6-4638-b3a2-0318522e29af",
+      "shortId": "TRE873",
+      "name": "QWERTY",
+      "role": "USER",
+      "level": 67
+    },
+    "message": "Sure",
+    "timestamp": "2026-05-07T02:11:28.559Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "5d544b9e-5ca6-4638-b3a2-0318522e29af",
+      "shortId": "TRE873",
+      "name": "QWERTY",
+      "role": "USER",
+      "level": 67
+    },
+    "message": "Trading [Helendus|VITA|WEAPON_SKIN|MYTHICAL][Qod||BODY_SKIN|MYTHICAL][Aries|Shark|WEAPON_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-07T02:11:39.470Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "5d544b9e-5ca6-4638-b3a2-0318522e29af",
+      "shortId": "TRE873",
+      "name": "QWERTY",
+      "role": "USER",
+      "level": 67
+    },
+    "message": "Tr [Helendus|VITA|WEAPON_SKIN|MYTHICAL][Qod||BODY_SKIN|MYTHICAL][Aries|Shark|WEAPON_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-07T02:12:21.637Z"
   }
 ]
