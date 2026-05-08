@@ -2326,5 +2326,797 @@
     },
     "message": "/claim",
     "timestamp": "2026-05-08T07:11:57.240Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "33988dd7-9acc-4279-89a5-40343121a95f",
+      "shortId": "7ZBHU4",
+      "name": "p4rty(quit)",
+      "role": "USER",
+      "level": 81
+    },
+    "message": "bro lag is so bad",
+    "timestamp": "2026-05-08T07:12:37.402Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "33988dd7-9acc-4279-89a5-40343121a95f",
+      "shortId": "7ZBHU4",
+      "name": "p4rty(quit)",
+      "role": "USER",
+      "level": 81
+    },
+    "message": "wagering melody",
+    "timestamp": "2026-05-08T07:13:30.337Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "33988dd7-9acc-4279-89a5-40343121a95f",
+      "shortId": "7ZBHU4",
+      "name": "p4rty(quit)",
+      "role": "USER",
+      "level": 81
+    },
+    "message": "lol",
+    "timestamp": "2026-05-08T07:14:01.648Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "33988dd7-9acc-4279-89a5-40343121a95f",
+      "shortId": "7ZBHU4",
+      "name": "p4rty(quit)",
+      "role": "USER",
+      "level": 81
+    },
+    "message": "anyone want [Mabel||BODY_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-08T07:14:29.573Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "33988dd7-9acc-4279-89a5-40343121a95f",
+      "shortId": "7ZBHU4",
+      "name": "p4rty(quit)",
+      "role": "USER",
+      "level": 81
+    },
+    "message": "/enter",
+    "timestamp": "2026-05-08T07:15:05.229Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "33988dd7-9acc-4279-89a5-40343121a95f",
+      "shortId": "7ZBHU4",
+      "name": "p4rty(quit)",
+      "role": "USER",
+      "level": 81
+    },
+    "message": "anyone wager koi or melody?",
+    "timestamp": "2026-05-08T07:15:23.434Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "33988dd7-9acc-4279-89a5-40343121a95f",
+      "shortId": "7ZBHU4",
+      "name": "p4rty(quit)",
+      "role": "USER",
+      "level": 81
+    },
+    "message": "/mywager",
+    "timestamp": "2026-05-08T07:15:56.198Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "33988dd7-9acc-4279-89a5-40343121a95f",
+      "shortId": "7ZBHU4",
+      "name": "p4rty(quit)",
+      "role": "USER",
+      "level": 81
+    },
+    "message": "anyone got [Melody||BODY_SKIN|MYTHICAL] or [Koi|Bayonet|WEAPON_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-08T07:16:29.594Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "33988dd7-9acc-4279-89a5-40343121a95f",
+      "shortId": "7ZBHU4",
+      "name": "p4rty(quit)",
+      "role": "USER",
+      "level": 81
+    },
+    "message": "anyone got melody or koi?",
+    "timestamp": "2026-05-08T07:16:57.616Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "33988dd7-9acc-4279-89a5-40343121a95f",
+      "shortId": "7ZBHU4",
+      "name": "p4rty(quit)",
+      "role": "USER",
+      "level": 81
+    },
+    "message": "lf [Melody||BODY_SKIN|MYTHICAL] [Koi|Bayonet|WEAPON_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-08T07:17:20.181Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "33988dd7-9acc-4279-89a5-40343121a95f",
+      "shortId": "7ZBHU4",
+      "name": "p4rty(quit)",
+      "role": "USER",
+      "level": 81
+    },
+    "message": "#000000 u got koi?",
+    "timestamp": "2026-05-08T07:17:40.294Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "33988dd7-9acc-4279-89a5-40343121a95f",
+      "shortId": "7ZBHU4",
+      "name": "p4rty(quit)",
+      "role": "USER",
+      "level": 81
+    },
+    "message": "lf wager",
+    "timestamp": "2026-05-08T07:18:51.421Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "33988dd7-9acc-4279-89a5-40343121a95f",
+      "shortId": "7ZBHU4",
+      "name": "p4rty(quit)",
+      "role": "USER",
+      "level": 81
+    },
+    "message": "/wager [Golden||CHEST|LEGENDARY]x500 #HUB956",
+    "timestamp": "2026-05-08T07:19:44.463Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "33988dd7-9acc-4279-89a5-40343121a95f",
+      "shortId": "7ZBHU4",
+      "name": "p4rty(quit)",
+      "role": "USER",
+      "level": 81
+    },
+    "message": "/cancelwager",
+    "timestamp": "2026-05-08T07:19:54.978Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "33988dd7-9acc-4279-89a5-40343121a95f",
+      "shortId": "7ZBHU4",
+      "name": "p4rty(quit)",
+      "role": "USER",
+      "level": 81
+    },
+    "message": "navy I only got 500",
+    "timestamp": "2026-05-08T07:20:08.732Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "33988dd7-9acc-4279-89a5-40343121a95f",
+      "shortId": "7ZBHU4",
+      "name": "p4rty(quit)",
+      "role": "USER",
+      "level": 81
+    },
+    "message": "I bought somn",
+    "timestamp": "2026-05-08T07:20:32.395Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "33988dd7-9acc-4279-89a5-40343121a95f",
+      "shortId": "7ZBHU4",
+      "name": "p4rty(quit)",
+      "role": "USER",
+      "level": 81
+    },
+    "message": "/wager [Golden||CHEST|LEGENDARY]x500#HUB956",
+    "timestamp": "2026-05-08T07:20:35.652Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "33988dd7-9acc-4279-89a5-40343121a95f",
+      "shortId": "7ZBHU4",
+      "name": "p4rty(quit)",
+      "role": "USER",
+      "level": 81
+    },
+    "message": "/wager [Golden||CHEST|LEGENDARY]x500 #HUB956",
+    "timestamp": "2026-05-08T07:20:48.561Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "33988dd7-9acc-4279-89a5-40343121a95f",
+      "shortId": "7ZBHU4",
+      "name": "p4rty(quit)",
+      "role": "USER",
+      "level": 81
+    },
+    "message": "how",
+    "timestamp": "2026-05-08T07:21:16.943Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "33988dd7-9acc-4279-89a5-40343121a95f",
+      "shortId": "7ZBHU4",
+      "name": "p4rty(quit)",
+      "role": "USER",
+      "level": 81
+    },
+    "message": "xD",
+    "timestamp": "2026-05-08T07:21:19.980Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "33988dd7-9acc-4279-89a5-40343121a95f",
+      "shortId": "7ZBHU4",
+      "name": "p4rty(quit)",
+      "role": "USER",
+      "level": 81
+    },
+    "message": "/claim",
+    "timestamp": "2026-05-08T07:21:23.528Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "33988dd7-9acc-4279-89a5-40343121a95f",
+      "shortId": "7ZBHU4",
+      "name": "p4rty(quit)",
+      "role": "USER",
+      "level": 81
+    },
+    "message": "trading [Mabel||BODY_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-08T07:22:12.194Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "33988dd7-9acc-4279-89a5-40343121a95f",
+      "shortId": "7ZBHU4",
+      "name": "p4rty(quit)",
+      "role": "USER",
+      "level": 81
+    },
+    "message": "yo em1le",
+    "timestamp": "2026-05-08T07:22:26.359Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "33988dd7-9acc-4279-89a5-40343121a95f",
+      "shortId": "7ZBHU4",
+      "name": "p4rty(quit)",
+      "role": "USER",
+      "level": 81
+    },
+    "message": "/hm mabel",
+    "timestamp": "2026-05-08T07:22:37.409Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "33988dd7-9acc-4279-89a5-40343121a95f",
+      "shortId": "7ZBHU4",
+      "name": "p4rty(quit)",
+      "role": "USER",
+      "level": 81
+    },
+    "message": "offer gng",
+    "timestamp": "2026-05-08T07:22:41.871Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "33988dd7-9acc-4279-89a5-40343121a95f",
+      "shortId": "7ZBHU4",
+      "name": "p4rty(quit)",
+      "role": "USER",
+      "level": 81
+    },
+    "message": "trading [Mabel||BODY_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-08T07:23:24.420Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "33988dd7-9acc-4279-89a5-40343121a95f",
+      "shortId": "7ZBHU4",
+      "name": "p4rty(quit)",
+      "role": "USER",
+      "level": 81
+    },
+    "message": "/inv",
+    "timestamp": "2026-05-08T07:23:26.572Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "33988dd7-9acc-4279-89a5-40343121a95f",
+      "shortId": "7ZBHU4",
+      "name": "p4rty(quit)",
+      "role": "USER",
+      "level": 81
+    },
+    "message": "/gift been broken",
+    "timestamp": "2026-05-08T07:23:38.970Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "33988dd7-9acc-4279-89a5-40343121a95f",
+      "shortId": "7ZBHU4",
+      "name": "p4rty(quit)",
+      "role": "USER",
+      "level": 81
+    },
+    "message": "tr [Mabel||BODY_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-08T07:23:49.919Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "33988dd7-9acc-4279-89a5-40343121a95f",
+      "shortId": "7ZBHU4",
+      "name": "p4rty(quit)",
+      "role": "USER",
+      "level": 81
+    },
+    "message": "/wager [Golden||CHEST|LEGENDARY]x1000 #HUB956",
+    "timestamp": "2026-05-08T07:25:35.862Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "33988dd7-9acc-4279-89a5-40343121a95f",
+      "shortId": "7ZBHU4",
+      "name": "p4rty(quit)",
+      "role": "USER",
+      "level": 81
+    },
+    "message": "confirm",
+    "timestamp": "2026-05-08T07:25:51.958Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "33988dd7-9acc-4279-89a5-40343121a95f",
+      "shortId": "7ZBHU4",
+      "name": "p4rty(quit)",
+      "role": "USER",
+      "level": 81
+    },
+    "message": "t_t",
+    "timestamp": "2026-05-08T07:26:00.891Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "33988dd7-9acc-4279-89a5-40343121a95f",
+      "shortId": "7ZBHU4",
+      "name": "p4rty(quit)",
+      "role": "USER",
+      "level": 81
+    },
+    "message": "I got 1k",
+    "timestamp": "2026-05-08T07:26:02.813Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "33988dd7-9acc-4279-89a5-40343121a95f",
+      "shortId": "7ZBHU4",
+      "name": "p4rty(quit)",
+      "role": "USER",
+      "level": 81
+    },
+    "message": "alr",
+    "timestamp": "2026-05-08T07:26:15.425Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "33988dd7-9acc-4279-89a5-40343121a95f",
+      "shortId": "7ZBHU4",
+      "name": "p4rty(quit)",
+      "role": "USER",
+      "level": 81
+    },
+    "message": "wagering 1k goldens",
+    "timestamp": "2026-05-08T07:26:20.143Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "33988dd7-9acc-4279-89a5-40343121a95f",
+      "shortId": "7ZBHU4",
+      "name": "p4rty(quit)",
+      "role": "USER",
+      "level": 81
+    },
+    "message": "/cancelwager",
+    "timestamp": "2026-05-08T07:26:22.839Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "33988dd7-9acc-4279-89a5-40343121a95f",
+      "shortId": "7ZBHU4",
+      "name": "p4rty(quit)",
+      "role": "USER",
+      "level": 81
+    },
+    "message": "fuh I was gonna cop anarch",
+    "timestamp": "2026-05-08T07:27:28.033Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "33988dd7-9acc-4279-89a5-40343121a95f",
+      "shortId": "7ZBHU4",
+      "name": "p4rty(quit)",
+      "role": "USER",
+      "level": 81
+    },
+    "message": "who Wana wager 1k goldens",
+    "timestamp": "2026-05-08T07:27:47.388Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "33988dd7-9acc-4279-89a5-40343121a95f",
+      "shortId": "7ZBHU4",
+      "name": "p4rty(quit)",
+      "role": "USER",
+      "level": 81
+    },
+    "message": "trading [Mabel||BODY_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-08T07:28:09.814Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "33988dd7-9acc-4279-89a5-40343121a95f",
+      "shortId": "7ZBHU4",
+      "name": "p4rty(quit)",
+      "role": "USER",
+      "level": 81
+    },
+    "message": "/wager [Golden||CHEST|LEGENDARY]x100 #IWQ903",
+    "timestamp": "2026-05-08T07:31:09.180Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "33988dd7-9acc-4279-89a5-40343121a95f",
+      "shortId": "7ZBHU4",
+      "name": "p4rty(quit)",
+      "role": "USER",
+      "level": 81
+    },
+    "message": "/confirmwager",
+    "timestamp": "2026-05-08T07:31:51.990Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "33988dd7-9acc-4279-89a5-40343121a95f",
+      "shortId": "7ZBHU4",
+      "name": "p4rty(quit)",
+      "role": "USER",
+      "level": 81
+    },
+    "message": "huh",
+    "timestamp": "2026-05-08T07:32:28.178Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "33988dd7-9acc-4279-89a5-40343121a95f",
+      "shortId": "7ZBHU4",
+      "name": "p4rty(quit)",
+      "role": "USER",
+      "level": 81
+    },
+    "message": "/cancelwager",
+    "timestamp": "2026-05-08T07:33:00.024Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "33988dd7-9acc-4279-89a5-40343121a95f",
+      "shortId": "7ZBHU4",
+      "name": "p4rty(quit)",
+      "role": "USER",
+      "level": 81
+    },
+    "message": "/claim",
+    "timestamp": "2026-05-08T07:33:11.086Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "33988dd7-9acc-4279-89a5-40343121a95f",
+      "shortId": "7ZBHU4",
+      "name": "p4rty(quit)",
+      "role": "USER",
+      "level": 81
+    },
+    "message": "bot tweakiung",
+    "timestamp": "2026-05-08T07:33:14.772Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "33988dd7-9acc-4279-89a5-40343121a95f",
+      "shortId": "7ZBHU4",
+      "name": "p4rty(quit)",
+      "role": "USER",
+      "level": 81
+    },
+    "message": "/wager [Melody||BODY_SKIN|MYTHICAL] #609GEM",
+    "timestamp": "2026-05-08T07:37:57.603Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "33988dd7-9acc-4279-89a5-40343121a95f",
+      "shortId": "7ZBHU4",
+      "name": "p4rty(quit)",
+      "role": "USER",
+      "level": 81
+    },
+    "message": "/claim",
+    "timestamp": "2026-05-08T07:38:02.151Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "33988dd7-9acc-4279-89a5-40343121a95f",
+      "shortId": "7ZBHU4",
+      "name": "p4rty(quit)",
+      "role": "USER",
+      "level": 81
+    },
+    "message": "emil u got melody?",
+    "timestamp": "2026-05-08T07:38:40.450Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "33988dd7-9acc-4279-89a5-40343121a95f",
+      "shortId": "7ZBHU4",
+      "name": "p4rty(quit)",
+      "role": "USER",
+      "level": 81
+    },
+    "message": "ggs",
+    "timestamp": "2026-05-08T07:38:52.702Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "33988dd7-9acc-4279-89a5-40343121a95f",
+      "shortId": "7ZBHU4",
+      "name": "p4rty(quit)",
+      "role": "USER",
+      "level": 81
+    },
+    "message": "/wager [Melody||BODY_SKIN|MYTHICAL]x2 #609GEM",
+    "timestamp": "2026-05-08T07:39:12.048Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "33988dd7-9acc-4279-89a5-40343121a95f",
+      "shortId": "7ZBHU4",
+      "name": "p4rty(quit)",
+      "role": "USER",
+      "level": 81
+    },
+    "message": "geegees",
+    "timestamp": "2026-05-08T07:39:55.868Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "33988dd7-9acc-4279-89a5-40343121a95f",
+      "shortId": "7ZBHU4",
+      "name": "p4rty(quit)",
+      "role": "USER",
+      "level": 81
+    },
+    "message": "/claim",
+    "timestamp": "2026-05-08T07:40:02.635Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "33988dd7-9acc-4279-89a5-40343121a95f",
+      "shortId": "7ZBHU4",
+      "name": "p4rty(quit)",
+      "role": "USER",
+      "level": 81
+    },
+    "message": "l",
+    "timestamp": "2026-05-08T07:40:38.499Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "33988dd7-9acc-4279-89a5-40343121a95f",
+      "shortId": "7ZBHU4",
+      "name": "p4rty(quit)",
+      "role": "USER",
+      "level": 81
+    },
+    "message": "/claim",
+    "timestamp": "2026-05-08T07:40:39.615Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "33988dd7-9acc-4279-89a5-40343121a95f",
+      "shortId": "7ZBHU4",
+      "name": "p4rty(quit)",
+      "role": "USER",
+      "level": 81
+    },
+    "message": "[Adora||BODY_SKIN|PARANORMAL]",
+    "timestamp": "2026-05-08T07:41:43.249Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "33988dd7-9acc-4279-89a5-40343121a95f",
+      "shortId": "7ZBHU4",
+      "name": "p4rty(quit)",
+      "role": "USER",
+      "level": 81
+    },
+    "message": "wut",
+    "timestamp": "2026-05-08T07:42:00.496Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "33988dd7-9acc-4279-89a5-40343121a95f",
+      "shortId": "7ZBHU4",
+      "name": "p4rty(quit)",
+      "role": "USER",
+      "level": 81
+    },
+    "message": "wait",
+    "timestamp": "2026-05-08T07:42:02.323Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "33988dd7-9acc-4279-89a5-40343121a95f",
+      "shortId": "7ZBHU4",
+      "name": "p4rty(quit)",
+      "role": "USER",
+      "level": 81
+    },
+    "message": "later",
+    "timestamp": "2026-05-08T07:42:03.882Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "33988dd7-9acc-4279-89a5-40343121a95f",
+      "shortId": "7ZBHU4",
+      "name": "p4rty(quit)",
+      "role": "USER",
+      "level": 81
+    },
+    "message": "/wager [Melody||BODY_SKIN|MYTHICAL] #609GEM",
+    "timestamp": "2026-05-08T07:42:16.987Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "33988dd7-9acc-4279-89a5-40343121a95f",
+      "shortId": "7ZBHU4",
+      "name": "p4rty(quit)",
+      "role": "USER",
+      "level": 81
+    },
+    "message": "g",
+    "timestamp": "2026-05-08T07:42:24.668Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "33988dd7-9acc-4279-89a5-40343121a95f",
+      "shortId": "7ZBHU4",
+      "name": "p4rty(quit)",
+      "role": "USER",
+      "level": 81
+    },
+    "message": "/wager [Melody||BODY_SKIN|MYTHICAL] #609GEM",
+    "timestamp": "2026-05-08T07:42:33.268Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "33988dd7-9acc-4279-89a5-40343121a95f",
+      "shortId": "7ZBHU4",
+      "name": "p4rty(quit)",
+      "role": "USER",
+      "level": 81
+    },
+    "message": "/iunv",
+    "timestamp": "2026-05-08T07:43:29.494Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "33988dd7-9acc-4279-89a5-40343121a95f",
+      "shortId": "7ZBHU4",
+      "name": "p4rty(quit)",
+      "role": "USER",
+      "level": 81
+    },
+    "message": "/inv",
+    "timestamp": "2026-05-08T07:43:32.253Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "33988dd7-9acc-4279-89a5-40343121a95f",
+      "shortId": "7ZBHU4",
+      "name": "p4rty(quit)",
+      "role": "USER",
+      "level": 81
+    },
+    "message": "gg",
+    "timestamp": "2026-05-08T07:43:41.161Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "33988dd7-9acc-4279-89a5-40343121a95f",
+      "shortId": "7ZBHU4",
+      "name": "p4rty(quit)",
+      "role": "USER",
+      "level": 81
+    },
+    "message": "/claim",
+    "timestamp": "2026-05-08T07:43:43.412Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "33988dd7-9acc-4279-89a5-40343121a95f",
+      "shortId": "7ZBHU4",
+      "name": "p4rty(quit)",
+      "role": "USER",
+      "level": 81
+    },
+    "message": "wow I got 5melodys",
+    "timestamp": "2026-05-08T07:50:27.899Z"
   }
 ]
