@@ -1,0 +1,26 @@
+[
+  {
+    "type": 2,
+    "user": {
+      "id": "a57e21c9-ac6e-4e94-a8f5-faca0ff90f5e",
+      "shortId": "J831BH",
+      "name": "mama",
+      "role": "USER",
+      "level": 96
+    },
+    "message": "glimmer hm ur [Onryo||BODY_SKIN|MYTHICAL]?",
+    "timestamp": "2026-05-08T08:22:21.476Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "a57e21c9-ac6e-4e94-a8f5-faca0ff90f5e",
+      "shortId": "J831BH",
+      "name": "mama",
+      "role": "USER",
+      "level": 96
+    },
+    "message": "/enter",
+    "timestamp": "2026-05-08T08:50:37.670Z"
+  }
+]
