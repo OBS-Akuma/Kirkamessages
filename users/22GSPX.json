@@ -646,5 +646,17 @@
     },
     "message": "lol",
     "timestamp": "2026-05-08T20:00:59.950Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "127e0842-6c00-47e9-a4a6-df48e84e2d77",
+      "shortId": "22GSPX",
+      "name": "luca",
+      "role": "USER",
+      "level": 14
+    },
+    "message": "/hm ivoire",
+    "timestamp": "2026-05-08T20:01:20.515Z"
   }
 ]
