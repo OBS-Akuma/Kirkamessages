@@ -34,5 +34,29 @@
     },
     "message": "/hm waveform",
     "timestamp": "2026-05-07T22:18:31.153Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "620dab01-f658-4dfd-90ff-a07442ac3566",
+      "shortId": "SPENDA",
+      "name": "Find",
+      "role": "USER",
+      "level": 100
+    },
+    "message": "/hm psy",
+    "timestamp": "2026-05-07T23:46:36.066Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "620dab01-f658-4dfd-90ff-a07442ac3566",
+      "shortId": "SPENDA",
+      "name": "Find",
+      "role": "USER",
+      "level": 100
+    },
+    "message": "/hm monk",
+    "timestamp": "2026-05-07T23:47:50.133Z"
   }
 ]
