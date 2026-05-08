@@ -10,5 +10,65 @@
     },
     "message": "/hm matchalatte",
     "timestamp": "2026-05-08T07:02:21.066Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "4add4259-bba7-4b96-86db-0609cd82563d",
+      "shortId": "AS2PVN",
+      "name": "Newbie",
+      "role": "USER",
+      "level": 12
+    },
+    "message": "/hm hotrod scar",
+    "timestamp": "2026-05-08T10:50:51.745Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "4add4259-bba7-4b96-86db-0609cd82563d",
+      "shortId": "AS2PVN",
+      "name": "Newbie",
+      "role": "USER",
+      "level": 12
+    },
+    "message": "/wager [Golden||CHEST|LEGENDARY]x200 #8KK5DM",
+    "timestamp": "2026-05-08T10:55:25.070Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "4add4259-bba7-4b96-86db-0609cd82563d",
+      "shortId": "AS2PVN",
+      "name": "Newbie",
+      "role": "USER",
+      "level": 12
+    },
+    "message": "Win, accept the wager",
+    "timestamp": "2026-05-08T10:55:49.624Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "4add4259-bba7-4b96-86db-0609cd82563d",
+      "shortId": "AS2PVN",
+      "name": "Newbie",
+      "role": "USER",
+      "level": 12
+    },
+    "message": "#8KK5DM accept wager",
+    "timestamp": "2026-05-08T10:55:59.180Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "4add4259-bba7-4b96-86db-0609cd82563d",
+      "shortId": "AS2PVN",
+      "name": "Newbie",
+      "role": "USER",
+      "level": 12
+    },
+    "message": "/cancelwager",
+    "timestamp": "2026-05-08T10:56:19.236Z"
   }
 ]
