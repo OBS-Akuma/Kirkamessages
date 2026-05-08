@@ -94,5 +94,29 @@
     },
     "message": "/locate sketc",
     "timestamp": "2026-05-08T03:44:16.005Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "4207d12e-c22a-4b15-951d-f55b923175c6",
+      "shortId": "IRRMVV",
+      "name": "PoorMansPoison",
+      "role": "USER",
+      "level": 67
+    },
+    "message": "/price moltorat",
+    "timestamp": "2026-05-08T07:07:37.224Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "4207d12e-c22a-4b15-951d-f55b923175c6",
+      "shortId": "IRRMVV",
+      "name": "PoorMansPoison",
+      "role": "USER",
+      "level": 67
+    },
+    "message": "/price slaser",
+    "timestamp": "2026-05-08T07:08:47.558Z"
   }
 ]
