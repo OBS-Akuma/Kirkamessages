@@ -1,0 +1,38 @@
+[
+  {
+    "type": 2,
+    "user": {
+      "id": "19dc4994-db1f-4043-bac6-cc54eef26fd3",
+      "shortId": "8PL8BR",
+      "name": "ZAYN",
+      "role": "USER",
+      "level": 50
+    },
+    "message": "yo",
+    "timestamp": "2026-05-08T20:19:05.907Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "19dc4994-db1f-4043-bac6-cc54eef26fd3",
+      "shortId": "8PL8BR",
+      "name": "ZAYN",
+      "role": "USER",
+      "level": 50
+    },
+    "message": "sup chat",
+    "timestamp": "2026-05-08T20:19:09.799Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "19dc4994-db1f-4043-bac6-cc54eef26fd3",
+      "shortId": "8PL8BR",
+      "name": "ZAYN",
+      "role": "USER",
+      "level": 50
+    },
+    "message": "am okay qwerty wbu ?",
+    "timestamp": "2026-05-08T20:19:32.076Z"
+  }
+]
