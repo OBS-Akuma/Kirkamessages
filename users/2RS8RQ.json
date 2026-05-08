@@ -70,5 +70,17 @@
     },
     "message": "eugurt aceita o meu",
     "timestamp": "2026-05-08T01:39:29.862Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "01633c1a-62b9-49d5-aeea-3b07777f4f1a",
+      "shortId": "2RS8RQ",
+      "name": "Blood_Hunt|RpG",
+      "role": "USER",
+      "level": 15
+    },
+    "message": "tr [CYB3R|Bayonet|WEAPON_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-08T03:26:15.931Z"
   }
 ]
