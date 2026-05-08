@@ -1402,5 +1402,53 @@
     },
     "message": "#2JDMSD is offering their[Endless||BODY_SKIN|MYTHICAL] your [Melody||BODY_SKIN|MYTHICAL]x3 type **/trade accept 8901**",
     "timestamp": "2026-05-08T09:05:50.966Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "1385b47a-bc43-4879-a1c4-7baf533b7bcc",
+      "shortId": "2JDMSD",
+      "name": "[\\/]Ike",
+      "role": "USER",
+      "level": 47
+    },
+    "message": "/claim",
+    "timestamp": "2026-05-08T09:06:12.629Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "1385b47a-bc43-4879-a1c4-7baf533b7bcc",
+      "shortId": "2JDMSD",
+      "name": "[\\/]Ike",
+      "role": "USER",
+      "level": 47
+    },
+    "message": "#2JDMSD is offering their[Endless||BODY_SKIN|MYTHICAL] your [Melody||BODY_SKIN|MYTHICAL]x2 type **/trade accept 8901**",
+    "timestamp": "2026-05-08T09:07:22.141Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "1385b47a-bc43-4879-a1c4-7baf533b7bcc",
+      "shortId": "2JDMSD",
+      "name": "[\\/]Ike",
+      "role": "USER",
+      "level": 47
+    },
+    "message": "Trading/wagering[Gardener|Bayonet|WEAPON_SKIN|MYTHICAL],[Love Bites|Bayonet|WEAPON_SKIN|MYTHICAL]x3,[Or|Bayonet|WEAPON_SKIN|MYTHICAL]x3,[CYB3R|Bayonet|WEAPON_SKIN|MYTHICAL]x2,[Twitch||BODY_SKIN|MYTHICAL],[Jolly||BODY_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-08T09:08:42.925Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "1385b47a-bc43-4879-a1c4-7baf533b7bcc",
+      "shortId": "2JDMSD",
+      "name": "[\\/]Ike",
+      "role": "USER",
+      "level": 47
+    },
+    "message": ".",
+    "timestamp": "2026-05-08T09:10:56.212Z"
   }
 ]
