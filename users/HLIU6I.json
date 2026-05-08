@@ -22,5 +22,65 @@
     },
     "message": "mehmet",
     "timestamp": "2026-05-07T18:12:15.908Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "1deea32b-58d9-4428-a432-c1716143c945",
+      "shortId": "HLIU6I",
+      "name": "FutError",
+      "role": "USER",
+      "level": 63
+    },
+    "message": "/hm anarchy",
+    "timestamp": "2026-05-08T04:38:04.206Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "1deea32b-58d9-4428-a432-c1716143c945",
+      "shortId": "HLIU6I",
+      "name": "FutError",
+      "role": "USER",
+      "level": 63
+    },
+    "message": "/forrbidden",
+    "timestamp": "2026-05-08T04:38:23.152Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "1deea32b-58d9-4428-a432-c1716143c945",
+      "shortId": "HLIU6I",
+      "name": "FutError",
+      "role": "USER",
+      "level": 63
+    },
+    "message": "/hm forbidden",
+    "timestamp": "2026-05-08T04:38:33.200Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "1deea32b-58d9-4428-a432-c1716143c945",
+      "shortId": "HLIU6I",
+      "name": "FutError",
+      "role": "USER",
+      "level": 63
+    },
+    "message": "/hm eggs",
+    "timestamp": "2026-05-08T04:41:00.581Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "1deea32b-58d9-4428-a432-c1716143c945",
+      "shortId": "HLIU6I",
+      "name": "FutError",
+      "role": "USER",
+      "level": 63
+    },
+    "message": "/hm mabel",
+    "timestamp": "2026-05-08T04:41:29.921Z"
   }
 ]
