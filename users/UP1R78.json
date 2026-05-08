@@ -6394,5 +6394,53 @@
     },
     "message": "aight no worrreis",
     "timestamp": "2026-05-08T03:30:54.956Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "4b3c9e26-0516-4634-99f9-ea8361ccd6d8",
+      "shortId": "UP1R78",
+      "name": "CASH",
+      "role": "USER",
+      "level": 80
+    },
+    "message": "/inv",
+    "timestamp": "2026-05-08T19:03:09.739Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "4b3c9e26-0516-4634-99f9-ea8361ccd6d8",
+      "shortId": "UP1R78",
+      "name": "CASH",
+      "role": "USER",
+      "level": 80
+    },
+    "message": "Hi Night",
+    "timestamp": "2026-05-08T19:04:10.867Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "4b3c9e26-0516-4634-99f9-ea8361ccd6d8",
+      "shortId": "UP1R78",
+      "name": "CASH",
+      "role": "USER",
+      "level": 80
+    },
+    "message": "no I am not",
+    "timestamp": "2026-05-08T19:04:31.808Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "4b3c9e26-0516-4634-99f9-ea8361ccd6d8",
+      "shortId": "UP1R78",
+      "name": "CASH",
+      "role": "USER",
+      "level": 80
+    },
+    "message": "im a memeber",
+    "timestamp": "2026-05-08T19:04:37.014Z"
   }
 ]
