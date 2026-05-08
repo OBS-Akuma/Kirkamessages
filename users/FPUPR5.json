@@ -1087,5 +1087,53 @@
     },
     "message": "never lol",
     "timestamp": "2026-05-07T07:51:01.237Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "c3e3dbc6-624d-450c-908a-672ba348b1fd",
+      "shortId": "FPUPR5",
+      "name": "Worman",
+      "role": "USER",
+      "level": 99
+    },
+    "message": "/locate mushroom",
+    "timestamp": "2026-05-08T01:00:23.941Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "c3e3dbc6-624d-450c-908a-672ba348b1fd",
+      "shortId": "FPUPR5",
+      "name": "Worman",
+      "role": "USER",
+      "level": 99
+    },
+    "message": "woah its frost_hypo30",
+    "timestamp": "2026-05-08T01:01:04.928Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "c3e3dbc6-624d-450c-908a-672ba348b1fd",
+      "shortId": "FPUPR5",
+      "name": "Worman",
+      "role": "USER",
+      "level": 99
+    },
+    "message": "#9MDD8T how much is matchalatte",
+    "timestamp": "2026-05-08T01:01:39.657Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "c3e3dbc6-624d-450c-908a-672ba348b1fd",
+      "shortId": "FPUPR5",
+      "name": "Worman",
+      "role": "USER",
+      "level": 99
+    },
+    "message": "alr",
+    "timestamp": "2026-05-08T01:02:09.558Z"
   }
 ]
