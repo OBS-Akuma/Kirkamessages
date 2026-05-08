@@ -874,5 +874,17 @@
     },
     "message": "yo heiko",
     "timestamp": "2026-05-08T03:00:47.749Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "407c8457-a88c-495b-8540-9a63797d20ea",
+      "shortId": "BWXE30",
+      "name": "Nickeru-Chan",
+      "role": "USER",
+      "level": 66
+    },
+    "message": "can i have some halloween il trade",
+    "timestamp": "2026-05-08T03:01:10.113Z"
   }
 ]
