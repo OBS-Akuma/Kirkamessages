@@ -178,5 +178,17 @@
     },
     "message": "#P39WAW hi",
     "timestamp": "2026-05-08T02:14:28.275Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "9252167f-acb3-4f72-975f-49b97a8df81a",
+      "shortId": "06GIR2",
+      "name": "Mya!",
+      "role": "USER",
+      "level": 80
+    },
+    "message": "/hm [Gardener|Bayonet|WEAPON_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-08T02:15:11.158Z"
   }
 ]
