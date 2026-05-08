@@ -334,5 +334,29 @@
     },
     "message": "/enter",
     "timestamp": "2026-05-08T21:11:08.729Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "TpaHcMKpZ1Uh0sdDEu4UDAONcdS2",
+      "shortId": "KDH9KR",
+      "name": "strange",
+      "role": "USER",
+      "level": 43
+    },
+    "message": "tr[Fudge|VITA|WEAPON_SKIN|MYTHICAL]7598708963895`636497`6470`4176498610958b.",
+    "timestamp": "2026-05-08T22:01:53.919Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "TpaHcMKpZ1Uh0sdDEu4UDAONcdS2",
+      "shortId": "KDH9KR",
+      "name": "strange",
+      "role": "USER",
+      "level": 43
+    },
+    "message": "tr[Fudge|VITA|WEAPON_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-08T22:02:07.093Z"
   }
 ]
