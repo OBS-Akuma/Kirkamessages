@@ -1640,7 +1640,7 @@
       "role": "USER",
       "level": 84
     },
-    "message": "a wood giveaway ð¤",
+    "message": "a wood giveaway Ã°ÂÂ¤Â",
     "timestamp": "2026-05-08T09:28:46.124Z"
   },
   {
@@ -2300,7 +2300,7 @@
       "role": "USER",
       "level": 84
     },
-    "message": "my vita ð«",
+    "message": "my vita Ã°ÂÂÂ«",
     "timestamp": "2026-05-08T10:15:58.646Z"
   },
   {
@@ -2758,5 +2758,41 @@
     },
     "message": "trading [Vionix||BODY_SKIN|MYTHICAL],[Chillin||BODY_SKIN|MYTHICAL],[Scorcher|Shark|WEAPON_SKIN|MYTHICAL],[Magic|Shark|WEAPON_SKIN|MYTHICAL],[sht bayonet]",
     "timestamp": "2026-05-08T11:07:57.977Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "5c0f020b-5dfa-4e89-8a66-f0f92ffadc40",
+      "shortId": "WL23PI",
+      "name": "WWWWWWWWWWWWWW",
+      "role": "USER",
+      "level": 84
+    },
+    "message": "trading [Vionix||BODY_SKIN|MYTHICAL],[Chillin||BODY_SKIN|MYTHICAL],[Scorcher|Shark|WEAPON_SKIN|MYTHICAL],[Magic|Shark|WEAPON_SKIN|MYTHICAL],[sht bayonet]?",
+    "timestamp": "2026-05-08T11:08:32.176Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "5c0f020b-5dfa-4e89-8a66-f0f92ffadc40",
+      "shortId": "WL23PI",
+      "name": "WWWWWWWWWWWWWW",
+      "role": "USER",
+      "level": 84
+    },
+    "message": "trading [Vionix||BODY_SKIN|MYTHICAL],[Chillin||BODY_SKIN|MYTHICAL],[Scorcher|Shark|WEAPON_SKIN|MYTHICAL],[Magic|Shark|WEAPON_SKIN|MYTHICAL],[sht bayonet]??",
+    "timestamp": "2026-05-08T11:08:46.131Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "5c0f020b-5dfa-4e89-8a66-f0f92ffadc40",
+      "shortId": "WL23PI",
+      "name": "WWWWWWWWWWWWWW",
+      "role": "USER",
+      "level": 84
+    },
+    "message": "coin flip/wager/trading [Vionix||BODY_SKIN|MYTHICAL],[Chillin||BODY_SKIN|MYTHICAL],[Scorcher|Shark|WEAPON_SKIN|MYTHICAL],[Magic|Shark|WEAPON_SKIN|MYTHICAL],[sht bayonet]??",
+    "timestamp": "2026-05-08T11:09:01.987Z"
   }
 ]
