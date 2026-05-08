@@ -1,0 +1,50 @@
+[
+  {
+    "type": 2,
+    "user": {
+      "id": "1jNhGYJ6HHblj0lp2SAsqElXDJ72",
+      "shortId": "OBTDUR",
+      "name": "VoltX",
+      "role": "USER",
+      "level": 93
+    },
+    "message": "/enter",
+    "timestamp": "2026-05-08T08:34:59.147Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "1jNhGYJ6HHblj0lp2SAsqElXDJ72",
+      "shortId": "OBTDUR",
+      "name": "VoltX",
+      "role": "USER",
+      "level": 93
+    },
+    "message": "/entere",
+    "timestamp": "2026-05-08T08:35:11.131Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "1jNhGYJ6HHblj0lp2SAsqElXDJ72",
+      "shortId": "OBTDUR",
+      "name": "VoltX",
+      "role": "USER",
+      "level": 93
+    },
+    "message": "/enter",
+    "timestamp": "2026-05-08T08:35:15.840Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "1jNhGYJ6HHblj0lp2SAsqElXDJ72",
+      "shortId": "OBTDUR",
+      "name": "VoltX",
+      "role": "USER",
+      "level": 93
+    },
+    "message": "/claim",
+    "timestamp": "2026-05-08T08:35:20.344Z"
+  }
+]
