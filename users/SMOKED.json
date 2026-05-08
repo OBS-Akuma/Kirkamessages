@@ -898,5 +898,29 @@
     },
     "message": "/price [Sunday|Bayonet|WEAPON_SKIN|MYTHICAL]",
     "timestamp": "2026-05-08T05:18:41.986Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "8130e18e-ff15-4f5b-a4e4-e3b8692ee32b",
+      "shortId": "SMOKED",
+      "name": "Torque_",
+      "role": "USER",
+      "level": 100
+    },
+    "message": "/inv",
+    "timestamp": "2026-05-08T11:13:30.420Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "8130e18e-ff15-4f5b-a4e4-e3b8692ee32b",
+      "shortId": "SMOKED",
+      "name": "Torque_",
+      "role": "USER",
+      "level": 100
+    },
+    "message": "/hm [Sunday|Bayonet|WEAPON_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-08T11:13:45.107Z"
   }
 ]
