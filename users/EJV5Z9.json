@@ -454,5 +454,29 @@
     },
     "message": "trading christmasx1000",
     "timestamp": "2026-05-08T20:35:06.090Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "941e8007-d173-4d61-a5fe-959f990ab350",
+      "shortId": "EJV5Z9",
+      "name": "OOgway",
+      "role": "USER",
+      "level": 99
+    },
+    "message": "/price [Widow|Shark|WEAPON_SKIN|EPIC]",
+    "timestamp": "2026-05-08T21:20:05.382Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "941e8007-d173-4d61-a5fe-959f990ab350",
+      "shortId": "EJV5Z9",
+      "name": "OOgway",
+      "role": "USER",
+      "level": 99
+    },
+    "message": "/enter",
+    "timestamp": "2026-05-08T21:20:58.739Z"
   }
 ]
