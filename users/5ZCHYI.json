@@ -1078,5 +1078,101 @@
     },
     "message": "which offer",
     "timestamp": "2026-05-08T10:01:28.583Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "3cd39bca-fb4d-4024-bf72-57d747f9a75f",
+      "shortId": "5ZCHYI",
+      "name": "Saint.",
+      "role": "USER",
+      "level": 73
+    },
+    "message": "trading [Lor||BODY_SKIN|LEGENDARY][Endless||BODY_SKIN|MYTHICAL][Astral|AR-9|WEAPON_SKIN|MYTHICAL][Scarlet|SCAR|WEAPON_SKIN|LEGENDARY][Garden|LAR|WEAPON_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-08T10:25:45.617Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "3cd39bca-fb4d-4024-bf72-57d747f9a75f",
+      "shortId": "5ZCHYI",
+      "name": "Saint.",
+      "role": "USER",
+      "level": 73
+    },
+    "message": "//",
+    "timestamp": "2026-05-08T10:27:04.145Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "3cd39bca-fb4d-4024-bf72-57d747f9a75f",
+      "shortId": "5ZCHYI",
+      "name": "Saint.",
+      "role": "USER",
+      "level": 73
+    },
+    "message": "trading [Lor||BODY_SKIN|LEGENDARY][Endless||BODY_SKIN|MYTHICAL][Astral|AR-9|WEAPON_SKIN|MYTHICAL][Scarlet|SCAR|WEAPON_SKIN|LEGENDARY][Garden|LAR|WEAPON_SKIN|MYTHICAL][Demon|SCAR|WEAPON_SKIN|LEGENDARY][Godzilla|AR-9|WEAPON_SKIN|LEGENDARY][Savage|MAC-10|WEAPON_SKIN|LEGENDARY][Caring|Bayonet|WEAPON_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-08T10:27:06.961Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "3cd39bca-fb4d-4024-bf72-57d747f9a75f",
+      "shortId": "5ZCHYI",
+      "name": "Saint.",
+      "role": "USER",
+      "level": 73
+    },
+    "message": "..",
+    "timestamp": "2026-05-08T10:46:43.098Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "3cd39bca-fb4d-4024-bf72-57d747f9a75f",
+      "shortId": "5ZCHYI",
+      "name": "Saint.",
+      "role": "USER",
+      "level": 73
+    },
+    "message": "trading [Lor||BODY_SKIN|LEGENDARY][Endless||BODY_SKIN|MYTHICAL][Astral|AR-9|WEAPON_SKIN|MYTHICAL][Scarlet|SCAR|WEAPON_SKIN|LEGENDARY][Garden|LAR|WEAPON_SKIN|MYTHICAL][Demon|SCAR|WEAPON_SKIN|LEGENDARY][Godzilla|AR-9|WEAPON_SKIN|LEGENDARY][Savage|MAC-10|WEAPON_SKIN|LEGENDARY][Caring|Bayonet|WEAPON_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-08T10:46:44.739Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "3cd39bca-fb4d-4024-bf72-57d747f9a75f",
+      "shortId": "5ZCHYI",
+      "name": "Saint.",
+      "role": "USER",
+      "level": 73
+    },
+    "message": "?",
+    "timestamp": "2026-05-08T10:46:51.139Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "3cd39bca-fb4d-4024-bf72-57d747f9a75f",
+      "shortId": "5ZCHYI",
+      "name": "Saint.",
+      "role": "USER",
+      "level": 73
+    },
+    "message": "no",
+    "timestamp": "2026-05-08T10:46:58.329Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "3cd39bca-fb4d-4024-bf72-57d747f9a75f",
+      "shortId": "5ZCHYI",
+      "name": "Saint.",
+      "role": "USER",
+      "level": 73
+    },
+    "message": "nty",
+    "timestamp": "2026-05-08T10:47:09.395Z"
   }
 ]
