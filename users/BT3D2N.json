@@ -1,0 +1,38 @@
+[
+  {
+    "type": 2,
+    "user": {
+      "id": "b25b6a10-e4df-4f14-8f8b-01ae2e3c0d74",
+      "shortId": "BT3D2N",
+      "name": "Herocraft",
+      "role": "USER",
+      "level": 68
+    },
+    "message": "trading [CV01|Bayonet|WEAPON_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-08T08:52:55.286Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "b25b6a10-e4df-4f14-8f8b-01ae2e3c0d74",
+      "shortId": "BT3D2N",
+      "name": "Herocraft",
+      "role": "USER",
+      "level": 68
+    },
+    "message": "/enter",
+    "timestamp": "2026-05-08T08:53:02.144Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "b25b6a10-e4df-4f14-8f8b-01ae2e3c0d74",
+      "shortId": "BT3D2N",
+      "name": "Herocraft",
+      "role": "USER",
+      "level": 68
+    },
+    "message": "/inv",
+    "timestamp": "2026-05-08T08:55:05.128Z"
+  }
+]
