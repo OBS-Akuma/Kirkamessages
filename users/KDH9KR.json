@@ -274,5 +274,65 @@
     },
     "message": "i want [Veiled||BODY_SKIN|LEGENDARY]",
     "timestamp": "2026-05-08T21:06:10.029Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "TpaHcMKpZ1Uh0sdDEu4UDAONcdS2",
+      "shortId": "KDH9KR",
+      "name": "strange",
+      "role": "USER",
+      "level": 43
+    },
+    "message": "tr[Forbidden|AR-9|WEAPON_SKIN|MYTHICAL][Fudge|VITA|WEAPON_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-08T21:10:05.558Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "TpaHcMKpZ1Uh0sdDEu4UDAONcdS2",
+      "shortId": "KDH9KR",
+      "name": "strange",
+      "role": "USER",
+      "level": 43
+    },
+    "message": "should i giveaway [Fudge|VITA|WEAPON_SKIN|MYTHICAL]?",
+    "timestamp": "2026-05-08T21:10:40.150Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "TpaHcMKpZ1Uh0sdDEu4UDAONcdS2",
+      "shortId": "KDH9KR",
+      "name": "strange",
+      "role": "USER",
+      "level": 43
+    },
+    "message": "nvm",
+    "timestamp": "2026-05-08T21:10:46.362Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "TpaHcMKpZ1Uh0sdDEu4UDAONcdS2",
+      "shortId": "KDH9KR",
+      "name": "strange",
+      "role": "USER",
+      "level": 43
+    },
+    "message": "/entert",
+    "timestamp": "2026-05-08T21:11:07.569Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "TpaHcMKpZ1Uh0sdDEu4UDAONcdS2",
+      "shortId": "KDH9KR",
+      "name": "strange",
+      "role": "USER",
+      "level": 43
+    },
+    "message": "/enter",
+    "timestamp": "2026-05-08T21:11:08.729Z"
   }
 ]
