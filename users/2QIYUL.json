@@ -9118,5 +9118,17 @@
     },
     "message": "/hm ortus",
     "timestamp": "2026-05-08T11:00:49.893Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "1ae21f3a-c5d5-4161-8718-75880e3d3cc8",
+      "shortId": "2QIYUL",
+      "name": "RAGEx",
+      "role": "USER",
+      "level": 43
+    },
+    "message": "/inv #I0GVO6",
+    "timestamp": "2026-05-08T11:09:20.369Z"
   }
 ]
