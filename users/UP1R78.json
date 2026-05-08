@@ -5686,5 +5686,101 @@
     },
     "message": "Ghost",
     "timestamp": "2026-05-08T03:11:40.432Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "4b3c9e26-0516-4634-99f9-ea8361ccd6d8",
+      "shortId": "UP1R78",
+      "name": "CASH",
+      "role": "USER",
+      "level": 80
+    },
+    "message": "What Will you add ?",
+    "timestamp": "2026-05-08T03:11:46.698Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "4b3c9e26-0516-4634-99f9-ea8361ccd6d8",
+      "shortId": "UP1R78",
+      "name": "CASH",
+      "role": "USER",
+      "level": 80
+    },
+    "message": "nah i wouldnt do that one",
+    "timestamp": "2026-05-08T03:12:09.630Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "4b3c9e26-0516-4634-99f9-ea8361ccd6d8",
+      "shortId": "UP1R78",
+      "name": "CASH",
+      "role": "USER",
+      "level": 80
+    },
+    "message": "you gotta add",
+    "timestamp": "2026-05-08T03:12:13.276Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "4b3c9e26-0516-4634-99f9-ea8361ccd6d8",
+      "shortId": "UP1R78",
+      "name": "CASH",
+      "role": "USER",
+      "level": 80
+    },
+    "message": "/price shroud",
+    "timestamp": "2026-05-08T03:12:16.950Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "4b3c9e26-0516-4634-99f9-ea8361ccd6d8",
+      "shortId": "UP1R78",
+      "name": "CASH",
+      "role": "USER",
+      "level": 80
+    },
+    "message": "Ik thats bad for me Navy",
+    "timestamp": "2026-05-08T03:12:30.347Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "4b3c9e26-0516-4634-99f9-ea8361ccd6d8",
+      "shortId": "UP1R78",
+      "name": "CASH",
+      "role": "USER",
+      "level": 80
+    },
+    "message": "so wahts the offer ?",
+    "timestamp": "2026-05-08T03:12:47.778Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "4b3c9e26-0516-4634-99f9-ea8361ccd6d8",
+      "shortId": "UP1R78",
+      "name": "CASH",
+      "role": "USER",
+      "level": 80
+    },
+    "message": "Idk bout that  ?",
+    "timestamp": "2026-05-08T03:13:04.467Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "4b3c9e26-0516-4634-99f9-ea8361ccd6d8",
+      "shortId": "UP1R78",
+      "name": "CASH",
+      "role": "USER",
+      "level": 80
+    },
+    "message": "polar 3 mil eitehr way",
+    "timestamp": "2026-05-08T03:13:10.699Z"
   }
 ]
