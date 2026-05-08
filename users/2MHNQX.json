@@ -1102,5 +1102,17 @@
     },
     "message": "Taking offers on [Synergy|LAR|WEAPON_SKIN|MYTHICAL]",
     "timestamp": "2026-05-07T23:58:40.791Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "1c9cf342-5e36-47ce-86d7-096f4170995e",
+      "shortId": "2MHNQX",
+      "name": "Midnight",
+      "role": "USER",
+      "level": 101
+    },
+    "message": "trading [Bansee|VITA|WEAPON_SKIN|MYTHICAL] [Synergy|LAR|WEAPON_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-08T00:01:35.043Z"
   }
 ]
