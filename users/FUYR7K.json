@@ -106,5 +106,17 @@
     },
     "message": "/mywager",
     "timestamp": "2026-05-07T07:40:02.153Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "e45990f7-cb60-48c6-b664-41a0d09d25a1",
+      "shortId": "FUYR7K",
+      "name": "WeatieXpert",
+      "role": "USER",
+      "level": 95
+    },
+    "message": "ANONE WAGER GOLDEN?",
+    "timestamp": "2026-05-08T09:05:35.116Z"
   }
 ]
