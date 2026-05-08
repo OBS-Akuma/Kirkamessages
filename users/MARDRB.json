@@ -34,5 +34,17 @@
     },
     "message": "okay",
     "timestamp": "2026-05-08T02:22:50.660Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "guest-de2a1e4b-c1bb-4c47-ba96-e314c3fc9f38",
+      "shortId": "MARDRB",
+      "name": "wabyyy",
+      "role": "USER",
+      "level": 8
+    },
+    "message": "what do i do with 120k money",
+    "timestamp": "2026-05-08T08:57:54.911Z"
   }
 ]
