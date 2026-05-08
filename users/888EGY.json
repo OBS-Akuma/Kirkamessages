@@ -70,5 +70,17 @@
     },
     "message": "how many minutes?",
     "timestamp": "2026-05-08T06:39:07.710Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "a1b97659-2643-423d-befe-d8f211f2b602",
+      "shortId": "888EGY",
+      "name": "S4DY",
+      "role": "USER",
+      "level": 96
+    },
+    "message": "[Marage||BODY_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-08T08:17:59.740Z"
   }
 ]
