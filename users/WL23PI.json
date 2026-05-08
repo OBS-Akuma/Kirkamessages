@@ -1640,7 +1640,7 @@
       "role": "USER",
       "level": 84
     },
-    "message": "a wood giveaway Ã°ÂÂ¤Â",
+    "message": "a wood giveaway ÃÂ°ÃÂÃÂ¤ÃÂ",
     "timestamp": "2026-05-08T09:28:46.124Z"
   },
   {
@@ -2300,7 +2300,7 @@
       "role": "USER",
       "level": 84
     },
-    "message": "my vita Ã°ÂÂÂ«",
+    "message": "my vita ÃÂ°ÃÂÃÂÃÂ«",
     "timestamp": "2026-05-08T10:15:58.646Z"
   },
   {
@@ -2794,5 +2794,101 @@
     },
     "message": "coin flip/wager/trading [Vionix||BODY_SKIN|MYTHICAL],[Chillin||BODY_SKIN|MYTHICAL],[Scorcher|Shark|WEAPON_SKIN|MYTHICAL],[Magic|Shark|WEAPON_SKIN|MYTHICAL],[sht bayonet]??",
     "timestamp": "2026-05-08T11:09:01.987Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "5c0f020b-5dfa-4e89-8a66-f0f92ffadc40",
+      "shortId": "WL23PI",
+      "name": "WWWWWWWWWWWWWW",
+      "role": "USER",
+      "level": 84
+    },
+    "message": "#TTTVBJ wager scorcher?",
+    "timestamp": "2026-05-08T11:13:06.988Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "5c0f020b-5dfa-4e89-8a66-f0f92ffadc40",
+      "shortId": "WL23PI",
+      "name": "WWWWWWWWWWWWWW",
+      "role": "USER",
+      "level": 84
+    },
+    "message": "/wager [Scorcher|Shark|WEAPON_SKIN|MYTHICAL] #TTTVBJ",
+    "timestamp": "2026-05-08T11:13:20.975Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "5c0f020b-5dfa-4e89-8a66-f0f92ffadc40",
+      "shortId": "WL23PI",
+      "name": "WWWWWWWWWWWWWW",
+      "role": "USER",
+      "level": 84
+    },
+    "message": "ah crap",
+    "timestamp": "2026-05-08T11:14:05.013Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "5c0f020b-5dfa-4e89-8a66-f0f92ffadc40",
+      "shortId": "WL23PI",
+      "name": "WWWWWWWWWWWWWW",
+      "role": "USER",
+      "level": 84
+    },
+    "message": "i lost gg'z",
+    "timestamp": "2026-05-08T11:14:10.863Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "5c0f020b-5dfa-4e89-8a66-f0f92ffadc40",
+      "shortId": "WL23PI",
+      "name": "WWWWWWWWWWWWWW",
+      "role": "USER",
+      "level": 84
+    },
+    "message": "that's W to see",
+    "timestamp": "2026-05-08T11:14:53.213Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "5c0f020b-5dfa-4e89-8a66-f0f92ffadc40",
+      "shortId": "WL23PI",
+      "name": "WWWWWWWWWWWWWW",
+      "role": "USER",
+      "level": 84
+    },
+    "message": "gg'z",
+    "timestamp": "2026-05-08T11:15:21.703Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "5c0f020b-5dfa-4e89-8a66-f0f92ffadc40",
+      "shortId": "WL23PI",
+      "name": "WWWWWWWWWWWWWW",
+      "role": "USER",
+      "level": 84
+    },
+    "message": "trading [Vionix||BODY_SKIN|MYTHICAL],[Chillin||BODY_SKIN|MYTHICAL],[sht bayo]",
+    "timestamp": "2026-05-08T11:15:41.657Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "5c0f020b-5dfa-4e89-8a66-f0f92ffadc40",
+      "shortId": "WL23PI",
+      "name": "WWWWWWWWWWWWWW",
+      "role": "USER",
+      "level": 84
+    },
+    "message": "/mytrade",
+    "timestamp": "2026-05-08T11:16:06.329Z"
   }
 ]
