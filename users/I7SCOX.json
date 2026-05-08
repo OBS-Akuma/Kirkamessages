@@ -718,5 +718,53 @@
     },
     "message": "/hm verde",
     "timestamp": "2026-05-07T23:58:10.245Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "e53ac14c-dc7d-421c-8abd-fe7b9e185688",
+      "shortId": "I7SCOX",
+      "name": "cocoa_koala",
+      "role": "USER",
+      "level": 81
+    },
+    "message": "/hm forge",
+    "timestamp": "2026-05-08T01:45:16.385Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "e53ac14c-dc7d-421c-8abd-fe7b9e185688",
+      "shortId": "I7SCOX",
+      "name": "cocoa_koala",
+      "role": "USER",
+      "level": 81
+    },
+    "message": "/locate forge",
+    "timestamp": "2026-05-08T01:45:35.610Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "e53ac14c-dc7d-421c-8abd-fe7b9e185688",
+      "shortId": "I7SCOX",
+      "name": "cocoa_koala",
+      "role": "USER",
+      "level": 81
+    },
+    "message": "hi",
+    "timestamp": "2026-05-08T01:45:37.177Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "e53ac14c-dc7d-421c-8abd-fe7b9e185688",
+      "shortId": "I7SCOX",
+      "name": "cocoa_koala",
+      "role": "USER",
+      "level": 81
+    },
+    "message": "/inv #WERWER",
+    "timestamp": "2026-05-08T01:45:59.864Z"
   }
 ]
