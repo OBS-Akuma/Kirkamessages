@@ -754,5 +754,173 @@
     },
     "message": "Trading/wagering[Fever|SCAR|WEAPON_SKIN|MYTHICAL]x2,[Ghoul||BODY_SKIN|MYTHICAL]x2,[Love Bites|Bayonet|WEAPON_SKIN|MYTHICAL]x2,[Or|Bayonet|WEAPON_SKIN|MYTHICAL]x4,[Ivoire|Revolver|WEAPON_SKIN|MYTHICAL],[Golden||CHEST|LEGENDARY]x9000",
     "timestamp": "2026-05-08T00:02:49.002Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "1385b47a-bc43-4879-a1c4-7baf533b7bcc",
+      "shortId": "2JDMSD",
+      "name": "[\\/]Ike",
+      "role": "USER",
+      "level": 47
+    },
+    "message": "I want golem to wager",
+    "timestamp": "2026-05-08T00:39:53.622Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "1385b47a-bc43-4879-a1c4-7baf533b7bcc",
+      "shortId": "2JDMSD",
+      "name": "[\\/]Ike",
+      "role": "USER",
+      "level": 47
+    },
+    "message": "/wager [Gardener|Bayonet|WEAPON_SKIN|MYTHICAL] #CRM7LY",
+    "timestamp": "2026-05-08T00:40:36.915Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "1385b47a-bc43-4879-a1c4-7baf533b7bcc",
+      "shortId": "2JDMSD",
+      "name": "[\\/]Ike",
+      "role": "USER",
+      "level": 47
+    },
+    "message": "Wagering [Golden||CHEST|LEGENDARY]x10k",
+    "timestamp": "2026-05-08T00:42:26.861Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "1385b47a-bc43-4879-a1c4-7baf533b7bcc",
+      "shortId": "2JDMSD",
+      "name": "[\\/]Ike",
+      "role": "USER",
+      "level": 47
+    },
+    "message": "/lqst10 [Jolly||BODY_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-08T00:43:16.172Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "1385b47a-bc43-4879-a1c4-7baf533b7bcc",
+      "shortId": "2JDMSD",
+      "name": "[\\/]Ike",
+      "role": "USER",
+      "level": 47
+    },
+    "message": "/last10 [Jolly||BODY_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-08T00:43:26.570Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "1385b47a-bc43-4879-a1c4-7baf533b7bcc",
+      "shortId": "2JDMSD",
+      "name": "[\\/]Ike",
+      "role": "USER",
+      "level": 47
+    },
+    "message": "Thats fair",
+    "timestamp": "2026-05-08T00:44:38.493Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "1385b47a-bc43-4879-a1c4-7baf533b7bcc",
+      "shortId": "2JDMSD",
+      "name": "[\\/]Ike",
+      "role": "USER",
+      "level": 47
+    },
+    "message": "Twitch is carrying",
+    "timestamp": "2026-05-08T00:44:46.344Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "1385b47a-bc43-4879-a1c4-7baf533b7bcc",
+      "shortId": "2JDMSD",
+      "name": "[\\/]Ike",
+      "role": "USER",
+      "level": 47
+    },
+    "message": "No",
+    "timestamp": "2026-05-08T00:45:27.684Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "1385b47a-bc43-4879-a1c4-7baf533b7bcc",
+      "shortId": "2JDMSD",
+      "name": "[\\/]Ike",
+      "role": "USER",
+      "level": 47
+    },
+    "message": "/hm [Electra|Bayonet|WEAPON_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-08T00:48:07.962Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "1385b47a-bc43-4879-a1c4-7baf533b7bcc",
+      "shortId": "2JDMSD",
+      "name": "[\\/]Ike",
+      "role": "USER",
+      "level": 47
+    },
+    "message": "[Gardener|Bayonet|WEAPON_SKIN|MYTHICAL] for [Electra|Bayonet|WEAPON_SKIN|MYTHICAL] adds",
+    "timestamp": "2026-05-08T00:48:28.573Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "1385b47a-bc43-4879-a1c4-7baf533b7bcc",
+      "shortId": "2JDMSD",
+      "name": "[\\/]Ike",
+      "role": "USER",
+      "level": 47
+    },
+    "message": "Nvmnd",
+    "timestamp": "2026-05-08T00:48:39.830Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "1385b47a-bc43-4879-a1c4-7baf533b7bcc",
+      "shortId": "2JDMSD",
+      "name": "[\\/]Ike",
+      "role": "USER",
+      "level": 47
+    },
+    "message": "/cancelwager",
+    "timestamp": "2026-05-08T00:48:55.415Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "1385b47a-bc43-4879-a1c4-7baf533b7bcc",
+      "shortId": "2JDMSD",
+      "name": "[\\/]Ike",
+      "role": "USER",
+      "level": 47
+    },
+    "message": "/wager [Golden||CHEST|LEGENDARY]x3500 #YBYUEB",
+    "timestamp": "2026-05-08T00:49:16.538Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "1385b47a-bc43-4879-a1c4-7baf533b7bcc",
+      "shortId": "2JDMSD",
+      "name": "[\\/]Ike",
+      "role": "USER",
+      "level": 47
+    },
+    "message": "Blood cancelwager",
+    "timestamp": "2026-05-08T00:49:32.869Z"
   }
 ]
