@@ -1,0 +1,38 @@
+[
+  {
+    "type": 2,
+    "user": {
+      "id": "guest-6d74bed8-335f-427f-b536-cda918f445f4",
+      "shortId": "GH75XR",
+      "name": "Newbie",
+      "role": "USER",
+      "level": 65
+    },
+    "message": "again",
+    "timestamp": "2026-05-08T10:20:51.387Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "guest-6d74bed8-335f-427f-b536-cda918f445f4",
+      "shortId": "GH75XR",
+      "name": "Newbie",
+      "role": "USER",
+      "level": 65
+    },
+    "message": "bro",
+    "timestamp": "2026-05-08T10:20:56.171Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "guest-6d74bed8-335f-427f-b536-cda918f445f4",
+      "shortId": "GH75XR",
+      "name": "Newbie",
+      "role": "USER",
+      "level": 65
+    },
+    "message": "-___________-",
+    "timestamp": "2026-05-08T10:21:16.664Z"
+  }
+]
