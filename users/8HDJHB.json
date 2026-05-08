@@ -286,5 +286,113 @@
     },
     "message": "/price sinister",
     "timestamp": "2026-05-08T01:41:52.754Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "72ec1856-cc38-4d9c-8ce7-209fe7821eaa",
+      "shortId": "8HDJHB",
+      "name": "JULIANA",
+      "role": "USER",
+      "level": 77
+    },
+    "message": "lf [Sinister||BODY_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-08T02:13:51.611Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "72ec1856-cc38-4d9c-8ce7-209fe7821eaa",
+      "shortId": "8HDJHB",
+      "name": "JULIANA",
+      "role": "USER",
+      "level": 77
+    },
+    "message": "/price golem",
+    "timestamp": "2026-05-08T02:17:44.442Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "72ec1856-cc38-4d9c-8ce7-209fe7821eaa",
+      "shortId": "8HDJHB",
+      "name": "JULIANA",
+      "role": "USER",
+      "level": 77
+    },
+    "message": "/price pollen",
+    "timestamp": "2026-05-08T02:17:51.989Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "72ec1856-cc38-4d9c-8ce7-209fe7821eaa",
+      "shortId": "8HDJHB",
+      "name": "JULIANA",
+      "role": "USER",
+      "level": 77
+    },
+    "message": "lf [Sinister||BODY_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-08T02:18:21.355Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "72ec1856-cc38-4d9c-8ce7-209fe7821eaa",
+      "shortId": "8HDJHB",
+      "name": "JULIANA",
+      "role": "USER",
+      "level": 77
+    },
+    "message": "/price pollen",
+    "timestamp": "2026-05-08T02:26:07.555Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "72ec1856-cc38-4d9c-8ce7-209fe7821eaa",
+      "shortId": "8HDJHB",
+      "name": "JULIANA",
+      "role": "USER",
+      "level": 77
+    },
+    "message": "/price biker",
+    "timestamp": "2026-05-08T02:27:12.486Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "72ec1856-cc38-4d9c-8ce7-209fe7821eaa",
+      "shortId": "8HDJHB",
+      "name": "JULIANA",
+      "role": "USER",
+      "level": 77
+    },
+    "message": "/claim",
+    "timestamp": "2026-05-08T02:31:44.243Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "72ec1856-cc38-4d9c-8ce7-209fe7821eaa",
+      "shortId": "8HDJHB",
+      "name": "JULIANA",
+      "role": "USER",
+      "level": 77
+    },
+    "message": "/price gentlemen",
+    "timestamp": "2026-05-08T02:31:58.636Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "72ec1856-cc38-4d9c-8ce7-209fe7821eaa",
+      "shortId": "8HDJHB",
+      "name": "JULIANA",
+      "role": "USER",
+      "level": 77
+    },
+    "message": "/price gentleman",
+    "timestamp": "2026-05-08T02:32:38.651Z"
   }
 ]
