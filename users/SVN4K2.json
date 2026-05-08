@@ -1532,7 +1532,7 @@
       "role": "USER",
       "level": 94
     },
-    "message": "/price bÃ´",
+    "message": "/price bÃÂ´",
     "timestamp": "2026-05-08T07:49:32.424Z"
   },
   {
@@ -1556,7 +1556,7 @@
       "role": "USER",
       "level": 94
     },
-    "message": "Äe chat",
+    "message": "ÃÂe chat",
     "timestamp": "2026-05-08T07:52:36.312Z"
   },
   {
@@ -2384,7 +2384,7 @@
       "role": "USER",
       "level": 94
     },
-    "message": "/hm Ã¢crde",
+    "message": "/hm ÃÂ¢crde",
     "timestamp": "2026-05-08T08:52:40.286Z"
   },
   {
@@ -2410,5 +2410,173 @@
     },
     "message": "/hm arcade",
     "timestamp": "2026-05-08T08:53:11.259Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "Gz7vDsByrXSEwKYek3a6mgVwdFb2",
+      "shortId": "SVN4K2",
+      "name": "lolnoob",
+      "role": "USER",
+      "level": 94
+    },
+    "message": ".",
+    "timestamp": "2026-05-08T09:18:36.453Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "Gz7vDsByrXSEwKYek3a6mgVwdFb2",
+      "shortId": "SVN4K2",
+      "name": "lolnoob",
+      "role": "USER",
+      "level": 94
+    },
+    "message": "/wager scorcher]x2 #IQT1IO",
+    "timestamp": "2026-05-08T09:19:41.319Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "Gz7vDsByrXSEwKYek3a6mgVwdFb2",
+      "shortId": "SVN4K2",
+      "name": "lolnoob",
+      "role": "USER",
+      "level": 94
+    },
+    "message": "/wager [Scorcher|Shark|WEAPON_SKIN|MYTHICAL]x2 #IQT1IO",
+    "timestamp": "2026-05-08T09:19:54.282Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "Gz7vDsByrXSEwKYek3a6mgVwdFb2",
+      "shortId": "SVN4K2",
+      "name": "lolnoob",
+      "role": "USER",
+      "level": 94
+    },
+    "message": "/wager [Scorcher|Shark|WEAPON_SKIN|MYTHICAL]x2 #IQT1I",
+    "timestamp": "2026-05-08T09:20:52.340Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "Gz7vDsByrXSEwKYek3a6mgVwdFb2",
+      "shortId": "SVN4K2",
+      "name": "lolnoob",
+      "role": "USER",
+      "level": 94
+    },
+    "message": "confirnm",
+    "timestamp": "2026-05-08T09:21:19.089Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "Gz7vDsByrXSEwKYek3a6mgVwdFb2",
+      "shortId": "SVN4K2",
+      "name": "lolnoob",
+      "role": "USER",
+      "level": 94
+    },
+    "message": "/cancelwager",
+    "timestamp": "2026-05-08T09:22:10.808Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "Gz7vDsByrXSEwKYek3a6mgVwdFb2",
+      "shortId": "SVN4K2",
+      "name": "lolnoob",
+      "role": "USER",
+      "level": 94
+    },
+    "message": "/confirmwager",
+    "timestamp": "2026-05-08T09:22:35.668Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "Gz7vDsByrXSEwKYek3a6mgVwdFb2",
+      "shortId": "SVN4K2",
+      "name": "lolnoob",
+      "role": "USER",
+      "level": 94
+    },
+    "message": "fast",
+    "timestamp": "2026-05-08T09:22:40.531Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "Gz7vDsByrXSEwKYek3a6mgVwdFb2",
+      "shortId": "SVN4K2",
+      "name": "lolnoob",
+      "role": "USER",
+      "level": 94
+    },
+    "message": "gg",
+    "timestamp": "2026-05-08T09:23:05.875Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "Gz7vDsByrXSEwKYek3a6mgVwdFb2",
+      "shortId": "SVN4K2",
+      "name": "lolnoob",
+      "role": "USER",
+      "level": 94
+    },
+    "message": "/claim",
+    "timestamp": "2026-05-08T09:23:10.996Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "Gz7vDsByrXSEwKYek3a6mgVwdFb2",
+      "shortId": "SVN4K2",
+      "name": "lolnoob",
+      "role": "USER",
+      "level": 94
+    },
+    "message": "/locate scorcher",
+    "timestamp": "2026-05-08T09:24:07.832Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "Gz7vDsByrXSEwKYek3a6mgVwdFb2",
+      "shortId": "SVN4K2",
+      "name": "lolnoob",
+      "role": "USER",
+      "level": 94
+    },
+    "message": "lf lobby play rank",
+    "timestamp": "2026-05-08T09:33:08.508Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "Gz7vDsByrXSEwKYek3a6mgVwdFb2",
+      "shortId": "SVN4K2",
+      "name": "lolnoob",
+      "role": "USER",
+      "level": 94
+    },
+    "message": "/ni",
+    "timestamp": "2026-05-08T09:39:20.539Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "Gz7vDsByrXSEwKYek3a6mgVwdFb2",
+      "shortId": "SVN4K2",
+      "name": "lolnoob",
+      "role": "USER",
+      "level": 94
+    },
+    "message": "/locate flowstate",
+    "timestamp": "2026-05-08T09:39:45.726Z"
   }
 ]
