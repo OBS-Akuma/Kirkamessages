@@ -118,5 +118,17 @@
     },
     "message": "/price [Keith||BODY_SKIN|MYTHICAL]",
     "timestamp": "2026-05-03T04:09:14.959Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "guest-077dceb4-05fe-4442-b2e0-edd5469cf619",
+      "shortId": "AH7NA2",
+      "name": "ALTERED",
+      "role": "USER",
+      "level": 21
+    },
+    "message": "who has [Void SCAR|SCAR|WEAPON_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-08T08:07:19.671Z"
   }
 ]
