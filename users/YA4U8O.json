@@ -118,5 +118,17 @@
     },
     "message": "/inv",
     "timestamp": "2026-05-07T20:01:27.247Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "287119fe-d055-4d21-b222-fa6f668e0d9c",
+      "shortId": "YA4U8O",
+      "name": "VANDREX",
+      "role": "USER",
+      "level": 93
+    },
+    "message": "/raffle",
+    "timestamp": "2026-05-08T10:52:17.460Z"
   }
 ]
