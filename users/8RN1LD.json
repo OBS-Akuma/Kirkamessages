@@ -860,7 +860,7 @@
       "role": "USER",
       "level": 59
     },
-    "message": "早上好",
+    "message": "æ©ä¸å¥½",
     "timestamp": "2026-05-08T02:01:47.487Z"
   },
   {
@@ -874,5 +874,197 @@
     },
     "message": "Nice!",
     "timestamp": "2026-05-08T02:01:53.122Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "b666b8f1-f958-4f26-97e6-e081cc5c7b0a",
+      "shortId": "8RN1LD",
+      "name": "GummyBear",
+      "role": "USER",
+      "level": 59
+    },
+    "message": "好的",
+    "timestamp": "2026-05-08T02:02:35.646Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "b666b8f1-f958-4f26-97e6-e081cc5c7b0a",
+      "shortId": "8RN1LD",
+      "name": "GummyBear",
+      "role": "USER",
+      "level": 59
+    },
+    "message": "Haha whats your INV now QWERTY?",
+    "timestamp": "2026-05-08T02:02:49.825Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "b666b8f1-f958-4f26-97e6-e081cc5c7b0a",
+      "shortId": "8RN1LD",
+      "name": "GummyBear",
+      "role": "USER",
+      "level": 59
+    },
+    "message": "Got 800M?",
+    "timestamp": "2026-05-08T02:03:02.750Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "b666b8f1-f958-4f26-97e6-e081cc5c7b0a",
+      "shortId": "8RN1LD",
+      "name": "GummyBear",
+      "role": "USER",
+      "level": 59
+    },
+    "message": "or maybe 1B!",
+    "timestamp": "2026-05-08T02:03:09.411Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "b666b8f1-f958-4f26-97e6-e081cc5c7b0a",
+      "shortId": "8RN1LD",
+      "name": "GummyBear",
+      "role": "USER",
+      "level": 59
+    },
+    "message": "OMG",
+    "timestamp": "2026-05-08T02:03:17.718Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "b666b8f1-f958-4f26-97e6-e081cc5c7b0a",
+      "shortId": "8RN1LD",
+      "name": "GummyBear",
+      "role": "USER",
+      "level": 59
+    },
+    "message": "That's very rare!",
+    "timestamp": "2026-05-08T02:03:24.309Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "b666b8f1-f958-4f26-97e6-e081cc5c7b0a",
+      "shortId": "8RN1LD",
+      "name": "GummyBear",
+      "role": "USER",
+      "level": 59
+    },
+    "message": "I can do demon/rogue for it",
+    "timestamp": "2026-05-08T02:03:50.342Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "b666b8f1-f958-4f26-97e6-e081cc5c7b0a",
+      "shortId": "8RN1LD",
+      "name": "GummyBear",
+      "role": "USER",
+      "level": 59
+    },
+    "message": "Hmm",
+    "timestamp": "2026-05-08T02:03:58.987Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "b666b8f1-f958-4f26-97e6-e081cc5c7b0a",
+      "shortId": "8RN1LD",
+      "name": "GummyBear",
+      "role": "USER",
+      "level": 59
+    },
+    "message": "/price mirror",
+    "timestamp": "2026-05-08T02:04:03.378Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "b666b8f1-f958-4f26-97e6-e081cc5c7b0a",
+      "shortId": "8RN1LD",
+      "name": "GummyBear",
+      "role": "USER",
+      "level": 59
+    },
+    "message": "Not bad.",
+    "timestamp": "2026-05-08T02:04:19.868Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "b666b8f1-f958-4f26-97e6-e081cc5c7b0a",
+      "shortId": "8RN1LD",
+      "name": "GummyBear",
+      "role": "USER",
+      "level": 59
+    },
+    "message": "Shell you said Demon & Rogue just now",
+    "timestamp": "2026-05-08T02:04:43.372Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "b666b8f1-f958-4f26-97e6-e081cc5c7b0a",
+      "shortId": "8RN1LD",
+      "name": "GummyBear",
+      "role": "USER",
+      "level": 59
+    },
+    "message": "I dont follow BOT prices for these items",
+    "timestamp": "2026-05-08T02:05:44.170Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "b666b8f1-f958-4f26-97e6-e081cc5c7b0a",
+      "shortId": "8RN1LD",
+      "name": "GummyBear",
+      "role": "USER",
+      "level": 59
+    },
+    "message": "No worries if you dont want to trade.",
+    "timestamp": "2026-05-08T02:06:00.548Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "b666b8f1-f958-4f26-97e6-e081cc5c7b0a",
+      "shortId": "8RN1LD",
+      "name": "GummyBear",
+      "role": "USER",
+      "level": 59
+    },
+    "message": "不要强迫自己",
+    "timestamp": "2026-05-08T02:06:09.224Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "b666b8f1-f958-4f26-97e6-e081cc5c7b0a",
+      "shortId": "8RN1LD",
+      "name": "GummyBear",
+      "role": "USER",
+      "level": 59
+    },
+    "message": "The [Darkweb||BODY_SKIN|MYTHICAL] looks tempting at 20M",
+    "timestamp": "2026-05-08T02:06:52.227Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "b666b8f1-f958-4f26-97e6-e081cc5c7b0a",
+      "shortId": "8RN1LD",
+      "name": "GummyBear",
+      "role": "USER",
+      "level": 59
+    },
+    "message": "HAHA but I scare if I buy. It will stuck in my Inv",
+    "timestamp": "2026-05-08T02:07:02.923Z"
   }
 ]
