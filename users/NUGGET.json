@@ -2699,5 +2699,41 @@
     },
     "message": "sad",
     "timestamp": "2026-05-08T04:41:33.690Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "7f2a6090-abcb-48a7-8838-88ee8111b261",
+      "shortId": "NUGGET",
+      "name": "Akuma :3",
+      "role": "USER",
+      "level": 56
+    },
+    "message": "/inv",
+    "timestamp": "2026-05-08T19:29:28.976Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "7f2a6090-abcb-48a7-8838-88ee8111b261",
+      "shortId": "NUGGET",
+      "name": "Akuma :3",
+      "role": "USER",
+      "level": 56
+    },
+    "message": "#NHIWMD",
+    "timestamp": "2026-05-08T19:42:35.662Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "7f2a6090-abcb-48a7-8838-88ee8111b261",
+      "shortId": "NUGGET",
+      "name": "Akuma :3",
+      "role": "USER",
+      "level": 56
+    },
+    "message": "#2YSC0R",
+    "timestamp": "2026-05-08T19:42:52.863Z"
   }
 ]
