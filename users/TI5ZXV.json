@@ -1,0 +1,38 @@
+[
+  {
+    "type": 2,
+    "user": {
+      "id": "89e327e2-f3cb-4655-aef2-4d11ab474766",
+      "shortId": "TI5ZXV",
+      "name": "FaceLess",
+      "role": "USER",
+      "level": 91
+    },
+    "message": "TR [Ashley||BODY_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-08T19:20:13.004Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "89e327e2-f3cb-4655-aef2-4d11ab474766",
+      "shortId": "TI5ZXV",
+      "name": "FaceLess",
+      "role": "USER",
+      "level": 91
+    },
+    "message": "/inv #OXDARZ",
+    "timestamp": "2026-05-08T19:39:54.985Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "89e327e2-f3cb-4655-aef2-4d11ab474766",
+      "shortId": "TI5ZXV",
+      "name": "FaceLess",
+      "role": "USER",
+      "level": 91
+    },
+    "message": "/inv #0N5H9D",
+    "timestamp": "2026-05-08T19:43:39.967Z"
+  }
+]
