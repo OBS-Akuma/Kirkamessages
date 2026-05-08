@@ -70,5 +70,41 @@
     },
     "message": "i dont have anything lol",
     "timestamp": "2026-05-06T02:26:22.671Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "e3278dc0-1ce2-46f8-b13e-44e3d5fd1c86",
+      "shortId": "ENYEER",
+      "name": "SuperKuroky",
+      "role": "USER",
+      "level": 101
+    },
+    "message": "ya gitulah",
+    "timestamp": "2026-05-08T08:16:24.456Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "e3278dc0-1ce2-46f8-b13e-44e3d5fd1c86",
+      "shortId": "ENYEER",
+      "name": "SuperKuroky",
+      "role": "USER",
+      "level": 101
+    },
+    "message": "wkwkwkwk",
+    "timestamp": "2026-05-08T08:16:41.450Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "e3278dc0-1ce2-46f8-b13e-44e3d5fd1c86",
+      "shortId": "ENYEER",
+      "name": "SuperKuroky",
+      "role": "USER",
+      "level": 101
+    },
+    "message": "sama",
+    "timestamp": "2026-05-08T08:16:43.215Z"
   }
 ]
