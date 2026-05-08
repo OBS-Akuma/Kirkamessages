@@ -34,5 +34,17 @@
     },
     "message": "Selam",
     "timestamp": "2026-05-07T19:05:23.577Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "Utb30u9ly1Oo5g7QrjkUWTemEaD2",
+      "shortId": "XKUZGX",
+      "name": "Aslicatt",
+      "role": "USER",
+      "level": 14
+    },
+    "message": "Sa",
+    "timestamp": "2026-05-08T05:08:21.515Z"
   }
 ]
