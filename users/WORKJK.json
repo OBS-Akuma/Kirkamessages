@@ -2902,5 +2902,65 @@
     },
     "message": "trading [Ghillie||BODY_SKIN|MYTHICAL][Cinder||BODY_SKIN|MYTHICAL][Xx||BODY_SKIN|MYTHICAL][Shroud||BODY_SKIN|MYTHICAL][Moon||BODY_SKIN|LEGENDARY][Vine||BODY_SKIN|LEGENDARY][Astra|VITA|WEAPON_SKIN|MYTHICAL][Retro|Bayonet|WEAPON_SKIN|MYTHICAL][Ortus|Revolver|WEAPON_SKIN|MYTHICAL]",
     "timestamp": "2026-05-08T03:52:12.690Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "a93a6c05-0354-4898-b468-d0ac3266e380",
+      "shortId": "WORKJK",
+      "name": "Ghost",
+      "role": "USER",
+      "level": 69
+    },
+    "message": "[wizard]",
+    "timestamp": "2026-05-08T05:57:00.326Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "a93a6c05-0354-4898-b468-d0ac3266e380",
+      "shortId": "WORKJK",
+      "name": "Ghost",
+      "role": "USER",
+      "level": 69
+    },
+    "message": "tr [Cinder||BODY_SKIN|MYTHICAL][Shroud||BODY_SKIN|MYTHICAL][Ghillie||BODY_SKIN|MYTHICAL][Xx||BODY_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-08T05:57:14.444Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "a93a6c05-0354-4898-b468-d0ac3266e380",
+      "shortId": "WORKJK",
+      "name": "Ghost",
+      "role": "USER",
+      "level": 69
+    },
+    "message": "/hm vivid x3640",
+    "timestamp": "2026-05-08T05:57:33.184Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "a93a6c05-0354-4898-b468-d0ac3266e380",
+      "shortId": "WORKJK",
+      "name": "Ghost",
+      "role": "USER",
+      "level": 69
+    },
+    "message": "bruh",
+    "timestamp": "2026-05-08T05:57:35.447Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "a93a6c05-0354-4898-b468-d0ac3266e380",
+      "shortId": "WORKJK",
+      "name": "Ghost",
+      "role": "USER",
+      "level": 69
+    },
+    "message": "tr [Cinder||BODY_SKIN|MYTHICAL][Xx||BODY_SKIN|MYTHICAL][Shroud||BODY_SKIN|MYTHICAL][Ghillie||BODY_SKIN|MYTHICAL][Moon||BODY_SKIN|LEGENDARY][Vine||BODY_SKIN|LEGENDARY]",
+    "timestamp": "2026-05-08T05:57:57.043Z"
   }
 ]
