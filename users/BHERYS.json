@@ -622,5 +622,53 @@
     },
     "message": "I want anggel",
     "timestamp": "2026-05-08T20:07:21.226Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "13b9e526-3f3d-429c-a01f-1965066f9fec",
+      "shortId": "BHERYS",
+      "name": "PvP_BYEBYE._.",
+      "role": "USER",
+      "level": 32
+    },
+    "message": "trading[Golden||CHEST|LEGENDARY]x1000",
+    "timestamp": "2026-05-08T20:16:55.537Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "13b9e526-3f3d-429c-a01f-1965066f9fec",
+      "shortId": "BHERYS",
+      "name": "PvP_BYEBYE._.",
+      "role": "USER",
+      "level": 32
+    },
+    "message": "trading [Golden||CHEST|LEGENDARY]x1000 and [Pastel||BODY_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-08T20:18:13.295Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "13b9e526-3f3d-429c-a01f-1965066f9fec",
+      "shortId": "BHERYS",
+      "name": "PvP_BYEBYE._.",
+      "role": "USER",
+      "level": 32
+    },
+    "message": "[fate]",
+    "timestamp": "2026-05-08T20:18:31.404Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "13b9e526-3f3d-429c-a01f-1965066f9fec",
+      "shortId": "BHERYS",
+      "name": "PvP_BYEBYE._.",
+      "role": "USER",
+      "level": 32
+    },
+    "message": "[Bolt|Bayonet|WEAPON_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-08T20:18:39.375Z"
   }
 ]
