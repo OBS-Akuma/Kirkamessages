@@ -406,5 +406,17 @@
     },
     "message": "the bot doesnt take pennies as giveaway",
     "timestamp": "2026-05-07T23:51:23.759Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "fddeb704-c4e4-4f50-8a81-28c407f6d5da",
+      "shortId": "LYUXIM",
+      "name": "tstep",
+      "role": "USER",
+      "level": 98
+    },
+    "message": "[Vocaloid|SCAR|WEAPON_SKIN|LEGENDARY]",
+    "timestamp": "2026-05-08T04:22:19.799Z"
   }
 ]
