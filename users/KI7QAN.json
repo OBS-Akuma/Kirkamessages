@@ -1,0 +1,38 @@
+[
+  {
+    "type": 2,
+    "user": {
+      "id": "299bd498-7b8f-4f19-b469-0eece0c00335",
+      "shortId": "KI7QAN",
+      "name": "tony",
+      "role": "USER",
+      "level": 10
+    },
+    "message": "hello all",
+    "timestamp": "2026-05-08T19:35:13.908Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "299bd498-7b8f-4f19-b469-0eece0c00335",
+      "shortId": "KI7QAN",
+      "name": "tony",
+      "role": "USER",
+      "level": 10
+    },
+    "message": "#Z97DD0a accept",
+    "timestamp": "2026-05-08T19:36:39.954Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "299bd498-7b8f-4f19-b469-0eece0c00335",
+      "shortId": "KI7QAN",
+      "name": "tony",
+      "role": "USER",
+      "level": 10
+    },
+    "message": "/claim",
+    "timestamp": "2026-05-08T19:37:39.202Z"
+  }
+]
