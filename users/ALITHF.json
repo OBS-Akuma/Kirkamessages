@@ -334,5 +334,17 @@
     },
     "message": "/claim",
     "timestamp": "2026-05-08T06:32:01.511Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "b8da81fb-ba0f-4d57-9c2b-560a302212ed",
+      "shortId": "ALITHF",
+      "name": "Bigmac",
+      "role": "USER",
+      "level": 76
+    },
+    "message": "/locate [saint patrick",
+    "timestamp": "2026-05-08T07:10:48.095Z"
   }
 ]
