@@ -34,5 +34,41 @@
     },
     "message": "/flip",
     "timestamp": "2026-05-07T07:14:40.405Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "XoqoDZfM7PPFbsImYLmPmkVzce12",
+      "shortId": "BK585Y",
+      "name": "Imbetterthanu.",
+      "role": "USER",
+      "level": 37
+    },
+    "message": "i have forbidden",
+    "timestamp": "2026-05-08T08:02:06.380Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "XoqoDZfM7PPFbsImYLmPmkVzce12",
+      "shortId": "BK585Y",
+      "name": "Imbetterthanu.",
+      "role": "USER",
+      "level": 37
+    },
+    "message": "i have [Forbidden|AR-9|WEAPON_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-08T08:02:21.843Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "XoqoDZfM7PPFbsImYLmPmkVzce12",
+      "shortId": "BK585Y",
+      "name": "Imbetterthanu.",
+      "role": "USER",
+      "level": 37
+    },
+    "message": "/enter",
+    "timestamp": "2026-05-08T08:03:10.581Z"
   }
 ]
