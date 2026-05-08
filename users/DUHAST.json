@@ -528,5 +528,113 @@
     },
     "message": "gg",
     "timestamp": "2026-05-08T08:10:32.245Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "b3e46a65-3682-40c5-8a7b-b4af725fa333",
+      "shortId": "DUHAST",
+      "name": "Rammstein",
+      "role": "USER",
+      "level": 79
+    },
+    "message": "kirkabot-0x4ae366",
+    "timestamp": "2026-05-08T08:35:52.037Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "b3e46a65-3682-40c5-8a7b-b4af725fa333",
+      "shortId": "DUHAST",
+      "name": "Rammstein",
+      "role": "USER",
+      "level": 79
+    },
+    "message": "Gymmy i [Singularity||BODY_SKIN|MYTHICAL]  traded for [Silver Bullet|VITA|WEAPON_SKIN|MYTHICAL] x3",
+    "timestamp": "2026-05-08T08:38:58.460Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "b3e46a65-3682-40c5-8a7b-b4af725fa333",
+      "shortId": "DUHAST",
+      "name": "Rammstein",
+      "role": "USER",
+      "level": 79
+    },
+    "message": "yes",
+    "timestamp": "2026-05-08T08:39:12.508Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "b3e46a65-3682-40c5-8a7b-b4af725fa333",
+      "shortId": "DUHAST",
+      "name": "Rammstein",
+      "role": "USER",
+      "level": 79
+    },
+    "message": "500m",
+    "timestamp": "2026-05-08T08:39:14.742Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "b3e46a65-3682-40c5-8a7b-b4af725fa333",
+      "shortId": "DUHAST",
+      "name": "Rammstein",
+      "role": "USER",
+      "level": 79
+    },
+    "message": "yes nice",
+    "timestamp": "2026-05-08T08:39:29.228Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "b3e46a65-3682-40c5-8a7b-b4af725fa333",
+      "shortId": "DUHAST",
+      "name": "Rammstein",
+      "role": "USER",
+      "level": 79
+    },
+    "message": "now i have only 8 sb",
+    "timestamp": "2026-05-08T08:39:36.137Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "b3e46a65-3682-40c5-8a7b-b4af725fa333",
+      "shortId": "DUHAST",
+      "name": "Rammstein",
+      "role": "USER",
+      "level": 79
+    },
+    "message": "/Locate [Silver Bullet|VITA|WEAPON_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-08T08:39:47.406Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "b3e46a65-3682-40c5-8a7b-b4af725fa333",
+      "shortId": "DUHAST",
+      "name": "Rammstein",
+      "role": "USER",
+      "level": 79
+    },
+    "message": "ik",
+    "timestamp": "2026-05-08T08:39:54.985Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "b3e46a65-3682-40c5-8a7b-b4af725fa333",
+      "shortId": "DUHAST",
+      "name": "Rammstein",
+      "role": "USER",
+      "level": 79
+    },
+    "message": "#8RN1LD 4 remain singu available. I will try to get it.",
+    "timestamp": "2026-05-08T08:45:48.072Z"
   }
 ]
