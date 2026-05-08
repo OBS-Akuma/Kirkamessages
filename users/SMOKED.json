@@ -886,5 +886,17 @@
     },
     "message": "/claim",
     "timestamp": "2026-05-08T05:11:24.794Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "8130e18e-ff15-4f5b-a4e4-e3b8692ee32b",
+      "shortId": "SMOKED",
+      "name": "Torque_",
+      "role": "USER",
+      "level": 100
+    },
+    "message": "/price [Sunday|Bayonet|WEAPON_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-08T05:18:41.986Z"
   }
 ]
