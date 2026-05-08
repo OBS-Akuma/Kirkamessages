@@ -970,5 +970,29 @@
     },
     "message": "ty son",
     "timestamp": "2026-05-08T02:52:58.880Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "b5b856b7-c455-4d13-9c58-9eb824d4550f",
+      "shortId": "HBR602",
+      "name": "glimmer",
+      "role": "USER",
+      "level": 85
+    },
+    "message": "tr [Hazmat||BODY_SKIN|PARANORMAL] [Slasher||BODY_SKIN|PARANORMAL]",
+    "timestamp": "2026-05-08T07:03:35.048Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "b5b856b7-c455-4d13-9c58-9eb824d4550f",
+      "shortId": "HBR602",
+      "name": "glimmer",
+      "role": "USER",
+      "level": 85
+    },
+    "message": "what's offer for slasher",
+    "timestamp": "2026-05-08T07:04:02.706Z"
   }
 ]
