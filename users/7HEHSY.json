@@ -1,0 +1,26 @@
+[
+  {
+    "type": 2,
+    "user": {
+      "id": "acb98203-65f7-4ce8-a9bf-9ef137006dd4",
+      "shortId": "7HEHSY",
+      "name": "Aimlock",
+      "role": "USER",
+      "level": 102
+    },
+    "message": "/inv",
+    "timestamp": "2026-05-08T21:13:24.362Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "acb98203-65f7-4ce8-a9bf-9ef137006dd4",
+      "shortId": "7HEHSY",
+      "name": "Aimlock",
+      "role": "USER",
+      "level": 102
+    },
+    "message": ".",
+    "timestamp": "2026-05-08T21:13:27.792Z"
+  }
+]
