@@ -58,5 +58,41 @@
     },
     "message": "/inv",
     "timestamp": "2026-05-06T03:11:30.140Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "fc6beb3f-3266-4926-af7f-d27a9fd34398",
+      "shortId": "YP8IRE",
+      "name": "Danis^Sx",
+      "role": "USER",
+      "level": 89
+    },
+    "message": ".",
+    "timestamp": "2026-05-08T07:15:31.494Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "fc6beb3f-3266-4926-af7f-d27a9fd34398",
+      "shortId": "YP8IRE",
+      "name": "Danis^Sx",
+      "role": "USER",
+      "level": 89
+    },
+    "message": "/inv",
+    "timestamp": "2026-05-08T07:15:38.673Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "fc6beb3f-3266-4926-af7f-d27a9fd34398",
+      "shortId": "YP8IRE",
+      "name": "Danis^Sx",
+      "role": "USER",
+      "level": 89
+    },
+    "message": "Tr[Rainy||BODY_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-08T07:16:31.521Z"
   }
 ]
