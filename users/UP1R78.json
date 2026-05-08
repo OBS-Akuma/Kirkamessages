@@ -3850,5 +3850,41 @@
     },
     "message": "I meant",
     "timestamp": "2026-05-08T00:43:06.869Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "4b3c9e26-0516-4634-99f9-ea8361ccd6d8",
+      "shortId": "UP1R78",
+      "name": "CASH",
+      "role": "USER",
+      "level": 80
+    },
+    "message": "Heik",
+    "timestamp": "2026-05-08T00:43:28.848Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "4b3c9e26-0516-4634-99f9-ea8361ccd6d8",
+      "shortId": "UP1R78",
+      "name": "CASH",
+      "role": "USER",
+      "level": 80
+    },
+    "message": "could i get some packs ?",
+    "timestamp": "2026-05-08T00:43:34.555Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "4b3c9e26-0516-4634-99f9-ea8361ccd6d8",
+      "shortId": "UP1R78",
+      "name": "CASH",
+      "role": "USER",
+      "level": 80
+    },
+    "message": "I want to Buy like 10",
+    "timestamp": "2026-05-08T00:43:55.414Z"
   }
 ]
