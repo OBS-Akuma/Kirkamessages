@@ -262,5 +262,29 @@
     },
     "message": "/price laby",
     "timestamp": "2026-05-08T04:04:31.200Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "620dab01-f658-4dfd-90ff-a07442ac3566",
+      "shortId": "SPENDA",
+      "name": "Find",
+      "role": "USER",
+      "level": 100
+    },
+    "message": "[Uncanny|MAC-10|WEAPON_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-08T04:34:21.911Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "620dab01-f658-4dfd-90ff-a07442ac3566",
+      "shortId": "SPENDA",
+      "name": "Find",
+      "role": "USER",
+      "level": 100
+    },
+    "message": "[Watcher||BODY_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-08T04:38:30.278Z"
   }
 ]
