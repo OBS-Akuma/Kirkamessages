@@ -94,5 +94,29 @@
     },
     "message": "/enter",
     "timestamp": "2026-05-07T21:33:28.691Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "guest-69326935-6e4e-461b-9115-b6bb334c18cd",
+      "shortId": "1NDTQO",
+      "name": "Zero",
+      "role": "USER",
+      "level": 17
+    },
+    "message": "QWERTY can u donate",
+    "timestamp": "2026-05-08T01:35:51.568Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "guest-69326935-6e4e-461b-9115-b6bb334c18cd",
+      "shortId": "1NDTQO",
+      "name": "Zero",
+      "role": "USER",
+      "level": 17
+    },
+    "message": "TR[Shotdead|VITA|WEAPON_SKIN|MYTHICAL], [Uranium||BODY_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-08T01:35:58.103Z"
   }
 ]
