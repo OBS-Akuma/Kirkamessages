@@ -994,5 +994,89 @@
     },
     "message": "what's offer for slasher",
     "timestamp": "2026-05-08T07:04:02.706Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "b5b856b7-c455-4d13-9c58-9eb824d4550f",
+      "shortId": "HBR602",
+      "name": "glimmer",
+      "role": "USER",
+      "level": 85
+    },
+    "message": "yo party",
+    "timestamp": "2026-05-08T07:20:19.278Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "b5b856b7-c455-4d13-9c58-9eb824d4550f",
+      "shortId": "HBR602",
+      "name": "glimmer",
+      "role": "USER",
+      "level": 85
+    },
+    "message": "you said you wanted [slasher[ party",
+    "timestamp": "2026-05-08T07:20:32.894Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "b5b856b7-c455-4d13-9c58-9eb824d4550f",
+      "shortId": "HBR602",
+      "name": "glimmer",
+      "role": "USER",
+      "level": 85
+    },
+    "message": "pepo I got hallow",
+    "timestamp": "2026-05-08T07:23:02.610Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "b5b856b7-c455-4d13-9c58-9eb824d4550f",
+      "shortId": "HBR602",
+      "name": "glimmer",
+      "role": "USER",
+      "level": 85
+    },
+    "message": "tr [Slasher||BODY_SKIN|PARANORMAL] [Hazmat||BODY_SKIN|PARANORMAL]",
+    "timestamp": "2026-05-08T07:23:40.088Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "b5b856b7-c455-4d13-9c58-9eb824d4550f",
+      "shortId": "HBR602",
+      "name": "glimmer",
+      "role": "USER",
+      "level": 85
+    },
+    "message": "tr [Slasher||BODY_SKIN|PARANORMAL]",
+    "timestamp": "2026-05-08T08:01:46.012Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "b5b856b7-c455-4d13-9c58-9eb824d4550f",
+      "shortId": "HBR602",
+      "name": "glimmer",
+      "role": "USER",
+      "level": 85
+    },
+    "message": "5.9m",
+    "timestamp": "2026-05-08T08:01:57.980Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "b5b856b7-c455-4d13-9c58-9eb824d4550f",
+      "shortId": "HBR602",
+      "name": "glimmer",
+      "role": "USER",
+      "level": 85
+    },
+    "message": "skin",
+    "timestamp": "2026-05-08T08:02:03.140Z"
   }
 ]
