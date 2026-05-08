@@ -10,5 +10,17 @@
     },
     "message": "HI POOKIES",
     "timestamp": "2026-05-08T01:08:17.391Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "40bce763-1f47-41b3-8022-f83804c4cb32",
+      "shortId": "9FONN1",
+      "name": "BOT_",
+      "role": "USER",
+      "level": 5
+    },
+    "message": "#GAD1VO",
+    "timestamp": "2026-05-08T01:14:34.339Z"
   }
 ]
