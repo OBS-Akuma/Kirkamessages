@@ -838,5 +838,41 @@
     },
     "message": "/inv",
     "timestamp": "2026-05-08T08:00:53.212Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "Sy7ytB6DYGemOzCOx0B0PbrmHLy1",
+      "shortId": "OVXBOV",
+      "name": "TT|Swagg",
+      "role": "USER",
+      "level": 93
+    },
+    "message": "/enter",
+    "timestamp": "2026-05-08T08:23:10.896Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "Sy7ytB6DYGemOzCOx0B0PbrmHLy1",
+      "shortId": "OVXBOV",
+      "name": "TT|Swagg",
+      "role": "USER",
+      "level": 93
+    },
+    "message": "/giveaways",
+    "timestamp": "2026-05-08T08:39:19.041Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "Sy7ytB6DYGemOzCOx0B0PbrmHLy1",
+      "shortId": "OVXBOV",
+      "name": "TT|Swagg",
+      "role": "USER",
+      "level": 93
+    },
+    "message": "/lottery",
+    "timestamp": "2026-05-08T08:49:14.096Z"
   }
 ]
