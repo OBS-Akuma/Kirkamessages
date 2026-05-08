@@ -3394,5 +3394,77 @@
     },
     "message": "Tr blessed lf void shark,mac10,lar",
     "timestamp": "2026-05-08T00:01:37.186Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "6828517b-6c30-42c0-a4b1-2601e1dd5206",
+      "shortId": "QR0ITM",
+      "name": "SayaAkanLawan!",
+      "role": "USER",
+      "level": 100
+    },
+    "message": "TRADING [Blessed||BODY_SKIN|MYTHICAL] FOR VOID SHARK MAC10 AND LAR",
+    "timestamp": "2026-05-08T01:02:03.018Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "6828517b-6c30-42c0-a4b1-2601e1dd5206",
+      "shortId": "QR0ITM",
+      "name": "SayaAkanLawan!",
+      "role": "USER",
+      "level": 100
+    },
+    "message": "/st [Blessed||BODY_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-08T01:03:03.227Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "6828517b-6c30-42c0-a4b1-2601e1dd5206",
+      "shortId": "QR0ITM",
+      "name": "SayaAkanLawan!",
+      "role": "USER",
+      "level": 100
+    },
+    "message": "trading [Blessed||BODY_SKIN|MYTHICAL] lf void item",
+    "timestamp": "2026-05-08T01:06:34.862Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "6828517b-6c30-42c0-a4b1-2601e1dd5206",
+      "shortId": "QR0ITM",
+      "name": "SayaAkanLawan!",
+      "role": "USER",
+      "level": 100
+    },
+    "message": "qwerty",
+    "timestamp": "2026-05-08T01:07:35.484Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "6828517b-6c30-42c0-a4b1-2601e1dd5206",
+      "shortId": "QR0ITM",
+      "name": "SayaAkanLawan!",
+      "role": "USER",
+      "level": 100
+    },
+    "message": "hello",
+    "timestamp": "2026-05-08T01:07:46.723Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "6828517b-6c30-42c0-a4b1-2601e1dd5206",
+      "shortId": "QR0ITM",
+      "name": "SayaAkanLawan!",
+      "role": "USER",
+      "level": 100
+    },
+    "message": "qwerty my [Blessed||BODY_SKIN|MYTHICAL] for your [Vortex||BODY_SKIN|MYTHICAL],[Cyber VITA|VITA|WEAPON_SKIN|MYTHICAL]?",
+    "timestamp": "2026-05-08T01:08:00.970Z"
   }
 ]
