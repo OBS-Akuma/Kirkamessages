@@ -550,5 +550,113 @@
     },
     "message": "/enter",
     "timestamp": "2026-05-08T20:59:13.090Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "5c75b2d7-9364-4cdf-8a05-4f98b9d990f5",
+      "shortId": "AIIMYI",
+      "name": "xyds",
+      "role": "USER",
+      "level": 85
+    },
+    "message": "/fav bolt",
+    "timestamp": "2026-05-08T21:09:56.830Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "5c75b2d7-9364-4cdf-8a05-4f98b9d990f5",
+      "shortId": "AIIMYI",
+      "name": "xyds",
+      "role": "USER",
+      "level": 85
+    },
+    "message": "ye trying to win giveaways",
+    "timestamp": "2026-05-08T21:10:18.110Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "5c75b2d7-9364-4cdf-8a05-4f98b9d990f5",
+      "shortId": "AIIMYI",
+      "name": "xyds",
+      "role": "USER",
+      "level": 85
+    },
+    "message": "blaze the scammer here?",
+    "timestamp": "2026-05-08T21:10:55.059Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "5c75b2d7-9364-4cdf-8a05-4f98b9d990f5",
+      "shortId": "AIIMYI",
+      "name": "xyds",
+      "role": "USER",
+      "level": 85
+    },
+    "message": "/enter",
+    "timestamp": "2026-05-08T21:11:22.317Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "5c75b2d7-9364-4cdf-8a05-4f98b9d990f5",
+      "shortId": "AIIMYI",
+      "name": "xyds",
+      "role": "USER",
+      "level": 85
+    },
+    "message": "cool",
+    "timestamp": "2026-05-08T21:11:27.632Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "5c75b2d7-9364-4cdf-8a05-4f98b9d990f5",
+      "shortId": "AIIMYI",
+      "name": "xyds",
+      "role": "USER",
+      "level": 85
+    },
+    "message": "/hm [Old|Bayonet|WEAPON_SKIN|LEGENDARY]",
+    "timestamp": "2026-05-08T21:12:54.550Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "5c75b2d7-9364-4cdf-8a05-4f98b9d990f5",
+      "shortId": "AIIMYI",
+      "name": "xyds",
+      "role": "USER",
+      "level": 85
+    },
+    "message": "/fav average",
+    "timestamp": "2026-05-08T21:14:04.610Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "5c75b2d7-9364-4cdf-8a05-4f98b9d990f5",
+      "shortId": "AIIMYI",
+      "name": "xyds",
+      "role": "USER",
+      "level": 85
+    },
+    "message": "rip",
+    "timestamp": "2026-05-08T21:21:22.125Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "5c75b2d7-9364-4cdf-8a05-4f98b9d990f5",
+      "shortId": "AIIMYI",
+      "name": "xyds",
+      "role": "USER",
+      "level": 85
+    },
+    "message": "/giveaway",
+    "timestamp": "2026-05-08T21:25:59.103Z"
   }
 ]
