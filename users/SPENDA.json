@@ -106,5 +106,17 @@
     },
     "message": "[R32|Shark|WEAPON_SKIN|MYTHICAL]",
     "timestamp": "2026-05-08T03:08:01.638Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "620dab01-f658-4dfd-90ff-a07442ac3566",
+      "shortId": "SPENDA",
+      "name": "Find",
+      "role": "USER",
+      "level": 100
+    },
+    "message": "[Immortal|Bayonet|WEAPON_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-08T03:14:32.955Z"
   }
 ]
