@@ -406,5 +406,17 @@
     },
     "message": "lf [Gingerman||BODY_SKIN|LEGENDARY]",
     "timestamp": "2026-05-08T11:08:56.357Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "5f6667eb-ddbc-45b7-bf71-f7a97f967ffe",
+      "shortId": "I0GVO6",
+      "name": "Saturn",
+      "role": "USER",
+      "level": 50
+    },
+    "message": "/enter",
+    "timestamp": "2026-05-08T20:59:46.049Z"
   }
 ]
