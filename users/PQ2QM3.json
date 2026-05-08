@@ -742,5 +742,17 @@
     },
     "message": "/enter",
     "timestamp": "2026-05-08T03:59:21.627Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "f20b7a06-4259-43c3-8ec1-51c98ab462c9",
+      "shortId": "PQ2QM3",
+      "name": "Rencyy__",
+      "role": "USER",
+      "level": 29
+    },
+    "message": "who has keith",
+    "timestamp": "2026-05-08T04:10:43.083Z"
   }
 ]
