@@ -1138,5 +1138,29 @@
     },
     "message": "I'll give [Golden||CHEST|LEGENDARY]x1500 for angel",
     "timestamp": "2026-05-08T23:11:10.926Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "13b9e526-3f3d-429c-a01f-1965066f9fec",
+      "shortId": "BHERYS",
+      "name": "PvP_BYEBYE._.",
+      "role": "USER",
+      "level": 32
+    },
+    "message": "/hm angel",
+    "timestamp": "2026-05-08T23:12:09.909Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "13b9e526-3f3d-429c-a01f-1965066f9fec",
+      "shortId": "BHERYS",
+      "name": "PvP_BYEBYE._.",
+      "role": "USER",
+      "level": 32
+    },
+    "message": "/",
+    "timestamp": "2026-05-08T23:12:45.454Z"
   }
 ]
