@@ -646,5 +646,17 @@
     },
     "message": "Thts all i left",
     "timestamp": "2026-05-07T06:28:09.745Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "e94fc41b-ee11-41e2-8942-4381500742af",
+      "shortId": "KILLER",
+      "name": "Quitter",
+      "role": "USER",
+      "level": 99
+    },
+    "message": "Wagering [Heavy|LAR|WEAPON_SKIN|MYTHICAL][Ghoul||BODY_SKIN|MYTHICAL][Slasher||BODY_SKIN|PARANORMAL]",
+    "timestamp": "2026-05-08T07:09:31.893Z"
   }
 ]
