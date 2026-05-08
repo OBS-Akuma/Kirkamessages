@@ -250,5 +250,29 @@
     },
     "message": "i d h add",
     "timestamp": "2026-05-08T03:32:19.916Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "nMIphnUUG0d0O6FFix2cU7iMda92",
+      "shortId": "H415SN",
+      "name": "VIRUS",
+      "role": "USER",
+      "level": 68
+    },
+    "message": "/price [Onryo||BODY_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-08T04:22:11.350Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "nMIphnUUG0d0O6FFix2cU7iMda92",
+      "shortId": "H415SN",
+      "name": "VIRUS",
+      "role": "USER",
+      "level": 68
+    },
+    "message": "[Keith||BODY_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-08T04:22:56.654Z"
   }
 ]
