@@ -394,5 +394,53 @@
     },
     "message": "/locate onryo",
     "timestamp": "2026-05-08T04:24:25.379Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "b943d97e-0e1e-4d2f-9e29-1ba3f9c6c0d4",
+      "shortId": "T2D70P",
+      "name": "Kawrasin",
+      "role": "USER",
+      "level": 83
+    },
+    "message": "Iba k na ngayon pre",
+    "timestamp": "2026-05-08T11:13:00.074Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "b943d97e-0e1e-4d2f-9e29-1ba3f9c6c0d4",
+      "shortId": "T2D70P",
+      "name": "Kawrasin",
+      "role": "USER",
+      "level": 83
+    },
+    "message": "richy richy na",
+    "timestamp": "2026-05-08T11:13:05.574Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "b943d97e-0e1e-4d2f-9e29-1ba3f9c6c0d4",
+      "shortId": "T2D70P",
+      "name": "Kawrasin",
+      "role": "USER",
+      "level": 83
+    },
+    "message": "Bon jovi 6k golden and [Arachne|VITA|WEAPON_SKIN|MYTHICAL] for your [Static|VITA|WEAPON_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-08T11:14:00.877Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "b943d97e-0e1e-4d2f-9e29-1ba3f9c6c0d4",
+      "shortId": "T2D70P",
+      "name": "Kawrasin",
+      "role": "USER",
+      "level": 83
+    },
+    "message": "/locate static",
+    "timestamp": "2026-05-08T11:15:41.213Z"
   }
 ]
