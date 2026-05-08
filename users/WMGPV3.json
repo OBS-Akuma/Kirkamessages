@@ -1,0 +1,50 @@
+[
+  {
+    "type": 2,
+    "user": {
+      "id": "guest-4b937f09-7cb3-4ec2-9a96-21698a5967c6",
+      "shortId": "WMGPV3",
+      "name": "Newbie",
+      "role": "USER",
+      "level": 5
+    },
+    "message": "kk I'm giving 57 more gold for free",
+    "timestamp": "2026-05-08T01:43:43.141Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "guest-4b937f09-7cb3-4ec2-9a96-21698a5967c6",
+      "shortId": "WMGPV3",
+      "name": "Newbie",
+      "role": "USER",
+      "level": 5
+    },
+    "message": "gg",
+    "timestamp": "2026-05-08T01:43:56.655Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "guest-4b937f09-7cb3-4ec2-9a96-21698a5967c6",
+      "shortId": "WMGPV3",
+      "name": "Newbie",
+      "role": "USER",
+      "level": 5
+    },
+    "message": "Oh its the same guy",
+    "timestamp": "2026-05-08T01:44:03.800Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "guest-4b937f09-7cb3-4ec2-9a96-21698a5967c6",
+      "shortId": "WMGPV3",
+      "name": "Newbie",
+      "role": "USER",
+      "level": 5
+    },
+    "message": "hell yeah",
+    "timestamp": "2026-05-08T01:44:08.324Z"
+  }
+]
