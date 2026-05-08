@@ -10,5 +10,17 @@
     },
     "message": "[Monday||BODY_SKIN|MYTHICAL]",
     "timestamp": "2026-05-06T03:15:14.519Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "586b6fb0-011f-4373-90fc-b7d97600b89b",
+      "shortId": "6KIQAM",
+      "name": "Koenigsegg_v8",
+      "role": "USER",
+      "level": 83
+    },
+    "message": "[Gold|VITA|WEAPON_SKIN|LEGENDARY]",
+    "timestamp": "2026-05-08T01:51:19.764Z"
   }
 ]
