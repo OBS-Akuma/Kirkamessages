@@ -802,5 +802,53 @@
     },
     "message": "can u add",
     "timestamp": "2026-05-05T05:54:55.500Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "32fd760a-1a40-4c3c-9be6-090c74c0e904",
+      "shortId": "X7M5NQ",
+      "name": "$$KING-VON$$",
+      "role": "USER",
+      "level": 76
+    },
+    "message": "tr[Hotrod AR-9|AR-9|WEAPON_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-08T06:02:28.592Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "32fd760a-1a40-4c3c-9be6-090c74c0e904",
+      "shortId": "X7M5NQ",
+      "name": "$$KING-VON$$",
+      "role": "USER",
+      "level": 76
+    },
+    "message": "pepe",
+    "timestamp": "2026-05-08T06:03:03.400Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "32fd760a-1a40-4c3c-9be6-090c74c0e904",
+      "shortId": "X7M5NQ",
+      "name": "$$KING-VON$$",
+      "role": "USER",
+      "level": 76
+    },
+    "message": "7 to 8 mill hotrod ar-9",
+    "timestamp": "2026-05-08T06:03:17.497Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "32fd760a-1a40-4c3c-9be6-090c74c0e904",
+      "shortId": "X7M5NQ",
+      "name": "$$KING-VON$$",
+      "role": "USER",
+      "level": 76
+    },
+    "message": "evil spider offer?",
+    "timestamp": "2026-05-08T06:03:40.544Z"
   }
 ]
