@@ -4810,5 +4810,17 @@
     },
     "message": "I have a combo know",
     "timestamp": "2026-05-08T02:05:14.504Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "4b3c9e26-0516-4634-99f9-ea8361ccd6d8",
+      "shortId": "UP1R78",
+      "name": "CASH",
+      "role": "USER",
+      "level": 80
+    },
+    "message": "ITs [Sunshine||BODY_SKIN|MYTHICAL],[Shotdead|VITA|WEAPON_SKIN|MYTHICAL],[Engravement|Bayonet|WEAPON_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-08T02:05:30.218Z"
   }
 ]
