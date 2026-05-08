@@ -454,5 +454,29 @@
     },
     "message": "trading [Mabel||BODY_SKIN|MYTHICAL][Chick||BODY_SKIN|MYTHICAL][Gold Coins|Bayonet|WEAPON_SKIN|LEGENDARY][Ripped Santa||BODY_SKIN|PARANORMAL],[Polar||BODY_SKIN|MYTHICAL][Forbidden|AR-9|WEAPON_SKIN|MYTHICAL]",
     "timestamp": "2026-05-08T20:04:14.282Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "fdafc255-e85b-4f66-9af0-46e32f93c3ef",
+      "shortId": "DN581C",
+      "name": "$ableye",
+      "role": "USER",
+      "level": 78
+    },
+    "message": "sup",
+    "timestamp": "2026-05-08T20:04:21.495Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "fdafc255-e85b-4f66-9af0-46e32f93c3ef",
+      "shortId": "DN581C",
+      "name": "$ableye",
+      "role": "USER",
+      "level": 78
+    },
+    "message": "/hm icey",
+    "timestamp": "2026-05-08T20:06:02.665Z"
   }
 ]
