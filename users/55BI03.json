@@ -1,0 +1,38 @@
+[
+  {
+    "type": 2,
+    "user": {
+      "id": "oJDTlmnFssbnGhWIww4wfs7xkdI3",
+      "shortId": "55BI03",
+      "name": "Fake",
+      "role": "USER",
+      "level": 81
+    },
+    "message": "/price [Ranked_S2 Top100|Bayonet|WEAPON_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-08T06:28:34.759Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "oJDTlmnFssbnGhWIww4wfs7xkdI3",
+      "shortId": "55BI03",
+      "name": "Fake",
+      "role": "USER",
+      "level": 81
+    },
+    "message": "tr [Chilly||BODY_SKIN|MYTHICAL],[Bansee|VITA|WEAPON_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-08T06:29:20.846Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "oJDTlmnFssbnGhWIww4wfs7xkdI3",
+      "shortId": "55BI03",
+      "name": "Fake",
+      "role": "USER",
+      "level": 81
+    },
+    "message": "/hm [Chilly||BODY_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-08T06:33:13.500Z"
+  }
+]
