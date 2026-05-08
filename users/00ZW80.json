@@ -1402,5 +1402,41 @@
     },
     "message": "/enter",
     "timestamp": "2026-05-08T03:59:36.433Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "99cc3bc0-e1e3-48ee-815b-9bfe1f7f7fe2",
+      "shortId": "00ZW80",
+      "name": "Newbie",
+      "role": "USER",
+      "level": 29
+    },
+    "message": "tr [Spice||BODY_SKIN|MYTHICAL][Fallen|VITA|WEAPON_SKIN|MYTHICAL][Bone|Bayonet|WEAPON_SKIN|MYTHICAL][Sizzle||BODY_SKIN|MYTHICAL]x2[Noble|VITA|WEAPON_SKIN|LEGENDARY][Santa Claus||BODY_SKIN|LEGENDARY][Phantom||BODY_SKIN|MYTHICAL] no shop/unbox",
+    "timestamp": "2026-05-08T04:05:40.915Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "99cc3bc0-e1e3-48ee-815b-9bfe1f7f7fe2",
+      "shortId": "00ZW80",
+      "name": "Newbie",
+      "role": "USER",
+      "level": 29
+    },
+    "message": "tr [Spice||BODY_SKIN|MYTHICAL][Fallen|VITA|WEAPON_SKIN|MYTHICAL][Bone|Bayonet|WEAPON_SKIN|MYTHICAL][Sizzle||BODY_SKIN|MYTHICAL]x2[Noble|VITA|WEAPON_SKIN|LEGENDARY][Santa Claus||BODY_SKIN|LEGENDARY][Phantom||BODY_SKIN|MYTHICAL] no shop/unbox.",
+    "timestamp": "2026-05-08T04:09:45.993Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "99cc3bc0-e1e3-48ee-815b-9bfe1f7f7fe2",
+      "shortId": "00ZW80",
+      "name": "Newbie",
+      "role": "USER",
+      "level": 29
+    },
+    "message": "it say no shop",
+    "timestamp": "2026-05-08T04:10:17.814Z"
   }
 ]
