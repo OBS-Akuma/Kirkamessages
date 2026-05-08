@@ -1,0 +1,26 @@
+[
+  {
+    "type": 2,
+    "user": {
+      "id": "g5Ack8KQrnVPvDBDpa1jPW8LR4Q2",
+      "shortId": "7EK17I",
+      "name": "ALPHA",
+      "role": "USER",
+      "level": 98
+    },
+    "message": "/locate quilliam",
+    "timestamp": "2026-05-08T00:57:35.248Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "g5Ack8KQrnVPvDBDpa1jPW8LR4Q2",
+      "shortId": "7EK17I",
+      "name": "ALPHA",
+      "role": "USER",
+      "level": 98
+    },
+    "message": "wsp",
+    "timestamp": "2026-05-08T00:57:52.855Z"
+  }
+]
