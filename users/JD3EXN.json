@@ -1,0 +1,26 @@
+[
+  {
+    "type": 2,
+    "user": {
+      "id": "38a9dfe2-594f-407a-acc2-9df99472561c",
+      "shortId": "JD3EXN",
+      "name": "Marioz_Kart",
+      "role": "USER",
+      "level": 30
+    },
+    "message": "[Gazer[",
+    "timestamp": "2026-05-08T19:23:36.461Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "38a9dfe2-594f-407a-acc2-9df99472561c",
+      "shortId": "JD3EXN",
+      "name": "Marioz_Kart",
+      "role": "USER",
+      "level": 30
+    },
+    "message": "[Gazer||BODY_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-08T19:23:41.167Z"
+  }
+]
