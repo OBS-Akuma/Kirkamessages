@@ -718,5 +718,53 @@
     },
     "message": "Tr [Xed||BODY_SKIN|MYTHICAL]",
     "timestamp": "2026-05-08T20:05:14.715Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "fce58d08-90f4-45cd-9aba-7f4babb73836",
+      "shortId": "F1S8WU",
+      "name": "FURIx",
+      "role": "USER",
+      "level": 75
+    },
+    "message": "Qwertyy",
+    "timestamp": "2026-05-08T20:10:45.200Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "fce58d08-90f4-45cd-9aba-7f4babb73836",
+      "shortId": "F1S8WU",
+      "name": "FURIx",
+      "role": "USER",
+      "level": 75
+    },
+    "message": "Xed for void vita and void bayonet?",
+    "timestamp": "2026-05-08T20:11:09.055Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "fce58d08-90f4-45cd-9aba-7f4babb73836",
+      "shortId": "F1S8WU",
+      "name": "FURIx",
+      "role": "USER",
+      "level": 75
+    },
+    "message": "K :(",
+    "timestamp": "2026-05-08T20:11:19.690Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "fce58d08-90f4-45cd-9aba-7f4babb73836",
+      "shortId": "F1S8WU",
+      "name": "FURIx",
+      "role": "USER",
+      "level": 75
+    },
+    "message": "Looking for [RGB Black||BODY_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-08T20:11:58.084Z"
   }
 ]
