@@ -6442,5 +6442,89 @@
     },
     "message": "im a memeber",
     "timestamp": "2026-05-08T19:04:37.014Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "4b3c9e26-0516-4634-99f9-ea8361ccd6d8",
+      "shortId": "UP1R78",
+      "name": "CASH",
+      "role": "USER",
+      "level": 80
+    },
+    "message": "UPG[Sandwich||BODY_SKIN|MYTHICAL][Foil||BODY_SKIN|MYTHICAL][IMGERROR||BODY_SKIN|MYTHICAL][Reed||BODY_SKIN|LEGENDARY][Corny||BODY_SKIN|LEGENDARY][Spearmint||BODY_SKIN|MYTHICAL]6x[cargo",
+    "timestamp": "2026-05-08T19:09:31.974Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "4b3c9e26-0516-4634-99f9-ea8361ccd6d8",
+      "shortId": "UP1R78",
+      "name": "CASH",
+      "role": "USER",
+      "level": 80
+    },
+    "message": "UPG[Sandwich||BODY_SKIN|MYTHICAL][Foil||BODY_SKIN|MYTHICAL][IMGERROR||BODY_SKIN|MYTHICAL][Reed||BODY_SKIN|LEGENDARY][Corny||BODY_SKIN|LEGENDARY][Spearmint||BODY_SKIN|MYTHICAL]6x[Cargo|SCAR|WEAPON_SKIN|LEGENDARY][Lashes|Bayonet|WEAPON_SKIN|LEGENDARY]",
+    "timestamp": "2026-05-08T19:12:35.691Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "4b3c9e26-0516-4634-99f9-ea8361ccd6d8",
+      "shortId": "UP1R78",
+      "name": "CASH",
+      "role": "USER",
+      "level": 80
+    },
+    "message": "/price noble",
+    "timestamp": "2026-05-08T19:12:44.029Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "4b3c9e26-0516-4634-99f9-ea8361ccd6d8",
+      "shortId": "UP1R78",
+      "name": "CASH",
+      "role": "USER",
+      "level": 80
+    },
+    "message": "/hm love bites,diane",
+    "timestamp": "2026-05-08T19:14:43.749Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "4b3c9e26-0516-4634-99f9-ea8361ccd6d8",
+      "shortId": "UP1R78",
+      "name": "CASH",
+      "role": "USER",
+      "level": 80
+    },
+    "message": "Lemme offer for [Polygon|Bayonet|WEAPON_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-08T19:14:51.523Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "4b3c9e26-0516-4634-99f9-ea8361ccd6d8",
+      "shortId": "UP1R78",
+      "name": "CASH",
+      "role": "USER",
+      "level": 80
+    },
+    "message": "/price rabbit",
+    "timestamp": "2026-05-08T19:15:07.003Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "4b3c9e26-0516-4634-99f9-ea8361ccd6d8",
+      "shortId": "UP1R78",
+      "name": "CASH",
+      "role": "USER",
+      "level": 80
+    },
+    "message": "/hm 2024.polygon",
+    "timestamp": "2026-05-08T19:15:27.875Z"
   }
 ]
