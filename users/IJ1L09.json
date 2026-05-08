@@ -298,5 +298,197 @@
     },
     "message": "/enter",
     "timestamp": "2026-05-08T04:40:14.862Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "c44c225b-f00c-4241-a00a-7df482258197",
+      "shortId": "IJ1L09",
+      "name": "[MGD]Wizar",
+      "role": "USER",
+      "level": 49
+    },
+    "message": "ka ching",
+    "timestamp": "2026-05-08T10:35:39.674Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "c44c225b-f00c-4241-a00a-7df482258197",
+      "shortId": "IJ1L09",
+      "name": "[MGD]Wizar",
+      "role": "USER",
+      "level": 49
+    },
+    "message": "yayyyy",
+    "timestamp": "2026-05-08T10:35:41.253Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "c44c225b-f00c-4241-a00a-7df482258197",
+      "shortId": "IJ1L09",
+      "name": "[MGD]Wizar",
+      "role": "USER",
+      "level": 49
+    },
+    "message": "/claim",
+    "timestamp": "2026-05-08T10:35:43.402Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "c44c225b-f00c-4241-a00a-7df482258197",
+      "shortId": "IJ1L09",
+      "name": "[MGD]Wizar",
+      "role": "USER",
+      "level": 49
+    },
+    "message": "tr[Bones||BODY_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-08T10:45:41.407Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "c44c225b-f00c-4241-a00a-7df482258197",
+      "shortId": "IJ1L09",
+      "name": "[MGD]Wizar",
+      "role": "USER",
+      "level": 49
+    },
+    "message": "trading[Bones||BODY_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-08T10:50:27.860Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "c44c225b-f00c-4241-a00a-7df482258197",
+      "shortId": "IJ1L09",
+      "name": "[MGD]Wizar",
+      "role": "USER",
+      "level": 49
+    },
+    "message": "nah man",
+    "timestamp": "2026-05-08T10:50:46.335Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "c44c225b-f00c-4241-a00a-7df482258197",
+      "shortId": "IJ1L09",
+      "name": "[MGD]Wizar",
+      "role": "USER",
+      "level": 49
+    },
+    "message": "thats not good",
+    "timestamp": "2026-05-08T10:50:49.441Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "c44c225b-f00c-4241-a00a-7df482258197",
+      "shortId": "IJ1L09",
+      "name": "[MGD]Wizar",
+      "role": "USER",
+      "level": 49
+    },
+    "message": "tr[Bones||BODY_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-08T10:51:54.730Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "c44c225b-f00c-4241-a00a-7df482258197",
+      "shortId": "IJ1L09",
+      "name": "[MGD]Wizar",
+      "role": "USER",
+      "level": 49
+    },
+    "message": "/st bones",
+    "timestamp": "2026-05-08T10:52:07.996Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "c44c225b-f00c-4241-a00a-7df482258197",
+      "shortId": "IJ1L09",
+      "name": "[MGD]Wizar",
+      "role": "USER",
+      "level": 49
+    },
+    "message": "/vt 38943",
+    "timestamp": "2026-05-08T10:52:19.942Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "c44c225b-f00c-4241-a00a-7df482258197",
+      "shortId": "IJ1L09",
+      "name": "[MGD]Wizar",
+      "role": "USER",
+      "level": 49
+    },
+    "message": "/vt 72820",
+    "timestamp": "2026-05-08T10:52:31.735Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "c44c225b-f00c-4241-a00a-7df482258197",
+      "shortId": "IJ1L09",
+      "name": "[MGD]Wizar",
+      "role": "USER",
+      "level": 49
+    },
+    "message": "tr[Bones||BODY_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-08T10:52:40.200Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "c44c225b-f00c-4241-a00a-7df482258197",
+      "shortId": "IJ1L09",
+      "name": "[MGD]Wizar",
+      "role": "USER",
+      "level": 49
+    },
+    "message": "hm[Golden||CHEST|LEGENDARY] for [Milkyway||BODY_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-08T10:54:22.120Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "c44c225b-f00c-4241-a00a-7df482258197",
+      "shortId": "IJ1L09",
+      "name": "[MGD]Wizar",
+      "role": "USER",
+      "level": 49
+    },
+    "message": "yo minion",
+    "timestamp": "2026-05-08T10:55:36.507Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "c44c225b-f00c-4241-a00a-7df482258197",
+      "shortId": "IJ1L09",
+      "name": "[MGD]Wizar",
+      "role": "USER",
+      "level": 49
+    },
+    "message": "hii spicy",
+    "timestamp": "2026-05-08T10:55:55.720Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "c44c225b-f00c-4241-a00a-7df482258197",
+      "shortId": "IJ1L09",
+      "name": "[MGD]Wizar",
+      "role": "USER",
+      "level": 49
+    },
+    "message": "tr[Bones||BODY_SKIN|MYTHICAL] pls",
+    "timestamp": "2026-05-08T10:56:50.158Z"
   }
 ]
