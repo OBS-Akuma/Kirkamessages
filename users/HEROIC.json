@@ -1,0 +1,14 @@
+[
+  {
+    "type": 2,
+    "user": {
+      "id": "9c9f780a-967b-4e44-9557-04da154a8ec9",
+      "shortId": "HEROIC",
+      "name": "HEROIC_KILLER",
+      "role": "USER",
+      "level": 100
+    },
+    "message": "/playercount",
+    "timestamp": "2026-05-08T07:48:39.428Z"
+  }
+]
