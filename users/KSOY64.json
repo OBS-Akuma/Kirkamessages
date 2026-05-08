@@ -2566,5 +2566,65 @@
     },
     "message": "up [Waves|SCAR|WEAPON_SKIN|LEGENDARY][Godzilla|AR-9|WEAPON_SKIN|LEGENDARY][Thief|VITA|WEAPON_SKIN|LEGENDARY][Glance|Bayonet|WEAPON_SKIN|LEGENDARY][Caring|Bayonet|WEAPON_SKIN|MYTHICAL]x2[Fortunado||BODY_SKIN|LEGENDARY]x2",
     "timestamp": "2026-05-07T09:27:35.604Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "d88f4f73-1334-4556-9168-e0c6945ad2a1",
+      "shortId": "KSOY64",
+      "name": "Blaze",
+      "role": "USER",
+      "level": 98
+    },
+    "message": "/locate [Aries|Shark|WEAPON_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-08T00:52:27.635Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "d88f4f73-1334-4556-9168-e0c6945ad2a1",
+      "shortId": "KSOY64",
+      "name": "Blaze",
+      "role": "USER",
+      "level": 98
+    },
+    "message": "nep?",
+    "timestamp": "2026-05-08T00:57:14.035Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "d88f4f73-1334-4556-9168-e0c6945ad2a1",
+      "shortId": "KSOY64",
+      "name": "Blaze",
+      "role": "USER",
+      "level": 98
+    },
+    "message": "nty",
+    "timestamp": "2026-05-08T00:57:43.379Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "d88f4f73-1334-4556-9168-e0c6945ad2a1",
+      "shortId": "KSOY64",
+      "name": "Blaze",
+      "role": "USER",
+      "level": 98
+    },
+    "message": "idh lord",
+    "timestamp": "2026-05-08T00:58:07.130Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "d88f4f73-1334-4556-9168-e0c6945ad2a1",
+      "shortId": "KSOY64",
+      "name": "Blaze",
+      "role": "USER",
+      "level": 98
+    },
+    "message": "nep lby?",
+    "timestamp": "2026-05-08T00:58:17.866Z"
   }
 ]
