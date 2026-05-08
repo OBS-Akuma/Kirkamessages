@@ -355,5 +355,17 @@
     },
     "message": "/trzde confirm",
     "timestamp": "2026-05-08T11:06:39.570Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "da1fc2df-d5b2-419a-8d99-ce8638bfe487",
+      "shortId": "SODASS",
+      "name": "Pseed.",
+      "role": "USER",
+      "level": 98
+    },
+    "message": "Am I the only one who can’t access dc?",
+    "timestamp": "2026-05-08T19:55:52.890Z"
   }
 ]
