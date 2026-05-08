@@ -550,5 +550,53 @@
     },
     "message": "r u even an officeer?",
     "timestamp": "2026-05-07T08:22:48.523Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "ef6ad6dd-220e-40eb-afe4-1520b78be5d7",
+      "shortId": "69Y0E5",
+      "name": "MrMelone",
+      "role": "USER",
+      "level": 52
+    },
+    "message": "/price vivid",
+    "timestamp": "2026-05-08T05:54:42.698Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "ef6ad6dd-220e-40eb-afe4-1520b78be5d7",
+      "shortId": "69Y0E5",
+      "name": "MrMelone",
+      "role": "USER",
+      "level": 52
+    },
+    "message": "Neptune",
+    "timestamp": "2026-05-08T05:54:47.602Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "ef6ad6dd-220e-40eb-afe4-1520b78be5d7",
+      "shortId": "69Y0E5",
+      "name": "MrMelone",
+      "role": "USER",
+      "level": 52
+    },
+    "message": "y u want vivid so bad",
+    "timestamp": "2026-05-08T05:54:52.618Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "ef6ad6dd-220e-40eb-afe4-1520b78be5d7",
+      "shortId": "69Y0E5",
+      "name": "MrMelone",
+      "role": "USER",
+      "level": 52
+    },
+    "message": "hm u got rn",
+    "timestamp": "2026-05-08T05:55:01.733Z"
   }
 ]
