@@ -2158,5 +2158,17 @@
     },
     "message": "/enter",
     "timestamp": "2026-05-08T21:11:50.584Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "c4be612c-91b2-460a-a030-43bb277d1e8f",
+      "shortId": "21ERUV",
+      "name": "Leo_Xtc",
+      "role": "USER",
+      "level": 99
+    },
+    "message": "ggs",
+    "timestamp": "2026-05-08T21:37:09.904Z"
   }
 ]
