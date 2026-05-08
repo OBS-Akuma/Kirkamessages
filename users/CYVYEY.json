@@ -22,5 +22,17 @@
     },
     "message": "/claim",
     "timestamp": "2026-05-08T08:10:47.060Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "fbe98c9e-98f3-4230-906f-ab2c23714e56",
+      "shortId": "CYVYEY",
+      "name": "MoltenLava",
+      "role": "USER",
+      "level": 6
+    },
+    "message": "/enter",
+    "timestamp": "2026-05-08T21:20:00.473Z"
   }
 ]
