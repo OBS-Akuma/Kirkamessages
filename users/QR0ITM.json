@@ -4630,5 +4630,65 @@
     },
     "message": "tysm",
     "timestamp": "2026-05-08T08:02:26.057Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "6828517b-6c30-42c0-a4b1-2601e1dd5206",
+      "shortId": "QR0ITM",
+      "name": "SayaAkanLawan!",
+      "role": "USER",
+      "level": 100
+    },
+    "message": "/enter",
+    "timestamp": "2026-05-08T08:08:53.482Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "6828517b-6c30-42c0-a4b1-2601e1dd5206",
+      "shortId": "QR0ITM",
+      "name": "SayaAkanLawan!",
+      "role": "USER",
+      "level": 100
+    },
+    "message": "gummy",
+    "timestamp": "2026-05-08T08:10:39.296Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "6828517b-6c30-42c0-a4b1-2601e1dd5206",
+      "shortId": "QR0ITM",
+      "name": "SayaAkanLawan!",
+      "role": "USER",
+      "level": 100
+    },
+    "message": "you have void tomahawk and void shark?",
+    "timestamp": "2026-05-08T08:10:51.117Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "6828517b-6c30-42c0-a4b1-2601e1dd5206",
+      "shortId": "QR0ITM",
+      "name": "SayaAkanLawan!",
+      "role": "USER",
+      "level": 100
+    },
+    "message": "/claim",
+    "timestamp": "2026-05-08T08:11:04.513Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "6828517b-6c30-42c0-a4b1-2601e1dd5206",
+      "shortId": "QR0ITM",
+      "name": "SayaAkanLawan!",
+      "role": "USER",
+      "level": 100
+    },
+    "message": "wth",
+    "timestamp": "2026-05-08T08:11:06.847Z"
   }
 ]
