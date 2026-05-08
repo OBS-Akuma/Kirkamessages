@@ -118,5 +118,65 @@
     },
     "message": "/PRICE SLASHER",
     "timestamp": "2026-05-08T03:12:21.797Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "f1c6940c-5a94-4af4-ba69-fb763d71ebb4",
+      "shortId": "PGW05Z",
+      "name": "Lord_Gazzel",
+      "role": "USER",
+      "level": 88
+    },
+    "message": "/HM SLASHER",
+    "timestamp": "2026-05-08T03:39:39.409Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "f1c6940c-5a94-4af4-ba69-fb763d71ebb4",
+      "shortId": "PGW05Z",
+      "name": "Lord_Gazzel",
+      "role": "USER",
+      "level": 88
+    },
+    "message": "/hm baldwin",
+    "timestamp": "2026-05-08T03:42:19.802Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "f1c6940c-5a94-4af4-ba69-fb763d71ebb4",
+      "shortId": "PGW05Z",
+      "name": "Lord_Gazzel",
+      "role": "USER",
+      "level": 89
+    },
+    "message": "/hm moon",
+    "timestamp": "2026-05-08T03:49:56.719Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "f1c6940c-5a94-4af4-ba69-fb763d71ebb4",
+      "shortId": "PGW05Z",
+      "name": "Lord_Gazzel",
+      "role": "USER",
+      "level": 89
+    },
+    "message": "/hm dragonic",
+    "timestamp": "2026-05-08T03:50:08.599Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "f1c6940c-5a94-4af4-ba69-fb763d71ebb4",
+      "shortId": "PGW05Z",
+      "name": "Lord_Gazzel",
+      "role": "USER",
+      "level": 89
+    },
+    "message": "/hm V0i",
+    "timestamp": "2026-05-08T03:50:19.539Z"
   }
 ]
