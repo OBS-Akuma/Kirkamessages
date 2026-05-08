@@ -1,0 +1,50 @@
+[
+  {
+    "type": 2,
+    "user": {
+      "id": "744b9b84-c8ae-4bc8-88e2-5acf816ebb82",
+      "shortId": "Q94G3D",
+      "name": "Zn3r",
+      "role": "USER",
+      "level": 101
+    },
+    "message": "/enter",
+    "timestamp": "2026-05-08T08:04:31.197Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "744b9b84-c8ae-4bc8-88e2-5acf816ebb82",
+      "shortId": "Q94G3D",
+      "name": "Zn3r",
+      "role": "USER",
+      "level": 101
+    },
+    "message": "/inv",
+    "timestamp": "2026-05-08T08:39:44.326Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "744b9b84-c8ae-4bc8-88e2-5acf816ebb82",
+      "shortId": "Q94G3D",
+      "name": "Zn3r",
+      "role": "USER",
+      "level": 101
+    },
+    "message": "/enter",
+    "timestamp": "2026-05-08T08:39:50.377Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "744b9b84-c8ae-4bc8-88e2-5acf816ebb82",
+      "shortId": "Q94G3D",
+      "name": "Zn3r",
+      "role": "USER",
+      "level": 101
+    },
+    "message": "/price lor",
+    "timestamp": "2026-05-08T08:39:58.672Z"
+  }
+]
