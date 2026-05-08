@@ -1,0 +1,26 @@
+[
+  {
+    "type": 2,
+    "user": {
+      "id": "6a4af421-522e-42c1-8b40-6f441f612b88",
+      "shortId": "X1CJT2",
+      "name": "Roni",
+      "role": "USER",
+      "level": 89
+    },
+    "message": "/hm [Ortus|Revolver|WEAPON_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-08T10:10:32.335Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "6a4af421-522e-42c1-8b40-6f441f612b88",
+      "shortId": "X1CJT2",
+      "name": "Roni",
+      "role": "USER",
+      "level": 89
+    },
+    "message": "/hm [Forbidden|AR-9|WEAPON_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-08T10:12:06.997Z"
+  }
+]
