@@ -166,5 +166,29 @@
     },
     "message": "who wanna wager 200 goldens",
     "timestamp": "2026-05-08T05:14:33.044Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "d8c60953-7e39-48e3-b2ff-0df017fd1c32",
+      "shortId": "0DL6F8",
+      "name": "d3stroy3r",
+      "role": "USER",
+      "level": 37
+    },
+    "message": "[sh*t shark]",
+    "timestamp": "2026-05-08T05:18:54.715Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "d8c60953-7e39-48e3-b2ff-0df017fd1c32",
+      "shortId": "0DL6F8",
+      "name": "d3stroy3r",
+      "role": "USER",
+      "level": 37
+    },
+    "message": "[Sh*t shark]",
+    "timestamp": "2026-05-08T05:19:22.026Z"
   }
 ]
