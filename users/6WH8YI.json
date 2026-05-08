@@ -1,0 +1,38 @@
+[
+  {
+    "type": 2,
+    "user": {
+      "id": "abce0b7b-a5ee-4bae-b599-63185581fa40",
+      "shortId": "6WH8YI",
+      "name": "MR_RESPECT",
+      "role": "USER",
+      "level": 41
+    },
+    "message": "/hm arc",
+    "timestamp": "2026-05-08T08:36:03.175Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "abce0b7b-a5ee-4bae-b599-63185581fa40",
+      "shortId": "6WH8YI",
+      "name": "MR_RESPECT",
+      "role": "USER",
+      "level": 41
+    },
+    "message": "/forbiden",
+    "timestamp": "2026-05-08T08:36:46.838Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "abce0b7b-a5ee-4bae-b599-63185581fa40",
+      "shortId": "6WH8YI",
+      "name": "MR_RESPECT",
+      "role": "USER",
+      "level": 41
+    },
+    "message": "/traade offer USERID forbidden",
+    "timestamp": "2026-05-08T08:39:06.449Z"
+  }
+]
