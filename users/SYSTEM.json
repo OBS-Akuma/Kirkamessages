@@ -82,5 +82,17 @@
     },
     "message": "This ain't worth a [Anarchy|VITA|WEAPON_SKIN|MYTHICAL] chill mate.",
     "timestamp": "2026-05-08T09:12:11.217Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "42e6ee78-49ef-467a-80b8-4adf017d5834",
+      "shortId": "SYSTEM",
+      "name": "Glowing Dev",
+      "role": "USER",
+      "level": 100
+    },
+    "message": "[Punishment||BODY_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-08T20:58:54.796Z"
   }
 ]
