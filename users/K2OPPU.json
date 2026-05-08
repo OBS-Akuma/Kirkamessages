@@ -1,0 +1,98 @@
+[
+  {
+    "type": 2,
+    "user": {
+      "id": "9d1e4931-0d95-4a56-989c-2ad0bf9fe52c",
+      "shortId": "K2OPPU",
+      "name": "Nexus",
+      "role": "USER",
+      "level": 80
+    },
+    "message": "LF [Splash|Bayonet|WEAPON_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-08T19:35:32.208Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "9d1e4931-0d95-4a56-989c-2ad0bf9fe52c",
+      "shortId": "K2OPPU",
+      "name": "Nexus",
+      "role": "USER",
+      "level": 80
+    },
+    "message": "/locate spilled",
+    "timestamp": "2026-05-08T19:37:03.717Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "9d1e4931-0d95-4a56-989c-2ad0bf9fe52c",
+      "shortId": "K2OPPU",
+      "name": "Nexus",
+      "role": "USER",
+      "level": 80
+    },
+    "message": "/locate pale",
+    "timestamp": "2026-05-08T19:37:20.385Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "9d1e4931-0d95-4a56-989c-2ad0bf9fe52c",
+      "shortId": "K2OPPU",
+      "name": "Nexus",
+      "role": "USER",
+      "level": 80
+    },
+    "message": "/inv",
+    "timestamp": "2026-05-08T19:42:02.225Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "9d1e4931-0d95-4a56-989c-2ad0bf9fe52c",
+      "shortId": "K2OPPU",
+      "name": "Nexus",
+      "role": "USER",
+      "level": 80
+    },
+    "message": "wagering [Golden||CHEST|LEGENDARY]x3000",
+    "timestamp": "2026-05-08T19:42:24.767Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "9d1e4931-0d95-4a56-989c-2ad0bf9fe52c",
+      "shortId": "K2OPPU",
+      "name": "Nexus",
+      "role": "USER",
+      "level": 80
+    },
+    "message": "/confirmwager",
+    "timestamp": "2026-05-08T19:43:14.158Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "9d1e4931-0d95-4a56-989c-2ad0bf9fe52c",
+      "shortId": "K2OPPU",
+      "name": "Nexus",
+      "role": "USER",
+      "level": 80
+    },
+    "message": "gl",
+    "timestamp": "2026-05-08T19:43:34.866Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "9d1e4931-0d95-4a56-989c-2ad0bf9fe52c",
+      "shortId": "K2OPPU",
+      "name": "Nexus",
+      "role": "USER",
+      "level": 80
+    },
+    "message": "ggs",
+    "timestamp": "2026-05-08T19:43:38.016Z"
+  }
+]
