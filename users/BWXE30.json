@@ -886,5 +886,65 @@
     },
     "message": "can i have some halloween il trade",
     "timestamp": "2026-05-08T03:01:10.113Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "407c8457-a88c-495b-8540-9a63797d20ea",
+      "shortId": "BWXE30",
+      "name": "Nickeru-Chan",
+      "role": "USER",
+      "level": 66
+    },
+    "message": "[Lock||BODY_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-08T03:08:39.734Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "407c8457-a88c-495b-8540-9a63797d20ea",
+      "shortId": "BWXE30",
+      "name": "Nickeru-Chan",
+      "role": "USER",
+      "level": 66
+    },
+    "message": "/claim",
+    "timestamp": "2026-05-08T03:08:57.067Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "407c8457-a88c-495b-8540-9a63797d20ea",
+      "shortId": "BWXE30",
+      "name": "Nickeru-Chan",
+      "role": "USER",
+      "level": 66
+    },
+    "message": "i have [LMAO||BODY_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-08T03:09:40.535Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "407c8457-a88c-495b-8540-9a63797d20ea",
+      "shortId": "BWXE30",
+      "name": "Nickeru-Chan",
+      "role": "USER",
+      "level": 66
+    },
+    "message": "whoo has vine?",
+    "timestamp": "2026-05-08T03:11:19.950Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "407c8457-a88c-495b-8540-9a63797d20ea",
+      "shortId": "BWXE30",
+      "name": "Nickeru-Chan",
+      "role": "USER",
+      "level": 66
+    },
+    "message": "[Goon]",
+    "timestamp": "2026-05-08T03:12:14.162Z"
   }
 ]
