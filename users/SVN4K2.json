@@ -982,5 +982,77 @@
     },
     "message": "/inv #PLJ86G",
     "timestamp": "2026-05-07T05:46:11.740Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "Gz7vDsByrXSEwKYek3a6mgVwdFb2",
+      "shortId": "SVN4K2",
+      "name": "lolnoob",
+      "role": "USER",
+      "level": 94
+    },
+    "message": "wager [Foil||BODY_SKIN|MYTHICAL][Thriller||BODY_SKIN|MYTHICAL][Bamboo|VITA|WEAPON_SKIN|MYTHICAL][Scorcher|Shark|WEAPON_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-08T05:13:31.634Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "Gz7vDsByrXSEwKYek3a6mgVwdFb2",
+      "shortId": "SVN4K2",
+      "name": "lolnoob",
+      "role": "USER",
+      "level": 94
+    },
+    "message": "/wager [Foil||BODY_SKIN|MYTHICAL]  #609GEM",
+    "timestamp": "2026-05-08T05:13:49.560Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "Gz7vDsByrXSEwKYek3a6mgVwdFb2",
+      "shortId": "SVN4K2",
+      "name": "lolnoob",
+      "role": "USER",
+      "level": 94
+    },
+    "message": "wait",
+    "timestamp": "2026-05-08T05:13:56.791Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "Gz7vDsByrXSEwKYek3a6mgVwdFb2",
+      "shortId": "SVN4K2",
+      "name": "lolnoob",
+      "role": "USER",
+      "level": 94
+    },
+    "message": "ns i win u",
+    "timestamp": "2026-05-08T05:14:14.762Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "Gz7vDsByrXSEwKYek3a6mgVwdFb2",
+      "shortId": "SVN4K2",
+      "name": "lolnoob",
+      "role": "USER",
+      "level": 94
+    },
+    "message": "ns",
+    "timestamp": "2026-05-08T05:14:23.932Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "Gz7vDsByrXSEwKYek3a6mgVwdFb2",
+      "shortId": "SVN4K2",
+      "name": "lolnoob",
+      "role": "USER",
+      "level": 94
+    },
+    "message": "/wager [Foil||BODY_SKIN|MYTHICAL] #609GEM",
+    "timestamp": "2026-05-08T05:15:08.389Z"
   }
 ]
