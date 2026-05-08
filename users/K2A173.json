@@ -140,7 +140,7 @@
       "role": "USER",
       "level": 72
     },
-    "message": "dADÃÂÃÂY",
+    "message": "dADÃÂÃÂÃÂÃÂY",
     "timestamp": "2026-05-08T00:49:25.688Z"
   },
   {
@@ -286,5 +286,65 @@
     },
     "message": "CFING NOKKEN",
     "timestamp": "2026-05-08T00:51:41.712Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "a7c4bd5f-e318-4dea-a0ab-ea6a0dbbe375",
+      "shortId": "K2A173",
+      "name": "Cry4Luv",
+      "role": "USER",
+      "level": 72
+    },
+    "message": "cfing nokken",
+    "timestamp": "2026-05-08T01:59:05.687Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "a7c4bd5f-e318-4dea-a0ab-ea6a0dbbe375",
+      "shortId": "K2A173",
+      "name": "Cry4Luv",
+      "role": "USER",
+      "level": 72
+    },
+    "message": "heiko",
+    "timestamp": "2026-05-08T01:59:51.590Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "a7c4bd5f-e318-4dea-a0ab-ea6a0dbbe375",
+      "shortId": "K2A173",
+      "name": "Cry4Luv",
+      "role": "USER",
+      "level": 72
+    },
+    "message": "bro where my biker",
+    "timestamp": "2026-05-08T01:59:56.568Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "a7c4bd5f-e318-4dea-a0ab-ea6a0dbbe375",
+      "shortId": "K2A173",
+      "name": "Cry4Luv",
+      "role": "USER",
+      "level": 72
+    },
+    "message": "HEIKO",
+    "timestamp": "2026-05-08T02:00:06.426Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "a7c4bd5f-e318-4dea-a0ab-ea6a0dbbe375",
+      "shortId": "K2A173",
+      "name": "Cry4Luv",
+      "role": "USER",
+      "level": 72
+    },
+    "message": "broo",
+    "timestamp": "2026-05-08T02:00:15.587Z"
   }
 ]
