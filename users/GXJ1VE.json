@@ -502,5 +502,29 @@
     },
     "message": "#NLNYTQ make offer or not?",
     "timestamp": "2026-05-08T11:04:11.955Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "849b68b6-84ec-47c9-a14e-ccf0aa3cfc1e",
+      "shortId": "GXJ1VE",
+      "name": "ASTA",
+      "role": "USER",
+      "level": 96
+    },
+    "message": "yes",
+    "timestamp": "2026-05-08T11:04:36.429Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "849b68b6-84ec-47c9-a14e-ccf0aa3cfc1e",
+      "shortId": "GXJ1VE",
+      "name": "ASTA",
+      "role": "USER",
+      "level": 96
+    },
+    "message": "ggs",
+    "timestamp": "2026-05-08T11:06:49.081Z"
   }
 ]
