@@ -70,5 +70,17 @@
     },
     "message": "Oyy 4ihan party join koro",
     "timestamp": "2026-05-08T02:57:40.482Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "95164458-bdd0-492c-b3e8-26ef1650fc4e",
+      "shortId": "32AJJ3",
+      "name": "Fri_Sted",
+      "role": "USER",
+      "level": 78
+    },
+    "message": "Byee guyss",
+    "timestamp": "2026-05-08T03:25:01.493Z"
   }
 ]
