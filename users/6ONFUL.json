@@ -10,5 +10,53 @@
     },
     "message": "/giveaway",
     "timestamp": "2026-05-04T07:52:52.099Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "12debecf-c6c0-40f0-b07f-1a070d4b205d",
+      "shortId": "6ONFUL",
+      "name": "Dementia",
+      "role": "USER",
+      "level": 25
+    },
+    "message": "/enter",
+    "timestamp": "2026-05-08T07:37:27.293Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "12debecf-c6c0-40f0-b07f-1a070d4b205d",
+      "shortId": "6ONFUL",
+      "name": "Dementia",
+      "role": "USER",
+      "level": 25
+    },
+    "message": "/giveaway",
+    "timestamp": "2026-05-08T07:37:35.280Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "12debecf-c6c0-40f0-b07f-1a070d4b205d",
+      "shortId": "6ONFUL",
+      "name": "Dementia",
+      "role": "USER",
+      "level": 25
+    },
+    "message": "/wager",
+    "timestamp": "2026-05-08T07:38:14.603Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "12debecf-c6c0-40f0-b07f-1a070d4b205d",
+      "shortId": "6ONFUL",
+      "name": "Dementia",
+      "role": "USER",
+      "level": 25
+    },
+    "message": "/wager 3C6FF4",
+    "timestamp": "2026-05-08T07:38:37.338Z"
   }
 ]
