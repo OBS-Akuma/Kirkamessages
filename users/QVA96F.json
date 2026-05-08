@@ -1,0 +1,26 @@
+[
+  {
+    "type": 2,
+    "user": {
+      "id": "9444613d-36b7-4840-909f-408f92098f6d",
+      "shortId": "QVA96F",
+      "name": "ZG-Mario",
+      "role": "USER",
+      "level": 40
+    },
+    "message": "/entet",
+    "timestamp": "2026-05-08T07:44:38.928Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "9444613d-36b7-4840-909f-408f92098f6d",
+      "shortId": "QVA96F",
+      "name": "ZG-Mario",
+      "role": "USER",
+      "level": 40
+    },
+    "message": "/enter",
+    "timestamp": "2026-05-08T07:44:40.365Z"
+  }
+]
