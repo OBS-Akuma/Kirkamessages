@@ -190,5 +190,89 @@
     },
     "message": "/inv #000000",
     "timestamp": "2026-05-08T08:24:06.951Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "guest-077dceb4-05fe-4442-b2e0-edd5469cf619",
+      "shortId": "AH7NA2",
+      "name": "ALTERED",
+      "role": "USER",
+      "level": 21
+    },
+    "message": "/price [helizbeth]",
+    "timestamp": "2026-05-08T09:30:23.539Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "guest-077dceb4-05fe-4442-b2e0-edd5469cf619",
+      "shortId": "AH7NA2",
+      "name": "ALTERED",
+      "role": "USER",
+      "level": 21
+    },
+    "message": "/price [Hellizabeth||BODY_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-08T09:30:50.813Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "guest-077dceb4-05fe-4442-b2e0-edd5469cf619",
+      "shortId": "AH7NA2",
+      "name": "ALTERED",
+      "role": "USER",
+      "level": 21
+    },
+    "message": "/price [Cinder||BODY_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-08T09:31:10.638Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "guest-077dceb4-05fe-4442-b2e0-edd5469cf619",
+      "shortId": "AH7NA2",
+      "name": "ALTERED",
+      "role": "USER",
+      "level": 21
+    },
+    "message": "/price [Ticketeer|SCAR|WEAPON_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-08T09:31:38.222Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "guest-077dceb4-05fe-4442-b2e0-edd5469cf619",
+      "shortId": "AH7NA2",
+      "name": "ALTERED",
+      "role": "USER",
+      "level": 21
+    },
+    "message": "/price [Samurai|VITA|WEAPON_SKIN|EPIC]",
+    "timestamp": "2026-05-08T09:32:10.975Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "guest-077dceb4-05fe-4442-b2e0-edd5469cf619",
+      "shortId": "AH7NA2",
+      "name": "ALTERED",
+      "role": "USER",
+      "level": 21
+    },
+    "message": "/price [Master|AR-9|WEAPON_SKIN|LEGENDARY]",
+    "timestamp": "2026-05-08T09:32:36.661Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "guest-077dceb4-05fe-4442-b2e0-edd5469cf619",
+      "shortId": "AH7NA2",
+      "name": "ALTERED",
+      "role": "USER",
+      "level": 21
+    },
+    "message": "/price [Golden||CHEST|LEGENDARY]x6000",
+    "timestamp": "2026-05-08T09:33:48.241Z"
   }
 ]
