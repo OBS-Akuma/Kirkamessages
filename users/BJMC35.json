@@ -166,5 +166,53 @@
     },
     "message": "/inv",
     "timestamp": "2026-05-08T09:42:27.315Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "745ddc76-ceb8-4e5f-8b1a-f5981c23d994",
+      "shortId": "BJMC35",
+      "name": ".fan",
+      "role": "USER",
+      "level": 98
+    },
+    "message": "/inv",
+    "timestamp": "2026-05-08T20:26:40.176Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "745ddc76-ceb8-4e5f-8b1a-f5981c23d994",
+      "shortId": "BJMC35",
+      "name": ".fan",
+      "role": "USER",
+      "level": 98
+    },
+    "message": "wait im broke wtf",
+    "timestamp": "2026-05-08T20:26:43.840Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "745ddc76-ceb8-4e5f-8b1a-f5981c23d994",
+      "shortId": "BJMC35",
+      "name": ".fan",
+      "role": "USER",
+      "level": 98
+    },
+    "message": "/locate onesi",
+    "timestamp": "2026-05-08T20:35:02.837Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "745ddc76-ceb8-4e5f-8b1a-f5981c23d994",
+      "shortId": "BJMC35",
+      "name": ".fan",
+      "role": "USER",
+      "level": 98
+    },
+    "message": "too ez",
+    "timestamp": "2026-05-08T20:35:08.214Z"
   }
 ]
