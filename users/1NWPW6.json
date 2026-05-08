@@ -1,0 +1,38 @@
+[
+  {
+    "type": 2,
+    "user": {
+      "id": "3afa4c3f-19fb-43cb-a6f4-f9429afb1f08",
+      "shortId": "1NWPW6",
+      "name": "orbzy.",
+      "role": "USER",
+      "level": 94
+    },
+    "message": "/price [Pengu||BODY_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-08T07:47:54.911Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "3afa4c3f-19fb-43cb-a6f4-f9429afb1f08",
+      "shortId": "1NWPW6",
+      "name": "orbzy.",
+      "role": "USER",
+      "level": 94
+    },
+    "message": "/price [2025 Revolver|Revolver|WEAPON_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-08T07:48:16.416Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "3afa4c3f-19fb-43cb-a6f4-f9429afb1f08",
+      "shortId": "1NWPW6",
+      "name": "orbzy.",
+      "role": "USER",
+      "level": 94
+    },
+    "message": "/price [Spoooky|VITA|WEAPON_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-08T07:48:33.005Z"
+  }
+]
