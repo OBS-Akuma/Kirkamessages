@@ -58,5 +58,41 @@
     },
     "message": "u good",
     "timestamp": "2026-05-07T21:05:35.166Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "f26a883f-eeab-4925-9ad9-74c453303f7e",
+      "shortId": "UARYDM",
+      "name": "Aceria",
+      "role": "USER",
+      "level": 16
+    },
+    "message": "/wager wood",
+    "timestamp": "2026-05-08T20:35:09.475Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "f26a883f-eeab-4925-9ad9-74c453303f7e",
+      "shortId": "UARYDM",
+      "name": "Aceria",
+      "role": "USER",
+      "level": 16
+    },
+    "message": "/wager wood #UARYDM",
+    "timestamp": "2026-05-08T20:35:29.909Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "f26a883f-eeab-4925-9ad9-74c453303f7e",
+      "shortId": "UARYDM",
+      "name": "Aceria",
+      "role": "USER",
+      "level": 16
+    },
+    "message": "LF 2026 PLEASE",
+    "timestamp": "2026-05-08T20:36:08.087Z"
   }
 ]
