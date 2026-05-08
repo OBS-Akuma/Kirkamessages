@@ -34,5 +34,77 @@
     },
     "message": "WHAT ARE THE 3 CLAN REWARD SKINS",
     "timestamp": "2026-05-01T20:18:32.561Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "d8c60953-7e39-48e3-b2ff-0df017fd1c32",
+      "shortId": "0DL6F8",
+      "name": "d3stroy3r",
+      "role": "USER",
+      "level": 37
+    },
+    "message": "[Carbon||BODY_SKIN|EPIC]",
+    "timestamp": "2026-05-08T04:46:50.391Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "d8c60953-7e39-48e3-b2ff-0df017fd1c32",
+      "shortId": "0DL6F8",
+      "name": "d3stroy3r",
+      "role": "USER",
+      "level": 37
+    },
+    "message": "HOW DO YOU TYPE THE POOP SKIN IN CHAT",
+    "timestamp": "2026-05-08T04:47:55.976Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "d8c60953-7e39-48e3-b2ff-0df017fd1c32",
+      "shortId": "0DL6F8",
+      "name": "d3stroy3r",
+      "role": "USER",
+      "level": 37
+    },
+    "message": "[poop shark]",
+    "timestamp": "2026-05-08T04:52:54.888Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "d8c60953-7e39-48e3-b2ff-0df017fd1c32",
+      "shortId": "0DL6F8",
+      "name": "d3stroy3r",
+      "role": "USER",
+      "level": 37
+    },
+    "message": "who do I trade the poop shark",
+    "timestamp": "2026-05-08T04:53:52.664Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "d8c60953-7e39-48e3-b2ff-0df017fd1c32",
+      "shortId": "0DL6F8",
+      "name": "d3stroy3r",
+      "role": "USER",
+      "level": 37
+    },
+    "message": "/locate forbidden",
+    "timestamp": "2026-05-08T04:54:45.789Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "d8c60953-7e39-48e3-b2ff-0df017fd1c32",
+      "shortId": "0DL6F8",
+      "name": "d3stroy3r",
+      "role": "USER",
+      "level": 37
+    },
+    "message": "/locate lodon",
+    "timestamp": "2026-05-08T04:57:25.122Z"
   }
 ]
