@@ -1,0 +1,26 @@
+[
+  {
+    "type": 2,
+    "user": {
+      "id": "b2d04a29-05ef-457b-8e66-a6b3dcb14115",
+      "shortId": "YNBSV6",
+      "name": "vikiv",
+      "role": "USER",
+      "level": 69
+    },
+    "message": "yo",
+    "timestamp": "2026-05-08T07:54:39.084Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "b2d04a29-05ef-457b-8e66-a6b3dcb14115",
+      "shortId": "YNBSV6",
+      "name": "vikiv",
+      "role": "USER",
+      "level": 69
+    },
+    "message": "/inv",
+    "timestamp": "2026-05-08T07:54:40.343Z"
+  }
+]
