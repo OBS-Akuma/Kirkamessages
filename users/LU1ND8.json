@@ -826,5 +826,29 @@
     },
     "message": "like drunk",
     "timestamp": "2026-05-07T20:48:51.419Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "zkUzuHzV1sOAL9ZUyRPVDszlcgq2",
+      "shortId": "LU1ND8",
+      "name": "Br0keN|yt",
+      "role": "USER",
+      "level": 83
+    },
+    "message": "/inv",
+    "timestamp": "2026-05-08T10:46:53.480Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "zkUzuHzV1sOAL9ZUyRPVDszlcgq2",
+      "shortId": "LU1ND8",
+      "name": "Br0keN|yt",
+      "role": "USER",
+      "level": 83
+    },
+    "message": "/enter",
+    "timestamp": "2026-05-08T10:47:57.479Z"
   }
 ]
