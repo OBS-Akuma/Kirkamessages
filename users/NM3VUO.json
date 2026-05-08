@@ -1162,5 +1162,113 @@
     },
     "message": "I don't have vita anymore lol",
     "timestamp": "2026-05-08T21:06:33.876Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "1a4fb7ab-45cd-449b-858f-14a509ff9ecb",
+      "shortId": "NM3VUO",
+      "name": "RGB.",
+      "role": "USER",
+      "level": 56
+    },
+    "message": "/claim",
+    "timestamp": "2026-05-08T21:59:17.376Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "1a4fb7ab-45cd-449b-858f-14a509ff9ecb",
+      "shortId": "NM3VUO",
+      "name": "RGB.",
+      "role": "USER",
+      "level": 56
+    },
+    "message": "[Uranium||BODY_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-08T22:00:53.316Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "1a4fb7ab-45cd-449b-858f-14a509ff9ecb",
+      "shortId": "NM3VUO",
+      "name": "RGB.",
+      "role": "USER",
+      "level": 56
+    },
+    "message": "Tr [Uranium||BODY_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-08T22:01:06.947Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "1a4fb7ab-45cd-449b-858f-14a509ff9ecb",
+      "shortId": "NM3VUO",
+      "name": "RGB.",
+      "role": "USER",
+      "level": 56
+    },
+    "message": "/price uranium",
+    "timestamp": "2026-05-08T22:01:18.773Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "1a4fb7ab-45cd-449b-858f-14a509ff9ecb",
+      "shortId": "NM3VUO",
+      "name": "RGB.",
+      "role": "USER",
+      "level": 56
+    },
+    "message": "/iv",
+    "timestamp": "2026-05-08T22:01:32.139Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "1a4fb7ab-45cd-449b-858f-14a509ff9ecb",
+      "shortId": "NM3VUO",
+      "name": "RGB.",
+      "role": "USER",
+      "level": 56
+    },
+    "message": "/inv",
+    "timestamp": "2026-05-08T22:01:34.440Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "1a4fb7ab-45cd-449b-858f-14a509ff9ecb",
+      "shortId": "NM3VUO",
+      "name": "RGB.",
+      "role": "USER",
+      "level": 56
+    },
+    "message": "tr [Uranium||BODY_SKIN|MYTHICAL] and void items",
+    "timestamp": "2026-05-08T22:04:10.654Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "1a4fb7ab-45cd-449b-858f-14a509ff9ecb",
+      "shortId": "NM3VUO",
+      "name": "RGB.",
+      "role": "USER",
+      "level": 56
+    },
+    "message": "/claim",
+    "timestamp": "2026-05-08T22:04:30.859Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "1a4fb7ab-45cd-449b-858f-14a509ff9ecb",
+      "shortId": "NM3VUO",
+      "name": "RGB.",
+      "role": "USER",
+      "level": 56
+    },
+    "message": "no I don't own scar anymore",
+    "timestamp": "2026-05-08T22:04:48.811Z"
   }
 ]
