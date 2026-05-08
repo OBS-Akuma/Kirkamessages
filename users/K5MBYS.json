@@ -1,0 +1,26 @@
+[
+  {
+    "type": 2,
+    "user": {
+      "id": "guest-f1627081-fbc9-444c-bced-bd6c50edc584",
+      "shortId": "K5MBYS",
+      "name": "Ephemeral",
+      "role": "USER",
+      "level": 5
+    },
+    "message": "Aighto who here wants some gold for free",
+    "timestamp": "2026-05-08T01:11:20.789Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "guest-f1627081-fbc9-444c-bced-bd6c50edc584",
+      "shortId": "K5MBYS",
+      "name": "Ephemeral",
+      "role": "USER",
+      "level": 5
+    },
+    "message": "gg",
+    "timestamp": "2026-05-08T01:11:35.425Z"
+  }
+]
