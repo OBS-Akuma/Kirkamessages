@@ -346,5 +346,17 @@
     },
     "message": "with new items?",
     "timestamp": "2026-05-07T22:19:47.226Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "849b68b6-84ec-47c9-a14e-ccf0aa3cfc1e",
+      "shortId": "GXJ1VE",
+      "name": "ASTA",
+      "role": "USER",
+      "level": 96
+    },
+    "message": "/mywager",
+    "timestamp": "2026-05-08T05:58:55.208Z"
   }
 ]
