@@ -370,5 +370,17 @@
     },
     "message": "/hm [Skel||BODY_SKIN|EPIC]",
     "timestamp": "2026-05-08T04:30:12.753Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "9252167f-acb3-4f72-975f-49b97a8df81a",
+      "shortId": "06GIR2",
+      "name": "Mya!",
+      "role": "USER",
+      "level": 80
+    },
+    "message": "taurus tartarus",
+    "timestamp": "2026-05-08T11:01:48.181Z"
   }
 ]
