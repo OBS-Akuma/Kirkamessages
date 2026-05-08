@@ -370,5 +370,17 @@
     },
     "message": "#Y7P9QV make",
     "timestamp": "2026-05-08T06:34:40.867Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "0oxYT4qF3FdotfZebjxkuTX1nLd2",
+      "shortId": "TE7ZAB",
+      "name": "GENZ(MM)",
+      "role": "USER",
+      "level": 69
+    },
+    "message": "/enter",
+    "timestamp": "2026-05-08T08:34:50.135Z"
   }
 ]
