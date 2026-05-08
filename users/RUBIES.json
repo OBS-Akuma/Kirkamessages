@@ -358,5 +358,29 @@
     },
     "message": "/enter",
     "timestamp": "2026-05-08T07:32:24.491Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "4c6c40ee-a8e5-41b0-8736-0d7c0a31830d",
+      "shortId": "RUBIES",
+      "name": "Jolly",
+      "role": "USER",
+      "level": 98
+    },
+    "message": ".",
+    "timestamp": "2026-05-08T08:17:31.479Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "4c6c40ee-a8e5-41b0-8736-0d7c0a31830d",
+      "shortId": "RUBIES",
+      "name": "Jolly",
+      "role": "USER",
+      "level": 98
+    },
+    "message": "/enter",
+    "timestamp": "2026-05-08T08:17:33.496Z"
   }
 ]
