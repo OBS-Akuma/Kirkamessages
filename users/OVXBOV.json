@@ -874,5 +874,137 @@
     },
     "message": "/lottery",
     "timestamp": "2026-05-08T08:49:14.096Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "Sy7ytB6DYGemOzCOx0B0PbrmHLy1",
+      "shortId": "OVXBOV",
+      "name": "TT|Swagg",
+      "role": "USER",
+      "level": 93
+    },
+    "message": "/giveaway",
+    "timestamp": "2026-05-08T09:06:55.009Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "Sy7ytB6DYGemOzCOx0B0PbrmHLy1",
+      "shortId": "OVXBOV",
+      "name": "TT|Swagg",
+      "role": "USER",
+      "level": 93
+    },
+    "message": "/claim",
+    "timestamp": "2026-05-08T09:07:02.674Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "Sy7ytB6DYGemOzCOx0B0PbrmHLy1",
+      "shortId": "OVXBOV",
+      "name": "TT|Swagg",
+      "role": "USER",
+      "level": 93
+    },
+    "message": "what did i won?",
+    "timestamp": "2026-05-08T09:07:27.260Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "Sy7ytB6DYGemOzCOx0B0PbrmHLy1",
+      "shortId": "OVXBOV",
+      "name": "TT|Swagg",
+      "role": "USER",
+      "level": 93
+    },
+    "message": "/claim",
+    "timestamp": "2026-05-08T09:07:34.204Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "Sy7ytB6DYGemOzCOx0B0PbrmHLy1",
+      "shortId": "OVXBOV",
+      "name": "TT|Swagg",
+      "role": "USER",
+      "level": 93
+    },
+    "message": "/claim 1",
+    "timestamp": "2026-05-08T09:08:26.903Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "Sy7ytB6DYGemOzCOx0B0PbrmHLy1",
+      "shortId": "OVXBOV",
+      "name": "TT|Swagg",
+      "role": "USER",
+      "level": 93
+    },
+    "message": "/claim",
+    "timestamp": "2026-05-08T09:09:25.840Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "Sy7ytB6DYGemOzCOx0B0PbrmHLy1",
+      "shortId": "OVXBOV",
+      "name": "TT|Swagg",
+      "role": "USER",
+      "level": 93
+    },
+    "message": "/claim 67",
+    "timestamp": "2026-05-08T09:09:41.556Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "Sy7ytB6DYGemOzCOx0B0PbrmHLy1",
+      "shortId": "OVXBOV",
+      "name": "TT|Swagg",
+      "role": "USER",
+      "level": 93
+    },
+    "message": "dadddy",
+    "timestamp": "2026-05-08T09:09:47.033Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "Sy7ytB6DYGemOzCOx0B0PbrmHLy1",
+      "shortId": "OVXBOV",
+      "name": "TT|Swagg",
+      "role": "USER",
+      "level": 93
+    },
+    "message": "dadddy who won ur [Hearts||BODY_SKIN|MYTHICAL]?",
+    "timestamp": "2026-05-08T09:09:56.377Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "Sy7ytB6DYGemOzCOx0B0PbrmHLy1",
+      "shortId": "OVXBOV",
+      "name": "TT|Swagg",
+      "role": "USER",
+      "level": 93
+    },
+    "message": "/claim",
+    "timestamp": "2026-05-08T09:10:01.268Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "Sy7ytB6DYGemOzCOx0B0PbrmHLy1",
+      "shortId": "OVXBOV",
+      "name": "TT|Swagg",
+      "role": "USER",
+      "level": 93
+    },
+    "message": "/claim 67",
+    "timestamp": "2026-05-08T09:10:07.516Z"
   }
 ]
