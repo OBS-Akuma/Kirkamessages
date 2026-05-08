@@ -104,7 +104,7 @@
       "role": "USER",
       "level": 46
     },
-    "message": "No me lo daría plis",
+    "message": "No me lo darÃ­a plis",
     "timestamp": "2026-05-08T01:51:18.185Z"
   },
   {
@@ -334,5 +334,17 @@
     },
     "message": "/price[Lord||BODY_SKIN|MYTHICAL][Angel||BODY_SKIN|MYTHICAL][Sinister||BODY_SKIN|MYTHICAL][Pandora||BODY_SKIN|MYTHICAL][Nova|SCAR|WEAPON_SKIN|MYTHICAL][Void SCAR|SCAR|WEAPON_SKIN|MYTHICAL]",
     "timestamp": "2026-05-08T02:04:56.367Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "f9c0da0e-f5fb-423b-a614-f766e6621705",
+      "shortId": "N0S8T9",
+      "name": "Newbie#1",
+      "role": "USER",
+      "level": 46
+    },
+    "message": "Tr[Cosmos|VITA|WEAPON_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-08T02:05:38.898Z"
   }
 ]
