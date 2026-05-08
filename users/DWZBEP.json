@@ -1,0 +1,26 @@
+[
+  {
+    "type": 2,
+    "user": {
+      "id": "eda2a197-e5c8-4dad-86ff-2d99476f6c76",
+      "shortId": "DWZBEP",
+      "name": "katt",
+      "role": "USER",
+      "level": 79
+    },
+    "message": "/enter",
+    "timestamp": "2026-05-08T08:45:04.851Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "eda2a197-e5c8-4dad-86ff-2d99476f6c76",
+      "shortId": "DWZBEP",
+      "name": "katt",
+      "role": "USER",
+      "level": 79
+    },
+    "message": "/claim",
+    "timestamp": "2026-05-08T08:45:10.182Z"
+  }
+]
