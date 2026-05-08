@@ -466,5 +466,17 @@
     },
     "message": "/",
     "timestamp": "2026-05-08T07:14:01.829Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "e1fb12b4-b6f6-41b8-b4ca-df04a42a0543",
+      "shortId": "TGXCZ5",
+      "name": "MONSTERSTRIKE",
+      "role": "USER",
+      "level": 84
+    },
+    "message": "/enter",
+    "timestamp": "2026-05-08T09:04:52.171Z"
   }
 ]
