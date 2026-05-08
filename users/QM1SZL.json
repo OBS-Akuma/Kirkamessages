@@ -1762,5 +1762,1073 @@
     },
     "message": "ok",
     "timestamp": "2026-05-07T06:59:04.721Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "af68d0f3-d7f6-4e9e-8cda-3689fb482610",
+      "shortId": "QM1SZL",
+      "name": "RIHAN",
+      "role": "USER",
+      "level": 48
+    },
+    "message": "/wager [Panda||BODY_SKIN|MYTHICAL] #Z5QMGG",
+    "timestamp": "2026-05-08T09:35:12.008Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "af68d0f3-d7f6-4e9e-8cda-3689fb482610",
+      "shortId": "QM1SZL",
+      "name": "RIHAN",
+      "role": "USER",
+      "level": 48
+    },
+    "message": "?",
+    "timestamp": "2026-05-08T09:35:29.938Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "af68d0f3-d7f6-4e9e-8cda-3689fb482610",
+      "shortId": "QM1SZL",
+      "name": "RIHAN",
+      "role": "USER",
+      "level": 48
+    },
+    "message": "/wager [Panda||BODY_SKIN|MYTHICAL] #609GEM",
+    "timestamp": "2026-05-08T09:35:44.751Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "af68d0f3-d7f6-4e9e-8cda-3689fb482610",
+      "shortId": "QM1SZL",
+      "name": "RIHAN",
+      "role": "USER",
+      "level": 48
+    },
+    "message": "/locate [Panda||BODY_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-08T09:36:20.661Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "af68d0f3-d7f6-4e9e-8cda-3689fb482610",
+      "shortId": "QM1SZL",
+      "name": "RIHAN",
+      "role": "USER",
+      "level": 48
+    },
+    "message": "VENOM?",
+    "timestamp": "2026-05-08T09:36:32.410Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "af68d0f3-d7f6-4e9e-8cda-3689fb482610",
+      "shortId": "QM1SZL",
+      "name": "RIHAN",
+      "role": "USER",
+      "level": 48
+    },
+    "message": "/claim",
+    "timestamp": "2026-05-08T09:36:42.476Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "af68d0f3-d7f6-4e9e-8cda-3689fb482610",
+      "shortId": "QM1SZL",
+      "name": "RIHAN",
+      "role": "USER",
+      "level": 48
+    },
+    "message": "VENOM you have [c3vr]",
+    "timestamp": "2026-05-08T09:37:07.809Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "af68d0f3-d7f6-4e9e-8cda-3689fb482610",
+      "shortId": "QM1SZL",
+      "name": "RIHAN",
+      "role": "USER",
+      "level": 48
+    },
+    "message": "OVER accepty?",
+    "timestamp": "2026-05-08T09:37:43.254Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "af68d0f3-d7f6-4e9e-8cda-3689fb482610",
+      "shortId": "QM1SZL",
+      "name": "RIHAN",
+      "role": "USER",
+      "level": 48
+    },
+    "message": "LF[c3vr]",
+    "timestamp": "2026-05-08T09:38:17.865Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "af68d0f3-d7f6-4e9e-8cda-3689fb482610",
+      "shortId": "QM1SZL",
+      "name": "RIHAN",
+      "role": "USER",
+      "level": 48
+    },
+    "message": "OVER you have [c3vor]",
+    "timestamp": "2026-05-08T09:38:30.460Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "af68d0f3-d7f6-4e9e-8cda-3689fb482610",
+      "shortId": "QM1SZL",
+      "name": "RIHAN",
+      "role": "USER",
+      "level": 48
+    },
+    "message": "OVER I want",
+    "timestamp": "2026-05-08T09:38:45.052Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "af68d0f3-d7f6-4e9e-8cda-3689fb482610",
+      "shortId": "QM1SZL",
+      "name": "RIHAN",
+      "role": "USER",
+      "level": 48
+    },
+    "message": "Who have [c3vor]",
+    "timestamp": "2026-05-08T09:39:06.914Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "af68d0f3-d7f6-4e9e-8cda-3689fb482610",
+      "shortId": "QM1SZL",
+      "name": "RIHAN",
+      "role": "USER",
+      "level": 48
+    },
+    "message": "/HM [c3",
+    "timestamp": "2026-05-08T09:39:15.926Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "af68d0f3-d7f6-4e9e-8cda-3689fb482610",
+      "shortId": "QM1SZL",
+      "name": "RIHAN",
+      "role": "USER",
+      "level": 48
+    },
+    "message": "/HM c3",
+    "timestamp": "2026-05-08T09:39:25.141Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "af68d0f3-d7f6-4e9e-8cda-3689fb482610",
+      "shortId": "QM1SZL",
+      "name": "RIHAN",
+      "role": "USER",
+      "level": 48
+    },
+    "message": "/HM c3r",
+    "timestamp": "2026-05-08T09:39:34.359Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "af68d0f3-d7f6-4e9e-8cda-3689fb482610",
+      "shortId": "QM1SZL",
+      "name": "RIHAN",
+      "role": "USER",
+      "level": 48
+    },
+    "message": "CAT wanna wager?",
+    "timestamp": "2026-05-08T09:40:19.212Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "af68d0f3-d7f6-4e9e-8cda-3689fb482610",
+      "shortId": "QM1SZL",
+      "name": "RIHAN",
+      "role": "USER",
+      "level": 48
+    },
+    "message": "/wager [Koi|Bayonet|WEAPON_SKIN|MYTHICAL] #CXF730",
+    "timestamp": "2026-05-08T09:41:12.560Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "af68d0f3-d7f6-4e9e-8cda-3689fb482610",
+      "shortId": "QM1SZL",
+      "name": "RIHAN",
+      "role": "USER",
+      "level": 48
+    },
+    "message": "/confirmwager",
+    "timestamp": "2026-05-08T09:41:43.192Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "af68d0f3-d7f6-4e9e-8cda-3689fb482610",
+      "shortId": "QM1SZL",
+      "name": "RIHAN",
+      "role": "USER",
+      "level": 48
+    },
+    "message": "?confirmwager",
+    "timestamp": "2026-05-08T09:42:03.531Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "af68d0f3-d7f6-4e9e-8cda-3689fb482610",
+      "shortId": "QM1SZL",
+      "name": "RIHAN",
+      "role": "USER",
+      "level": 48
+    },
+    "message": "/claim",
+    "timestamp": "2026-05-08T09:42:54.245Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "af68d0f3-d7f6-4e9e-8cda-3689fb482610",
+      "shortId": "QM1SZL",
+      "name": "RIHAN",
+      "role": "USER",
+      "level": 48
+    },
+    "message": "/confirmwager",
+    "timestamp": "2026-05-08T09:43:25.990Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "af68d0f3-d7f6-4e9e-8cda-3689fb482610",
+      "shortId": "QM1SZL",
+      "name": "RIHAN",
+      "role": "USER",
+      "level": 48
+    },
+    "message": "alr",
+    "timestamp": "2026-05-08T09:44:12.057Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "af68d0f3-d7f6-4e9e-8cda-3689fb482610",
+      "shortId": "QM1SZL",
+      "name": "RIHAN",
+      "role": "USER",
+      "level": 48
+    },
+    "message": "LF [c3vr]",
+    "timestamp": "2026-05-08T09:44:41.255Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "af68d0f3-d7f6-4e9e-8cda-3689fb482610",
+      "shortId": "QM1SZL",
+      "name": "RIHAN",
+      "role": "USER",
+      "level": 48
+    },
+    "message": "VE NOM",
+    "timestamp": "2026-05-08T09:44:50.782Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "af68d0f3-d7f6-4e9e-8cda-3689fb482610",
+      "shortId": "QM1SZL",
+      "name": "RIHAN",
+      "role": "USER",
+      "level": 48
+    },
+    "message": "VE NOM you got [c3vr]",
+    "timestamp": "2026-05-08T09:45:07.674Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "af68d0f3-d7f6-4e9e-8cda-3689fb482610",
+      "shortId": "QM1SZL",
+      "name": "RIHAN",
+      "role": "USER",
+      "level": 48
+    },
+    "message": "RAGEX",
+    "timestamp": "2026-05-08T09:46:16.407Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "af68d0f3-d7f6-4e9e-8cda-3689fb482610",
+      "shortId": "QM1SZL",
+      "name": "RIHAN",
+      "role": "USER",
+      "level": 48
+    },
+    "message": "RAGEX you got [c3vr] the nife skin?",
+    "timestamp": "2026-05-08T09:46:27.556Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "af68d0f3-d7f6-4e9e-8cda-3689fb482610",
+      "shortId": "QM1SZL",
+      "name": "RIHAN",
+      "role": "USER",
+      "level": 48
+    },
+    "message": "RAGEX you got [c3vr] the nife skin??",
+    "timestamp": "2026-05-08T09:46:50.549Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "af68d0f3-d7f6-4e9e-8cda-3689fb482610",
+      "shortId": "QM1SZL",
+      "name": "RIHAN",
+      "role": "USER",
+      "level": 48
+    },
+    "message": ":(",
+    "timestamp": "2026-05-08T09:47:01.597Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "af68d0f3-d7f6-4e9e-8cda-3689fb482610",
+      "shortId": "QM1SZL",
+      "name": "RIHAN",
+      "role": "USER",
+      "level": 48
+    },
+    "message": "/wager [Panda||BODY_SKIN|MYTHICAL] #Z5QMGG",
+    "timestamp": "2026-05-08T09:47:32.983Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "af68d0f3-d7f6-4e9e-8cda-3689fb482610",
+      "shortId": "QM1SZL",
+      "name": "RIHAN",
+      "role": "USER",
+      "level": 48
+    },
+    "message": "/cancelwager",
+    "timestamp": "2026-05-08T09:47:51.107Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "af68d0f3-d7f6-4e9e-8cda-3689fb482610",
+      "shortId": "QM1SZL",
+      "name": "RIHAN",
+      "role": "USER",
+      "level": 48
+    },
+    "message": "naruupart",
+    "timestamp": "2026-05-08T09:48:31.665Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "af68d0f3-d7f6-4e9e-8cda-3689fb482610",
+      "shortId": "QM1SZL",
+      "name": "RIHAN",
+      "role": "USER",
+      "level": 48
+    },
+    "message": "naruupart you got [c3vr]?",
+    "timestamp": "2026-05-08T09:48:37.705Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "af68d0f3-d7f6-4e9e-8cda-3689fb482610",
+      "shortId": "QM1SZL",
+      "name": "RIHAN",
+      "role": "USER",
+      "level": 48
+    },
+    "message": "/wager [Ortus|Revolver|WEAPON_SKIN|MYTHICAL] #609GEM",
+    "timestamp": "2026-05-08T09:49:11.289Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "af68d0f3-d7f6-4e9e-8cda-3689fb482610",
+      "shortId": "QM1SZL",
+      "name": "RIHAN",
+      "role": "USER",
+      "level": 48
+    },
+    "message": "?wager [Ortus|Revolver|WEAPON_SKIN|MYTHICAL] #609GEM",
+    "timestamp": "2026-05-08T09:49:26.036Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "af68d0f3-d7f6-4e9e-8cda-3689fb482610",
+      "shortId": "QM1SZL",
+      "name": "RIHAN",
+      "role": "USER",
+      "level": 48
+    },
+    "message": "p4yer [Ortus|Revolver|WEAPON_SKIN|MYTHICAL] for [CV01|Bayonet|WEAPON_SKIN|MYTHICAL]?",
+    "timestamp": "2026-05-08T09:49:43.956Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "af68d0f3-d7f6-4e9e-8cda-3689fb482610",
+      "shortId": "QM1SZL",
+      "name": "RIHAN",
+      "role": "USER",
+      "level": 48
+    },
+    "message": "shyt what",
+    "timestamp": "2026-05-08T09:50:14.776Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "af68d0f3-d7f6-4e9e-8cda-3689fb482610",
+      "shortId": "QM1SZL",
+      "name": "RIHAN",
+      "role": "USER",
+      "level": 48
+    },
+    "message": "VENOM you got ortus?",
+    "timestamp": "2026-05-08T09:50:25.914Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "af68d0f3-d7f6-4e9e-8cda-3689fb482610",
+      "shortId": "QM1SZL",
+      "name": "RIHAN",
+      "role": "USER",
+      "level": 48
+    },
+    "message": "RIZZ you have [c3vr]?",
+    "timestamp": "2026-05-08T09:50:36.488Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "af68d0f3-d7f6-4e9e-8cda-3689fb482610",
+      "shortId": "QM1SZL",
+      "name": "RIHAN",
+      "role": "USER",
+      "level": 48
+    },
+    "message": "/wager [Ortus|Revolver|WEAPON_SKIN|MYTHICAL] #VLR28T",
+    "timestamp": "2026-05-08T09:50:56.125Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "af68d0f3-d7f6-4e9e-8cda-3689fb482610",
+      "shortId": "QM1SZL",
+      "name": "RIHAN",
+      "role": "USER",
+      "level": 48
+    },
+    "message": "/cancelwager",
+    "timestamp": "2026-05-08T09:51:04.756Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "af68d0f3-d7f6-4e9e-8cda-3689fb482610",
+      "shortId": "QM1SZL",
+      "name": "RIHAN",
+      "role": "USER",
+      "level": 48
+    },
+    "message": "/wager [Ortus|Revolver|WEAPON_SKIN|MYTHICAL] #VLR28T",
+    "timestamp": "2026-05-08T09:51:10.581Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "af68d0f3-d7f6-4e9e-8cda-3689fb482610",
+      "shortId": "QM1SZL",
+      "name": "RIHAN",
+      "role": "USER",
+      "level": 48
+    },
+    "message": "CAT wager?",
+    "timestamp": "2026-05-08T09:51:16.371Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "af68d0f3-d7f6-4e9e-8cda-3689fb482610",
+      "shortId": "QM1SZL",
+      "name": "RIHAN",
+      "role": "USER",
+      "level": 48
+    },
+    "message": "RIZZ confirmwager",
+    "timestamp": "2026-05-08T09:51:32.405Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "af68d0f3-d7f6-4e9e-8cda-3689fb482610",
+      "shortId": "QM1SZL",
+      "name": "RIHAN",
+      "role": "USER",
+      "level": 48
+    },
+    "message": "RIZZ confirmwager..",
+    "timestamp": "2026-05-08T09:51:44.038Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "af68d0f3-d7f6-4e9e-8cda-3689fb482610",
+      "shortId": "QM1SZL",
+      "name": "RIHAN",
+      "role": "USER",
+      "level": 48
+    },
+    "message": "/cancelwager",
+    "timestamp": "2026-05-08T09:52:00.244Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "af68d0f3-d7f6-4e9e-8cda-3689fb482610",
+      "shortId": "QM1SZL",
+      "name": "RIHAN",
+      "role": "USER",
+      "level": 48
+    },
+    "message": "SATURN change",
+    "timestamp": "2026-05-08T09:52:34.976Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "af68d0f3-d7f6-4e9e-8cda-3689fb482610",
+      "shortId": "QM1SZL",
+      "name": "RIHAN",
+      "role": "USER",
+      "level": 48
+    },
+    "message": "who wanna wger?",
+    "timestamp": "2026-05-08T09:52:50.022Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "af68d0f3-d7f6-4e9e-8cda-3689fb482610",
+      "shortId": "QM1SZL",
+      "name": "RIHAN",
+      "role": "USER",
+      "level": 48
+    },
+    "message": "LF[c3vor]",
+    "timestamp": "2026-05-08T09:53:21.995Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "af68d0f3-d7f6-4e9e-8cda-3689fb482610",
+      "shortId": "QM1SZL",
+      "name": "RIHAN",
+      "role": "USER",
+      "level": 48
+    },
+    "message": "/HM sprig",
+    "timestamp": "2026-05-08T09:53:52.589Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "af68d0f3-d7f6-4e9e-8cda-3689fb482610",
+      "shortId": "QM1SZL",
+      "name": "RIHAN",
+      "role": "USER",
+      "level": 48
+    },
+    "message": "bruh",
+    "timestamp": "2026-05-08T09:53:57.667Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "af68d0f3-d7f6-4e9e-8cda-3689fb482610",
+      "shortId": "QM1SZL",
+      "name": "RIHAN",
+      "role": "USER",
+      "level": 48
+    },
+    "message": "PvP [Xed||BODY_SKIN|MYTHICAL] for [Twitch||BODY_SKIN|MYTHICAL]?",
+    "timestamp": "2026-05-08T09:54:18.190Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "af68d0f3-d7f6-4e9e-8cda-3689fb482610",
+      "shortId": "QM1SZL",
+      "name": "RIHAN",
+      "role": "USER",
+      "level": 48
+    },
+    "message": "Pvp I can add [Ortus|Revolver|WEAPON_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-08T09:54:47.878Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "af68d0f3-d7f6-4e9e-8cda-3689fb482610",
+      "shortId": "QM1SZL",
+      "name": "RIHAN",
+      "role": "USER",
+      "level": 48
+    },
+    "message": "bruhh",
+    "timestamp": "2026-05-08T09:54:51.675Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "af68d0f3-d7f6-4e9e-8cda-3689fb482610",
+      "shortId": "QM1SZL",
+      "name": "RIHAN",
+      "role": "USER",
+      "level": 48
+    },
+    "message": "fake price",
+    "timestamp": "2026-05-08T09:54:56.605Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "af68d0f3-d7f6-4e9e-8cda-3689fb482610",
+      "shortId": "QM1SZL",
+      "name": "RIHAN",
+      "role": "USER",
+      "level": 48
+    },
+    "message": "OVER [Xed||BODY_SKIN|MYTHICAL] fake price",
+    "timestamp": "2026-05-08T09:55:15.841Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "af68d0f3-d7f6-4e9e-8cda-3689fb482610",
+      "shortId": "QM1SZL",
+      "name": "RIHAN",
+      "role": "USER",
+      "level": 48
+    },
+    "message": "/avg [Xed||BODY_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-08T09:55:27.786Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "af68d0f3-d7f6-4e9e-8cda-3689fb482610",
+      "shortId": "QM1SZL",
+      "name": "RIHAN",
+      "role": "USER",
+      "level": 48
+    },
+    "message": "Tr [Twitch||BODY_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-08T09:55:58.261Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "af68d0f3-d7f6-4e9e-8cda-3689fb482610",
+      "shortId": "QM1SZL",
+      "name": "RIHAN",
+      "role": "USER",
+      "level": 48
+    },
+    "message": "p4yer [Twitch||BODY_SKIN|MYTHICAL] for [Punishment||BODY_SKIN|MYTHICAL]?",
+    "timestamp": "2026-05-08T09:56:31.653Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "af68d0f3-d7f6-4e9e-8cda-3689fb482610",
+      "shortId": "QM1SZL",
+      "name": "RIHAN",
+      "role": "USER",
+      "level": 48
+    },
+    "message": "Mahiru?",
+    "timestamp": "2026-05-08T09:57:01.422Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "af68d0f3-d7f6-4e9e-8cda-3689fb482610",
+      "shortId": "QM1SZL",
+      "name": "RIHAN",
+      "role": "USER",
+      "level": 48
+    },
+    "message": "mAhiru why pinged me?",
+    "timestamp": "2026-05-08T09:57:25.586Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "af68d0f3-d7f6-4e9e-8cda-3689fb482610",
+      "shortId": "QM1SZL",
+      "name": "RIHAN",
+      "role": "USER",
+      "level": 48
+    },
+    "message": "Mahiru?",
+    "timestamp": "2026-05-08T09:58:31.327Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "af68d0f3-d7f6-4e9e-8cda-3689fb482610",
+      "shortId": "QM1SZL",
+      "name": "RIHAN",
+      "role": "USER",
+      "level": 48
+    },
+    "message": "Mahiru ntty",
+    "timestamp": "2026-05-08T09:58:59.386Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "af68d0f3-d7f6-4e9e-8cda-3689fb482610",
+      "shortId": "QM1SZL",
+      "name": "RIHAN",
+      "role": "USER",
+      "level": 48
+    },
+    "message": "TORTURE you got [Panda||BODY_SKIN|MYTHICAL]?",
+    "timestamp": "2026-05-08T10:00:11.381Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "af68d0f3-d7f6-4e9e-8cda-3689fb482610",
+      "shortId": "QM1SZL",
+      "name": "RIHAN",
+      "role": "USER",
+      "level": 48
+    },
+    "message": "wagering [Panda||BODY_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-08T10:01:02.164Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "af68d0f3-d7f6-4e9e-8cda-3689fb482610",
+      "shortId": "QM1SZL",
+      "name": "RIHAN",
+      "role": "USER",
+      "level": 48
+    },
+    "message": "wagering [Panda||BODY_SKIN|MYTHICAL][Ortus|Revolver|WEAPON_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-08T10:01:12.614Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "af68d0f3-d7f6-4e9e-8cda-3689fb482610",
+      "shortId": "QM1SZL",
+      "name": "RIHAN",
+      "role": "USER",
+      "level": 48
+    },
+    "message": "Zenix?",
+    "timestamp": "2026-05-08T10:01:21.313Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "af68d0f3-d7f6-4e9e-8cda-3689fb482610",
+      "shortId": "QM1SZL",
+      "name": "RIHAN",
+      "role": "USER",
+      "level": 48
+    },
+    "message": "Zenix I have [Twitch||BODY_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-08T10:01:36.900Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "af68d0f3-d7f6-4e9e-8cda-3689fb482610",
+      "shortId": "QM1SZL",
+      "name": "RIHAN",
+      "role": "USER",
+      "level": 48
+    },
+    "message": "/confimrmwager",
+    "timestamp": "2026-05-08T10:01:59.713Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "af68d0f3-d7f6-4e9e-8cda-3689fb482610",
+      "shortId": "QM1SZL",
+      "name": "RIHAN",
+      "role": "USER",
+      "level": 48
+    },
+    "message": "/cancelwager",
+    "timestamp": "2026-05-08T10:02:23.677Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "af68d0f3-d7f6-4e9e-8cda-3689fb482610",
+      "shortId": "QM1SZL",
+      "name": "RIHAN",
+      "role": "USER",
+      "level": 48
+    },
+    "message": "/confirmwager",
+    "timestamp": "2026-05-08T10:02:34.993Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "af68d0f3-d7f6-4e9e-8cda-3689fb482610",
+      "shortId": "QM1SZL",
+      "name": "RIHAN",
+      "role": "USER",
+      "level": 48
+    },
+    "message": "make again opls",
+    "timestamp": "2026-05-08T10:04:30.328Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "af68d0f3-d7f6-4e9e-8cda-3689fb482610",
+      "shortId": "QM1SZL",
+      "name": "RIHAN",
+      "role": "USER",
+      "level": 48
+    },
+    "message": "I got disconnectwed",
+    "timestamp": "2026-05-08T10:04:35.554Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "af68d0f3-d7f6-4e9e-8cda-3689fb482610",
+      "shortId": "QM1SZL",
+      "name": "RIHAN",
+      "role": "USER",
+      "level": 48
+    },
+    "message": "Abeed",
+    "timestamp": "2026-05-08T10:05:16.148Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "af68d0f3-d7f6-4e9e-8cda-3689fb482610",
+      "shortId": "QM1SZL",
+      "name": "RIHAN",
+      "role": "USER",
+      "level": 48
+    },
+    "message": "Abeed I want ahelp",
+    "timestamp": "2026-05-08T10:05:24.743Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "af68d0f3-d7f6-4e9e-8cda-3689fb482610",
+      "shortId": "QM1SZL",
+      "name": "RIHAN",
+      "role": "USER",
+      "level": 48
+    },
+    "message": "Abeed",
+    "timestamp": "2026-05-08T10:06:01.827Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "af68d0f3-d7f6-4e9e-8cda-3689fb482610",
+      "shortId": "QM1SZL",
+      "name": "RIHAN",
+      "role": "USER",
+      "level": 48
+    },
+    "message": "Wagering [Panda||BODY_SKIN|MYTHICAL] [Ortus|Revolver|WEAPON_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-08T10:06:27.114Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "af68d0f3-d7f6-4e9e-8cda-3689fb482610",
+      "shortId": "QM1SZL",
+      "name": "RIHAN",
+      "role": "USER",
+      "level": 48
+    },
+    "message": "Mahiru?",
+    "timestamp": "2026-05-08T10:06:42.213Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "af68d0f3-d7f6-4e9e-8cda-3689fb482610",
+      "shortId": "QM1SZL",
+      "name": "RIHAN",
+      "role": "USER",
+      "level": 48
+    },
+    "message": "ok",
+    "timestamp": "2026-05-08T10:06:48.478Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "af68d0f3-d7f6-4e9e-8cda-3689fb482610",
+      "shortId": "QM1SZL",
+      "name": "RIHAN",
+      "role": "USER",
+      "level": 48
+    },
+    "message": "Mahiru you make",
+    "timestamp": "2026-05-08T10:07:12.618Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "af68d0f3-d7f6-4e9e-8cda-3689fb482610",
+      "shortId": "QM1SZL",
+      "name": "RIHAN",
+      "role": "USER",
+      "level": 48
+    },
+    "message": "Wagering [Panda||BODY_SKIN|MYTHICAL] [Ortus|Revolver|WEAPON_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-08T10:07:15.508Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "af68d0f3-d7f6-4e9e-8cda-3689fb482610",
+      "shortId": "QM1SZL",
+      "name": "RIHAN",
+      "role": "USER",
+      "level": 48
+    },
+    "message": "/cancelwager",
+    "timestamp": "2026-05-08T10:07:29.587Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "af68d0f3-d7f6-4e9e-8cda-3689fb482610",
+      "shortId": "QM1SZL",
+      "name": "RIHAN",
+      "role": "USER",
+      "level": 48
+    },
+    "message": "Hahiru cancelwager",
+    "timestamp": "2026-05-08T10:07:48.606Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "af68d0f3-d7f6-4e9e-8cda-3689fb482610",
+      "shortId": "QM1SZL",
+      "name": "RIHAN",
+      "role": "USER",
+      "level": 48
+    },
+    "message": "Mahiru now make",
+    "timestamp": "2026-05-08T10:08:13.160Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "af68d0f3-d7f6-4e9e-8cda-3689fb482610",
+      "shortId": "QM1SZL",
+      "name": "RIHAN",
+      "role": "USER",
+      "level": 48
+    },
+    "message": "bruh",
+    "timestamp": "2026-05-08T10:08:36.752Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "af68d0f3-d7f6-4e9e-8cda-3689fb482610",
+      "shortId": "QM1SZL",
+      "name": "RIHAN",
+      "role": "USER",
+      "level": 48
+    },
+    "message": "who wanna wager [Ortus|Revolver|WEAPON_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-08T10:09:41.487Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "af68d0f3-d7f6-4e9e-8cda-3689fb482610",
+      "shortId": "QM1SZL",
+      "name": "RIHAN",
+      "role": "USER",
+      "level": 48
+    },
+    "message": "Abeed",
+    "timestamp": "2026-05-08T10:09:44.385Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "af68d0f3-d7f6-4e9e-8cda-3689fb482610",
+      "shortId": "QM1SZL",
+      "name": "RIHAN",
+      "role": "USER",
+      "level": 48
+    },
+    "message": "Abeed bro I lost my inv pls give me [Angel||BODY_SKIN|MYTHICAL] pls",
+    "timestamp": "2026-05-08T10:10:01.721Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "af68d0f3-d7f6-4e9e-8cda-3689fb482610",
+      "shortId": "QM1SZL",
+      "name": "RIHAN",
+      "role": "USER",
+      "level": 48
+    },
+    "message": "Abeed rdy pls",
+    "timestamp": "2026-05-08T10:11:23.991Z"
   }
 ]
