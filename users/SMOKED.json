@@ -814,5 +814,53 @@
     },
     "message": "im gonna sleep for like 7-8hours then wale up and grind again",
     "timestamp": "2026-05-08T04:59:36.809Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "8130e18e-ff15-4f5b-a4e4-e3b8692ee32b",
+      "shortId": "SMOKED",
+      "name": "Torque_",
+      "role": "USER",
+      "level": 100
+    },
+    "message": "/wager [Engravement|Bayonet|WEAPON_SKIN|MYTHICAL]x1 #2NCN43",
+    "timestamp": "2026-05-08T05:07:48.873Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "8130e18e-ff15-4f5b-a4e4-e3b8692ee32b",
+      "shortId": "SMOKED",
+      "name": "Torque_",
+      "role": "USER",
+      "level": 100
+    },
+    "message": "breh",
+    "timestamp": "2026-05-08T05:08:44.866Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "8130e18e-ff15-4f5b-a4e4-e3b8692ee32b",
+      "shortId": "SMOKED",
+      "name": "Torque_",
+      "role": "USER",
+      "level": 100
+    },
+    "message": "/cancelwager",
+    "timestamp": "2026-05-08T05:08:55.105Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "8130e18e-ff15-4f5b-a4e4-e3b8692ee32b",
+      "shortId": "SMOKED",
+      "name": "Torque_",
+      "role": "USER",
+      "level": 100
+    },
+    "message": "/wager [Engravement|Bayonet|WEAPON_SKIN|MYTHICAL]x1 #2NCN43",
+    "timestamp": "2026-05-08T05:09:51.427Z"
   }
 ]
