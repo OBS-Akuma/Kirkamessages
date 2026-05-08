@@ -3020,7 +3020,7 @@
       "role": "USER",
       "level": 75
     },
-    "message": "What does nft mean? qưer",
+    "message": "What does nft mean? qÆ°er",
     "timestamp": "2026-05-08T21:55:40.455Z"
   },
   {
@@ -3166,5 +3166,17 @@
     },
     "message": "?",
     "timestamp": "2026-05-08T22:06:10.617Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "6da59982-c088-49ca-933e-8a3fbfaa6592",
+      "shortId": "PL4OPG",
+      "name": "[VN]_NTAT_",
+      "role": "USER",
+      "level": 75
+    },
+    "message": "[Megalodon|Shark|WEAPON_SKIN|LEGENDARY]",
+    "timestamp": "2026-05-08T22:08:03.379Z"
   }
 ]
