@@ -550,5 +550,17 @@
     },
     "message": "[Nuclear Waste|Weatie|WEAPON_SKIN|RARE]",
     "timestamp": "2026-05-08T03:02:54.860Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "5dc6fde8-9a8b-46ce-888d-1087729265e1",
+      "shortId": "18RCGS",
+      "name": "Cheetos_queen",
+      "role": "USER",
+      "level": 6
+    },
+    "message": "/hm hazmat",
+    "timestamp": "2026-05-08T03:15:18.921Z"
   }
 ]
