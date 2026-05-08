@@ -6250,5 +6250,665 @@
     },
     "message": "3-1",
     "timestamp": "2026-05-07T07:48:57.375Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "x5SnOOPvACZyKsVSWNqdKawqktx1",
+      "shortId": "CG0G1I",
+      "name": "Corvo",
+      "role": "USER",
+      "level": 8
+    },
+    "message": "/wager [Saint Patrick|Shark|WEAPON_SKIN|LEGENDARY] #000000",
+    "timestamp": "2026-05-08T06:57:45.321Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "x5SnOOPvACZyKsVSWNqdKawqktx1",
+      "shortId": "CG0G1I",
+      "name": "Corvo",
+      "role": "USER",
+      "level": 8
+    },
+    "message": "/cancelwager",
+    "timestamp": "2026-05-08T06:57:50.543Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "x5SnOOPvACZyKsVSWNqdKawqktx1",
+      "shortId": "CG0G1I",
+      "name": "Corvo",
+      "role": "USER",
+      "level": 8
+    },
+    "message": "/wager [Saint Patrick|Shark|WEAPON_SKIN|LEGENDARY] #000000",
+    "timestamp": "2026-05-08T06:57:55.460Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "x5SnOOPvACZyKsVSWNqdKawqktx1",
+      "shortId": "CG0G1I",
+      "name": "Corvo",
+      "role": "USER",
+      "level": 8
+    },
+    "message": "d",
+    "timestamp": "2026-05-08T06:57:59.765Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "x5SnOOPvACZyKsVSWNqdKawqktx1",
+      "shortId": "CG0G1I",
+      "name": "Corvo",
+      "role": "USER",
+      "level": 8
+    },
+    "message": "I dont have 3x",
+    "timestamp": "2026-05-08T06:58:04.981Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "x5SnOOPvACZyKsVSWNqdKawqktx1",
+      "shortId": "CG0G1I",
+      "name": "Corvo",
+      "role": "USER",
+      "level": 8
+    },
+    "message": "/wager [Saint Patrick|Shark|WEAPON_SKIN|LEGENDARY] #000000",
+    "timestamp": "2026-05-08T06:58:11.329Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "x5SnOOPvACZyKsVSWNqdKawqktx1",
+      "shortId": "CG0G1I",
+      "name": "Corvo",
+      "role": "USER",
+      "level": 8
+    },
+    "message": "bro",
+    "timestamp": "2026-05-08T06:58:17.475Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "x5SnOOPvACZyKsVSWNqdKawqktx1",
+      "shortId": "CG0G1I",
+      "name": "Corvo",
+      "role": "USER",
+      "level": 8
+    },
+    "message": "he dont give",
+    "timestamp": "2026-05-08T06:58:22.186Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "x5SnOOPvACZyKsVSWNqdKawqktx1",
+      "shortId": "CG0G1I",
+      "name": "Corvo",
+      "role": "USER",
+      "level": 8
+    },
+    "message": "daminion",
+    "timestamp": "2026-05-08T06:58:28.637Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "x5SnOOPvACZyKsVSWNqdKawqktx1",
+      "shortId": "CG0G1I",
+      "name": "Corvo",
+      "role": "USER",
+      "level": 8
+    },
+    "message": "wht u want",
+    "timestamp": "2026-05-08T06:58:31.100Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "x5SnOOPvACZyKsVSWNqdKawqktx1",
+      "shortId": "CG0G1I",
+      "name": "Corvo",
+      "role": "USER",
+      "level": 8
+    },
+    "message": "[Qod||BODY_SKIN|MYTHICAL] for",
+    "timestamp": "2026-05-08T06:58:34.166Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "x5SnOOPvACZyKsVSWNqdKawqktx1",
+      "shortId": "CG0G1I",
+      "name": "Corvo",
+      "role": "USER",
+      "level": 8
+    },
+    "message": "[Saint Patrick|Shark|WEAPON_SKIN|LEGENDARY] and [Business Cat||BODY_SKIN|MYTHICAL] for",
+    "timestamp": "2026-05-08T06:58:42.055Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "x5SnOOPvACZyKsVSWNqdKawqktx1",
+      "shortId": "CG0G1I",
+      "name": "Corvo",
+      "role": "USER",
+      "level": 8
+    },
+    "message": "[Qod||BODY_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-08T06:58:46.204Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "x5SnOOPvACZyKsVSWNqdKawqktx1",
+      "shortId": "CG0G1I",
+      "name": "Corvo",
+      "role": "USER",
+      "level": 8
+    },
+    "message": "xd",
+    "timestamp": "2026-05-08T06:58:53.418Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "x5SnOOPvACZyKsVSWNqdKawqktx1",
+      "shortId": "CG0G1I",
+      "name": "Corvo",
+      "role": "USER",
+      "level": 8
+    },
+    "message": "cf",
+    "timestamp": "2026-05-08T06:58:55.876Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "x5SnOOPvACZyKsVSWNqdKawqktx1",
+      "shortId": "CG0G1I",
+      "name": "Corvo",
+      "role": "USER",
+      "level": 8
+    },
+    "message": "/price [Saint Patrick|Shark|WEAPON_SKIN|LEGENDARY]",
+    "timestamp": "2026-05-08T06:59:20.762Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "x5SnOOPvACZyKsVSWNqdKawqktx1",
+      "shortId": "CG0G1I",
+      "name": "Corvo",
+      "role": "USER",
+      "level": 8
+    },
+    "message": "I can add [Sizzle||BODY_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-08T06:59:27.517Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "x5SnOOPvACZyKsVSWNqdKawqktx1",
+      "shortId": "CG0G1I",
+      "name": "Corvo",
+      "role": "USER",
+      "level": 8
+    },
+    "message": "nahh",
+    "timestamp": "2026-05-08T06:59:29.006Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "x5SnOOPvACZyKsVSWNqdKawqktx1",
+      "shortId": "CG0G1I",
+      "name": "Corvo",
+      "role": "USER",
+      "level": 8
+    },
+    "message": "nahhhh 200m",
+    "timestamp": "2026-05-08T06:59:31.613Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "x5SnOOPvACZyKsVSWNqdKawqktx1",
+      "shortId": "CG0G1I",
+      "name": "Corvo",
+      "role": "USER",
+      "level": 8
+    },
+    "message": "/price [qid]",
+    "timestamp": "2026-05-08T06:59:35.816Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "x5SnOOPvACZyKsVSWNqdKawqktx1",
+      "shortId": "CG0G1I",
+      "name": "Corvo",
+      "role": "USER",
+      "level": 8
+    },
+    "message": "/price [Qod||BODY_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-08T06:59:39.141Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "x5SnOOPvACZyKsVSWNqdKawqktx1",
+      "shortId": "CG0G1I",
+      "name": "Corvo",
+      "role": "USER",
+      "level": 8
+    },
+    "message": "d",
+    "timestamp": "2026-05-08T06:59:41.562Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "x5SnOOPvACZyKsVSWNqdKawqktx1",
+      "shortId": "CG0G1I",
+      "name": "Corvo",
+      "role": "USER",
+      "level": 8
+    },
+    "message": "/price [Qod||BODY_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-08T06:59:45.031Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "x5SnOOPvACZyKsVSWNqdKawqktx1",
+      "shortId": "CG0G1I",
+      "name": "Corvo",
+      "role": "USER",
+      "level": 8
+    },
+    "message": "/hm [Qod||BODY_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-08T06:59:49.642Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "x5SnOOPvACZyKsVSWNqdKawqktx1",
+      "shortId": "CG0G1I",
+      "name": "Corvo",
+      "role": "USER",
+      "level": 8
+    },
+    "message": "110m",
+    "timestamp": "2026-05-08T06:59:52.326Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "x5SnOOPvACZyKsVSWNqdKawqktx1",
+      "shortId": "CG0G1I",
+      "name": "Corvo",
+      "role": "USER",
+      "level": 8
+    },
+    "message": "lier daminion",
+    "timestamp": "2026-05-08T06:59:57.726Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "x5SnOOPvACZyKsVSWNqdKawqktx1",
+      "shortId": "CG0G1I",
+      "name": "Corvo",
+      "role": "USER",
+      "level": 8
+    },
+    "message": "<3 sense",
+    "timestamp": "2026-05-08T07:00:00.797Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "x5SnOOPvACZyKsVSWNqdKawqktx1",
+      "shortId": "CG0G1I",
+      "name": "Corvo",
+      "role": "USER",
+      "level": 8
+    },
+    "message": "110m",
+    "timestamp": "2026-05-08T07:00:17.389Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "x5SnOOPvACZyKsVSWNqdKawqktx1",
+      "shortId": "CG0G1I",
+      "name": "Corvo",
+      "role": "USER",
+      "level": 8
+    },
+    "message": "saint patrick and business cat and sizzle = 120m",
+    "timestamp": "2026-05-08T07:00:27.790Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "x5SnOOPvACZyKsVSWNqdKawqktx1",
+      "shortId": "CG0G1I",
+      "name": "Corvo",
+      "role": "USER",
+      "level": 8
+    },
+    "message": "now cf or no",
+    "timestamp": "2026-05-08T07:00:30.726Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "x5SnOOPvACZyKsVSWNqdKawqktx1",
+      "shortId": "CG0G1I",
+      "name": "Corvo",
+      "role": "USER",
+      "level": 8
+    },
+    "message": "zenix wht",
+    "timestamp": "2026-05-08T07:00:32.884Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "x5SnOOPvACZyKsVSWNqdKawqktx1",
+      "shortId": "CG0G1I",
+      "name": "Corvo",
+      "role": "USER",
+      "level": 8
+    },
+    "message": "zenix wht u cf",
+    "timestamp": "2026-05-08T07:00:43.655Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "x5SnOOPvACZyKsVSWNqdKawqktx1",
+      "shortId": "CG0G1I",
+      "name": "Corvo",
+      "role": "USER",
+      "level": 8
+    },
+    "message": "my all inv cf for",
+    "timestamp": "2026-05-08T07:00:57.659Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "x5SnOOPvACZyKsVSWNqdKawqktx1",
+      "shortId": "CG0G1I",
+      "name": "Corvo",
+      "role": "USER",
+      "level": 8
+    },
+    "message": "now daminion",
+    "timestamp": "2026-05-08T07:01:07.125Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "x5SnOOPvACZyKsVSWNqdKawqktx1",
+      "shortId": "CG0G1I",
+      "name": "Corvo",
+      "role": "USER",
+      "level": 8
+    },
+    "message": "cf or no",
+    "timestamp": "2026-05-08T07:01:10.127Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "x5SnOOPvACZyKsVSWNqdKawqktx1",
+      "shortId": "CG0G1I",
+      "name": "Corvo",
+      "role": "USER",
+      "level": 8
+    },
+    "message": "[Qod||BODY_SKIN|MYTHICAL] no have demand",
+    "timestamp": "2026-05-08T07:01:17.935Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "x5SnOOPvACZyKsVSWNqdKawqktx1",
+      "shortId": "CG0G1I",
+      "name": "Corvo",
+      "role": "USER",
+      "level": 8
+    },
+    "message": "cfing my all inv",
+    "timestamp": "2026-05-08T07:01:30.448Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "x5SnOOPvACZyKsVSWNqdKawqktx1",
+      "shortId": "CG0G1I",
+      "name": "Corvo",
+      "role": "USER",
+      "level": 8
+    },
+    "message": "yes",
+    "timestamp": "2026-05-08T07:01:39.632Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "x5SnOOPvACZyKsVSWNqdKawqktx1",
+      "shortId": "CG0G1I",
+      "name": "Corvo",
+      "role": "USER",
+      "level": 8
+    },
+    "message": "p42ty wht",
+    "timestamp": "2026-05-08T07:01:43.299Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "x5SnOOPvACZyKsVSWNqdKawqktx1",
+      "shortId": "CG0G1I",
+      "name": "Corvo",
+      "role": "USER",
+      "level": 8
+    },
+    "message": "wht u cf",
+    "timestamp": "2026-05-08T07:01:46.295Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "x5SnOOPvACZyKsVSWNqdKawqktx1",
+      "shortId": "CG0G1I",
+      "name": "Corvo",
+      "role": "USER",
+      "level": 8
+    },
+    "message": "me too",
+    "timestamp": "2026-05-08T07:01:53.141Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "x5SnOOPvACZyKsVSWNqdKawqktx1",
+      "shortId": "CG0G1I",
+      "name": "Corvo",
+      "role": "USER",
+      "level": 8
+    },
+    "message": "I want sense mm",
+    "timestamp": "2026-05-08T07:01:57.543Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "x5SnOOPvACZyKsVSWNqdKawqktx1",
+      "shortId": "CG0G1I",
+      "name": "Corvo",
+      "role": "USER",
+      "level": 8
+    },
+    "message": "he is trust",
+    "timestamp": "2026-05-08T07:02:02.962Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "x5SnOOPvACZyKsVSWNqdKawqktx1",
+      "shortId": "CG0G1I",
+      "name": "Corvo",
+      "role": "USER",
+      "level": 8
+    },
+    "message": "my all inv",
+    "timestamp": "2026-05-08T07:02:10.438Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "x5SnOOPvACZyKsVSWNqdKawqktx1",
+      "shortId": "CG0G1I",
+      "name": "Corvo",
+      "role": "USER",
+      "level": 8
+    },
+    "message": "[Mabel||BODY_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-08T07:02:16.399Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "x5SnOOPvACZyKsVSWNqdKawqktx1",
+      "shortId": "CG0G1I",
+      "name": "Corvo",
+      "role": "USER",
+      "level": 8
+    },
+    "message": "p4rty",
+    "timestamp": "2026-05-08T07:02:31.142Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "x5SnOOPvACZyKsVSWNqdKawqktx1",
+      "shortId": "CG0G1I",
+      "name": "Corvo",
+      "role": "USER",
+      "level": 8
+    },
+    "message": "wht u cf",
+    "timestamp": "2026-05-08T07:02:33.226Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "x5SnOOPvACZyKsVSWNqdKawqktx1",
+      "shortId": "CG0G1I",
+      "name": "Corvo",
+      "role": "USER",
+      "level": 8
+    },
+    "message": "my all inv for",
+    "timestamp": "2026-05-08T07:02:36.858Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "x5SnOOPvACZyKsVSWNqdKawqktx1",
+      "shortId": "CG0G1I",
+      "name": "Corvo",
+      "role": "USER",
+      "level": 8
+    },
+    "message": "daminion",
+    "timestamp": "2026-05-08T07:02:42.391Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "x5SnOOPvACZyKsVSWNqdKawqktx1",
+      "shortId": "CG0G1I",
+      "name": "Corvo",
+      "role": "USER",
+      "level": 8
+    },
+    "message": "[Saint Patrick|Shark|WEAPON_SKIN|LEGENDARY] and [Business Cat||BODY_SKIN|MYTHICAL] and [Sizzle||BODY_SKIN|MYTHICAL] for [Qod||BODY_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-08T07:02:57.749Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "x5SnOOPvACZyKsVSWNqdKawqktx1",
+      "shortId": "CG0G1I",
+      "name": "Corvo",
+      "role": "USER",
+      "level": 8
+    },
+    "message": "yes p4rty",
+    "timestamp": "2026-05-08T07:03:05.532Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "x5SnOOPvACZyKsVSWNqdKawqktx1",
+      "shortId": "CG0G1I",
+      "name": "Corvo",
+      "role": "USER",
+      "level": 8
+    },
+    "message": "zenix wait",
+    "timestamp": "2026-05-08T07:03:11.591Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "x5SnOOPvACZyKsVSWNqdKawqktx1",
+      "shortId": "CG0G1I",
+      "name": "Corvo",
+      "role": "USER",
+      "level": 8
+    },
+    "message": "nah",
+    "timestamp": "2026-05-08T07:03:15.363Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "x5SnOOPvACZyKsVSWNqdKawqktx1",
+      "shortId": "CG0G1I",
+      "name": "Corvo",
+      "role": "USER",
+      "level": 8
+    },
+    "message": "I dont want [Mabel||BODY_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-08T07:03:22.647Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "x5SnOOPvACZyKsVSWNqdKawqktx1",
+      "shortId": "CG0G1I",
+      "name": "Corvo",
+      "role": "USER",
+      "level": 8
+    },
+    "message": "zenix wht u cf",
+    "timestamp": "2026-05-08T07:03:25.603Z"
   }
 ]
