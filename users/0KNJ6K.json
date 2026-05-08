@@ -106,5 +106,29 @@
     },
     "message": "/giveaway [All Spark|Revolver|WEAPON_SKIN|MYTHICAL]x1",
     "timestamp": "2026-05-07T05:51:36.625Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "665f1a4c-31dc-42b2-9866-5c5b9e918c1f",
+      "shortId": "0KNJ6K",
+      "name": "Sloth",
+      "role": "USER",
+      "level": 80
+    },
+    "message": "I HAVWE VIVID",
+    "timestamp": "2026-05-08T06:39:59.952Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "665f1a4c-31dc-42b2-9866-5c5b9e918c1f",
+      "shortId": "0KNJ6K",
+      "name": "Sloth",
+      "role": "USER",
+      "level": 80
+    },
+    "message": "1",
+    "timestamp": "2026-05-08T06:40:17.139Z"
   }
 ]
