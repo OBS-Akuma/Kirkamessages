@@ -142,5 +142,17 @@
     },
     "message": "/enter",
     "timestamp": "2026-05-05T23:35:00.401Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "e593855f-34dd-4d12-b03f-87cf92b607c9",
+      "shortId": "Q9COV0",
+      "name": "Dutchman",
+      "role": "USER",
+      "level": 94
+    },
+    "message": "/hm [Krampus||BODY_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-08T03:02:57.316Z"
   }
 ]
