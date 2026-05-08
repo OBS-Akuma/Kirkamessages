@@ -214,5 +214,125 @@
     },
     "message": "[RGB||BODY_SKIN|LEGENDARY]",
     "timestamp": "2026-05-07T09:44:20.692Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "830fe4c0-52ac-4cfd-b6c8-23978d88c95d",
+      "shortId": "BIUD6A",
+      "name": "gamer.pro",
+      "role": "USER",
+      "level": 56
+    },
+    "message": "/price [Distortion|MAC-10|WEAPON_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-08T05:56:32.144Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "830fe4c0-52ac-4cfd-b6c8-23978d88c95d",
+      "shortId": "BIUD6A",
+      "name": "gamer.pro",
+      "role": "USER",
+      "level": 56
+    },
+    "message": "/price [Distortion|MAC-10|WEAPON_SKIN|MYTHICAL],",
+    "timestamp": "2026-05-08T05:56:49.093Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "830fe4c0-52ac-4cfd-b6c8-23978d88c95d",
+      "shortId": "BIUD6A",
+      "name": "gamer.pro",
+      "role": "USER",
+      "level": 56
+    },
+    "message": "/price [Distortion|MAC-10|WEAPON_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-08T05:56:53.015Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "830fe4c0-52ac-4cfd-b6c8-23978d88c95d",
+      "shortId": "BIUD6A",
+      "name": "gamer.pro",
+      "role": "USER",
+      "level": 56
+    },
+    "message": "/inv",
+    "timestamp": "2026-05-08T05:57:08.301Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "830fe4c0-52ac-4cfd-b6c8-23978d88c95d",
+      "shortId": "BIUD6A",
+      "name": "gamer.pro",
+      "role": "USER",
+      "level": 56
+    },
+    "message": "/price [Bullseye||BODY_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-08T05:57:28.576Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "830fe4c0-52ac-4cfd-b6c8-23978d88c95d",
+      "shortId": "BIUD6A",
+      "name": "gamer.pro",
+      "role": "USER",
+      "level": 56
+    },
+    "message": "trading [gardner]",
+    "timestamp": "2026-05-08T05:58:07.594Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "830fe4c0-52ac-4cfd-b6c8-23978d88c95d",
+      "shortId": "BIUD6A",
+      "name": "gamer.pro",
+      "role": "USER",
+      "level": 56
+    },
+    "message": "trading [Gardener|Bayonet|WEAPON_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-08T05:58:11.585Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "830fe4c0-52ac-4cfd-b6c8-23978d88c95d",
+      "shortId": "BIUD6A",
+      "name": "gamer.pro",
+      "role": "USER",
+      "level": 56
+    },
+    "message": "/inv",
+    "timestamp": "2026-05-08T05:58:23.322Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "830fe4c0-52ac-4cfd-b6c8-23978d88c95d",
+      "shortId": "BIUD6A",
+      "name": "gamer.pro",
+      "role": "USER",
+      "level": 56
+    },
+    "message": "/price [Distortion|MAC-10|WEAPON_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-08T05:58:42.918Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "830fe4c0-52ac-4cfd-b6c8-23978d88c95d",
+      "shortId": "BIUD6A",
+      "name": "gamer.pro",
+      "role": "USER",
+      "level": 56
+    },
+    "message": "/price [Techno||BODY_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-08T06:00:53.122Z"
   }
 ]
