@@ -94,5 +94,77 @@
     },
     "message": "hi Jhoseph <3",
     "timestamp": "2026-05-07T22:07:41.207Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "orr22S1N8KeHNjbbsMIjegUtIPz1",
+      "shortId": "YW7QWY",
+      "name": "zenth.",
+      "role": "USER",
+      "level": 93
+    },
+    "message": "lf [Monk||BODY_SKIN|MYTHICAL] and [ranked_s2_top100]",
+    "timestamp": "2026-05-07T22:23:05.611Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "orr22S1N8KeHNjbbsMIjegUtIPz1",
+      "shortId": "YW7QWY",
+      "name": "zenth.",
+      "role": "USER",
+      "level": 93
+    },
+    "message": "lf [Monk||BODY_SKIN|MYTHICAL] and [ranked_s2_top_100]",
+    "timestamp": "2026-05-07T22:23:13.264Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "orr22S1N8KeHNjbbsMIjegUtIPz1",
+      "shortId": "YW7QWY",
+      "name": "zenth.",
+      "role": "USER",
+      "level": 93
+    },
+    "message": "hm for [Maze||BODY_SKIN|EPIC] jazz",
+    "timestamp": "2026-05-07T22:23:57.350Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "orr22S1N8KeHNjbbsMIjegUtIPz1",
+      "shortId": "YW7QWY",
+      "name": "zenth.",
+      "role": "USER",
+      "level": 93
+    },
+    "message": "okey",
+    "timestamp": "2026-05-07T22:24:11.044Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "orr22S1N8KeHNjbbsMIjegUtIPz1",
+      "shortId": "YW7QWY",
+      "name": "zenth.",
+      "role": "USER",
+      "level": 93
+    },
+    "message": "would u take [Adora||BODY_SKIN|PARANORMAL] as one of the trades?",
+    "timestamp": "2026-05-07T22:24:24.041Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "orr22S1N8KeHNjbbsMIjegUtIPz1",
+      "shortId": "YW7QWY",
+      "name": "zenth.",
+      "role": "USER",
+      "level": 93
+    },
+    "message": "okey",
+    "timestamp": "2026-05-07T22:24:52.609Z"
   }
 ]
