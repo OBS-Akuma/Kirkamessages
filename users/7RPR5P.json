@@ -94,5 +94,17 @@
     },
     "message": "[shart]",
     "timestamp": "2026-05-07T19:34:47.148Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "dece667a-fd9d-4728-88c0-104cad6d4c40",
+      "shortId": "7RPR5P",
+      "name": "RazorX",
+      "role": "USER",
+      "level": 38
+    },
+    "message": "/price [Forbidden|AR-9|WEAPON_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-08T07:56:15.362Z"
   }
 ]
