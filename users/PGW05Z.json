@@ -178,5 +178,149 @@
     },
     "message": "/hm V0i",
     "timestamp": "2026-05-08T03:50:19.539Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "f1c6940c-5a94-4af4-ba69-fb763d71ebb4",
+      "shortId": "PGW05Z",
+      "name": "Lord_Gazzel",
+      "role": "USER",
+      "level": 89
+    },
+    "message": "si",
+    "timestamp": "2026-05-08T04:06:33.223Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "f1c6940c-5a94-4af4-ba69-fb763d71ebb4",
+      "shortId": "PGW05Z",
+      "name": "Lord_Gazzel",
+      "role": "USER",
+      "level": 89
+    },
+    "message": "ok",
+    "timestamp": "2026-05-08T04:06:47.738Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "f1c6940c-5a94-4af4-ba69-fb763d71ebb4",
+      "shortId": "PGW05Z",
+      "name": "Lord_Gazzel",
+      "role": "USER",
+      "level": 89
+    },
+    "message": "bueno",
+    "timestamp": "2026-05-08T04:08:32.233Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "f1c6940c-5a94-4af4-ba69-fb763d71ebb4",
+      "shortId": "PGW05Z",
+      "name": "Lord_Gazzel",
+      "role": "USER",
+      "level": 89
+    },
+    "message": "en el primero pongo wood que es como el dinero?",
+    "timestamp": "2026-05-08T04:10:41.403Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "f1c6940c-5a94-4af4-ba69-fb763d71ebb4",
+      "shortId": "PGW05Z",
+      "name": "Lord_Gazzel",
+      "role": "USER",
+      "level": 89
+    },
+    "message": "y en el segundo l askin que deseo tener?",
+    "timestamp": "2026-05-08T04:10:54.342Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "f1c6940c-5a94-4af4-ba69-fb763d71ebb4",
+      "shortId": "PGW05Z",
+      "name": "Lord_Gazzel",
+      "role": "USER",
+      "level": 89
+    },
+    "message": "ese parentesis de q sirve?",
+    "timestamp": "2026-05-08T04:15:27.547Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "f1c6940c-5a94-4af4-ba69-fb763d71ebb4",
+      "shortId": "PGW05Z",
+      "name": "Lord_Gazzel",
+      "role": "USER",
+      "level": 89
+    },
+    "message": "}",
+    "timestamp": "2026-05-08T04:19:38.613Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "f1c6940c-5a94-4af4-ba69-fb763d71ebb4",
+      "shortId": "PGW05Z",
+      "name": "Lord_Gazzel",
+      "role": "USER",
+      "level": 89
+    },
+    "message": "} skin",
+    "timestamp": "2026-05-08T04:19:50.751Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "f1c6940c-5a94-4af4-ba69-fb763d71ebb4",
+      "shortId": "PGW05Z",
+      "name": "Lord_Gazzel",
+      "role": "USER",
+      "level": 89
+    },
+    "message": "heiko para que sirve la llave",
+    "timestamp": "2026-05-08T04:26:55.395Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "f1c6940c-5a94-4af4-ba69-fb763d71ebb4",
+      "shortId": "PGW05Z",
+      "name": "Lord_Gazzel",
+      "role": "USER",
+      "level": 89
+    },
+    "message": "}",
+    "timestamp": "2026-05-08T04:27:00.073Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "f1c6940c-5a94-4af4-ba69-fb763d71ebb4",
+      "shortId": "PGW05Z",
+      "name": "Lord_Gazzel",
+      "role": "USER",
+      "level": 89
+    },
+    "message": "golen for wood",
+    "timestamp": "2026-05-08T04:29:25.848Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "f1c6940c-5a94-4af4-ba69-fb763d71ebb4",
+      "shortId": "PGW05Z",
+      "name": "Lord_Gazzel",
+      "role": "USER",
+      "level": 89
+    },
+    "message": "golden for wood",
+    "timestamp": "2026-05-08T04:29:40.219Z"
   }
 ]
