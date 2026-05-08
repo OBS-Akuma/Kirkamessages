@@ -1450,5 +1450,101 @@
     },
     "message": ".",
     "timestamp": "2026-05-08T09:10:56.212Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "1385b47a-bc43-4879-a1c4-7baf533b7bcc",
+      "shortId": "2JDMSD",
+      "name": "[\\/]Ike",
+      "role": "USER",
+      "level": 47
+    },
+    "message": "Trading/wagering[Gardener|Bayonet|WEAPON_SKIN|MYTHICAL],[Love Bites|Bayonet|WEAPON_SKIN|MYTHICAL]x3,[Or|Bayonet|WEAPON_SKIN|MYTHICAL]x3,[CYB3R|Bayonet|WEAPON_SKIN|MYTHICAL]x2,[Twitch||BODY_SKIN|MYTHICAL],[Jolly||BODY_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-08T09:11:09.555Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "1385b47a-bc43-4879-a1c4-7baf533b7bcc",
+      "shortId": "2JDMSD",
+      "name": "[\\/]Ike",
+      "role": "USER",
+      "level": 47
+    },
+    "message": "/cancelwager",
+    "timestamp": "2026-05-08T09:11:50.395Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "1385b47a-bc43-4879-a1c4-7baf533b7bcc",
+      "shortId": "2JDMSD",
+      "name": "[\\/]Ike",
+      "role": "USER",
+      "level": 47
+    },
+    "message": "/confirmwager",
+    "timestamp": "2026-05-08T09:12:02.109Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "1385b47a-bc43-4879-a1c4-7baf533b7bcc",
+      "shortId": "2JDMSD",
+      "name": "[\\/]Ike",
+      "role": "USER",
+      "level": 47
+    },
+    "message": "Gg",
+    "timestamp": "2026-05-08T09:12:32.720Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "1385b47a-bc43-4879-a1c4-7baf533b7bcc",
+      "shortId": "2JDMSD",
+      "name": "[\\/]Ike",
+      "role": "USER",
+      "level": 47
+    },
+    "message": "/claim",
+    "timestamp": "2026-05-08T09:12:38.056Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "1385b47a-bc43-4879-a1c4-7baf533b7bcc",
+      "shortId": "2JDMSD",
+      "name": "[\\/]Ike",
+      "role": "USER",
+      "level": 47
+    },
+    "message": "Dadd u have gardener",
+    "timestamp": "2026-05-08T09:13:24.433Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "1385b47a-bc43-4879-a1c4-7baf533b7bcc",
+      "shortId": "2JDMSD",
+      "name": "[\\/]Ike",
+      "role": "USER",
+      "level": 47
+    },
+    "message": "/wager [Gardener|Bayonet|WEAPON_SKIN|MYTHICAL] #TGXCZ5",
+    "timestamp": "2026-05-08T09:13:47.569Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "1385b47a-bc43-4879-a1c4-7baf533b7bcc",
+      "shortId": "2JDMSD",
+      "name": "[\\/]Ike",
+      "role": "USER",
+      "level": 47
+    },
+    "message": "Gl",
+    "timestamp": "2026-05-08T09:14:25.897Z"
   }
 ]
