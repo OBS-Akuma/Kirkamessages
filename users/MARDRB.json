@@ -1,0 +1,38 @@
+[
+  {
+    "type": 2,
+    "user": {
+      "id": "guest-de2a1e4b-c1bb-4c47-ba96-e314c3fc9f38",
+      "shortId": "MARDRB",
+      "name": "wabyyy",
+      "role": "USER",
+      "level": 5
+    },
+    "message": "how do i level up faster chattt",
+    "timestamp": "2026-05-08T02:22:08.842Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "guest-de2a1e4b-c1bb-4c47-ba96-e314c3fc9f38",
+      "shortId": "MARDRB",
+      "name": "wabyyy",
+      "role": "USER",
+      "level": 5
+    },
+    "message": "chat how do i level up faster",
+    "timestamp": "2026-05-08T02:22:29.704Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "guest-de2a1e4b-c1bb-4c47-ba96-e314c3fc9f38",
+      "shortId": "MARDRB",
+      "name": "wabyyy",
+      "role": "USER",
+      "level": 5
+    },
+    "message": "okay",
+    "timestamp": "2026-05-08T02:22:50.660Z"
+  }
+]
