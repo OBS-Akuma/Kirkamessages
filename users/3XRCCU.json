@@ -46,5 +46,17 @@
     },
     "message": "[glopie]",
     "timestamp": "2026-05-08T08:58:45.891Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "VDlzMXAa9DZPbZvebQ5vePHLeex2",
+      "shortId": "3XRCCU",
+      "name": "DABEYT",
+      "role": "USER",
+      "level": 64
+    },
+    "message": "/inv",
+    "timestamp": "2026-05-08T09:15:44.237Z"
   }
 ]
