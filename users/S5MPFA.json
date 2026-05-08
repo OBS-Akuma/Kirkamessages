@@ -1,0 +1,26 @@
+[
+  {
+    "type": 2,
+    "user": {
+      "id": "86589a91-d7fd-4be7-b167-47a9940d8612",
+      "shortId": "S5MPFA",
+      "name": "Chan",
+      "role": "USER",
+      "level": 85
+    },
+    "message": "[Darkweb||BODY_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-08T08:37:00.907Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "86589a91-d7fd-4be7-b167-47a9940d8612",
+      "shortId": "S5MPFA",
+      "name": "Chan",
+      "role": "USER",
+      "level": 85
+    },
+    "message": "[Dipolar||BODY_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-08T08:37:06.277Z"
+  }
+]
