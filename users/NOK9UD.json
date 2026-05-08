@@ -478,5 +478,29 @@
     },
     "message": "trading [Imperial|SCAR|WEAPON_SKIN|MYTHICAL]",
     "timestamp": "2026-05-08T10:09:56.859Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "633bb881-9ddb-4a66-b04a-dcae9680b0b0",
+      "shortId": "NOK9UD",
+      "name": "Aimbot",
+      "role": "USER",
+      "level": 86
+    },
+    "message": "snorlax",
+    "timestamp": "2026-05-08T10:27:48.334Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "633bb881-9ddb-4a66-b04a-dcae9680b0b0",
+      "shortId": "NOK9UD",
+      "name": "Aimbot",
+      "role": "USER",
+      "level": 86
+    },
+    "message": "offer for vocaloid",
+    "timestamp": "2026-05-08T10:27:55.093Z"
   }
 ]
