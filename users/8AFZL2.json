@@ -142,5 +142,53 @@
     },
     "message": "/hm employed",
     "timestamp": "2026-05-07T09:29:22.003Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "dde0da8a-87f3-4294-bf44-5b5aaf07c020",
+      "shortId": "8AFZL2",
+      "name": "AIMTOME",
+      "role": "USER",
+      "level": 27
+    },
+    "message": "/hm pollen",
+    "timestamp": "2026-05-08T07:10:40.462Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "dde0da8a-87f3-4294-bf44-5b5aaf07c020",
+      "shortId": "8AFZL2",
+      "name": "AIMTOME",
+      "role": "USER",
+      "level": 27
+    },
+    "message": "/price pollen",
+    "timestamp": "2026-05-08T07:10:47.279Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "dde0da8a-87f3-4294-bf44-5b5aaf07c020",
+      "shortId": "8AFZL2",
+      "name": "AIMTOME",
+      "role": "USER",
+      "level": 27
+    },
+    "message": "/price golem",
+    "timestamp": "2026-05-08T07:10:57.831Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "dde0da8a-87f3-4294-bf44-5b5aaf07c020",
+      "shortId": "8AFZL2",
+      "name": "AIMTOME",
+      "role": "USER",
+      "level": 27
+    },
+    "message": "/price gardener",
+    "timestamp": "2026-05-08T07:11:07.028Z"
   }
 ]
