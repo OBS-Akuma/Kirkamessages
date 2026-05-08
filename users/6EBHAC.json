@@ -2566,5 +2566,53 @@
     },
     "message": "anyone wager christmas chests?",
     "timestamp": "2026-05-07T03:53:07.792Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "e7e57fc8-686b-4a99-bcba-b2e86d830827",
+      "shortId": "6EBHAC",
+      "name": "XxSus_monkxX",
+      "role": "USER",
+      "level": 76
+    },
+    "message": "/raffel",
+    "timestamp": "2026-05-08T03:49:07.423Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "e7e57fc8-686b-4a99-bcba-b2e86d830827",
+      "shortId": "6EBHAC",
+      "name": "XxSus_monkxX",
+      "role": "USER",
+      "level": 76
+    },
+    "message": "/enter",
+    "timestamp": "2026-05-08T03:49:11.716Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "e7e57fc8-686b-4a99-bcba-b2e86d830827",
+      "shortId": "6EBHAC",
+      "name": "XxSus_monkxX",
+      "role": "USER",
+      "level": 76
+    },
+    "message": "sonion",
+    "timestamp": "2026-05-08T03:49:34.471Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "e7e57fc8-686b-4a99-bcba-b2e86d830827",
+      "shortId": "6EBHAC",
+      "name": "XxSus_monkxX",
+      "role": "USER",
+      "level": 76
+    },
+    "message": "/enter",
+    "timestamp": "2026-05-08T03:49:36.948Z"
   }
 ]
