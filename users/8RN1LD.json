@@ -860,7 +860,7 @@
       "role": "USER",
       "level": 59
     },
-    "message": "æ©ä¸å¥½",
+    "message": "Ã¦ÂÂ©Ã¤Â¸ÂÃ¥Â¥Â½",
     "timestamp": "2026-05-08T02:01:47.487Z"
   },
   {
@@ -884,7 +884,7 @@
       "role": "USER",
       "level": 59
     },
-    "message": "好的",
+    "message": "å¥½ç",
     "timestamp": "2026-05-08T02:02:35.646Z"
   },
   {
@@ -1040,7 +1040,7 @@
       "role": "USER",
       "level": 59
     },
-    "message": "不要强迫自己",
+    "message": "ä¸è¦å¼ºè¿«èªå·±",
     "timestamp": "2026-05-08T02:06:09.224Z"
   },
   {
@@ -1066,5 +1066,197 @@
     },
     "message": "HAHA but I scare if I buy. It will stuck in my Inv",
     "timestamp": "2026-05-08T02:07:02.923Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "b666b8f1-f958-4f26-97e6-e081cc5c7b0a",
+      "shortId": "8RN1LD",
+      "name": "GummyBear",
+      "role": "USER",
+      "level": 59
+    },
+    "message": "QWERTY what is your advice",
+    "timestamp": "2026-05-08T02:07:09.893Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "b666b8f1-f958-4f26-97e6-e081cc5c7b0a",
+      "shortId": "8RN1LD",
+      "name": "GummyBear",
+      "role": "USER",
+      "level": 59
+    },
+    "message": "HAHA",
+    "timestamp": "2026-05-08T02:07:12.250Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "b666b8f1-f958-4f26-97e6-e081cc5c7b0a",
+      "shortId": "8RN1LD",
+      "name": "GummyBear",
+      "role": "USER",
+      "level": 59
+    },
+    "message": "Haha ok then I shall not buy",
+    "timestamp": "2026-05-08T02:08:17.040Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "b666b8f1-f958-4f26-97e6-e081cc5c7b0a",
+      "shortId": "8RN1LD",
+      "name": "GummyBear",
+      "role": "USER",
+      "level": 59
+    },
+    "message": "#4SYHPF in market for 20M",
+    "timestamp": "2026-05-08T02:08:28.676Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "b666b8f1-f958-4f26-97e6-e081cc5c7b0a",
+      "shortId": "8RN1LD",
+      "name": "GummyBear",
+      "role": "USER",
+      "level": 59
+    },
+    "message": "Haha yes. It's available in market to buy",
+    "timestamp": "2026-05-08T02:08:44.799Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "b666b8f1-f958-4f26-97e6-e081cc5c7b0a",
+      "shortId": "8RN1LD",
+      "name": "GummyBear",
+      "role": "USER",
+      "level": 59
+    },
+    "message": "/inv #4SYHPF",
+    "timestamp": "2026-05-08T02:08:57.906Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "b666b8f1-f958-4f26-97e6-e081cc5c7b0a",
+      "shortId": "8RN1LD",
+      "name": "GummyBear",
+      "role": "USER",
+      "level": 59
+    },
+    "message": "Your INV 28.7M",
+    "timestamp": "2026-05-08T02:09:05.490Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "b666b8f1-f958-4f26-97e6-e081cc5c7b0a",
+      "shortId": "8RN1LD",
+      "name": "GummyBear",
+      "role": "USER",
+      "level": 59
+    },
+    "message": "So maybe sell your items to get it",
+    "timestamp": "2026-05-08T02:09:13.156Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "b666b8f1-f958-4f26-97e6-e081cc5c7b0a",
+      "shortId": "8RN1LD",
+      "name": "GummyBear",
+      "role": "USER",
+      "level": 59
+    },
+    "message": "I dont have DC",
+    "timestamp": "2026-05-08T02:09:27.912Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "b666b8f1-f958-4f26-97e6-e081cc5c7b0a",
+      "shortId": "8RN1LD",
+      "name": "GummyBear",
+      "role": "USER",
+      "level": 59
+    },
+    "message": "Unless you can offer 20M in exchange",
+    "timestamp": "2026-05-08T02:09:53.318Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "b666b8f1-f958-4f26-97e6-e081cc5c7b0a",
+      "shortId": "8RN1LD",
+      "name": "GummyBear",
+      "role": "USER",
+      "level": 59
+    },
+    "message": "I can buy for you.",
+    "timestamp": "2026-05-08T02:09:56.248Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "b666b8f1-f958-4f26-97e6-e081cc5c7b0a",
+      "shortId": "8RN1LD",
+      "name": "GummyBear",
+      "role": "USER",
+      "level": 59
+    },
+    "message": "[Frau||BODY_SKIN|MYTHICAL] seems tough to sell too",
+    "timestamp": "2026-05-08T02:10:34.237Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "b666b8f1-f958-4f26-97e6-e081cc5c7b0a",
+      "shortId": "8RN1LD",
+      "name": "GummyBear",
+      "role": "USER",
+      "level": 59
+    },
+    "message": "HAHA",
+    "timestamp": "2026-05-08T02:10:35.840Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "b666b8f1-f958-4f26-97e6-e081cc5c7b0a",
+      "shortId": "8RN1LD",
+      "name": "GummyBear",
+      "role": "USER",
+      "level": 59
+    },
+    "message": "/price moltorath",
+    "timestamp": "2026-05-08T02:11:04.580Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "b666b8f1-f958-4f26-97e6-e081cc5c7b0a",
+      "shortId": "8RN1LD",
+      "name": "GummyBear",
+      "role": "USER",
+      "level": 59
+    },
+    "message": "价格未出",
+    "timestamp": "2026-05-08T02:11:29.828Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "b666b8f1-f958-4f26-97e6-e081cc5c7b0a",
+      "shortId": "8RN1LD",
+      "name": "GummyBear",
+      "role": "USER",
+      "level": 59
+    },
+    "message": "/price old",
+    "timestamp": "2026-05-08T02:11:40.458Z"
   }
 ]
