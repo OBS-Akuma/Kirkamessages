@@ -106,5 +106,65 @@
     },
     "message": "/locate lodon",
     "timestamp": "2026-05-08T04:57:25.122Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "d8c60953-7e39-48e3-b2ff-0df017fd1c32",
+      "shortId": "0DL6F8",
+      "name": "d3stroy3r",
+      "role": "USER",
+      "level": 37
+    },
+    "message": "how do I search up the price of the poo shark",
+    "timestamp": "2026-05-08T05:07:05.117Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "d8c60953-7e39-48e3-b2ff-0df017fd1c32",
+      "shortId": "0DL6F8",
+      "name": "d3stroy3r",
+      "role": "USER",
+      "level": 37
+    },
+    "message": "s word shark",
+    "timestamp": "2026-05-08T05:07:20.047Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "d8c60953-7e39-48e3-b2ff-0df017fd1c32",
+      "shortId": "0DL6F8",
+      "name": "d3stroy3r",
+      "role": "USER",
+      "level": 37
+    },
+    "message": "dragon I have [Blessed||BODY_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-08T05:07:37.381Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "d8c60953-7e39-48e3-b2ff-0df017fd1c32",
+      "shortId": "0DL6F8",
+      "name": "d3stroy3r",
+      "role": "USER",
+      "level": 37
+    },
+    "message": "#2NCN43",
+    "timestamp": "2026-05-08T05:08:32.165Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "d8c60953-7e39-48e3-b2ff-0df017fd1c32",
+      "shortId": "0DL6F8",
+      "name": "d3stroy3r",
+      "role": "USER",
+      "level": 37
+    },
+    "message": "who wanna wager 200 goldens",
+    "timestamp": "2026-05-08T05:14:33.044Z"
   }
 ]
