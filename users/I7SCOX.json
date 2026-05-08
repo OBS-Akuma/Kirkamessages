@@ -598,5 +598,125 @@
     },
     "message": "/inv #HC3YLK",
     "timestamp": "2026-05-07T22:28:05.978Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "e53ac14c-dc7d-421c-8abd-fe7b9e185688",
+      "shortId": "I7SCOX",
+      "name": "cocoa_koala",
+      "role": "USER",
+      "level": 81
+    },
+    "message": "/hm bay",
+    "timestamp": "2026-05-07T23:34:14.153Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "e53ac14c-dc7d-421c-8abd-fe7b9e185688",
+      "shortId": "I7SCOX",
+      "name": "cocoa_koala",
+      "role": "USER",
+      "level": 81
+    },
+    "message": "/hm gardener",
+    "timestamp": "2026-05-07T23:54:45.746Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "e53ac14c-dc7d-421c-8abd-fe7b9e185688",
+      "shortId": "I7SCOX",
+      "name": "cocoa_koala",
+      "role": "USER",
+      "level": 81
+    },
+    "message": "/hm pollen,golem",
+    "timestamp": "2026-05-07T23:55:04.270Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "e53ac14c-dc7d-421c-8abd-fe7b9e185688",
+      "shortId": "I7SCOX",
+      "name": "cocoa_koala",
+      "role": "USER",
+      "level": 81
+    },
+    "message": "/hm daylight,garden",
+    "timestamp": "2026-05-07T23:55:21.217Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "e53ac14c-dc7d-421c-8abd-fe7b9e185688",
+      "shortId": "I7SCOX",
+      "name": "cocoa_koala",
+      "role": "USER",
+      "level": 81
+    },
+    "message": "/hm daynight,garden",
+    "timestamp": "2026-05-07T23:55:29.919Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "e53ac14c-dc7d-421c-8abd-fe7b9e185688",
+      "shortId": "I7SCOX",
+      "name": "cocoa_koala",
+      "role": "USER",
+      "level": 81
+    },
+    "message": "/hm saint patrick",
+    "timestamp": "2026-05-07T23:57:23.265Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "e53ac14c-dc7d-421c-8abd-fe7b9e185688",
+      "shortId": "I7SCOX",
+      "name": "cocoa_koala",
+      "role": "USER",
+      "level": 81
+    },
+    "message": "/hm quilliam,cassiope,huney,imperial,arcade",
+    "timestamp": "2026-05-07T23:57:51.335Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "e53ac14c-dc7d-421c-8abd-fe7b9e185688",
+      "shortId": "I7SCOX",
+      "name": "cocoa_koala",
+      "role": "USER",
+      "level": 81
+    },
+    "message": "/hm synergy",
+    "timestamp": "2026-05-07T23:57:56.516Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "e53ac14c-dc7d-421c-8abd-fe7b9e185688",
+      "shortId": "I7SCOX",
+      "name": "cocoa_koala",
+      "role": "USER",
+      "level": 81
+    },
+    "message": "/hm splanch",
+    "timestamp": "2026-05-07T23:58:04.278Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "e53ac14c-dc7d-421c-8abd-fe7b9e185688",
+      "shortId": "I7SCOX",
+      "name": "cocoa_koala",
+      "role": "USER",
+      "level": 81
+    },
+    "message": "/hm verde",
+    "timestamp": "2026-05-07T23:58:10.245Z"
   }
 ]
