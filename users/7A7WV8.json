@@ -34,5 +34,29 @@
     },
     "message": "/hm capricorn",
     "timestamp": "2026-05-08T08:07:41.778Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "e15467c6-5a4e-4bb2-8e42-cc670db399df",
+      "shortId": "7A7WV8",
+      "name": "Nebula",
+      "role": "USER",
+      "level": 98
+    },
+    "message": "/hm punishment",
+    "timestamp": "2026-05-08T09:02:58.332Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "e15467c6-5a4e-4bb2-8e42-cc670db399df",
+      "shortId": "7A7WV8",
+      "name": "Nebula",
+      "role": "USER",
+      "level": 98
+    },
+    "message": "/hm angel",
+    "timestamp": "2026-05-08T09:03:03.850Z"
   }
 ]
