@@ -886,5 +886,29 @@
     },
     "message": "haha",
     "timestamp": "2026-05-08T05:24:06.960Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "0775331c-8ae7-42de-b216-507402c39976",
+      "shortId": "YY9IF7",
+      "name": "PICKLEWICKEL",
+      "role": "USER",
+      "level": 88
+    },
+    "message": "flint i have forbidden",
+    "timestamp": "2026-05-08T07:49:27.419Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "0775331c-8ae7-42de-b216-507402c39976",
+      "shortId": "YY9IF7",
+      "name": "PICKLEWICKEL",
+      "role": "USER",
+      "level": 88
+    },
+    "message": "/enter",
+    "timestamp": "2026-05-08T07:49:30.726Z"
   }
 ]
