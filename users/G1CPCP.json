@@ -1,0 +1,38 @@
+[
+  {
+    "type": 2,
+    "user": {
+      "id": "7c4a4dd7-4c4a-4060-9279-e15107afc07b",
+      "shortId": "G1CPCP",
+      "name": "taxevader",
+      "role": "USER",
+      "level": 17
+    },
+    "message": "[Huney||BODY_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-08T19:03:38.108Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "7c4a4dd7-4c4a-4060-9279-e15107afc07b",
+      "shortId": "G1CPCP",
+      "name": "taxevader",
+      "role": "USER",
+      "level": 17
+    },
+    "message": "how much does [Ashley||BODY_SKIN|MYTHICAL] and [Huney||BODY_SKIN|MYTHICAL] trade for?",
+    "timestamp": "2026-05-08T19:03:59.822Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "7c4a4dd7-4c4a-4060-9279-e15107afc07b",
+      "shortId": "G1CPCP",
+      "name": "taxevader",
+      "role": "USER",
+      "level": 17
+    },
+    "message": "/price [Noble|VITA|WEAPON_SKIN|LEGENDARY]",
+    "timestamp": "2026-05-08T19:07:56.842Z"
+  }
+]
