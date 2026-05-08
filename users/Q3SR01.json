@@ -22,5 +22,29 @@
     },
     "message": "?",
     "timestamp": "2026-05-03T03:51:35.108Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "d86a8b05-d775-44e3-a927-d3c633b5dd5d",
+      "shortId": "Q3SR01",
+      "name": "PeepZ",
+      "role": "USER",
+      "level": 38
+    },
+    "message": "/locate [Golden||CHEST|LEGENDARY]",
+    "timestamp": "2026-05-08T11:07:27.541Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "d86a8b05-d775-44e3-a927-d3c633b5dd5d",
+      "shortId": "Q3SR01",
+      "name": "PeepZ",
+      "role": "USER",
+      "level": 38
+    },
+    "message": "/inv #7XMB07",
+    "timestamp": "2026-05-08T11:08:11.037Z"
   }
 ]
