@@ -106,5 +106,17 @@
     },
     "message": "/PRICE JOLLY",
     "timestamp": "2026-05-06T02:42:33.817Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "f1c6940c-5a94-4af4-ba69-fb763d71ebb4",
+      "shortId": "PGW05Z",
+      "name": "Lord_Gazzel",
+      "role": "USER",
+      "level": 88
+    },
+    "message": "/PRICE SLASHER",
+    "timestamp": "2026-05-08T03:12:21.797Z"
   }
 ]
