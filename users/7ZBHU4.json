@@ -3118,5 +3118,53 @@
     },
     "message": "wow I got 5melodys",
     "timestamp": "2026-05-08T07:50:27.899Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "33988dd7-9acc-4279-89a5-40343121a95f",
+      "shortId": "7ZBHU4",
+      "name": "p4rty(quit)",
+      "role": "USER",
+      "level": 81
+    },
+    "message": "[Nyan Dog||BODY_SKIN|PARANORMAL]",
+    "timestamp": "2026-05-08T23:00:04.415Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "33988dd7-9acc-4279-89a5-40343121a95f",
+      "shortId": "7ZBHU4",
+      "name": "p4rty(quit)",
+      "role": "USER",
+      "level": 81
+    },
+    "message": "[Geode||BODY_SKIN|PARANORMAL]",
+    "timestamp": "2026-05-08T23:00:13.426Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "33988dd7-9acc-4279-89a5-40343121a95f",
+      "shortId": "7ZBHU4",
+      "name": "p4rty(quit)",
+      "role": "USER",
+      "level": 81
+    },
+    "message": "/wager [Golden||CHEST|LEGENDARY]X10 #IQT1IO",
+    "timestamp": "2026-05-08T23:00:40.618Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "33988dd7-9acc-4279-89a5-40343121a95f",
+      "shortId": "7ZBHU4",
+      "name": "p4rty(quit)",
+      "role": "USER",
+      "level": 81
+    },
+    "message": "/confirmwager",
+    "timestamp": "2026-05-08T23:01:56.239Z"
   }
 ]
