@@ -130,5 +130,65 @@
     },
     "message": "who has [Void SCAR|SCAR|WEAPON_SKIN|MYTHICAL]",
     "timestamp": "2026-05-08T08:07:19.671Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "guest-077dceb4-05fe-4442-b2e0-edd5469cf619",
+      "shortId": "AH7NA2",
+      "name": "ALTERED",
+      "role": "USER",
+      "level": 21
+    },
+    "message": "/price [Gifto||BODY_SKIN|EPIC]",
+    "timestamp": "2026-05-08T08:22:10.621Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "guest-077dceb4-05fe-4442-b2e0-edd5469cf619",
+      "shortId": "AH7NA2",
+      "name": "ALTERED",
+      "role": "USER",
+      "level": 21
+    },
+    "message": "/price [Finx||BODY_SKIN|EPIC]",
+    "timestamp": "2026-05-08T08:22:20.705Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "guest-077dceb4-05fe-4442-b2e0-edd5469cf619",
+      "shortId": "AH7NA2",
+      "name": "ALTERED",
+      "role": "USER",
+      "level": 21
+    },
+    "message": "/inv Daddy#000000",
+    "timestamp": "2026-05-08T08:23:50.368Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "guest-077dceb4-05fe-4442-b2e0-edd5469cf619",
+      "shortId": "AH7NA2",
+      "name": "ALTERED",
+      "role": "USER",
+      "level": 21
+    },
+    "message": "/inv daddy",
+    "timestamp": "2026-05-08T08:24:01.115Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "guest-077dceb4-05fe-4442-b2e0-edd5469cf619",
+      "shortId": "AH7NA2",
+      "name": "ALTERED",
+      "role": "USER",
+      "level": 21
+    },
+    "message": "/inv #000000",
+    "timestamp": "2026-05-08T08:24:06.951Z"
   }
 ]
