@@ -1,0 +1,26 @@
+[
+  {
+    "type": 2,
+    "user": {
+      "id": "PNrkNwfQVcTFIgtzet7v3WbrWAA2",
+      "shortId": "WQN8RL",
+      "name": "Gama_gamer",
+      "role": "USER",
+      "level": 5
+    },
+    "message": "I want",
+    "timestamp": "2026-05-08T10:01:46.455Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "PNrkNwfQVcTFIgtzet7v3WbrWAA2",
+      "shortId": "WQN8RL",
+      "name": "Gama_gamer",
+      "role": "USER",
+      "level": 5
+    },
+    "message": "#P4AERC",
+    "timestamp": "2026-05-08T10:03:42.322Z"
+  }
+]
