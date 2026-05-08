@@ -1546,5 +1546,29 @@
     },
     "message": "Gl",
     "timestamp": "2026-05-08T09:14:25.897Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "1385b47a-bc43-4879-a1c4-7baf533b7bcc",
+      "shortId": "2JDMSD",
+      "name": "[\\/]Ike",
+      "role": "USER",
+      "level": 47
+    },
+    "message": "Wagering [Jolly||BODY_SKIN|MYTHICAL]x2 [Twitch||BODY_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-08T20:27:47.155Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "1385b47a-bc43-4879-a1c4-7baf533b7bcc",
+      "shortId": "2JDMSD",
+      "name": "[\\/]Ike",
+      "role": "USER",
+      "level": 47
+    },
+    "message": "/wager [CYB3R|Bayonet|WEAPON_SKIN|MYTHICAL] #4SYHPF",
+    "timestamp": "2026-05-08T20:28:58.233Z"
   }
 ]
