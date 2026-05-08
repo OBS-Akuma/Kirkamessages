@@ -1210,5 +1210,53 @@
     },
     "message": "Last bump",
     "timestamp": "2026-05-08T04:54:15.166Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "1385b47a-bc43-4879-a1c4-7baf533b7bcc",
+      "shortId": "2JDMSD",
+      "name": "[\\/]Ike",
+      "role": "USER",
+      "level": 47
+    },
+    "message": "Trading/wagering[Gardener|Bayonet|WEAPON_SKIN|MYTHICAL],[Love Bites|Bayonet|WEAPON_SKIN|MYTHICAL]x3,[Or|Bayonet|WEAPON_SKIN|MYTHICAL]x3,[CYB3R|Bayonet|WEAPON_SKIN|MYTHICAL]x2,[Twitch||BODY_SKIN|MYTHICAL],[Jolly||BODY_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-08T05:07:37.401Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "1385b47a-bc43-4879-a1c4-7baf533b7bcc",
+      "shortId": "2JDMSD",
+      "name": "[\\/]Ike",
+      "role": "USER",
+      "level": 47
+    },
+    "message": "/wager [Gardener|Bayonet|WEAPON_SKIN|MYTHICAL] #CRM7LY",
+    "timestamp": "2026-05-08T05:08:15.097Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "1385b47a-bc43-4879-a1c4-7baf533b7bcc",
+      "shortId": "2JDMSD",
+      "name": "[\\/]Ike",
+      "role": "USER",
+      "level": 47
+    },
+    "message": ".",
+    "timestamp": "2026-05-08T05:08:50.849Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "1385b47a-bc43-4879-a1c4-7baf533b7bcc",
+      "shortId": "2JDMSD",
+      "name": "[\\/]Ike",
+      "role": "USER",
+      "level": 47
+    },
+    "message": "/wager [Gardener|Bayonet|WEAPON_SKIN|MYTHICAL] #CRM7LY",
+    "timestamp": "2026-05-08T05:09:03.748Z"
   }
 ]
