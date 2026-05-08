@@ -1,0 +1,26 @@
+[
+  {
+    "type": 2,
+    "user": {
+      "id": "5joWEtfgb0ORcrhc8EMn7P3qaCw1",
+      "shortId": "8VFFZ1",
+      "name": "K!wi.io",
+      "role": "USER",
+      "level": 54
+    },
+    "message": ".",
+    "timestamp": "2026-05-07T23:56:09.634Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "5joWEtfgb0ORcrhc8EMn7P3qaCw1",
+      "shortId": "8VFFZ1",
+      "name": "K!wi.io",
+      "role": "USER",
+      "level": 54
+    },
+    "message": "/inv",
+    "timestamp": "2026-05-07T23:56:11.584Z"
+  }
+]
