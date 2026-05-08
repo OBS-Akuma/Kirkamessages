@@ -860,7 +860,7 @@
       "role": "USER",
       "level": 59
     },
-    "message": "Ã¦ÂÂ©Ã¤Â¸ÂÃ¥Â¥Â½",
+    "message": "ÃÂ¦ÃÂÃÂ©ÃÂ¤ÃÂ¸ÃÂÃÂ¥ÃÂ¥ÃÂ½",
     "timestamp": "2026-05-08T02:01:47.487Z"
   },
   {
@@ -884,7 +884,7 @@
       "role": "USER",
       "level": 59
     },
-    "message": "å¥½ç",
+    "message": "Ã¥Â¥Â½Ã§ÂÂ",
     "timestamp": "2026-05-08T02:02:35.646Z"
   },
   {
@@ -1040,7 +1040,7 @@
       "role": "USER",
       "level": 59
     },
-    "message": "ä¸è¦å¼ºè¿«èªå·±",
+    "message": "Ã¤Â¸ÂÃ¨Â¦ÂÃ¥Â¼ÂºÃ¨Â¿Â«Ã¨ÂÂªÃ¥Â·Â±",
     "timestamp": "2026-05-08T02:06:09.224Z"
   },
   {
@@ -1244,7 +1244,7 @@
       "role": "USER",
       "level": 59
     },
-    "message": "价格未出",
+    "message": "ä»·æ ¼æªåº",
     "timestamp": "2026-05-08T02:11:29.828Z"
   },
   {
@@ -1258,5 +1258,401 @@
     },
     "message": "/price old",
     "timestamp": "2026-05-08T02:11:40.458Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "b666b8f1-f958-4f26-97e6-e081cc5c7b0a",
+      "shortId": "8RN1LD",
+      "name": "GummyBear",
+      "role": "USER",
+      "level": 59
+    },
+    "message": "New items I look at BOT",
+    "timestamp": "2026-05-08T02:12:02.268Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "b666b8f1-f958-4f26-97e6-e081cc5c7b0a",
+      "shortId": "8RN1LD",
+      "name": "GummyBear",
+      "role": "USER",
+      "level": 59
+    },
+    "message": "Older items. BOT are not updated.",
+    "timestamp": "2026-05-08T02:12:11.873Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "b666b8f1-f958-4f26-97e6-e081cc5c7b0a",
+      "shortId": "8RN1LD",
+      "name": "GummyBear",
+      "role": "USER",
+      "level": 59
+    },
+    "message": "And due to Supply and Demand. Prices will increase",
+    "timestamp": "2026-05-08T02:12:23.069Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "b666b8f1-f958-4f26-97e6-e081cc5c7b0a",
+      "shortId": "8RN1LD",
+      "name": "GummyBear",
+      "role": "USER",
+      "level": 59
+    },
+    "message": "Not for [Frau||BODY_SKIN|MYTHICAL] sorry",
+    "timestamp": "2026-05-08T02:12:47.408Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "b666b8f1-f958-4f26-97e6-e081cc5c7b0a",
+      "shortId": "8RN1LD",
+      "name": "GummyBear",
+      "role": "USER",
+      "level": 59
+    },
+    "message": "SHELL i give you 20M",
+    "timestamp": "2026-05-08T02:14:33.294Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "b666b8f1-f958-4f26-97e6-e081cc5c7b0a",
+      "shortId": "8RN1LD",
+      "name": "GummyBear",
+      "role": "USER",
+      "level": 59
+    },
+    "message": "Value still the same",
+    "timestamp": "2026-05-08T02:14:39.521Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "b666b8f1-f958-4f26-97e6-e081cc5c7b0a",
+      "shortId": "8RN1LD",
+      "name": "GummyBear",
+      "role": "USER",
+      "level": 59
+    },
+    "message": "You use the coins to find the other items",
+    "timestamp": "2026-05-08T02:14:52.285Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "b666b8f1-f958-4f26-97e6-e081cc5c7b0a",
+      "shortId": "8RN1LD",
+      "name": "GummyBear",
+      "role": "USER",
+      "level": 59
+    },
+    "message": "Ez",
+    "timestamp": "2026-05-08T02:14:54.169Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "b666b8f1-f958-4f26-97e6-e081cc5c7b0a",
+      "shortId": "8RN1LD",
+      "name": "GummyBear",
+      "role": "USER",
+      "level": 59
+    },
+    "message": "Sure can if you OP",
+    "timestamp": "2026-05-08T02:15:04.528Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "b666b8f1-f958-4f26-97e6-e081cc5c7b0a",
+      "shortId": "8RN1LD",
+      "name": "GummyBear",
+      "role": "USER",
+      "level": 59
+    },
+    "message": "20M more than enough for those items",
+    "timestamp": "2026-05-08T02:15:26.312Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "b666b8f1-f958-4f26-97e6-e081cc5c7b0a",
+      "shortId": "8RN1LD",
+      "name": "GummyBear",
+      "role": "USER",
+      "level": 59
+    },
+    "message": "I dont want to waste my time",
+    "timestamp": "2026-05-08T02:15:31.654Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "b666b8f1-f958-4f26-97e6-e081cc5c7b0a",
+      "shortId": "8RN1LD",
+      "name": "GummyBear",
+      "role": "USER",
+      "level": 59
+    },
+    "message": "I use money to buy time",
+    "timestamp": "2026-05-08T02:15:38.690Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "b666b8f1-f958-4f26-97e6-e081cc5c7b0a",
+      "shortId": "8RN1LD",
+      "name": "GummyBear",
+      "role": "USER",
+      "level": 59
+    },
+    "message": "What",
+    "timestamp": "2026-05-08T02:16:01.360Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "b666b8f1-f958-4f26-97e6-e081cc5c7b0a",
+      "shortId": "8RN1LD",
+      "name": "GummyBear",
+      "role": "USER",
+      "level": 59
+    },
+    "message": "20M?",
+    "timestamp": "2026-05-08T02:16:05.209Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "b666b8f1-f958-4f26-97e6-e081cc5c7b0a",
+      "shortId": "8RN1LD",
+      "name": "GummyBear",
+      "role": "USER",
+      "level": 59
+    },
+    "message": "You are earning not me",
+    "timestamp": "2026-05-08T02:16:08.317Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "b666b8f1-f958-4f26-97e6-e081cc5c7b0a",
+      "shortId": "8RN1LD",
+      "name": "GummyBear",
+      "role": "USER",
+      "level": 59
+    },
+    "message": "lol",
+    "timestamp": "2026-05-08T02:16:09.396Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "b666b8f1-f958-4f26-97e6-e081cc5c7b0a",
+      "shortId": "8RN1LD",
+      "name": "GummyBear",
+      "role": "USER",
+      "level": 59
+    },
+    "message": "眼睛瞎了",
+    "timestamp": "2026-05-08T02:16:29.413Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "b666b8f1-f958-4f26-97e6-e081cc5c7b0a",
+      "shortId": "8RN1LD",
+      "name": "GummyBear",
+      "role": "USER",
+      "level": 59
+    },
+    "message": "Good luck finding those items",
+    "timestamp": "2026-05-08T02:16:46.546Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "b666b8f1-f958-4f26-97e6-e081cc5c7b0a",
+      "shortId": "8RN1LD",
+      "name": "GummyBear",
+      "role": "USER",
+      "level": 59
+    },
+    "message": "Hm is your [Rose||BODY_SKIN|MYTHICAL]?",
+    "timestamp": "2026-05-08T02:17:12.554Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "b666b8f1-f958-4f26-97e6-e081cc5c7b0a",
+      "shortId": "8RN1LD",
+      "name": "GummyBear",
+      "role": "USER",
+      "level": 59
+    },
+    "message": "5 - 8?",
+    "timestamp": "2026-05-08T02:17:31.136Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "b666b8f1-f958-4f26-97e6-e081cc5c7b0a",
+      "shortId": "8RN1LD",
+      "name": "GummyBear",
+      "role": "USER",
+      "level": 59
+    },
+    "message": "/price rose",
+    "timestamp": "2026-05-08T02:17:35.055Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "b666b8f1-f958-4f26-97e6-e081cc5c7b0a",
+      "shortId": "8RN1LD",
+      "name": "GummyBear",
+      "role": "USER",
+      "level": 59
+    },
+    "message": "[Frau||BODY_SKIN|MYTHICAL][Rose||BODY_SKIN|MYTHICAL] for [Darkweb||BODY_SKIN|MYTHICAL]?",
+    "timestamp": "2026-05-08T02:18:26.303Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "b666b8f1-f958-4f26-97e6-e081cc5c7b0a",
+      "shortId": "8RN1LD",
+      "name": "GummyBear",
+      "role": "USER",
+      "level": 59
+    },
+    "message": "/price darkweb",
+    "timestamp": "2026-05-08T02:18:53.420Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "b666b8f1-f958-4f26-97e6-e081cc5c7b0a",
+      "shortId": "8RN1LD",
+      "name": "GummyBear",
+      "role": "USER",
+      "level": 59
+    },
+    "message": "25M in fact",
+    "timestamp": "2026-05-08T02:18:56.579Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "b666b8f1-f958-4f26-97e6-e081cc5c7b0a",
+      "shortId": "8RN1LD",
+      "name": "GummyBear",
+      "role": "USER",
+      "level": 59
+    },
+    "message": "If I buy at 20M. I will sell it at 25M eventually",
+    "timestamp": "2026-05-08T02:19:05.072Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "b666b8f1-f958-4f26-97e6-e081cc5c7b0a",
+      "shortId": "8RN1LD",
+      "name": "GummyBear",
+      "role": "USER",
+      "level": 59
+    },
+    "message": "Let me know",
+    "timestamp": "2026-05-08T02:19:21.537Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "b666b8f1-f958-4f26-97e6-e081cc5c7b0a",
+      "shortId": "8RN1LD",
+      "name": "GummyBear",
+      "role": "USER",
+      "level": 59
+    },
+    "message": "[Frau||BODY_SKIN|MYTHICAL] will be hard for me to sell too",
+    "timestamp": "2026-05-08T02:19:31.892Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "b666b8f1-f958-4f26-97e6-e081cc5c7b0a",
+      "shortId": "8RN1LD",
+      "name": "GummyBear",
+      "role": "USER",
+      "level": 59
+    },
+    "message": "Can np",
+    "timestamp": "2026-05-08T02:19:39.226Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "b666b8f1-f958-4f26-97e6-e081cc5c7b0a",
+      "shortId": "8RN1LD",
+      "name": "GummyBear",
+      "role": "USER",
+      "level": 59
+    },
+    "message": "Trading [Singularity||BODY_SKIN|MYTHICAL] [Flowerpower||BODY_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-08T02:32:32.491Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "b666b8f1-f958-4f26-97e6-e081cc5c7b0a",
+      "shortId": "8RN1LD",
+      "name": "GummyBear",
+      "role": "USER",
+      "level": 59
+    },
+    "message": "opps no price yet",
+    "timestamp": "2026-05-08T02:33:07.777Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "b666b8f1-f958-4f26-97e6-e081cc5c7b0a",
+      "shortId": "8RN1LD",
+      "name": "GummyBear",
+      "role": "USER",
+      "level": 59
+    },
+    "message": "/price pollen",
+    "timestamp": "2026-05-08T02:49:51.404Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "b666b8f1-f958-4f26-97e6-e081cc5c7b0a",
+      "shortId": "8RN1LD",
+      "name": "GummyBear",
+      "role": "USER",
+      "level": 59
+    },
+    "message": "?",
+    "timestamp": "2026-05-08T02:50:20.788Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "b666b8f1-f958-4f26-97e6-e081cc5c7b0a",
+      "shortId": "8RN1LD",
+      "name": "GummyBear",
+      "role": "USER",
+      "level": 59
+    },
+    "message": "nty",
+    "timestamp": "2026-05-08T02:50:42.261Z"
   }
 ]
