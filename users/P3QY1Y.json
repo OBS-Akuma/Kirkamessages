@@ -1126,5 +1126,17 @@
     },
     "message": "nty",
     "timestamp": "2026-05-07T09:49:11.730Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "0f19c49b-cc4f-4df3-ab7b-b388c5515c2a",
+      "shortId": "P3QY1Y",
+      "name": "killerstrike2",
+      "role": "USER",
+      "level": 97
+    },
+    "message": "/enter",
+    "timestamp": "2026-05-08T04:43:36.693Z"
   }
 ]
