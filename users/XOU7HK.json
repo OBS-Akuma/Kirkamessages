@@ -896,7 +896,7 @@
       "role": "USER",
       "level": 70
     },
-    "message": "eeeeeeeeÃÂÃÂª",
+    "message": "eeeeeeeeÃÂÃÂÃÂÃÂª",
     "timestamp": "2026-05-08T03:31:32.311Z"
   },
   {
@@ -920,7 +920,7 @@
       "role": "USER",
       "level": 70
     },
-    "message": "ÃÂÃÂª",
+    "message": "ÃÂÃÂÃÂÃÂª",
     "timestamp": "2026-05-08T03:31:35.365Z"
   },
   {
@@ -946,5 +946,41 @@
     },
     "message": "[Ghillie||BODY_SKIN|MYTHICAL]",
     "timestamp": "2026-05-08T03:32:15.051Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "aX8psLSnw8ejOFoZavWC0ijahY62",
+      "shortId": "XOU7HK",
+      "name": "TienMinh",
+      "role": "USER",
+      "level": 70
+    },
+    "message": "wht",
+    "timestamp": "2026-05-08T05:24:38.574Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "aX8psLSnw8ejOFoZavWC0ijahY62",
+      "shortId": "XOU7HK",
+      "name": "TienMinh",
+      "role": "USER",
+      "level": 70
+    },
+    "message": "hey",
+    "timestamp": "2026-05-08T05:25:57.328Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "aX8psLSnw8ejOFoZavWC0ijahY62",
+      "shortId": "XOU7HK",
+      "name": "TienMinh",
+      "role": "USER",
+      "level": 70
+    },
+    "message": "i gift ok ?",
+    "timestamp": "2026-05-08T05:26:12.701Z"
   }
 ]
