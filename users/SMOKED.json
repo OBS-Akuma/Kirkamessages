@@ -862,5 +862,29 @@
     },
     "message": "/wager [Engravement|Bayonet|WEAPON_SKIN|MYTHICAL]x1 #2NCN43",
     "timestamp": "2026-05-08T05:09:51.427Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "8130e18e-ff15-4f5b-a4e4-e3b8692ee32b",
+      "shortId": "SMOKED",
+      "name": "Torque_",
+      "role": "USER",
+      "level": 100
+    },
+    "message": "ggs",
+    "timestamp": "2026-05-08T05:11:10.646Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "8130e18e-ff15-4f5b-a4e4-e3b8692ee32b",
+      "shortId": "SMOKED",
+      "name": "Torque_",
+      "role": "USER",
+      "level": 100
+    },
+    "message": "/claim",
+    "timestamp": "2026-05-08T05:11:24.794Z"
   }
 ]
