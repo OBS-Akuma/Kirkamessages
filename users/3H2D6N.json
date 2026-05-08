@@ -382,5 +382,41 @@
     },
     "message": "USE YOUR EYES",
     "timestamp": "2026-05-08T09:11:07.435Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "05fd406f-e037-478d-b701-2a92081be680",
+      "shortId": "3H2D6N",
+      "name": "Jupiter",
+      "role": "USER",
+      "level": 68
+    },
+    "message": "omds",
+    "timestamp": "2026-05-08T09:11:25.179Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "05fd406f-e037-478d-b701-2a92081be680",
+      "shortId": "3H2D6N",
+      "name": "Jupiter",
+      "role": "USER",
+      "level": 68
+    },
+    "message": "#UWB9ZQ",
+    "timestamp": "2026-05-08T09:11:31.998Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "05fd406f-e037-478d-b701-2a92081be680",
+      "shortId": "3H2D6N",
+      "name": "Jupiter",
+      "role": "USER",
+      "level": 68
+    },
+    "message": "/mywager",
+    "timestamp": "2026-05-08T09:12:00.532Z"
   }
 ]
