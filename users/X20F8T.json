@@ -34,5 +34,53 @@
     },
     "message": "lf [Gardener|Bayonet|WEAPON_SKIN|MYTHICAL]",
     "timestamp": "2026-05-04T07:47:17.333Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "912bde0b-968f-4e24-b50e-91c385105c50",
+      "shortId": "X20F8T",
+      "name": "Nazuna_vsp",
+      "role": "USER",
+      "level": 97
+    },
+    "message": "lf[Gardener|Bayonet|WEAPON_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-07T23:31:20.973Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "912bde0b-968f-4e24-b50e-91c385105c50",
+      "shortId": "X20F8T",
+      "name": "Nazuna_vsp",
+      "role": "USER",
+      "level": 97
+    },
+    "message": "今トレードしてるのはveraだけ",
+    "timestamp": "2026-05-07T23:32:00.549Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "912bde0b-968f-4e24-b50e-91c385105c50",
+      "shortId": "X20F8T",
+      "name": "Nazuna_vsp",
+      "role": "USER",
+      "level": 97
+    },
+    "message": "普通にほすい",
+    "timestamp": "2026-05-07T23:32:25.221Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "912bde0b-968f-4e24-b50e-91c385105c50",
+      "shortId": "X20F8T",
+      "name": "Nazuna_vsp",
+      "role": "USER",
+      "level": 97
+    },
+    "message": "そんな高いの？",
+    "timestamp": "2026-05-07T23:32:47.132Z"
   }
 ]
