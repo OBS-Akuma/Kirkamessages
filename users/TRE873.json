@@ -4258,5 +4258,29 @@
     },
     "message": "TR[Ghoul||BODY_SKIN|MYTHICAL][Sunday|Bayonet|WEAPON_SKIN|MYTHICAL]",
     "timestamp": "2026-05-08T20:02:37.065Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "5d544b9e-5ca6-4638-b3a2-0318522e29af",
+      "shortId": "TRE873",
+      "name": "QWERTY",
+      "role": "USER",
+      "level": 68
+    },
+    "message": "Tradi ng [Ghoul||BODY_SKIN|MYTHICAL][Sunday|Bayonet|WEAPON_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-08T20:07:15.083Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "5d544b9e-5ca6-4638-b3a2-0318522e29af",
+      "shortId": "TRE873",
+      "name": "QWERTY",
+      "role": "USER",
+      "level": 68
+    },
+    "message": "Ness, angel adds for sunday",
+    "timestamp": "2026-05-08T20:07:24.675Z"
   }
 ]
