@@ -1786,5 +1786,41 @@
     },
     "message": "hi xD",
     "timestamp": "2026-05-08T04:45:49.799Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "7b609f0d-49c0-45b7-b15d-9934489db3d9",
+      "shortId": "POOKIE",
+      "name": "_Nxt",
+      "role": "USER",
+      "level": 99
+    },
+    "message": "LF clan members who are active",
+    "timestamp": "2026-05-08T05:13:14.474Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "7b609f0d-49c0-45b7-b15d-9934489db3d9",
+      "shortId": "POOKIE",
+      "name": "_Nxt",
+      "role": "USER",
+      "level": 99
+    },
+    "message": "and get on the daily leaderboard often",
+    "timestamp": "2026-05-08T05:13:18.289Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "7b609f0d-49c0-45b7-b15d-9934489db3d9",
+      "shortId": "POOKIE",
+      "name": "_Nxt",
+      "role": "USER",
+      "level": 99
+    },
+    "message": "# 1 clan in the game",
+    "timestamp": "2026-05-08T05:13:24.326Z"
   }
 ]
