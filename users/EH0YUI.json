@@ -166,5 +166,89 @@
     },
     "message": "/price icey",
     "timestamp": "2026-05-08T19:55:08.684Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "a5b0a2f7-42b3-488d-b9c4-98816b9019ba",
+      "shortId": "EH0YUI",
+      "name": "Ness",
+      "role": "USER",
+      "level": 87
+    },
+    "message": "tr [Angel||BODY_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-08T20:07:13.625Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "a5b0a2f7-42b3-488d-b9c4-98816b9019ba",
+      "shortId": "EH0YUI",
+      "name": "Ness",
+      "role": "USER",
+      "level": 87
+    },
+    "message": "/price sunday",
+    "timestamp": "2026-05-08T20:07:39.942Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "a5b0a2f7-42b3-488d-b9c4-98816b9019ba",
+      "shortId": "EH0YUI",
+      "name": "Ness",
+      "role": "USER",
+      "level": 87
+    },
+    "message": "offer bro",
+    "timestamp": "2026-05-08T20:08:02.292Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "a5b0a2f7-42b3-488d-b9c4-98816b9019ba",
+      "shortId": "EH0YUI",
+      "name": "Ness",
+      "role": "USER",
+      "level": 87
+    },
+    "message": "lf [Static|VITA|WEAPON_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-08T20:11:39.321Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "a5b0a2f7-42b3-488d-b9c4-98816b9019ba",
+      "shortId": "EH0YUI",
+      "name": "Ness",
+      "role": "USER",
+      "level": 87
+    },
+    "message": "tr [Slime||BODY_SKIN|MYTHICAL] [Angel||BODY_SKIN|MYTHICAL] [Polar||BODY_SKIN|MYTHICAL] [Capricorn|Tomahawk|WEAPON_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-08T20:15:03.166Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "a5b0a2f7-42b3-488d-b9c4-98816b9019ba",
+      "shortId": "EH0YUI",
+      "name": "Ness",
+      "role": "USER",
+      "level": 88
+    },
+    "message": "/price nature",
+    "timestamp": "2026-05-08T20:29:22.378Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "a5b0a2f7-42b3-488d-b9c4-98816b9019ba",
+      "shortId": "EH0YUI",
+      "name": "Ness",
+      "role": "USER",
+      "level": 88
+    },
+    "message": "/price heather",
+    "timestamp": "2026-05-08T20:30:39.373Z"
   }
 ]
