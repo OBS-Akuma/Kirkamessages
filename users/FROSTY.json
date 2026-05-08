@@ -154,5 +154,17 @@
     },
     "message": "and im washed",
     "timestamp": "2026-05-08T00:39:45.528Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "a1a7e4d7-c0c9-420c-979f-45c5403929e9",
+      "shortId": "FROSTY",
+      "name": "frost_hypo30",
+      "role": "USER",
+      "level": 89
+    },
+    "message": "/playercount",
+    "timestamp": "2026-05-08T00:48:30.347Z"
   }
 ]
