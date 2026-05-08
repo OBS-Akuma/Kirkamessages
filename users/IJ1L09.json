@@ -286,5 +286,17 @@
     },
     "message": "yo von",
     "timestamp": "2026-05-05T05:52:17.976Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "c44c225b-f00c-4241-a00a-7df482258197",
+      "shortId": "IJ1L09",
+      "name": "[MGD]Wizar",
+      "role": "USER",
+      "level": 49
+    },
+    "message": "/enter",
+    "timestamp": "2026-05-08T04:40:14.862Z"
   }
 ]
