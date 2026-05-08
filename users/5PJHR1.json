@@ -46,5 +46,29 @@
     },
     "message": "/hm forbidden",
     "timestamp": "2026-05-08T09:38:59.035Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "uPPtBfnsJOM0EvApta2LrzWwsb02",
+      "shortId": "5PJHR1",
+      "name": "JustChillin.",
+      "role": "USER",
+      "level": 95
+    },
+    "message": "/hm love bites, koi",
+    "timestamp": "2026-05-08T21:52:26.147Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "uPPtBfnsJOM0EvApta2LrzWwsb02",
+      "shortId": "5PJHR1",
+      "name": "JustChillin.",
+      "role": "USER",
+      "level": 95
+    },
+    "message": "/hm azure",
+    "timestamp": "2026-05-08T21:53:55.628Z"
   }
 ]
