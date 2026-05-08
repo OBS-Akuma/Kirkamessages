@@ -358,5 +358,17 @@
     },
     "message": ":PP",
     "timestamp": "2026-05-07T02:33:29.821Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "b1beaf45-5b0f-40e2-81dc-a34f8a974395",
+      "shortId": "CARROT",
+      "name": "BMW|RpG",
+      "role": "USER",
+      "level": 101
+    },
+    "message": "/hm [Pandora||BODY_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-08T02:28:57.893Z"
   }
 ]
