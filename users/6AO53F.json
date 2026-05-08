@@ -118,5 +118,65 @@
     },
     "message": "nah",
     "timestamp": "2026-05-07T07:47:26.130Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "ef0d085e-2d3f-43af-954e-6b579cafd5d5",
+      "shortId": "6AO53F",
+      "name": "OPTIMUS",
+      "role": "USER",
+      "level": 100
+    },
+    "message": "/inv",
+    "timestamp": "2026-05-08T10:13:35.008Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "ef0d085e-2d3f-43af-954e-6b579cafd5d5",
+      "shortId": "6AO53F",
+      "name": "OPTIMUS",
+      "role": "USER",
+      "level": 100
+    },
+    "message": "jazz",
+    "timestamp": "2026-05-08T10:14:59.810Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "ef0d085e-2d3f-43af-954e-6b579cafd5d5",
+      "shortId": "6AO53F",
+      "name": "OPTIMUS",
+      "role": "USER",
+      "level": 100
+    },
+    "message": "wanna offer [Spice||BODY_SKIN|MYTHICAL]?",
+    "timestamp": "2026-05-08T10:15:04.706Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "ef0d085e-2d3f-43af-954e-6b579cafd5d5",
+      "shortId": "6AO53F",
+      "name": "OPTIMUS",
+      "role": "USER",
+      "level": 100
+    },
+    "message": "kk",
+    "timestamp": "2026-05-08T10:15:13.053Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "ef0d085e-2d3f-43af-954e-6b579cafd5d5",
+      "shortId": "6AO53F",
+      "name": "OPTIMUS",
+      "role": "USER",
+      "level": 100
+    },
+    "message": "lmao",
+    "timestamp": "2026-05-08T10:15:27.283Z"
   }
 ]
