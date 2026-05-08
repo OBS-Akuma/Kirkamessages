@@ -82,5 +82,29 @@
     },
     "message": "/claim",
     "timestamp": "2026-05-07T23:16:17.838Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "8685e1d3-c485-4f8c-9e7f-55fa5f66839d",
+      "shortId": "549M5B",
+      "name": ".tez",
+      "role": "USER",
+      "level": 61
+    },
+    "message": "wager [Splanch|VITA|WEAPON_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-08T01:17:46.128Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "8685e1d3-c485-4f8c-9e7f-55fa5f66839d",
+      "shortId": "549M5B",
+      "name": ".tez",
+      "role": "USER",
+      "level": 61
+    },
+    "message": "/locate splanch",
+    "timestamp": "2026-05-08T01:18:08.818Z"
   }
 ]
