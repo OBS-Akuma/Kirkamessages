@@ -2351,5 +2351,53 @@
     },
     "message": "/hm [Bloo|Bayonet|WEAPON_SKIN|MYTHICAL]",
     "timestamp": "2026-05-08T03:01:14.962Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "7f2a6090-abcb-48a7-8838-88ee8111b261",
+      "shortId": "NUGGET",
+      "name": "Akuma :3",
+      "role": "USER",
+      "level": 56
+    },
+    "message": "[Hallowed",
+    "timestamp": "2026-05-08T03:42:20.082Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "7f2a6090-abcb-48a7-8838-88ee8111b261",
+      "shortId": "NUGGET",
+      "name": "Akuma :3",
+      "role": "USER",
+      "level": 56
+    },
+    "message": "[Hallowed|SCAR|WEAPON_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-08T03:42:21.952Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "7f2a6090-abcb-48a7-8838-88ee8111b261",
+      "shortId": "NUGGET",
+      "name": "Akuma :3",
+      "role": "USER",
+      "level": 56
+    },
+    "message": "gg",
+    "timestamp": "2026-05-08T03:50:52.906Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "7f2a6090-abcb-48a7-8838-88ee8111b261",
+      "shortId": "NUGGET",
+      "name": "Akuma :3",
+      "role": "USER",
+      "level": 56
+    },
+    "message": "/hm [Halloween||CHEST|MYTHICAL]x2600",
+    "timestamp": "2026-05-08T03:54:14.417Z"
   }
 ]
