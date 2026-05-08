@@ -1,0 +1,50 @@
+[
+  {
+    "type": 2,
+    "user": {
+      "id": "7b53469b-1206-43bb-876a-d84303ea0e6d",
+      "shortId": "S1VAZP",
+      "name": "Jamesking",
+      "role": "USER",
+      "level": 23
+    },
+    "message": "/arc",
+    "timestamp": "2026-05-08T08:35:46.511Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "7b53469b-1206-43bb-876a-d84303ea0e6d",
+      "shortId": "S1VAZP",
+      "name": "Jamesking",
+      "role": "USER",
+      "level": 23
+    },
+    "message": "trade arc",
+    "timestamp": "2026-05-08T08:36:09.405Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "7b53469b-1206-43bb-876a-d84303ea0e6d",
+      "shortId": "S1VAZP",
+      "name": "Jamesking",
+      "role": "USER",
+      "level": 23
+    },
+    "message": "trade panda'",
+    "timestamp": "2026-05-08T08:37:54.765Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "7b53469b-1206-43bb-876a-d84303ea0e6d",
+      "shortId": "S1VAZP",
+      "name": "Jamesking",
+      "role": "USER",
+      "level": 23
+    },
+    "message": "'",
+    "timestamp": "2026-05-08T08:37:58.247Z"
+  }
+]
