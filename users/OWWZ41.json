@@ -250,5 +250,113 @@
     },
     "message": "trading koi set",
     "timestamp": "2026-05-07T18:57:23.651Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "fP610P26EjgCC3VpxjEhnoH1NIy1",
+      "shortId": "OWWZ41",
+      "name": "BON-JOVI",
+      "role": "USER",
+      "level": 46
+    },
+    "message": "/inv",
+    "timestamp": "2026-05-08T05:16:43.790Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "fP610P26EjgCC3VpxjEhnoH1NIy1",
+      "shortId": "OWWZ41",
+      "name": "BON-JOVI",
+      "role": "USER",
+      "level": 46
+    },
+    "message": "trading koi set,[Static|VITA|WEAPON_SKIN|MYTHICAL]x3",
+    "timestamp": "2026-05-08T05:17:07.081Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "fP610P26EjgCC3VpxjEhnoH1NIy1",
+      "shortId": "OWWZ41",
+      "name": "BON-JOVI",
+      "role": "USER",
+      "level": 46
+    },
+    "message": "trading koi set,[Static|VITA|WEAPON_SKIN|MYTHICAL]x3.",
+    "timestamp": "2026-05-08T05:18:10.118Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "fP610P26EjgCC3VpxjEhnoH1NIy1",
+      "shortId": "OWWZ41",
+      "name": "BON-JOVI",
+      "role": "USER",
+      "level": 46
+    },
+    "message": "trading koi set,[Static|VITA|WEAPON_SKIN|MYTHICAL]x3",
+    "timestamp": "2026-05-08T05:18:44.549Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "fP610P26EjgCC3VpxjEhnoH1NIy1",
+      "shortId": "OWWZ41",
+      "name": "BON-JOVI",
+      "role": "USER",
+      "level": 46
+    },
+    "message": "he must be trolling",
+    "timestamp": "2026-05-08T05:18:48.847Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "fP610P26EjgCC3VpxjEhnoH1NIy1",
+      "shortId": "OWWZ41",
+      "name": "BON-JOVI",
+      "role": "USER",
+      "level": 46
+    },
+    "message": "trading koi set,[Static|VITA|WEAPON_SKIN|MYTHICAL]x3..",
+    "timestamp": "2026-05-08T05:18:57.144Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "fP610P26EjgCC3VpxjEhnoH1NIy1",
+      "shortId": "OWWZ41",
+      "name": "BON-JOVI",
+      "role": "USER",
+      "level": 46
+    },
+    "message": "trading koi set,[Static|VITA|WEAPON_SKIN|MYTHICAL]x3.",
+    "timestamp": "2026-05-08T05:19:22.081Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "fP610P26EjgCC3VpxjEhnoH1NIy1",
+      "shortId": "OWWZ41",
+      "name": "BON-JOVI",
+      "role": "USER",
+      "level": 46
+    },
+    "message": "/locate [Tiburon|Bayonet|WEAPON_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-08T05:19:40.356Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "fP610P26EjgCC3VpxjEhnoH1NIy1",
+      "shortId": "OWWZ41",
+      "name": "BON-JOVI",
+      "role": "USER",
+      "level": 46
+    },
+    "message": "/bolt [Tiburon|Bayonet|WEAPON_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-08T05:20:06.186Z"
   }
 ]
