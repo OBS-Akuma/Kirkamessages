@@ -34,5 +34,29 @@
     },
     "message": "/help",
     "timestamp": "2026-05-07T19:15:05.448Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "VHaGAlq1SfRIghYIOumONimnnIW2",
+      "shortId": "8XY9JQ",
+      "name": "lemonester",
+      "role": "USER",
+      "level": 14
+    },
+    "message": "i will tr golden for your wood",
+    "timestamp": "2026-05-08T10:09:59.159Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "VHaGAlq1SfRIghYIOumONimnnIW2",
+      "shortId": "8XY9JQ",
+      "name": "lemonester",
+      "role": "USER",
+      "level": 14
+    },
+    "message": "tr wood for gold",
+    "timestamp": "2026-05-08T10:10:33.486Z"
   }
 ]
