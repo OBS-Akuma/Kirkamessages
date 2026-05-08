@@ -826,5 +826,29 @@
     },
     "message": "ok so the guy is on the moeny fr",
     "timestamp": "2026-05-04T05:01:15.942Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "250902c5-06d6-4124-bb85-39c5beffb9e1",
+      "shortId": "1AYMLK",
+      "name": "rayder",
+      "role": "USER",
+      "level": 10
+    },
+    "message": "/inv #WE1KFN",
+    "timestamp": "2026-05-08T01:34:47.002Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "250902c5-06d6-4124-bb85-39c5beffb9e1",
+      "shortId": "1AYMLK",
+      "name": "rayder",
+      "role": "USER",
+      "level": 10
+    },
+    "message": "/INV #2RS8RQ",
+    "timestamp": "2026-05-08T01:37:40.324Z"
   }
 ]
