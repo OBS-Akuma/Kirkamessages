@@ -706,5 +706,113 @@
     },
     "message": "#LIOYPJ",
     "timestamp": "2026-05-08T04:08:02.861Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "8130e18e-ff15-4f5b-a4e4-e3b8692ee32b",
+      "shortId": "SMOKED",
+      "name": "Torque_",
+      "role": "USER",
+      "level": 100
+    },
+    "message": "/wager [Engravement|Bayonet|WEAPON_SKIN|MYTHICAL]x1 #HUB956",
+    "timestamp": "2026-05-08T04:56:01.079Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "8130e18e-ff15-4f5b-a4e4-e3b8692ee32b",
+      "shortId": "SMOKED",
+      "name": "Torque_",
+      "role": "USER",
+      "level": 100
+    },
+    "message": "fr",
+    "timestamp": "2026-05-08T04:56:26.340Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "8130e18e-ff15-4f5b-a4e4-e3b8692ee32b",
+      "shortId": "SMOKED",
+      "name": "Torque_",
+      "role": "USER",
+      "level": 100
+    },
+    "message": "/cancelwager",
+    "timestamp": "2026-05-08T04:56:36.027Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "8130e18e-ff15-4f5b-a4e4-e3b8692ee32b",
+      "shortId": "SMOKED",
+      "name": "Torque_",
+      "role": "USER",
+      "level": 100
+    },
+    "message": "Wagering [Engravement|Bayonet|WEAPON_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-08T04:57:12.125Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "8130e18e-ff15-4f5b-a4e4-e3b8692ee32b",
+      "shortId": "SMOKED",
+      "name": "Torque_",
+      "role": "USER",
+      "level": 100
+    },
+    "message": "Dominator",
+    "timestamp": "2026-05-08T04:57:36.078Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "8130e18e-ff15-4f5b-a4e4-e3b8692ee32b",
+      "shortId": "SMOKED",
+      "name": "Torque_",
+      "role": "USER",
+      "level": 100
+    },
+    "message": "Dominator what you have to wager?",
+    "timestamp": "2026-05-08T04:57:55.947Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "8130e18e-ff15-4f5b-a4e4-e3b8692ee32b",
+      "shortId": "SMOKED",
+      "name": "Torque_",
+      "role": "USER",
+      "level": 100
+    },
+    "message": "wsp!",
+    "timestamp": "2026-05-08T04:58:12.316Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "8130e18e-ff15-4f5b-a4e4-e3b8692ee32b",
+      "shortId": "SMOKED",
+      "name": "Torque_",
+      "role": "USER",
+      "level": 100
+    },
+    "message": "nah im in bed rn about to fall asleep",
+    "timestamp": "2026-05-08T04:58:39.976Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "8130e18e-ff15-4f5b-a4e4-e3b8692ee32b",
+      "shortId": "SMOKED",
+      "name": "Torque_",
+      "role": "USER",
+      "level": 100
+    },
+    "message": "im gonna sleep for like 7-8hours then wale up and grind again",
+    "timestamp": "2026-05-08T04:59:36.809Z"
   }
 ]
