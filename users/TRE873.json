@@ -2326,5 +2326,653 @@
     },
     "message": "FELIX",
     "timestamp": "2026-05-08T01:10:06.873Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "5d544b9e-5ca6-4638-b3a2-0318522e29af",
+      "shortId": "TRE873",
+      "name": "QWERTY",
+      "role": "USER",
+      "level": 67
+    },
+    "message": "LF [Milkyway||BODY_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-08T01:18:28.002Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "5d544b9e-5ca6-4638-b3a2-0318522e29af",
+      "shortId": "TRE873",
+      "name": "QWERTY",
+      "role": "USER",
+      "level": 67
+    },
+    "message": "RGB [Sunday|Bayonet|WEAPON_SKIN|MYTHICAL] for 3?",
+    "timestamp": "2026-05-08T01:22:16.831Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "5d544b9e-5ca6-4638-b3a2-0318522e29af",
+      "shortId": "TRE873",
+      "name": "QWERTY",
+      "role": "USER",
+      "level": 67
+    },
+    "message": "RGB [Sunday|Bayonet|WEAPON_SKIN|MYTHICAL] for 3 of yours?",
+    "timestamp": "2026-05-08T01:22:48.505Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "5d544b9e-5ca6-4638-b3a2-0318522e29af",
+      "shortId": "TRE873",
+      "name": "QWERTY",
+      "role": "USER",
+      "level": 67
+    },
+    "message": "/hm sunday",
+    "timestamp": "2026-05-08T01:23:02.122Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "5d544b9e-5ca6-4638-b3a2-0318522e29af",
+      "shortId": "TRE873",
+      "name": "QWERTY",
+      "role": "USER",
+      "level": 67
+    },
+    "message": "What about [Ghoul||BODY_SKIN|MYTHICAL]?",
+    "timestamp": "2026-05-08T01:23:16.402Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "5d544b9e-5ca6-4638-b3a2-0318522e29af",
+      "shortId": "TRE873",
+      "name": "QWERTY",
+      "role": "USER",
+      "level": 67
+    },
+    "message": "Hi Haniel!",
+    "timestamp": "2026-05-08T01:23:22.703Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "5d544b9e-5ca6-4638-b3a2-0318522e29af",
+      "shortId": "TRE873",
+      "name": "QWERTY",
+      "role": "USER",
+      "level": 67
+    },
+    "message": "Aight suit yourself",
+    "timestamp": "2026-05-08T01:24:06.943Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "5d544b9e-5ca6-4638-b3a2-0318522e29af",
+      "shortId": "TRE873",
+      "name": "QWERTY",
+      "role": "USER",
+      "level": 67
+    },
+    "message": "Tr [Vocaloid|SCAR|WEAPON_SKIN|LEGENDARY][Polychrome|VITA|WEAPON_SKIN|LEGENDARY]",
+    "timestamp": "2026-05-08T01:24:30.087Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "5d544b9e-5ca6-4638-b3a2-0318522e29af",
+      "shortId": "TRE873",
+      "name": "QWERTY",
+      "role": "USER",
+      "level": 67
+    },
+    "message": "Trading [Ghoul||BODY_SKIN|MYTHICAL][Sunday|Bayonet|WEAPON_SKIN|MYTHICAL][Vocaloid|SCAR|WEAPON_SKIN|LEGENDARY][Polychrome|VITA|WEAPON_SKIN|LEGENDARY]",
+    "timestamp": "2026-05-08T01:25:22.652Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "5d544b9e-5ca6-4638-b3a2-0318522e29af",
+      "shortId": "TRE873",
+      "name": "QWERTY",
+      "role": "USER",
+      "level": 67
+    },
+    "message": "Haniel wsp",
+    "timestamp": "2026-05-08T01:25:33.200Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "5d544b9e-5ca6-4638-b3a2-0318522e29af",
+      "shortId": "TRE873",
+      "name": "QWERTY",
+      "role": "USER",
+      "level": 67
+    },
+    "message": "Nope Heiko",
+    "timestamp": "2026-05-08T01:26:01.535Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "5d544b9e-5ca6-4638-b3a2-0318522e29af",
+      "shortId": "TRE873",
+      "name": "QWERTY",
+      "role": "USER",
+      "level": 67
+    },
+    "message": "TR [Ghoul||BODY_SKIN|MYTHICAL][Sunday|Bayonet|WEAPON_SKIN|MYTHICAL][Polychrome|VITA|WEAPON_SKIN|LEGENDARY][Vocaloid|SCAR|WEAPON_SKIN|LEGENDARY]",
+    "timestamp": "2026-05-08T01:26:34.220Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "5d544b9e-5ca6-4638-b3a2-0318522e29af",
+      "shortId": "TRE873",
+      "name": "QWERTY",
+      "role": "USER",
+      "level": 67
+    },
+    "message": "Fred wsp",
+    "timestamp": "2026-05-08T01:27:03.954Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "5d544b9e-5ca6-4638-b3a2-0318522e29af",
+      "shortId": "TRE873",
+      "name": "QWERTY",
+      "role": "USER",
+      "level": 67
+    },
+    "message": "Trading [Qod||BODY_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-08T01:27:59.422Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "5d544b9e-5ca6-4638-b3a2-0318522e29af",
+      "shortId": "TRE873",
+      "name": "QWERTY",
+      "role": "USER",
+      "level": 67
+    },
+    "message": "Haru wsp",
+    "timestamp": "2026-05-08T01:28:20.537Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "5d544b9e-5ca6-4638-b3a2-0318522e29af",
+      "shortId": "TRE873",
+      "name": "QWERTY",
+      "role": "USER",
+      "level": 67
+    },
+    "message": "Haru black metal?",
+    "timestamp": "2026-05-08T01:29:31.088Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "5d544b9e-5ca6-4638-b3a2-0318522e29af",
+      "shortId": "TRE873",
+      "name": "QWERTY",
+      "role": "USER",
+      "level": 67
+    },
+    "message": "Tr [Qod||BODY_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-08T01:30:10.738Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "5d544b9e-5ca6-4638-b3a2-0318522e29af",
+      "shortId": "TRE873",
+      "name": "QWERTY",
+      "role": "USER",
+      "level": 67
+    },
+    "message": "RGB im trading [Dragonic SCAR|SCAR|WEAPON_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-08T01:31:04.011Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "5d544b9e-5ca6-4638-b3a2-0318522e29af",
+      "shortId": "TRE873",
+      "name": "QWERTY",
+      "role": "USER",
+      "level": 67
+    },
+    "message": "Wolfy",
+    "timestamp": "2026-05-08T01:31:30.645Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "5d544b9e-5ca6-4638-b3a2-0318522e29af",
+      "shortId": "TRE873",
+      "name": "QWERTY",
+      "role": "USER",
+      "level": 67
+    },
+    "message": "RGB im trading [Dragonic SCAR|SCAR|WEAPON_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-08T01:32:08.231Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "5d544b9e-5ca6-4638-b3a2-0318522e29af",
+      "shortId": "TRE873",
+      "name": "QWERTY",
+      "role": "USER",
+      "level": 67
+    },
+    "message": "Trading [Helendus|VITA|WEAPON_SKIN|MYTHICAL][Mirror|VITA|WEAPON_SKIN|MYTHICAL][Qod||BODY_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-08T01:34:59.856Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "5d544b9e-5ca6-4638-b3a2-0318522e29af",
+      "shortId": "TRE873",
+      "name": "QWERTY",
+      "role": "USER",
+      "level": 67
+    },
+    "message": "Nah nty",
+    "timestamp": "2026-05-08T01:35:59.156Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "5d544b9e-5ca6-4638-b3a2-0318522e29af",
+      "shortId": "TRE873",
+      "name": "QWERTY",
+      "role": "USER",
+      "level": 67
+    },
+    "message": "Trading [Helendus|VITA|WEAPON_SKIN|MYTHICAL][Mirror|VITA|WEAPON_SKIN|MYTHICAL][Qod||BODY_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-08T01:36:18.003Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "5d544b9e-5ca6-4638-b3a2-0318522e29af",
+      "shortId": "TRE873",
+      "name": "QWERTY",
+      "role": "USER",
+      "level": 67
+    },
+    "message": "Tr [Qod||BODY_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-08T01:37:36.696Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "5d544b9e-5ca6-4638-b3a2-0318522e29af",
+      "shortId": "TRE873",
+      "name": "QWERTY",
+      "role": "USER",
+      "level": 67
+    },
+    "message": "Trading [Qod||BODY_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-08T01:38:18.928Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "5d544b9e-5ca6-4638-b3a2-0318522e29af",
+      "shortId": "TRE873",
+      "name": "QWERTY",
+      "role": "USER",
+      "level": 67
+    },
+    "message": "Tr [Qod||BODY_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-08T01:39:43.972Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "5d544b9e-5ca6-4638-b3a2-0318522e29af",
+      "shortId": "TRE873",
+      "name": "QWERTY",
+      "role": "USER",
+      "level": 67
+    },
+    "message": "Elihu hm rose?",
+    "timestamp": "2026-05-08T01:45:14.882Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "5d544b9e-5ca6-4638-b3a2-0318522e29af",
+      "shortId": "TRE873",
+      "name": "QWERTY",
+      "role": "USER",
+      "level": 67
+    },
+    "message": "Cocoa hi!",
+    "timestamp": "2026-05-08T01:45:34.383Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "5d544b9e-5ca6-4638-b3a2-0318522e29af",
+      "shortId": "TRE873",
+      "name": "QWERTY",
+      "role": "USER",
+      "level": 67
+    },
+    "message": "Hm waves cocoa?",
+    "timestamp": "2026-05-08T01:46:07.107Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "5d544b9e-5ca6-4638-b3a2-0318522e29af",
+      "shortId": "TRE873",
+      "name": "QWERTY",
+      "role": "USER",
+      "level": 67
+    },
+    "message": "Newbie#1",
+    "timestamp": "2026-05-08T01:48:49.017Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "5d544b9e-5ca6-4638-b3a2-0318522e29af",
+      "shortId": "TRE873",
+      "name": "QWERTY",
+      "role": "USER",
+      "level": 67
+    },
+    "message": "Name wsp",
+    "timestamp": "2026-05-08T01:49:43.449Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "5d544b9e-5ca6-4638-b3a2-0318522e29af",
+      "shortId": "TRE873",
+      "name": "QWERTY",
+      "role": "USER",
+      "level": 67
+    },
+    "message": "Worldchamp",
+    "timestamp": "2026-05-08T01:51:25.157Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "5d544b9e-5ca6-4638-b3a2-0318522e29af",
+      "shortId": "TRE873",
+      "name": "QWERTY",
+      "role": "USER",
+      "level": 67
+    },
+    "message": "Tr [Qod||BODY_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-08T01:52:09.705Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "5d544b9e-5ca6-4638-b3a2-0318522e29af",
+      "shortId": "TRE873",
+      "name": "QWERTY",
+      "role": "USER",
+      "level": 67
+    },
+    "message": "Trading [Qod||BODY_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-08T01:53:01.988Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "5d544b9e-5ca6-4638-b3a2-0318522e29af",
+      "shortId": "TRE873",
+      "name": "QWERTY",
+      "role": "USER",
+      "level": 67
+    },
+    "message": "/inv",
+    "timestamp": "2026-05-08T01:53:30.870Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "5d544b9e-5ca6-4638-b3a2-0318522e29af",
+      "shortId": "TRE873",
+      "name": "QWERTY",
+      "role": "USER",
+      "level": 67
+    },
+    "message": "Did u unfriend me.Cash?",
+    "timestamp": "2026-05-08T01:58:56.269Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "5d544b9e-5ca6-4638-b3a2-0318522e29af",
+      "shortId": "TRE873",
+      "name": "QWERTY",
+      "role": "USER",
+      "level": 67
+    },
+    "message": "Haha its alright",
+    "timestamp": "2026-05-08T01:59:28.018Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "5d544b9e-5ca6-4638-b3a2-0318522e29af",
+      "shortId": "TRE873",
+      "name": "QWERTY",
+      "role": "USER",
+      "level": 67
+    },
+    "message": "I just noticed, i thought it was a new account",
+    "timestamp": "2026-05-08T01:59:38.494Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "5d544b9e-5ca6-4638-b3a2-0318522e29af",
+      "shortId": "TRE873",
+      "name": "QWERTY",
+      "role": "USER",
+      "level": 67
+    },
+    "message": "Hahaha its fine",
+    "timestamp": "2026-05-08T01:59:44.890Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "5d544b9e-5ca6-4638-b3a2-0318522e29af",
+      "shortId": "TRE873",
+      "name": "QWERTY",
+      "role": "USER",
+      "level": 67
+    },
+    "message": "Add me back",
+    "timestamp": "2026-05-08T01:59:50.318Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "5d544b9e-5ca6-4638-b3a2-0318522e29af",
+      "shortId": "TRE873",
+      "name": "QWERTY",
+      "role": "USER",
+      "level": 67
+    },
+    "message": "Hahaha we good, we good",
+    "timestamp": "2026-05-08T02:00:09.147Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "5d544b9e-5ca6-4638-b3a2-0318522e29af",
+      "shortId": "TRE873",
+      "name": "QWERTY",
+      "role": "USER",
+      "level": 67
+    },
+    "message": "Wsp venus",
+    "timestamp": "2026-05-08T02:00:29.292Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "5d544b9e-5ca6-4638-b3a2-0318522e29af",
+      "shortId": "TRE873",
+      "name": "QWERTY",
+      "role": "USER",
+      "level": 67
+    },
+    "message": "Hello Gummty! Early in the morning eh? :)",
+    "timestamp": "2026-05-08T02:01:10.827Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "5d544b9e-5ca6-4638-b3a2-0318522e29af",
+      "shortId": "TRE873",
+      "name": "QWERTY",
+      "role": "USER",
+      "level": 67
+    },
+    "message": "Gummy*",
+    "timestamp": "2026-05-08T02:01:14.829Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "5d544b9e-5ca6-4638-b3a2-0318522e29af",
+      "shortId": "TRE873",
+      "name": "QWERTY",
+      "role": "USER",
+      "level": 67
+    },
+    "message": "No work today?",
+    "timestamp": "2026-05-08T02:01:29.948Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "5d544b9e-5ca6-4638-b3a2-0318522e29af",
+      "shortId": "TRE873",
+      "name": "QWERTY",
+      "role": "USER",
+      "level": 67
+    },
+    "message": "I see, last shift :)",
+    "timestamp": "2026-05-08T02:01:42.873Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "5d544b9e-5ca6-4638-b3a2-0318522e29af",
+      "shortId": "TRE873",
+      "name": "QWERTY",
+      "role": "USER",
+      "level": 67
+    },
+    "message": "Tomorrow is day off and Sunday",
+    "timestamp": "2026-05-08T02:01:53.508Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "5d544b9e-5ca6-4638-b3a2-0318522e29af",
+      "shortId": "TRE873",
+      "name": "QWERTY",
+      "role": "USER",
+      "level": 67
+    },
+    "message": "Cash i have [Cosmos|VITA|WEAPON_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-08T02:02:14.292Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "5d544b9e-5ca6-4638-b3a2-0318522e29af",
+      "shortId": "TRE873",
+      "name": "QWERTY",
+      "role": "USER",
+      "level": 67
+    },
+    "message": "I see",
+    "timestamp": "2026-05-08T02:02:25.227Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "5d544b9e-5ca6-4638-b3a2-0318522e29af",
+      "shortId": "TRE873",
+      "name": "QWERTY",
+      "role": "USER",
+      "level": 67
+    },
+    "message": "DEEMA",
+    "timestamp": "2026-05-08T02:02:28.760Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "5d544b9e-5ca6-4638-b3a2-0318522e29af",
+      "shortId": "TRE873",
+      "name": "QWERTY",
+      "role": "USER",
+      "level": 67
+    },
+    "message": "I dont venus, only [Ghoul||BODY_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-08T02:03:03.016Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "5d544b9e-5ca6-4638-b3a2-0318522e29af",
+      "shortId": "TRE873",
+      "name": "QWERTY",
+      "role": "USER",
+      "level": 67
+    },
+    "message": "No haha but I got [Mirror|VITA|WEAPON_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-08T02:03:13.421Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "5d544b9e-5ca6-4638-b3a2-0318522e29af",
+      "shortId": "TRE873",
+      "name": "QWERTY",
+      "role": "USER",
+      "level": 67
+    },
+    "message": "But traded out the aries :)",
+    "timestamp": "2026-05-08T02:03:39.056Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "5d544b9e-5ca6-4638-b3a2-0318522e29af",
+      "shortId": "TRE873",
+      "name": "QWERTY",
+      "role": "USER",
+      "level": 67
+    },
+    "message": "Venus wanna offer for [Qod||BODY_SKIN|MYTHICAL]?",
+    "timestamp": "2026-05-08T02:04:45.446Z"
   }
 ]
