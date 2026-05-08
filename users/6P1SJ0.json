@@ -58,5 +58,17 @@
     },
     "message": "/inv",
     "timestamp": "2026-05-08T02:02:26.273Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "PKwT8TwnnnTKhkFez6pA2lWiHqx1",
+      "shortId": "6P1SJ0",
+      "name": "DEEMA",
+      "role": "USER",
+      "level": 30
+    },
+    "message": "Tr [Wood||CHEST|COMMON]x2008",
+    "timestamp": "2026-05-08T02:08:26.183Z"
   }
 ]
