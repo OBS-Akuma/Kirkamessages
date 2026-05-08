@@ -34,5 +34,17 @@
     },
     "message": "k",
     "timestamp": "2026-05-08T08:30:41.925Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "928fac68-6a4f-42f5-b34f-305580ec05e8",
+      "shortId": "SG9XKE",
+      "name": "BON-JOVI",
+      "role": "USER",
+      "level": 45
+    },
+    "message": "wsp BON JOVI MY TWIN",
+    "timestamp": "2026-05-08T11:14:01.947Z"
   }
 ]
