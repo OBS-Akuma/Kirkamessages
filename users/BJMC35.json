@@ -214,5 +214,41 @@
     },
     "message": "too ez",
     "timestamp": "2026-05-08T20:35:08.214Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "745ddc76-ceb8-4e5f-8b1a-f5981c23d994",
+      "shortId": "BJMC35",
+      "name": ".fan",
+      "role": "USER",
+      "level": 98
+    },
+    "message": "/inv",
+    "timestamp": "2026-05-08T21:13:04.035Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "745ddc76-ceb8-4e5f-8b1a-f5981c23d994",
+      "shortId": "BJMC35",
+      "name": ".fan",
+      "role": "USER",
+      "level": 98
+    },
+    "message": "/inv #21ERUV",
+    "timestamp": "2026-05-08T21:13:27.849Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "745ddc76-ceb8-4e5f-8b1a-f5981c23d994",
+      "shortId": "BJMC35",
+      "name": ".fan",
+      "role": "USER",
+      "level": 98
+    },
+    "message": "how is sinister demanded",
+    "timestamp": "2026-05-08T21:16:53.526Z"
   }
 ]
