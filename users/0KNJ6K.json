@@ -166,5 +166,629 @@
     },
     "message": "#0N5H9D.",
     "timestamp": "2026-05-08T20:02:16.167Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "665f1a4c-31dc-42b2-9866-5c5b9e918c1f",
+      "shortId": "0KNJ6K",
+      "name": "Sloth",
+      "role": "USER",
+      "level": 80
+    },
+    "message": "/cliam",
+    "timestamp": "2026-05-08T20:09:58.380Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "665f1a4c-31dc-42b2-9866-5c5b9e918c1f",
+      "shortId": "0KNJ6K",
+      "name": "Sloth",
+      "role": "USER",
+      "level": 80
+    },
+    "message": "/claim",
+    "timestamp": "2026-05-08T20:10:12.931Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "665f1a4c-31dc-42b2-9866-5c5b9e918c1f",
+      "shortId": "0KNJ6K",
+      "name": "Sloth",
+      "role": "USER",
+      "level": 80
+    },
+    "message": "/owners [bayeont",
+    "timestamp": "2026-05-08T20:11:16.819Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "665f1a4c-31dc-42b2-9866-5c5b9e918c1f",
+      "shortId": "0KNJ6K",
+      "name": "Sloth",
+      "role": "USER",
+      "level": 80
+    },
+    "message": "/locate bayonet",
+    "timestamp": "2026-05-08T20:11:26.556Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "665f1a4c-31dc-42b2-9866-5c5b9e918c1f",
+      "shortId": "0KNJ6K",
+      "name": "Sloth",
+      "role": "USER",
+      "level": 80
+    },
+    "message": "/hm mario",
+    "timestamp": "2026-05-08T20:11:47.683Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "665f1a4c-31dc-42b2-9866-5c5b9e918c1f",
+      "shortId": "0KNJ6K",
+      "name": "Sloth",
+      "role": "USER",
+      "level": 80
+    },
+    "message": "/locate [bros",
+    "timestamp": "2026-05-08T20:12:15.366Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "665f1a4c-31dc-42b2-9866-5c5b9e918c1f",
+      "shortId": "0KNJ6K",
+      "name": "Sloth",
+      "role": "USER",
+      "level": 80
+    },
+    "message": "/locate [shark",
+    "timestamp": "2026-05-08T20:14:00.207Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "665f1a4c-31dc-42b2-9866-5c5b9e918c1f",
+      "shortId": "0KNJ6K",
+      "name": "Sloth",
+      "role": "USER",
+      "level": 80
+    },
+    "message": "/HM RAINBOW",
+    "timestamp": "2026-05-08T20:26:55.106Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "665f1a4c-31dc-42b2-9866-5c5b9e918c1f",
+      "shortId": "0KNJ6K",
+      "name": "Sloth",
+      "role": "USER",
+      "level": 80
+    },
+    "message": "#89Z21J NO",
+    "timestamp": "2026-05-08T20:27:30.136Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "665f1a4c-31dc-42b2-9866-5c5b9e918c1f",
+      "shortId": "0KNJ6K",
+      "name": "Sloth",
+      "role": "USER",
+      "level": 80
+    },
+    "message": "/hm damacus",
+    "timestamp": "2026-05-08T20:31:52.727Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "665f1a4c-31dc-42b2-9866-5c5b9e918c1f",
+      "shortId": "0KNJ6K",
+      "name": "Sloth",
+      "role": "USER",
+      "level": 80
+    },
+    "message": "/raffel",
+    "timestamp": "2026-05-08T20:33:16.233Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "665f1a4c-31dc-42b2-9866-5c5b9e918c1f",
+      "shortId": "0KNJ6K",
+      "name": "Sloth",
+      "role": "USER",
+      "level": 80
+    },
+    "message": "/r",
+    "timestamp": "2026-05-08T20:33:33.257Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "665f1a4c-31dc-42b2-9866-5c5b9e918c1f",
+      "shortId": "0KNJ6K",
+      "name": "Sloth",
+      "role": "USER",
+      "level": 80
+    },
+    "message": "/raffle",
+    "timestamp": "2026-05-08T20:33:43.411Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "665f1a4c-31dc-42b2-9866-5c5b9e918c1f",
+      "shortId": "0KNJ6K",
+      "name": "Sloth",
+      "role": "USER",
+      "level": 80
+    },
+    "message": "/lottery 10",
+    "timestamp": "2026-05-08T20:33:53.421Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "665f1a4c-31dc-42b2-9866-5c5b9e918c1f",
+      "shortId": "0KNJ6K",
+      "name": "Sloth",
+      "role": "USER",
+      "level": 80
+    },
+    "message": "#XCS847",
+    "timestamp": "2026-05-08T20:34:03.666Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "665f1a4c-31dc-42b2-9866-5c5b9e918c1f",
+      "shortId": "0KNJ6K",
+      "name": "Sloth",
+      "role": "USER",
+      "level": 80
+    },
+    "message": "damacus v",
+    "timestamp": "2026-05-08T20:34:08.051Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "665f1a4c-31dc-42b2-9866-5c5b9e918c1f",
+      "shortId": "0KNJ6K",
+      "name": "Sloth",
+      "role": "USER",
+      "level": 80
+    },
+    "message": "#XCS847",
+    "timestamp": "2026-05-08T20:34:09.965Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "665f1a4c-31dc-42b2-9866-5c5b9e918c1f",
+      "shortId": "0KNJ6K",
+      "name": "Sloth",
+      "role": "USER",
+      "level": 80
+    },
+    "message": "melody for damacus",
+    "timestamp": "2026-05-08T20:34:30.007Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "665f1a4c-31dc-42b2-9866-5c5b9e918c1f",
+      "shortId": "0KNJ6K",
+      "name": "Sloth",
+      "role": "USER",
+      "level": 80
+    },
+    "message": "oblivion",
+    "timestamp": "2026-05-08T20:34:40.760Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "665f1a4c-31dc-42b2-9866-5c5b9e918c1f",
+      "shortId": "0KNJ6K",
+      "name": "Sloth",
+      "role": "USER",
+      "level": 80
+    },
+    "message": "#XCS847 can i have damauc",
+    "timestamp": "2026-05-08T20:35:41.844Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "665f1a4c-31dc-42b2-9866-5c5b9e918c1f",
+      "shortId": "0KNJ6K",
+      "name": "Sloth",
+      "role": "USER",
+      "level": 80
+    },
+    "message": "#NM3VUO can i have black tomwhack",
+    "timestamp": "2026-05-08T20:36:17.012Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "665f1a4c-31dc-42b2-9866-5c5b9e918c1f",
+      "shortId": "0KNJ6K",
+      "name": "Sloth",
+      "role": "USER",
+      "level": 80
+    },
+    "message": "#NM3VUO can  ihave tomwhack",
+    "timestamp": "2026-05-08T20:39:17.648Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "665f1a4c-31dc-42b2-9866-5c5b9e918c1f",
+      "shortId": "0KNJ6K",
+      "name": "Sloth",
+      "role": "USER",
+      "level": 80
+    },
+    "message": "2024 and kraken",
+    "timestamp": "2026-05-08T20:39:38.948Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "665f1a4c-31dc-42b2-9866-5c5b9e918c1f",
+      "shortId": "0KNJ6K",
+      "name": "Sloth",
+      "role": "USER",
+      "level": 80
+    },
+    "message": "rgb",
+    "timestamp": "2026-05-08T20:40:12.517Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "665f1a4c-31dc-42b2-9866-5c5b9e918c1f",
+      "shortId": "0KNJ6K",
+      "name": "Sloth",
+      "role": "USER",
+      "level": 80
+    },
+    "message": "#TRE873 tomwhack",
+    "timestamp": "2026-05-08T20:41:45.258Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "665f1a4c-31dc-42b2-9866-5c5b9e918c1f",
+      "shortId": "0KNJ6K",
+      "name": "Sloth",
+      "role": "USER",
+      "level": 80
+    },
+    "message": "#TRE873 looking for tomwhack skin",
+    "timestamp": "2026-05-08T20:42:08.728Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "665f1a4c-31dc-42b2-9866-5c5b9e918c1f",
+      "shortId": "0KNJ6K",
+      "name": "Sloth",
+      "role": "USER",
+      "level": 80
+    },
+    "message": "#NM3VUO",
+    "timestamp": "2026-05-08T20:42:18.703Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "665f1a4c-31dc-42b2-9866-5c5b9e918c1f",
+      "shortId": "0KNJ6K",
+      "name": "Sloth",
+      "role": "USER",
+      "level": 80
+    },
+    "message": "#NM3VUO RGB TOMWHACK FOR 2024 AND COSMOS",
+    "timestamp": "2026-05-08T20:42:40.533Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "665f1a4c-31dc-42b2-9866-5c5b9e918c1f",
+      "shortId": "0KNJ6K",
+      "name": "Sloth",
+      "role": "USER",
+      "level": 80
+    },
+    "message": "QWERYU",
+    "timestamp": "2026-05-08T20:43:22.380Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "665f1a4c-31dc-42b2-9866-5c5b9e918c1f",
+      "shortId": "0KNJ6K",
+      "name": "Sloth",
+      "role": "USER",
+      "level": 80
+    },
+    "message": "/hm engravement",
+    "timestamp": "2026-05-08T20:44:35.217Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "665f1a4c-31dc-42b2-9866-5c5b9e918c1f",
+      "shortId": "0KNJ6K",
+      "name": "Sloth",
+      "role": "USER",
+      "level": 80
+    },
+    "message": "trading drake",
+    "timestamp": "2026-05-08T20:44:56.674Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "665f1a4c-31dc-42b2-9866-5c5b9e918c1f",
+      "shortId": "0KNJ6K",
+      "name": "Sloth",
+      "role": "USER",
+      "level": 80
+    },
+    "message": "TR  drake",
+    "timestamp": "2026-05-08T20:45:57.579Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "665f1a4c-31dc-42b2-9866-5c5b9e918c1f",
+      "shortId": "0KNJ6K",
+      "name": "Sloth",
+      "role": "USER",
+      "level": 80
+    },
+    "message": "[drake trading",
+    "timestamp": "2026-05-08T20:46:10.649Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "665f1a4c-31dc-42b2-9866-5c5b9e918c1f",
+      "shortId": "0KNJ6K",
+      "name": "Sloth",
+      "role": "USER",
+      "level": 80
+    },
+    "message": "#TRE873 can i have a tomwhack",
+    "timestamp": "2026-05-08T20:48:25.204Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "665f1a4c-31dc-42b2-9866-5c5b9e918c1f",
+      "shortId": "0KNJ6K",
+      "name": "Sloth",
+      "role": "USER",
+      "level": 80
+    },
+    "message": "melody and drake",
+    "timestamp": "2026-05-08T20:48:43.827Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "665f1a4c-31dc-42b2-9866-5c5b9e918c1f",
+      "shortId": "0KNJ6K",
+      "name": "Sloth",
+      "role": "USER",
+      "level": 80
+    },
+    "message": "oblivion",
+    "timestamp": "2026-05-08T20:48:52.137Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "665f1a4c-31dc-42b2-9866-5c5b9e918c1f",
+      "shortId": "0KNJ6K",
+      "name": "Sloth",
+      "role": "USER",
+      "level": 80
+    },
+    "message": "#TRE873 OBLIVION",
+    "timestamp": "2026-05-08T20:49:05.104Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "665f1a4c-31dc-42b2-9866-5c5b9e918c1f",
+      "shortId": "0KNJ6K",
+      "name": "Sloth",
+      "role": "USER",
+      "level": 80
+    },
+    "message": "#TRE873 kraken",
+    "timestamp": "2026-05-08T20:49:32.889Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "665f1a4c-31dc-42b2-9866-5c5b9e918c1f",
+      "shortId": "0KNJ6K",
+      "name": "Sloth",
+      "role": "USER",
+      "level": 80
+    },
+    "message": "firkc",
+    "timestamp": "2026-05-08T20:49:40.418Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "665f1a4c-31dc-42b2-9866-5c5b9e918c1f",
+      "shortId": "0KNJ6K",
+      "name": "Sloth",
+      "role": "USER",
+      "level": 80
+    },
+    "message": "/hm void tom",
+    "timestamp": "2026-05-08T20:56:29.636Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "665f1a4c-31dc-42b2-9866-5c5b9e918c1f",
+      "shortId": "0KNJ6K",
+      "name": "Sloth",
+      "role": "USER",
+      "level": 80
+    },
+    "message": "/void sc",
+    "timestamp": "2026-05-08T20:56:38.632Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "665f1a4c-31dc-42b2-9866-5c5b9e918c1f",
+      "shortId": "0KNJ6K",
+      "name": "Sloth",
+      "role": "USER",
+      "level": 80
+    },
+    "message": "#VLR28T melody for hell spawn",
+    "timestamp": "2026-05-08T20:56:57.828Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "665f1a4c-31dc-42b2-9866-5c5b9e918c1f",
+      "shortId": "0KNJ6K",
+      "name": "Sloth",
+      "role": "USER",
+      "level": 80
+    },
+    "message": "oblivion",
+    "timestamp": "2026-05-08T20:57:14.044Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "665f1a4c-31dc-42b2-9866-5c5b9e918c1f",
+      "shortId": "0KNJ6K",
+      "name": "Sloth",
+      "role": "USER",
+      "level": 80
+    },
+    "message": "engravement",
+    "timestamp": "2026-05-08T20:57:26.591Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "665f1a4c-31dc-42b2-9866-5c5b9e918c1f",
+      "shortId": "0KNJ6K",
+      "name": "Sloth",
+      "role": "USER",
+      "level": 80
+    },
+    "message": "drake",
+    "timestamp": "2026-05-08T20:57:32.185Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "665f1a4c-31dc-42b2-9866-5c5b9e918c1f",
+      "shortId": "0KNJ6K",
+      "name": "Sloth",
+      "role": "USER",
+      "level": 80
+    },
+    "message": "cosmos",
+    "timestamp": "2026-05-08T20:57:42.090Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "665f1a4c-31dc-42b2-9866-5c5b9e918c1f",
+      "shortId": "0KNJ6K",
+      "name": "Sloth",
+      "role": "USER",
+      "level": 80
+    },
+    "message": "hologram",
+    "timestamp": "2026-05-08T20:57:51.897Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "665f1a4c-31dc-42b2-9866-5c5b9e918c1f",
+      "shortId": "0KNJ6K",
+      "name": "Sloth",
+      "role": "USER",
+      "level": 80
+    },
+    "message": "all spark",
+    "timestamp": "2026-05-08T20:58:17.614Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "665f1a4c-31dc-42b2-9866-5c5b9e918c1f",
+      "shortId": "0KNJ6K",
+      "name": "Sloth",
+      "role": "USER",
+      "level": 80
+    },
+    "message": "kraken",
+    "timestamp": "2026-05-08T20:58:31.514Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "665f1a4c-31dc-42b2-9866-5c5b9e918c1f",
+      "shortId": "0KNJ6K",
+      "name": "Sloth",
+      "role": "USER",
+      "level": 80
+    },
+    "message": "eve",
+    "timestamp": "2026-05-08T20:58:50.220Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "665f1a4c-31dc-42b2-9866-5c5b9e918c1f",
+      "shortId": "0KNJ6K",
+      "name": "Sloth",
+      "role": "USER",
+      "level": 80
+    },
+    "message": "uh",
+    "timestamp": "2026-05-08T20:59:10.608Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "665f1a4c-31dc-42b2-9866-5c5b9e918c1f",
+      "shortId": "0KNJ6K",
+      "name": "Sloth",
+      "role": "USER",
+      "level": 80
+    },
+    "message": "no more",
+    "timestamp": "2026-05-08T20:59:40.642Z"
   }
 ]
