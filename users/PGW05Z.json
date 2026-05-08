@@ -322,5 +322,17 @@
     },
     "message": "golden for wood",
     "timestamp": "2026-05-08T04:29:40.219Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "f1c6940c-5a94-4af4-ba69-fb763d71ebb4",
+      "shortId": "PGW05Z",
+      "name": "Lord_Gazzel",
+      "role": "USER",
+      "level": 89
+    },
+    "message": "/metallic for espectacular",
+    "timestamp": "2026-05-08T05:55:41.527Z"
   }
 ]
