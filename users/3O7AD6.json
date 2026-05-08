@@ -10,5 +10,29 @@
     },
     "message": "/hm hotrod lar",
     "timestamp": "2026-05-07T01:51:18.382Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "sH268tbOOWPBzcyht3BicBFGcCc2",
+      "shortId": "3O7AD6",
+      "name": "NightRainbow.N",
+      "role": "USER",
+      "level": 88
+    },
+    "message": "Ghost hm for [moon[",
+    "timestamp": "2026-05-08T03:16:01.072Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "sH268tbOOWPBzcyht3BicBFGcCc2",
+      "shortId": "3O7AD6",
+      "name": "NightRainbow.N",
+      "role": "USER",
+      "level": 88
+    },
+    "message": "/hm moon",
+    "timestamp": "2026-05-08T03:16:22.202Z"
   }
 ]
