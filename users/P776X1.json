@@ -1,0 +1,26 @@
+[
+  {
+    "type": 2,
+    "user": {
+      "id": "b0ef2f42-8b91-4c6e-8f6e-ac2a7e18600f",
+      "shortId": "P776X1",
+      "name": "Vion",
+      "role": "USER",
+      "level": 75
+    },
+    "message": "[Darling|VITA|WEAPON_SKIN|LEGENDARY]",
+    "timestamp": "2026-05-08T21:14:25.026Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "b0ef2f42-8b91-4c6e-8f6e-ac2a7e18600f",
+      "shortId": "P776X1",
+      "name": "Vion",
+      "role": "USER",
+      "level": 75
+    },
+    "message": "[Pink Camouflage|VITA|WEAPON_SKIN|RARE],[Sakura|SCAR|WEAPON_SKIN|EPIC],[Heart|SCAR|WEAPON_SKIN|EPIC]",
+    "timestamp": "2026-05-08T21:16:03.150Z"
+  }
+]
