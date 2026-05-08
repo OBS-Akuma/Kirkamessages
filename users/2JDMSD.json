@@ -1258,5 +1258,101 @@
     },
     "message": "/wager [Gardener|Bayonet|WEAPON_SKIN|MYTHICAL] #CRM7LY",
     "timestamp": "2026-05-08T05:09:03.748Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "1385b47a-bc43-4879-a1c4-7baf533b7bcc",
+      "shortId": "2JDMSD",
+      "name": "[\\/]Ike",
+      "role": "USER",
+      "level": 47
+    },
+    "message": "Trading/wagering[Gardener|Bayonet|WEAPON_SKIN|MYTHICAL],[Love Bites|Bayonet|WEAPON_SKIN|MYTHICAL]x3,[Or|Bayonet|WEAPON_SKIN|MYTHICAL]x3,[CYB3R|Bayonet|WEAPON_SKIN|MYTHICAL]x2,[Twitch||BODY_SKIN|MYTHICAL],[Jolly||BODY_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-08T05:25:00.566Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "1385b47a-bc43-4879-a1c4-7baf533b7bcc",
+      "shortId": "2JDMSD",
+      "name": "[\\/]Ike",
+      "role": "USER",
+      "level": 47
+    },
+    "message": "Someone wanna wager me",
+    "timestamp": "2026-05-08T05:29:14.115Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "1385b47a-bc43-4879-a1c4-7baf533b7bcc",
+      "shortId": "2JDMSD",
+      "name": "[\\/]Ike",
+      "role": "USER",
+      "level": 47
+    },
+    "message": "Trading/wagering[Gardener|Bayonet|WEAPON_SKIN|MYTHICAL],[Love Bites|Bayonet|WEAPON_SKIN|MYTHICAL]x3,[Or|Bayonet|WEAPON_SKIN|MYTHICAL]x3,[CYB3R|Bayonet|WEAPON_SKIN|MYTHICAL]x2,[Twitch||BODY_SKIN|MYTHICAL],[Jolly||BODY_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-08T05:29:23.329Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "1385b47a-bc43-4879-a1c4-7baf533b7bcc",
+      "shortId": "2JDMSD",
+      "name": "[\\/]Ike",
+      "role": "USER",
+      "level": 47
+    },
+    "message": "/hm [Kitsune||BODY_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-08T05:32:27.344Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "1385b47a-bc43-4879-a1c4-7baf533b7bcc",
+      "shortId": "2JDMSD",
+      "name": "[\\/]Ike",
+      "role": "USER",
+      "level": 47
+    },
+    "message": "Venom",
+    "timestamp": "2026-05-08T05:49:42.865Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "1385b47a-bc43-4879-a1c4-7baf533b7bcc",
+      "shortId": "2JDMSD",
+      "name": "[\\/]Ike",
+      "role": "USER",
+      "level": 47
+    },
+    "message": "Sense trade me or wager me",
+    "timestamp": "2026-05-08T05:50:55.141Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "1385b47a-bc43-4879-a1c4-7baf533b7bcc",
+      "shortId": "2JDMSD",
+      "name": "[\\/]Ike",
+      "role": "USER",
+      "level": 47
+    },
+    "message": "Trading/wagering[Gardener|Bayonet|WEAPON_SKIN|MYTHICAL],[Love Bites|Bayonet|WEAPON_SKIN|MYTHICAL]x3,[Or|Bayonet|WEAPON_SKIN|MYTHICAL]x3,[CYB3R|Bayonet|WEAPON_SKIN|MYTHICAL]x2,[Twitch||BODY_SKIN|MYTHICAL],[Jolly||BODY_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-08T05:51:01.596Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "1385b47a-bc43-4879-a1c4-7baf533b7bcc",
+      "shortId": "2JDMSD",
+      "name": "[\\/]Ike",
+      "role": "USER",
+      "level": 47
+    },
+    "message": ":/",
+    "timestamp": "2026-05-08T05:51:16.911Z"
   }
 ]
