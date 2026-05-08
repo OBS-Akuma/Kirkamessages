@@ -742,5 +742,137 @@
     },
     "message": "/inv",
     "timestamp": "2026-05-07T05:30:22.891Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "b666b8f1-f958-4f26-97e6-e081cc5c7b0a",
+      "shortId": "8RN1LD",
+      "name": "GummyBear",
+      "role": "USER",
+      "level": 59
+    },
+    "message": "/price sunday",
+    "timestamp": "2026-05-08T02:00:35.915Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "b666b8f1-f958-4f26-97e6-e081cc5c7b0a",
+      "shortId": "8RN1LD",
+      "name": "GummyBear",
+      "role": "USER",
+      "level": 59
+    },
+    "message": "Hi QWERTY! :)",
+    "timestamp": "2026-05-08T02:00:39.694Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "b666b8f1-f958-4f26-97e6-e081cc5c7b0a",
+      "shortId": "8RN1LD",
+      "name": "GummyBear",
+      "role": "USER",
+      "level": 59
+    },
+    "message": "/price darkwebn",
+    "timestamp": "2026-05-08T02:01:03.144Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "b666b8f1-f958-4f26-97e6-e081cc5c7b0a",
+      "shortId": "8RN1LD",
+      "name": "GummyBear",
+      "role": "USER",
+      "level": 59
+    },
+    "message": "/price darkweb",
+    "timestamp": "2026-05-08T02:01:07.042Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "b666b8f1-f958-4f26-97e6-e081cc5c7b0a",
+      "shortId": "8RN1LD",
+      "name": "GummyBear",
+      "role": "USER",
+      "level": 59
+    },
+    "message": "Yes hehe",
+    "timestamp": "2026-05-08T02:01:18.246Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "b666b8f1-f958-4f26-97e6-e081cc5c7b0a",
+      "shortId": "8RN1LD",
+      "name": "GummyBear",
+      "role": "USER",
+      "level": 59
+    },
+    "message": "/hm darkweb",
+    "timestamp": "2026-05-08T02:01:22.475Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "b666b8f1-f958-4f26-97e6-e081cc5c7b0a",
+      "shortId": "8RN1LD",
+      "name": "GummyBear",
+      "role": "USER",
+      "level": 59
+    },
+    "message": "/price darkweb",
+    "timestamp": "2026-05-08T02:01:26.365Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "b666b8f1-f958-4f26-97e6-e081cc5c7b0a",
+      "shortId": "8RN1LD",
+      "name": "GummyBear",
+      "role": "USER",
+      "level": 59
+    },
+    "message": "No work today",
+    "timestamp": "2026-05-08T02:01:35.348Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "b666b8f1-f958-4f26-97e6-e081cc5c7b0a",
+      "shortId": "8RN1LD",
+      "name": "GummyBear",
+      "role": "USER",
+      "level": 59
+    },
+    "message": "You?",
+    "timestamp": "2026-05-08T02:01:36.489Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "b666b8f1-f958-4f26-97e6-e081cc5c7b0a",
+      "shortId": "8RN1LD",
+      "name": "GummyBear",
+      "role": "USER",
+      "level": 59
+    },
+    "message": "早上好",
+    "timestamp": "2026-05-08T02:01:47.487Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "b666b8f1-f958-4f26-97e6-e081cc5c7b0a",
+      "shortId": "8RN1LD",
+      "name": "GummyBear",
+      "role": "USER",
+      "level": 59
+    },
+    "message": "Nice!",
+    "timestamp": "2026-05-08T02:01:53.122Z"
   }
 ]
