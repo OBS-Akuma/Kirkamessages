@@ -82,5 +82,17 @@
     },
     "message": "/price angel",
     "timestamp": "2026-05-08T07:01:52.006Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "guest-62deebd5-a727-46ad-b6f4-97aa3094972e",
+      "shortId": "GN208Z",
+      "name": "gaygaygay",
+      "role": "USER",
+      "level": 6
+    },
+    "message": "/price hotrod vita",
+    "timestamp": "2026-05-08T07:04:12.510Z"
   }
 ]
