@@ -682,5 +682,41 @@
     },
     "message": "like shi on me",
     "timestamp": "2026-05-07T09:42:14.837Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "b5b856b7-c455-4d13-9c58-9eb824d4550f",
+      "shortId": "HBR602",
+      "name": "glimmer",
+      "role": "USER",
+      "level": 85
+    },
+    "message": "yo navy",
+    "timestamp": "2026-05-08T00:47:13.081Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "b5b856b7-c455-4d13-9c58-9eb824d4550f",
+      "shortId": "HBR602",
+      "name": "glimmer",
+      "role": "USER",
+      "level": 85
+    },
+    "message": "I got a [Target|Revolver|WEAPON_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-08T00:47:19.580Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "b5b856b7-c455-4d13-9c58-9eb824d4550f",
+      "shortId": "HBR602",
+      "name": "glimmer",
+      "role": "USER",
+      "level": 85
+    },
+    "message": "T.T",
+    "timestamp": "2026-05-08T00:48:06.302Z"
   }
 ]
