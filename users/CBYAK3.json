@@ -202,5 +202,53 @@
     },
     "message": "/claim",
     "timestamp": "2026-05-08T22:12:27.793Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "a634f8f1-fe8c-487e-8d44-2efa53ae05de",
+      "shortId": "CBYAK3",
+      "name": "bobd",
+      "role": "USER",
+      "level": 10
+    },
+    "message": "/wager [Golden||CHEST|LEGENDARY]x200 #00ZW80",
+    "timestamp": "2026-05-08T22:13:55.217Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "a634f8f1-fe8c-487e-8d44-2efa53ae05de",
+      "shortId": "CBYAK3",
+      "name": "bobd",
+      "role": "USER",
+      "level": 10
+    },
+    "message": "#00ZW80 confirm",
+    "timestamp": "2026-05-08T22:13:59.333Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "a634f8f1-fe8c-487e-8d44-2efa53ae05de",
+      "shortId": "CBYAK3",
+      "name": "bobd",
+      "role": "USER",
+      "level": 10
+    },
+    "message": "#00ZW80",
+    "timestamp": "2026-05-08T22:14:05.310Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "a634f8f1-fe8c-487e-8d44-2efa53ae05de",
+      "shortId": "CBYAK3",
+      "name": "bobd",
+      "role": "USER",
+      "level": 10
+    },
+    "message": "#00ZW80#00ZW80#00ZW80 confirm bro",
+    "timestamp": "2026-05-08T22:14:31.375Z"
   }
 ]
