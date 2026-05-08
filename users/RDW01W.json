@@ -1,0 +1,38 @@
+[
+  {
+    "type": 2,
+    "user": {
+      "id": "c7712ee7-c43a-447e-8870-0fa12e389f4e",
+      "shortId": "RDW01W",
+      "name": "EGD|Zexo",
+      "role": "USER",
+      "level": 12
+    },
+    "message": "/wager [Golden||CHEST|LEGENDARY]x100 #44RX3G",
+    "timestamp": "2026-05-08T09:37:48.066Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "c7712ee7-c43a-447e-8870-0fa12e389f4e",
+      "shortId": "RDW01W",
+      "name": "EGD|Zexo",
+      "role": "USER",
+      "level": 12
+    },
+    "message": "/cancellwager",
+    "timestamp": "2026-05-08T09:38:16.942Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "c7712ee7-c43a-447e-8870-0fa12e389f4e",
+      "shortId": "RDW01W",
+      "name": "EGD|Zexo",
+      "role": "USER",
+      "level": 12
+    },
+    "message": "OVERLORD",
+    "timestamp": "2026-05-08T09:38:21.554Z"
+  }
+]
