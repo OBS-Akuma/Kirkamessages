@@ -22,5 +22,17 @@
     },
     "message": "/claim",
     "timestamp": "2026-05-08T08:11:26.210Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "e2ed714b-3043-4227-bc40-cb394f99d6ee",
+      "shortId": "7WTQM7",
+      "name": "Newbie",
+      "role": "USER",
+      "level": 9
+    },
+    "message": "/enter",
+    "timestamp": "2026-05-08T21:20:17.297Z"
   }
 ]
