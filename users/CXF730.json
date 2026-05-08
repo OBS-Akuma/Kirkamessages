@@ -1654,5 +1654,77 @@
     },
     "message": "/inv",
     "timestamp": "2026-05-08T10:08:36.825Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "a74f3fe1-1a95-4245-9b06-d8d865f83f0c",
+      "shortId": "CXF730",
+      "name": "-CAT-",
+      "role": "USER",
+      "level": 13
+    },
+    "message": "tr[RGB Black||BODY_SKIN|MYTHICAL][Eve||BODY_SKIN|MYTHICAL][Forbidden|AR-9|WEAPON_SKIN|MYTHICAL][Ortus|Revolver|WEAPON_SKIN|MYTHICAL][Koi|Bayonet|WEAPON_SKIN|MYTHICAL][Blast AR-9|AR-9|WEAPON_SKIN|MYTHICAL][Korunami|LAR|WEAPON_SKIN|MYTHICAL][Anarch|Bayonet|WEAPON_SKIN|MYTHICAL][Mabel||BODY_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-08T10:09:19.189Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "a74f3fe1-1a95-4245-9b06-d8d865f83f0c",
+      "shortId": "CXF730",
+      "name": "-CAT-",
+      "role": "USER",
+      "level": 13
+    },
+    "message": "zatra",
+    "timestamp": "2026-05-08T10:09:51.582Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "a74f3fe1-1a95-4245-9b06-d8d865f83f0c",
+      "shortId": "CXF730",
+      "name": "-CAT-",
+      "role": "USER",
+      "level": 13
+    },
+    "message": "ZATRAAA",
+    "timestamp": "2026-05-08T10:09:53.952Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "a74f3fe1-1a95-4245-9b06-d8d865f83f0c",
+      "shortId": "CXF730",
+      "name": "-CAT-",
+      "role": "USER",
+      "level": 13
+    },
+    "message": "i offer [Ortus|Revolver|WEAPON_SKIN|MYTHICAL][Korunami|LAR|WEAPON_SKIN|MYTHICAL] for [Ramses|LAR|WEAPON_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-08T10:10:26.156Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "a74f3fe1-1a95-4245-9b06-d8d865f83f0c",
+      "shortId": "CXF730",
+      "name": "-CAT-",
+      "role": "USER",
+      "level": 13
+    },
+    "message": "ok i add [Nyan Shark|Shark|WEAPON_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-08T10:11:56.820Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "a74f3fe1-1a95-4245-9b06-d8d865f83f0c",
+      "shortId": "CXF730",
+      "name": "-CAT-",
+      "role": "USER",
+      "level": 13
+    },
+    "message": "i also add 300 goldens",
+    "timestamp": "2026-05-08T10:13:08.838Z"
   }
 ]
