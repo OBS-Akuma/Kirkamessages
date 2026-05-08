@@ -34,5 +34,29 @@
     },
     "message": "i have angel",
     "timestamp": "2026-05-07T07:14:17.357Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "dd70471f-a36c-4dab-af4a-36d6582008da",
+      "shortId": "XPV5W1",
+      "name": "Annihilator.",
+      "role": "USER",
+      "level": 87
+    },
+    "message": "/price [Angel||BODY_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-08T10:39:50.989Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "dd70471f-a36c-4dab-af4a-36d6582008da",
+      "shortId": "XPV5W1",
+      "name": "Annihilator.",
+      "role": "USER",
+      "level": 87
+    },
+    "message": "/price [Fanny||BODY_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-08T10:40:02.967Z"
   }
 ]
