@@ -658,5 +658,113 @@
     },
     "message": "/hm ivoire",
     "timestamp": "2026-05-08T20:01:20.515Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "127e0842-6c00-47e9-a4a6-df48e84e2d77",
+      "shortId": "22GSPX",
+      "name": "luca",
+      "role": "USER",
+      "level": 14
+    },
+    "message": "/hm underwaterx3",
+    "timestamp": "2026-05-08T20:15:24.026Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "127e0842-6c00-47e9-a4a6-df48e84e2d77",
+      "shortId": "22GSPX",
+      "name": "luca",
+      "role": "USER",
+      "level": 14
+    },
+    "message": "/hm thriller",
+    "timestamp": "2026-05-08T20:15:53.380Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "127e0842-6c00-47e9-a4a6-df48e84e2d77",
+      "shortId": "22GSPX",
+      "name": "luca",
+      "role": "USER",
+      "level": 14
+    },
+    "message": "[Onesie||BODY_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-08T20:17:59.265Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "127e0842-6c00-47e9-a4a6-df48e84e2d77",
+      "shortId": "22GSPX",
+      "name": "luca",
+      "role": "USER",
+      "level": 14
+    },
+    "message": "/raffle",
+    "timestamp": "2026-05-08T20:19:27.439Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "127e0842-6c00-47e9-a4a6-df48e84e2d77",
+      "shortId": "22GSPX",
+      "name": "luca",
+      "role": "USER",
+      "level": 14
+    },
+    "message": "[Dragon||BODY_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-08T20:21:38.510Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "127e0842-6c00-47e9-a4a6-df48e84e2d77",
+      "shortId": "22GSPX",
+      "name": "luca",
+      "role": "USER",
+      "level": 14
+    },
+    "message": "/cancel trade",
+    "timestamp": "2026-05-08T20:22:17.560Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "127e0842-6c00-47e9-a4a6-df48e84e2d77",
+      "shortId": "22GSPX",
+      "name": "luca",
+      "role": "USER",
+      "level": 14
+    },
+    "message": "somebody do my trade or say what you would accept it for",
+    "timestamp": "2026-05-08T20:23:20.472Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "127e0842-6c00-47e9-a4a6-df48e84e2d77",
+      "shortId": "22GSPX",
+      "name": "luca",
+      "role": "USER",
+      "level": 14
+    },
+    "message": "barter",
+    "timestamp": "2026-05-08T20:23:26.124Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "127e0842-6c00-47e9-a4a6-df48e84e2d77",
+      "shortId": "22GSPX",
+      "name": "luca",
+      "role": "USER",
+      "level": 14
+    },
+    "message": "10 less [Golden||CHEST|LEGENDARY] on my trade",
+    "timestamp": "2026-05-08T20:24:27.169Z"
   }
 ]
