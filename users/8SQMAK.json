@@ -1006,5 +1006,41 @@
     },
     "message": "ya",
     "timestamp": "2026-05-08T03:15:25.504Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "e7ca017c-557f-4b21-96eb-3ec2a9a728ab",
+      "shortId": "8SQMAK",
+      "name": "Eri.",
+      "role": "USER",
+      "level": 52
+    },
+    "message": "/bolt mabel",
+    "timestamp": "2026-05-08T07:49:20.182Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "e7ca017c-557f-4b21-96eb-3ec2a9a728ab",
+      "shortId": "8SQMAK",
+      "name": "Eri.",
+      "role": "USER",
+      "level": 52
+    },
+    "message": "/hm mabel",
+    "timestamp": "2026-05-08T07:49:39.465Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "e7ca017c-557f-4b21-96eb-3ec2a9a728ab",
+      "shortId": "8SQMAK",
+      "name": "Eri.",
+      "role": "USER",
+      "level": 52
+    },
+    "message": "/price mabel",
+    "timestamp": "2026-05-08T07:50:03.406Z"
   }
 ]
