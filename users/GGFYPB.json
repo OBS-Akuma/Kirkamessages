@@ -1,0 +1,50 @@
+[
+  {
+    "type": 2,
+    "user": {
+      "id": "b5deea00-ed7b-4529-b9e6-af8c16080932",
+      "shortId": "GGFYPB",
+      "name": "Lancau",
+      "role": "USER",
+      "level": 84
+    },
+    "message": "Ican wager mabel",
+    "timestamp": "2026-05-08T09:31:38.601Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "b5deea00-ed7b-4529-b9e6-af8c16080932",
+      "shortId": "GGFYPB",
+      "name": "Lancau",
+      "role": "USER",
+      "level": 84
+    },
+    "message": "/confirmwager",
+    "timestamp": "2026-05-08T09:32:04.688Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "b5deea00-ed7b-4529-b9e6-af8c16080932",
+      "shortId": "GGFYPB",
+      "name": "Lancau",
+      "role": "USER",
+      "level": 84
+    },
+    "message": "I will go back continue take a sht",
+    "timestamp": "2026-05-08T09:32:21.303Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "b5deea00-ed7b-4529-b9e6-af8c16080932",
+      "shortId": "GGFYPB",
+      "name": "Lancau",
+      "role": "USER",
+      "level": 84
+    },
+    "message": "K imma go take sht",
+    "timestamp": "2026-05-08T09:32:50.691Z"
+  }
+]
