@@ -802,5 +802,41 @@
     },
     "message": "hmm",
     "timestamp": "2026-05-07T06:30:40.605Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "Sy7ytB6DYGemOzCOx0B0PbrmHLy1",
+      "shortId": "OVXBOV",
+      "name": "TT|Swagg",
+      "role": "USER",
+      "level": 93
+    },
+    "message": "trading [Polar||BODY_SKIN|MYTHICAL]x2",
+    "timestamp": "2026-05-08T07:28:30.090Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "Sy7ytB6DYGemOzCOx0B0PbrmHLy1",
+      "shortId": "OVXBOV",
+      "name": "TT|Swagg",
+      "role": "USER",
+      "level": 93
+    },
+    "message": "wager what?",
+    "timestamp": "2026-05-08T08:00:49.964Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "Sy7ytB6DYGemOzCOx0B0PbrmHLy1",
+      "shortId": "OVXBOV",
+      "name": "TT|Swagg",
+      "role": "USER",
+      "level": 93
+    },
+    "message": "/inv",
+    "timestamp": "2026-05-08T08:00:53.212Z"
   }
 ]
