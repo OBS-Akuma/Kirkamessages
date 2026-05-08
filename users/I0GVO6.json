@@ -166,5 +166,65 @@
     },
     "message": "/price honey",
     "timestamp": "2026-05-08T07:56:34.445Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "5f6667eb-ddbc-45b7-bf71-f7a97f967ffe",
+      "shortId": "I0GVO6",
+      "name": "Saturn",
+      "role": "USER",
+      "level": 49
+    },
+    "message": "honey for slime, 150k value diffeence?",
+    "timestamp": "2026-05-08T08:14:14.664Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "5f6667eb-ddbc-45b7-bf71-f7a97f967ffe",
+      "shortId": "I0GVO6",
+      "name": "Saturn",
+      "role": "USER",
+      "level": 49
+    },
+    "message": "/nter",
+    "timestamp": "2026-05-08T08:14:24.981Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "5f6667eb-ddbc-45b7-bf71-f7a97f967ffe",
+      "shortId": "I0GVO6",
+      "name": "Saturn",
+      "role": "USER",
+      "level": 49
+    },
+    "message": "/enter",
+    "timestamp": "2026-05-08T08:14:32.695Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "5f6667eb-ddbc-45b7-bf71-f7a97f967ffe",
+      "shortId": "I0GVO6",
+      "name": "Saturn",
+      "role": "USER",
+      "level": 49
+    },
+    "message": "/price void vita",
+    "timestamp": "2026-05-08T08:31:07.175Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "5f6667eb-ddbc-45b7-bf71-f7a97f967ffe",
+      "shortId": "I0GVO6",
+      "name": "Saturn",
+      "role": "USER",
+      "level": 49
+    },
+    "message": "/enter",
+    "timestamp": "2026-05-08T08:46:30.636Z"
   }
 ]
