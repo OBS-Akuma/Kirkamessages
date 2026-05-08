@@ -1,0 +1,38 @@
+[
+  {
+    "type": 2,
+    "user": {
+      "id": "d873ecb2-f351-4c7d-afe2-68a45788b188",
+      "shortId": "LL0ZBM",
+      "name": "Aethyrghia.",
+      "role": "USER",
+      "level": 102
+    },
+    "message": "#DB3G12",
+    "timestamp": "2026-05-08T19:50:58.299Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "d873ecb2-f351-4c7d-afe2-68a45788b188",
+      "shortId": "LL0ZBM",
+      "name": "Aethyrghia.",
+      "role": "USER",
+      "level": 102
+    },
+    "message": "/inv #DB3G12",
+    "timestamp": "2026-05-08T19:51:08.894Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "d873ecb2-f351-4c7d-afe2-68a45788b188",
+      "shortId": "LL0ZBM",
+      "name": "Aethyrghia.",
+      "role": "USER",
+      "level": 102
+    },
+    "message": "#TRE873 No",
+    "timestamp": "2026-05-08T19:51:17.613Z"
+  }
+]
