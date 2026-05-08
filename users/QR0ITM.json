@@ -3466,5 +3466,77 @@
     },
     "message": "qwerty my [Blessed||BODY_SKIN|MYTHICAL] for your [Vortex||BODY_SKIN|MYTHICAL],[Cyber VITA|VITA|WEAPON_SKIN|MYTHICAL]?",
     "timestamp": "2026-05-08T01:08:00.970Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "6828517b-6c30-42c0-a4b1-2601e1dd5206",
+      "shortId": "QR0ITM",
+      "name": "SayaAkanLawan!",
+      "role": "USER",
+      "level": 100
+    },
+    "message": "okeyy",
+    "timestamp": "2026-05-08T01:08:26.553Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "6828517b-6c30-42c0-a4b1-2601e1dd5206",
+      "shortId": "QR0ITM",
+      "name": "SayaAkanLawan!",
+      "role": "USER",
+      "level": 100
+    },
+    "message": "qwerty you trading your [Void Shark|Shark|WEAPON_SKIN|MYTHICAL]?",
+    "timestamp": "2026-05-08T01:09:21.278Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "6828517b-6c30-42c0-a4b1-2601e1dd5206",
+      "shortId": "QR0ITM",
+      "name": "SayaAkanLawan!",
+      "role": "USER",
+      "level": 100
+    },
+    "message": "qwerty you trading your [Void Shark|Shark|WEAPON_SKIN|MYTHICAL]??",
+    "timestamp": "2026-05-08T01:09:42.286Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "6828517b-6c30-42c0-a4b1-2601e1dd5206",
+      "shortId": "QR0ITM",
+      "name": "SayaAkanLawan!",
+      "role": "USER",
+      "level": 100
+    },
+    "message": "qwerty you trading your [Void Shark|Shark|WEAPON_SKIN|MYTHICAL]????",
+    "timestamp": "2026-05-08T01:10:43.018Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "6828517b-6c30-42c0-a4b1-2601e1dd5206",
+      "shortId": "QR0ITM",
+      "name": "SayaAkanLawan!",
+      "role": "USER",
+      "level": 100
+    },
+    "message": "qwerty trading your [Void Shark|Shark|WEAPON_SKIN|MYTHICAL]????",
+    "timestamp": "2026-05-08T01:11:05.011Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "6828517b-6c30-42c0-a4b1-2601e1dd5206",
+      "shortId": "QR0ITM",
+      "name": "SayaAkanLawan!",
+      "role": "USER",
+      "level": 100
+    },
+    "message": "._.",
+    "timestamp": "2026-05-08T01:11:12.627Z"
   }
 ]
