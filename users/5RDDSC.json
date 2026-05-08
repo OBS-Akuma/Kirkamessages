@@ -1,0 +1,38 @@
+[
+  {
+    "type": 2,
+    "user": {
+      "id": "d91065c2-6d16-4279-be99-cb82458c1d34",
+      "shortId": "5RDDSC",
+      "name": "Newbie",
+      "role": "USER",
+      "level": 30
+    },
+    "message": "/enter",
+    "timestamp": "2026-05-08T08:40:54.796Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "d91065c2-6d16-4279-be99-cb82458c1d34",
+      "shortId": "5RDDSC",
+      "name": "Newbie",
+      "role": "USER",
+      "level": 30
+    },
+    "message": "/claim",
+    "timestamp": "2026-05-08T08:41:02.942Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "d91065c2-6d16-4279-be99-cb82458c1d34",
+      "shortId": "5RDDSC",
+      "name": "Newbie",
+      "role": "USER",
+      "level": 30
+    },
+    "message": "/enter",
+    "timestamp": "2026-05-08T08:41:34.911Z"
+  }
+]
