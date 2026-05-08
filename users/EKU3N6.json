@@ -10,5 +10,17 @@
     },
     "message": "/enter",
     "timestamp": "2026-05-08T08:46:39.396Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "vvOVW3WlMuPdswr0SKLW5DGMWjl1",
+      "shortId": "EKU3N6",
+      "name": "HotWarrior.cmc",
+      "role": "USER",
+      "level": 95
+    },
+    "message": "/giveaway",
+    "timestamp": "2026-05-08T19:04:32.695Z"
   }
 ]
