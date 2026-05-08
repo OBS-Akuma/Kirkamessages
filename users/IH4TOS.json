@@ -22,5 +22,17 @@
     },
     "message": "OK 1 MIN",
     "timestamp": "2026-05-08T04:01:26.832Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "cDX18bEOPWcYvl5BOrmZmFU9npF3",
+      "shortId": "IH4TOS",
+      "name": "DARKBLADE77",
+      "role": "USER",
+      "level": 74
+    },
+    "message": "/inv #IH4TOS",
+    "timestamp": "2026-05-08T09:39:26.985Z"
   }
 ]
