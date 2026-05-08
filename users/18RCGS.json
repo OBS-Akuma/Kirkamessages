@@ -562,5 +562,29 @@
     },
     "message": "/hm hazmat",
     "timestamp": "2026-05-08T03:15:18.921Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "5dc6fde8-9a8b-46ce-888d-1087729265e1",
+      "shortId": "18RCGS",
+      "name": "Cheetos_queen",
+      "role": "USER",
+      "level": 6
+    },
+    "message": "/hm maze",
+    "timestamp": "2026-05-08T03:15:25.513Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "5dc6fde8-9a8b-46ce-888d-1087729265e1",
+      "shortId": "18RCGS",
+      "name": "Cheetos_queen",
+      "role": "USER",
+      "level": 6
+    },
+    "message": "/locate metro",
+    "timestamp": "2026-05-08T03:16:31.606Z"
   }
 ]
