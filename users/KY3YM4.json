@@ -1462,5 +1462,65 @@
     },
     "message": "/raffle",
     "timestamp": "2026-05-07T23:18:50.730Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "011a0adf-6f4c-4a80-bee0-c432126521b0",
+      "shortId": "KY3YM4",
+      "name": "N1TR0",
+      "role": "USER",
+      "level": 60
+    },
+    "message": "/vote flo",
+    "timestamp": "2026-05-08T02:20:13.889Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "011a0adf-6f4c-4a80-bee0-c432126521b0",
+      "shortId": "KY3YM4",
+      "name": "N1TR0",
+      "role": "USER",
+      "level": 60
+    },
+    "message": "/vote squeezer",
+    "timestamp": "2026-05-08T02:22:58.892Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "011a0adf-6f4c-4a80-bee0-c432126521b0",
+      "shortId": "KY3YM4",
+      "name": "N1TR0",
+      "role": "USER",
+      "level": 60
+    },
+    "message": "vote squeezer guys",
+    "timestamp": "2026-05-08T02:23:24.166Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "011a0adf-6f4c-4a80-bee0-c432126521b0",
+      "shortId": "KY3YM4",
+      "name": "N1TR0",
+      "role": "USER",
+      "level": 60
+    },
+    "message": "vote [Squeezer|AR-9|WEAPON_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-08T02:23:34.283Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "011a0adf-6f4c-4a80-bee0-c432126521b0",
+      "shortId": "KY3YM4",
+      "name": "N1TR0",
+      "role": "USER",
+      "level": 60
+    },
+    "message": "oe",
+    "timestamp": "2026-05-08T02:23:48.111Z"
   }
 ]
