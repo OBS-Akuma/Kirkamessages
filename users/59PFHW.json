@@ -34,5 +34,41 @@
     },
     "message": "emile",
     "timestamp": "2026-05-08T00:39:39.976Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "94441db5-faad-4fa0-95a3-8420a61512d1",
+      "shortId": "59PFHW",
+      "name": "EGD|MAVERICK",
+      "role": "USER",
+      "level": 30
+    },
+    "message": "/wager accept",
+    "timestamp": "2026-05-08T01:12:30.489Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "94441db5-faad-4fa0-95a3-8420a61512d1",
+      "shortId": "59PFHW",
+      "name": "EGD|MAVERICK",
+      "role": "USER",
+      "level": 30
+    },
+    "message": "/accept wager",
+    "timestamp": "2026-05-08T01:12:37.523Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "94441db5-faad-4fa0-95a3-8420a61512d1",
+      "shortId": "59PFHW",
+      "name": "EGD|MAVERICK",
+      "role": "USER",
+      "level": 30
+    },
+    "message": "/flip",
+    "timestamp": "2026-05-08T01:12:49.038Z"
   }
 ]
