@@ -286,5 +286,65 @@
     },
     "message": "/locate silver bullet",
     "timestamp": "2026-05-08T03:27:29.578Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "b943d97e-0e1e-4d2f-9e29-1ba3f9c6c0d4",
+      "shortId": "T2D70P",
+      "name": "Kawrasin",
+      "role": "USER",
+      "level": 83
+    },
+    "message": "/hm rosed, sinister",
+    "timestamp": "2026-05-08T04:15:36.179Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "b943d97e-0e1e-4d2f-9e29-1ba3f9c6c0d4",
+      "shortId": "T2D70P",
+      "name": "Kawrasin",
+      "role": "USER",
+      "level": 83
+    },
+    "message": "rich mo na kuya",
+    "timestamp": "2026-05-08T04:16:46.352Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "b943d97e-0e1e-4d2f-9e29-1ba3f9c6c0d4",
+      "shortId": "T2D70P",
+      "name": "Kawrasin",
+      "role": "USER",
+      "level": 83
+    },
+    "message": "work ig",
+    "timestamp": "2026-05-08T04:18:14.039Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "b943d97e-0e1e-4d2f-9e29-1ba3f9c6c0d4",
+      "shortId": "T2D70P",
+      "name": "Kawrasin",
+      "role": "USER",
+      "level": 83
+    },
+    "message": "What u offer newbie?",
+    "timestamp": "2026-05-08T04:19:48.191Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "b943d97e-0e1e-4d2f-9e29-1ba3f9c6c0d4",
+      "shortId": "T2D70P",
+      "name": "Kawrasin",
+      "role": "USER",
+      "level": 83
+    },
+    "message": "too low",
+    "timestamp": "2026-05-08T04:21:07.596Z"
   }
 ]
