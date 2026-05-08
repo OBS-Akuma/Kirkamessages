@@ -106,5 +106,41 @@
     },
     "message": "[Splash|Bayonet|WEAPON_SKIN|MYTHICAL]",
     "timestamp": "2026-05-04T08:24:35.987Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "745ddc76-ceb8-4e5f-8b1a-f5981c23d994",
+      "shortId": "BJMC35",
+      "name": ".fan",
+      "role": "USER",
+      "level": 98
+    },
+    "message": "/inv",
+    "timestamp": "2026-05-08T09:09:41.448Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "745ddc76-ceb8-4e5f-8b1a-f5981c23d994",
+      "shortId": "BJMC35",
+      "name": ".fan",
+      "role": "USER",
+      "level": 98
+    },
+    "message": "son im broke",
+    "timestamp": "2026-05-08T09:09:48.468Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "745ddc76-ceb8-4e5f-8b1a-f5981c23d994",
+      "shortId": "BJMC35",
+      "name": ".fan",
+      "role": "USER",
+      "level": 98
+    },
+    "message": "lf [Onesi||BODY_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-08T09:12:51.872Z"
   }
 ]
