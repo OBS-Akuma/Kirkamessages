@@ -1090,5 +1090,41 @@
     },
     "message": "EUGERT PLEASEEEEE",
     "timestamp": "2026-05-07T20:01:33.138Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "34f8f3a3-088e-45dd-badd-4e80aca43934",
+      "shortId": "IGADFZ",
+      "name": "Night.",
+      "role": "USER",
+      "level": 66
+    },
+    "message": "can I join anyone's clan I'm good",
+    "timestamp": "2026-05-08T09:29:13.880Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "34f8f3a3-088e-45dd-badd-4e80aca43934",
+      "shortId": "IGADFZ",
+      "name": "Night.",
+      "role": "USER",
+      "level": 66
+    },
+    "message": "#IGADFZ ny id",
+    "timestamp": "2026-05-08T09:29:25.173Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "34f8f3a3-088e-45dd-badd-4e80aca43934",
+      "shortId": "IGADFZ",
+      "name": "Night.",
+      "role": "USER",
+      "level": 66
+    },
+    "message": "/price hotrod scar",
+    "timestamp": "2026-05-08T09:30:58.064Z"
   }
 ]
