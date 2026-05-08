@@ -2698,5 +2698,17 @@
     },
     "message": "chosen is a nice dude",
     "timestamp": "2026-05-07T09:50:38.764Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "ceb6bda2-7bd4-4e73-b89c-7f892fed47d8",
+      "shortId": "IWQ903",
+      "name": "Em1LeG0@t",
+      "role": "USER",
+      "level": 73
+    },
+    "message": "/hm sizzle",
+    "timestamp": "2026-05-08T00:03:01.101Z"
   }
 ]
