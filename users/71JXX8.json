@@ -1,0 +1,26 @@
+[
+  {
+    "type": 2,
+    "user": {
+      "id": "78646aab-a3f5-4c7a-984b-9d01d8d4e324",
+      "shortId": "71JXX8",
+      "name": "Tanjiro",
+      "role": "USER",
+      "level": 55
+    },
+    "message": "No",
+    "timestamp": "2026-05-08T06:48:34.811Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "78646aab-a3f5-4c7a-984b-9d01d8d4e324",
+      "shortId": "71JXX8",
+      "name": "Tanjiro",
+      "role": "USER",
+      "level": 55
+    },
+    "message": "U r scammer",
+    "timestamp": "2026-05-08T06:48:49.556Z"
+  }
+]
