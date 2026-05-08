@@ -838,5 +838,53 @@
     },
     "message": "Jaspon",
     "timestamp": "2026-05-08T04:30:33.415Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "0775331c-8ae7-42de-b216-507402c39976",
+      "shortId": "YY9IF7",
+      "name": "PICKLEWICKEL",
+      "role": "USER",
+      "level": 88
+    },
+    "message": "LF WHITE WEAPONS",
+    "timestamp": "2026-05-08T05:23:21.031Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "0775331c-8ae7-42de-b216-507402c39976",
+      "shortId": "YY9IF7",
+      "name": "PICKLEWICKEL",
+      "role": "USER",
+      "level": 88
+    },
+    "message": "navy what were u traing",
+    "timestamp": "2026-05-08T05:23:43.462Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "0775331c-8ae7-42de-b216-507402c39976",
+      "shortId": "YY9IF7",
+      "name": "PICKLEWICKEL",
+      "role": "USER",
+      "level": 88
+    },
+    "message": "#YY9IF7",
+    "timestamp": "2026-05-08T05:23:46.567Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "0775331c-8ae7-42de-b216-507402c39976",
+      "shortId": "YY9IF7",
+      "name": "PICKLEWICKEL",
+      "role": "USER",
+      "level": 88
+    },
+    "message": "haha",
+    "timestamp": "2026-05-08T05:24:06.960Z"
   }
 ]
