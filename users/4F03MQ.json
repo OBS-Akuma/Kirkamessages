@@ -142,5 +142,17 @@
     },
     "message": "yo can someone buy my skins",
     "timestamp": "2026-05-08T19:43:54.102Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "2d057859-f79e-4ba4-825b-4c368a83535c",
+      "shortId": "4F03MQ",
+      "name": "The_Re@per",
+      "role": "USER",
+      "level": 58
+    },
+    "message": "/price [Spearmint||BODY_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-08T20:44:46.084Z"
   }
 ]
