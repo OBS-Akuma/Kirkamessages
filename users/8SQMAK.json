@@ -778,5 +778,17 @@
     },
     "message": "bon trade",
     "timestamp": "2026-05-07T18:57:38.177Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "e7ca017c-557f-4b21-96eb-3ec2a9a728ab",
+      "shortId": "8SQMAK",
+      "name": "Eri.",
+      "role": "USER",
+      "level": 52
+    },
+    "message": "/hm uranium",
+    "timestamp": "2026-05-08T02:57:50.207Z"
   }
 ]
