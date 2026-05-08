@@ -466,5 +466,17 @@
     },
     "message": "676667767666776767677676767667676776767676766676776767676",
     "timestamp": "2026-05-07T03:12:12.302Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "bhdQVPpY3aZ6K6Bm4lWnY4eSx3v1",
+      "shortId": "8C2VBL",
+      "name": "magicChick.M",
+      "role": "USER",
+      "level": 80
+    },
+    "message": "HI",
+    "timestamp": "2026-05-08T03:16:37.767Z"
   }
 ]
