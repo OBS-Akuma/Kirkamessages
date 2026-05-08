@@ -70,5 +70,53 @@
     },
     "message": "/price astra",
     "timestamp": "2026-05-07T23:22:32.939Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "1a4fb7ab-45cd-449b-858f-14a509ff9ecb",
+      "shortId": "NM3VUO",
+      "name": "RGB.",
+      "role": "USER",
+      "level": 56
+    },
+    "message": "[Void SCAR|SCAR|WEAPON_SKIN|MYTHICAL] [Void Weatie|Weatie|WEAPON_SKIN|MYTHICAL] [Void Tomahawk|Tomahawk|WEAPON_SKIN|MYTHICAL] [Heather|Bayonet|WEAPON_SKIN|MYTHICAL] [Turtle|Bayonet|WEAPON_SKIN|MYTHICAL] [Eclipse|Bayonet|WEAPON_SKIN|MYTHICAL] [RGB||BODY_SKIN|LEGENDARY]",
+    "timestamp": "2026-05-08T01:05:12.946Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "1a4fb7ab-45cd-449b-858f-14a509ff9ecb",
+      "shortId": "NM3VUO",
+      "name": "RGB.",
+      "role": "USER",
+      "level": 56
+    },
+    "message": "no",
+    "timestamp": "2026-05-08T01:05:59.241Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "1a4fb7ab-45cd-449b-858f-14a509ff9ecb",
+      "shortId": "NM3VUO",
+      "name": "RGB.",
+      "role": "USER",
+      "level": 56
+    },
+    "message": "for>",
+    "timestamp": "2026-05-08T01:06:46.144Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "1a4fb7ab-45cd-449b-858f-14a509ff9ecb",
+      "shortId": "NM3VUO",
+      "name": "RGB.",
+      "role": "USER",
+      "level": 56
+    },
+    "message": "?*",
+    "timestamp": "2026-05-08T01:06:48.884Z"
   }
 ]
