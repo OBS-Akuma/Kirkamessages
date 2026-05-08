@@ -1414,5 +1414,29 @@
     },
     "message": "/hm slasher",
     "timestamp": "2026-05-08T23:01:53.681Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "e7ca017c-557f-4b21-96eb-3ec2a9a728ab",
+      "shortId": "8SQMAK",
+      "name": "Eri.",
+      "role": "USER",
+      "level": 52
+    },
+    "message": "/hm sunshine",
+    "timestamp": "2026-05-08T23:11:54.147Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "e7ca017c-557f-4b21-96eb-3ec2a9a728ab",
+      "shortId": "8SQMAK",
+      "name": "Eri.",
+      "role": "USER",
+      "level": 52
+    },
+    "message": "sho has angel",
+    "timestamp": "2026-05-08T23:13:06.019Z"
   }
 ]
