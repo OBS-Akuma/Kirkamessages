@@ -430,5 +430,17 @@
     },
     "message": "/claim",
     "timestamp": "2026-05-07T23:22:21.167Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "941e8007-d173-4d61-a5fe-959f990ab350",
+      "shortId": "EJV5Z9",
+      "name": "OOgway",
+      "role": "USER",
+      "level": 99
+    },
+    "message": "/price [Demon|SCAR|WEAPON_SKIN|LEGENDARY]",
+    "timestamp": "2026-05-08T11:05:56.516Z"
   }
 ]
