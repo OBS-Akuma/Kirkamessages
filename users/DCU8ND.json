@@ -10,5 +10,41 @@
     },
     "message": "hello guyss",
     "timestamp": "2026-05-09T01:28:59.280Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "lxsQqfxlGiTm6rB6uNmUpld2Ap62",
+      "shortId": "DCU8ND",
+      "name": "Jackiess",
+      "role": "USER",
+      "level": 67
+    },
+    "message": "/inv",
+    "timestamp": "2026-05-09T03:24:17.512Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "lxsQqfxlGiTm6rB6uNmUpld2Ap62",
+      "shortId": "DCU8ND",
+      "name": "Jackiess",
+      "role": "USER",
+      "level": 67
+    },
+    "message": "/inv Listener",
+    "timestamp": "2026-05-09T03:25:07.563Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "lxsQqfxlGiTm6rB6uNmUpld2Ap62",
+      "shortId": "DCU8ND",
+      "name": "Jackiess",
+      "role": "USER",
+      "level": 67
+    },
+    "message": "[Dark]",
+    "timestamp": "2026-05-09T03:26:46.423Z"
   }
 ]
