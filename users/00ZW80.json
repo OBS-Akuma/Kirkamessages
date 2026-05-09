@@ -2326,5 +2326,17 @@
     },
     "message": "lf [Onryo||BODY_SKIN|MYTHICAL].",
     "timestamp": "2026-05-08T22:37:37.851Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "99cc3bc0-e1e3-48ee-815b-9bfe1f7f7fe2",
+      "shortId": "00ZW80",
+      "name": "Newbie",
+      "role": "USER",
+      "level": 29
+    },
+    "message": "lf [Onryo||BODY_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-08T23:11:07.141Z"
   }
 ]
