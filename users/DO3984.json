@@ -142,5 +142,17 @@
     },
     "message": "Trading:[Immortal|Bayonet|WEAPON_SKIN|MYTHICAL][Mommy|AR-9|WEAPON_SKIN|LEGENDARY][Ultraviolet|SCAR|WEAPON_SKIN|MYTHICAL][Ranked_S1 Top100|Bayonet|WEAPON_SKIN|MYTHICAL][Imperial|SCAR|WEAPON_SKIN|MYTHICAL][Clownicidal|Bayonet|WEAPON_SKIN|MYTHICAL]",
     "timestamp": "2026-05-07T23:27:47.441Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "8a726f1d-1a92-4f82-9a1d-e8b1d9d874cf",
+      "shortId": "DO3984",
+      "name": "Legend",
+      "role": "USER",
+      "level": 95
+    },
+    "message": "/price [Mabel||BODY_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-09T03:04:18.257Z"
   }
 ]
