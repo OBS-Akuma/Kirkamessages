@@ -382,5 +382,65 @@
     },
     "message": "LF [Icey||BODY_SKIN|LEGENDARY]",
     "timestamp": "2026-05-09T04:42:21.182Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "d8c60953-7e39-48e3-b2ff-0df017fd1c32",
+      "shortId": "0DL6F8",
+      "name": "d3stroy3r",
+      "role": "USER",
+      "level": 38
+    },
+    "message": "who has [Icey||BODY_SKIN|LEGENDARY]",
+    "timestamp": "2026-05-09T05:13:53.714Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "d8c60953-7e39-48e3-b2ff-0df017fd1c32",
+      "shortId": "0DL6F8",
+      "name": "d3stroy3r",
+      "role": "USER",
+      "level": 38
+    },
+    "message": "ghost [Pie||BODY_SKIN|MYTHICAL] for [Icey||BODY_SKIN|LEGENDARY]",
+    "timestamp": "2026-05-09T05:14:18.596Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "d8c60953-7e39-48e3-b2ff-0df017fd1c32",
+      "shortId": "0DL6F8",
+      "name": "d3stroy3r",
+      "role": "USER",
+      "level": 38
+    },
+    "message": "its more",
+    "timestamp": "2026-05-09T05:14:41.005Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "d8c60953-7e39-48e3-b2ff-0df017fd1c32",
+      "shortId": "0DL6F8",
+      "name": "d3stroy3r",
+      "role": "USER",
+      "level": 38
+    },
+    "message": "ghost pls icey is cheaper that pie and less rare",
+    "timestamp": "2026-05-09T05:16:28.194Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "d8c60953-7e39-48e3-b2ff-0df017fd1c32",
+      "shortId": "0DL6F8",
+      "name": "d3stroy3r",
+      "role": "USER",
+      "level": 38
+    },
+    "message": "how bought [Cyclop||BODY_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-09T05:17:01.940Z"
   }
 ]
