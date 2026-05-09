@@ -10,5 +10,41 @@
     },
     "message": "/price vocaloid",
     "timestamp": "2026-05-07T19:58:54.500Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "eea8ade0-a615-4be2-856a-9b600c054615",
+      "shortId": "4L9BU0",
+      "name": "taKichips",
+      "role": "USER",
+      "level": 45
+    },
+    "message": "/locate ghoul",
+    "timestamp": "2026-05-08T22:56:49.444Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "eea8ade0-a615-4be2-856a-9b600c054615",
+      "shortId": "4L9BU0",
+      "name": "taKichips",
+      "role": "USER",
+      "level": 45
+    },
+    "message": "/inv #SW95W0",
+    "timestamp": "2026-05-08T22:57:21.761Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "eea8ade0-a615-4be2-856a-9b600c054615",
+      "shortId": "4L9BU0",
+      "name": "taKichips",
+      "role": "USER",
+      "level": 45
+    },
+    "message": "broke ass jit",
+    "timestamp": "2026-05-08T22:57:27.275Z"
   }
 ]
