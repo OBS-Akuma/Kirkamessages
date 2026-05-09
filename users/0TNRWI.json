@@ -1247,5 +1247,89 @@
     },
     "message": "eu dead",
     "timestamp": "2026-05-08T20:19:32.323Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "c6fa57d2-a23b-4634-bf14-fa463568bdf2",
+      "shortId": "0TNRWI",
+      "name": "venus",
+      "role": "USER",
+      "level": 83
+    },
+    "message": "[void]>[Mabel||BODY_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-09T03:37:45.946Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "c6fa57d2-a23b-4634-bf14-fa463568bdf2",
+      "shortId": "0TNRWI",
+      "name": "venus",
+      "role": "USER",
+      "level": 83
+    },
+    "message": "[c0id]",
+    "timestamp": "2026-05-09T03:37:56.147Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "c6fa57d2-a23b-4634-bf14-fa463568bdf2",
+      "shortId": "0TNRWI",
+      "name": "venus",
+      "role": "USER",
+      "level": 83
+    },
+    "message": "/wager [Golden||CHEST|LEGENDARY]x5000 #JAUF8R",
+    "timestamp": "2026-05-09T03:39:37.493Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "c6fa57d2-a23b-4634-bf14-fa463568bdf2",
+      "shortId": "0TNRWI",
+      "name": "venus",
+      "role": "USER",
+      "level": 83
+    },
+    "message": "/wager cancel",
+    "timestamp": "2026-05-09T03:39:56.150Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "c6fa57d2-a23b-4634-bf14-fa463568bdf2",
+      "shortId": "0TNRWI",
+      "name": "venus",
+      "role": "USER",
+      "level": 83
+    },
+    "message": "/wager [Golden||CHEST|LEGENDARY]x5000 #JAUF8R",
+    "timestamp": "2026-05-09T03:40:11.282Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "c6fa57d2-a23b-4634-bf14-fa463568bdf2",
+      "shortId": "0TNRWI",
+      "name": "venus",
+      "role": "USER",
+      "level": 83
+    },
+    "message": "/confirmwager",
+    "timestamp": "2026-05-09T03:40:22.005Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "c6fa57d2-a23b-4634-bf14-fa463568bdf2",
+      "shortId": "0TNRWI",
+      "name": "venus",
+      "role": "USER",
+      "level": 83
+    },
+    "message": "?",
+    "timestamp": "2026-05-09T03:40:55.632Z"
   }
 ]
