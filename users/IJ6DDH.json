@@ -1570,5 +1570,221 @@
     },
     "message": "#IWQ903",
     "timestamp": "2026-05-08T02:26:06.846Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "guest-54be4ece-9e2b-474f-9d38-577976065f54",
+      "shortId": "IJ6DDH",
+      "name": "EGD|Galaxy",
+      "role": "USER",
+      "level": 29
+    },
+    "message": "Trading [Rub1x|MAC-10|WEAPON_SKIN|MYTHICAL]3x",
+    "timestamp": "2026-05-08T22:31:52.585Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "guest-54be4ece-9e2b-474f-9d38-577976065f54",
+      "shortId": "IJ6DDH",
+      "name": "EGD|Galaxy",
+      "role": "USER",
+      "level": 29
+    },
+    "message": "Trading [Rub1x|MAC-10|WEAPON_SKIN|MYTHICAL]x3",
+    "timestamp": "2026-05-08T22:32:17.470Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "guest-54be4ece-9e2b-474f-9d38-577976065f54",
+      "shortId": "IJ6DDH",
+      "name": "EGD|Galaxy",
+      "role": "USER",
+      "level": 29
+    },
+    "message": "/price [Rub1x|MAC-10|WEAPON_SKIN|MYTHICAL]x3",
+    "timestamp": "2026-05-08T22:32:42.385Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "guest-54be4ece-9e2b-474f-9d38-577976065f54",
+      "shortId": "IJ6DDH",
+      "name": "EGD|Galaxy",
+      "role": "USER",
+      "level": 30
+    },
+    "message": "#5PJHR1",
+    "timestamp": "2026-05-08T22:52:02.819Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "guest-54be4ece-9e2b-474f-9d38-577976065f54",
+      "shortId": "IJ6DDH",
+      "name": "EGD|Galaxy",
+      "role": "USER",
+      "level": 30
+    },
+    "message": "/price forbidden",
+    "timestamp": "2026-05-08T22:53:34.568Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "guest-54be4ece-9e2b-474f-9d38-577976065f54",
+      "shortId": "IJ6DDH",
+      "name": "EGD|Galaxy",
+      "role": "USER",
+      "level": 30
+    },
+    "message": "/price cyb3r",
+    "timestamp": "2026-05-08T22:54:13.907Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "guest-54be4ece-9e2b-474f-9d38-577976065f54",
+      "shortId": "IJ6DDH",
+      "name": "EGD|Galaxy",
+      "role": "USER",
+      "level": 30
+    },
+    "message": "#CRCD0D",
+    "timestamp": "2026-05-08T22:54:34.781Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "guest-54be4ece-9e2b-474f-9d38-577976065f54",
+      "shortId": "IJ6DDH",
+      "name": "EGD|Galaxy",
+      "role": "USER",
+      "level": 30
+    },
+    "message": "Do u have [CYB3R|Bayonet|WEAPON_SKIN|MYTHICAL] Jhose",
+    "timestamp": "2026-05-08T22:55:19.666Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "guest-54be4ece-9e2b-474f-9d38-577976065f54",
+      "shortId": "IJ6DDH",
+      "name": "EGD|Galaxy",
+      "role": "USER",
+      "level": 30
+    },
+    "message": "N",
+    "timestamp": "2026-05-08T22:55:23.849Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "guest-54be4ece-9e2b-474f-9d38-577976065f54",
+      "shortId": "IJ6DDH",
+      "name": "EGD|Galaxy",
+      "role": "USER",
+      "level": 30
+    },
+    "message": "Trade",
+    "timestamp": "2026-05-08T22:55:29.658Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "guest-54be4ece-9e2b-474f-9d38-577976065f54",
+      "shortId": "IJ6DDH",
+      "name": "EGD|Galaxy",
+      "role": "USER",
+      "level": 30
+    },
+    "message": "3x [Rub1x|MAC-10|WEAPON_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-08T22:55:53.438Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "guest-54be4ece-9e2b-474f-9d38-577976065f54",
+      "shortId": "IJ6DDH",
+      "name": "EGD|Galaxy",
+      "role": "USER",
+      "level": 30
+    },
+    "message": "#CRCD0D trade",
+    "timestamp": "2026-05-08T22:57:35.253Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "guest-54be4ece-9e2b-474f-9d38-577976065f54",
+      "shortId": "IJ6DDH",
+      "name": "EGD|Galaxy",
+      "role": "USER",
+      "level": 30
+    },
+    "message": "Neptune",
+    "timestamp": "2026-05-08T22:58:32.217Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "guest-54be4ece-9e2b-474f-9d38-577976065f54",
+      "shortId": "IJ6DDH",
+      "name": "EGD|Galaxy",
+      "role": "USER",
+      "level": 30
+    },
+    "message": "Trade",
+    "timestamp": "2026-05-08T22:58:38.090Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "guest-54be4ece-9e2b-474f-9d38-577976065f54",
+      "shortId": "IJ6DDH",
+      "name": "EGD|Galaxy",
+      "role": "USER",
+      "level": 30
+    },
+    "message": "Trade Neptune",
+    "timestamp": "2026-05-08T22:58:56.625Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "guest-54be4ece-9e2b-474f-9d38-577976065f54",
+      "shortId": "IJ6DDH",
+      "name": "EGD|Galaxy",
+      "role": "USER",
+      "level": 30
+    },
+    "message": "[Rub1x|MAC-10|WEAPON_SKIN|MYTHICAL]x3",
+    "timestamp": "2026-05-08T22:59:14.750Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "guest-54be4ece-9e2b-474f-9d38-577976065f54",
+      "shortId": "IJ6DDH",
+      "name": "EGD|Galaxy",
+      "role": "USER",
+      "level": 30
+    },
+    "message": "Yea",
+    "timestamp": "2026-05-08T23:00:53.110Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "guest-54be4ece-9e2b-474f-9d38-577976065f54",
+      "shortId": "IJ6DDH",
+      "name": "EGD|Galaxy",
+      "role": "USER",
+      "level": 30
+    },
+    "message": "Me ethong",
+    "timestamp": "2026-05-08T23:01:10.879Z"
   }
 ]
