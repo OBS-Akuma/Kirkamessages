@@ -8710,5 +8710,53 @@
     },
     "message": "Sup guys on mobile rn for tha forst time ever lol",
     "timestamp": "2026-05-08T19:03:55.945Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "878dfc67-a2f4-46d9-b837-58e311d701d3",
+      "shortId": "4CQDEK",
+      "name": "UrBoiBeetle",
+      "role": "USER",
+      "level": 98
+    },
+    "message": "[Rose||BODY_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-09T03:03:52.717Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "878dfc67-a2f4-46d9-b837-58e311d701d3",
+      "shortId": "4CQDEK",
+      "name": "UrBoiBeetle",
+      "role": "USER",
+      "level": 98
+    },
+    "message": "[Rosed|VITA|WEAPON_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-09T03:03:58.545Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "878dfc67-a2f4-46d9-b837-58e311d701d3",
+      "shortId": "4CQDEK",
+      "name": "UrBoiBeetle",
+      "role": "USER",
+      "level": 98
+    },
+    "message": "/inv",
+    "timestamp": "2026-05-09T03:06:46.065Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "878dfc67-a2f4-46d9-b837-58e311d701d3",
+      "shortId": "4CQDEK",
+      "name": "UrBoiBeetle",
+      "role": "USER",
+      "level": 98
+    },
+    "message": "[Chromatic|VITA|WEAPON_SKIN|LEGENDARY]",
+    "timestamp": "2026-05-09T03:16:47.793Z"
   }
 ]
