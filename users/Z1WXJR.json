@@ -310,5 +310,89 @@
     },
     "message": "/PRICE [Veiled||BODY_SKIN|LEGENDARY]",
     "timestamp": "2026-05-09T03:23:00.014Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "70184f38-6b61-4ca3-bf66-2cdbc3f42f1b",
+      "shortId": "Z1WXJR",
+      "name": "ZouD",
+      "role": "USER",
+      "level": 45
+    },
+    "message": "rght here",
+    "timestamp": "2026-05-09T03:48:57.271Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "70184f38-6b61-4ca3-bf66-2cdbc3f42f1b",
+      "shortId": "Z1WXJR",
+      "name": "ZouD",
+      "role": "USER",
+      "level": 45
+    },
+    "message": "#4CQDEK wdym",
+    "timestamp": "2026-05-09T03:49:26.830Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "70184f38-6b61-4ca3-bf66-2cdbc3f42f1b",
+      "shortId": "Z1WXJR",
+      "name": "ZouD",
+      "role": "USER",
+      "level": 45
+    },
+    "message": "#4CQDEK u there",
+    "timestamp": "2026-05-09T03:49:55.088Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "70184f38-6b61-4ca3-bf66-2cdbc3f42f1b",
+      "shortId": "Z1WXJR",
+      "name": "ZouD",
+      "role": "USER",
+      "level": 45
+    },
+    "message": "i want to keep [Spooder|Shark|WEAPON_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-09T03:50:18.712Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "70184f38-6b61-4ca3-bf66-2cdbc3f42f1b",
+      "shortId": "Z1WXJR",
+      "name": "ZouD",
+      "role": "USER",
+      "level": 45
+    },
+    "message": "itll match the fit",
+    "timestamp": "2026-05-09T03:50:23.677Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "70184f38-6b61-4ca3-bf66-2cdbc3f42f1b",
+      "shortId": "Z1WXJR",
+      "name": "ZouD",
+      "role": "USER",
+      "level": 45
+    },
+    "message": "yea",
+    "timestamp": "2026-05-09T03:51:04.230Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "70184f38-6b61-4ca3-bf66-2cdbc3f42f1b",
+      "shortId": "Z1WXJR",
+      "name": "ZouD",
+      "role": "USER",
+      "level": 45
+    },
+    "message": "THX",
+    "timestamp": "2026-05-09T03:51:09.690Z"
   }
 ]
