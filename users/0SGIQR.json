@@ -70,5 +70,17 @@
     },
     "message": "trading revolver 2025",
     "timestamp": "2026-05-08T22:32:07.469Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "bjL101mkQlZSYoYzeGwOoJI5yur2",
+      "shortId": "0SGIQR",
+      "name": "YellowBuunny",
+      "role": "USER",
+      "level": 19
+    },
+    "message": "hiii",
+    "timestamp": "2026-05-09T16:20:32.411Z"
   }
 ]
