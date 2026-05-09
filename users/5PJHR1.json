@@ -668,7 +668,7 @@
       "role": "USER",
       "level": 95
     },
-    "message": "ê thg em mtri",
+    "message": "Ãª thg em mtri",
     "timestamp": "2026-05-09T04:04:54.393Z"
   },
   {
@@ -692,7 +692,7 @@
       "role": "USER",
       "level": 95
     },
-    "message": "bố ơi",
+    "message": "bá» Æ¡i",
     "timestamp": "2026-05-09T04:05:42.063Z"
   },
   {
@@ -704,7 +704,7 @@
       "role": "USER",
       "level": 95
     },
-    "message": "chuyện là...",
+    "message": "chuyá»n lÃ ...",
     "timestamp": "2026-05-09T04:05:46.606Z"
   },
   {
@@ -716,7 +716,7 @@
       "role": "USER",
       "level": 95
     },
-    "message": "con dang thiếu sskin scar á",
+    "message": "con dang thiáº¿u sskin scar Ã¡",
     "timestamp": "2026-05-09T04:06:01.816Z"
   },
   {
@@ -728,7 +728,7 @@
       "role": "USER",
       "level": 95
     },
-    "message": "bố cho con skin j đi:)",
+    "message": "bá» cho con skin j Äi:)",
     "timestamp": "2026-05-09T04:06:12.657Z"
   },
   {
@@ -740,7 +740,7 @@
       "role": "USER",
       "level": 95
     },
-    "message": "làm ơn bố",
+    "message": "lÃ m Æ¡n bá»",
     "timestamp": "2026-05-09T04:06:51.560Z"
   },
   {
@@ -764,7 +764,7 @@
       "role": "USER",
       "level": 95
     },
-    "message": "ditme bố giàu mà keo chư con chó",
+    "message": "ditme bá» giÃ u mÃ  keo chÆ° con chÃ³",
     "timestamp": "2026-05-09T04:07:28.121Z"
   },
   {
@@ -776,7 +776,7 @@
       "role": "USER",
       "level": 95
     },
-    "message": "dell phải bố t",
+    "message": "dell pháº£i bá» t",
     "timestamp": "2026-05-09T04:07:33.651Z"
   },
   {
@@ -812,7 +812,7 @@
       "role": "USER",
       "level": 95
     },
-    "message": "ơ #M6N6Z0 bữa thấy inv 103m sao h còn 73m v?",
+    "message": "Æ¡ #M6N6Z0 bá»¯a tháº¥y inv 103m sao h cÃ²n 73m v?",
     "timestamp": "2026-05-09T04:08:50.225Z"
   },
   {
@@ -860,7 +860,7 @@
       "role": "USER",
       "level": 95
     },
-    "message": "400m là nh r:0",
+    "message": "400m lÃ  nh r:0",
     "timestamp": "2026-05-09T04:11:13.410Z"
   },
   {
@@ -872,7 +872,7 @@
       "role": "USER",
       "level": 95
     },
-    "message": "t có 10m đây ne",
+    "message": "t cÃ³ 10m ÄÃ¢y ne",
     "timestamp": "2026-05-09T04:11:20.332Z"
   },
   {
@@ -908,7 +908,7 @@
       "role": "USER",
       "level": 95
     },
-    "message": "mới lên lvl100 à?#CQ8UMQ",
+    "message": "má»i lÃªn lvl100 Ã ?#CQ8UMQ",
     "timestamp": "2026-05-09T04:13:04.529Z"
   },
   {
@@ -920,7 +920,7 @@
       "role": "USER",
       "level": 95
     },
-    "message": "trc thấy có 98ma2 nhỉ?",
+    "message": "trc tháº¥y cÃ³ 98ma2 nhá»?",
     "timestamp": "2026-05-09T04:13:22.079Z"
   },
   {
@@ -982,5 +982,29 @@
     },
     "message": "guys i need [Void SCAR|SCAR|WEAPON_SKIN|MYTHICAL]",
     "timestamp": "2026-05-09T04:38:33.280Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "uPPtBfnsJOM0EvApta2LrzWwsb02",
+      "shortId": "5PJHR1",
+      "name": "JustChillin.",
+      "role": "USER",
+      "level": 95
+    },
+    "message": "hey dragontammer u have any [SCAR||WEAPON_1|COMMON] skin?",
+    "timestamp": "2026-05-09T04:47:06.877Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "uPPtBfnsJOM0EvApta2LrzWwsb02",
+      "shortId": "5PJHR1",
+      "name": "JustChillin.",
+      "role": "USER",
+      "level": 95
+    },
+    "message": "[Nova|SCAR|WEAPON_SKIN|MYTHICAL]?",
+    "timestamp": "2026-05-09T04:47:26.463Z"
   }
 ]
