@@ -826,5 +826,41 @@
     },
     "message": "Meh u robbed 2% of me",
     "timestamp": "2026-05-08T07:16:17.387Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "e94fc41b-ee11-41e2-8942-4381500742af",
+      "shortId": "KILLER",
+      "name": "Quitter",
+      "role": "USER",
+      "level": 99
+    },
+    "message": "Wagering [Ghoul||BODY_SKIN|MYTHICAL][Heavy|LAR|WEAPON_SKIN|MYTHICAL][Slasher||BODY_SKIN|PARANORMAL]",
+    "timestamp": "2026-05-08T22:49:03.146Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "e94fc41b-ee11-41e2-8942-4381500742af",
+      "shortId": "KILLER",
+      "name": "Quitter",
+      "role": "USER",
+      "level": 99
+    },
+    "message": "/inv",
+    "timestamp": "2026-05-08T22:49:49.060Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "e94fc41b-ee11-41e2-8942-4381500742af",
+      "shortId": "KILLER",
+      "name": "Quitter",
+      "role": "USER",
+      "level": 99
+    },
+    "message": "/locate golden",
+    "timestamp": "2026-05-08T22:50:16.670Z"
   }
 ]
