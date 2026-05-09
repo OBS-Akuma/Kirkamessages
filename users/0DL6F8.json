@@ -442,5 +442,17 @@
     },
     "message": "how bought [Cyclop||BODY_SKIN|MYTHICAL]",
     "timestamp": "2026-05-09T05:17:01.940Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "d8c60953-7e39-48e3-b2ff-0df017fd1c32",
+      "shortId": "0DL6F8",
+      "name": "d3stroy3r",
+      "role": "USER",
+      "level": 38
+    },
+    "message": "zyrex add",
+    "timestamp": "2026-05-09T06:06:26.080Z"
   }
 ]
