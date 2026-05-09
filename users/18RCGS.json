@@ -1294,5 +1294,29 @@
     },
     "message": "proper",
     "timestamp": "2026-05-09T03:45:24.201Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "5dc6fde8-9a8b-46ce-888d-1087729265e1",
+      "shortId": "18RCGS",
+      "name": "Cheetos_queen",
+      "role": "USER",
+      "level": 6
+    },
+    "message": "[Engravement|Bayonet|WEAPON_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-09T03:45:47.894Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "5dc6fde8-9a8b-46ce-888d-1087729265e1",
+      "shortId": "18RCGS",
+      "name": "Cheetos_queen",
+      "role": "USER",
+      "level": 6
+    },
+    "message": "LOOKING FOR [Write||BODY_SKIN|LEGENDARY]",
+    "timestamp": "2026-05-09T03:46:12.143Z"
   }
 ]
