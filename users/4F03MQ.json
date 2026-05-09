@@ -382,5 +382,41 @@
     },
     "message": "I'm broke",
     "timestamp": "2026-05-09T03:44:12.336Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "2d057859-f79e-4ba4-825b-4c368a83535c",
+      "shortId": "4F03MQ",
+      "name": "The_Re@per",
+      "role": "USER",
+      "level": 58
+    },
+    "message": "can someone give me 100k plzz",
+    "timestamp": "2026-05-09T03:47:28.405Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "2d057859-f79e-4ba4-825b-4c368a83535c",
+      "shortId": "4F03MQ",
+      "name": "The_Re@per",
+      "role": "USER",
+      "level": 58
+    },
+    "message": "/inv",
+    "timestamp": "2026-05-09T03:47:42.788Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "2d057859-f79e-4ba4-825b-4c368a83535c",
+      "shortId": "4F03MQ",
+      "name": "The_Re@per",
+      "role": "USER",
+      "level": 58
+    },
+    "message": "can I have 100k",
+    "timestamp": "2026-05-09T03:48:19.986Z"
   }
 ]
