@@ -1,0 +1,38 @@
+[
+  {
+    "type": 2,
+    "user": {
+      "id": "83519a24-5eba-44fd-91cd-5733ac4dd266",
+      "shortId": "J4XZFH",
+      "name": "ryokutya",
+      "role": "USER",
+      "level": 46
+    },
+    "message": "hi",
+    "timestamp": "2026-05-09T04:12:37.947Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "83519a24-5eba-44fd-91cd-5733ac4dd266",
+      "shortId": "J4XZFH",
+      "name": "ryokutya",
+      "role": "USER",
+      "level": 46
+    },
+    "message": "[banse]",
+    "timestamp": "2026-05-09T04:13:04.480Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "83519a24-5eba-44fd-91cd-5733ac4dd266",
+      "shortId": "J4XZFH",
+      "name": "ryokutya",
+      "role": "USER",
+      "level": 46
+    },
+    "message": "tr[Bansee|VITA|WEAPON_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-09T04:13:26.046Z"
+  }
+]
