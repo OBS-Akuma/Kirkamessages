@@ -862,5 +862,53 @@
     },
     "message": "/locate golden",
     "timestamp": "2026-05-08T22:50:16.670Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "e94fc41b-ee11-41e2-8942-4381500742af",
+      "shortId": "KILLER",
+      "name": "Quitter",
+      "role": "USER",
+      "level": 99
+    },
+    "message": "wagering [Ghoul||BODY_SKIN|MYTHICAL][Slasher||BODY_SKIN|PARANORMAL][Heavy|LAR|WEAPON_SKIN|MYTHICAL][Bubblepop|Bayonet|WEAPON_SKIN|MYTHICAL]...",
+    "timestamp": "2026-05-09T16:18:36.856Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "e94fc41b-ee11-41e2-8942-4381500742af",
+      "shortId": "KILLER",
+      "name": "Quitter",
+      "role": "USER",
+      "level": 99
+    },
+    "message": "No thanks",
+    "timestamp": "2026-05-09T16:19:15.451Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "e94fc41b-ee11-41e2-8942-4381500742af",
+      "shortId": "KILLER",
+      "name": "Quitter",
+      "role": "USER",
+      "level": 99
+    },
+    "message": "wagering [Ghoul||BODY_SKIN|MYTHICAL][Slasher||BODY_SKIN|PARANORMAL][Heavy|LAR|WEAPON_SKIN|MYTHICAL][Bubblepop|Bayonet|WEAPON_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-09T16:21:00.007Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "e94fc41b-ee11-41e2-8942-4381500742af",
+      "shortId": "KILLER",
+      "name": "Quitter",
+      "role": "USER",
+      "level": 99
+    },
+    "message": "I want rainbows :/",
+    "timestamp": "2026-05-09T16:21:40.057Z"
   }
 ]
