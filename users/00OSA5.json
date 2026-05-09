@@ -34,5 +34,17 @@
     },
     "message": "i got a lor",
     "timestamp": "2026-05-07T03:45:51.989Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "5aa397f6-769b-47c7-b4cb-ad7ec3997c96",
+      "shortId": "00OSA5",
+      "name": "sens",
+      "role": "USER",
+      "level": 98
+    },
+    "message": "https://kirka.io/___lobby___/NA~RO8IhL4Lr",
+    "timestamp": "2026-05-09T04:10:21.470Z"
   }
 ]
