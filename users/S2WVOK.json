@@ -130,5 +130,65 @@
     },
     "message": "/hm oblivion",
     "timestamp": "2026-05-04T02:43:35.134Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "9d42e1d0-cf39-40bd-91c2-7b85e8b36233",
+      "shortId": "S2WVOK",
+      "name": "Hisoka",
+      "role": "USER",
+      "level": 95
+    },
+    "message": "/wager [2024|Bayonet|WEAPON_SKIN|MYTHICAL] #52N4M1",
+    "timestamp": "2026-05-09T03:04:29.922Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "9d42e1d0-cf39-40bd-91c2-7b85e8b36233",
+      "shortId": "S2WVOK",
+      "name": "Hisoka",
+      "role": "USER",
+      "level": 95
+    },
+    "message": "nah",
+    "timestamp": "2026-05-09T03:04:54.943Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "9d42e1d0-cf39-40bd-91c2-7b85e8b36233",
+      "shortId": "S2WVOK",
+      "name": "Hisoka",
+      "role": "USER",
+      "level": 95
+    },
+    "message": "/cancelwager",
+    "timestamp": "2026-05-09T03:05:13.146Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "9d42e1d0-cf39-40bd-91c2-7b85e8b36233",
+      "shortId": "S2WVOK",
+      "name": "Hisoka",
+      "role": "USER",
+      "level": 95
+    },
+    "message": "/hm mabel",
+    "timestamp": "2026-05-09T03:05:37.801Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "9d42e1d0-cf39-40bd-91c2-7b85e8b36233",
+      "shortId": "S2WVOK",
+      "name": "Hisoka",
+      "role": "USER",
+      "level": 95
+    },
+    "message": "/hm pandora",
+    "timestamp": "2026-05-09T03:43:42.639Z"
   }
 ]
