@@ -58,5 +58,209 @@
     },
     "message": "/inv",
     "timestamp": "2026-05-07T03:01:56.433Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "38c50a35-1a2b-4b9d-981f-0c15dd00dbd2",
+      "shortId": "HAV9WU",
+      "name": "meisrealtoxic",
+      "role": "USER",
+      "level": 72
+    },
+    "message": "[coloer]",
+    "timestamp": "2026-05-09T03:21:19.373Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "38c50a35-1a2b-4b9d-981f-0c15dd00dbd2",
+      "shortId": "HAV9WU",
+      "name": "meisrealtoxic",
+      "role": "USER",
+      "level": 72
+    },
+    "message": "[Color||BODY_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-09T03:21:31.670Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "38c50a35-1a2b-4b9d-981f-0c15dd00dbd2",
+      "shortId": "HAV9WU",
+      "name": "meisrealtoxic",
+      "role": "USER",
+      "level": 72
+    },
+    "message": "/locate [Color||BODY_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-09T03:21:45.963Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "38c50a35-1a2b-4b9d-981f-0c15dd00dbd2",
+      "shortId": "HAV9WU",
+      "name": "meisrealtoxic",
+      "role": "USER",
+      "level": 72
+    },
+    "message": "[Pencil|Bayonet|WEAPON_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-09T03:22:09.195Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "38c50a35-1a2b-4b9d-981f-0c15dd00dbd2",
+      "shortId": "HAV9WU",
+      "name": "meisrealtoxic",
+      "role": "USER",
+      "level": 72
+    },
+    "message": "/price [Pencil|Bayonet|WEAPON_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-09T03:22:25.588Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "38c50a35-1a2b-4b9d-981f-0c15dd00dbd2",
+      "shortId": "HAV9WU",
+      "name": "meisrealtoxic",
+      "role": "USER",
+      "level": 72
+    },
+    "message": "1500 golden>",
+    "timestamp": "2026-05-09T03:25:59.781Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "38c50a35-1a2b-4b9d-981f-0c15dd00dbd2",
+      "shortId": "HAV9WU",
+      "name": "meisrealtoxic",
+      "role": "USER",
+      "level": 72
+    },
+    "message": "ok",
+    "timestamp": "2026-05-09T03:26:05.411Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "38c50a35-1a2b-4b9d-981f-0c15dd00dbd2",
+      "shortId": "HAV9WU",
+      "name": "meisrealtoxic",
+      "role": "USER",
+      "level": 72
+    },
+    "message": "me need 1000 golden lol",
+    "timestamp": "2026-05-09T03:27:00.185Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "38c50a35-1a2b-4b9d-981f-0c15dd00dbd2",
+      "shortId": "HAV9WU",
+      "name": "meisrealtoxic",
+      "role": "USER",
+      "level": 72
+    },
+    "message": "sorry",
+    "timestamp": "2026-05-09T03:27:14.700Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "38c50a35-1a2b-4b9d-981f-0c15dd00dbd2",
+      "shortId": "HAV9WU",
+      "name": "meisrealtoxic",
+      "role": "USER",
+      "level": 72
+    },
+    "message": "me need 1500-2000 golden",
+    "timestamp": "2026-05-09T03:27:26.302Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "38c50a35-1a2b-4b9d-981f-0c15dd00dbd2",
+      "shortId": "HAV9WU",
+      "name": "meisrealtoxic",
+      "role": "USER",
+      "level": 72
+    },
+    "message": "pls guy me need golden lol",
+    "timestamp": "2026-05-09T03:28:03.615Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "38c50a35-1a2b-4b9d-981f-0c15dd00dbd2",
+      "shortId": "HAV9WU",
+      "name": "meisrealtoxic",
+      "role": "USER",
+      "level": 72
+    },
+    "message": "//trade offer my:[Pie||BODY_SKIN|MYTHICAL] your:[Golden||CHEST|LEGENDARY]x1000",
+    "timestamp": "2026-05-09T03:28:29.404Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "38c50a35-1a2b-4b9d-981f-0c15dd00dbd2",
+      "shortId": "HAV9WU",
+      "name": "meisrealtoxic",
+      "role": "USER",
+      "level": 72
+    },
+    "message": "//trade offer my:[Pie||BODY_SKIN|MYTHICAL] your:[Golden||CHEST|LEGENDARY]x1025",
+    "timestamp": "2026-05-09T03:28:44.876Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "38c50a35-1a2b-4b9d-981f-0c15dd00dbd2",
+      "shortId": "HAV9WU",
+      "name": "meisrealtoxic",
+      "role": "USER",
+      "level": 72
+    },
+    "message": "oke",
+    "timestamp": "2026-05-09T03:28:52.254Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "38c50a35-1a2b-4b9d-981f-0c15dd00dbd2",
+      "shortId": "HAV9WU",
+      "name": "meisrealtoxic",
+      "role": "USER",
+      "level": 72
+    },
+    "message": "bro",
+    "timestamp": "2026-05-09T03:29:30.449Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "38c50a35-1a2b-4b9d-981f-0c15dd00dbd2",
+      "shortId": "HAV9WU",
+      "name": "meisrealtoxic",
+      "role": "USER",
+      "level": 72
+    },
+    "message": "\\",
+    "timestamp": "2026-05-09T03:30:57.650Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "38c50a35-1a2b-4b9d-981f-0c15dd00dbd2",
+      "shortId": "HAV9WU",
+      "name": "meisrealtoxic",
+      "role": "USER",
+      "level": 72
+    },
+    "message": "fk noob wizar",
+    "timestamp": "2026-05-09T03:35:08.603Z"
   }
 ]
