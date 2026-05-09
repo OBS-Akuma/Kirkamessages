@@ -346,5 +346,41 @@
     },
     "message": "aimbot",
     "timestamp": "2026-05-09T01:29:30.006Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "a31c1471-37f6-45af-b4f2-e9d45063e796",
+      "shortId": "4WL3Z8",
+      "name": "steam",
+      "role": "USER",
+      "level": 6
+    },
+    "message": "guys",
+    "timestamp": "2026-05-09T03:19:12.751Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "a31c1471-37f6-45af-b4f2-e9d45063e796",
+      "shortId": "4WL3Z8",
+      "name": "steam",
+      "role": "USER",
+      "level": 6
+    },
+    "message": "do you have to be over level 10 to do trades and accept them?????",
+    "timestamp": "2026-05-09T03:19:31.771Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "a31c1471-37f6-45af-b4f2-e9d45063e796",
+      "shortId": "4WL3Z8",
+      "name": "steam",
+      "role": "USER",
+      "level": 6
+    },
+    "message": "do you u have to be lvl 10 and up to trade and all that",
+    "timestamp": "2026-05-09T03:20:10.595Z"
   }
 ]
