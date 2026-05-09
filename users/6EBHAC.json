@@ -2722,5 +2722,149 @@
     },
     "message": "/hm dragonic AR-9",
     "timestamp": "2026-05-09T05:46:58.756Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "e7e57fc8-686b-4a99-bcba-b2e86d830827",
+      "shortId": "6EBHAC",
+      "name": "XxSus_monkxX",
+      "role": "USER",
+      "level": 76
+    },
+    "message": "/enter",
+    "timestamp": "2026-05-09T05:47:54.163Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "e7e57fc8-686b-4a99-bcba-b2e86d830827",
+      "shortId": "6EBHAC",
+      "name": "XxSus_monkxX",
+      "role": "USER",
+      "level": 76
+    },
+    "message": "/raffle enter",
+    "timestamp": "2026-05-09T05:48:06.748Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "e7e57fc8-686b-4a99-bcba-b2e86d830827",
+      "shortId": "6EBHAC",
+      "name": "XxSus_monkxX",
+      "role": "USER",
+      "level": 76
+    },
+    "message": "/wager [Wood||CHEST|COMMON]x50 #BG4WQX",
+    "timestamp": "2026-05-09T05:48:36.683Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "e7e57fc8-686b-4a99-bcba-b2e86d830827",
+      "shortId": "6EBHAC",
+      "name": "XxSus_monkxX",
+      "role": "USER",
+      "level": 76
+    },
+    "message": "/inv #BG4WQX",
+    "timestamp": "2026-05-09T05:48:46.466Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "e7e57fc8-686b-4a99-bcba-b2e86d830827",
+      "shortId": "6EBHAC",
+      "name": "XxSus_monkxX",
+      "role": "USER",
+      "level": 76
+    },
+    "message": "/wager cancel",
+    "timestamp": "2026-05-09T05:49:11.932Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "e7e57fc8-686b-4a99-bcba-b2e86d830827",
+      "shortId": "6EBHAC",
+      "name": "XxSus_monkxX",
+      "role": "USER",
+      "level": 76
+    },
+    "message": "/wager [Wood||CHEST|COMMON]x50 #T8LNH0",
+    "timestamp": "2026-05-09T05:49:23.427Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "e7e57fc8-686b-4a99-bcba-b2e86d830827",
+      "shortId": "6EBHAC",
+      "name": "XxSus_monkxX",
+      "role": "USER",
+      "level": 76
+    },
+    "message": "/cancel wager",
+    "timestamp": "2026-05-09T05:49:32.207Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "e7e57fc8-686b-4a99-bcba-b2e86d830827",
+      "shortId": "6EBHAC",
+      "name": "XxSus_monkxX",
+      "role": "USER",
+      "level": 76
+    },
+    "message": "/cancelwager",
+    "timestamp": "2026-05-09T05:49:39.550Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "e7e57fc8-686b-4a99-bcba-b2e86d830827",
+      "shortId": "6EBHAC",
+      "name": "XxSus_monkxX",
+      "role": "USER",
+      "level": 76
+    },
+    "message": "/wager [Wood||CHEST|COMMON]x50 #T8LNH0",
+    "timestamp": "2026-05-09T05:49:47.802Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "e7e57fc8-686b-4a99-bcba-b2e86d830827",
+      "shortId": "6EBHAC",
+      "name": "XxSus_monkxX",
+      "role": "USER",
+      "level": 76
+    },
+    "message": "/confirmwager",
+    "timestamp": "2026-05-09T05:50:02.715Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "e7e57fc8-686b-4a99-bcba-b2e86d830827",
+      "shortId": "6EBHAC",
+      "name": "XxSus_monkxX",
+      "role": "USER",
+      "level": 76
+    },
+    "message": "/wager bump",
+    "timestamp": "2026-05-09T05:50:27.228Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "e7e57fc8-686b-4a99-bcba-b2e86d830827",
+      "shortId": "6EBHAC",
+      "name": "XxSus_monkxX",
+      "role": "USER",
+      "level": 76
+    },
+    "message": "/wagercancel",
+    "timestamp": "2026-05-09T05:50:34.544Z"
   }
 ]
