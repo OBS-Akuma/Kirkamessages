@@ -2614,5 +2614,65 @@
     },
     "message": "/enter",
     "timestamp": "2026-05-08T03:49:36.948Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "e7e57fc8-686b-4a99-bcba-b2e86d830827",
+      "shortId": "6EBHAC",
+      "name": "XxSus_monkxX",
+      "role": "USER",
+      "level": 76
+    },
+    "message": "can anyone give a crap ton of wood chests to me",
+    "timestamp": "2026-05-09T05:35:35.561Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "e7e57fc8-686b-4a99-bcba-b2e86d830827",
+      "shortId": "6EBHAC",
+      "name": "XxSus_monkxX",
+      "role": "USER",
+      "level": 76
+    },
+    "message": "/price shroud",
+    "timestamp": "2026-05-09T05:35:44.128Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "e7e57fc8-686b-4a99-bcba-b2e86d830827",
+      "shortId": "6EBHAC",
+      "name": "XxSus_monkxX",
+      "role": "USER",
+      "level": 76
+    },
+    "message": "/inv #HGKGYS",
+    "timestamp": "2026-05-09T05:35:53.395Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "e7e57fc8-686b-4a99-bcba-b2e86d830827",
+      "shortId": "6EBHAC",
+      "name": "XxSus_monkxX",
+      "role": "USER",
+      "level": 76
+    },
+    "message": "how you down coins T_T",
+    "timestamp": "2026-05-09T05:36:11.302Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "e7e57fc8-686b-4a99-bcba-b2e86d830827",
+      "shortId": "6EBHAC",
+      "name": "XxSus_monkxX",
+      "role": "USER",
+      "level": 76
+    },
+    "message": "/inv #WORKJK",
+    "timestamp": "2026-05-09T05:36:35.488Z"
   }
 ]
