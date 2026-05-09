@@ -1270,5 +1270,89 @@
     },
     "message": "no I don't own scar anymore",
     "timestamp": "2026-05-08T22:04:48.811Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "1a4fb7ab-45cd-449b-858f-14a509ff9ecb",
+      "shortId": "NM3VUO",
+      "name": "RGB.",
+      "role": "USER",
+      "level": 57
+    },
+    "message": "/price sinister",
+    "timestamp": "2026-05-09T02:40:35.234Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "1a4fb7ab-45cd-449b-858f-14a509ff9ecb",
+      "shortId": "NM3VUO",
+      "name": "RGB.",
+      "role": "USER",
+      "level": 57
+    },
+    "message": "/price Punishment",
+    "timestamp": "2026-05-09T02:40:47.420Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "1a4fb7ab-45cd-449b-858f-14a509ff9ecb",
+      "shortId": "NM3VUO",
+      "name": "RGB.",
+      "role": "USER",
+      "level": 57
+    },
+    "message": "/price RGB Black",
+    "timestamp": "2026-05-09T02:40:57.454Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "1a4fb7ab-45cd-449b-858f-14a509ff9ecb",
+      "shortId": "NM3VUO",
+      "name": "RGB.",
+      "role": "USER",
+      "level": 57
+    },
+    "message": "/price Uranium",
+    "timestamp": "2026-05-09T02:41:36.848Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "1a4fb7ab-45cd-449b-858f-14a509ff9ecb",
+      "shortId": "NM3VUO",
+      "name": "RGB.",
+      "role": "USER",
+      "level": 57
+    },
+    "message": "/price sinister",
+    "timestamp": "2026-05-09T02:41:51.625Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "1a4fb7ab-45cd-449b-858f-14a509ff9ecb",
+      "shortId": "NM3VUO",
+      "name": "RGB.",
+      "role": "USER",
+      "level": 57
+    },
+    "message": "/",
+    "timestamp": "2026-05-09T02:42:10.021Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "1a4fb7ab-45cd-449b-858f-14a509ff9ecb",
+      "shortId": "NM3VUO",
+      "name": "RGB.",
+      "role": "USER",
+      "level": 57
+    },
+    "message": "I dont want those",
+    "timestamp": "2026-05-09T02:42:24.397Z"
   }
 ]
