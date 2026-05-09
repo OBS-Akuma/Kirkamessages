@@ -10,5 +10,29 @@
     },
     "message": "dayday",
     "timestamp": "2026-05-08T04:34:39.421Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "2eb5f34a-1928-42b6-b308-04f77530d8cf",
+      "shortId": "OH5MJX",
+      "name": "Ch@otic",
+      "role": "USER",
+      "level": 12
+    },
+    "message": "fif I get scammed",
+    "timestamp": "2026-05-09T04:52:16.066Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "2eb5f34a-1928-42b6-b308-04f77530d8cf",
+      "shortId": "OH5MJX",
+      "name": "Ch@otic",
+      "role": "USER",
+      "level": 12
+    },
+    "message": "jk its a alt",
+    "timestamp": "2026-05-09T04:52:33.206Z"
   }
 ]
