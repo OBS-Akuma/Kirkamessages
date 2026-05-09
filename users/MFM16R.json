@@ -154,5 +154,17 @@
     },
     "message": "quit glazing",
     "timestamp": "2026-05-08T20:05:41.763Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "ae4253d8-741d-4ee7-95ba-fe684a88f915",
+      "shortId": "MFM16R",
+      "name": "Combat-Wombat",
+      "role": "USER",
+      "level": 53
+    },
+    "message": "trading forbidden",
+    "timestamp": "2026-05-09T04:15:26.230Z"
   }
 ]
