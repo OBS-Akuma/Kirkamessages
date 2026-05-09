@@ -406,5 +406,221 @@
     },
     "message": "yo'",
     "timestamp": "2026-05-08T22:20:21.219Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "b8da81fb-ba0f-4d57-9c2b-560a302212ed",
+      "shortId": "ALITHF",
+      "name": "Bigmac",
+      "role": "USER",
+      "level": 76
+    },
+    "message": "/locate [Mabel||BODY_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-09T02:51:08.672Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "b8da81fb-ba0f-4d57-9c2b-560a302212ed",
+      "shortId": "ALITHF",
+      "name": "Bigmac",
+      "role": "USER",
+      "level": 76
+    },
+    "message": "/locate [Phantom||BODY_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-09T02:51:23.896Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "b8da81fb-ba0f-4d57-9c2b-560a302212ed",
+      "shortId": "ALITHF",
+      "name": "Bigmac",
+      "role": "USER",
+      "level": 76
+    },
+    "message": "cf'ing [Candle|Bayonet|WEAPON_SKIN|MYTHICAL] v [Candle|Bayonet|WEAPON_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-09T03:11:23.123Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "b8da81fb-ba0f-4d57-9c2b-560a302212ed",
+      "shortId": "ALITHF",
+      "name": "Bigmac",
+      "role": "USER",
+      "level": 76
+    },
+    "message": "/price [ghoul",
+    "timestamp": "2026-05-09T03:12:00.042Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "b8da81fb-ba0f-4d57-9c2b-560a302212ed",
+      "shortId": "ALITHF",
+      "name": "Bigmac",
+      "role": "USER",
+      "level": 76
+    },
+    "message": "yo blaze",
+    "timestamp": "2026-05-09T03:12:52.443Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "b8da81fb-ba0f-4d57-9c2b-560a302212ed",
+      "shortId": "ALITHF",
+      "name": "Bigmac",
+      "role": "USER",
+      "level": 76
+    },
+    "message": "blaze [Ghoul||BODY_SKIN|MYTHICAL]x3[Bound|AR-9|WEAPON_SKIN|MYTHICAL][CV01|Bayonet|WEAPON_SKIN|MYTHICAL][Caring|Bayonet|WEAPON_SKIN|MYTHICAL]x2 for [Candle|Bayonet|WEAPON_SKIN|MYTHICAL]?",
+    "timestamp": "2026-05-09T03:15:53.773Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "b8da81fb-ba0f-4d57-9c2b-560a302212ed",
+      "shortId": "ALITHF",
+      "name": "Bigmac",
+      "role": "USER",
+      "level": 76
+    },
+    "message": "o alr",
+    "timestamp": "2026-05-09T03:16:09.118Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "b8da81fb-ba0f-4d57-9c2b-560a302212ed",
+      "shortId": "ALITHF",
+      "name": "Bigmac",
+      "role": "USER",
+      "level": 76
+    },
+    "message": "lf [Bloo|Bayonet|WEAPON_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-09T03:16:33.651Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "b8da81fb-ba0f-4d57-9c2b-560a302212ed",
+      "shortId": "ALITHF",
+      "name": "Bigmac",
+      "role": "USER",
+      "level": 76
+    },
+    "message": "daddy u got anything to cf against candle?",
+    "timestamp": "2026-05-09T03:30:32.412Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "b8da81fb-ba0f-4d57-9c2b-560a302212ed",
+      "shortId": "ALITHF",
+      "name": "Bigmac",
+      "role": "USER",
+      "level": 76
+    },
+    "message": ".",
+    "timestamp": "2026-05-09T03:32:32.088Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "b8da81fb-ba0f-4d57-9c2b-560a302212ed",
+      "shortId": "ALITHF",
+      "name": "Bigmac",
+      "role": "USER",
+      "level": 76
+    },
+    "message": "u flip I'm tails?",
+    "timestamp": "2026-05-09T03:32:46.139Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "b8da81fb-ba0f-4d57-9c2b-560a302212ed",
+      "shortId": "ALITHF",
+      "name": "Bigmac",
+      "role": "USER",
+      "level": 76
+    },
+    "message": "sure",
+    "timestamp": "2026-05-09T03:32:53.922Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "b8da81fb-ba0f-4d57-9c2b-560a302212ed",
+      "shortId": "ALITHF",
+      "name": "Bigmac",
+      "role": "USER",
+      "level": 76
+    },
+    "message": "/flip 0-0",
+    "timestamp": "2026-05-09T03:33:00.639Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "b8da81fb-ba0f-4d57-9c2b-560a302212ed",
+      "shortId": "ALITHF",
+      "name": "Bigmac",
+      "role": "USER",
+      "level": 76
+    },
+    "message": "/flip 1-1",
+    "timestamp": "2026-05-09T03:33:07.029Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "b8da81fb-ba0f-4d57-9c2b-560a302212ed",
+      "shortId": "ALITHF",
+      "name": "Bigmac",
+      "role": "USER",
+      "level": 76
+    },
+    "message": "/flip 2-2",
+    "timestamp": "2026-05-09T03:33:12.028Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "b8da81fb-ba0f-4d57-9c2b-560a302212ed",
+      "shortId": "ALITHF",
+      "name": "Bigmac",
+      "role": "USER",
+      "level": 76
+    },
+    "message": "/flip 2-4",
+    "timestamp": "2026-05-09T03:33:21.879Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "b8da81fb-ba0f-4d57-9c2b-560a302212ed",
+      "shortId": "ALITHF",
+      "name": "Bigmac",
+      "role": "USER",
+      "level": 76
+    },
+    "message": "/flip 4-4 gg",
+    "timestamp": "2026-05-09T03:33:27.094Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "b8da81fb-ba0f-4d57-9c2b-560a302212ed",
+      "shortId": "ALITHF",
+      "name": "Bigmac",
+      "role": "USER",
+      "level": 76
+    },
+    "message": "nah I'm out",
+    "timestamp": "2026-05-09T03:33:52.292Z"
   }
 ]
