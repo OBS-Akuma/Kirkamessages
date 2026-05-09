@@ -1570,5 +1570,101 @@
     },
     "message": "who want wager [Golden||CHEST|LEGENDARY]",
     "timestamp": "2026-05-09T03:43:24.664Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "a634f8f1-fe8c-487e-8d44-2efa53ae05de",
+      "shortId": "CBYAK3",
+      "name": "bobd",
+      "role": "USER",
+      "level": 10
+    },
+    "message": "wager [Golden||CHEST|LEGENDARY]",
+    "timestamp": "2026-05-09T03:45:05.295Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "a634f8f1-fe8c-487e-8d44-2efa53ae05de",
+      "shortId": "CBYAK3",
+      "name": "bobd",
+      "role": "USER",
+      "level": 10
+    },
+    "message": "/enter",
+    "timestamp": "2026-05-09T03:45:09.589Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "a634f8f1-fe8c-487e-8d44-2efa53ae05de",
+      "shortId": "CBYAK3",
+      "name": "bobd",
+      "role": "USER",
+      "level": 10
+    },
+    "message": "wagering [Golden||CHEST|LEGENDARY]x1000",
+    "timestamp": "2026-05-09T03:45:23.767Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "a634f8f1-fe8c-487e-8d44-2efa53ae05de",
+      "shortId": "CBYAK3",
+      "name": "bobd",
+      "role": "USER",
+      "level": 10
+    },
+    "message": "trade [Golden||CHEST|LEGENDARY]x4000",
+    "timestamp": "2026-05-09T03:46:38.077Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "a634f8f1-fe8c-487e-8d44-2efa53ae05de",
+      "shortId": "CBYAK3",
+      "name": "bobd",
+      "role": "USER",
+      "level": 10
+    },
+    "message": "/cancelwager",
+    "timestamp": "2026-05-09T03:47:09.204Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "a634f8f1-fe8c-487e-8d44-2efa53ae05de",
+      "shortId": "CBYAK3",
+      "name": "bobd",
+      "role": "USER",
+      "level": 10
+    },
+    "message": "/wager [Golden||CHEST|LEGENDARY]x1000 #Y7P9QV",
+    "timestamp": "2026-05-09T03:47:28.690Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "a634f8f1-fe8c-487e-8d44-2efa53ae05de",
+      "shortId": "CBYAK3",
+      "name": "bobd",
+      "role": "USER",
+      "level": 10
+    },
+    "message": "confirm #Y7P9QV",
+    "timestamp": "2026-05-09T03:47:33.963Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "a634f8f1-fe8c-487e-8d44-2efa53ae05de",
+      "shortId": "CBYAK3",
+      "name": "bobd",
+      "role": "USER",
+      "level": 10
+    },
+    "message": "/cancelwager",
+    "timestamp": "2026-05-09T03:48:07.239Z"
   }
 ]
