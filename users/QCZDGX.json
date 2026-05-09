@@ -1,0 +1,26 @@
+[
+  {
+    "type": 2,
+    "user": {
+      "id": "e0dab657-5534-473e-9b36-9bae32608c63",
+      "shortId": "QCZDGX",
+      "name": "Draken",
+      "role": "USER",
+      "level": 98
+    },
+    "message": "i can't play game",
+    "timestamp": "2026-05-09T04:57:38.409Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "e0dab657-5534-473e-9b36-9bae32608c63",
+      "shortId": "QCZDGX",
+      "name": "Draken",
+      "role": "USER",
+      "level": 98
+    },
+    "message": "loading only",
+    "timestamp": "2026-05-09T04:57:44.952Z"
+  }
+]
