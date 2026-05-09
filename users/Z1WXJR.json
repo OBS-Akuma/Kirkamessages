@@ -298,5 +298,17 @@
     },
     "message": "/enter",
     "timestamp": "2026-05-08T21:19:15.380Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "70184f38-6b61-4ca3-bf66-2cdbc3f42f1b",
+      "shortId": "Z1WXJR",
+      "name": "ZouD",
+      "role": "USER",
+      "level": 44
+    },
+    "message": "/PRICE [Veiled||BODY_SKIN|LEGENDARY]",
+    "timestamp": "2026-05-09T03:23:00.014Z"
   }
 ]
