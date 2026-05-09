@@ -1366,5 +1366,65 @@
     },
     "message": "accept",
     "timestamp": "2026-05-04T08:31:06.100Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "c5eaa225-6ffd-453e-b8b0-1d95a11a4f17",
+      "shortId": "IYFXUY",
+      "name": "VoideXu",
+      "role": "USER",
+      "level": 95
+    },
+    "message": "/inv",
+    "timestamp": "2026-05-09T02:39:32.785Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "c5eaa225-6ffd-453e-b8b0-1d95a11a4f17",
+      "shortId": "IYFXUY",
+      "name": "VoideXu",
+      "role": "USER",
+      "level": 95
+    },
+    "message": "/hm [Anon||BODY_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-09T02:40:01.991Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "c5eaa225-6ffd-453e-b8b0-1d95a11a4f17",
+      "shortId": "IYFXUY",
+      "name": "VoideXu",
+      "role": "USER",
+      "level": 95
+    },
+    "message": "trade[Huney||BODY_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-09T02:40:33.818Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "c5eaa225-6ffd-453e-b8b0-1d95a11a4f17",
+      "shortId": "IYFXUY",
+      "name": "VoideXu",
+      "role": "USER",
+      "level": 95
+    },
+    "message": "anyone want to trade [Huney||BODY_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-09T02:40:50.677Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "c5eaa225-6ffd-453e-b8b0-1d95a11a4f17",
+      "shortId": "IYFXUY",
+      "name": "VoideXu",
+      "role": "USER",
+      "level": 95
+    },
+    "message": "RISK nah",
+    "timestamp": "2026-05-09T02:40:56.581Z"
   }
 ]
