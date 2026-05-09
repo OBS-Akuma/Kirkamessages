@@ -1762,5 +1762,65 @@
     },
     "message": "#QOGP6Q message me on dc #QOGP6Q",
     "timestamp": "2026-05-09T04:30:04.029Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "nMIphnUUG0d0O6FFix2cU7iMda92",
+      "shortId": "H415SN",
+      "name": "VIRUS",
+      "role": "USER",
+      "level": 68
+    },
+    "message": "/wager [Astronova|LAR|WEAPON_SKIN|MYTHICAL] #609GEM",
+    "timestamp": "2026-05-09T04:45:40.626Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "nMIphnUUG0d0O6FFix2cU7iMda92",
+      "shortId": "H415SN",
+      "name": "VIRUS",
+      "role": "USER",
+      "level": 68
+    },
+    "message": "/claim",
+    "timestamp": "2026-05-09T04:46:34.720Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "nMIphnUUG0d0O6FFix2cU7iMda92",
+      "shortId": "H415SN",
+      "name": "VIRUS",
+      "role": "USER",
+      "level": 68
+    },
+    "message": "no way #609GEM",
+    "timestamp": "2026-05-09T04:51:07.797Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "nMIphnUUG0d0O6FFix2cU7iMda92",
+      "shortId": "H415SN",
+      "name": "VIRUS",
+      "role": "USER",
+      "level": 68
+    },
+    "message": "never #609GEM",
+    "timestamp": "2026-05-09T04:51:16.743Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "nMIphnUUG0d0O6FFix2cU7iMda92",
+      "shortId": "H415SN",
+      "name": "VIRUS",
+      "role": "USER",
+      "level": 68
+    },
+    "message": "o",
+    "timestamp": "2026-05-09T04:53:46.562Z"
   }
 ]
