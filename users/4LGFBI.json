@@ -1150,5 +1150,41 @@
     },
     "message": "k",
     "timestamp": "2026-05-09T05:51:10.324Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "xkiNzXE2NVRhVv2juciDJAGV2IG3",
+      "shortId": "4LGFBI",
+      "name": "EzoSensha",
+      "role": "USER",
+      "level": 37
+    },
+    "message": "i dont have shroud",
+    "timestamp": "2026-05-09T05:52:22.262Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "xkiNzXE2NVRhVv2juciDJAGV2IG3",
+      "shortId": "4LGFBI",
+      "name": "EzoSensha",
+      "role": "USER",
+      "level": 37
+    },
+    "message": "so what u want just chilin",
+    "timestamp": "2026-05-09T05:53:14.056Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "xkiNzXE2NVRhVv2juciDJAGV2IG3",
+      "shortId": "4LGFBI",
+      "name": "EzoSensha",
+      "role": "USER",
+      "level": 37
+    },
+    "message": "no have",
+    "timestamp": "2026-05-09T05:53:27.966Z"
   }
 ]
