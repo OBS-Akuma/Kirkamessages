@@ -46,5 +46,29 @@
     },
     "message": "[Engravement|Bayonet|WEAPON_SKIN|MYTHICAL] for [Golden||CHEST|LEGENDARY] 500x",
     "timestamp": "2026-05-09T01:21:30.317Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "299bd498-7b8f-4f19-b469-0eece0c00335",
+      "shortId": "KI7QAN",
+      "name": "tony",
+      "role": "USER",
+      "level": 11
+    },
+    "message": "tr [goldenx500]",
+    "timestamp": "2026-05-09T01:31:30.735Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "299bd498-7b8f-4f19-b469-0eece0c00335",
+      "shortId": "KI7QAN",
+      "name": "tony",
+      "role": "USER",
+      "level": 11
+    },
+    "message": "tr [Golden||CHEST|LEGENDARY] 500x",
+    "timestamp": "2026-05-09T01:31:37.404Z"
   }
 ]
