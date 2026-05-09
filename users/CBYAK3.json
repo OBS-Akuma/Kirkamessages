@@ -418,5 +418,17 @@
     },
     "message": "ok",
     "timestamp": "2026-05-09T02:42:39.239Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "a634f8f1-fe8c-487e-8d44-2efa53ae05de",
+      "shortId": "CBYAK3",
+      "name": "bobd",
+      "role": "USER",
+      "level": 10
+    },
+    "message": "yes",
+    "timestamp": "2026-05-09T02:42:53.948Z"
   }
 ]
