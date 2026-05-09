@@ -1,0 +1,38 @@
+[
+  {
+    "type": 2,
+    "user": {
+      "id": "guest-a9f45f54-2006-45da-8166-1d858d438e23",
+      "shortId": "4P027B",
+      "name": "Pwnstar",
+      "role": "USER",
+      "level": 6
+    },
+    "message": "ごめんごめんw",
+    "timestamp": "2026-05-09T01:25:00.645Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "guest-a9f45f54-2006-45da-8166-1d858d438e23",
+      "shortId": "4P027B",
+      "name": "Pwnstar",
+      "role": "USER",
+      "level": 6
+    },
+    "message": "お前だと思ってなかった",
+    "timestamp": "2026-05-09T01:25:06.438Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "guest-a9f45f54-2006-45da-8166-1d858d438e23",
+      "shortId": "4P027B",
+      "name": "Pwnstar",
+      "role": "USER",
+      "level": 6
+    },
+    "message": "?",
+    "timestamp": "2026-05-09T01:25:17.055Z"
+  }
+]
