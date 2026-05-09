@@ -502,5 +502,65 @@
     },
     "message": "offer for vocaloid",
     "timestamp": "2026-05-08T10:27:55.093Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "633bb881-9ddb-4a66-b04a-dcae9680b0b0",
+      "shortId": "NOK9UD",
+      "name": "Aimbot",
+      "role": "USER",
+      "level": 86
+    },
+    "message": "trading [Imperial|SCAR|WEAPON_SKIN|MYTHICAL][Vocaloid|SCAR|WEAPON_SKIN|LEGENDARY][Oblivion|SCAR|WEAPON_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-09T01:28:05.912Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "633bb881-9ddb-4a66-b04a-dcae9680b0b0",
+      "shortId": "NOK9UD",
+      "name": "Aimbot",
+      "role": "USER",
+      "level": 86
+    },
+    "message": "?",
+    "timestamp": "2026-05-09T01:28:21.855Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "633bb881-9ddb-4a66-b04a-dcae9680b0b0",
+      "shortId": "NOK9UD",
+      "name": "Aimbot",
+      "role": "USER",
+      "level": 86
+    },
+    "message": "ye",
+    "timestamp": "2026-05-09T01:28:27.284Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "633bb881-9ddb-4a66-b04a-dcae9680b0b0",
+      "shortId": "NOK9UD",
+      "name": "Aimbot",
+      "role": "USER",
+      "level": 86
+    },
+    "message": "offer",
+    "timestamp": "2026-05-09T01:28:30.508Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "633bb881-9ddb-4a66-b04a-dcae9680b0b0",
+      "shortId": "NOK9UD",
+      "name": "Aimbot",
+      "role": "USER",
+      "level": 86
+    },
+    "message": "ye",
+    "timestamp": "2026-05-09T01:29:17.231Z"
   }
 ]
