@@ -190,5 +190,65 @@
     },
     "message": "/wager [Rainy||BODY_SKIN|MYTHICAL] #9SRIUY",
     "timestamp": "2026-05-09T01:24:50.176Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "8685e1d3-c485-4f8c-9e7f-55fa5f66839d",
+      "shortId": "549M5B",
+      "name": "excusemyflaws",
+      "role": "USER",
+      "level": 61
+    },
+    "message": "close ngl",
+    "timestamp": "2026-05-09T01:25:44.931Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "8685e1d3-c485-4f8c-9e7f-55fa5f66839d",
+      "shortId": "549M5B",
+      "name": "excusemyflaws",
+      "role": "USER",
+      "level": 61
+    },
+    "message": "/wager decline",
+    "timestamp": "2026-05-09T01:26:02.784Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "8685e1d3-c485-4f8c-9e7f-55fa5f66839d",
+      "shortId": "549M5B",
+      "name": "excusemyflaws",
+      "role": "USER",
+      "level": 61
+    },
+    "message": "/cancelwager",
+    "timestamp": "2026-05-09T01:26:16.645Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "8685e1d3-c485-4f8c-9e7f-55fa5f66839d",
+      "shortId": "549M5B",
+      "name": "excusemyflaws",
+      "role": "USER",
+      "level": 61
+    },
+    "message": "i almost failed for that ngl",
+    "timestamp": "2026-05-09T01:26:28.442Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "8685e1d3-c485-4f8c-9e7f-55fa5f66839d",
+      "shortId": "549M5B",
+      "name": "excusemyflaws",
+      "role": "USER",
+      "level": 61
+    },
+    "message": "wager [Rainy||BODY_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-09T01:29:49.291Z"
   }
 ]
