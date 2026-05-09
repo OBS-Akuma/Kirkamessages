@@ -334,5 +334,53 @@
     },
     "message": "/price [Puppet||BODY_SKIN|MYTHICAL]",
     "timestamp": "2026-05-08T22:51:47.367Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "2d057859-f79e-4ba4-825b-4c368a83535c",
+      "shortId": "4F03MQ",
+      "name": "The_Re@per",
+      "role": "USER",
+      "level": 58
+    },
+    "message": "can I have 100k",
+    "timestamp": "2026-05-09T02:53:12.480Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "2d057859-f79e-4ba4-825b-4c368a83535c",
+      "shortId": "4F03MQ",
+      "name": "The_Re@per",
+      "role": "USER",
+      "level": 58
+    },
+    "message": "yo guy",
+    "timestamp": "2026-05-09T03:43:56.937Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "2d057859-f79e-4ba4-825b-4c368a83535c",
+      "shortId": "4F03MQ",
+      "name": "The_Re@per",
+      "role": "USER",
+      "level": 58
+    },
+    "message": "guess wut",
+    "timestamp": "2026-05-09T03:44:03.156Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "2d057859-f79e-4ba4-825b-4c368a83535c",
+      "shortId": "4F03MQ",
+      "name": "The_Re@per",
+      "role": "USER",
+      "level": 58
+    },
+    "message": "I'm broke",
+    "timestamp": "2026-05-09T03:44:12.336Z"
   }
 ]
