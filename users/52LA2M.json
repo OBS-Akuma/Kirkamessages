@@ -1,0 +1,26 @@
+[
+  {
+    "type": 2,
+    "user": {
+      "id": "guest-a15ce0d3-e0d5-485d-96a0-c0c48602c6ef",
+      "shortId": "52LA2M",
+      "name": "hieusuper",
+      "role": "USER",
+      "level": 8
+    },
+    "message": "hello",
+    "timestamp": "2026-05-09T05:29:19.437Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "guest-a15ce0d3-e0d5-485d-96a0-c0c48602c6ef",
+      "shortId": "52LA2M",
+      "name": "hieusuper",
+      "role": "USER",
+      "level": 8
+    },
+    "message": "gift me ID",
+    "timestamp": "2026-05-09T05:29:31.299Z"
+  }
+]
