@@ -934,5 +934,53 @@
     },
     "message": "/enter",
     "timestamp": "2026-05-08T08:39:43.822Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "0775331c-8ae7-42de-b216-507402c39976",
+      "shortId": "YY9IF7",
+      "name": "PICKLEWICKEL",
+      "role": "USER",
+      "level": 89
+    },
+    "message": "[Boo||BODY_SKIN|LEGENDARY]",
+    "timestamp": "2026-05-09T01:21:15.473Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "0775331c-8ae7-42de-b216-507402c39976",
+      "shortId": "YY9IF7",
+      "name": "PICKLEWICKEL",
+      "role": "USER",
+      "level": 89
+    },
+    "message": "/hm candle",
+    "timestamp": "2026-05-09T01:21:50.842Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "0775331c-8ae7-42de-b216-507402c39976",
+      "shortId": "YY9IF7",
+      "name": "PICKLEWICKEL",
+      "role": "USER",
+      "level": 89
+    },
+    "message": "/hm skel, mabel, candle, splanch",
+    "timestamp": "2026-05-09T01:23:03.147Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "0775331c-8ae7-42de-b216-507402c39976",
+      "shortId": "YY9IF7",
+      "name": "PICKLEWICKEL",
+      "role": "USER",
+      "level": 89
+    },
+    "message": "/inv",
+    "timestamp": "2026-05-09T01:23:22.180Z"
   }
 ]
