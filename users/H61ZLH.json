@@ -1030,5 +1030,17 @@
     },
     "message": "/hm alighted",
     "timestamp": "2026-05-06T02:19:16.449Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "iDzsd49yqFTGnXi6Sv4GrC2ntX13",
+      "shortId": "H61ZLH",
+      "name": "Chuck",
+      "role": "USER",
+      "level": 88
+    },
+    "message": "kirkabot-0x85ded5",
+    "timestamp": "2026-05-09T02:52:24.091Z"
   }
 ]
