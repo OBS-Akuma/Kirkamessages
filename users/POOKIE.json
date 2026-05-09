@@ -1822,5 +1822,149 @@
     },
     "message": "# 1 clan in the game",
     "timestamp": "2026-05-08T05:13:24.326Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "7b609f0d-49c0-45b7-b15d-9934489db3d9",
+      "shortId": "POOKIE",
+      "name": "_Nxt",
+      "role": "USER",
+      "level": 99
+    },
+    "message": "yo",
+    "timestamp": "2026-05-09T03:32:41.429Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "7b609f0d-49c0-45b7-b15d-9934489db3d9",
+      "shortId": "POOKIE",
+      "name": "_Nxt",
+      "role": "USER",
+      "level": 99
+    },
+    "message": "we can alternate?",
+    "timestamp": "2026-05-09T03:32:51.055Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "7b609f0d-49c0-45b7-b15d-9934489db3d9",
+      "shortId": "POOKIE",
+      "name": "_Nxt",
+      "role": "USER",
+      "level": 99
+    },
+    "message": "u flip first",
+    "timestamp": "2026-05-09T03:32:54.229Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "7b609f0d-49c0-45b7-b15d-9934489db3d9",
+      "shortId": "POOKIE",
+      "name": "_Nxt",
+      "role": "USER",
+      "level": 99
+    },
+    "message": "/flip",
+    "timestamp": "2026-05-09T03:33:01.772Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "7b609f0d-49c0-45b7-b15d-9934489db3d9",
+      "shortId": "POOKIE",
+      "name": "_Nxt",
+      "role": "USER",
+      "level": 99
+    },
+    "message": "/flip 1-2",
+    "timestamp": "2026-05-09T03:33:08.976Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "7b609f0d-49c0-45b7-b15d-9934489db3d9",
+      "shortId": "POOKIE",
+      "name": "_Nxt",
+      "role": "USER",
+      "level": 99
+    },
+    "message": "/flip 3-2",
+    "timestamp": "2026-05-09T03:33:13.584Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "7b609f0d-49c0-45b7-b15d-9934489db3d9",
+      "shortId": "POOKIE",
+      "name": "_Nxt",
+      "role": "USER",
+      "level": 99
+    },
+    "message": "/flip",
+    "timestamp": "2026-05-09T03:33:15.668Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "7b609f0d-49c0-45b7-b15d-9934489db3d9",
+      "shortId": "POOKIE",
+      "name": "_Nxt",
+      "role": "USER",
+      "level": 99
+    },
+    "message": "/flip 4-3",
+    "timestamp": "2026-05-09T03:33:23.420Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "7b609f0d-49c0-45b7-b15d-9934489db3d9",
+      "shortId": "POOKIE",
+      "name": "_Nxt",
+      "role": "USER",
+      "level": 99
+    },
+    "message": "gg",
+    "timestamp": "2026-05-09T03:33:29.356Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "7b609f0d-49c0-45b7-b15d-9934489db3d9",
+      "shortId": "POOKIE",
+      "name": "_Nxt",
+      "role": "USER",
+      "level": 99
+    },
+    "message": "anything else",
+    "timestamp": "2026-05-09T03:33:48.917Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "7b609f0d-49c0-45b7-b15d-9934489db3d9",
+      "shortId": "POOKIE",
+      "name": "_Nxt",
+      "role": "USER",
+      "level": 99
+    },
+    "message": "candle for anything",
+    "timestamp": "2026-05-09T03:33:51.677Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "7b609f0d-49c0-45b7-b15d-9934489db3d9",
+      "shortId": "POOKIE",
+      "name": "_Nxt",
+      "role": "USER",
+      "level": 99
+    },
+    "message": "fs",
+    "timestamp": "2026-05-09T03:33:55.467Z"
   }
 ]
