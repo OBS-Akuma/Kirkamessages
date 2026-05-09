@@ -22,5 +22,17 @@
     },
     "message": "yo overlord",
     "timestamp": "2026-05-08T10:35:24.114Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "AlzfWHE7wLd0H1GJaDMHdgqkREM2",
+      "shortId": "FFAHG8",
+      "name": "BrilliantWizar",
+      "role": "USER",
+      "level": 84
+    },
+    "message": "yawn",
+    "timestamp": "2026-05-09T04:38:13.224Z"
   }
 ]
