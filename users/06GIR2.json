@@ -382,5 +382,29 @@
     },
     "message": "taurus tartarus",
     "timestamp": "2026-05-08T11:01:48.181Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "9252167f-acb3-4f72-975f-49b97a8df81a",
+      "shortId": "06GIR2",
+      "name": "Mya!",
+      "role": "USER",
+      "level": 81
+    },
+    "message": "im gonna double my golden until it reaches 16384",
+    "timestamp": "2026-05-09T02:38:52.640Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "9252167f-acb3-4f72-975f-49b97a8df81a",
+      "shortId": "06GIR2",
+      "name": "Mya!",
+      "role": "USER",
+      "level": 81
+    },
+    "message": "its just 1 goldeen",
+    "timestamp": "2026-05-09T02:39:48.757Z"
   }
 ]
