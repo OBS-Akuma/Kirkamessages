@@ -370,5 +370,161 @@
     },
     "message": "ima try",
     "timestamp": "2026-05-03T15:57:37.988Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "fd75f84e-e218-4b57-a35f-53bc4216c6f1",
+      "shortId": "THEUNC",
+      "name": "Izzy",
+      "role": "USER",
+      "level": 99
+    },
+    "message": "anyone wanna wager",
+    "timestamp": "2026-05-09T02:42:49.896Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "fd75f84e-e218-4b57-a35f-53bc4216c6f1",
+      "shortId": "THEUNC",
+      "name": "Izzy",
+      "role": "USER",
+      "level": 99
+    },
+    "message": "anyone wanna wager ?",
+    "timestamp": "2026-05-09T02:43:31.673Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "fd75f84e-e218-4b57-a35f-53bc4216c6f1",
+      "shortId": "THEUNC",
+      "name": "Izzy",
+      "role": "USER",
+      "level": 99
+    },
+    "message": "/wager [Paypay||BODY_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-09T02:44:20.497Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "fd75f84e-e218-4b57-a35f-53bc4216c6f1",
+      "shortId": "THEUNC",
+      "name": "Izzy",
+      "role": "USER",
+      "level": 99
+    },
+    "message": "/wager [Paypay||BODY_SKIN|MYTHICAL]x1",
+    "timestamp": "2026-05-09T02:44:29.909Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "fd75f84e-e218-4b57-a35f-53bc4216c6f1",
+      "shortId": "THEUNC",
+      "name": "Izzy",
+      "role": "USER",
+      "level": 99
+    },
+    "message": "/wager [Paypay||BODY_SKIN|MYTHICAL]x1 #9SRIUY",
+    "timestamp": "2026-05-09T02:44:55.046Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "fd75f84e-e218-4b57-a35f-53bc4216c6f1",
+      "shortId": "THEUNC",
+      "name": "Izzy",
+      "role": "USER",
+      "level": 99
+    },
+    "message": "?",
+    "timestamp": "2026-05-09T02:46:06.293Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "fd75f84e-e218-4b57-a35f-53bc4216c6f1",
+      "shortId": "THEUNC",
+      "name": "Izzy",
+      "role": "USER",
+      "level": 99
+    },
+    "message": "/wager [Paypay||BODY_SKIN|MYTHICAL]x1 #9SRIUY",
+    "timestamp": "2026-05-09T02:46:31.329Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "fd75f84e-e218-4b57-a35f-53bc4216c6f1",
+      "shortId": "THEUNC",
+      "name": "Izzy",
+      "role": "USER",
+      "level": 99
+    },
+    "message": "you're not even spelling it right",
+    "timestamp": "2026-05-09T02:47:01.186Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "fd75f84e-e218-4b57-a35f-53bc4216c6f1",
+      "shortId": "THEUNC",
+      "name": "Izzy",
+      "role": "USER",
+      "level": 99
+    },
+    "message": "/izzy",
+    "timestamp": "2026-05-09T02:47:35.051Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "fd75f84e-e218-4b57-a35f-53bc4216c6f1",
+      "shortId": "THEUNC",
+      "name": "Izzy",
+      "role": "USER",
+      "level": 99
+    },
+    "message": "was that a scam attempt?",
+    "timestamp": "2026-05-09T02:48:03.845Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "fd75f84e-e218-4b57-a35f-53bc4216c6f1",
+      "shortId": "THEUNC",
+      "name": "Izzy",
+      "role": "USER",
+      "level": 99
+    },
+    "message": "anyone wanna wager?",
+    "timestamp": "2026-05-09T02:48:41.507Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "fd75f84e-e218-4b57-a35f-53bc4216c6f1",
+      "shortId": "THEUNC",
+      "name": "Izzy",
+      "role": "USER",
+      "level": 99
+    },
+    "message": "?",
+    "timestamp": "2026-05-09T02:49:07.931Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "fd75f84e-e218-4b57-a35f-53bc4216c6f1",
+      "shortId": "THEUNC",
+      "name": "Izzy",
+      "role": "USER",
+      "level": 99
+    },
+    "message": "i dont have it",
+    "timestamp": "2026-05-09T02:49:18.397Z"
   }
 ]
