@@ -562,5 +562,53 @@
     },
     "message": "ye",
     "timestamp": "2026-05-09T01:29:17.231Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "633bb881-9ddb-4a66-b04a-dcae9680b0b0",
+      "shortId": "NOK9UD",
+      "name": "Aimbot",
+      "role": "USER",
+      "level": 86
+    },
+    "message": "wat",
+    "timestamp": "2026-05-09T01:30:26.495Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "633bb881-9ddb-4a66-b04a-dcae9680b0b0",
+      "shortId": "NOK9UD",
+      "name": "Aimbot",
+      "role": "USER",
+      "level": 86
+    },
+    "message": "trading [Imperial|SCAR|WEAPON_SKIN|MYTHICAL][Vocaloid|SCAR|WEAPON_SKIN|LEGENDARY][Oblivion|SCAR|WEAPON_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-09T01:30:51.813Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "633bb881-9ddb-4a66-b04a-dcae9680b0b0",
+      "shortId": "NOK9UD",
+      "name": "Aimbot",
+      "role": "USER",
+      "level": 86
+    },
+    "message": "trading [Elysian|Shark|WEAPON_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-09T01:32:03.760Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "633bb881-9ddb-4a66-b04a-dcae9680b0b0",
+      "shortId": "NOK9UD",
+      "name": "Aimbot",
+      "role": "USER",
+      "level": 86
+    },
+    "message": "id wager sry",
+    "timestamp": "2026-05-09T01:32:35.919Z"
   }
 ]
