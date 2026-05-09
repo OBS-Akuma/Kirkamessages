@@ -34,5 +34,17 @@
     },
     "message": "/inv #IH4TOS",
     "timestamp": "2026-05-08T09:39:26.985Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "cDX18bEOPWcYvl5BOrmZmFU9npF3",
+      "shortId": "IH4TOS",
+      "name": "DARKBLADE77",
+      "role": "USER",
+      "level": 74
+    },
+    "message": "/hm [Jade|Bayonet|WEAPON_SKIN|MYTHICAL]x1",
+    "timestamp": "2026-05-09T04:45:01.207Z"
   }
 ]
