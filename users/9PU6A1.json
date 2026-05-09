@@ -22,5 +22,17 @@
     },
     "message": "hii wizz rizz",
     "timestamp": "2026-05-08T10:56:00.705Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "f4ee79aa-6e34-4add-9bb3-82f9d66d11c0",
+      "shortId": "9PU6A1",
+      "name": "Spicy",
+      "role": "USER",
+      "level": 66
+    },
+    "message": "hi saint pookie",
+    "timestamp": "2026-05-09T16:19:47.174Z"
   }
 ]
