@@ -22,5 +22,17 @@
     },
     "message": "[Vink||BODY_SKIN|MYTHICAL]",
     "timestamp": "2026-05-10T17:33:02.107Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "d75a2972-f8e9-40bf-be62-07c4a79cb4f0",
+      "shortId": "KRNZJH",
+      "name": "Fae_",
+      "role": "USER",
+      "level": 89
+    },
+    "message": "Trading [Wiggleworp|VITA|WEAPON_SKIN|PARANORMAL]",
+    "timestamp": "2026-05-10T18:36:56.881Z"
   }
 ]
