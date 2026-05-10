@@ -334,5 +334,17 @@
     },
     "message": "como estas",
     "timestamp": "2026-05-09T03:19:06.822Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "2fde3233-4f8a-4e77-bd7e-61070f06f116",
+      "shortId": "A9IZ40",
+      "name": "Evilspider333",
+      "role": "USER",
+      "level": 12
+    },
+    "message": "hola",
+    "timestamp": "2026-05-10T20:57:24.539Z"
   }
 ]
