@@ -1,0 +1,38 @@
+[
+  {
+    "type": 2,
+    "user": {
+      "id": "3e8a233d-bbe2-4d86-a1bd-f7b3082c70e9",
+      "shortId": "NLR6BI",
+      "name": "DARKWOLF-O_O",
+      "role": "USER",
+      "level": 10
+    },
+    "message": "trade accept 80152",
+    "timestamp": "2026-05-10T17:43:24.048Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "3e8a233d-bbe2-4d86-a1bd-f7b3082c70e9",
+      "shortId": "NLR6BI",
+      "name": "DARKWOLF-O_O",
+      "role": "USER",
+      "level": 10
+    },
+    "message": "trade accept 93785",
+    "timestamp": "2026-05-10T17:43:45.885Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "3e8a233d-bbe2-4d86-a1bd-f7b3082c70e9",
+      "shortId": "NLR6BI",
+      "name": "DARKWOLF-O_O",
+      "role": "USER",
+      "level": 10
+    },
+    "message": "sup",
+    "timestamp": "2026-05-10T17:43:55.689Z"
+  }
+]
