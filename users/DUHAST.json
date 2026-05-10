@@ -1152,5 +1152,17 @@
     },
     "message": "/inv",
     "timestamp": "2026-05-10T21:14:50.946Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "b3e46a65-3682-40c5-8a7b-b4af725fa333",
+      "shortId": "DUHAST",
+      "name": "Rammstein",
+      "role": "USER",
+      "level": 80
+    },
+    "message": "/Locate [Chromium|Bayonet|WEAPON_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-10T22:54:16.110Z"
   }
 ]
