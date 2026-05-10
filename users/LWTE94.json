@@ -337,5 +337,29 @@
     },
     "message": "LF [Lor||BODY_SKIN|LEGENDARY]",
     "timestamp": "2026-05-08T09:27:44.716Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "82e99c4e-d502-4a8a-aa7d-814fa0387633",
+      "shortId": "LWTE94",
+      "name": "WALF",
+      "role": "USER",
+      "level": 95
+    },
+    "message": "LF [Lor||BODY_SKIN|LEGENDARY] trading my inv",
+    "timestamp": "2026-05-10T18:44:10.852Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "82e99c4e-d502-4a8a-aa7d-814fa0387633",
+      "shortId": "LWTE94",
+      "name": "WALF",
+      "role": "USER",
+      "level": 95
+    },
+    "message": "/price [Onryo||BODY_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-10T18:45:01.626Z"
   }
 ]
