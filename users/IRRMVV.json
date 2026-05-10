@@ -130,5 +130,65 @@
     },
     "message": "/price rainy",
     "timestamp": "2026-05-08T07:19:30.312Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "4207d12e-c22a-4b15-951d-f55b923175c6",
+      "shortId": "IRRMVV",
+      "name": "LeftYourSoul",
+      "role": "USER",
+      "level": 69
+    },
+    "message": "/price moltorat",
+    "timestamp": "2026-05-10T18:39:34.631Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "4207d12e-c22a-4b15-951d-f55b923175c6",
+      "shortId": "IRRMVV",
+      "name": "LeftYourSoul",
+      "role": "USER",
+      "level": 69
+    },
+    "message": "/price cvctail",
+    "timestamp": "2026-05-10T18:41:22.338Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "4207d12e-c22a-4b15-951d-f55b923175c6",
+      "shortId": "IRRMVV",
+      "name": "LeftYourSoul",
+      "role": "USER",
+      "level": 69
+    },
+    "message": "/price ceru",
+    "timestamp": "2026-05-10T18:41:52.232Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "4207d12e-c22a-4b15-951d-f55b923175c6",
+      "shortId": "IRRMVV",
+      "name": "LeftYourSoul",
+      "role": "USER",
+      "level": 69
+    },
+    "message": "/it moltroat",
+    "timestamp": "2026-05-10T18:42:05.423Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "4207d12e-c22a-4b15-951d-f55b923175c6",
+      "shortId": "IRRMVV",
+      "name": "LeftYourSoul",
+      "role": "USER",
+      "level": 69
+    },
+    "message": "/price anon",
+    "timestamp": "2026-05-10T18:42:17.244Z"
   }
 ]
