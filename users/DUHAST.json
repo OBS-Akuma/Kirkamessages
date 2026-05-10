@@ -636,5 +636,53 @@
     },
     "message": "#8RN1LD 4 remain singu available. I will try to get it.",
     "timestamp": "2026-05-08T08:45:48.072Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "b3e46a65-3682-40c5-8a7b-b4af725fa333",
+      "shortId": "DUHAST",
+      "name": "Rammstein",
+      "role": "USER",
+      "level": 79
+    },
+    "message": "?",
+    "timestamp": "2026-05-10T07:00:27.598Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "b3e46a65-3682-40c5-8a7b-b4af725fa333",
+      "shortId": "DUHAST",
+      "name": "Rammstein",
+      "role": "USER",
+      "level": 79
+    },
+    "message": "mmm",
+    "timestamp": "2026-05-10T07:00:44.314Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "b3e46a65-3682-40c5-8a7b-b4af725fa333",
+      "shortId": "DUHAST",
+      "name": "Rammstein",
+      "role": "USER",
+      "level": 79
+    },
+    "message": "what ur offer ?",
+    "timestamp": "2026-05-10T07:00:50.827Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "b3e46a65-3682-40c5-8a7b-b4af725fa333",
+      "shortId": "DUHAST",
+      "name": "Rammstein",
+      "role": "USER",
+      "level": 79
+    },
+    "message": "/Locate [Silver Bullet|VITA|WEAPON_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-10T07:02:32.120Z"
   }
 ]
