@@ -1150,5 +1150,29 @@
     },
     "message": "/hm phantom",
     "timestamp": "2026-05-10T17:24:40.870Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "1c9cf342-5e36-47ce-86d7-096f4170995e",
+      "shortId": "2MHNQX",
+      "name": "Midnight",
+      "role": "USER",
+      "level": 101
+    },
+    "message": "/price champion",
+    "timestamp": "2026-05-10T21:36:53.063Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "1c9cf342-5e36-47ce-86d7-096f4170995e",
+      "shortId": "2MHNQX",
+      "name": "Midnight",
+      "role": "USER",
+      "level": 101
+    },
+    "message": "/hm blackhole",
+    "timestamp": "2026-05-10T21:37:15.596Z"
   }
 ]
