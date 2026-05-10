@@ -58,5 +58,29 @@
     },
     "message": "#QHVNOP",
     "timestamp": "2026-05-09T03:36:51.787Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "9760c58b-fc34-425a-8d81-a957ad5a75c1",
+      "shortId": "CARSON",
+      "name": "carson",
+      "role": "USER",
+      "level": 98
+    },
+    "message": "/inv",
+    "timestamp": "2026-05-10T02:15:23.536Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "9760c58b-fc34-425a-8d81-a957ad5a75c1",
+      "shortId": "CARSON",
+      "name": "carson",
+      "role": "USER",
+      "level": 98
+    },
+    "message": "looking for [Labyrinth|VITA|WEAPON_SKIN|LEGENDARY]",
+    "timestamp": "2026-05-10T02:19:47.111Z"
   }
 ]
