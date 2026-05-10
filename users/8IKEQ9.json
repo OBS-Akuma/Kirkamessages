@@ -1,0 +1,26 @@
+[
+  {
+    "type": 2,
+    "user": {
+      "id": "d486b068-050b-45fb-abef-1d6d6c8a19c9",
+      "shortId": "8IKEQ9",
+      "name": "Soup",
+      "role": "USER",
+      "level": 96
+    },
+    "message": "#9IVB75",
+    "timestamp": "2026-05-10T22:46:21.489Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "d486b068-050b-45fb-abef-1d6d6c8a19c9",
+      "shortId": "8IKEQ9",
+      "name": "Soup",
+      "role": "USER",
+      "level": 96
+    },
+    "message": "#WF5447",
+    "timestamp": "2026-05-10T22:48:09.119Z"
+  }
+]
