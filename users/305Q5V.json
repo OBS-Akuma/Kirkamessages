@@ -598,5 +598,137 @@
     },
     "message": "Yes nova",
     "timestamp": "2026-05-09T05:44:27.676Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "4b789cea-e6d0-4391-bab3-a43b716b6a1a",
+      "shortId": "305Q5V",
+      "name": "GxdLJONATHAN03",
+      "role": "USER",
+      "level": 96
+    },
+    "message": "/#1BY7KM inv",
+    "timestamp": "2026-05-10T02:13:07.413Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "4b789cea-e6d0-4391-bab3-a43b716b6a1a",
+      "shortId": "305Q5V",
+      "name": "GxdLJONATHAN03",
+      "role": "USER",
+      "level": 96
+    },
+    "message": "#1BY7KM /inv",
+    "timestamp": "2026-05-10T02:13:25.624Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "4b789cea-e6d0-4391-bab3-a43b716b6a1a",
+      "shortId": "305Q5V",
+      "name": "GxdLJONATHAN03",
+      "role": "USER",
+      "level": 96
+    },
+    "message": "#1BY7KM/inv price",
+    "timestamp": "2026-05-10T02:14:20.544Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "4b789cea-e6d0-4391-bab3-a43b716b6a1a",
+      "shortId": "305Q5V",
+      "name": "GxdLJONATHAN03",
+      "role": "USER",
+      "level": 96
+    },
+    "message": "/#1BY7KM inv price",
+    "timestamp": "2026-05-10T02:14:46.004Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "4b789cea-e6d0-4391-bab3-a43b716b6a1a",
+      "shortId": "305Q5V",
+      "name": "GxdLJONATHAN03",
+      "role": "USER",
+      "level": 96
+    },
+    "message": "/inv price",
+    "timestamp": "2026-05-10T02:15:13.410Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "4b789cea-e6d0-4391-bab3-a43b716b6a1a",
+      "shortId": "305Q5V",
+      "name": "GxdLJONATHAN03",
+      "role": "USER",
+      "level": 96
+    },
+    "message": "/my inventory",
+    "timestamp": "2026-05-10T02:15:25.214Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "4b789cea-e6d0-4391-bab3-a43b716b6a1a",
+      "shortId": "305Q5V",
+      "name": "GxdLJONATHAN03",
+      "role": "USER",
+      "level": 96
+    },
+    "message": "Pepe ??",
+    "timestamp": "2026-05-10T02:16:13.760Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "4b789cea-e6d0-4391-bab3-a43b716b6a1a",
+      "shortId": "305Q5V",
+      "name": "GxdLJONATHAN03",
+      "role": "USER",
+      "level": 96
+    },
+    "message": "Okok",
+    "timestamp": "2026-05-10T02:16:30.803Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "4b789cea-e6d0-4391-bab3-a43b716b6a1a",
+      "shortId": "305Q5V",
+      "name": "GxdLJONATHAN03",
+      "role": "USER",
+      "level": 96
+    },
+    "message": "Can u accept my trade",
+    "timestamp": "2026-05-10T02:16:38.971Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "4b789cea-e6d0-4391-bab3-a43b716b6a1a",
+      "shortId": "305Q5V",
+      "name": "GxdLJONATHAN03",
+      "role": "USER",
+      "level": 96
+    },
+    "message": "/[Dragonic SCAR|SCAR|WEAPON_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-10T02:17:09.257Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "4b789cea-e6d0-4391-bab3-a43b716b6a1a",
+      "shortId": "305Q5V",
+      "name": "GxdLJONATHAN03",
+      "role": "USER",
+      "level": 96
+    },
+    "message": "??",
+    "timestamp": "2026-05-10T02:17:13.070Z"
   }
 ]
