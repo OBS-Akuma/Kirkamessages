@@ -1700,7 +1700,7 @@
       "role": "USER",
       "level": 50
     },
-    "message": "ÃÂÃÂ°ÃÂÃÂÃÂÃÂªÃÂÃÂ¦",
+    "message": "ÃÂÃÂÃÂÃÂ°ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂªÃÂÃÂÃÂÃÂ¦",
     "timestamp": "2026-05-09T04:27:48.257Z"
   },
   {
@@ -2626,5 +2626,41 @@
     },
     "message": "tr[Anon||BODY_SKIN|MYTHICAL][2026 Shark|Shark|WEAPON_SKIN|PARANORMAL] lf [Bound|AR-9|WEAPON_SKIN|MYTHICAL][V0id||BODY_SKIN|MYTHICAL][Static|VITA|WEAPON_SKIN|MYTHICAL][Yuki||BODY_SKIN|MYTHICAL]",
     "timestamp": "2026-05-10T07:10:23.416Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "c44c225b-f00c-4241-a00a-7df482258197",
+      "shortId": "IJ1L09",
+      "name": "[MGD]Wizar",
+      "role": "USER",
+      "level": 51
+    },
+    "message": "tr[Anon||BODY_SKIN|MYTHICAL][2026 Shark|Shark|WEAPON_SKIN|PARANORMAL] lf [Bound|AR-9|WEAPON_SKIN|MYTHICAL][V0id||BODY_SKIN|MYTHICAL][Static|VITA|WEAPON_SKIN|MYTHICAL][Yuki||BODY_SKIN|MYTHICAL].",
+    "timestamp": "2026-05-10T07:13:16.809Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "c44c225b-f00c-4241-a00a-7df482258197",
+      "shortId": "IJ1L09",
+      "name": "[MGD]Wizar",
+      "role": "USER",
+      "level": 51
+    },
+    "message": "tr[Anon||BODY_SKIN|MYTHICAL][2026 Shark|Shark|WEAPON_SKIN|PARANORMAL] lf [Bound|AR-9|WEAPON_SKIN|MYTHICAL][V0id||BODY_SKIN|MYTHICAL][Static|VITA|WEAPON_SKIN|MYTHICAL][Yuki||BODY_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-10T07:16:55.240Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "c44c225b-f00c-4241-a00a-7df482258197",
+      "shortId": "IJ1L09",
+      "name": "[MGD]Wizar",
+      "role": "USER",
+      "level": 51
+    },
+    "message": "tr[Anon||BODY_SKIN|MYTHICAL][2026 Shark|Shark|WEAPON_SKIN|PARANORMAL] lf [Bound|AR-9|WEAPON_SKIN|MYTHICAL][V0id||BODY_SKIN|MYTHICAL][Static|VITA|WEAPON_SKIN|MYTHICAL][Yuki||BODY_SKIN|MYTHICAL].",
+    "timestamp": "2026-05-10T07:18:20.233Z"
   }
 ]
