@@ -58,5 +58,17 @@
     },
     "message": "/hm momo",
     "timestamp": "2026-05-10T18:22:47.187Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "e6f1092a-d1c9-4698-905b-5e4797995800",
+      "shortId": "CBBOE7",
+      "name": "tmmor",
+      "role": "USER",
+      "level": 57
+    },
+    "message": "tr [Honey|Bayonet|WEAPON_SKIN|MYTHICAL] [Or|Bayonet|WEAPON_SKIN|MYTHICAL] [2024|Bayonet|WEAPON_SKIN|MYTHICAL] [Jade|Bayonet|WEAPON_SKIN|MYTHICAL] [Cornfield|Bayonet|WEAPON_SKIN|MYTHICAL] lf [Golden||CHEST|LEGENDARY]",
+    "timestamp": "2026-05-10T21:59:45.351Z"
   }
 ]
