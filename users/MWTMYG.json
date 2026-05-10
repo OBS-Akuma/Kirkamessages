@@ -1,0 +1,38 @@
+[
+  {
+    "type": 2,
+    "user": {
+      "id": "guest-28b34459-c6cc-4211-833e-cca843525f27",
+      "shortId": "MWTMYG",
+      "name": "Newbie",
+      "role": "USER",
+      "level": 75
+    },
+    "message": "nova can u tell me how to trade?",
+    "timestamp": "2026-05-10T06:56:27.701Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "guest-28b34459-c6cc-4211-833e-cca843525f27",
+      "shortId": "MWTMYG",
+      "name": "Newbie",
+      "role": "USER",
+      "level": 75
+    },
+    "message": "i want ur ghillie",
+    "timestamp": "2026-05-10T06:56:39.940Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "guest-28b34459-c6cc-4211-833e-cca843525f27",
+      "shortId": "MWTMYG",
+      "name": "Newbie",
+      "role": "USER",
+      "level": 75
+    },
+    "message": "/hm melody",
+    "timestamp": "2026-05-10T07:16:47.217Z"
+  }
+]
