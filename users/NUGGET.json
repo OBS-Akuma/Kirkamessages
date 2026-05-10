@@ -2747,5 +2747,41 @@
     },
     "message": "/inv",
     "timestamp": "2026-05-10T17:36:33.284Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "7f2a6090-abcb-48a7-8838-88ee8111b261",
+      "shortId": "NUGGET",
+      "name": "Akuma :3",
+      "role": "USER",
+      "level": 57
+    },
+    "message": "#MST5WM",
+    "timestamp": "2026-05-10T17:50:04.004Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "7f2a6090-abcb-48a7-8838-88ee8111b261",
+      "shortId": "NUGGET",
+      "name": "Akuma :3",
+      "role": "USER",
+      "level": 57
+    },
+    "message": "#YZE9GU",
+    "timestamp": "2026-05-10T17:51:47.629Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "7f2a6090-abcb-48a7-8838-88ee8111b261",
+      "shortId": "NUGGET",
+      "name": "Akuma :3",
+      "role": "USER",
+      "level": 57
+    },
+    "message": "#VVUQRY",
+    "timestamp": "2026-05-10T17:56:27.400Z"
   }
 ]
