@@ -1,0 +1,26 @@
+[
+  {
+    "type": 2,
+    "user": {
+      "id": "guest-fd45fe01-e033-4840-ae91-3a4d6cb0ab69",
+      "shortId": "I6GAJM",
+      "name": "CosmicTABLET",
+      "role": "USER",
+      "level": 7
+    },
+    "message": "Trading wood lf overpays",
+    "timestamp": "2026-05-10T18:02:32.850Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "guest-fd45fe01-e033-4840-ae91-3a4d6cb0ab69",
+      "shortId": "I6GAJM",
+      "name": "CosmicTABLET",
+      "role": "USER",
+      "level": 7
+    },
+    "message": "Can someone overpay for my wood?",
+    "timestamp": "2026-05-10T18:02:54.933Z"
+  }
+]
