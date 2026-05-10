@@ -10,5 +10,41 @@
     },
     "message": "trading [Slasher||BODY_SKIN|PARANORMAL] [Firedemon||BODY_SKIN|LEGENDARY][red witch]",
     "timestamp": "2026-05-06T02:51:50.095Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "1b11cbe3-1e5b-405a-be00-261152eedc05",
+      "shortId": "T1XGMG",
+      "name": "j..........",
+      "role": "USER",
+      "level": 92
+    },
+    "message": "/price [worlord]",
+    "timestamp": "2026-05-10T23:09:38.975Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "1b11cbe3-1e5b-405a-be00-261152eedc05",
+      "shortId": "T1XGMG",
+      "name": "j..........",
+      "role": "USER",
+      "level": 92
+    },
+    "message": "/price [Warlord||BODY_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-10T23:09:46.961Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "1b11cbe3-1e5b-405a-be00-261152eedc05",
+      "shortId": "T1XGMG",
+      "name": "j..........",
+      "role": "USER",
+      "level": 92
+    },
+    "message": "#NM3VUO i have 1",
+    "timestamp": "2026-05-10T23:19:59.222Z"
   }
 ]
