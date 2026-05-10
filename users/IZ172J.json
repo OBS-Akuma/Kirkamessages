@@ -202,5 +202,41 @@
     },
     "message": "[Dragon||BODY_SKIN|MYTHICAL]",
     "timestamp": "2026-05-07T22:01:04.194Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "13b24829-c64d-419c-be63-d763f6e055c4",
+      "shortId": "IZ172J",
+      "name": "Fear",
+      "role": "USER",
+      "level": 46
+    },
+    "message": "/hm maze",
+    "timestamp": "2026-05-09T17:00:15.667Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "13b24829-c64d-419c-be63-d763f6e055c4",
+      "shortId": "IZ172J",
+      "name": "Fear",
+      "role": "USER",
+      "level": 46
+    },
+    "message": "/hm Gollem",
+    "timestamp": "2026-05-09T17:00:39.943Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "13b24829-c64d-419c-be63-d763f6e055c4",
+      "shortId": "IZ172J",
+      "name": "Fear",
+      "role": "USER",
+      "level": 46
+    },
+    "message": "/hm pollen",
+    "timestamp": "2026-05-09T17:01:18.359Z"
   }
 ]
