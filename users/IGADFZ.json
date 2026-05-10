@@ -1714,5 +1714,41 @@
     },
     "message": "/price kouronami",
     "timestamp": "2026-05-10T17:12:10.054Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "34f8f3a3-088e-45dd-badd-4e80aca43934",
+      "shortId": "IGADFZ",
+      "name": "Night.",
+      "role": "USER",
+      "level": 66
+    },
+    "message": "/price colour",
+    "timestamp": "2026-05-10T19:17:58.711Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "34f8f3a3-088e-45dd-badd-4e80aca43934",
+      "shortId": "IGADFZ",
+      "name": "Night.",
+      "role": "USER",
+      "level": 66
+    },
+    "message": "/price color",
+    "timestamp": "2026-05-10T19:18:12.158Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "34f8f3a3-088e-45dd-badd-4e80aca43934",
+      "shortId": "IGADFZ",
+      "name": "Night.",
+      "role": "USER",
+      "level": 66
+    },
+    "message": "/price heavy",
+    "timestamp": "2026-05-10T19:18:27.823Z"
   }
 ]
