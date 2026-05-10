@@ -790,5 +790,17 @@
     },
     "message": "ye",
     "timestamp": "2026-05-08T03:45:25.775Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "VFWGM21ZKkQdztfBuSzoKKBRtE43",
+      "shortId": "WANTED",
+      "name": "Abuzar_Muslim",
+      "role": "USER",
+      "level": 97
+    },
+    "message": "kirkabot-0x96a1d1",
+    "timestamp": "2026-05-10T17:22:43.153Z"
   }
 ]
