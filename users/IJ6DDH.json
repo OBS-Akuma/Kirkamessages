@@ -1798,5 +1798,101 @@
     },
     "message": "/enter",
     "timestamp": "2026-05-10T02:37:07.813Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "guest-54be4ece-9e2b-474f-9d38-577976065f54",
+      "shortId": "IJ6DDH",
+      "name": "EGD|Galaxy",
+      "role": "USER",
+      "level": 30
+    },
+    "message": "/price 2026 revolver",
+    "timestamp": "2026-05-10T22:03:06.572Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "guest-54be4ece-9e2b-474f-9d38-577976065f54",
+      "shortId": "IJ6DDH",
+      "name": "EGD|Galaxy",
+      "role": "USER",
+      "level": 30
+    },
+    "message": "/price 2026revolver",
+    "timestamp": "2026-05-10T22:03:23.930Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "guest-54be4ece-9e2b-474f-9d38-577976065f54",
+      "shortId": "IJ6DDH",
+      "name": "EGD|Galaxy",
+      "role": "USER",
+      "level": 30
+    },
+    "message": "/price2025revolver",
+    "timestamp": "2026-05-10T22:03:45.961Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "guest-54be4ece-9e2b-474f-9d38-577976065f54",
+      "shortId": "IJ6DDH",
+      "name": "EGD|Galaxy",
+      "role": "USER",
+      "level": 30
+    },
+    "message": "/hm 2025revolver",
+    "timestamp": "2026-05-10T22:04:09.604Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "guest-54be4ece-9e2b-474f-9d38-577976065f54",
+      "shortId": "IJ6DDH",
+      "name": "EGD|Galaxy",
+      "role": "USER",
+      "level": 30
+    },
+    "message": "-_- are you serious right now pwnstar",
+    "timestamp": "2026-05-10T22:04:39.928Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "guest-54be4ece-9e2b-474f-9d38-577976065f54",
+      "shortId": "IJ6DDH",
+      "name": "EGD|Galaxy",
+      "role": "USER",
+      "level": 30
+    },
+    "message": "/inv",
+    "timestamp": "2026-05-10T22:05:36.234Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "guest-54be4ece-9e2b-474f-9d38-577976065f54",
+      "shortId": "IJ6DDH",
+      "name": "EGD|Galaxy",
+      "role": "USER",
+      "level": 30
+    },
+    "message": "Nah ain't no way I'm broke",
+    "timestamp": "2026-05-10T22:06:03.165Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "guest-54be4ece-9e2b-474f-9d38-577976065f54",
+      "shortId": "IJ6DDH",
+      "name": "EGD|Galaxy",
+      "role": "USER",
+      "level": 30
+    },
+    "message": "Ethong let's play ranked",
+    "timestamp": "2026-05-10T22:07:39.945Z"
   }
 ]
