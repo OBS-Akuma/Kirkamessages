@@ -322,5 +322,41 @@
     },
     "message": "acha",
     "timestamp": "2026-05-07T07:08:43.899Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "d61218ed-bdfe-4ef2-96d6-6c023326a891",
+      "shortId": "0008ZR",
+      "name": "HamzaFahad",
+      "role": "USER",
+      "level": 72
+    },
+    "message": "...",
+    "timestamp": "2026-05-09T16:28:11.770Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "d61218ed-bdfe-4ef2-96d6-6c023326a891",
+      "shortId": "0008ZR",
+      "name": "HamzaFahad",
+      "role": "USER",
+      "level": 72
+    },
+    "message": "trading [Cornfield|Bayonet|WEAPON_SKIN|MYTHICAL] for [Phantom||BODY_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-09T16:55:50.568Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "d61218ed-bdfe-4ef2-96d6-6c023326a891",
+      "shortId": "0008ZR",
+      "name": "HamzaFahad",
+      "role": "USER",
+      "level": 72
+    },
+    "message": "trading [Cornfeild] and [All Spark|Revolver|WEAPON_SKIN|MYTHICAL] for phantom #0008ZR",
+    "timestamp": "2026-05-09T16:57:05.602Z"
   }
 ]
