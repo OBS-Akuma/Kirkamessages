@@ -1510,5 +1510,17 @@
     },
     "message": "u here ?",
     "timestamp": "2026-05-08T10:47:58.342Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "3823c788-8970-4e00-ae41-b7667620cb07",
+      "shortId": "R5OVBZ",
+      "name": "SeductiveSnake",
+      "role": "USER",
+      "level": 31
+    },
+    "message": "/inv #6ONZGP",
+    "timestamp": "2026-05-10T18:12:30.468Z"
   }
 ]
