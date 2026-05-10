@@ -130,5 +130,41 @@
     },
     "message": "/locate [Rubies||BODY_SKIN|MYTHICAL]",
     "timestamp": "2026-05-10T18:26:27.954Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "f11bfc17-5d43-4cf9-9ce3-ffac2dd8ad49",
+      "shortId": "95Z8JR",
+      "name": "TourneyFunding",
+      "role": "USER",
+      "level": 69
+    },
+    "message": "wait hm is queen?",
+    "timestamp": "2026-05-10T19:00:15.219Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "f11bfc17-5d43-4cf9-9ce3-ffac2dd8ad49",
+      "shortId": "95Z8JR",
+      "name": "TourneyFunding",
+      "role": "USER",
+      "level": 69
+    },
+    "message": "ye isn't that a bit high tho?",
+    "timestamp": "2026-05-10T19:00:43.130Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "f11bfc17-5d43-4cf9-9ce3-ffac2dd8ad49",
+      "shortId": "95Z8JR",
+      "name": "TourneyFunding",
+      "role": "USER",
+      "level": 70
+    },
+    "message": "/hm [Heavy|LAR|WEAPON_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-10T19:19:38.121Z"
   }
 ]
