@@ -3706,5 +3706,17 @@
     },
     "message": "there",
     "timestamp": "2026-05-10T17:36:31.951Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "13b9e526-3f3d-429c-a01f-1965066f9fec",
+      "shortId": "BHERYS",
+      "name": "PvP_BYEBYE._.",
+      "role": "USER",
+      "level": 33
+    },
+    "message": "ok accept",
+    "timestamp": "2026-05-10T17:47:32.253Z"
   }
 ]
