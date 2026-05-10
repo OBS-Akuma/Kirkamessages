@@ -3862,5 +3862,773 @@
     },
     "message": "fs nxt",
     "timestamp": "2026-05-10T17:35:11.476Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "33988dd7-9acc-4279-89a5-40343121a95f",
+      "shortId": "7ZBHU4",
+      "name": "bloodyrawr",
+      "role": "USER",
+      "level": 81
+    },
+    "message": "yo anyone got tiburon",
+    "timestamp": "2026-05-10T18:04:34.183Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "33988dd7-9acc-4279-89a5-40343121a95f",
+      "shortId": "7ZBHU4",
+      "name": "bloodyrawr",
+      "role": "USER",
+      "level": 81
+    },
+    "message": "lf wagers",
+    "timestamp": "2026-05-10T18:05:01.803Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "33988dd7-9acc-4279-89a5-40343121a95f",
+      "shortId": "7ZBHU4",
+      "name": "bloodyrawr",
+      "role": "USER",
+      "level": 81
+    },
+    "message": "/flip",
+    "timestamp": "2026-05-10T18:06:15.779Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "33988dd7-9acc-4279-89a5-40343121a95f",
+      "shortId": "7ZBHU4",
+      "name": "bloodyrawr",
+      "role": "USER",
+      "level": 81
+    },
+    "message": "anyone got [Tiburon|Bayonet|WEAPON_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-10T18:06:36.772Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "33988dd7-9acc-4279-89a5-40343121a95f",
+      "shortId": "7ZBHU4",
+      "name": "bloodyrawr",
+      "role": "USER",
+      "level": 81
+    },
+    "message": "wagering [Tiburon|Bayonet|WEAPON_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-10T18:06:50.968Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "33988dd7-9acc-4279-89a5-40343121a95f",
+      "shortId": "7ZBHU4",
+      "name": "bloodyrawr",
+      "role": "USER",
+      "level": 81
+    },
+    "message": "/wager [Tiburon|Bayonet|WEAPON_SKIN|MYTHICAL] #pookie",
+    "timestamp": "2026-05-10T18:08:19.886Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "33988dd7-9acc-4279-89a5-40343121a95f",
+      "shortId": "7ZBHU4",
+      "name": "bloodyrawr",
+      "role": "USER",
+      "level": 81
+    },
+    "message": "beetle",
+    "timestamp": "2026-05-10T18:08:46.692Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "33988dd7-9acc-4279-89a5-40343121a95f",
+      "shortId": "7ZBHU4",
+      "name": "bloodyrawr",
+      "role": "USER",
+      "level": 81
+    },
+    "message": "beetle u got [Melody||BODY_SKIN|MYTHICAL] or [Tiburon|Bayonet|WEAPON_SKIN|MYTHICAL]?",
+    "timestamp": "2026-05-10T18:09:03.896Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "33988dd7-9acc-4279-89a5-40343121a95f",
+      "shortId": "7ZBHU4",
+      "name": "bloodyrawr",
+      "role": "USER",
+      "level": 81
+    },
+    "message": "/wager [Tiburon|Bayonet|WEAPON_SKIN|MYTHICAL] #4CQDEK",
+    "timestamp": "2026-05-10T18:09:23.169Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "33988dd7-9acc-4279-89a5-40343121a95f",
+      "shortId": "7ZBHU4",
+      "name": "bloodyrawr",
+      "role": "USER",
+      "level": 81
+    },
+    "message": "wb u iwn",
+    "timestamp": "2026-05-10T18:09:46.529Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "33988dd7-9acc-4279-89a5-40343121a95f",
+      "shortId": "7ZBHU4",
+      "name": "bloodyrawr",
+      "role": "USER",
+      "level": 81
+    },
+    "message": "/wager [Tiburon|Bayonet|WEAPON_SKIN|MYTHICAL] #8KK5DM",
+    "timestamp": "2026-05-10T18:09:55.755Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "33988dd7-9acc-4279-89a5-40343121a95f",
+      "shortId": "7ZBHU4",
+      "name": "bloodyrawr",
+      "role": "USER",
+      "level": 81
+    },
+    "message": "/dance;wager",
+    "timestamp": "2026-05-10T18:10:11.854Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "33988dd7-9acc-4279-89a5-40343121a95f",
+      "shortId": "7ZBHU4",
+      "name": "bloodyrawr",
+      "role": "USER",
+      "level": 81
+    },
+    "message": "/cancelwager",
+    "timestamp": "2026-05-10T18:10:17.105Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "33988dd7-9acc-4279-89a5-40343121a95f",
+      "shortId": "7ZBHU4",
+      "name": "bloodyrawr",
+      "role": "USER",
+      "level": 81
+    },
+    "message": "wagering [Tiburon|Bayonet|WEAPON_SKIN|MYTHICAL][Melody||BODY_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-10T18:10:29.457Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "33988dd7-9acc-4279-89a5-40343121a95f",
+      "shortId": "7ZBHU4",
+      "name": "bloodyrawr",
+      "role": "USER",
+      "level": 81
+    },
+    "message": "heiko can we wager tiburon",
+    "timestamp": "2026-05-10T18:11:12.569Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "33988dd7-9acc-4279-89a5-40343121a95f",
+      "shortId": "7ZBHU4",
+      "name": "bloodyrawr",
+      "role": "USER",
+      "level": 81
+    },
+    "message": "bru",
+    "timestamp": "2026-05-10T18:11:30.551Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "33988dd7-9acc-4279-89a5-40343121a95f",
+      "shortId": "7ZBHU4",
+      "name": "bloodyrawr",
+      "role": "USER",
+      "level": 81
+    },
+    "message": "nxt",
+    "timestamp": "2026-05-10T18:11:32.288Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "33988dd7-9acc-4279-89a5-40343121a95f",
+      "shortId": "7ZBHU4",
+      "name": "bloodyrawr",
+      "role": "USER",
+      "level": 81
+    },
+    "message": "/wager [Tiburon|Bayonet|WEAPON_SKIN|MYTHICAL] #POOKIE",
+    "timestamp": "2026-05-10T18:11:53.316Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "33988dd7-9acc-4279-89a5-40343121a95f",
+      "shortId": "7ZBHU4",
+      "name": "bloodyrawr",
+      "role": "USER",
+      "level": 81
+    },
+    "message": "/cancelwager",
+    "timestamp": "2026-05-10T18:12:23.485Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "33988dd7-9acc-4279-89a5-40343121a95f",
+      "shortId": "7ZBHU4",
+      "name": "bloodyrawr",
+      "role": "USER",
+      "level": 81
+    },
+    "message": "anyone wager melody or tiburon",
+    "timestamp": "2026-05-10T18:12:39.899Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "33988dd7-9acc-4279-89a5-40343121a95f",
+      "shortId": "7ZBHU4",
+      "name": "bloodyrawr",
+      "role": "USER",
+      "level": 81
+    },
+    "message": "#8KK5DM !!!",
+    "timestamp": "2026-05-10T18:13:08.223Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "33988dd7-9acc-4279-89a5-40343121a95f",
+      "shortId": "7ZBHU4",
+      "name": "bloodyrawr",
+      "role": "USER",
+      "level": 81
+    },
+    "message": "/wager [Melody||BODY_SKIN|MYTHICAL] #8KK5DM",
+    "timestamp": "2026-05-10T18:13:14.687Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "33988dd7-9acc-4279-89a5-40343121a95f",
+      "shortId": "7ZBHU4",
+      "name": "bloodyrawr",
+      "role": "USER",
+      "level": 81
+    },
+    "message": "/cacnelwager",
+    "timestamp": "2026-05-10T18:13:22.221Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "33988dd7-9acc-4279-89a5-40343121a95f",
+      "shortId": "7ZBHU4",
+      "name": "bloodyrawr",
+      "role": "USER",
+      "level": 81
+    },
+    "message": "/cancelwager",
+    "timestamp": "2026-05-10T18:13:27.708Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "33988dd7-9acc-4279-89a5-40343121a95f",
+      "shortId": "7ZBHU4",
+      "name": "bloodyrawr",
+      "role": "USER",
+      "level": 81
+    },
+    "message": "/wager [Melody||BODY_SKIN|MYTHICAL] #8KK5DM",
+    "timestamp": "2026-05-10T18:13:33.982Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "33988dd7-9acc-4279-89a5-40343121a95f",
+      "shortId": "7ZBHU4",
+      "name": "bloodyrawr",
+      "role": "USER",
+      "level": 81
+    },
+    "message": "/wager [Melody||BODY_SKIN|MYTHICAL]x2 #8KK5DM",
+    "timestamp": "2026-05-10T18:14:16.743Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "33988dd7-9acc-4279-89a5-40343121a95f",
+      "shortId": "7ZBHU4",
+      "name": "bloodyrawr",
+      "role": "USER",
+      "level": 81
+    },
+    "message": "/cancelwager",
+    "timestamp": "2026-05-10T18:14:27.753Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "33988dd7-9acc-4279-89a5-40343121a95f",
+      "shortId": "7ZBHU4",
+      "name": "bloodyrawr",
+      "role": "USER",
+      "level": 81
+    },
+    "message": "lol",
+    "timestamp": "2026-05-10T18:14:28.960Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "33988dd7-9acc-4279-89a5-40343121a95f",
+      "shortId": "7ZBHU4",
+      "name": "bloodyrawr",
+      "role": "USER",
+      "level": 81
+    },
+    "message": "wagering [Melody||BODY_SKIN|MYTHICAL] and [Tiburon|Bayonet|WEAPON_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-10T18:14:40.518Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "33988dd7-9acc-4279-89a5-40343121a95f",
+      "shortId": "7ZBHU4",
+      "name": "bloodyrawr",
+      "role": "USER",
+      "level": 81
+    },
+    "message": "lf wagers!",
+    "timestamp": "2026-05-10T18:15:07.474Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "33988dd7-9acc-4279-89a5-40343121a95f",
+      "shortId": "7ZBHU4",
+      "name": "bloodyrawr",
+      "role": "USER",
+      "level": 81
+    },
+    "message": "nxt can we wager [Tiburon|Bayonet|WEAPON_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-10T18:15:21.698Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "33988dd7-9acc-4279-89a5-40343121a95f",
+      "shortId": "7ZBHU4",
+      "name": "bloodyrawr",
+      "role": "USER",
+      "level": 81
+    },
+    "message": "/mywager",
+    "timestamp": "2026-05-10T18:15:49.919Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "33988dd7-9acc-4279-89a5-40343121a95f",
+      "shortId": "7ZBHU4",
+      "name": "bloodyrawr",
+      "role": "USER",
+      "level": 81
+    },
+    "message": "leo",
+    "timestamp": "2026-05-10T18:16:15.807Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "33988dd7-9acc-4279-89a5-40343121a95f",
+      "shortId": "7ZBHU4",
+      "name": "bloodyrawr",
+      "role": "USER",
+      "level": 81
+    },
+    "message": "do u got melody or [Tiburon|Bayonet|WEAPON_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-10T18:16:24.066Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "33988dd7-9acc-4279-89a5-40343121a95f",
+      "shortId": "7ZBHU4",
+      "name": "bloodyrawr",
+      "role": "USER",
+      "level": 81
+    },
+    "message": "leo its p4rty",
+    "timestamp": "2026-05-10T18:16:54.700Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "33988dd7-9acc-4279-89a5-40343121a95f",
+      "shortId": "7ZBHU4",
+      "name": "bloodyrawr",
+      "role": "USER",
+      "level": 81
+    },
+    "message": "u got any smalls to wager",
+    "timestamp": "2026-05-10T18:17:12.871Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "33988dd7-9acc-4279-89a5-40343121a95f",
+      "shortId": "7ZBHU4",
+      "name": "bloodyrawr",
+      "role": "USER",
+      "level": 81
+    },
+    "message": "I got uh melody and tiburon",
+    "timestamp": "2026-05-10T18:17:21.846Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "33988dd7-9acc-4279-89a5-40343121a95f",
+      "shortId": "7ZBHU4",
+      "name": "bloodyrawr",
+      "role": "USER",
+      "level": 81
+    },
+    "message": "/wager [Tiburon|Bayonet|WEAPON_SKIN|MYTHICAL] #P4AERC",
+    "timestamp": "2026-05-10T18:17:42.019Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "33988dd7-9acc-4279-89a5-40343121a95f",
+      "shortId": "7ZBHU4",
+      "name": "bloodyrawr",
+      "role": "USER",
+      "level": 81
+    },
+    "message": "p4erc",
+    "timestamp": "2026-05-10T18:18:04.256Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "33988dd7-9acc-4279-89a5-40343121a95f",
+      "shortId": "7ZBHU4",
+      "name": "bloodyrawr",
+      "role": "USER",
+      "level": 81
+    },
+    "message": "Wana wager tiburon",
+    "timestamp": "2026-05-10T18:18:08.898Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "33988dd7-9acc-4279-89a5-40343121a95f",
+      "shortId": "7ZBHU4",
+      "name": "bloodyrawr",
+      "role": "USER",
+      "level": 81
+    },
+    "message": "/cancelwager",
+    "timestamp": "2026-05-10T18:18:23.975Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "33988dd7-9acc-4279-89a5-40343121a95f",
+      "shortId": "7ZBHU4",
+      "name": "bloodyrawr",
+      "role": "USER",
+      "level": 81
+    },
+    "message": "hate being broke smh",
+    "timestamp": "2026-05-10T18:18:38.618Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "33988dd7-9acc-4279-89a5-40343121a95f",
+      "shortId": "7ZBHU4",
+      "name": "bloodyrawr",
+      "role": "USER",
+      "level": 81
+    },
+    "message": "slide one fr",
+    "timestamp": "2026-05-10T18:19:30.868Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "33988dd7-9acc-4279-89a5-40343121a95f",
+      "shortId": "7ZBHU4",
+      "name": "bloodyrawr",
+      "role": "USER",
+      "level": 81
+    },
+    "message": "anyone Wana wager [Tiburon|Bayonet|WEAPON_SKIN|MYTHICAL] or melodys",
+    "timestamp": "2026-05-10T18:20:08.494Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "33988dd7-9acc-4279-89a5-40343121a95f",
+      "shortId": "7ZBHU4",
+      "name": "bloodyrawr",
+      "role": "USER",
+      "level": 81
+    },
+    "message": "/wager [Melody||BODY_SKIN|MYTHICAL]x2 #8KK5DM",
+    "timestamp": "2026-05-10T18:20:29.055Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "33988dd7-9acc-4279-89a5-40343121a95f",
+      "shortId": "7ZBHU4",
+      "name": "bloodyrawr",
+      "role": "USER",
+      "level": 81
+    },
+    "message": "wagering [Tiburon|Bayonet|WEAPON_SKIN|MYTHICAL] [Melody||BODY_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-10T18:24:30.569Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "33988dd7-9acc-4279-89a5-40343121a95f",
+      "shortId": "7ZBHU4",
+      "name": "bloodyrawr",
+      "role": "USER",
+      "level": 81
+    },
+    "message": "anyone wana wager [Tiburon|Bayonet|WEAPON_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-10T19:11:59.340Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "33988dd7-9acc-4279-89a5-40343121a95f",
+      "shortId": "7ZBHU4",
+      "name": "bloodyrawr",
+      "role": "USER",
+      "level": 81
+    },
+    "message": "wagering [Tiburon|Bayonet|WEAPON_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-10T19:12:26.229Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "33988dd7-9acc-4279-89a5-40343121a95f",
+      "shortId": "7ZBHU4",
+      "name": "bloodyrawr",
+      "role": "USER",
+      "level": 81
+    },
+    "message": "who got [tiburon{",
+    "timestamp": "2026-05-10T19:12:53.163Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "33988dd7-9acc-4279-89a5-40343121a95f",
+      "shortId": "7ZBHU4",
+      "name": "bloodyrawr",
+      "role": "USER",
+      "level": 81
+    },
+    "message": "anyone got [Tiburon|Bayonet|WEAPON_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-10T19:13:04.176Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "33988dd7-9acc-4279-89a5-40343121a95f",
+      "shortId": "7ZBHU4",
+      "name": "bloodyrawr",
+      "role": "USER",
+      "level": 81
+    },
+    "message": "/wager [Tiburon|Bayonet|WEAPON_SKIN|MYTHICAL] #F8X5NM",
+    "timestamp": "2026-05-10T19:13:32.635Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "33988dd7-9acc-4279-89a5-40343121a95f",
+      "shortId": "7ZBHU4",
+      "name": "bloodyrawr",
+      "role": "USER",
+      "level": 81
+    },
+    "message": "/cancelwager",
+    "timestamp": "2026-05-10T19:13:40.229Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "33988dd7-9acc-4279-89a5-40343121a95f",
+      "shortId": "7ZBHU4",
+      "name": "bloodyrawr",
+      "role": "USER",
+      "level": 81
+    },
+    "message": "/wager [Tiburon|Bayonet|WEAPON_SKIN|MYTHICAL] #F8X5NM",
+    "timestamp": "2026-05-10T19:14:10.153Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "33988dd7-9acc-4279-89a5-40343121a95f",
+      "shortId": "7ZBHU4",
+      "name": "bloodyrawr",
+      "role": "USER",
+      "level": 81
+    },
+    "message": "g",
+    "timestamp": "2026-05-10T19:14:16.761Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "33988dd7-9acc-4279-89a5-40343121a95f",
+      "shortId": "7ZBHU4",
+      "name": "bloodyrawr",
+      "role": "USER",
+      "level": 81
+    },
+    "message": "/wager [Tiburon|Bayonet|WEAPON_SKIN|MYTHICAL] #F8X5NM",
+    "timestamp": "2026-05-10T19:14:34.050Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "33988dd7-9acc-4279-89a5-40343121a95f",
+      "shortId": "7ZBHU4",
+      "name": "bloodyrawr",
+      "role": "USER",
+      "level": 81
+    },
+    "message": "br",
+    "timestamp": "2026-05-10T19:14:37.862Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "33988dd7-9acc-4279-89a5-40343121a95f",
+      "shortId": "7ZBHU4",
+      "name": "bloodyrawr",
+      "role": "USER",
+      "level": 81
+    },
+    "message": "#F8X5NM wager [Tiburon|Bayonet|WEAPON_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-10T19:14:58.293Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "33988dd7-9acc-4279-89a5-40343121a95f",
+      "shortId": "7ZBHU4",
+      "name": "bloodyrawr",
+      "role": "USER",
+      "level": 81
+    },
+    "message": "abeed wager tiburon w me",
+    "timestamp": "2026-05-10T19:15:25.995Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "33988dd7-9acc-4279-89a5-40343121a95f",
+      "shortId": "7ZBHU4",
+      "name": "bloodyrawr",
+      "role": "USER",
+      "level": 81
+    },
+    "message": "yo who wana wager",
+    "timestamp": "2026-05-10T19:17:34.810Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "33988dd7-9acc-4279-89a5-40343121a95f",
+      "shortId": "7ZBHU4",
+      "name": "bloodyrawr",
+      "role": "USER",
+      "level": 81
+    },
+    "message": "dani",
+    "timestamp": "2026-05-10T19:19:28.027Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "33988dd7-9acc-4279-89a5-40343121a95f",
+      "shortId": "7ZBHU4",
+      "name": "bloodyrawr",
+      "role": "USER",
+      "level": 81
+    },
+    "message": "are u down to wager?",
+    "timestamp": "2026-05-10T19:19:50.722Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "33988dd7-9acc-4279-89a5-40343121a95f",
+      "shortId": "7ZBHU4",
+      "name": "bloodyrawr",
+      "role": "USER",
+      "level": 81
+    },
+    "message": "/wager [Tiburon|Bayonet|WEAPON_SKIN|MYTHICAL] #YP8IRE",
+    "timestamp": "2026-05-10T19:20:04.847Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "33988dd7-9acc-4279-89a5-40343121a95f",
+      "shortId": "7ZBHU4",
+      "name": "bloodyrawr",
+      "role": "USER",
+      "level": 81
+    },
+    "message": "alrr",
+    "timestamp": "2026-05-10T19:20:24.654Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "33988dd7-9acc-4279-89a5-40343121a95f",
+      "shortId": "7ZBHU4",
+      "name": "bloodyrawr",
+      "role": "USER",
+      "level": 81
+    },
+    "message": "someone wager w me",
+    "timestamp": "2026-05-10T19:21:30.938Z"
   }
 ]
