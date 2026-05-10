@@ -526,5 +526,17 @@
     },
     "message": "i dont have it",
     "timestamp": "2026-05-09T02:49:18.397Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "fd75f84e-e218-4b57-a35f-53bc4216c6f1",
+      "shortId": "THEUNC",
+      "name": "Izzy",
+      "role": "USER",
+      "level": 99
+    },
+    "message": "anyone wanna wager [Paypay||BODY_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-10T23:38:59.882Z"
   }
 ]
