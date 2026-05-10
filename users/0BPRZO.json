@@ -2446,5 +2446,17 @@
     },
     "message": "/price [Headless||BODY_SKIN|MYTHICAL]",
     "timestamp": "2026-05-09T04:49:24.644Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "aC4eJ9XToJg3hfiixxui6Cv8ymy2",
+      "shortId": "0BPRZO",
+      "name": "Abyss",
+      "role": "USER",
+      "level": 48
+    },
+    "message": "TR [Pastel||BODY_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-10T19:26:22.896Z"
   }
 ]
