@@ -466,5 +466,29 @@
     },
     "message": "/price empress",
     "timestamp": "2026-05-10T17:43:57.165Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "fddeb704-c4e4-4f50-8a81-28c407f6d5da",
+      "shortId": "LYUXIM",
+      "name": "tstep",
+      "role": "USER",
+      "level": 98
+    },
+    "message": "/hm bay,arachne",
+    "timestamp": "2026-05-10T19:09:36.372Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "fddeb704-c4e4-4f50-8a81-28c407f6d5da",
+      "shortId": "LYUXIM",
+      "name": "tstep",
+      "role": "USER",
+      "level": 98
+    },
+    "message": "/hm bay,cv01",
+    "timestamp": "2026-05-10T19:10:21.061Z"
   }
 ]
