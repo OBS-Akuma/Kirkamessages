@@ -154,5 +154,77 @@
     },
     "message": "?myvotes",
     "timestamp": "2026-05-01T20:16:51.954Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "guest-90f9f973-9f0a-40cf-8971-668d21d6910c",
+      "shortId": "YRCLVF",
+      "name": "[OG]Levelegen",
+      "role": "USER",
+      "level": 55
+    },
+    "message": "/claim",
+    "timestamp": "2026-05-10T22:34:49.844Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "guest-90f9f973-9f0a-40cf-8971-668d21d6910c",
+      "shortId": "YRCLVF",
+      "name": "[OG]Levelegen",
+      "role": "USER",
+      "level": 55
+    },
+    "message": "/price wiggleworp",
+    "timestamp": "2026-05-10T23:10:15.532Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "guest-90f9f973-9f0a-40cf-8971-668d21d6910c",
+      "shortId": "YRCLVF",
+      "name": "[OG]Levelegen",
+      "role": "USER",
+      "level": 55
+    },
+    "message": "/locate ruby",
+    "timestamp": "2026-05-10T23:13:11.537Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "guest-90f9f973-9f0a-40cf-8971-668d21d6910c",
+      "shortId": "YRCLVF",
+      "name": "[OG]Levelegen",
+      "role": "USER",
+      "level": 55
+    },
+    "message": "/hm ruby x180641",
+    "timestamp": "2026-05-10T23:13:46.606Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "guest-90f9f973-9f0a-40cf-8971-668d21d6910c",
+      "shortId": "YRCLVF",
+      "name": "[OG]Levelegen",
+      "role": "USER",
+      "level": 55
+    },
+    "message": "/locate scale",
+    "timestamp": "2026-05-10T23:35:42.247Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "guest-90f9f973-9f0a-40cf-8971-668d21d6910c",
+      "shortId": "YRCLVF",
+      "name": "[OG]Levelegen",
+      "role": "USER",
+      "level": 55
+    },
+    "message": "/locate scale p100",
+    "timestamp": "2026-05-10T23:35:59.178Z"
   }
 ]
