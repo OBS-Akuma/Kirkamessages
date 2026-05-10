@@ -3166,5 +3166,77 @@
     },
     "message": "/confirmwager",
     "timestamp": "2026-05-08T23:01:56.239Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "33988dd7-9acc-4279-89a5-40343121a95f",
+      "shortId": "7ZBHU4",
+      "name": "bloodyrawr",
+      "role": "USER",
+      "level": 81
+    },
+    "message": "wagering melody x3",
+    "timestamp": "2026-05-10T16:41:18.598Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "33988dd7-9acc-4279-89a5-40343121a95f",
+      "shortId": "7ZBHU4",
+      "name": "bloodyrawr",
+      "role": "USER",
+      "level": 81
+    },
+    "message": "anyone?",
+    "timestamp": "2026-05-10T16:41:21.354Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "33988dd7-9acc-4279-89a5-40343121a95f",
+      "shortId": "7ZBHU4",
+      "name": "bloodyrawr",
+      "role": "USER",
+      "level": 81
+    },
+    "message": "anyone wager melody",
+    "timestamp": "2026-05-10T16:41:53.440Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "33988dd7-9acc-4279-89a5-40343121a95f",
+      "shortId": "7ZBHU4",
+      "name": "bloodyrawr",
+      "role": "USER",
+      "level": 81
+    },
+    "message": "/confirmwager",
+    "timestamp": "2026-05-10T16:42:18.164Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "33988dd7-9acc-4279-89a5-40343121a95f",
+      "shortId": "7ZBHU4",
+      "name": "bloodyrawr",
+      "role": "USER",
+      "level": 81
+    },
+    "message": "/claim",
+    "timestamp": "2026-05-10T16:43:34.571Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "33988dd7-9acc-4279-89a5-40343121a95f",
+      "shortId": "7ZBHU4",
+      "name": "bloodyrawr",
+      "role": "USER",
+      "level": 81
+    },
+    "message": "/confirmwager",
+    "timestamp": "2026-05-10T16:46:33.473Z"
   }
 ]
