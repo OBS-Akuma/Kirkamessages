@@ -1,0 +1,26 @@
+[
+  {
+    "type": 2,
+    "user": {
+      "id": "2d441501-81fd-4137-ae63-0b5f1f345d2e",
+      "shortId": "NUC1AI",
+      "name": "Kanzuto",
+      "role": "USER",
+      "level": 80
+    },
+    "message": "./hm capricorn",
+    "timestamp": "2026-05-10T02:07:10.264Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "2d441501-81fd-4137-ae63-0b5f1f345d2e",
+      "shortId": "NUC1AI",
+      "name": "Kanzuto",
+      "role": "USER",
+      "level": 80
+    },
+    "message": "/hm capricorn",
+    "timestamp": "2026-05-10T02:07:21.804Z"
+  }
+]
