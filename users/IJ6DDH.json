@@ -1894,5 +1894,41 @@
     },
     "message": "Ethong let's play ranked",
     "timestamp": "2026-05-10T22:07:39.945Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "guest-54be4ece-9e2b-474f-9d38-577976065f54",
+      "shortId": "IJ6DDH",
+      "name": "EGD|Galaxy",
+      "role": "USER",
+      "level": 30
+    },
+    "message": "/inv",
+    "timestamp": "2026-05-10T23:30:59.302Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "guest-54be4ece-9e2b-474f-9d38-577976065f54",
+      "shortId": "IJ6DDH",
+      "name": "EGD|Galaxy",
+      "role": "USER",
+      "level": 30
+    },
+    "message": "I'm broke",
+    "timestamp": "2026-05-10T23:31:09.465Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "guest-54be4ece-9e2b-474f-9d38-577976065f54",
+      "shortId": "IJ6DDH",
+      "name": "EGD|Galaxy",
+      "role": "USER",
+      "level": 30
+    },
+    "message": "/price [2025 Revolver|Revolver|WEAPON_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-10T23:31:51.361Z"
   }
 ]
