@@ -1138,5 +1138,17 @@
     },
     "message": "/locate heatwave",
     "timestamp": "2026-05-10T23:35:27.087Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "bc8e6feb-bb40-4540-9470-ea5c349d769c",
+      "shortId": "GMX62R",
+      "name": "Ethong",
+      "role": "USER",
+      "level": 22
+    },
+    "message": "/locate rubies",
+    "timestamp": "2026-05-10T23:37:55.355Z"
   }
 ]
