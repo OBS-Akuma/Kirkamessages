@@ -334,5 +334,29 @@
     },
     "message": "yo jazz buddy",
     "timestamp": "2026-05-10T17:38:12.922Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "0c505348-c30c-4cbb-b666-b5ae990acec1",
+      "shortId": "ADC42K",
+      "name": "THEBAND",
+      "role": "USER",
+      "level": 15
+    },
+    "message": "u going to play 2v2",
+    "timestamp": "2026-05-10T17:38:35.554Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "0c505348-c30c-4cbb-b666-b5ae990acec1",
+      "shortId": "ADC42K",
+      "name": "THEBAND",
+      "role": "USER",
+      "level": 15
+    },
+    "message": "ok",
+    "timestamp": "2026-05-10T17:38:49.183Z"
   }
 ]
