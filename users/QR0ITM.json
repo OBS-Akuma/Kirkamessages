@@ -4858,5 +4858,41 @@
     },
     "message": "mana ni sabe",
     "timestamp": "2026-05-08T08:17:31.779Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "6828517b-6c30-42c0-a4b1-2601e1dd5206",
+      "shortId": "QR0ITM",
+      "name": "SayaAkanLawan!",
+      "role": "USER",
+      "level": 100
+    },
+    "message": "WHEN YH dpt full void item",
+    "timestamp": "2026-05-09T04:39:52.994Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "6828517b-6c30-42c0-a4b1-2601e1dd5206",
+      "shortId": "QR0ITM",
+      "name": "SayaAkanLawan!",
+      "role": "USER",
+      "level": 100
+    },
+    "message": "T-T",
+    "timestamp": "2026-05-09T04:39:54.304Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "6828517b-6c30-42c0-a4b1-2601e1dd5206",
+      "shortId": "QR0ITM",
+      "name": "SayaAkanLawan!",
+      "role": "USER",
+      "level": 100
+    },
+    "message": "susahnye woe",
+    "timestamp": "2026-05-09T04:39:58.904Z"
   }
 ]
