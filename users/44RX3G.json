@@ -4702,5 +4702,89 @@
     },
     "message": "/cancelwager",
     "timestamp": "2026-05-10T07:04:45.399Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "4451167f-c288-48a4-a80f-9e4f65474704",
+      "shortId": "44RX3G",
+      "name": "OVERLORD",
+      "role": "USER",
+      "level": 84
+    },
+    "message": "WHAT",
+    "timestamp": "2026-05-10T16:41:20.030Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "4451167f-c288-48a4-a80f-9e4f65474704",
+      "shortId": "44RX3G",
+      "name": "OVERLORD",
+      "role": "USER",
+      "level": 84
+    },
+    "message": "???",
+    "timestamp": "2026-05-10T16:41:23.263Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "4451167f-c288-48a4-a80f-9e4f65474704",
+      "shortId": "44RX3G",
+      "name": "OVERLORD",
+      "role": "USER",
+      "level": 84
+    },
+    "message": "broooooooo",
+    "timestamp": "2026-05-10T16:41:27.011Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "4451167f-c288-48a4-a80f-9e4f65474704",
+      "shortId": "44RX3G",
+      "name": "OVERLORD",
+      "role": "USER",
+      "level": 84
+    },
+    "message": "reper'",
+    "timestamp": "2026-05-10T16:41:35.946Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "4451167f-c288-48a4-a80f-9e4f65474704",
+      "shortId": "44RX3G",
+      "name": "OVERLORD",
+      "role": "USER",
+      "level": 84
+    },
+    "message": "offer",
+    "timestamp": "2026-05-10T16:41:37.621Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "4451167f-c288-48a4-a80f-9e4f65474704",
+      "shortId": "44RX3G",
+      "name": "OVERLORD",
+      "role": "USER",
+      "level": 84
+    },
+    "message": "NAHHH",
+    "timestamp": "2026-05-10T16:41:45.883Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "4451167f-c288-48a4-a80f-9e4f65474704",
+      "shortId": "44RX3G",
+      "name": "OVERLORD",
+      "role": "USER",
+      "level": 84
+    },
+    "message": "f nahh",
+    "timestamp": "2026-05-10T16:41:49.136Z"
   }
 ]
