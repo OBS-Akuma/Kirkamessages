@@ -1,0 +1,26 @@
+[
+  {
+    "type": 2,
+    "user": {
+      "id": "guest-08d2428c-efbd-4256-b4a7-afeb8ebee433",
+      "shortId": "7UHPKL",
+      "name": "catlittle37",
+      "role": "USER",
+      "level": 11
+    },
+    "message": "dev",
+    "timestamp": "2026-05-10T22:38:08.059Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "guest-08d2428c-efbd-4256-b4a7-afeb8ebee433",
+      "shortId": "7UHPKL",
+      "name": "catlittle37",
+      "role": "USER",
+      "level": 11
+    },
+    "message": "hi",
+    "timestamp": "2026-05-10T22:38:19.586Z"
+  }
+]
