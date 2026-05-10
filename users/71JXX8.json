@@ -70,5 +70,65 @@
     },
     "message": "Also add my [Eva|AR-9|WEAPON_SKIN|LEGENDARY]",
     "timestamp": "2026-05-10T06:57:45.381Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "78646aab-a3f5-4c7a-984b-9d01d8d4e324",
+      "shortId": "71JXX8",
+      "name": "Tanjiro",
+      "role": "USER",
+      "level": 57
+    },
+    "message": "Yess",
+    "timestamp": "2026-05-10T06:59:30.821Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "78646aab-a3f5-4c7a-984b-9d01d8d4e324",
+      "shortId": "71JXX8",
+      "name": "Tanjiro",
+      "role": "USER",
+      "level": 57
+    },
+    "message": "How much??",
+    "timestamp": "2026-05-10T07:00:02.822Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "78646aab-a3f5-4c7a-984b-9d01d8d4e324",
+      "shortId": "71JXX8",
+      "name": "Tanjiro",
+      "role": "USER",
+      "level": 57
+    },
+    "message": "Abbe 200 ki kiun lgai khi??",
+    "timestamp": "2026-05-10T07:01:43.486Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "78646aab-a3f5-4c7a-984b-9d01d8d4e324",
+      "shortId": "71JXX8",
+      "name": "Tanjiro",
+      "role": "USER",
+      "level": 57
+    },
+    "message": "No",
+    "timestamp": "2026-05-10T07:02:36.201Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "78646aab-a3f5-4c7a-984b-9d01d8d4e324",
+      "shortId": "71JXX8",
+      "name": "Tanjiro",
+      "role": "USER",
+      "level": 57
+    },
+    "message": "It was written no item found",
+    "timestamp": "2026-05-10T07:02:49.967Z"
   }
 ]
