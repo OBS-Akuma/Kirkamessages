@@ -4786,5 +4786,41 @@
     },
     "message": "f nahh",
     "timestamp": "2026-05-10T16:41:49.136Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "4451167f-c288-48a4-a80f-9e4f65474704",
+      "shortId": "44RX3G",
+      "name": "OVERLORD",
+      "role": "USER",
+      "level": 84
+    },
+    "message": "wager [Bound|AR-9|WEAPON_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-10T16:55:24.214Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "4451167f-c288-48a4-a80f-9e4f65474704",
+      "shortId": "44RX3G",
+      "name": "OVERLORD",
+      "role": "USER",
+      "level": 84
+    },
+    "message": "wager ghillie bound hallspawn nutcracker",
+    "timestamp": "2026-05-10T16:56:22.498Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "4451167f-c288-48a4-a80f-9e4f65474704",
+      "shortId": "44RX3G",
+      "name": "OVERLORD",
+      "role": "USER",
+      "level": 84
+    },
+    "message": "/confirmwager",
+    "timestamp": "2026-05-10T16:56:35.281Z"
   }
 ]
