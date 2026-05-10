@@ -1,0 +1,38 @@
+[
+  {
+    "type": 2,
+    "user": {
+      "id": "guest-79a746a6-2373-4307-b2f6-0ddd3e0e5fda",
+      "shortId": "8671DJ",
+      "name": "Japan",
+      "role": "USER",
+      "level": 7
+    },
+    "message": "こん",
+    "timestamp": "2026-05-10T02:37:51.802Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "guest-79a746a6-2373-4307-b2f6-0ddd3e0e5fda",
+      "shortId": "8671DJ",
+      "name": "Japan",
+      "role": "USER",
+      "level": 7
+    },
+    "message": "日本人いますか？",
+    "timestamp": "2026-05-10T02:38:08.100Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "guest-79a746a6-2373-4307-b2f6-0ddd3e0e5fda",
+      "shortId": "8671DJ",
+      "name": "Japan",
+      "role": "USER",
+      "level": 7
+    },
+    "message": "日本人いますか",
+    "timestamp": "2026-05-10T02:38:14.427Z"
+  }
+]
