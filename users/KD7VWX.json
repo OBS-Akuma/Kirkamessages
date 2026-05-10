@@ -1,0 +1,50 @@
+[
+  {
+    "type": 2,
+    "user": {
+      "id": "1e6ec942-d2ba-4a46-afe8-b8241ed57e4a",
+      "shortId": "KD7VWX",
+      "name": "401k",
+      "role": "USER",
+      "level": 14
+    },
+    "message": "/inv",
+    "timestamp": "2026-05-10T16:53:48.805Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "1e6ec942-d2ba-4a46-afe8-b8241ed57e4a",
+      "shortId": "KD7VWX",
+      "name": "401k",
+      "role": "USER",
+      "level": 14
+    },
+    "message": "/price [Gardener|Bayonet|WEAPON_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-10T16:54:49.365Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "1e6ec942-d2ba-4a46-afe8-b8241ed57e4a",
+      "shortId": "KD7VWX",
+      "name": "401k",
+      "role": "USER",
+      "level": 14
+    },
+    "message": ".price [Garden|LAR|WEAPON_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-10T16:55:22.990Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "1e6ec942-d2ba-4a46-afe8-b8241ed57e4a",
+      "shortId": "KD7VWX",
+      "name": "401k",
+      "role": "USER",
+      "level": 14
+    },
+    "message": "/price [Garden|LAR|WEAPON_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-10T16:55:38.538Z"
+  }
+]
