@@ -118,5 +118,41 @@
     },
     "message": "/hm [Lustre|Bayonet|WEAPON_SKIN|MYTHICAL]",
     "timestamp": "2026-05-10T17:40:03.947Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "38365332-ed6d-408e-ad6a-23965bbfb70a",
+      "shortId": "U50W3E",
+      "name": "Pegasus",
+      "role": "USER",
+      "level": 34
+    },
+    "message": "]",
+    "timestamp": "2026-05-10T17:45:55.165Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "38365332-ed6d-408e-ad6a-23965bbfb70a",
+      "shortId": "U50W3E",
+      "name": "Pegasus",
+      "role": "USER",
+      "level": 34
+    },
+    "message": "[Chroma|LAR|WEAPON_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-10T17:45:58.283Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "38365332-ed6d-408e-ad6a-23965bbfb70a",
+      "shortId": "U50W3E",
+      "name": "Pegasus",
+      "role": "USER",
+      "level": 34
+    },
+    "message": "/hm [Chroma|LAR|WEAPON_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-10T17:46:06.905Z"
   }
 ]
