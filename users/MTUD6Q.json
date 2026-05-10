@@ -10,5 +10,29 @@
     },
     "message": "DOING A GIVA AWAY",
     "timestamp": "2026-05-08T01:08:28.023Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "658538a1-7bc2-4f47-a0e4-2fea6233eb22",
+      "shortId": "MTUD6Q",
+      "name": "NoT_FeLiX",
+      "role": "USER",
+      "level": 98
+    },
+    "message": "/prcie [Taurus|Shark|WEAPON_SKIN|LEGENDARY]",
+    "timestamp": "2026-05-09T16:27:01.041Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "658538a1-7bc2-4f47-a0e4-2fea6233eb22",
+      "shortId": "MTUD6Q",
+      "name": "NoT_FeLiX",
+      "role": "USER",
+      "level": 98
+    },
+    "message": "/price [Taurus|Shark|WEAPON_SKIN|LEGENDARY]",
+    "timestamp": "2026-05-09T16:27:11.371Z"
   }
 ]
