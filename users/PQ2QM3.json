@@ -766,5 +766,41 @@
     },
     "message": "who got vionix",
     "timestamp": "2026-05-09T03:09:02.667Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "f20b7a06-4259-43c3-8ec1-51c98ab462c9",
+      "shortId": "PQ2QM3",
+      "name": "Rencyy__",
+      "role": "USER",
+      "level": 29
+    },
+    "message": "who wants cf??",
+    "timestamp": "2026-05-09T16:16:18.224Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "f20b7a06-4259-43c3-8ec1-51c98ab462c9",
+      "shortId": "PQ2QM3",
+      "name": "Rencyy__",
+      "role": "USER",
+      "level": 29
+    },
+    "message": "[CV01|Bayonet|WEAPON_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-09T16:16:33.323Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "f20b7a06-4259-43c3-8ec1-51c98ab462c9",
+      "shortId": "PQ2QM3",
+      "name": "Rencyy__",
+      "role": "USER",
+      "level": 29
+    },
+    "message": "[Tiburon|Bayonet|WEAPON_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-09T16:16:43.898Z"
   }
 ]
