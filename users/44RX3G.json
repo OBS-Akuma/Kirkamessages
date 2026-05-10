@@ -4642,5 +4642,65 @@
     },
     "message": "/hm fudge",
     "timestamp": "2026-05-09T16:22:52.866Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "4451167f-c288-48a4-a80f-9e4f65474704",
+      "shortId": "44RX3G",
+      "name": "OVERLORD",
+      "role": "USER",
+      "level": 84
+    },
+    "message": "/wager [Golden||CHEST|LEGENDARY]x230 #JCN9P8",
+    "timestamp": "2026-05-10T07:04:10.595Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "4451167f-c288-48a4-a80f-9e4f65474704",
+      "shortId": "44RX3G",
+      "name": "OVERLORD",
+      "role": "USER",
+      "level": 84
+    },
+    "message": "-_-",
+    "timestamp": "2026-05-10T07:04:15.941Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "4451167f-c288-48a4-a80f-9e4f65474704",
+      "shortId": "44RX3G",
+      "name": "OVERLORD",
+      "role": "USER",
+      "level": 84
+    },
+    "message": "/cancelwager",
+    "timestamp": "2026-05-10T07:04:22.682Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "4451167f-c288-48a4-a80f-9e4f65474704",
+      "shortId": "44RX3G",
+      "name": "OVERLORD",
+      "role": "USER",
+      "level": 84
+    },
+    "message": "/wager [Golden||CHEST|LEGENDARY]x230 #ONIEG3",
+    "timestamp": "2026-05-10T07:04:40.767Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "4451167f-c288-48a4-a80f-9e4f65474704",
+      "shortId": "44RX3G",
+      "name": "OVERLORD",
+      "role": "USER",
+      "level": 84
+    },
+    "message": "/cancelwager",
+    "timestamp": "2026-05-10T07:04:45.399Z"
   }
 ]
