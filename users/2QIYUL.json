@@ -11302,5 +11302,29 @@
     },
     "message": "spice for peppermint trust",
     "timestamp": "2026-05-08T20:30:43.062Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "1ae21f3a-c5d5-4161-8718-75880e3d3cc8",
+      "shortId": "2QIYUL",
+      "name": "RAGEx",
+      "role": "USER",
+      "level": 44
+    },
+    "message": "/inv #EJV5Z9",
+    "timestamp": "2026-05-09T16:38:40.585Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "1ae21f3a-c5d5-4161-8718-75880e3d3cc8",
+      "shortId": "2QIYUL",
+      "name": "RAGEx",
+      "role": "USER",
+      "level": 44
+    },
+    "message": "alr ggs",
+    "timestamp": "2026-05-09T16:38:50.959Z"
   }
 ]
