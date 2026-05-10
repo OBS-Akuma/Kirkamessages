@@ -250,5 +250,365 @@
     },
     "message": "/locate [Forbidden|AR-9|WEAPON_SKIN|MYTHICAL] p10",
     "timestamp": "2026-05-09T16:37:54.045Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "guest-ce433610-0184-4035-a0fb-0a15d61fbcf5",
+      "shortId": "AGMU6F",
+      "name": "roAt",
+      "role": "USER",
+      "level": 5
+    },
+    "message": "wager [Koi|Bayonet|WEAPON_SKIN|MYTHICAL],[Vintage|VITA|WEAPON_SKIN|MYTHICAL],[Target|Revolver|WEAPON_SKIN|MYTHICAL],[Gloopies|LAR|WEAPON_SKIN|MYTHICAL],[Diane|Shark|WEAPON_SKIN|MYTHICAL][Damascus|Tomahawk|WEAPON_SKIN|MYTHICAL],[Golden||CHEST|LEGENDARY]x400",
+    "timestamp": "2026-05-10T17:08:10.645Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "guest-ce433610-0184-4035-a0fb-0a15d61fbcf5",
+      "shortId": "AGMU6F",
+      "name": "roAt",
+      "role": "USER",
+      "level": 5
+    },
+    "message": "/cancelwager",
+    "timestamp": "2026-05-10T17:10:14.843Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "guest-ce433610-0184-4035-a0fb-0a15d61fbcf5",
+      "shortId": "AGMU6F",
+      "name": "roAt",
+      "role": "USER",
+      "level": 5
+    },
+    "message": "ad",
+    "timestamp": "2026-05-10T17:10:51.641Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "guest-ce433610-0184-4035-a0fb-0a15d61fbcf5",
+      "shortId": "AGMU6F",
+      "name": "roAt",
+      "role": "USER",
+      "level": 5
+    },
+    "message": "/cancelwager",
+    "timestamp": "2026-05-10T17:10:55.815Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "guest-ce433610-0184-4035-a0fb-0a15d61fbcf5",
+      "shortId": "AGMU6F",
+      "name": "roAt",
+      "role": "USER",
+      "level": 5
+    },
+    "message": "/confirmwager",
+    "timestamp": "2026-05-10T17:11:47.959Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "guest-ce433610-0184-4035-a0fb-0a15d61fbcf5",
+      "shortId": "AGMU6F",
+      "name": "roAt",
+      "role": "USER",
+      "level": 5
+    },
+    "message": "/claim",
+    "timestamp": "2026-05-10T17:12:31.310Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "guest-ce433610-0184-4035-a0fb-0a15d61fbcf5",
+      "shortId": "AGMU6F",
+      "name": "roAt",
+      "role": "USER",
+      "level": 5
+    },
+    "message": "/confirmwager",
+    "timestamp": "2026-05-10T17:14:55.268Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "guest-ce433610-0184-4035-a0fb-0a15d61fbcf5",
+      "shortId": "AGMU6F",
+      "name": "roAt",
+      "role": "USER",
+      "level": 5
+    },
+    "message": "/confirmwager o",
+    "timestamp": "2026-05-10T17:15:17.797Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "guest-ce433610-0184-4035-a0fb-0a15d61fbcf5",
+      "shortId": "AGMU6F",
+      "name": "roAt",
+      "role": "USER",
+      "level": 5
+    },
+    "message": "/confirmwager",
+    "timestamp": "2026-05-10T17:15:34.829Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "guest-ce433610-0184-4035-a0fb-0a15d61fbcf5",
+      "shortId": "AGMU6F",
+      "name": "roAt",
+      "role": "USER",
+      "level": 5
+    },
+    "message": "/claim",
+    "timestamp": "2026-05-10T17:16:16.332Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "guest-ce433610-0184-4035-a0fb-0a15d61fbcf5",
+      "shortId": "AGMU6F",
+      "name": "roAt",
+      "role": "USER",
+      "level": 5
+    },
+    "message": "wager [Koi|Bayonet|WEAPON_SKIN|MYTHICAL],[Vintage|VITA|WEAPON_SKIN|MYTHICAL],[Target|Revolver|WEAPON_SKIN|MYTHICAL],[Gloopies|LAR|WEAPON_SKIN|MYTHICAL],[Diane|Shark|WEAPON_SKIN|MYTHICAL][Damascus|Tomahawk|WEAPON_SKIN|MYTHICAL],[Golden||CHEST|LEGENDARY]x400",
+    "timestamp": "2026-05-10T17:17:22.852Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "guest-ce433610-0184-4035-a0fb-0a15d61fbcf5",
+      "shortId": "AGMU6F",
+      "name": "roAt",
+      "role": "USER",
+      "level": 5
+    },
+    "message": "n",
+    "timestamp": "2026-05-10T17:21:05.752Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "guest-ce433610-0184-4035-a0fb-0a15d61fbcf5",
+      "shortId": "AGMU6F",
+      "name": "roAt",
+      "role": "USER",
+      "level": 5
+    },
+    "message": "wager [Koi|Bayonet|WEAPON_SKIN|MYTHICAL],[Vintage|VITA|WEAPON_SKIN|MYTHICAL],[Target|Revolver|WEAPON_SKIN|MYTHICAL],[Gloopies|LAR|WEAPON_SKIN|MYTHICAL],[Diane|Shark|WEAPON_SKIN|MYTHICAL][Damascus|Tomahawk|WEAPON_SKIN|MYTHICAL],[Golden||CHEST|LEGENDARY]x400",
+    "timestamp": "2026-05-10T17:21:07.967Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "guest-ce433610-0184-4035-a0fb-0a15d61fbcf5",
+      "shortId": "AGMU6F",
+      "name": "roAt",
+      "role": "USER",
+      "level": 5
+    },
+    "message": "wager [Koi|Bayonet|WEAPON_SKIN|MYTHICAL],[Vintage|VITA|WEAPON_SKIN|MYTHICAL],[Target|Revolver|WEAPON_SKIN|MYTHICAL],[Gloopies|LAR|WEAPON_SKIN|MYTHICAL],[Diane|Shark|WEAPON_SKIN|MYTHICAL][Damascus|Tomahawk|WEAPON_SKIN|MYTHICAL],[Golden||CHEST|LEGENDARY]x400.",
+    "timestamp": "2026-05-10T17:24:47.248Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "guest-ce433610-0184-4035-a0fb-0a15d61fbcf5",
+      "shortId": "AGMU6F",
+      "name": "roAt",
+      "role": "USER",
+      "level": 5
+    },
+    "message": "nxt",
+    "timestamp": "2026-05-10T17:25:40.510Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "guest-ce433610-0184-4035-a0fb-0a15d61fbcf5",
+      "shortId": "AGMU6F",
+      "name": "roAt",
+      "role": "USER",
+      "level": 5
+    },
+    "message": "after leo wager",
+    "timestamp": "2026-05-10T17:25:49.077Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "guest-ce433610-0184-4035-a0fb-0a15d61fbcf5",
+      "shortId": "AGMU6F",
+      "name": "roAt",
+      "role": "USER",
+      "level": 5
+    },
+    "message": "cf or wager withj me okkk",
+    "timestamp": "2026-05-10T17:25:58.034Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "guest-ce433610-0184-4035-a0fb-0a15d61fbcf5",
+      "shortId": "AGMU6F",
+      "name": "roAt",
+      "role": "USER",
+      "level": 5
+    },
+    "message": "/wager [Diane|Shark|WEAPON_SKIN|MYTHICAL] #BHERYS",
+    "timestamp": "2026-05-10T17:27:36.769Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "guest-ce433610-0184-4035-a0fb-0a15d61fbcf5",
+      "shortId": "AGMU6F",
+      "name": "roAt",
+      "role": "USER",
+      "level": 5
+    },
+    "message": "pvp confirm",
+    "timestamp": "2026-05-10T17:27:41.020Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "guest-ce433610-0184-4035-a0fb-0a15d61fbcf5",
+      "shortId": "AGMU6F",
+      "name": "roAt",
+      "role": "USER",
+      "level": 5
+    },
+    "message": "/confirm",
+    "timestamp": "2026-05-10T17:27:44.496Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "guest-ce433610-0184-4035-a0fb-0a15d61fbcf5",
+      "shortId": "AGMU6F",
+      "name": "roAt",
+      "role": "USER",
+      "level": 5
+    },
+    "message": "/confirmwager",
+    "timestamp": "2026-05-10T17:27:47.953Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "guest-ce433610-0184-4035-a0fb-0a15d61fbcf5",
+      "shortId": "AGMU6F",
+      "name": "roAt",
+      "role": "USER",
+      "level": 5
+    },
+    "message": "/cancelwager",
+    "timestamp": "2026-05-10T17:28:22.938Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "guest-ce433610-0184-4035-a0fb-0a15d61fbcf5",
+      "shortId": "AGMU6F",
+      "name": "roAt",
+      "role": "USER",
+      "level": 5
+    },
+    "message": "/wager [Diane|Shark|WEAPON_SKIN|MYTHICAL] #BHERYS",
+    "timestamp": "2026-05-10T17:28:25.055Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "guest-ce433610-0184-4035-a0fb-0a15d61fbcf5",
+      "shortId": "AGMU6F",
+      "name": "roAt",
+      "role": "USER",
+      "level": 5
+    },
+    "message": "sadas",
+    "timestamp": "2026-05-10T17:28:29.237Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "guest-ce433610-0184-4035-a0fb-0a15d61fbcf5",
+      "shortId": "AGMU6F",
+      "name": "roAt",
+      "role": "USER",
+      "level": 5
+    },
+    "message": "d",
+    "timestamp": "2026-05-10T17:28:30.323Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "guest-ce433610-0184-4035-a0fb-0a15d61fbcf5",
+      "shortId": "AGMU6F",
+      "name": "roAt",
+      "role": "USER",
+      "level": 5
+    },
+    "message": "/wager [Diane|Shark|WEAPON_SKIN|MYTHICAL] #BHERYS",
+    "timestamp": "2026-05-10T17:28:32.350Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "guest-ce433610-0184-4035-a0fb-0a15d61fbcf5",
+      "shortId": "AGMU6F",
+      "name": "roAt",
+      "role": "USER",
+      "level": 5
+    },
+    "message": "sadadasdsadsd",
+    "timestamp": "2026-05-10T17:28:37.669Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "guest-ce433610-0184-4035-a0fb-0a15d61fbcf5",
+      "shortId": "AGMU6F",
+      "name": "roAt",
+      "role": "USER",
+      "level": 5
+    },
+    "message": "/wager [Diane|Shark|WEAPON_SKIN|MYTHICAL] #BHERYS",
+    "timestamp": "2026-05-10T17:28:39.886Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "guest-ce433610-0184-4035-a0fb-0a15d61fbcf5",
+      "shortId": "AGMU6F",
+      "name": "roAt",
+      "role": "USER",
+      "level": 5
+    },
+    "message": "pvp",
+    "timestamp": "2026-05-10T17:29:46.448Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "guest-ce433610-0184-4035-a0fb-0a15d61fbcf5",
+      "shortId": "AGMU6F",
+      "name": "roAt",
+      "role": "USER",
+      "level": 5
+    },
+    "message": "pvppppp",
+    "timestamp": "2026-05-10T17:30:01.070Z"
   }
 ]
