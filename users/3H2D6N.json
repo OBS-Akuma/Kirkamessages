@@ -418,5 +418,77 @@
     },
     "message": "/mywager",
     "timestamp": "2026-05-08T09:12:00.532Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "05fd406f-e037-478d-b701-2a92081be680",
+      "shortId": "3H2D6N",
+      "name": "Jupiter",
+      "role": "USER",
+      "level": 69
+    },
+    "message": "[Femboy|Bayonet|WEAPON_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-10T17:21:38.690Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "05fd406f-e037-478d-b701-2a92081be680",
+      "shortId": "3H2D6N",
+      "name": "Jupiter",
+      "role": "USER",
+      "level": 69
+    },
+    "message": "# trading [Imperial|SCAR|WEAPON_SKIN|MYTHICAL] for red skins",
+    "timestamp": "2026-05-10T17:22:12.757Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "05fd406f-e037-478d-b701-2a92081be680",
+      "shortId": "3H2D6N",
+      "name": "Jupiter",
+      "role": "USER",
+      "level": 69
+    },
+    "message": "noo way",
+    "timestamp": "2026-05-10T17:27:12.703Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "05fd406f-e037-478d-b701-2a92081be680",
+      "shortId": "3H2D6N",
+      "name": "Jupiter",
+      "role": "USER",
+      "level": 69
+    },
+    "message": "imperial for ripped santa trust",
+    "timestamp": "2026-05-10T17:27:18.895Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "05fd406f-e037-478d-b701-2a92081be680",
+      "shortId": "3H2D6N",
+      "name": "Jupiter",
+      "role": "USER",
+      "level": 69
+    },
+    "message": "trust pseed",
+    "timestamp": "2026-05-10T17:28:01.851Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "05fd406f-e037-478d-b701-2a92081be680",
+      "shortId": "3H2D6N",
+      "name": "Jupiter",
+      "role": "USER",
+      "level": 69
+    },
+    "message": "# trading [Imperial|SCAR|WEAPON_SKIN|MYTHICAL] for red skins",
+    "timestamp": "2026-05-10T17:28:24.894Z"
   }
 ]
