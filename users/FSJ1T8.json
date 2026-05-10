@@ -1,0 +1,26 @@
+[
+  {
+    "type": 2,
+    "user": {
+      "id": "d8e98c7e-79bf-497e-8652-f4d435559ddf",
+      "shortId": "FSJ1T8",
+      "name": "StremZ",
+      "role": "USER",
+      "level": 18
+    },
+    "message": "/inv",
+    "timestamp": "2026-05-10T17:09:11.544Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "d8e98c7e-79bf-497e-8652-f4d435559ddf",
+      "shortId": "FSJ1T8",
+      "name": "StremZ",
+      "role": "USER",
+      "level": 18
+    },
+    "message": "/inv #FSJ1T8",
+    "timestamp": "2026-05-10T17:10:02.909Z"
+  }
+]
