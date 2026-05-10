@@ -2783,5 +2783,17 @@
     },
     "message": "#VVUQRY",
     "timestamp": "2026-05-10T17:56:27.400Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "7f2a6090-abcb-48a7-8838-88ee8111b261",
+      "shortId": "NUGGET",
+      "name": "Akuma :3",
+      "role": "USER",
+      "level": 57
+    },
+    "message": "[matchalette]",
+    "timestamp": "2026-05-10T20:58:00.363Z"
   }
 ]
