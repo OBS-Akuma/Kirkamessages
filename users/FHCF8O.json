@@ -1,0 +1,26 @@
+[
+  {
+    "type": 2,
+    "user": {
+      "id": "75fa5f25-2746-491f-a575-7de0969ace0b",
+      "shortId": "FHCF8O",
+      "name": "Muxitdinov.D",
+      "role": "USER",
+      "level": 93
+    },
+    "message": "/price [panda",
+    "timestamp": "2026-05-10T18:37:12.365Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "75fa5f25-2746-491f-a575-7de0969ace0b",
+      "shortId": "FHCF8O",
+      "name": "Muxitdinov.D",
+      "role": "USER",
+      "level": 93
+    },
+    "message": "/inv",
+    "timestamp": "2026-05-10T18:37:41.786Z"
+  }
+]
