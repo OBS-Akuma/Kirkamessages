@@ -82,5 +82,17 @@
     },
     "message": "[Blast||BODY_SKIN|MYTHICAL]?",
     "timestamp": "2026-05-07T21:12:40.667Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "guest-024e038b-5afd-4d5f-9849-001a6e7333af",
+      "shortId": "3EQ5SG",
+      "name": "waledlenul",
+      "role": "USER",
+      "level": 65
+    },
+    "message": "/price honey",
+    "timestamp": "2026-05-10T16:38:03.522Z"
   }
 ]
