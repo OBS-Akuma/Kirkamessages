@@ -1,0 +1,26 @@
+[
+  {
+    "type": 2,
+    "user": {
+      "id": "jl2ynWI3nOPkrXf4GxyECUakzKu1",
+      "shortId": "RGI1SO",
+      "name": "ITzYuJI_0_0",
+      "role": "USER",
+      "level": 16
+    },
+    "message": "/trad accept 52378",
+    "timestamp": "2026-05-09T16:48:50.645Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "jl2ynWI3nOPkrXf4GxyECUakzKu1",
+      "shortId": "RGI1SO",
+      "name": "ITzYuJI_0_0",
+      "role": "USER",
+      "level": 16
+    },
+    "message": "/trad accept 99880",
+    "timestamp": "2026-05-09T16:50:45.418Z"
+  }
+]
