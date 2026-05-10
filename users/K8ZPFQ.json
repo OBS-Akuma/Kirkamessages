@@ -344,7 +344,67 @@
       "role": "USER",
       "level": 95
     },
-    "message": "pero ella te engaño :(",
+    "message": "pero ella te engaÃ±o :(",
     "timestamp": "2026-05-10T16:57:07.205Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "ec1P8anpgdeYhrsufLSodcZ1DOj2",
+      "shortId": "K8ZPFQ",
+      "name": "TP|Angela",
+      "role": "USER",
+      "level": 95
+    },
+    "message": "/price [Chroma|LAR|WEAPON_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-10T18:10:01.096Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "ec1P8anpgdeYhrsufLSodcZ1DOj2",
+      "shortId": "K8ZPFQ",
+      "name": "TP|Angela",
+      "role": "USER",
+      "level": 95
+    },
+    "message": "lf [Chroma|LAR|WEAPON_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-10T18:10:33.451Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "ec1P8anpgdeYhrsufLSodcZ1DOj2",
+      "shortId": "K8ZPFQ",
+      "name": "TP|Angela",
+      "role": "USER",
+      "level": 95
+    },
+    "message": "cris tienes a [Chroma|LAR|WEAPON_SKIN|MYTHICAL] ?",
+    "timestamp": "2026-05-10T18:11:27.366Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "ec1P8anpgdeYhrsufLSodcZ1DOj2",
+      "shortId": "K8ZPFQ",
+      "name": "TP|Angela",
+      "role": "USER",
+      "level": 95
+    },
+    "message": "/price [Astronova|LAR|WEAPON_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-10T18:12:10.766Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "ec1P8anpgdeYhrsufLSodcZ1DOj2",
+      "shortId": "K8ZPFQ",
+      "name": "TP|Angela",
+      "role": "USER",
+      "level": 95
+    },
+    "message": "lf [Chroma|LAR|WEAPON_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-10T18:15:31.447Z"
   }
 ]
