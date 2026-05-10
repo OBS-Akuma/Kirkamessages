@@ -3010,5 +3010,17 @@
     },
     "message": "trade [Lord||BODY_SKIN|MYTHICAL]",
     "timestamp": "2026-05-10T02:48:04.362Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "a634f8f1-fe8c-487e-8d44-2efa53ae05de",
+      "shortId": "CBYAK3",
+      "name": "bobd",
+      "role": "USER",
+      "level": 10
+    },
+    "message": "/enter",
+    "timestamp": "2026-05-10T16:51:10.883Z"
   }
 ]
