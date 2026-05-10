@@ -190,5 +190,65 @@
     },
     "message": "/hm [Black Santa||BODY_SKIN|PARANORMAL]",
     "timestamp": "2026-05-10T17:25:23.023Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "e593855f-34dd-4d12-b03f-87cf92b607c9",
+      "shortId": "Q9COV0",
+      "name": "Dutchman",
+      "role": "USER",
+      "level": 95
+    },
+    "message": "Yes",
+    "timestamp": "2026-05-10T18:06:47.620Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "e593855f-34dd-4d12-b03f-87cf92b607c9",
+      "shortId": "Q9COV0",
+      "name": "Dutchman",
+      "role": "USER",
+      "level": 95
+    },
+    "message": "/confirm",
+    "timestamp": "2026-05-10T18:07:27.551Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "e593855f-34dd-4d12-b03f-87cf92b607c9",
+      "shortId": "Q9COV0",
+      "name": "Dutchman",
+      "role": "USER",
+      "level": 95
+    },
+    "message": "/confirmwager",
+    "timestamp": "2026-05-10T18:07:48.409Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "e593855f-34dd-4d12-b03f-87cf92b607c9",
+      "shortId": "Q9COV0",
+      "name": "Dutchman",
+      "role": "USER",
+      "level": 95
+    },
+    "message": "Yes",
+    "timestamp": "2026-05-10T18:08:26.677Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "e593855f-34dd-4d12-b03f-87cf92b607c9",
+      "shortId": "Q9COV0",
+      "name": "Dutchman",
+      "role": "USER",
+      "level": 95
+    },
+    "message": "/confirmwager",
+    "timestamp": "2026-05-10T18:08:38.147Z"
   }
 ]
