@@ -2735,5 +2735,17 @@
     },
     "message": "#2YSC0R",
     "timestamp": "2026-05-08T19:42:52.863Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "7f2a6090-abcb-48a7-8838-88ee8111b261",
+      "shortId": "NUGGET",
+      "name": "Akuma :3",
+      "role": "USER",
+      "level": 57
+    },
+    "message": "/inv",
+    "timestamp": "2026-05-10T17:36:33.284Z"
   }
 ]
