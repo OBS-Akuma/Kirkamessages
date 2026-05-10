@@ -1,0 +1,14 @@
+[
+  {
+    "type": 2,
+    "user": {
+      "id": "guest-cf184481-e6a8-4fb4-9f37-45c6dd33d720",
+      "shortId": "8622IE",
+      "name": "Kevin",
+      "role": "USER",
+      "level": 5
+    },
+    "message": "hi",
+    "timestamp": "2026-05-10T17:43:48.713Z"
+  }
+]
