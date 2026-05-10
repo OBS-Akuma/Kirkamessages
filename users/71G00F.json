@@ -358,5 +358,41 @@
     },
     "message": "qwerty hm for [Taurus|Shark|WEAPON_SKIN|LEGENDARY]",
     "timestamp": "2026-05-08T20:49:05.091Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "0aa4b82d-c493-46e5-b15e-1a5be70aca94",
+      "shortId": "71G00F",
+      "name": "cc-baals",
+      "role": "USER",
+      "level": 83
+    },
+    "message": "/hm arc",
+    "timestamp": "2026-05-10T17:15:55.950Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "0aa4b82d-c493-46e5-b15e-1a5be70aca94",
+      "shortId": "71G00F",
+      "name": "cc-baals",
+      "role": "USER",
+      "level": 83
+    },
+    "message": "tr[Ghoul||BODY_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-10T17:17:16.099Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "0aa4b82d-c493-46e5-b15e-1a5be70aca94",
+      "shortId": "71G00F",
+      "name": "cc-baals",
+      "role": "USER",
+      "level": 83
+    },
+    "message": "/inv",
+    "timestamp": "2026-05-10T17:17:35.041Z"
   }
 ]
