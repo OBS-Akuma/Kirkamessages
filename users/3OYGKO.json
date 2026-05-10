@@ -1,0 +1,74 @@
+[
+  {
+    "type": 2,
+    "user": {
+      "id": "ed104c97-108d-4125-8c8d-3b73b44aa189",
+      "shortId": "3OYGKO",
+      "name": "Lego",
+      "role": "USER",
+      "level": 65
+    },
+    "message": "/hm [decor",
+    "timestamp": "2026-05-10T18:24:54.670Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "ed104c97-108d-4125-8c8d-3b73b44aa189",
+      "shortId": "3OYGKO",
+      "name": "Lego",
+      "role": "USER",
+      "level": 65
+    },
+    "message": "/hm [2024",
+    "timestamp": "2026-05-10T18:25:15.250Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "ed104c97-108d-4125-8c8d-3b73b44aa189",
+      "shortId": "3OYGKO",
+      "name": "Lego",
+      "role": "USER",
+      "level": 65
+    },
+    "message": "/hm [retro",
+    "timestamp": "2026-05-10T18:30:16.928Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "ed104c97-108d-4125-8c8d-3b73b44aa189",
+      "shortId": "3OYGKO",
+      "name": "Lego",
+      "role": "USER",
+      "level": 65
+    },
+    "message": "/hm [mary",
+    "timestamp": "2026-05-10T18:30:46.645Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "ed104c97-108d-4125-8c8d-3b73b44aa189",
+      "shortId": "3OYGKO",
+      "name": "Lego",
+      "role": "USER",
+      "level": 65
+    },
+    "message": "/hm [skillz",
+    "timestamp": "2026-05-10T18:32:13.226Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "ed104c97-108d-4125-8c8d-3b73b44aa189",
+      "shortId": "3OYGKO",
+      "name": "Lego",
+      "role": "USER",
+      "level": 65
+    },
+    "message": "who has [decor",
+    "timestamp": "2026-05-10T18:35:31.204Z"
+  }
+]
