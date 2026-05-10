@@ -1379,5 +1379,17 @@
     },
     "message": "join us",
     "timestamp": "2026-05-10T17:07:57.635Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "c6fa57d2-a23b-4634-bf14-fa463568bdf2",
+      "shortId": "0TNRWI",
+      "name": "venus",
+      "role": "USER",
+      "level": 84
+    },
+    "message": "/hm bad bunny",
+    "timestamp": "2026-05-10T17:43:34.150Z"
   }
 ]
