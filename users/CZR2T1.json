@@ -898,5 +898,53 @@
     },
     "message": "darn",
     "timestamp": "2026-05-10T21:39:04.370Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "e4a524c4-2971-4538-87ff-f9ca548af65f",
+      "shortId": "CZR2T1",
+      "name": "I_IS_HIM",
+      "role": "USER",
+      "level": 53
+    },
+    "message": "what do you have for trade",
+    "timestamp": "2026-05-10T21:39:08.052Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "e4a524c4-2971-4538-87ff-f9ca548af65f",
+      "shortId": "CZR2T1",
+      "name": "I_IS_HIM",
+      "role": "USER",
+      "level": 53
+    },
+    "message": "what cosmic",
+    "timestamp": "2026-05-10T21:39:14.673Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "e4a524c4-2971-4538-87ff-f9ca548af65f",
+      "shortId": "CZR2T1",
+      "name": "I_IS_HIM",
+      "role": "USER",
+      "level": 53
+    },
+    "message": "ill give you one wood for two of your woods",
+    "timestamp": "2026-05-10T21:39:29.001Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "e4a524c4-2971-4538-87ff-f9ca548af65f",
+      "shortId": "CZR2T1",
+      "name": "I_IS_HIM",
+      "role": "USER",
+      "level": 53
+    },
+    "message": "QWERTY why do you have three [Qod||BODY_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-10T21:39:51.032Z"
   }
 ]
