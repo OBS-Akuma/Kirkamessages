@@ -622,5 +622,77 @@
     },
     "message": "[Biker||BODY_SKIN|MYTHICAL] for [Lion||BODY_SKIN|MYTHICAL]?",
     "timestamp": "2026-05-08T21:56:26.878Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "4640c5e7-8889-4f71-8446-a54180b81f7c",
+      "shortId": "KLBFGG",
+      "name": "keyboard",
+      "role": "USER",
+      "level": 77
+    },
+    "message": "anyone wanna wager moonlight?",
+    "timestamp": "2026-05-10T02:13:03.288Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "4640c5e7-8889-4f71-8446-a54180b81f7c",
+      "shortId": "KLBFGG",
+      "name": "keyboard",
+      "role": "USER",
+      "level": 77
+    },
+    "message": "mhm",
+    "timestamp": "2026-05-10T02:13:21.874Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "4640c5e7-8889-4f71-8446-a54180b81f7c",
+      "shortId": "KLBFGG",
+      "name": "keyboard",
+      "role": "USER",
+      "level": 77
+    },
+    "message": "[Moonlight|MAC-10|WEAPON_SKIN|MYTHICAL]x4 [Turtle|Bayonet|WEAPON_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-10T02:14:53.362Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "4640c5e7-8889-4f71-8446-a54180b81f7c",
+      "shortId": "KLBFGG",
+      "name": "keyboard",
+      "role": "USER",
+      "level": 77
+    },
+    "message": "biker for ashley?",
+    "timestamp": "2026-05-10T16:37:05.035Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "4640c5e7-8889-4f71-8446-a54180b81f7c",
+      "shortId": "KLBFGG",
+      "name": "keyboard",
+      "role": "USER",
+      "level": 77
+    },
+    "message": "/wager [Melody||BODY_SKIN|MYTHICAL]x1 #7ZBHU4",
+    "timestamp": "2026-05-10T16:42:05.750Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "4640c5e7-8889-4f71-8446-a54180b81f7c",
+      "shortId": "KLBFGG",
+      "name": "keyboard",
+      "role": "USER",
+      "level": 77
+    },
+    "message": "/hm ashley",
+    "timestamp": "2026-05-10T16:45:47.067Z"
   }
 ]
