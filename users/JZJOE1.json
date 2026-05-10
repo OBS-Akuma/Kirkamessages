@@ -34,5 +34,41 @@
     },
     "message": "Xd",
     "timestamp": "2026-05-08T19:48:41.079Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "b7ca9886-9c2b-4355-9b83-fd533a009c2e",
+      "shortId": "JZJOE1",
+      "name": "MaybeLaterMan",
+      "role": "USER",
+      "level": 72
+    },
+    "message": "Wtf is that offer",
+    "timestamp": "2026-05-10T18:36:00.498Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "b7ca9886-9c2b-4355-9b83-fd533a009c2e",
+      "shortId": "JZJOE1",
+      "name": "MaybeLaterMan",
+      "role": "USER",
+      "level": 72
+    },
+    "message": "Samu can hit a kod easely",
+    "timestamp": "2026-05-10T18:36:10.483Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "b7ca9886-9c2b-4355-9b83-fd533a009c2e",
+      "shortId": "JZJOE1",
+      "name": "MaybeLaterMan",
+      "role": "USER",
+      "level": 72
+    },
+    "message": "Jolly hm arch?",
+    "timestamp": "2026-05-10T18:36:42.383Z"
   }
 ]
