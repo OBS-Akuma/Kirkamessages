@@ -1258,5 +1258,101 @@
     },
     "message": "ok",
     "timestamp": "2026-05-10T18:40:20.186Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "guest-69326935-6e4e-461b-9115-b6bb334c18cd",
+      "shortId": "1NDTQO",
+      "name": "Zero",
+      "role": "USER",
+      "level": 17
+    },
+    "message": "nxt",
+    "timestamp": "2026-05-10T18:46:24.743Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "guest-69326935-6e4e-461b-9115-b6bb334c18cd",
+      "shortId": "1NDTQO",
+      "name": "Zero",
+      "role": "USER",
+      "level": 17
+    },
+    "message": "check my inv",
+    "timestamp": "2026-05-10T18:46:28.178Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "guest-69326935-6e4e-461b-9115-b6bb334c18cd",
+      "shortId": "1NDTQO",
+      "name": "Zero",
+      "role": "USER",
+      "level": 17
+    },
+    "message": "I'm broke",
+    "timestamp": "2026-05-10T18:46:29.819Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "guest-69326935-6e4e-461b-9115-b6bb334c18cd",
+      "shortId": "1NDTQO",
+      "name": "Zero",
+      "role": "USER",
+      "level": 17
+    },
+    "message": "broker than monster",
+    "timestamp": "2026-05-10T18:46:33.709Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "guest-69326935-6e4e-461b-9115-b6bb334c18cd",
+      "shortId": "1NDTQO",
+      "name": "Zero",
+      "role": "USER",
+      "level": 17
+    },
+    "message": "plz donate",
+    "timestamp": "2026-05-10T18:46:35.311Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "guest-69326935-6e4e-461b-9115-b6bb334c18cd",
+      "shortId": "1NDTQO",
+      "name": "Zero",
+      "role": "USER",
+      "level": 17
+    },
+    "message": "/inv",
+    "timestamp": "2026-05-10T18:46:36.877Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "guest-69326935-6e4e-461b-9115-b6bb334c18cd",
+      "shortId": "1NDTQO",
+      "name": "Zero",
+      "role": "USER",
+      "level": 17
+    },
+    "message": "look",
+    "timestamp": "2026-05-10T18:46:39.363Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "guest-69326935-6e4e-461b-9115-b6bb334c18cd",
+      "shortId": "1NDTQO",
+      "name": "Zero",
+      "role": "USER",
+      "level": 17
+    },
+    "message": "I'm RLLY broke",
+    "timestamp": "2026-05-10T18:46:42.462Z"
   }
 ]
