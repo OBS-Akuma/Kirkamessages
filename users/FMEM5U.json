@@ -262,5 +262,257 @@
     },
     "message": "/challenge",
     "timestamp": "2026-05-09T04:38:35.645Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "guest-b9d1b97b-1786-49ad-9242-6f1a7b3c4e8a",
+      "shortId": "FMEM5U",
+      "name": "JaniYousafYT",
+      "role": "USER",
+      "level": 17
+    },
+    "message": "/price golden 100",
+    "timestamp": "2026-05-09T04:54:19.011Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "guest-b9d1b97b-1786-49ad-9242-6f1a7b3c4e8a",
+      "shortId": "FMEM5U",
+      "name": "JaniYousafYT",
+      "role": "USER",
+      "level": 17
+    },
+    "message": "/price [Golden||CHEST|LEGENDARY] 100",
+    "timestamp": "2026-05-09T04:54:41.949Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "guest-b9d1b97b-1786-49ad-9242-6f1a7b3c4e8a",
+      "shortId": "FMEM5U",
+      "name": "JaniYousafYT",
+      "role": "USER",
+      "level": 17
+    },
+    "message": "/buy [Golden||CHEST|LEGENDARY] 100",
+    "timestamp": "2026-05-09T04:55:06.782Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "guest-b9d1b97b-1786-49ad-9242-6f1a7b3c4e8a",
+      "shortId": "FMEM5U",
+      "name": "JaniYousafYT",
+      "role": "USER",
+      "level": 17
+    },
+    "message": "imagine having -171 coins",
+    "timestamp": "2026-05-09T04:56:02.619Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "guest-b9d1b97b-1786-49ad-9242-6f1a7b3c4e8a",
+      "shortId": "FMEM5U",
+      "name": "JaniYousafYT",
+      "role": "USER",
+      "level": 17
+    },
+    "message": "imagine having -171 cimagine having -171 coinsoins",
+    "timestamp": "2026-05-09T04:56:04.018Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "guest-b9d1b97b-1786-49ad-9242-6f1a7b3c4e8a",
+      "shortId": "FMEM5U",
+      "name": "JaniYousafYT",
+      "role": "USER",
+      "level": 17
+    },
+    "message": "imagine having -171 coins",
+    "timestamp": "2026-05-09T04:56:06.211Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "guest-b9d1b97b-1786-49ad-9242-6f1a7b3c4e8a",
+      "shortId": "FMEM5U",
+      "name": "JaniYousafYT",
+      "role": "USER",
+      "level": 17
+    },
+    "message": "/buy",
+    "timestamp": "2026-05-09T04:57:18.664Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "guest-b9d1b97b-1786-49ad-9242-6f1a7b3c4e8a",
+      "shortId": "FMEM5U",
+      "name": "JaniYousafYT",
+      "role": "USER",
+      "level": 20
+    },
+    "message": "/flip",
+    "timestamp": "2026-05-09T16:50:57.088Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "guest-b9d1b97b-1786-49ad-9242-6f1a7b3c4e8a",
+      "shortId": "FMEM5U",
+      "name": "JaniYousafYT",
+      "role": "USER",
+      "level": 20
+    },
+    "message": "/inv",
+    "timestamp": "2026-05-09T16:51:42.367Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "guest-b9d1b97b-1786-49ad-9242-6f1a7b3c4e8a",
+      "shortId": "FMEM5U",
+      "name": "JaniYousafYT",
+      "role": "USER",
+      "level": 20
+    },
+    "message": "/wager [Golden||CHEST|LEGENDARY] 159",
+    "timestamp": "2026-05-09T16:53:21.212Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "guest-b9d1b97b-1786-49ad-9242-6f1a7b3c4e8a",
+      "shortId": "FMEM5U",
+      "name": "JaniYousafYT",
+      "role": "USER",
+      "level": 20
+    },
+    "message": "/wager [Golden||CHEST|LEGENDARY]x<159> #FMEM5U",
+    "timestamp": "2026-05-09T16:54:55.354Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "guest-b9d1b97b-1786-49ad-9242-6f1a7b3c4e8a",
+      "shortId": "FMEM5U",
+      "name": "JaniYousafYT",
+      "role": "USER",
+      "level": 20
+    },
+    "message": "/wager [Golden||CHEST|LEGENDARY] 159 #ESCROW",
+    "timestamp": "2026-05-09T16:55:37.764Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "guest-b9d1b97b-1786-49ad-9242-6f1a7b3c4e8a",
+      "shortId": "FMEM5U",
+      "name": "JaniYousafYT",
+      "role": "USER",
+      "level": 20
+    },
+    "message": "/wager [Golden||CHEST|LEGENDARY] ##0008ZR",
+    "timestamp": "2026-05-09T16:56:01.014Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "guest-b9d1b97b-1786-49ad-9242-6f1a7b3c4e8a",
+      "shortId": "FMEM5U",
+      "name": "JaniYousafYT",
+      "role": "USER",
+      "level": 20
+    },
+    "message": "/confirmwager",
+    "timestamp": "2026-05-09T16:56:06.817Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "guest-b9d1b97b-1786-49ad-9242-6f1a7b3c4e8a",
+      "shortId": "FMEM5U",
+      "name": "JaniYousafYT",
+      "role": "USER",
+      "level": 20
+    },
+    "message": "Anyone want to wager",
+    "timestamp": "2026-05-09T16:56:51.766Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "guest-b9d1b97b-1786-49ad-9242-6f1a7b3c4e8a",
+      "shortId": "FMEM5U",
+      "name": "JaniYousafYT",
+      "role": "USER",
+      "level": 20
+    },
+    "message": "/wager [Golden||CHEST|LEGENDARY] 159 #0008ZR",
+    "timestamp": "2026-05-09T16:57:11.985Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "guest-b9d1b97b-1786-49ad-9242-6f1a7b3c4e8a",
+      "shortId": "FMEM5U",
+      "name": "JaniYousafYT",
+      "role": "USER",
+      "level": 20
+    },
+    "message": "/cancelwager",
+    "timestamp": "2026-05-09T16:57:16.887Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "guest-b9d1b97b-1786-49ad-9242-6f1a7b3c4e8a",
+      "shortId": "FMEM5U",
+      "name": "JaniYousafYT",
+      "role": "USER",
+      "level": 20
+    },
+    "message": "/wager [Golden||CHEST|LEGENDARY] 159 #0008ZR",
+    "timestamp": "2026-05-09T16:57:30.392Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "guest-b9d1b97b-1786-49ad-9242-6f1a7b3c4e8a",
+      "shortId": "FMEM5U",
+      "name": "JaniYousafYT",
+      "role": "USER",
+      "level": 20
+    },
+    "message": "/cancelwager",
+    "timestamp": "2026-05-09T16:57:38.251Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "guest-b9d1b97b-1786-49ad-9242-6f1a7b3c4e8a",
+      "shortId": "FMEM5U",
+      "name": "JaniYousafYT",
+      "role": "USER",
+      "level": 20
+    },
+    "message": "/wager [Golden||CHEST|LEGENDARY] 159 #BXOKLG",
+    "timestamp": "2026-05-09T16:57:53.971Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "guest-b9d1b97b-1786-49ad-9242-6f1a7b3c4e8a",
+      "shortId": "FMEM5U",
+      "name": "JaniYousafYT",
+      "role": "USER",
+      "level": 20
+    },
+    "message": "/wager [Golden||CHEST|LEGENDARY]x<159>#BXOKLG",
+    "timestamp": "2026-05-09T16:58:18.270Z"
   }
 ]
