@@ -1006,5 +1006,65 @@
     },
     "message": "/claim 67",
     "timestamp": "2026-05-08T09:10:07.516Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "Sy7ytB6DYGemOzCOx0B0PbrmHLy1",
+      "shortId": "OVXBOV",
+      "name": "TT|Swagg",
+      "role": "USER",
+      "level": 94
+    },
+    "message": "/hm garden",
+    "timestamp": "2026-05-10T17:52:37.696Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "Sy7ytB6DYGemOzCOx0B0PbrmHLy1",
+      "shortId": "OVXBOV",
+      "name": "TT|Swagg",
+      "role": "USER",
+      "level": 94
+    },
+    "message": "rage",
+    "timestamp": "2026-05-10T17:52:43.705Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "Sy7ytB6DYGemOzCOx0B0PbrmHLy1",
+      "shortId": "OVXBOV",
+      "name": "TT|Swagg",
+      "role": "USER",
+      "level": 94
+    },
+    "message": "rage my full inv for garden?",
+    "timestamp": "2026-05-10T17:52:51.738Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "Sy7ytB6DYGemOzCOx0B0PbrmHLy1",
+      "shortId": "OVXBOV",
+      "name": "TT|Swagg",
+      "role": "USER",
+      "level": 94
+    },
+    "message": "who has [Queen||BODY_SKIN|MYTHICAL]?",
+    "timestamp": "2026-05-10T17:53:54.481Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "Sy7ytB6DYGemOzCOx0B0PbrmHLy1",
+      "shortId": "OVXBOV",
+      "name": "TT|Swagg",
+      "role": "USER",
+      "level": 94
+    },
+    "message": "tr [Damascus|Tomahawk|WEAPON_SKIN|MYTHICAL][Polar||BODY_SKIN|MYTHICAL][Fever|SCAR|WEAPON_SKIN|MYTHICAL][Diane|Shark|WEAPON_SKIN|MYTHICAL][Capricorn|Tomahawk|WEAPON_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-10T18:12:46.049Z"
   }
 ]
