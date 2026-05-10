@@ -130,5 +130,137 @@
     },
     "message": "#2BJNY9",
     "timestamp": "2026-05-10T02:18:40.098Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "rx3Zp9W8uQRK99P31czAjgg8okC3",
+      "shortId": "1PJX81",
+      "name": "Glare",
+      "role": "USER",
+      "level": 56
+    },
+    "message": "yo",
+    "timestamp": "2026-05-10T16:54:07.468Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "rx3Zp9W8uQRK99P31czAjgg8okC3",
+      "shortId": "1PJX81",
+      "name": "Glare",
+      "role": "USER",
+      "level": 56
+    },
+    "message": "who wanna trade my {Drake}",
+    "timestamp": "2026-05-10T16:54:22.638Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "rx3Zp9W8uQRK99P31czAjgg8okC3",
+      "shortId": "1PJX81",
+      "name": "Glare",
+      "role": "USER",
+      "level": 56
+    },
+    "message": "/price {drake}",
+    "timestamp": "2026-05-10T16:55:07.379Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "rx3Zp9W8uQRK99P31czAjgg8okC3",
+      "shortId": "1PJX81",
+      "name": "Glare",
+      "role": "USER",
+      "level": 56
+    },
+    "message": "/price {Drake}",
+    "timestamp": "2026-05-10T16:55:23.681Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "rx3Zp9W8uQRK99P31czAjgg8okC3",
+      "shortId": "1PJX81",
+      "name": "Glare",
+      "role": "USER",
+      "level": 56
+    },
+    "message": "who wanna trade my Drake",
+    "timestamp": "2026-05-10T16:56:21.349Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "rx3Zp9W8uQRK99P31czAjgg8okC3",
+      "shortId": "1PJX81",
+      "name": "Glare",
+      "role": "USER",
+      "level": 56
+    },
+    "message": "who wanna trade me for my Drake",
+    "timestamp": "2026-05-10T16:56:31.333Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "rx3Zp9W8uQRK99P31czAjgg8okC3",
+      "shortId": "1PJX81",
+      "name": "Glare",
+      "role": "USER",
+      "level": 56
+    },
+    "message": "wsg",
+    "timestamp": "2026-05-10T17:13:00.738Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "rx3Zp9W8uQRK99P31czAjgg8okC3",
+      "shortId": "1PJX81",
+      "name": "Jane",
+      "role": "USER",
+      "level": 56
+    },
+    "message": "#4CQDEK Drake for arc?",
+    "timestamp": "2026-05-10T17:13:59.334Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "rx3Zp9W8uQRK99P31czAjgg8okC3",
+      "shortId": "1PJX81",
+      "name": "Jane",
+      "role": "USER",
+      "level": 56
+    },
+    "message": "im glare btw",
+    "timestamp": "2026-05-10T17:14:06.156Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "rx3Zp9W8uQRK99P31czAjgg8okC3",
+      "shortId": "1PJX81",
+      "name": "Jane",
+      "role": "USER",
+      "level": 56
+    },
+    "message": "i changed my name idk why",
+    "timestamp": "2026-05-10T17:14:11.560Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "rx3Zp9W8uQRK99P31czAjgg8okC3",
+      "shortId": "1PJX81",
+      "name": "Jane",
+      "role": "USER",
+      "level": 56
+    },
+    "message": "ok",
+    "timestamp": "2026-05-10T17:14:16.923Z"
   }
 ]
