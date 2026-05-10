@@ -1114,5 +1114,41 @@
     },
     "message": "trading [Bansee|VITA|WEAPON_SKIN|MYTHICAL] [Synergy|LAR|WEAPON_SKIN|MYTHICAL]",
     "timestamp": "2026-05-08T00:01:35.043Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "1c9cf342-5e36-47ce-86d7-096f4170995e",
+      "shortId": "2MHNQX",
+      "name": "Midnight",
+      "role": "USER",
+      "level": 101
+    },
+    "message": "lf [rainbows",
+    "timestamp": "2026-05-10T17:22:21.497Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "1c9cf342-5e36-47ce-86d7-096f4170995e",
+      "shortId": "2MHNQX",
+      "name": "Midnight",
+      "role": "USER",
+      "level": 101
+    },
+    "message": "/bump trade",
+    "timestamp": "2026-05-10T17:22:34.731Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "1c9cf342-5e36-47ce-86d7-096f4170995e",
+      "shortId": "2MHNQX",
+      "name": "Midnight",
+      "role": "USER",
+      "level": 101
+    },
+    "message": "/hm phantom",
+    "timestamp": "2026-05-10T17:24:40.870Z"
   }
 ]
