@@ -1030,5 +1030,101 @@
     },
     "message": "anyone trading [Moon||BODY_SKIN|LEGENDARY]?",
     "timestamp": "2026-05-07T23:19:39.598Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "64546038-d71f-428b-8f7f-85f52af80adc",
+      "shortId": "Q4FDRT",
+      "name": "Deimos",
+      "role": "USER",
+      "level": 102
+    },
+    "message": "[Warlord||BODY_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-10T21:28:45.633Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "64546038-d71f-428b-8f7f-85f52af80adc",
+      "shortId": "Q4FDRT",
+      "name": "Deimos",
+      "role": "USER",
+      "level": 102
+    },
+    "message": "[Mabel||BODY_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-10T21:34:03.992Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "64546038-d71f-428b-8f7f-85f52af80adc",
+      "shortId": "Q4FDRT",
+      "name": "Deimos",
+      "role": "USER",
+      "level": 102
+    },
+    "message": "[Heavy|LAR|WEAPON_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-10T21:34:31.743Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "64546038-d71f-428b-8f7f-85f52af80adc",
+      "shortId": "Q4FDRT",
+      "name": "Deimos",
+      "role": "USER",
+      "level": 102
+    },
+    "message": "[Master|AR-9|WEAPON_SKIN|LEGENDARY]",
+    "timestamp": "2026-05-10T21:35:21.770Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "64546038-d71f-428b-8f7f-85f52af80adc",
+      "shortId": "Q4FDRT",
+      "name": "Deimos",
+      "role": "USER",
+      "level": 102
+    },
+    "message": "[Legend|VITA|WEAPON_SKIN|LEGENDARY]",
+    "timestamp": "2026-05-10T21:35:53.770Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "64546038-d71f-428b-8f7f-85f52af80adc",
+      "shortId": "Q4FDRT",
+      "name": "Deimos",
+      "role": "USER",
+      "level": 102
+    },
+    "message": "[Champion|Bayonet|WEAPON_SKIN|LEGENDARY]",
+    "timestamp": "2026-05-10T21:36:07.425Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "64546038-d71f-428b-8f7f-85f52af80adc",
+      "shortId": "Q4FDRT",
+      "name": "Deimos",
+      "role": "USER",
+      "level": 102
+    },
+    "message": "yo",
+    "timestamp": "2026-05-10T21:37:03.247Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "64546038-d71f-428b-8f7f-85f52af80adc",
+      "shortId": "Q4FDRT",
+      "name": "Deimos",
+      "role": "USER",
+      "level": 102
+    },
+    "message": "im not trading blackhole",
+    "timestamp": "2026-05-10T21:37:15.437Z"
   }
 ]
