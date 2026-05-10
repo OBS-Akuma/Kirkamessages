@@ -2506,5 +2506,41 @@
     },
     "message": "lf [Onryo||BODY_SKIN|MYTHICAL]",
     "timestamp": "2026-05-10T18:27:39.512Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "99cc3bc0-e1e3-48ee-815b-9bfe1f7f7fe2",
+      "shortId": "00ZW80",
+      "name": "Newbie",
+      "role": "USER",
+      "level": 29
+    },
+    "message": "lf [Tiburon|Bayonet|WEAPON_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-10T19:24:44.300Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "99cc3bc0-e1e3-48ee-815b-9bfe1f7f7fe2",
+      "shortId": "00ZW80",
+      "name": "Newbie",
+      "role": "USER",
+      "level": 29
+    },
+    "message": "trading [Hallowkod||BODY_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-10T19:25:56.423Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "99cc3bc0-e1e3-48ee-815b-9bfe1f7f7fe2",
+      "shortId": "00ZW80",
+      "name": "Newbie",
+      "role": "USER",
+      "level": 29
+    },
+    "message": "add",
+    "timestamp": "2026-05-10T19:26:38.017Z"
   }
 ]
