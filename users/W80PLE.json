@@ -116,7 +116,7 @@
       "role": "USER",
       "level": 58
     },
-    "message": "à¦à¦¦",
+    "message": "Ã Â¦ÂÃ Â¦Â¦",
     "timestamp": "2026-05-09T16:47:29.951Z"
   },
   {
@@ -178,5 +178,89 @@
     },
     "message": "In trhome bye or wuick",
     "timestamp": "2026-05-09T16:50:22.636Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "8Tkwx3gcg1YIlcKCvzRO0rUQxif2",
+      "shortId": "W80PLE",
+      "name": "PINKY_PONKEY",
+      "role": "USER",
+      "level": 58
+    },
+    "message": "/inv #BEAST7",
+    "timestamp": "2026-05-10T17:00:44.688Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "8Tkwx3gcg1YIlcKCvzRO0rUQxif2",
+      "shortId": "W80PLE",
+      "name": "PINKY_PONKEY",
+      "role": "USER",
+      "level": 58
+    },
+    "message": "Trade[Adora||BODY_SKIN|PARANORMAL][Void SCAR|SCAR|WEAPON_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-10T17:02:25.004Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "8Tkwx3gcg1YIlcKCvzRO0rUQxif2",
+      "shortId": "W80PLE",
+      "name": "PINKY_PONKEY",
+      "role": "USER",
+      "level": 58
+    },
+    "message": "10m",
+    "timestamp": "2026-05-10T17:02:49.350Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "8Tkwx3gcg1YIlcKCvzRO0rUQxif2",
+      "shortId": "W80PLE",
+      "name": "PINKY_PONKEY",
+      "role": "USER",
+      "level": 58
+    },
+    "message": "Dream offer for void scar",
+    "timestamp": "2026-05-10T17:03:10.768Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "8Tkwx3gcg1YIlcKCvzRO0rUQxif2",
+      "shortId": "W80PLE",
+      "name": "PINKY_PONKEY",
+      "role": "USER",
+      "level": 58
+    },
+    "message": "In trho.e nah",
+    "timestamp": "2026-05-10T17:04:02.684Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "8Tkwx3gcg1YIlcKCvzRO0rUQxif2",
+      "shortId": "W80PLE",
+      "name": "PINKY_PONKEY",
+      "role": "USER",
+      "level": 58
+    },
+    "message": "Nty",
+    "timestamp": "2026-05-10T17:04:38.048Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "8Tkwx3gcg1YIlcKCvzRO0rUQxif2",
+      "shortId": "W80PLE",
+      "name": "PINKY_PONKEY",
+      "role": "USER",
+      "level": 58
+    },
+    "message": "Trade [Adora||BODY_SKIN|PARANORMAL][Void SCAR|SCAR|WEAPON_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-10T17:05:02.411Z"
   }
 ]
