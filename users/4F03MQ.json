@@ -1414,5 +1414,17 @@
     },
     "message": "ethogn me",
     "timestamp": "2026-05-10T22:08:25.318Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "2d057859-f79e-4ba4-825b-4c368a83535c",
+      "shortId": "4F03MQ",
+      "name": "The_Re@per",
+      "role": "USER",
+      "level": 59
+    },
+    "message": "I got 1548 military packs",
+    "timestamp": "2026-05-10T23:21:19.850Z"
   }
 ]
