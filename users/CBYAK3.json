@@ -2998,5 +2998,17 @@
     },
     "message": "/price hotrod vita",
     "timestamp": "2026-05-09T05:58:07.471Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "a634f8f1-fe8c-487e-8d44-2efa53ae05de",
+      "shortId": "CBYAK3",
+      "name": "bobd",
+      "role": "USER",
+      "level": 10
+    },
+    "message": "trade [Lord||BODY_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-10T02:48:04.362Z"
   }
 ]
