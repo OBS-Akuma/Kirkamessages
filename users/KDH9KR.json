@@ -454,5 +454,77 @@
     },
     "message": ":\\",
     "timestamp": "2026-05-09T05:26:30.193Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "TpaHcMKpZ1Uh0sdDEu4UDAONcdS2",
+      "shortId": "KDH9KR",
+      "name": "strange",
+      "role": "USER",
+      "level": 43
+    },
+    "message": "tr[Void Bayonet|Bayonet|WEAPON_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-09T16:40:10.094Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "TpaHcMKpZ1Uh0sdDEu4UDAONcdS2",
+      "shortId": "KDH9KR",
+      "name": "strange",
+      "role": "USER",
+      "level": 43
+    },
+    "message": "tr[Void Bayonet|Bayonet|WEAPON_SKIN|MYTHICAL].",
+    "timestamp": "2026-05-09T16:40:37.533Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "TpaHcMKpZ1Uh0sdDEu4UDAONcdS2",
+      "shortId": "KDH9KR",
+      "name": "strange",
+      "role": "USER",
+      "level": 43
+    },
+    "message": "?",
+    "timestamp": "2026-05-09T16:40:44.972Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "TpaHcMKpZ1Uh0sdDEu4UDAONcdS2",
+      "shortId": "KDH9KR",
+      "name": "strange",
+      "role": "USER",
+      "level": 43
+    },
+    "message": "what?",
+    "timestamp": "2026-05-09T16:40:55.481Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "TpaHcMKpZ1Uh0sdDEu4UDAONcdS2",
+      "shortId": "KDH9KR",
+      "name": "strange",
+      "role": "USER",
+      "level": 43
+    },
+    "message": "no",
+    "timestamp": "2026-05-09T16:41:07.716Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "TpaHcMKpZ1Uh0sdDEu4UDAONcdS2",
+      "shortId": "KDH9KR",
+      "name": "strange",
+      "role": "USER",
+      "level": 43
+    },
+    "message": "i dont like [Blast Bayonet|Bayonet|WEAPON_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-09T16:41:13.793Z"
   }
 ]
