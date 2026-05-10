@@ -2506,5 +2506,17 @@
     },
     "message": "trdng[Candle|Bayonet|WEAPON_SKIN|MYTHICAL],[Vera||BODY_SKIN|MYTHICAL],[Jenni||BODY_SKIN|MYTHICAL],[Skillz||BODY_SKIN|MYTHICAL],[Jazzin||BODY_SKIN|MYTHICAL],[Godzilla|AR-9|WEAPON_SKIN|LEGENDARY],[Firedemon||BODY_SKIN|LEGENDARY],[Vocaloid|SCAR|WEAPON_SKIN|LEGENDARY]",
     "timestamp": "2026-05-09T01:32:31.467Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "6ea76ffe-0fdc-46fc-b3a0-95b6bab931e2",
+      "shortId": "CRCD0D",
+      "name": "TP|Jhosen|Live",
+      "role": "USER",
+      "level": 94
+    },
+    "message": "/st [Eclipse|Bayonet|WEAPON_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-10T02:11:11.535Z"
   }
 ]
