@@ -1,0 +1,98 @@
+[
+  {
+    "type": 2,
+    "user": {
+      "id": "74dd79bd-7e5e-4526-8252-d57530673d6e",
+      "shortId": "6IFMER",
+      "name": "partyy",
+      "role": "USER",
+      "level": 31
+    },
+    "message": "/wager [Golden||CHEST|LEGENDARY] #7zbhu4",
+    "timestamp": "2026-05-10T16:46:23.010Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "74dd79bd-7e5e-4526-8252-d57530673d6e",
+      "shortId": "6IFMER",
+      "name": "partyy",
+      "role": "USER",
+      "level": 31
+    },
+    "message": "/confirmwager",
+    "timestamp": "2026-05-10T16:49:11.166Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "74dd79bd-7e5e-4526-8252-d57530673d6e",
+      "shortId": "6IFMER",
+      "name": "partyy",
+      "role": "USER",
+      "level": 31
+    },
+    "message": "/claim",
+    "timestamp": "2026-05-10T16:50:02.942Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "74dd79bd-7e5e-4526-8252-d57530673d6e",
+      "shortId": "6IFMER",
+      "name": "partyy",
+      "role": "USER",
+      "level": 31
+    },
+    "message": "/wager [Wood||CHEST|COMMON] #7zbhu4",
+    "timestamp": "2026-05-10T16:50:27.896Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "74dd79bd-7e5e-4526-8252-d57530673d6e",
+      "shortId": "6IFMER",
+      "name": "partyy",
+      "role": "USER",
+      "level": 31
+    },
+    "message": "/claim",
+    "timestamp": "2026-05-10T16:57:12.607Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "74dd79bd-7e5e-4526-8252-d57530673d6e",
+      "shortId": "6IFMER",
+      "name": "partyy",
+      "role": "USER",
+      "level": 31
+    },
+    "message": "/mywager",
+    "timestamp": "2026-05-10T16:57:31.919Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "74dd79bd-7e5e-4526-8252-d57530673d6e",
+      "shortId": "6IFMER",
+      "name": "partyy",
+      "role": "USER",
+      "level": 31
+    },
+    "message": "/wager [Golden||CHEST|LEGENDARY]x10 #6IFMER",
+    "timestamp": "2026-05-10T16:59:02.190Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "74dd79bd-7e5e-4526-8252-d57530673d6e",
+      "shortId": "6IFMER",
+      "name": "partyy",
+      "role": "USER",
+      "level": 31
+    },
+    "message": "/wager [Golden||CHEST|LEGENDARY]x1 #7zbhu4",
+    "timestamp": "2026-05-10T16:59:19.600Z"
+  }
+]
