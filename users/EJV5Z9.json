@@ -598,5 +598,29 @@
     },
     "message": "ty .",
     "timestamp": "2026-05-09T16:39:15.174Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "941e8007-d173-4d61-a5fe-959f990ab350",
+      "shortId": "EJV5Z9",
+      "name": "OOgway",
+      "role": "USER",
+      "level": 99
+    },
+    "message": "bro cancel",
+    "timestamp": "2026-05-10T16:41:16.719Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "941e8007-d173-4d61-a5fe-959f990ab350",
+      "shortId": "EJV5Z9",
+      "name": "OOgway",
+      "role": "USER",
+      "level": 99
+    },
+    "message": "[Golden||CHEST|LEGENDARY] >",
+    "timestamp": "2026-05-10T16:41:21.821Z"
   }
 ]
