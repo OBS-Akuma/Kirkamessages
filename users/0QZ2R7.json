@@ -598,5 +598,41 @@
     },
     "message": "thx dude",
     "timestamp": "2026-05-10T17:29:23.381Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "8292ae2f-a5de-48e3-a36a-77b9bee4fc56",
+      "shortId": "0QZ2R7",
+      "name": "LGD|Zero",
+      "role": "USER",
+      "level": 59
+    },
+    "message": "/hm 2024",
+    "timestamp": "2026-05-10T18:25:24.362Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "8292ae2f-a5de-48e3-a36a-77b9bee4fc56",
+      "shortId": "0QZ2R7",
+      "name": "LGD|Zero",
+      "role": "USER",
+      "level": 59
+    },
+    "message": "i just gotta feel like im scamming someone u know?",
+    "timestamp": "2026-05-10T18:26:16.786Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "8292ae2f-a5de-48e3-a36a-77b9bee4fc56",
+      "shortId": "0QZ2R7",
+      "name": "LGD|Zero",
+      "role": "USER",
+      "level": 59
+    },
+    "message": "ggs",
+    "timestamp": "2026-05-10T18:26:20.306Z"
   }
 ]
