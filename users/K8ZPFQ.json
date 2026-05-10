@@ -118,5 +118,101 @@
     },
     "message": "/price [Impostor||BODY_SKIN|MYTHICAL]",
     "timestamp": "2026-05-10T16:42:36.233Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "ec1P8anpgdeYhrsufLSodcZ1DOj2",
+      "shortId": "K8ZPFQ",
+      "name": "TP|Angela",
+      "role": "USER",
+      "level": 95
+    },
+    "message": "/locate [Impostor||BODY_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-10T16:42:54.346Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "ec1P8anpgdeYhrsufLSodcZ1DOj2",
+      "shortId": "K8ZPFQ",
+      "name": "TP|Angela",
+      "role": "USER",
+      "level": 95
+    },
+    "message": "locate rosy",
+    "timestamp": "2026-05-10T16:43:19.432Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "ec1P8anpgdeYhrsufLSodcZ1DOj2",
+      "shortId": "K8ZPFQ",
+      "name": "TP|Angela",
+      "role": "USER",
+      "level": 95
+    },
+    "message": "/locate rosy",
+    "timestamp": "2026-05-10T16:43:25.521Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "ec1P8anpgdeYhrsufLSodcZ1DOj2",
+      "shortId": "K8ZPFQ",
+      "name": "TP|Angela",
+      "role": "USER",
+      "level": 95
+    },
+    "message": ":v",
+    "timestamp": "2026-05-10T16:45:01.439Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "ec1P8anpgdeYhrsufLSodcZ1DOj2",
+      "shortId": "K8ZPFQ",
+      "name": "TP|Angela",
+      "role": "USER",
+      "level": 95
+    },
+    "message": "trading [Bound|AR-9|WEAPON_SKIN|MYTHICAL],[Jazzin||BODY_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-10T16:45:49.549Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "ec1P8anpgdeYhrsufLSodcZ1DOj2",
+      "shortId": "K8ZPFQ",
+      "name": "TP|Angela",
+      "role": "USER",
+      "level": 95
+    },
+    "message": "noshe :v",
+    "timestamp": "2026-05-10T16:46:01.690Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "ec1P8anpgdeYhrsufLSodcZ1DOj2",
+      "shortId": "K8ZPFQ",
+      "name": "TP|Angela",
+      "role": "USER",
+      "level": 95
+    },
+    "message": "jajajaj",
+    "timestamp": "2026-05-10T16:46:21.939Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "ec1P8anpgdeYhrsufLSodcZ1DOj2",
+      "shortId": "K8ZPFQ",
+      "name": "TP|Angela",
+      "role": "USER",
+      "level": 95
+    },
+    "message": "xd",
+    "timestamp": "2026-05-10T16:46:24.792Z"
   }
 ]
