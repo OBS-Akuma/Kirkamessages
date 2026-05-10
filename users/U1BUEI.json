@@ -214,5 +214,17 @@
     },
     "message": "good job 67 kid 67",
     "timestamp": "2026-05-07T23:59:51.638Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "455090b1-947f-4466-9511-e5f91fc2245b",
+      "shortId": "U1BUEI",
+      "name": "dispersion",
+      "role": "USER",
+      "level": 101
+    },
+    "message": "/wager [daniel]",
+    "timestamp": "2026-05-10T02:21:53.203Z"
   }
 ]
