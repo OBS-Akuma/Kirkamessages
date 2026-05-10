@@ -502,5 +502,29 @@
     },
     "message": "/last10 [Veiled||BODY_SKIN|LEGENDARY]",
     "timestamp": "2026-05-10T21:16:11.478Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "70184f38-6b61-4ca3-bf66-2cdbc3f42f1b",
+      "shortId": "Z1WXJR",
+      "name": "ZouD",
+      "role": "USER",
+      "level": 46
+    },
+    "message": "[Love|VITA|WEAPON_SKIN|LEGENDARY],[Priceless|M60|WEAPON_SKIN|MYTHICAL],[ford]",
+    "timestamp": "2026-05-10T22:47:43.544Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "70184f38-6b61-4ca3-bf66-2cdbc3f42f1b",
+      "shortId": "Z1WXJR",
+      "name": "ZouD",
+      "role": "USER",
+      "level": 46
+    },
+    "message": "plz accept if u have [Vapor|Bayonet|WEAPON_SKIN|LEGENDARY] its my dream skin",
+    "timestamp": "2026-05-10T23:35:09.274Z"
   }
 ]
