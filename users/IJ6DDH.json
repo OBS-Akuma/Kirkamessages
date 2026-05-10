@@ -1786,5 +1786,17 @@
     },
     "message": "Me ethong",
     "timestamp": "2026-05-08T23:01:10.879Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "guest-54be4ece-9e2b-474f-9d38-577976065f54",
+      "shortId": "IJ6DDH",
+      "name": "EGD|Galaxy",
+      "role": "USER",
+      "level": 30
+    },
+    "message": "/enter",
+    "timestamp": "2026-05-10T02:37:07.813Z"
   }
 ]
