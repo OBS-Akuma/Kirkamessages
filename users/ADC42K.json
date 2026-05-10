@@ -358,5 +358,65 @@
     },
     "message": "ok",
     "timestamp": "2026-05-10T17:38:49.183Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "0c505348-c30c-4cbb-b666-b5ae990acec1",
+      "shortId": "ADC42K",
+      "name": "THEBAND",
+      "role": "USER",
+      "level": 17
+    },
+    "message": "ramstein",
+    "timestamp": "2026-05-10T20:34:25.616Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "0c505348-c30c-4cbb-b666-b5ae990acec1",
+      "shortId": "ADC42K",
+      "name": "THEBAND",
+      "role": "USER",
+      "level": 17
+    },
+    "message": "[Anarch|Bayonet|WEAPON_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-10T20:35:11.625Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "0c505348-c30c-4cbb-b666-b5ae990acec1",
+      "shortId": "ADC42K",
+      "name": "THEBAND",
+      "role": "USER",
+      "level": 17
+    },
+    "message": "hey there is a skin like anarch but of vita",
+    "timestamp": "2026-05-10T20:35:35.705Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "0c505348-c30c-4cbb-b666-b5ae990acec1",
+      "shortId": "ADC42K",
+      "name": "THEBAND",
+      "role": "USER",
+      "level": 17
+    },
+    "message": "yea",
+    "timestamp": "2026-05-10T20:35:52.436Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "0c505348-c30c-4cbb-b666-b5ae990acec1",
+      "shortId": "ADC42K",
+      "name": "THEBAND",
+      "role": "USER",
+      "level": 17
+    },
+    "message": "is it combo??",
+    "timestamp": "2026-05-10T20:36:07.708Z"
   }
 ]
