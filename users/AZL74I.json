@@ -1,0 +1,26 @@
+[
+  {
+    "type": 2,
+    "user": {
+      "id": "guest-7ff3c5eb-52e2-4f76-873a-db7931656bab",
+      "shortId": "AZL74I",
+      "name": "yuriSON",
+      "role": "USER",
+      "level": 6
+    },
+    "message": "Oi",
+    "timestamp": "2026-05-10T22:39:33.262Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "guest-7ff3c5eb-52e2-4f76-873a-db7931656bab",
+      "shortId": "AZL74I",
+      "name": "yuriSON",
+      "role": "USER",
+      "level": 6
+    },
+    "message": "Sou mobile por isso que  sou ruim",
+    "timestamp": "2026-05-10T22:41:18.488Z"
+  }
+]
