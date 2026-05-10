@@ -490,5 +490,29 @@
     },
     "message": "yall join ranked favela",
     "timestamp": "2026-05-10T19:13:53.219Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "66c2048f-7fdf-490a-b4fe-9e9f345751b6",
+      "shortId": "W2JR0S",
+      "name": "TobiasKpsGamin",
+      "role": "USER",
+      "level": 78
+    },
+    "message": "/price [Druboor||BODY_SKIN|EPIC]",
+    "timestamp": "2026-05-10T22:43:12.262Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "66c2048f-7fdf-490a-b4fe-9e9f345751b6",
+      "shortId": "W2JR0S",
+      "name": "TobiasKpsGamin",
+      "role": "USER",
+      "level": 78
+    },
+    "message": "[elder]",
+    "timestamp": "2026-05-10T22:44:00.327Z"
   }
 ]
