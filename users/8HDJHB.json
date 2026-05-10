@@ -1534,5 +1534,17 @@
     },
     "message": "might do some tmr im done rn tho",
     "timestamp": "2026-05-09T16:49:41.663Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "72ec1856-cc38-4d9c-8ce7-209fe7821eaa",
+      "shortId": "8HDJHB",
+      "name": "JULIANA",
+      "role": "USER",
+      "level": 80
+    },
+    "message": "/hm dragantic",
+    "timestamp": "2026-05-10T17:27:15.676Z"
   }
 ]
