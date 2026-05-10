@@ -58,5 +58,29 @@
     },
     "message": "/inv",
     "timestamp": "2026-05-08T09:15:44.237Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "VDlzMXAa9DZPbZvebQ5vePHLeex2",
+      "shortId": "3XRCCU",
+      "name": "DABEYT",
+      "role": "USER",
+      "level": 65
+    },
+    "message": "/hm gloopies",
+    "timestamp": "2026-05-10T07:17:48.297Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "VDlzMXAa9DZPbZvebQ5vePHLeex2",
+      "shortId": "3XRCCU",
+      "name": "DABEYT",
+      "role": "USER",
+      "level": 65
+    },
+    "message": "/hm kyoto",
+    "timestamp": "2026-05-10T07:17:54.371Z"
   }
 ]
