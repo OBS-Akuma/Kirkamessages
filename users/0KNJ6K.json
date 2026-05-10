@@ -790,5 +790,29 @@
     },
     "message": "no more",
     "timestamp": "2026-05-08T20:59:40.642Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "665f1a4c-31dc-42b2-9866-5c5b9e918c1f",
+      "shortId": "0KNJ6K",
+      "name": "Sloth",
+      "role": "USER",
+      "level": 80
+    },
+    "message": "/TRADING [WRAP AND KRAKEN",
+    "timestamp": "2026-05-10T16:55:49.462Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "665f1a4c-31dc-42b2-9866-5c5b9e918c1f",
+      "shortId": "0KNJ6K",
+      "name": "Sloth",
+      "role": "USER",
+      "level": 80
+    },
+    "message": "/hm majestic",
+    "timestamp": "2026-05-10T17:01:36.572Z"
   }
 ]
