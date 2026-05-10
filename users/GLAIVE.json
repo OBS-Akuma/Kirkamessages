@@ -1,0 +1,26 @@
+[
+  {
+    "type": 2,
+    "user": {
+      "id": "055775a9-3cef-45f5-909d-4052bc6388dc",
+      "shortId": "GLAIVE",
+      "name": "sabe",
+      "role": "VERIFIED",
+      "level": 101
+    },
+    "message": "#69484R",
+    "timestamp": "2026-05-10T19:26:09.399Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "055775a9-3cef-45f5-909d-4052bc6388dc",
+      "shortId": "GLAIVE",
+      "name": "sabe",
+      "role": "VERIFIED",
+      "level": 101
+    },
+    "message": "collecting [Dob||BODY_SKIN|COMMON]s",
+    "timestamp": "2026-05-10T20:34:26.992Z"
+  }
+]
