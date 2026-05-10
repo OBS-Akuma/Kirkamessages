@@ -298,5 +298,29 @@
     },
     "message": "wasd",
     "timestamp": "2026-05-09T16:49:35.038Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "0c505348-c30c-4cbb-b666-b5ae990acec1",
+      "shortId": "ADC42K",
+      "name": "THEBAND",
+      "role": "USER",
+      "level": 15
+    },
+    "message": "accept",
+    "timestamp": "2026-05-10T16:46:14.328Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "0c505348-c30c-4cbb-b666-b5ae990acec1",
+      "shortId": "ADC42K",
+      "name": "THEBAND",
+      "role": "USER",
+      "level": 15
+    },
+    "message": "killa i have ghillie",
+    "timestamp": "2026-05-10T16:47:17.073Z"
   }
 ]
