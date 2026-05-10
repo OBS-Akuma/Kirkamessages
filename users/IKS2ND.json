@@ -58,5 +58,53 @@
     },
     "message": "/wager [Golden||CHEST|LEGENDARY]x200 #F6XWN1",
     "timestamp": "2026-05-07T23:18:38.516Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "8f8504ad-4217-4a7e-86ac-9eeffb88829c",
+      "shortId": "IKS2ND",
+      "name": "El_Diablo",
+      "role": "USER",
+      "level": 78
+    },
+    "message": "BUYING SKINS FOR BOT PRICE WITH GOLDENS",
+    "timestamp": "2026-05-10T21:34:57.145Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "8f8504ad-4217-4a7e-86ac-9eeffb88829c",
+      "shortId": "IKS2ND",
+      "name": "El_Diablo",
+      "role": "USER",
+      "level": 78
+    },
+    "message": "yes",
+    "timestamp": "2026-05-10T21:35:13.590Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "8f8504ad-4217-4a7e-86ac-9eeffb88829c",
+      "shortId": "IKS2ND",
+      "name": "El_Diablo",
+      "role": "USER",
+      "level": 78
+    },
+    "message": "#TGCX2C yes what is it",
+    "timestamp": "2026-05-10T21:35:20.558Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "8f8504ad-4217-4a7e-86ac-9eeffb88829c",
+      "shortId": "IKS2ND",
+      "name": "El_Diablo",
+      "role": "USER",
+      "level": 78
+    },
+    "message": "/hm angel",
+    "timestamp": "2026-05-10T21:35:41.991Z"
   }
 ]
