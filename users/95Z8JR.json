@@ -166,5 +166,17 @@
     },
     "message": "/hm [Heavy|LAR|WEAPON_SKIN|MYTHICAL]",
     "timestamp": "2026-05-10T19:19:38.121Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "f11bfc17-5d43-4cf9-9ce3-ffac2dd8ad49",
+      "shortId": "95Z8JR",
+      "name": "TourneyFunding",
+      "role": "USER",
+      "level": 70
+    },
+    "message": "[Bloo|Bayonet|WEAPON_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-10T21:19:27.744Z"
   }
 ]
