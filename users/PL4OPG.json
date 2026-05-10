@@ -3020,7 +3020,7 @@
       "role": "USER",
       "level": 75
     },
-    "message": "What does nft mean? qÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ°er",
+    "message": "What does nft mean? qÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ°er",
     "timestamp": "2026-05-08T21:55:40.455Z"
   },
   {
@@ -3910,5 +3910,29 @@
     },
     "message": "tp jh",
     "timestamp": "2026-05-08T22:46:08.547Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "6da59982-c088-49ca-933e-8a3fbfaa6592",
+      "shortId": "PL4OPG",
+      "name": "[VN]_NTAT_",
+      "role": "USER",
+      "level": 75
+    },
+    "message": "/locate godzilla",
+    "timestamp": "2026-05-09T16:16:58.666Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "6da59982-c088-49ca-933e-8a3fbfaa6592",
+      "shortId": "PL4OPG",
+      "name": "[VN]_NTAT_",
+      "role": "USER",
+      "level": 75
+    },
+    "message": "/price xed",
+    "timestamp": "2026-05-09T16:17:23.732Z"
   }
 ]
