@@ -70,5 +70,17 @@
     },
     "message": "[LOL||BODY_SKIN|EPIC]",
     "timestamp": "2026-05-09T04:48:22.602Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "38365332-ed6d-408e-ad6a-23965bbfb70a",
+      "shortId": "U50W3E",
+      "name": "Pegasus",
+      "role": "USER",
+      "level": 32
+    },
+    "message": "[Hideyoshi||BODY_SKIN|EPIC]",
+    "timestamp": "2026-05-09T16:54:59.041Z"
   }
 ]
