@@ -934,5 +934,41 @@
     },
     "message": "/goat",
     "timestamp": "2026-05-08T03:55:34.187Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "e53ac14c-dc7d-421c-8abd-fe7b9e185688",
+      "shortId": "I7SCOX",
+      "name": "cocoa_koala",
+      "role": "USER",
+      "level": 81
+    },
+    "message": "/inv #SNIPER",
+    "timestamp": "2026-05-10T23:25:47.283Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "e53ac14c-dc7d-421c-8abd-fe7b9e185688",
+      "shortId": "I7SCOX",
+      "name": "cocoa_koala",
+      "role": "USER",
+      "level": 81
+    },
+    "message": "/inv #T6GOJ7",
+    "timestamp": "2026-05-10T23:25:57.960Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "e53ac14c-dc7d-421c-8abd-fe7b9e185688",
+      "shortId": "I7SCOX",
+      "name": "cocoa_koala",
+      "role": "USER",
+      "level": 81
+    },
+    "message": "/inv #WERWER",
+    "timestamp": "2026-05-10T23:26:12.999Z"
   }
 ]
