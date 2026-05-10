@@ -22,5 +22,41 @@
     },
     "message": "/howmuch [Cosmos|VITA|WEAPON_SKIN|MYTHICAL]",
     "timestamp": "2026-05-08T07:24:15.731Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "a851043d-a828-4326-a155-9838854ae82a",
+      "shortId": "ARE014",
+      "name": "Rasmus",
+      "role": "USER",
+      "level": 98
+    },
+    "message": "/inv #BJMC35",
+    "timestamp": "2026-05-09T16:51:57.145Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "a851043d-a828-4326-a155-9838854ae82a",
+      "shortId": "ARE014",
+      "name": "Rasmus",
+      "role": "USER",
+      "level": 98
+    },
+    "message": "dono me sum pooks",
+    "timestamp": "2026-05-09T16:52:01.861Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "a851043d-a828-4326-a155-9838854ae82a",
+      "shortId": "ARE014",
+      "name": "Rasmus",
+      "role": "USER",
+      "level": 98
+    },
+    "message": "/inv",
+    "timestamp": "2026-05-09T16:52:07.455Z"
   }
 ]
