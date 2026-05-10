@@ -694,5 +694,17 @@
     },
     "message": "/hm ashley",
     "timestamp": "2026-05-10T16:45:47.067Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "4640c5e7-8889-4f71-8446-a54180b81f7c",
+      "shortId": "KLBFGG",
+      "name": "keyboard",
+      "role": "USER",
+      "level": 77
+    },
+    "message": "nonactiveplayer you wanna wager moonlight?",
+    "timestamp": "2026-05-10T18:28:18.805Z"
   }
 ]
