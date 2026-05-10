@@ -166,5 +166,29 @@
     },
     "message": "pass",
     "timestamp": "2026-05-01T19:19:32.996Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "719ca1a7-44f8-4e4a-87da-ed76b7909e2b",
+      "shortId": "HCGRXU",
+      "name": "vaniq!",
+      "role": "USER",
+      "level": 87
+    },
+    "message": "/hm [Empress|VITA|WEAPON_SKIN|LEGENDARY]",
+    "timestamp": "2026-05-09T16:45:58.516Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "719ca1a7-44f8-4e4a-87da-ed76b7909e2b",
+      "shortId": "HCGRXU",
+      "name": "vaniq!",
+      "role": "USER",
+      "level": 87
+    },
+    "message": "/hm [Waves|SCAR|WEAPON_SKIN|LEGENDARY]",
+    "timestamp": "2026-05-09T16:46:03.566Z"
   }
 ]
