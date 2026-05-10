@@ -814,5 +814,17 @@
     },
     "message": "/enter",
     "timestamp": "2026-05-08T10:05:11.002Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "KEjMV2BDdFhYr0t6c3uhBW90G183",
+      "shortId": "9OAPEW",
+      "name": "Listener",
+      "role": "USER",
+      "level": 99
+    },
+    "message": "#VRLW4V",
+    "timestamp": "2026-05-10T22:07:55.229Z"
   }
 ]
