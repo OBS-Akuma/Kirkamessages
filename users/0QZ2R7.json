@@ -2254,5 +2254,545 @@
     },
     "message": "QWERTY",
     "timestamp": "2026-05-10T21:35:56.117Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "8292ae2f-a5de-48e3-a36a-77b9bee4fc56",
+      "shortId": "0QZ2R7",
+      "name": "LGD|Zero",
+      "role": "USER",
+      "level": 59
+    },
+    "message": "hey",
+    "timestamp": "2026-05-10T21:36:06.196Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "8292ae2f-a5de-48e3-a36a-77b9bee4fc56",
+      "shortId": "0QZ2R7",
+      "name": "LGD|Zero",
+      "role": "USER",
+      "level": 59
+    },
+    "message": "question, hm is [Rose||BODY_SKIN|MYTHICAL] worth. also accept offer",
+    "timestamp": "2026-05-10T21:36:19.077Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "8292ae2f-a5de-48e3-a36a-77b9bee4fc56",
+      "shortId": "0QZ2R7",
+      "name": "LGD|Zero",
+      "role": "USER",
+      "level": 59
+    },
+    "message": "how much would u value it at?",
+    "timestamp": "2026-05-10T21:36:38.862Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "8292ae2f-a5de-48e3-a36a-77b9bee4fc56",
+      "shortId": "0QZ2R7",
+      "name": "LGD|Zero",
+      "role": "USER",
+      "level": 59
+    },
+    "message": "it says like 2.5 mil",
+    "timestamp": "2026-05-10T21:36:43.002Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "8292ae2f-a5de-48e3-a36a-77b9bee4fc56",
+      "shortId": "0QZ2R7",
+      "name": "LGD|Zero",
+      "role": "USER",
+      "level": 59
+    },
+    "message": "also u can take the trade if u want it",
+    "timestamp": "2026-05-10T21:37:07.985Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "8292ae2f-a5de-48e3-a36a-77b9bee4fc56",
+      "shortId": "0QZ2R7",
+      "name": "LGD|Zero",
+      "role": "USER",
+      "level": 59
+    },
+    "message": "free goldens",
+    "timestamp": "2026-05-10T21:37:14.089Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "8292ae2f-a5de-48e3-a36a-77b9bee4fc56",
+      "shortId": "0QZ2R7",
+      "name": "LGD|Zero",
+      "role": "USER",
+      "level": 59
+    },
+    "message": "/hm forbidden",
+    "timestamp": "2026-05-10T21:42:03.573Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "8292ae2f-a5de-48e3-a36a-77b9bee4fc56",
+      "shortId": "0QZ2R7",
+      "name": "LGD|Zero",
+      "role": "USER",
+      "level": 59
+    },
+    "message": "/hm engravement",
+    "timestamp": "2026-05-10T21:42:08.807Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "8292ae2f-a5de-48e3-a36a-77b9bee4fc56",
+      "shortId": "0QZ2R7",
+      "name": "LGD|Zero",
+      "role": "USER",
+      "level": 59
+    },
+    "message": "like its ok to ask, but the best way to enjoy the game is to improve",
+    "timestamp": "2026-05-10T21:55:29.048Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "8292ae2f-a5de-48e3-a36a-77b9bee4fc56",
+      "shortId": "0QZ2R7",
+      "name": "LGD|Zero",
+      "role": "USER",
+      "level": 59
+    },
+    "message": "thats craazy",
+    "timestamp": "2026-05-10T21:56:07.140Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "8292ae2f-a5de-48e3-a36a-77b9bee4fc56",
+      "shortId": "0QZ2R7",
+      "name": "LGD|Zero",
+      "role": "USER",
+      "level": 59
+    },
+    "message": "wasn't lor like 10m a couple years ago?",
+    "timestamp": "2026-05-10T21:56:16.279Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "8292ae2f-a5de-48e3-a36a-77b9bee4fc56",
+      "shortId": "0QZ2R7",
+      "name": "LGD|Zero",
+      "role": "USER",
+      "level": 59
+    },
+    "message": "/message #ADC42K",
+    "timestamp": "2026-05-10T21:58:29.434Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "8292ae2f-a5de-48e3-a36a-77b9bee4fc56",
+      "shortId": "0QZ2R7",
+      "name": "LGD|Zero",
+      "role": "USER",
+      "level": 59
+    },
+    "message": "/message <#ADC42K>",
+    "timestamp": "2026-05-10T21:58:52.490Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "8292ae2f-a5de-48e3-a36a-77b9bee4fc56",
+      "shortId": "0QZ2R7",
+      "name": "LGD|Zero",
+      "role": "USER",
+      "level": 59
+    },
+    "message": "/gift #ADC42K [Golden||CHEST|LEGENDARY]x1",
+    "timestamp": "2026-05-10T21:59:19.603Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "8292ae2f-a5de-48e3-a36a-77b9bee4fc56",
+      "shortId": "0QZ2R7",
+      "name": "LGD|Zero",
+      "role": "USER",
+      "level": 59
+    },
+    "message": "sylvancobra trading it for 1.5 mil",
+    "timestamp": "2026-05-10T22:10:06.983Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "8292ae2f-a5de-48e3-a36a-77b9bee4fc56",
+      "shortId": "0QZ2R7",
+      "name": "LGD|Zero",
+      "role": "USER",
+      "level": 59
+    },
+    "message": "waled its smarter to trade a honey for goldens then sell the goldens",
+    "timestamp": "2026-05-10T22:13:38.825Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "8292ae2f-a5de-48e3-a36a-77b9bee4fc56",
+      "shortId": "0QZ2R7",
+      "name": "LGD|Zero",
+      "role": "USER",
+      "level": 59
+    },
+    "message": "saves you market fee",
+    "timestamp": "2026-05-10T22:13:43.859Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "8292ae2f-a5de-48e3-a36a-77b9bee4fc56",
+      "shortId": "0QZ2R7",
+      "name": "LGD|Zero",
+      "role": "USER",
+      "level": 59
+    },
+    "message": "also helps you get a better deal",
+    "timestamp": "2026-05-10T22:13:49.717Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "8292ae2f-a5de-48e3-a36a-77b9bee4fc56",
+      "shortId": "0QZ2R7",
+      "name": "LGD|Zero",
+      "role": "USER",
+      "level": 59
+    },
+    "message": "i just got a skin so im willing to heavy dg for [Blessed||BODY_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-10T23:15:29.495Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "8292ae2f-a5de-48e3-a36a-77b9bee4fc56",
+      "shortId": "0QZ2R7",
+      "name": "LGD|Zero",
+      "role": "USER",
+      "level": 59
+    },
+    "message": "lf [Blessed||BODY_SKIN|MYTHICAL] trading a lot",
+    "timestamp": "2026-05-10T23:15:43.731Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "8292ae2f-a5de-48e3-a36a-77b9bee4fc56",
+      "shortId": "0QZ2R7",
+      "name": "LGD|Zero",
+      "role": "USER",
+      "level": 59
+    },
+    "message": "anyone have [Blessed||BODY_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-10T23:15:50.041Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "8292ae2f-a5de-48e3-a36a-77b9bee4fc56",
+      "shortId": "0QZ2R7",
+      "name": "LGD|Zero",
+      "role": "USER",
+      "level": 59
+    },
+    "message": "/locate blessed",
+    "timestamp": "2026-05-10T23:15:59.178Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "8292ae2f-a5de-48e3-a36a-77b9bee4fc56",
+      "shortId": "0QZ2R7",
+      "name": "LGD|Zero",
+      "role": "USER",
+      "level": 59
+    },
+    "message": "/inv #T6GOJ7",
+    "timestamp": "2026-05-10T23:16:23.950Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "8292ae2f-a5de-48e3-a36a-77b9bee4fc56",
+      "shortId": "0QZ2R7",
+      "name": "LGD|Zero",
+      "role": "USER",
+      "level": 59
+    },
+    "message": "last call anyone have [Blessed||BODY_SKIN|MYTHICAL]?",
+    "timestamp": "2026-05-10T23:16:55.696Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "8292ae2f-a5de-48e3-a36a-77b9bee4fc56",
+      "shortId": "0QZ2R7",
+      "name": "LGD|Zero",
+      "role": "USER",
+      "level": 59
+    },
+    "message": "/inv",
+    "timestamp": "2026-05-10T23:28:11.314Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "8292ae2f-a5de-48e3-a36a-77b9bee4fc56",
+      "shortId": "0QZ2R7",
+      "name": "LGD|Zero",
+      "role": "USER",
+      "level": 59
+    },
+    "message": "lf [Blessed||BODY_SKIN|MYTHICAL] not gonna bother listing",
+    "timestamp": "2026-05-10T23:28:34.101Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "8292ae2f-a5de-48e3-a36a-77b9bee4fc56",
+      "shortId": "0QZ2R7",
+      "name": "LGD|Zero",
+      "role": "USER",
+      "level": 59
+    },
+    "message": "pls just give me a blessed",
+    "timestamp": "2026-05-10T23:28:40.798Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "8292ae2f-a5de-48e3-a36a-77b9bee4fc56",
+      "shortId": "0QZ2R7",
+      "name": "LGD|Zero",
+      "role": "USER",
+      "level": 59
+    },
+    "message": "i need to complete the set",
+    "timestamp": "2026-05-10T23:28:44.881Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "8292ae2f-a5de-48e3-a36a-77b9bee4fc56",
+      "shortId": "0QZ2R7",
+      "name": "LGD|Zero",
+      "role": "USER",
+      "level": 59
+    },
+    "message": "/hm cryonic",
+    "timestamp": "2026-05-10T23:28:59.417Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "8292ae2f-a5de-48e3-a36a-77b9bee4fc56",
+      "shortId": "0QZ2R7",
+      "name": "LGD|Zero",
+      "role": "USER",
+      "level": 59
+    },
+    "message": "yeah ofc",
+    "timestamp": "2026-05-10T23:29:46.382Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "8292ae2f-a5de-48e3-a36a-77b9bee4fc56",
+      "shortId": "0QZ2R7",
+      "name": "LGD|Zero",
+      "role": "USER",
+      "level": 59
+    },
+    "message": "how much",
+    "timestamp": "2026-05-10T23:29:48.793Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "8292ae2f-a5de-48e3-a36a-77b9bee4fc56",
+      "shortId": "0QZ2R7",
+      "name": "LGD|Zero",
+      "role": "USER",
+      "level": 59
+    },
+    "message": "/hm blessed",
+    "timestamp": "2026-05-10T23:29:58.219Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "8292ae2f-a5de-48e3-a36a-77b9bee4fc56",
+      "shortId": "0QZ2R7",
+      "name": "LGD|Zero",
+      "role": "USER",
+      "level": 59
+    },
+    "message": "i might be able to do [2025 Revolver|Revolver|WEAPON_SKIN|MYTHICAL]+[2024|Bayonet|WEAPON_SKIN|MYTHICAL] both",
+    "timestamp": "2026-05-10T23:31:05.755Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "8292ae2f-a5de-48e3-a36a-77b9bee4fc56",
+      "shortId": "0QZ2R7",
+      "name": "LGD|Zero",
+      "role": "USER",
+      "level": 59
+    },
+    "message": "destroyer?",
+    "timestamp": "2026-05-10T23:31:53.526Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "8292ae2f-a5de-48e3-a36a-77b9bee4fc56",
+      "shortId": "0QZ2R7",
+      "name": "LGD|Zero",
+      "role": "USER",
+      "level": 59
+    },
+    "message": "thats what i got",
+    "timestamp": "2026-05-10T23:31:57.356Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "8292ae2f-a5de-48e3-a36a-77b9bee4fc56",
+      "shortId": "0QZ2R7",
+      "name": "LGD|Zero",
+      "role": "USER",
+      "level": 59
+    },
+    "message": "take it or nah?",
+    "timestamp": "2026-05-10T23:32:06.184Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "8292ae2f-a5de-48e3-a36a-77b9bee4fc56",
+      "shortId": "0QZ2R7",
+      "name": "LGD|Zero",
+      "role": "USER",
+      "level": 59
+    },
+    "message": "/hm love bites",
+    "timestamp": "2026-05-10T23:32:14.468Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "8292ae2f-a5de-48e3-a36a-77b9bee4fc56",
+      "shortId": "0QZ2R7",
+      "name": "LGD|Zero",
+      "role": "USER",
+      "level": 59
+    },
+    "message": "alright",
+    "timestamp": "2026-05-10T23:32:21.717Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "8292ae2f-a5de-48e3-a36a-77b9bee4fc56",
+      "shortId": "0QZ2R7",
+      "name": "LGD|Zero",
+      "role": "USER",
+      "level": 59
+    },
+    "message": "one more offer",
+    "timestamp": "2026-05-10T23:32:24.955Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "8292ae2f-a5de-48e3-a36a-77b9bee4fc56",
+      "shortId": "0QZ2R7",
+      "name": "LGD|Zero",
+      "role": "USER",
+      "level": 59
+    },
+    "message": "how about 1.3 mil pure",
+    "timestamp": "2026-05-10T23:32:34.232Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "8292ae2f-a5de-48e3-a36a-77b9bee4fc56",
+      "shortId": "0QZ2R7",
+      "name": "LGD|Zero",
+      "role": "USER",
+      "level": 59
+    },
+    "message": "destroyer accept friend i will trade w u later i guess",
+    "timestamp": "2026-05-10T23:33:17.328Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "8292ae2f-a5de-48e3-a36a-77b9bee4fc56",
+      "shortId": "0QZ2R7",
+      "name": "LGD|Zero",
+      "role": "USER",
+      "level": 59
+    },
+    "message": "i can offer more",
+    "timestamp": "2026-05-10T23:33:22.875Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "8292ae2f-a5de-48e3-a36a-77b9bee4fc56",
+      "shortId": "0QZ2R7",
+      "name": "LGD|Zero",
+      "role": "USER",
+      "level": 59
+    },
+    "message": "maybe even [Pastel||BODY_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-10T23:33:30.762Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "8292ae2f-a5de-48e3-a36a-77b9bee4fc56",
+      "shortId": "0QZ2R7",
+      "name": "LGD|Zero",
+      "role": "USER",
+      "level": 59
+    },
+    "message": "accept friend request gotta go now",
+    "timestamp": "2026-05-10T23:33:35.981Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "8292ae2f-a5de-48e3-a36a-77b9bee4fc56",
+      "shortId": "0QZ2R7",
+      "name": "LGD|Zero",
+      "role": "USER",
+      "level": 59
+    },
+    "message": "/locate jolly",
+    "timestamp": "2026-05-10T23:38:16.244Z"
   }
 ]
