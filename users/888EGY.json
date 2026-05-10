@@ -118,5 +118,17 @@
     },
     "message": "bro",
     "timestamp": "2026-05-08T09:13:38.063Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "a1b97659-2643-423d-befe-d8f211f2b602",
+      "shortId": "888EGY",
+      "name": "S4DY",
+      "role": "USER",
+      "level": 96
+    },
+    "message": "LF [RGB||BODY_SKIN|LEGENDARY]",
+    "timestamp": "2026-05-10T16:52:54.733Z"
   }
 ]
