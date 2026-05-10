@@ -526,5 +526,65 @@
     },
     "message": "/giveaway",
     "timestamp": "2026-05-08T22:19:22.086Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "MyQJK96TnpYO3UMDbcgZqGdVyXg2",
+      "shortId": "B40ROF",
+      "name": "Katuski_Bakugo",
+      "role": "USER",
+      "level": 81
+    },
+    "message": "guys can we stack in 2v2s",
+    "timestamp": "2026-05-10T21:30:20.296Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "MyQJK96TnpYO3UMDbcgZqGdVyXg2",
+      "shortId": "B40ROF",
+      "name": "Katuski_Bakugo",
+      "role": "USER",
+      "level": 81
+    },
+    "message": "ight",
+    "timestamp": "2026-05-10T21:30:29.770Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "MyQJK96TnpYO3UMDbcgZqGdVyXg2",
+      "shortId": "B40ROF",
+      "name": "Katuski_Bakugo",
+      "role": "USER",
+      "level": 81
+    },
+    "message": "wsp can we stack in 2v2z",
+    "timestamp": "2026-05-10T21:30:53.899Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "MyQJK96TnpYO3UMDbcgZqGdVyXg2",
+      "shortId": "B40ROF",
+      "name": "Katuski_Bakugo",
+      "role": "USER",
+      "level": 81
+    },
+    "message": "2v2s",
+    "timestamp": "2026-05-10T21:30:55.957Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "MyQJK96TnpYO3UMDbcgZqGdVyXg2",
+      "shortId": "B40ROF",
+      "name": "Katuski_Bakugo",
+      "role": "USER",
+      "level": 81
+    },
+    "message": "i dont think we can do 2v2s",
+    "timestamp": "2026-05-10T21:31:20.549Z"
   }
 ]
