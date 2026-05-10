@@ -152,7 +152,7 @@
       "role": "USER",
       "level": 80
     },
-    "message": "eh g gagné 50m en 2 jours pseed dis toi",
+    "message": "eh g gagnÃ© 50m en 2 jours pseed dis toi",
     "timestamp": "2026-05-10T17:27:31.748Z"
   },
   {
@@ -526,5 +526,17 @@
     },
     "message": "hm qod?",
     "timestamp": "2026-05-10T18:47:54.941Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "a6007b0d-7c4e-4c16-802d-6af992cfe2f7",
+      "shortId": "Z6W0SZ",
+      "name": "ItsRise",
+      "role": "USER",
+      "level": 80
+    },
+    "message": "ripper bro ...",
+    "timestamp": "2026-05-10T18:55:57.902Z"
   }
 ]
