@@ -82,5 +82,17 @@
     },
     "message": "hiii",
     "timestamp": "2026-05-09T16:20:32.411Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "bjL101mkQlZSYoYzeGwOoJI5yur2",
+      "shortId": "0SGIQR",
+      "name": "YellowBuunny",
+      "role": "USER",
+      "level": 22
+    },
+    "message": "hiii",
+    "timestamp": "2026-05-10T19:26:32.425Z"
   }
 ]
