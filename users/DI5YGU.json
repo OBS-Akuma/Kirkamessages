@@ -34,5 +34,41 @@
     },
     "message": "TR [Synergy|LAR|WEAPON_SKIN|MYTHICAL] lf old skin",
     "timestamp": "2026-05-10T07:05:57.951Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "3f04f7bf-b31d-4fdf-8cbb-c0973f063583",
+      "shortId": "DI5YGU",
+      "name": "SIVF",
+      "role": "USER",
+      "level": 88
+    },
+    "message": "tstep any offer for synergy?",
+    "timestamp": "2026-05-10T07:13:13.121Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "3f04f7bf-b31d-4fdf-8cbb-c0973f063583",
+      "shortId": "DI5YGU",
+      "name": "SIVF",
+      "role": "USER",
+      "level": 88
+    },
+    "message": "なっとう",
+    "timestamp": "2026-05-10T07:15:40.294Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "3f04f7bf-b31d-4fdf-8cbb-c0973f063583",
+      "shortId": "DI5YGU",
+      "name": "SIVF",
+      "role": "USER",
+      "level": 88
+    },
+    "message": "tR [Synergy|LAR|WEAPON_SKIN|MYTHICAL] lf old skikn",
+    "timestamp": "2026-05-10T07:16:31.853Z"
   }
 ]
