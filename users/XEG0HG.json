@@ -58,5 +58,125 @@
     },
     "message": "Nice skin but they same price",
     "timestamp": "2026-05-07T06:13:15.727Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "e4b18726-59b3-4eeb-89d5-261b099072b6",
+      "shortId": "XEG0HG",
+      "name": "Nattou",
+      "role": "USER",
+      "level": 76
+    },
+    "message": "/price [Jaymers]",
+    "timestamp": "2026-05-10T16:48:40.561Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "e4b18726-59b3-4eeb-89d5-261b099072b6",
+      "shortId": "XEG0HG",
+      "name": "Nattou",
+      "role": "USER",
+      "level": 76
+    },
+    "message": "/price [Jamyers||BODY_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-10T16:48:53.445Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "e4b18726-59b3-4eeb-89d5-261b099072b6",
+      "shortId": "XEG0HG",
+      "name": "Nattou",
+      "role": "USER",
+      "level": 76
+    },
+    "message": "[LMAO||BODY_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-10T16:54:01.198Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "e4b18726-59b3-4eeb-89d5-261b099072b6",
+      "shortId": "XEG0HG",
+      "name": "Nattou",
+      "role": "USER",
+      "level": 76
+    },
+    "message": "/price [LMAO||BODY_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-10T16:54:43.304Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "e4b18726-59b3-4eeb-89d5-261b099072b6",
+      "shortId": "XEG0HG",
+      "name": "Nattou",
+      "role": "USER",
+      "level": 76
+    },
+    "message": "[Choco||BODY_SKIN|LEGENDARY]",
+    "timestamp": "2026-05-10T16:55:28.421Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "e4b18726-59b3-4eeb-89d5-261b099072b6",
+      "shortId": "XEG0HG",
+      "name": "Nattou",
+      "role": "USER",
+      "level": 76
+    },
+    "message": "WHO has [LMAO||BODY_SKIN|MYTHICAL] offering 2x or even 3x",
+    "timestamp": "2026-05-10T17:00:32.053Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "e4b18726-59b3-4eeb-89d5-261b099072b6",
+      "shortId": "XEG0HG",
+      "name": "Nattou",
+      "role": "USER",
+      "level": 76
+    },
+    "message": "WHO HAS [LMAO||BODY_SKIN|MYTHICAL] OFFERING 2x or 3x",
+    "timestamp": "2026-05-10T17:03:50.740Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "e4b18726-59b3-4eeb-89d5-261b099072b6",
+      "shortId": "XEG0HG",
+      "name": "Nattou",
+      "role": "USER",
+      "level": 76
+    },
+    "message": "/price [Forbidden|AR-9|WEAPON_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-10T17:04:29.569Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "e4b18726-59b3-4eeb-89d5-261b099072b6",
+      "shortId": "XEG0HG",
+      "name": "Nattou",
+      "role": "USER",
+      "level": 76
+    },
+    "message": "/locate [LMAO||BODY_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-10T17:04:43.235Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "e4b18726-59b3-4eeb-89d5-261b099072b6",
+      "shortId": "XEG0HG",
+      "name": "Nattou",
+      "role": "USER",
+      "level": 76
+    },
+    "message": "/inv",
+    "timestamp": "2026-05-10T17:17:28.651Z"
   }
 ]
