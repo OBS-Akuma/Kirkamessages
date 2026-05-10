@@ -730,5 +730,113 @@
     },
     "message": "??",
     "timestamp": "2026-05-10T02:17:13.070Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "4b789cea-e6d0-4391-bab3-a43b716b6a1a",
+      "shortId": "305Q5V",
+      "name": "AuraX_t1_Scare",
+      "role": "USER",
+      "level": 96
+    },
+    "message": "#KILLER",
+    "timestamp": "2026-05-10T17:09:33.320Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "4b789cea-e6d0-4391-bab3-a43b716b6a1a",
+      "shortId": "305Q5V",
+      "name": "AuraX_t1_Scare",
+      "role": "USER",
+      "level": 96
+    },
+    "message": "/inv",
+    "timestamp": "2026-05-10T17:10:23.649Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "4b789cea-e6d0-4391-bab3-a43b716b6a1a",
+      "shortId": "305Q5V",
+      "name": "AuraX_t1_Scare",
+      "role": "USER",
+      "level": 96
+    },
+    "message": "Killa another item",
+    "timestamp": "2026-05-10T17:10:57.277Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "4b789cea-e6d0-4391-bab3-a43b716b6a1a",
+      "shortId": "305Q5V",
+      "name": "AuraX_t1_Scare",
+      "role": "USER",
+      "level": 96
+    },
+    "message": "Abeed u have [Arc||BODY_SKIN|LEGENDARY]",
+    "timestamp": "2026-05-10T17:12:16.050Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "4b789cea-e6d0-4391-bab3-a43b716b6a1a",
+      "shortId": "305Q5V",
+      "name": "AuraX_t1_Scare",
+      "role": "USER",
+      "level": 96
+    },
+    "message": "/locate forbbiden",
+    "timestamp": "2026-05-10T17:12:56.189Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "4b789cea-e6d0-4391-bab3-a43b716b6a1a",
+      "shortId": "305Q5V",
+      "name": "AuraX_t1_Scare",
+      "role": "USER",
+      "level": 96
+    },
+    "message": "Any body have [Arc||BODY_SKIN|LEGENDARY]!!!!??",
+    "timestamp": "2026-05-10T17:13:27.846Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "4b789cea-e6d0-4391-bab3-a43b716b6a1a",
+      "shortId": "305Q5V",
+      "name": "AuraX_t1_Scare",
+      "role": "USER",
+      "level": 96
+    },
+    "message": "Ur accept",
+    "timestamp": "2026-05-10T17:14:13.333Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "4b789cea-e6d0-4391-bab3-a43b716b6a1a",
+      "shortId": "305Q5V",
+      "name": "AuraX_t1_Scare",
+      "role": "USER",
+      "level": 96
+    },
+    "message": ",#RIPPER",
+    "timestamp": "2026-05-10T17:14:58.449Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "4b789cea-e6d0-4391-bab3-a43b716b6a1a",
+      "shortId": "305Q5V",
+      "name": "AuraX_t1_Scare",
+      "role": "USER",
+      "level": 96
+    },
+    "message": "[Ghillie||BODY_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-10T17:15:08.003Z"
   }
 ]
