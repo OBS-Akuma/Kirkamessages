@@ -382,5 +382,17 @@
     },
     "message": "/enter",
     "timestamp": "2026-05-08T08:17:33.496Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "4c6c40ee-a8e5-41b0-8736-0d7c0a31830d",
+      "shortId": "RUBIES",
+      "name": "Jolly",
+      "role": "USER",
+      "level": 98
+    },
+    "message": "/bolt [Archverse|Bayonet|WEAPON_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-10T18:28:41.465Z"
   }
 ]
