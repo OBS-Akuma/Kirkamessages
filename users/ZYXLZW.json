@@ -1,0 +1,62 @@
+[
+  {
+    "type": 2,
+    "user": {
+      "id": "guest-c0275f72-fa1f-4550-ba7d-c79cdf81a912",
+      "shortId": "ZYXLZW",
+      "name": "Cosmic",
+      "role": "USER",
+      "level": 5
+    },
+    "message": "carmel",
+    "timestamp": "2026-05-10T22:10:59.181Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "guest-c0275f72-fa1f-4550-ba7d-c79cdf81a912",
+      "shortId": "ZYXLZW",
+      "name": "Cosmic",
+      "role": "USER",
+      "level": 5
+    },
+    "message": "how do I send trades?",
+    "timestamp": "2026-05-10T22:11:08.163Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "guest-c0275f72-fa1f-4550-ba7d-c79cdf81a912",
+      "shortId": "ZYXLZW",
+      "name": "Cosmic",
+      "role": "USER",
+      "level": 5
+    },
+    "message": "yellow",
+    "timestamp": "2026-05-10T22:11:22.187Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "guest-c0275f72-fa1f-4550-ba7d-c79cdf81a912",
+      "shortId": "ZYXLZW",
+      "name": "Cosmic",
+      "role": "USER",
+      "level": 5
+    },
+    "message": "ty",
+    "timestamp": "2026-05-10T22:11:35.527Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "guest-c0275f72-fa1f-4550-ba7d-c79cdf81a912",
+      "shortId": "ZYXLZW",
+      "name": "Cosmic",
+      "role": "USER",
+      "level": 5
+    },
+    "message": "what's my user",
+    "timestamp": "2026-05-10T22:13:38.340Z"
+  }
+]
