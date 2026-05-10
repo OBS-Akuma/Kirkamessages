@@ -94,5 +94,29 @@
     },
     "message": "Orvix chal 1v1 kare",
     "timestamp": "2026-05-10T06:57:49.204Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "48d703a1-22f6-42a0-809d-265a93d21c3a",
+      "shortId": "9438YR",
+      "name": "[MOB]Itzstromz",
+      "role": "USER",
+      "level": 85
+    },
+    "message": "Daddy bhai 1v1 kare ga?",
+    "timestamp": "2026-05-10T06:59:35.802Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "48d703a1-22f6-42a0-809d-265a93d21c3a",
+      "shortId": "9438YR",
+      "name": "[MOB]Itzstromz",
+      "role": "USER",
+      "level": 85
+    },
+    "message": "Thik hai",
+    "timestamp": "2026-05-10T07:00:13.432Z"
   }
 ]
