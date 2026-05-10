@@ -562,5 +562,41 @@
     },
     "message": "trading koi set",
     "timestamp": "2026-05-08T11:13:28.426Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "fP610P26EjgCC3VpxjEhnoH1NIy1",
+      "shortId": "OWWZ41",
+      "name": "BON-JOVI",
+      "role": "USER",
+      "level": 46
+    },
+    "message": "Trading [Ashley||BODY_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-10T07:06:36.869Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "fP610P26EjgCC3VpxjEhnoH1NIy1",
+      "shortId": "OWWZ41",
+      "name": "BON-JOVI",
+      "role": "USER",
+      "level": 46
+    },
+    "message": "Trading [Ashley||BODY_SKIN|MYTHICAL][Constellations|Bayonet|WEAPON_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-10T07:07:10.187Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "fP610P26EjgCC3VpxjEhnoH1NIy1",
+      "shortId": "OWWZ41",
+      "name": "BON-JOVI",
+      "role": "USER",
+      "level": 46
+    },
+    "message": "Nah dw that items",
+    "timestamp": "2026-05-10T07:07:44.413Z"
   }
 ]
