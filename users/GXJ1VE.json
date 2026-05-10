@@ -538,5 +538,53 @@
     },
     "message": "[Gamma||BODY_SKIN|MYTHICAL]",
     "timestamp": "2026-05-08T11:12:14.889Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "849b68b6-84ec-47c9-a14e-ccf0aa3cfc1e",
+      "shortId": "GXJ1VE",
+      "name": "ASTA",
+      "role": "USER",
+      "level": 96
+    },
+    "message": "[Bloo|Bayonet|WEAPON_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-10T20:44:00.637Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "849b68b6-84ec-47c9-a14e-ccf0aa3cfc1e",
+      "shortId": "GXJ1VE",
+      "name": "ASTA",
+      "role": "USER",
+      "level": 96
+    },
+    "message": "#9GS39q",
+    "timestamp": "2026-05-10T20:45:33.847Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "849b68b6-84ec-47c9-a14e-ccf0aa3cfc1e",
+      "shortId": "GXJ1VE",
+      "name": "ASTA",
+      "role": "USER",
+      "level": 96
+    },
+    "message": "#9GS39Q",
+    "timestamp": "2026-05-10T20:45:35.881Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "849b68b6-84ec-47c9-a14e-ccf0aa3cfc1e",
+      "shortId": "GXJ1VE",
+      "name": "ASTA",
+      "role": "USER",
+      "level": 96
+    },
+    "message": "/hm dragonic",
+    "timestamp": "2026-05-10T21:10:18.449Z"
   }
 ]
