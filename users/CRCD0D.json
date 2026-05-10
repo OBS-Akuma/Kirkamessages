@@ -2518,5 +2518,125 @@
     },
     "message": "/st [Eclipse|Bayonet|WEAPON_SKIN|MYTHICAL]",
     "timestamp": "2026-05-10T02:11:11.535Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "6ea76ffe-0fdc-46fc-b3a0-95b6bab931e2",
+      "shortId": "CRCD0D",
+      "name": "TP|Jhosen|Live",
+      "role": "USER",
+      "level": 94
+    },
+    "message": "/hm [Wiggleworp|VITA|WEAPON_SKIN|PARANORMAL]",
+    "timestamp": "2026-05-10T23:09:34.012Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "6ea76ffe-0fdc-46fc-b3a0-95b6bab931e2",
+      "shortId": "CRCD0D",
+      "name": "TP|Jhosen|Live",
+      "role": "USER",
+      "level": 94
+    },
+    "message": "trdng[Onesie||BODY_SKIN|MYTHICAL],[Vera||BODY_SKIN|MYTHICAL],[Jenni||BODY_SKIN|MYTHICAL],[Jazzin||BODY_SKIN|MYTHICAL],[Godzilla|AR-9|WEAPON_SKIN|LEGENDARY],[Vocaloid|SCAR|WEAPON_SKIN|LEGENDARY],[Forbidden|AR-9|WEAPON_SKIN|MYTHICAL]x5",
+    "timestamp": "2026-05-10T23:11:33.744Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "6ea76ffe-0fdc-46fc-b3a0-95b6bab931e2",
+      "shortId": "CRCD0D",
+      "name": "TP|Jhosen|Live",
+      "role": "USER",
+      "level": 94
+    },
+    "message": ".",
+    "timestamp": "2026-05-10T23:13:17.410Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "6ea76ffe-0fdc-46fc-b3a0-95b6bab931e2",
+      "shortId": "CRCD0D",
+      "name": "TP|Jhosen|Live",
+      "role": "USER",
+      "level": 94
+    },
+    "message": "trdng[Onesie||BODY_SKIN|MYTHICAL],[Vera||BODY_SKIN|MYTHICAL],[Jenni||BODY_SKIN|MYTHICAL],[Jazzin||BODY_SKIN|MYTHICAL],[Godzilla|AR-9|WEAPON_SKIN|LEGENDARY],[Vocaloid|SCAR|WEAPON_SKIN|LEGENDARY],[Forbidden|AR-9|WEAPON_SKIN|MYTHICAL]x5",
+    "timestamp": "2026-05-10T23:13:18.811Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "6ea76ffe-0fdc-46fc-b3a0-95b6bab931e2",
+      "shortId": "CRCD0D",
+      "name": "TP|Jhosen|Live",
+      "role": "USER",
+      "level": 94
+    },
+    "message": "Who has [Chroma|LAR|WEAPON_SKIN|MYTHICAL]?",
+    "timestamp": "2026-05-10T23:14:01.902Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "6ea76ffe-0fdc-46fc-b3a0-95b6bab931e2",
+      "shortId": "CRCD0D",
+      "name": "TP|Jhosen|Live",
+      "role": "USER",
+      "level": 94
+    },
+    "message": "trdng[Onesie||BODY_SKIN|MYTHICAL],[Vera||BODY_SKIN|MYTHICAL],[Jenni||BODY_SKIN|MYTHICAL],[Jazzin||BODY_SKIN|MYTHICAL],[Godzilla|AR-9|WEAPON_SKIN|LEGENDARY],[Vocaloid|SCAR|WEAPON_SKIN|LEGENDARY],[Forbidden|AR-9|WEAPON_SKIN|MYTHICAL]x5",
+    "timestamp": "2026-05-10T23:14:45.366Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "6ea76ffe-0fdc-46fc-b3a0-95b6bab931e2",
+      "shortId": "CRCD0D",
+      "name": "TP|Jhosen|Live",
+      "role": "USER",
+      "level": 94
+    },
+    "message": "}",
+    "timestamp": "2026-05-10T23:17:01.436Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "6ea76ffe-0fdc-46fc-b3a0-95b6bab931e2",
+      "shortId": "CRCD0D",
+      "name": "TP|Jhosen|Live",
+      "role": "USER",
+      "level": 94
+    },
+    "message": "/locate [Graya||BODY_SKIN|COMMON]",
+    "timestamp": "2026-05-10T23:17:57.625Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "6ea76ffe-0fdc-46fc-b3a0-95b6bab931e2",
+      "shortId": "CRCD0D",
+      "name": "TP|Jhosen|Live",
+      "role": "USER",
+      "level": 94
+    },
+    "message": "/locate [Graya||BODY_SKIN|COMMON] p2",
+    "timestamp": "2026-05-10T23:18:10.449Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "6ea76ffe-0fdc-46fc-b3a0-95b6bab931e2",
+      "shortId": "CRCD0D",
+      "name": "TP|Jhosen|Live",
+      "role": "USER",
+      "level": 94
+    },
+    "message": "ty",
+    "timestamp": "2026-05-10T23:35:26.579Z"
   }
 ]
