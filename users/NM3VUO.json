@@ -2374,5 +2374,17 @@
     },
     "message": "/hm Punishment",
     "timestamp": "2026-05-09T05:32:06.454Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "1a4fb7ab-45cd-449b-858f-14a509ff9ecb",
+      "shortId": "NM3VUO",
+      "name": "#NM3VUO",
+      "role": "USER",
+      "level": 60
+    },
+    "message": "LF [Slasher||BODY_SKIN|PARANORMAL]",
+    "timestamp": "2026-05-10T16:41:59.536Z"
   }
 ]
