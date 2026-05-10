@@ -704,7 +704,7 @@
       "role": "USER",
       "level": 86
     },
-    "message": "Fk RAMMSTEIN WINS EVERYTIME I AM LOSER ð¢ð¢",
+    "message": "Fk RAMMSTEIN WINS EVERYTIME I AM LOSER Ã°ÂÂÂ¢Ã°ÂÂÂ¢",
     "timestamp": "2026-05-10T17:09:29.253Z"
   },
   {
@@ -716,7 +716,7 @@
       "role": "USER",
       "level": 86
     },
-    "message": "RAMMSTEIN WONS EVERYTIME AGAINST MEð¢ð¢ð¥",
+    "message": "RAMMSTEIN WONS EVERYTIME AGAINST MEÃ°ÂÂÂ¢Ã°ÂÂÂ¢Ã°ÂÂÂ¥",
     "timestamp": "2026-05-10T17:10:31.604Z"
   },
   {
@@ -1028,7 +1028,7 @@
       "role": "USER",
       "level": 86
     },
-    "message": "I domt have mÅ¾ney",
+    "message": "I domt have mÃÂ¾ney",
     "timestamp": "2026-05-10T17:26:20.519Z"
   },
   {
@@ -1426,5 +1426,53 @@
     },
     "message": "Tr[Wolfy||BODY_SKIN|MYTHICAL]",
     "timestamp": "2026-05-10T18:43:39.212Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "60a1092c-bdd2-410e-8fd8-379ea3fd3720",
+      "shortId": "C1421W",
+      "name": "Void.",
+      "role": "USER",
+      "level": 86
+    },
+    "message": "Hi walf tr [Wolfy||BODY_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-10T18:44:27.564Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "60a1092c-bdd2-410e-8fd8-379ea3fd3720",
+      "shortId": "C1421W",
+      "name": "Void.",
+      "role": "USER",
+      "level": 86
+    },
+    "message": "I ma trying to get that [Lor||BODY_SKIN|LEGENDARY] for you",
+    "timestamp": "2026-05-10T18:44:44.816Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "60a1092c-bdd2-410e-8fd8-379ea3fd3720",
+      "shortId": "C1421W",
+      "name": "Void.",
+      "role": "USER",
+      "level": 86
+    },
+    "message": "/hm qod",
+    "timestamp": "2026-05-10T18:45:28.086Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "60a1092c-bdd2-410e-8fd8-379ea3fd3720",
+      "shortId": "C1421W",
+      "name": "Void.",
+      "role": "USER",
+      "level": 86
+    },
+    "message": "/price qod",
+    "timestamp": "2026-05-10T18:45:37.147Z"
   }
 ]
