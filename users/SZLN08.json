@@ -10,5 +10,17 @@
     },
     "message": "/hm [Forbidden|AR-9|WEAPON_SKIN|MYTHICAL]",
     "timestamp": "2026-05-09T06:00:14.674Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "40509ecb-8733-4443-aabf-781f6bc69ab6",
+      "shortId": "SZLN08",
+      "name": "[-_-].noob",
+      "role": "USER",
+      "level": 56
+    },
+    "message": "[light]",
+    "timestamp": "2026-05-10T07:14:26.759Z"
   }
 ]
