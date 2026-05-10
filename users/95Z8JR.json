@@ -70,5 +70,65 @@
     },
     "message": "/inv",
     "timestamp": "2026-05-10T17:02:24.488Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "f11bfc17-5d43-4cf9-9ce3-ffac2dd8ad49",
+      "shortId": "95Z8JR",
+      "name": "TourneyFunding",
+      "role": "USER",
+      "level": 69
+    },
+    "message": "[Ruby||BODY_SKIN|COMMON]",
+    "timestamp": "2026-05-10T18:25:38.115Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "f11bfc17-5d43-4cf9-9ce3-ffac2dd8ad49",
+      "shortId": "95Z8JR",
+      "name": "TourneyFunding",
+      "role": "USER",
+      "level": 69
+    },
+    "message": "[rubie]",
+    "timestamp": "2026-05-10T18:25:42.776Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "f11bfc17-5d43-4cf9-9ce3-ffac2dd8ad49",
+      "shortId": "95Z8JR",
+      "name": "TourneyFunding",
+      "role": "USER",
+      "level": 69
+    },
+    "message": "[Rubies||BODY_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-10T18:25:49.217Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "f11bfc17-5d43-4cf9-9ce3-ffac2dd8ad49",
+      "shortId": "95Z8JR",
+      "name": "TourneyFunding",
+      "role": "USER",
+      "level": 69
+    },
+    "message": "/locate []rubies",
+    "timestamp": "2026-05-10T18:26:10.422Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "f11bfc17-5d43-4cf9-9ce3-ffac2dd8ad49",
+      "shortId": "95Z8JR",
+      "name": "TourneyFunding",
+      "role": "USER",
+      "level": 69
+    },
+    "message": "/locate [Rubies||BODY_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-10T18:26:27.954Z"
   }
 ]
