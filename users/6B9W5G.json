@@ -718,5 +718,17 @@
     },
     "message": "OSO",
     "timestamp": "2026-05-08T23:18:06.764Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "r1Kq0qheqQgd3bHGo7o3WDT0ARx1",
+      "shortId": "6B9W5G",
+      "name": "Twix",
+      "role": "USER",
+      "level": 64
+    },
+    "message": "/hm bad bunny",
+    "timestamp": "2026-05-10T17:40:07.922Z"
   }
 ]
