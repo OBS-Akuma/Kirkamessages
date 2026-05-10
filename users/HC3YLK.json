@@ -6478,5 +6478,53 @@
     },
     "message": "/top10 kyoto",
     "timestamp": "2026-05-10T07:18:21.427Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "ca796794-55ff-407e-801b-d8512272b68d",
+      "shortId": "HC3YLK",
+      "name": "Bread_B0tdead",
+      "role": "USER",
+      "level": 65
+    },
+    "message": "[Heartbeat|Shark|WEAPON_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-10T16:45:02.759Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "ca796794-55ff-407e-801b-d8512272b68d",
+      "shortId": "HC3YLK",
+      "name": "Bread_B0tdead",
+      "role": "USER",
+      "level": 65
+    },
+    "message": "[Pulse|Revolver|WEAPON_SKIN|MYTHICAL],[Heart|SCAR|WEAPON_SKIN|EPIC],[Hearts||BODY_SKIN|MYTHICAL],[Heartbeat|Shark|WEAPON_SKIN|MYTHICAL], they all look bad ngl",
+    "timestamp": "2026-05-10T16:45:35.998Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "ca796794-55ff-407e-801b-d8512272b68d",
+      "shortId": "HC3YLK",
+      "name": "Bread_B0tdead",
+      "role": "USER",
+      "level": 65
+    },
+    "message": "buying [RGB||BODY_SKIN|LEGENDARY] for around 4m-5m",
+    "timestamp": "2026-05-10T17:17:43.473Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "ca796794-55ff-407e-801b-d8512272b68d",
+      "shortId": "HC3YLK",
+      "name": "Bread_B0tdead",
+      "role": "USER",
+      "level": 65
+    },
+    "message": "hehehehe",
+    "timestamp": "2026-05-10T17:17:56.123Z"
   }
 ]
