@@ -22,5 +22,53 @@
     },
     "message": "/enter",
     "timestamp": "2026-05-08T08:50:37.670Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "a57e21c9-ac6e-4e94-a8f5-faca0ff90f5e",
+      "shortId": "J831BH",
+      "name": "mama",
+      "role": "USER",
+      "level": 96
+    },
+    "message": "да не за что",
+    "timestamp": "2026-05-10T16:40:41.042Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "a57e21c9-ac6e-4e94-a8f5-faca0ff90f5e",
+      "shortId": "J831BH",
+      "name": "mama",
+      "role": "USER",
+      "level": 96
+    },
+    "message": "я играт",
+    "timestamp": "2026-05-10T16:40:56.740Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "a57e21c9-ac6e-4e94-a8f5-faca0ff90f5e",
+      "shortId": "J831BH",
+      "name": "mama",
+      "role": "USER",
+      "level": 96
+    },
+    "message": "с shioy",
+    "timestamp": "2026-05-10T16:41:02.009Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "a57e21c9-ac6e-4e94-a8f5-faca0ff90f5e",
+      "shortId": "J831BH",
+      "name": "mama",
+      "role": "USER",
+      "level": 96
+    },
+    "message": "potom mojno",
+    "timestamp": "2026-05-10T16:41:21.036Z"
   }
 ]
