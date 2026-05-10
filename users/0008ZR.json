@@ -358,5 +358,89 @@
     },
     "message": "trading [Cornfeild] and [All Spark|Revolver|WEAPON_SKIN|MYTHICAL] for phantom #0008ZR",
     "timestamp": "2026-05-09T16:57:05.602Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "d61218ed-bdfe-4ef2-96d6-6c023326a891",
+      "shortId": "0008ZR",
+      "name": "HamzaFahad",
+      "role": "USER",
+      "level": 72
+    },
+    "message": "[Phantom||BODY_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-10T17:17:41.667Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "d61218ed-bdfe-4ef2-96d6-6c023326a891",
+      "shortId": "0008ZR",
+      "name": "HamzaFahad",
+      "role": "USER",
+      "level": 72
+    },
+    "message": "wht",
+    "timestamp": "2026-05-10T17:17:58.035Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "d61218ed-bdfe-4ef2-96d6-6c023326a891",
+      "shortId": "0008ZR",
+      "name": "HamzaFahad",
+      "role": "USER",
+      "level": 72
+    },
+    "message": "...",
+    "timestamp": "2026-05-10T17:18:34.012Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "d61218ed-bdfe-4ef2-96d6-6c023326a891",
+      "shortId": "0008ZR",
+      "name": "HamzaFahad",
+      "role": "USER",
+      "level": 72
+    },
+    "message": "Trading [Gingy||BODY_SKIN|MYTHICAL] and [Astonova] for [Phantom||BODY_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-10T17:20:27.289Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "d61218ed-bdfe-4ef2-96d6-6c023326a891",
+      "shortId": "0008ZR",
+      "name": "HamzaFahad",
+      "role": "USER",
+      "level": 72
+    },
+    "message": "Who wants to trade #0008ZR",
+    "timestamp": "2026-05-10T17:21:20.459Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "d61218ed-bdfe-4ef2-96d6-6c023326a891",
+      "shortId": "0008ZR",
+      "name": "HamzaFahad",
+      "role": "USER",
+      "level": 72
+    },
+    "message": "who wants to trade",
+    "timestamp": "2026-05-10T17:23:58.074Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "d61218ed-bdfe-4ef2-96d6-6c023326a891",
+      "shortId": "0008ZR",
+      "name": "HamzaFahad",
+      "role": "USER",
+      "level": 72
+    },
+    "message": "#0008ZR trading for [Phantom||BODY_SKIN|MYTHICAL] <_>",
+    "timestamp": "2026-05-10T17:24:33.767Z"
   }
 ]
