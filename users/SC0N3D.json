@@ -442,5 +442,65 @@
     },
     "message": "ok yep",
     "timestamp": "2026-05-07T05:07:38.867Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "83364ed5-101e-4a26-8a69-372da4bad353",
+      "shortId": "SC0N3D",
+      "name": "Viopus",
+      "role": "USER",
+      "level": 12
+    },
+    "message": "/hm hallowkod",
+    "timestamp": "2026-05-10T06:57:00.360Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "83364ed5-101e-4a26-8a69-372da4bad353",
+      "shortId": "SC0N3D",
+      "name": "Viopus",
+      "role": "USER",
+      "level": 12
+    },
+    "message": "/hm vortex",
+    "timestamp": "2026-05-10T06:57:12.656Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "83364ed5-101e-4a26-8a69-372da4bad353",
+      "shortId": "SC0N3D",
+      "name": "Viopus",
+      "role": "USER",
+      "level": 12
+    },
+    "message": "/hm nova",
+    "timestamp": "2026-05-10T06:57:25.957Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "83364ed5-101e-4a26-8a69-372da4bad353",
+      "shortId": "SC0N3D",
+      "name": "Viopus",
+      "role": "USER",
+      "level": 12
+    },
+    "message": "/hm gaia",
+    "timestamp": "2026-05-10T06:57:34.569Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "83364ed5-101e-4a26-8a69-372da4bad353",
+      "shortId": "SC0N3D",
+      "name": "Viopus",
+      "role": "USER",
+      "level": 12
+    },
+    "message": "/hm kod",
+    "timestamp": "2026-05-10T06:58:43.043Z"
   }
 ]
