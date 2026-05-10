@@ -34,5 +34,77 @@
     },
     "message": "Trading [Wiggleworp|VITA|WEAPON_SKIN|PARANORMAL]",
     "timestamp": "2026-05-10T18:36:56.881Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "d75a2972-f8e9-40bf-be62-07c4a79cb4f0",
+      "shortId": "KRNZJH",
+      "name": "Fae_",
+      "role": "USER",
+      "level": 89
+    },
+    "message": "#NOBODY",
+    "timestamp": "2026-05-10T22:39:38.116Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "d75a2972-f8e9-40bf-be62-07c4a79cb4f0",
+      "shortId": "KRNZJH",
+      "name": "Fae_",
+      "role": "USER",
+      "level": 89
+    },
+    "message": "[Sunflower|Shark|WEAPON_SKIN|LEGENDARY]",
+    "timestamp": "2026-05-10T22:40:55.942Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "d75a2972-f8e9-40bf-be62-07c4a79cb4f0",
+      "shortId": "KRNZJH",
+      "name": "Fae_",
+      "role": "USER",
+      "level": 89
+    },
+    "message": "[Scary Monster||BODY_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-10T22:41:00.634Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "d75a2972-f8e9-40bf-be62-07c4a79cb4f0",
+      "shortId": "KRNZJH",
+      "name": "Fae_",
+      "role": "USER",
+      "level": 89
+    },
+    "message": "sense",
+    "timestamp": "2026-05-10T23:07:17.050Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "d75a2972-f8e9-40bf-be62-07c4a79cb4f0",
+      "shortId": "KRNZJH",
+      "name": "Fae_",
+      "role": "USER",
+      "level": 89
+    },
+    "message": "do you have any goldens",
+    "timestamp": "2026-05-10T23:07:21.549Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "d75a2972-f8e9-40bf-be62-07c4a79cb4f0",
+      "shortId": "KRNZJH",
+      "name": "Fae_",
+      "role": "USER",
+      "level": 89
+    },
+    "message": "dang",
+    "timestamp": "2026-05-10T23:07:59.813Z"
   }
 ]
