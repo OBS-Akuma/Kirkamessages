@@ -1042,5 +1042,17 @@
     },
     "message": "kirkabot-0x85ded5",
     "timestamp": "2026-05-09T02:52:24.091Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "iDzsd49yqFTGnXi6Sv4GrC2ntX13",
+      "shortId": "H61ZLH",
+      "name": "Chuck",
+      "role": "USER",
+      "level": 89
+    },
+    "message": "/hm champion",
+    "timestamp": "2026-05-10T21:36:48.492Z"
   }
 ]
