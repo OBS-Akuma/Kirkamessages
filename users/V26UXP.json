@@ -1,0 +1,38 @@
+[
+  {
+    "type": 2,
+    "user": {
+      "id": "1b8f0133-438a-4462-b809-0c966c07ae96",
+      "shortId": "V26UXP",
+      "name": "[VN]hunterCE",
+      "role": "USER",
+      "level": 38
+    },
+    "message": "/price xed",
+    "timestamp": "2026-05-11T01:35:13.042Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "1b8f0133-438a-4462-b809-0c966c07ae96",
+      "shortId": "V26UXP",
+      "name": "[VN]hunterCE",
+      "role": "USER",
+      "level": 38
+    },
+    "message": "[Nova|SCAR|WEAPON_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-11T02:09:30.270Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "1b8f0133-438a-4462-b809-0c966c07ae96",
+      "shortId": "V26UXP",
+      "name": "[VN]hunterCE",
+      "role": "USER",
+      "level": 38
+    },
+    "message": "/price nova",
+    "timestamp": "2026-05-11T02:09:34.868Z"
+  }
+]
