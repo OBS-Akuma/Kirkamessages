@@ -886,5 +886,29 @@
     },
     "message": "i can't type a trade in for some reason",
     "timestamp": "2026-05-11T07:19:00.107Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "guest-077dceb4-05fe-4442-b2e0-edd5469cf619",
+      "shortId": "AH7NA2",
+      "name": "ALTERED",
+      "role": "USER",
+      "level": 24
+    },
+    "message": "does anyone here have a mythical [SCAR||WEAPON_1|COMMON]",
+    "timestamp": "2026-05-11T19:13:35.824Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "guest-077dceb4-05fe-4442-b2e0-edd5469cf619",
+      "shortId": "AH7NA2",
+      "name": "ALTERED",
+      "role": "USER",
+      "level": 24
+    },
+    "message": "Abeed#F8X5NM do you have any other mythical [SCAR||WEAPON_1|COMMON]",
+    "timestamp": "2026-05-11T19:14:33.825Z"
   }
 ]
