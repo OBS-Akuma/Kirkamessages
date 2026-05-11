@@ -70,5 +70,101 @@
     },
     "message": "tr [Honey|Bayonet|WEAPON_SKIN|MYTHICAL] [Or|Bayonet|WEAPON_SKIN|MYTHICAL] [2024|Bayonet|WEAPON_SKIN|MYTHICAL] [Jade|Bayonet|WEAPON_SKIN|MYTHICAL] [Cornfield|Bayonet|WEAPON_SKIN|MYTHICAL] lf [Golden||CHEST|LEGENDARY]",
     "timestamp": "2026-05-10T21:59:45.351Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "e6f1092a-d1c9-4698-905b-5e4797995800",
+      "shortId": "CBBOE7",
+      "name": "tmmor",
+      "role": "USER",
+      "level": 57
+    },
+    "message": "tr [Cornfield|Bayonet|WEAPON_SKIN|MYTHICAL] [Or|Bayonet|WEAPON_SKIN|MYTHICAL] [Honey|Bayonet|WEAPON_SKIN|MYTHICAL] [2024|Bayonet|WEAPON_SKIN|MYTHICAL] [Jade|Bayonet|WEAPON_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-11T08:58:48.378Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "e6f1092a-d1c9-4698-905b-5e4797995800",
+      "shortId": "CBBOE7",
+      "name": "tmmor",
+      "role": "USER",
+      "level": 57
+    },
+    "message": "lf [Golden||CHEST|LEGENDARY]",
+    "timestamp": "2026-05-11T08:58:55.458Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "e6f1092a-d1c9-4698-905b-5e4797995800",
+      "shortId": "CBBOE7",
+      "name": "tmmor",
+      "role": "USER",
+      "level": 57
+    },
+    "message": "yo qwerty",
+    "timestamp": "2026-05-11T08:59:04.624Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "e6f1092a-d1c9-4698-905b-5e4797995800",
+      "shortId": "CBBOE7",
+      "name": "tmmor",
+      "role": "USER",
+      "level": 57
+    },
+    "message": "i got [Jade|Bayonet|WEAPON_SKIN|MYTHICAL] and [2024|Bayonet|WEAPON_SKIN|MYTHICAL] if you want?",
+    "timestamp": "2026-05-11T08:59:15.260Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "e6f1092a-d1c9-4698-905b-5e4797995800",
+      "shortId": "CBBOE7",
+      "name": "tmmor",
+      "role": "USER",
+      "level": 57
+    },
+    "message": "sure",
+    "timestamp": "2026-05-11T08:59:54.722Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "e6f1092a-d1c9-4698-905b-5e4797995800",
+      "shortId": "CBBOE7",
+      "name": "tmmor",
+      "role": "USER",
+      "level": 57
+    },
+    "message": "deal",
+    "timestamp": "2026-05-11T09:00:01.958Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "e6f1092a-d1c9-4698-905b-5e4797995800",
+      "shortId": "CBBOE7",
+      "name": "tmmor",
+      "role": "USER",
+      "level": 57
+    },
+    "message": "ty!",
+    "timestamp": "2026-05-11T09:00:40.491Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "e6f1092a-d1c9-4698-905b-5e4797995800",
+      "shortId": "CBBOE7",
+      "name": "tmmor",
+      "role": "USER",
+      "level": 57
+    },
+    "message": "/hm cargo",
+    "timestamp": "2026-05-11T09:08:27.829Z"
   }
 ]
