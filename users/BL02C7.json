@@ -22,5 +22,41 @@
     },
     "message": "I want a blacky player skin",
     "timestamp": "2026-05-11T05:25:11.324Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "56853439-bb34-4aeb-a09c-0fe7bfba6421",
+      "shortId": "BL02C7",
+      "name": "Error404",
+      "role": "USER",
+      "level": 16
+    },
+    "message": "/give me spanch",
+    "timestamp": "2026-05-11T05:42:51.237Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "56853439-bb34-4aeb-a09c-0fe7bfba6421",
+      "shortId": "BL02C7",
+      "name": "Error404",
+      "role": "USER",
+      "level": 16
+    },
+    "message": "/",
+    "timestamp": "2026-05-11T05:43:15.177Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "56853439-bb34-4aeb-a09c-0fe7bfba6421",
+      "shortId": "BL02C7",
+      "name": "Error404",
+      "role": "USER",
+      "level": 16
+    },
+    "message": "/claim",
+    "timestamp": "2026-05-11T05:47:30.643Z"
   }
 ]
