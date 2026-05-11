@@ -8206,5 +8206,17 @@
     },
     "message": "/mywager",
     "timestamp": "2026-05-11T01:27:46.574Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "7b609f0d-49c0-45b7-b15d-9934489db3d9",
+      "shortId": "POOKIE",
+      "name": "_Nxt",
+      "role": "USER",
+      "level": 99
+    },
+    "message": "/wager [Biker||BODY_SKIN|MYTHICAL] #B1WQPE",
+    "timestamp": "2026-05-11T05:40:56.575Z"
   }
 ]
