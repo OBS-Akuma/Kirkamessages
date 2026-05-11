@@ -526,5 +526,65 @@
     },
     "message": "Thanks for the games <3",
     "timestamp": "2026-05-11T06:14:37.295Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "0909a116-4e5b-42fb-9f7b-ca9b4f776a26",
+      "shortId": "KATANA",
+      "name": "Dream",
+      "role": "USER",
+      "level": 100
+    },
+    "message": "Offering [Ranked_S1 Top10|Bayonet|WEAPON_SKIN|MYTHICAL] (7 units) for [Lor||BODY_SKIN|LEGENDARY] adds",
+    "timestamp": "2026-05-11T08:30:55.041Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "0909a116-4e5b-42fb-9f7b-ca9b4f776a26",
+      "shortId": "KATANA",
+      "name": "Dream",
+      "role": "USER",
+      "level": 100
+    },
+    "message": ".",
+    "timestamp": "2026-05-11T08:34:22.256Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "0909a116-4e5b-42fb-9f7b-ca9b4f776a26",
+      "shortId": "KATANA",
+      "name": "Dream",
+      "role": "USER",
+      "level": 100
+    },
+    "message": "/vt 11307",
+    "timestamp": "2026-05-11T08:34:39.967Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "0909a116-4e5b-42fb-9f7b-ca9b4f776a26",
+      "shortId": "KATANA",
+      "name": "Dream",
+      "role": "USER",
+      "level": 100
+    },
+    "message": "#HIDDEN",
+    "timestamp": "2026-05-11T08:59:14.696Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "0909a116-4e5b-42fb-9f7b-ca9b4f776a26",
+      "shortId": "KATANA",
+      "name": "Dream",
+      "role": "USER",
+      "level": 100
+    },
+    "message": "heya",
+    "timestamp": "2026-05-11T08:59:23.120Z"
   }
 ]
