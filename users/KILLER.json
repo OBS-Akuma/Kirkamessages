@@ -2254,5 +2254,77 @@
     },
     "message": "Gg i off now sleep",
     "timestamp": "2026-05-10T19:05:12.630Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "e94fc41b-ee11-41e2-8942-4381500742af",
+      "shortId": "KILLER",
+      "name": "Quitter",
+      "role": "USER",
+      "level": 99
+    },
+    "message": "LF [Rainbows||BODY_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-11T07:26:48.636Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "e94fc41b-ee11-41e2-8942-4381500742af",
+      "shortId": "KILLER",
+      "name": "Quitter",
+      "role": "USER",
+      "level": 99
+    },
+    "message": "Just get a [Zebra|M60|WEAPON_SKIN|EPIC] cheap n cool",
+    "timestamp": "2026-05-11T07:28:07.788Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "e94fc41b-ee11-41e2-8942-4381500742af",
+      "shortId": "KILLER",
+      "name": "Quitter",
+      "role": "USER",
+      "level": 99
+    },
+    "message": "Who said market never sells?",
+    "timestamp": "2026-05-11T07:29:56.692Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "e94fc41b-ee11-41e2-8942-4381500742af",
+      "shortId": "KILLER",
+      "name": "Quitter",
+      "role": "USER",
+      "level": 99
+    },
+    "message": "I got 80m just from selling all my dupes",
+    "timestamp": "2026-05-11T07:30:08.693Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "e94fc41b-ee11-41e2-8942-4381500742af",
+      "shortId": "KILLER",
+      "name": "Quitter",
+      "role": "USER",
+      "level": 99
+    },
+    "message": "Thanks for buying my [Slime||BODY_SKIN|MYTHICAL] whoever tht was",
+    "timestamp": "2026-05-11T07:30:52.575Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "e94fc41b-ee11-41e2-8942-4381500742af",
+      "shortId": "KILLER",
+      "name": "Quitter",
+      "role": "USER",
+      "level": 99
+    },
+    "message": "Oh thanks phenom. Now i put another one :>",
+    "timestamp": "2026-05-11T07:31:42.445Z"
   }
 ]
