@@ -1,0 +1,38 @@
+[
+  {
+    "type": 2,
+    "user": {
+      "id": "6dd08962-16b8-4378-b3da-eba445fb5474",
+      "shortId": "1MJJ62",
+      "name": "Binh_gold",
+      "role": "USER",
+      "level": 24
+    },
+    "message": "/hm heavy",
+    "timestamp": "2026-05-11T05:17:52.168Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "6dd08962-16b8-4378-b3da-eba445fb5474",
+      "shortId": "1MJJ62",
+      "name": "Binh_gold",
+      "role": "USER",
+      "level": 24
+    },
+    "message": "/top lar",
+    "timestamp": "2026-05-11T05:18:12.257Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "6dd08962-16b8-4378-b3da-eba445fb5474",
+      "shortId": "1MJJ62",
+      "name": "Binh_gold",
+      "role": "USER",
+      "level": 24
+    },
+    "message": "/hm mabel",
+    "timestamp": "2026-05-11T05:31:52.096Z"
+  }
+]
