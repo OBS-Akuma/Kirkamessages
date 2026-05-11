@@ -1,0 +1,26 @@
+[
+  {
+    "type": 2,
+    "user": {
+      "id": "OIIikwBEM0ecrSqHi2b7gOBFwSq2",
+      "shortId": "PSJ21N",
+      "name": "DucHaiVN",
+      "role": "USER",
+      "level": 6
+    },
+    "message": "ai hỏi",
+    "timestamp": "2026-05-11T00:05:24.349Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "OIIikwBEM0ecrSqHi2b7gOBFwSq2",
+      "shortId": "PSJ21N",
+      "name": "DucHaiVN",
+      "role": "USER",
+      "level": 6
+    },
+    "message": "omg",
+    "timestamp": "2026-05-11T00:05:46.576Z"
+  }
+]
