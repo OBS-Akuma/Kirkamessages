@@ -2458,5 +2458,29 @@
     },
     "message": ":3",
     "timestamp": "2026-05-11T06:32:28.338Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "3cd39bca-fb4d-4024-bf72-57d747f9a75f",
+      "shortId": "5ZCHYI",
+      "name": "Saint.",
+      "role": "USER",
+      "level": 74
+    },
+    "message": "trading [Lor||BODY_SKIN|LEGENDARY][Radioactive|Bayonet|WEAPON_SKIN|LEGENDARY][Astral|AR-9|WEAPON_SKIN|MYTHICAL][Scarlet|SCAR|WEAPON_SKIN|LEGENDARY][Billion|Shark|WEAPON_SKIN|MYTHICAL][Caring|Bayonet|WEAPON_SKIN|MYTHICAL][Megalodon|Shark|WEAPON_SKIN|LEGENDARY][Demon|SCAR|WEAPON_SKIN|LEGENDARY]",
+    "timestamp": "2026-05-11T07:01:54.782Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "3cd39bca-fb4d-4024-bf72-57d747f9a75f",
+      "shortId": "5ZCHYI",
+      "name": "Saint.",
+      "role": "USER",
+      "level": 74
+    },
+    "message": "trading [Cloud||BODY_SKIN|MYTHICAL][Clownabeth||BODY_SKIN|MYTHICAL][Bansee|VITA|WEAPON_SKIN|MYTHICAL][Andromeda|MAC-10|WEAPON_SKIN|LEGENDARY]",
+    "timestamp": "2026-05-11T07:02:16.750Z"
   }
 ]
