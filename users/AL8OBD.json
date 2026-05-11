@@ -94,5 +94,17 @@
     },
     "message": "like dawg",
     "timestamp": "2026-05-07T19:18:05.723Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "f45ba839-38bb-47f0-8e33-80a19551ae37",
+      "shortId": "AL8OBD",
+      "name": "yzze",
+      "role": "USER",
+      "level": 80
+    },
+    "message": "/inv",
+    "timestamp": "2026-05-11T19:08:32.870Z"
   }
 ]
