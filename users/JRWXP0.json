@@ -1,0 +1,38 @@
+[
+  {
+    "type": 2,
+    "user": {
+      "id": "403c8dc7-3a3d-41fb-b70f-e6bb3b19734e",
+      "shortId": "JRWXP0",
+      "name": "Pietro",
+      "role": "USER",
+      "level": 44
+    },
+    "message": "lf [tiburon",
+    "timestamp": "2026-05-11T05:40:46.982Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "403c8dc7-3a3d-41fb-b70f-e6bb3b19734e",
+      "shortId": "JRWXP0",
+      "name": "Pietro",
+      "role": "USER",
+      "level": 44
+    },
+    "message": "[Tiburon|Bayonet|WEAPON_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-11T05:40:51.488Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "403c8dc7-3a3d-41fb-b70f-e6bb3b19734e",
+      "shortId": "JRWXP0",
+      "name": "Pietro",
+      "role": "USER",
+      "level": 44
+    },
+    "message": "lf a clan",
+    "timestamp": "2026-05-11T05:41:08.285Z"
+  }
+]
