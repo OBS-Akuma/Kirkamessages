@@ -46,5 +46,113 @@
     },
     "message": "https://kirka.io/___lobby___/NA~RO8IhL4Lr",
     "timestamp": "2026-05-09T04:10:21.470Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "5aa397f6-769b-47c7-b4cb-ad7ec3997c96",
+      "shortId": "00OSA5",
+      "name": "egoist",
+      "role": "USER",
+      "level": 98
+    },
+    "message": "canel",
+    "timestamp": "2026-05-11T00:10:11.278Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "5aa397f6-769b-47c7-b4cb-ad7ec3997c96",
+      "shortId": "00OSA5",
+      "name": "egoist",
+      "role": "USER",
+      "level": 98
+    },
+    "message": "can I get donation?",
+    "timestamp": "2026-05-11T00:10:16.707Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "5aa397f6-769b-47c7-b4cb-ad7ec3997c96",
+      "shortId": "00OSA5",
+      "name": "egoist",
+      "role": "USER",
+      "level": 98
+    },
+    "message": "/inv",
+    "timestamp": "2026-05-11T00:10:19.787Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "5aa397f6-769b-47c7-b4cb-ad7ec3997c96",
+      "shortId": "00OSA5",
+      "name": "egoist",
+      "role": "USER",
+      "level": 98
+    },
+    "message": "what I get",
+    "timestamp": "2026-05-11T00:10:36.924Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "5aa397f6-769b-47c7-b4cb-ad7ec3997c96",
+      "shortId": "00OSA5",
+      "name": "egoist",
+      "role": "USER",
+      "level": 98
+    },
+    "message": "zron",
+    "timestamp": "2026-05-11T00:10:53.073Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "5aa397f6-769b-47c7-b4cb-ad7ec3997c96",
+      "shortId": "00OSA5",
+      "name": "egoist",
+      "role": "USER",
+      "level": 98
+    },
+    "message": "cancel",
+    "timestamp": "2026-05-11T00:10:54.248Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "5aa397f6-769b-47c7-b4cb-ad7ec3997c96",
+      "shortId": "00OSA5",
+      "name": "egoist",
+      "role": "USER",
+      "level": 98
+    },
+    "message": "canel I get something?",
+    "timestamp": "2026-05-11T00:11:14.541Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "5aa397f6-769b-47c7-b4cb-ad7ec3997c96",
+      "shortId": "00OSA5",
+      "name": "egoist",
+      "role": "USER",
+      "level": 98
+    },
+    "message": "tyyyy",
+    "timestamp": "2026-05-11T00:11:33.164Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "5aa397f6-769b-47c7-b4cb-ad7ec3997c96",
+      "shortId": "00OSA5",
+      "name": "egoist",
+      "role": "USER",
+      "level": 98
+    },
+    "message": "tyyy",
+    "timestamp": "2026-05-11T00:12:07.157Z"
   }
 ]
