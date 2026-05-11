@@ -310,5 +310,17 @@
     },
     "message": "idk",
     "timestamp": "2026-05-11T19:11:12.082Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "fef272b4-70e4-418f-a41c-e28ae12e5c89",
+      "shortId": "6WHCOR",
+      "name": "[EGD]ToXiC",
+      "role": "USER",
+      "level": 71
+    },
+    "message": "qwerty trade void for my hold invitory",
+    "timestamp": "2026-05-11T19:12:50.568Z"
   }
 ]
