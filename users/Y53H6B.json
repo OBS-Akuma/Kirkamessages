@@ -1162,5 +1162,29 @@
     },
     "message": "thanks fb",
     "timestamp": "2026-05-07T21:55:06.716Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "5d9e83f9-d654-4d81-8130-62f7c3130f4f",
+      "shortId": "Y53H6B",
+      "name": "ciksbro",
+      "role": "VERIFIED",
+      "level": 100
+    },
+    "message": "/tade accept 11307",
+    "timestamp": "2026-05-11T08:34:19.132Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "5d9e83f9-d654-4d81-8130-62f7c3130f4f",
+      "shortId": "Y53H6B",
+      "name": "ciksbro",
+      "role": "VERIFIED",
+      "level": 100
+    },
+    "message": "/inv",
+    "timestamp": "2026-05-11T09:04:10.182Z"
   }
 ]
