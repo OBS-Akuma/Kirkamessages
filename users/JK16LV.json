@@ -262,5 +262,29 @@
     },
     "message": "/locate [Rubies||BODY_SKIN|MYTHICAL]",
     "timestamp": "2026-05-10T22:54:50.079Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "6afd9832-c360-4cf2-97d2-942f1319a387",
+      "shortId": "JK16LV",
+      "name": "sonar.",
+      "role": "USER",
+      "level": 77
+    },
+    "message": "t có 1689kc rồi",
+    "timestamp": "2026-05-11T02:31:01.019Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "6afd9832-c360-4cf2-97d2-942f1319a387",
+      "shortId": "JK16LV",
+      "name": "sonar.",
+      "role": "USER",
+      "level": 77
+    },
+    "message": "#U2BXJ1, rubies",
+    "timestamp": "2026-05-11T02:32:04.600Z"
   }
 ]
