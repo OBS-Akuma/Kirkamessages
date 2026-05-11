@@ -82,5 +82,17 @@
     },
     "message": "trade @aztek",
     "timestamp": "2026-05-11T06:54:43.285Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "15d60fb8-4a91-4f9b-986f-8164d4db8813",
+      "shortId": "BCMY32",
+      "name": "valkry",
+      "role": "USER",
+      "level": 10
+    },
+    "message": "trade offer my:pumreaper",
+    "timestamp": "2026-05-11T07:42:51.235Z"
   }
 ]
