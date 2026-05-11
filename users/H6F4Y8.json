@@ -1402,5 +1402,473 @@
     },
     "message": "i make it you late",
     "timestamp": "2026-05-08T05:55:35.849Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "U2TClvBwGvgshMlK8lPk6H5zHX42",
+      "shortId": "H6F4Y8",
+      "name": "CHAMPION",
+      "role": "USER",
+      "level": 78
+    },
+    "message": "/ wager [Golden||CHEST|LEGENDARY]x1000 #HUB956",
+    "timestamp": "2026-05-11T07:55:21.866Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "U2TClvBwGvgshMlK8lPk6H5zHX42",
+      "shortId": "H6F4Y8",
+      "name": "CHAMPION",
+      "role": "USER",
+      "level": 78
+    },
+    "message": "/cancelwager",
+    "timestamp": "2026-05-11T07:55:35.907Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "U2TClvBwGvgshMlK8lPk6H5zHX42",
+      "shortId": "H6F4Y8",
+      "name": "CHAMPION",
+      "role": "USER",
+      "level": 78
+    },
+    "message": "/wager [Golden||CHEST|LEGENDARY]x1000 #HUB956",
+    "timestamp": "2026-05-11T07:55:46.956Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "U2TClvBwGvgshMlK8lPk6H5zHX42",
+      "shortId": "H6F4Y8",
+      "name": "CHAMPION",
+      "role": "USER",
+      "level": 78
+    },
+    "message": "confirm brpo",
+    "timestamp": "2026-05-11T07:55:56.318Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "U2TClvBwGvgshMlK8lPk6H5zHX42",
+      "shortId": "H6F4Y8",
+      "name": "CHAMPION",
+      "role": "USER",
+      "level": 78
+    },
+    "message": "ok",
+    "timestamp": "2026-05-11T07:56:30.565Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "U2TClvBwGvgshMlK8lPk6H5zHX42",
+      "shortId": "H6F4Y8",
+      "name": "CHAMPION",
+      "role": "USER",
+      "level": 78
+    },
+    "message": "/cancelwager",
+    "timestamp": "2026-05-11T07:56:40.525Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "U2TClvBwGvgshMlK8lPk6H5zHX42",
+      "shortId": "H6F4Y8",
+      "name": "CHAMPION",
+      "role": "USER",
+      "level": 78
+    },
+    "message": "/wager [Golden||CHEST|LEGENDARY]x400 #AGMU6F",
+    "timestamp": "2026-05-11T07:56:56.904Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "U2TClvBwGvgshMlK8lPk6H5zHX42",
+      "shortId": "H6F4Y8",
+      "name": "CHAMPION",
+      "role": "USER",
+      "level": 78
+    },
+    "message": "wait navy",
+    "timestamp": "2026-05-11T07:57:06.286Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "U2TClvBwGvgshMlK8lPk6H5zHX42",
+      "shortId": "H6F4Y8",
+      "name": "CHAMPION",
+      "role": "USER",
+      "level": 78
+    },
+    "message": "/mywager",
+    "timestamp": "2026-05-11T07:57:38.363Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "U2TClvBwGvgshMlK8lPk6H5zHX42",
+      "shortId": "H6F4Y8",
+      "name": "CHAMPION",
+      "role": "USER",
+      "level": 78
+    },
+    "message": "/wager [Golden||CHEST|LEGENDARY]x800 #TRE873",
+    "timestamp": "2026-05-11T07:58:11.567Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "U2TClvBwGvgshMlK8lPk6H5zHX42",
+      "shortId": "H6F4Y8",
+      "name": "CHAMPION",
+      "role": "USER",
+      "level": 78
+    },
+    "message": "/cancelwager",
+    "timestamp": "2026-05-11T07:58:28.509Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "U2TClvBwGvgshMlK8lPk6H5zHX42",
+      "shortId": "H6F4Y8",
+      "name": "CHAMPION",
+      "role": "USER",
+      "level": 78
+    },
+    "message": "/wager [Golden||CHEST|LEGENDARY]x800 #AGMU6F",
+    "timestamp": "2026-05-11T07:58:41.416Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "U2TClvBwGvgshMlK8lPk6H5zHX42",
+      "shortId": "H6F4Y8",
+      "name": "CHAMPION",
+      "role": "USER",
+      "level": 78
+    },
+    "message": "g",
+    "timestamp": "2026-05-11T07:59:15.751Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "U2TClvBwGvgshMlK8lPk6H5zHX42",
+      "shortId": "H6F4Y8",
+      "name": "CHAMPION",
+      "role": "USER",
+      "level": 78
+    },
+    "message": "/flip",
+    "timestamp": "2026-05-11T07:59:19.035Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "U2TClvBwGvgshMlK8lPk6H5zHX42",
+      "shortId": "H6F4Y8",
+      "name": "CHAMPION",
+      "role": "USER",
+      "level": 78
+    },
+    "message": "/claim",
+    "timestamp": "2026-05-11T07:59:25.786Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "U2TClvBwGvgshMlK8lPk6H5zHX42",
+      "shortId": "H6F4Y8",
+      "name": "CHAMPION",
+      "role": "USER",
+      "level": 78
+    },
+    "message": "#HUB956 navy",
+    "timestamp": "2026-05-11T07:59:58.656Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "U2TClvBwGvgshMlK8lPk6H5zHX42",
+      "shortId": "H6F4Y8",
+      "name": "CHAMPION",
+      "role": "USER",
+      "level": 78
+    },
+    "message": "Abyy",
+    "timestamp": "2026-05-11T08:00:09.683Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "U2TClvBwGvgshMlK8lPk6H5zHX42",
+      "shortId": "H6F4Y8",
+      "name": "CHAMPION",
+      "role": "USER",
+      "level": 78
+    },
+    "message": "risk make 2000",
+    "timestamp": "2026-05-11T08:00:19.148Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "U2TClvBwGvgshMlK8lPk6H5zHX42",
+      "shortId": "H6F4Y8",
+      "name": "CHAMPION",
+      "role": "USER",
+      "level": 78
+    },
+    "message": "abyy you want [Lord||BODY_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-11T08:00:27.926Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "U2TClvBwGvgshMlK8lPk6H5zHX42",
+      "shortId": "H6F4Y8",
+      "name": "CHAMPION",
+      "role": "USER",
+      "level": 78
+    },
+    "message": "offer",
+    "timestamp": "2026-05-11T08:00:38.121Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "U2TClvBwGvgshMlK8lPk6H5zHX42",
+      "shortId": "H6F4Y8",
+      "name": "CHAMPION",
+      "role": "USER",
+      "level": 78
+    },
+    "message": "yo",
+    "timestamp": "2026-05-11T08:01:08.519Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "U2TClvBwGvgshMlK8lPk6H5zHX42",
+      "shortId": "H6F4Y8",
+      "name": "CHAMPION",
+      "role": "USER",
+      "level": 78
+    },
+    "message": "make",
+    "timestamp": "2026-05-11T08:01:14.202Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "U2TClvBwGvgshMlK8lPk6H5zHX42",
+      "shortId": "H6F4Y8",
+      "name": "CHAMPION",
+      "role": "USER",
+      "level": 78
+    },
+    "message": "type /wager [Golden||CHEST|LEGENDARY]x2000 #H415SN",
+    "timestamp": "2026-05-11T08:01:59.140Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "U2TClvBwGvgshMlK8lPk6H5zHX42",
+      "shortId": "H6F4Y8",
+      "name": "CHAMPION",
+      "role": "USER",
+      "level": 78
+    },
+    "message": "try again",
+    "timestamp": "2026-05-11T08:02:14.504Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "U2TClvBwGvgshMlK8lPk6H5zHX42",
+      "shortId": "H6F4Y8",
+      "name": "CHAMPION",
+      "role": "USER",
+      "level": 78
+    },
+    "message": "yo",
+    "timestamp": "2026-05-11T08:02:27.326Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "U2TClvBwGvgshMlK8lPk6H5zHX42",
+      "shortId": "H6F4Y8",
+      "name": "CHAMPION",
+      "role": "USER",
+      "level": 78
+    },
+    "message": "/confirmwager",
+    "timestamp": "2026-05-11T08:02:33.468Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "U2TClvBwGvgshMlK8lPk6H5zHX42",
+      "shortId": "H6F4Y8",
+      "name": "CHAMPION",
+      "role": "USER",
+      "level": 78
+    },
+    "message": "/f;lip",
+    "timestamp": "2026-05-11T08:03:05.206Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "U2TClvBwGvgshMlK8lPk6H5zHX42",
+      "shortId": "H6F4Y8",
+      "name": "CHAMPION",
+      "role": "USER",
+      "level": 78
+    },
+    "message": "/claim",
+    "timestamp": "2026-05-11T08:03:09.500Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "U2TClvBwGvgshMlK8lPk6H5zHX42",
+      "shortId": "H6F4Y8",
+      "name": "CHAMPION",
+      "role": "USER",
+      "level": 78
+    },
+    "message": "/wager [Golden||CHEST|LEGENDARY]x1000 #9MTHQO",
+    "timestamp": "2026-05-11T08:03:48.103Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "U2TClvBwGvgshMlK8lPk6H5zHX42",
+      "shortId": "H6F4Y8",
+      "name": "CHAMPION",
+      "role": "USER",
+      "level": 78
+    },
+    "message": "confirm bro",
+    "timestamp": "2026-05-11T08:04:02.412Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "U2TClvBwGvgshMlK8lPk6H5zHX42",
+      "shortId": "H6F4Y8",
+      "name": "CHAMPION",
+      "role": "USER",
+      "level": 78
+    },
+    "message": "#9MTHQO risk confirm",
+    "timestamp": "2026-05-11T08:04:11.383Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "U2TClvBwGvgshMlK8lPk6H5zHX42",
+      "shortId": "H6F4Y8",
+      "name": "CHAMPION",
+      "role": "USER",
+      "level": 78
+    },
+    "message": "risk scammer",
+    "timestamp": "2026-05-11T08:04:28.894Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "U2TClvBwGvgshMlK8lPk6H5zHX42",
+      "shortId": "H6F4Y8",
+      "name": "CHAMPION",
+      "role": "USER",
+      "level": 78
+    },
+    "message": "no",
+    "timestamp": "2026-05-11T08:04:33.942Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "U2TClvBwGvgshMlK8lPk6H5zHX42",
+      "shortId": "H6F4Y8",
+      "name": "CHAMPION",
+      "role": "USER",
+      "level": 78
+    },
+    "message": "#9MTHQO scammer",
+    "timestamp": "2026-05-11T08:04:47.566Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "U2TClvBwGvgshMlK8lPk6H5zHX42",
+      "shortId": "H6F4Y8",
+      "name": "CHAMPION",
+      "role": "USER",
+      "level": 78
+    },
+    "message": "/cancelwager",
+    "timestamp": "2026-05-11T08:05:26.193Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "U2TClvBwGvgshMlK8lPk6H5zHX42",
+      "shortId": "H6F4Y8",
+      "name": "CHAMPION",
+      "role": "USER",
+      "level": 78
+    },
+    "message": "/wager [Golden||CHEST|LEGENDARY]x1000 #TRE873",
+    "timestamp": "2026-05-11T08:05:40.494Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "U2TClvBwGvgshMlK8lPk6H5zHX42",
+      "shortId": "H6F4Y8",
+      "name": "CHAMPION",
+      "role": "USER",
+      "level": 78
+    },
+    "message": "me",
+    "timestamp": "2026-05-11T08:05:56.845Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "U2TClvBwGvgshMlK8lPk6H5zHX42",
+      "shortId": "H6F4Y8",
+      "name": "CHAMPION",
+      "role": "USER",
+      "level": 78
+    },
+    "message": "no",
+    "timestamp": "2026-05-11T08:06:02.356Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "U2TClvBwGvgshMlK8lPk6H5zHX42",
+      "shortId": "H6F4Y8",
+      "name": "CHAMPION",
+      "role": "USER",
+      "level": 78
+    },
+    "message": "Qwertr confir wager",
+    "timestamp": "2026-05-11T08:07:28.242Z"
   }
 ]
