@@ -10,5 +10,29 @@
     },
     "message": "[67]",
     "timestamp": "2026-05-08T03:56:19.040Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "guest-d15d6994-b5c7-4828-b57e-31f29268e511",
+      "shortId": "6JDXHE",
+      "name": "TUNGTUNGSAHUR.",
+      "role": "USER",
+      "level": 19
+    },
+    "message": "/enter",
+    "timestamp": "2026-05-11T19:09:11.500Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "guest-d15d6994-b5c7-4828-b57e-31f29268e511",
+      "shortId": "6JDXHE",
+      "name": "TUNGTUNGSAHUR.",
+      "role": "USER",
+      "level": 19
+    },
+    "message": "/claim",
+    "timestamp": "2026-05-11T19:09:16.964Z"
   }
 ]
