@@ -1438,5 +1438,89 @@
     },
     "message": "sho has angel",
     "timestamp": "2026-05-08T23:13:06.019Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "e7ca017c-557f-4b21-96eb-3ec2a9a728ab",
+      "shortId": "8SQMAK",
+      "name": "Eri.",
+      "role": "USER",
+      "level": 56
+    },
+    "message": "/price lis",
+    "timestamp": "2026-05-11T07:33:49.007Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "e7ca017c-557f-4b21-96eb-3ec2a9a728ab",
+      "shortId": "8SQMAK",
+      "name": "Eri.",
+      "role": "USER",
+      "level": 56
+    },
+    "message": "/price bok",
+    "timestamp": "2026-05-11T07:34:27.237Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "e7ca017c-557f-4b21-96eb-3ec2a9a728ab",
+      "shortId": "8SQMAK",
+      "name": "Eri.",
+      "role": "USER",
+      "level": 56
+    },
+    "message": "/price pastel",
+    "timestamp": "2026-05-11T07:35:11.576Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "e7ca017c-557f-4b21-96eb-3ec2a9a728ab",
+      "shortId": "8SQMAK",
+      "name": "Eri.",
+      "role": "USER",
+      "level": 56
+    },
+    "message": "xx 1m coins",
+    "timestamp": "2026-05-11T07:35:34.130Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "e7ca017c-557f-4b21-96eb-3ec2a9a728ab",
+      "shortId": "8SQMAK",
+      "name": "Eri.",
+      "role": "USER",
+      "level": 56
+    },
+    "message": "shost , i want ghillie",
+    "timestamp": "2026-05-11T07:36:21.178Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "e7ca017c-557f-4b21-96eb-3ec2a9a728ab",
+      "shortId": "8SQMAK",
+      "name": "Eri.",
+      "role": "USER",
+      "level": 56
+    },
+    "message": "bok ?.",
+    "timestamp": "2026-05-11T07:38:50.845Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "e7ca017c-557f-4b21-96eb-3ec2a9a728ab",
+      "shortId": "8SQMAK",
+      "name": "Eri.",
+      "role": "USER",
+      "level": 56
+    },
+    "message": "i want bok",
+    "timestamp": "2026-05-11T07:39:11.071Z"
   }
 ]
