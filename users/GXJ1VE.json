@@ -586,5 +586,17 @@
     },
     "message": "/hm dragonic",
     "timestamp": "2026-05-10T21:10:18.449Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "849b68b6-84ec-47c9-a14e-ccf0aa3cfc1e",
+      "shortId": "GXJ1VE",
+      "name": "ASTA",
+      "role": "USER",
+      "level": 96
+    },
+    "message": "Dg [Wolfy||BODY_SKIN|MYTHICAL] [Gentleman||BODY_SKIN|MYTHICAL][Gardener|Bayonet|WEAPON_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-11T06:44:21.995Z"
   }
 ]
