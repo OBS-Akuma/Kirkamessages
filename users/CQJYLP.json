@@ -1,0 +1,26 @@
+[
+  {
+    "type": 2,
+    "user": {
+      "id": "UkNDQoiD8lWJriTZYMYvPJ8WYeh1",
+      "shortId": "CQJYLP",
+      "name": "miguelpvp",
+      "role": "USER",
+      "level": 5
+    },
+    "message": "hi",
+    "timestamp": "2026-05-11T00:40:22.746Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "UkNDQoiD8lWJriTZYMYvPJ8WYeh1",
+      "shortId": "CQJYLP",
+      "name": "miguelpvp",
+      "role": "USER",
+      "level": 5
+    },
+    "message": "hi guys",
+    "timestamp": "2026-05-11T00:41:18.667Z"
+  }
+]
