@@ -58,5 +58,53 @@
     },
     "message": "[paranormal]",
     "timestamp": "2026-05-11T05:22:21.123Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "2760683e-aa41-44d2-a695-3251af55423d",
+      "shortId": "EH6Y4R",
+      "name": "PREDATOR",
+      "role": "USER",
+      "level": 41
+    },
+    "message": "i need 1000 golden",
+    "timestamp": "2026-05-11T05:44:18.973Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "2760683e-aa41-44d2-a695-3251af55423d",
+      "shortId": "EH6Y4R",
+      "name": "PREDATOR",
+      "role": "USER",
+      "level": 41
+    },
+    "message": "i need 1000",
+    "timestamp": "2026-05-11T05:45:32.154Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "2760683e-aa41-44d2-a695-3251af55423d",
+      "shortId": "EH6Y4R",
+      "name": "PREDATOR",
+      "role": "USER",
+      "level": 41
+    },
+    "message": "golden",
+    "timestamp": "2026-05-11T05:45:35.974Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "2760683e-aa41-44d2-a695-3251af55423d",
+      "shortId": "EH6Y4R",
+      "name": "PREDATOR",
+      "role": "USER",
+      "level": 41
+    },
+    "message": "trading my [Arawn||BODY_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-11T06:01:44.709Z"
   }
 ]
