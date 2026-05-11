@@ -94,5 +94,29 @@
     },
     "message": "Pvp what skins you got",
     "timestamp": "2026-05-11T03:40:59.220Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "d8918df7-2a1c-4f91-a644-72d2ab0ca065",
+      "shortId": "BQ95MT",
+      "name": "Gang$ter",
+      "role": "USER",
+      "level": 44
+    },
+    "message": "[Angel||BODY_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-11T03:41:39.618Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "d8918df7-2a1c-4f91-a644-72d2ab0ca065",
+      "shortId": "BQ95MT",
+      "name": "Gang$ter",
+      "role": "USER",
+      "level": 44
+    },
+    "message": "/inv #J831BH",
+    "timestamp": "2026-05-11T03:42:00.252Z"
   }
 ]
