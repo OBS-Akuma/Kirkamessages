@@ -2062,5 +2062,29 @@
     },
     "message": "payer",
     "timestamp": "2026-05-10T16:37:21.277Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "3cd39bca-fb4d-4024-bf72-57d747f9a75f",
+      "shortId": "5ZCHYI",
+      "name": "Saint.",
+      "role": "USER",
+      "level": 74
+    },
+    "message": "lf [1337|Shark|WEAPON_SKIN|MYTHICAL] ...",
+    "timestamp": "2026-05-11T04:35:01.363Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "3cd39bca-fb4d-4024-bf72-57d747f9a75f",
+      "shortId": "5ZCHYI",
+      "name": "Saint.",
+      "role": "USER",
+      "level": 74
+    },
+    "message": "trading [Lor||BODY_SKIN|LEGENDARY]",
+    "timestamp": "2026-05-11T04:39:37.337Z"
   }
 ]
