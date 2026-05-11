@@ -142,5 +142,137 @@
     },
     "message": "/locate ophelia",
     "timestamp": "2026-05-08T09:17:13.741Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "98e76416-28bc-4578-b37a-8cbeb55b413c",
+      "shortId": "9D7IZB",
+      "name": "AightBet",
+      "role": "USER",
+      "level": 88
+    },
+    "message": "/locate chromium",
+    "timestamp": "2026-05-11T09:10:15.551Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "98e76416-28bc-4578-b37a-8cbeb55b413c",
+      "shortId": "9D7IZB",
+      "name": "AightBet",
+      "role": "USER",
+      "level": 88
+    },
+    "message": "wagering [Golden||CHEST|LEGENDARY]x2000",
+    "timestamp": "2026-05-11T09:33:52.356Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "98e76416-28bc-4578-b37a-8cbeb55b413c",
+      "shortId": "9D7IZB",
+      "name": "AightBet",
+      "role": "USER",
+      "level": 88
+    },
+    "message": "/wager [Golden||CHEST|LEGENDARY]x2000 #3TWZVR",
+    "timestamp": "2026-05-11T09:35:11.696Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "98e76416-28bc-4578-b37a-8cbeb55b413c",
+      "shortId": "9D7IZB",
+      "name": "AightBet",
+      "role": "USER",
+      "level": 88
+    },
+    "message": "/wager [Golden||CHEST|LEGENDARY]x2000 #H6F4Y8",
+    "timestamp": "2026-05-11T09:36:34.077Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "98e76416-28bc-4578-b37a-8cbeb55b413c",
+      "shortId": "9D7IZB",
+      "name": "AightBet",
+      "role": "USER",
+      "level": 88
+    },
+    "message": "gl.",
+    "timestamp": "2026-05-11T09:36:56.811Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "98e76416-28bc-4578-b37a-8cbeb55b413c",
+      "shortId": "9D7IZB",
+      "name": "AightBet",
+      "role": "USER",
+      "level": 88
+    },
+    "message": "gg",
+    "timestamp": "2026-05-11T09:37:17.546Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "98e76416-28bc-4578-b37a-8cbeb55b413c",
+      "shortId": "9D7IZB",
+      "name": "AightBet",
+      "role": "USER",
+      "level": 88
+    },
+    "message": "/claim",
+    "timestamp": "2026-05-11T09:37:20.609Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "98e76416-28bc-4578-b37a-8cbeb55b413c",
+      "shortId": "9D7IZB",
+      "name": "AightBet",
+      "role": "USER",
+      "level": 88
+    },
+    "message": "/mywager",
+    "timestamp": "2026-05-11T09:37:52.316Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "98e76416-28bc-4578-b37a-8cbeb55b413c",
+      "shortId": "9D7IZB",
+      "name": "AightBet",
+      "role": "USER",
+      "level": 88
+    },
+    "message": "/wager [Golden||CHEST|LEGENDARY]x4500 #3TWZVR",
+    "timestamp": "2026-05-11T09:38:45.925Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "98e76416-28bc-4578-b37a-8cbeb55b413c",
+      "shortId": "9D7IZB",
+      "name": "AightBet",
+      "role": "USER",
+      "level": 88
+    },
+    "message": "gl",
+    "timestamp": "2026-05-11T09:38:59.077Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "98e76416-28bc-4578-b37a-8cbeb55b413c",
+      "shortId": "9D7IZB",
+      "name": "AightBet",
+      "role": "USER",
+      "level": 88
+    },
+    "message": "gg",
+    "timestamp": "2026-05-11T09:39:22.438Z"
   }
 ]
