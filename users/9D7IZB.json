@@ -274,5 +274,89 @@
     },
     "message": "gg",
     "timestamp": "2026-05-11T09:39:22.438Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "98e76416-28bc-4578-b37a-8cbeb55b413c",
+      "shortId": "9D7IZB",
+      "name": "AightBet",
+      "role": "USER",
+      "level": 88
+    },
+    "message": "wagering [Ortus|Revolver|WEAPON_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-11T09:40:17.313Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "98e76416-28bc-4578-b37a-8cbeb55b413c",
+      "shortId": "9D7IZB",
+      "name": "AightBet",
+      "role": "USER",
+      "level": 88
+    },
+    "message": "wagering [Ortus|Revolver|WEAPON_SKIN|MYTHICAL]x2",
+    "timestamp": "2026-05-11T09:40:22.456Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "98e76416-28bc-4578-b37a-8cbeb55b413c",
+      "shortId": "9D7IZB",
+      "name": "AightBet",
+      "role": "USER",
+      "level": 88
+    },
+    "message": "wagering [Ortus|Revolver|WEAPON_SKIN|MYTHICAL]x2.",
+    "timestamp": "2026-05-11T09:41:04.327Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "98e76416-28bc-4578-b37a-8cbeb55b413c",
+      "shortId": "9D7IZB",
+      "name": "AightBet",
+      "role": "USER",
+      "level": 88
+    },
+    "message": "/locate ortus",
+    "timestamp": "2026-05-11T09:43:30.750Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "98e76416-28bc-4578-b37a-8cbeb55b413c",
+      "shortId": "9D7IZB",
+      "name": "AightBet",
+      "role": "USER",
+      "level": 88
+    },
+    "message": "/locate forbidden",
+    "timestamp": "2026-05-11T09:43:51.133Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "98e76416-28bc-4578-b37a-8cbeb55b413c",
+      "shortId": "9D7IZB",
+      "name": "AightBet",
+      "role": "USER",
+      "level": 88
+    },
+    "message": "/locate tiburon",
+    "timestamp": "2026-05-11T09:44:06.726Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "98e76416-28bc-4578-b37a-8cbeb55b413c",
+      "shortId": "9D7IZB",
+      "name": "AightBet",
+      "role": "USER",
+      "level": 88
+    },
+    "message": "wagering [Forbidden|AR-9|WEAPON_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-11T09:44:18.981Z"
   }
 ]
