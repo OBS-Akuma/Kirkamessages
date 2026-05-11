@@ -526,5 +526,881 @@
     },
     "message": "/inv",
     "timestamp": "2026-05-10T18:32:50.680Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "guest-b9d1b97b-1786-49ad-9242-6f1a7b3c4e8a",
+      "shortId": "FMEM5U",
+      "name": "JaniYousafYT",
+      "role": "USER",
+      "level": 23
+    },
+    "message": "/wager [Golden||CHEST|LEGENDARY]x400 #BCBHBU",
+    "timestamp": "2026-05-11T00:42:32.247Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "guest-b9d1b97b-1786-49ad-9242-6f1a7b3c4e8a",
+      "shortId": "FMEM5U",
+      "name": "JaniYousafYT",
+      "role": "USER",
+      "level": 23
+    },
+    "message": "/wager [Golden||CHEST|LEGENDARY]x11#BCBHBU",
+    "timestamp": "2026-05-11T00:45:03.716Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "guest-b9d1b97b-1786-49ad-9242-6f1a7b3c4e8a",
+      "shortId": "FMEM5U",
+      "name": "JaniYousafYT",
+      "role": "USER",
+      "level": 23
+    },
+    "message": "/wager",
+    "timestamp": "2026-05-11T00:45:18.242Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "guest-b9d1b97b-1786-49ad-9242-6f1a7b3c4e8a",
+      "shortId": "FMEM5U",
+      "name": "JaniYousafYT",
+      "role": "USER",
+      "level": 23
+    },
+    "message": "/inv",
+    "timestamp": "2026-05-11T00:45:43.357Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "guest-b9d1b97b-1786-49ad-9242-6f1a7b3c4e8a",
+      "shortId": "FMEM5U",
+      "name": "JaniYousafYT",
+      "role": "USER",
+      "level": 23
+    },
+    "message": "/inv _nxt_",
+    "timestamp": "2026-05-11T00:46:01.379Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "guest-b9d1b97b-1786-49ad-9242-6f1a7b3c4e8a",
+      "shortId": "FMEM5U",
+      "name": "JaniYousafYT",
+      "role": "USER",
+      "level": 23
+    },
+    "message": "/inv _Nxt",
+    "timestamp": "2026-05-11T00:46:18.879Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "guest-b9d1b97b-1786-49ad-9242-6f1a7b3c4e8a",
+      "shortId": "FMEM5U",
+      "name": "JaniYousafYT",
+      "role": "USER",
+      "level": 23
+    },
+    "message": "/inv #POOKIE",
+    "timestamp": "2026-05-11T00:46:34.480Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "guest-b9d1b97b-1786-49ad-9242-6f1a7b3c4e8a",
+      "shortId": "FMEM5U",
+      "name": "JaniYousafYT",
+      "role": "USER",
+      "level": 23
+    },
+    "message": "/wager [Golden||CHEST|LEGENDARY]x111 #POOKIE",
+    "timestamp": "2026-05-11T00:48:05.415Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "guest-b9d1b97b-1786-49ad-9242-6f1a7b3c4e8a",
+      "shortId": "FMEM5U",
+      "name": "JaniYousafYT",
+      "role": "USER",
+      "level": 23
+    },
+    "message": "/confirmwager",
+    "timestamp": "2026-05-11T00:48:39.668Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "guest-b9d1b97b-1786-49ad-9242-6f1a7b3c4e8a",
+      "shortId": "FMEM5U",
+      "name": "JaniYousafYT",
+      "role": "USER",
+      "level": 23
+    },
+    "message": "/cancelwager",
+    "timestamp": "2026-05-11T00:48:56.028Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "guest-b9d1b97b-1786-49ad-9242-6f1a7b3c4e8a",
+      "shortId": "FMEM5U",
+      "name": "JaniYousafYT",
+      "role": "USER",
+      "level": 23
+    },
+    "message": "/confirnwager",
+    "timestamp": "2026-05-11T00:49:12.776Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "guest-b9d1b97b-1786-49ad-9242-6f1a7b3c4e8a",
+      "shortId": "FMEM5U",
+      "name": "JaniYousafYT",
+      "role": "USER",
+      "level": 23
+    },
+    "message": "/confirmwager",
+    "timestamp": "2026-05-11T00:49:22.689Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "guest-b9d1b97b-1786-49ad-9242-6f1a7b3c4e8a",
+      "shortId": "FMEM5U",
+      "name": "JaniYousafYT",
+      "role": "USER",
+      "level": 23
+    },
+    "message": "/accept",
+    "timestamp": "2026-05-11T00:49:50.791Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "guest-b9d1b97b-1786-49ad-9242-6f1a7b3c4e8a",
+      "shortId": "FMEM5U",
+      "name": "JaniYousafYT",
+      "role": "USER",
+      "level": 23
+    },
+    "message": "/wager [Golden||CHEST|LEGENDARY]x111",
+    "timestamp": "2026-05-11T00:50:26.430Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "guest-b9d1b97b-1786-49ad-9242-6f1a7b3c4e8a",
+      "shortId": "FMEM5U",
+      "name": "JaniYousafYT",
+      "role": "USER",
+      "level": 23
+    },
+    "message": "/wager [Golden||CHEST|LEGENDARY]x111#HUB956",
+    "timestamp": "2026-05-11T00:52:02.567Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "guest-b9d1b97b-1786-49ad-9242-6f1a7b3c4e8a",
+      "shortId": "FMEM5U",
+      "name": "JaniYousafYT",
+      "role": "USER",
+      "level": 23
+    },
+    "message": "/wager [Golden||CHEST|LEGENDARY]x111 #HUB956",
+    "timestamp": "2026-05-11T00:52:38.935Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "guest-b9d1b97b-1786-49ad-9242-6f1a7b3c4e8a",
+      "shortId": "FMEM5U",
+      "name": "JaniYousafYT",
+      "role": "USER",
+      "level": 23
+    },
+    "message": "did you confirmed it?",
+    "timestamp": "2026-05-11T00:53:07.265Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "guest-b9d1b97b-1786-49ad-9242-6f1a7b3c4e8a",
+      "shortId": "FMEM5U",
+      "name": "JaniYousafYT",
+      "role": "USER",
+      "level": 23
+    },
+    "message": "how do you flip?",
+    "timestamp": "2026-05-11T00:53:33.077Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "guest-b9d1b97b-1786-49ad-9242-6f1a7b3c4e8a",
+      "shortId": "FMEM5U",
+      "name": "JaniYousafYT",
+      "role": "USER",
+      "level": 23
+    },
+    "message": "/claim",
+    "timestamp": "2026-05-11T00:53:54.095Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "guest-b9d1b97b-1786-49ad-9242-6f1a7b3c4e8a",
+      "shortId": "FMEM5U",
+      "name": "JaniYousafYT",
+      "role": "USER",
+      "level": 23
+    },
+    "message": "/wager [Golden||CHEST|LEGENDARY]x111 #POOKIE",
+    "timestamp": "2026-05-11T00:54:28.516Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "guest-b9d1b97b-1786-49ad-9242-6f1a7b3c4e8a",
+      "shortId": "FMEM5U",
+      "name": "JaniYousafYT",
+      "role": "USER",
+      "level": 23
+    },
+    "message": "/cancelwager",
+    "timestamp": "2026-05-11T00:54:42.009Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "guest-b9d1b97b-1786-49ad-9242-6f1a7b3c4e8a",
+      "shortId": "FMEM5U",
+      "name": "JaniYousafYT",
+      "role": "USER",
+      "level": 23
+    },
+    "message": "someone wager 111 golden chests",
+    "timestamp": "2026-05-11T00:55:02.906Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "guest-b9d1b97b-1786-49ad-9242-6f1a7b3c4e8a",
+      "shortId": "FMEM5U",
+      "name": "JaniYousafYT",
+      "role": "USER",
+      "level": 23
+    },
+    "message": "/wager [Golden||CHEST|LEGENDARY]x111 #0QZ2R7",
+    "timestamp": "2026-05-11T00:56:16.059Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "guest-b9d1b97b-1786-49ad-9242-6f1a7b3c4e8a",
+      "shortId": "FMEM5U",
+      "name": "JaniYousafYT",
+      "role": "USER",
+      "level": 23
+    },
+    "message": "/flip",
+    "timestamp": "2026-05-11T00:56:39.577Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "guest-b9d1b97b-1786-49ad-9242-6f1a7b3c4e8a",
+      "shortId": "FMEM5U",
+      "name": "JaniYousafYT",
+      "role": "USER",
+      "level": 23
+    },
+    "message": "/flip 1-0",
+    "timestamp": "2026-05-11T00:56:52.530Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "guest-b9d1b97b-1786-49ad-9242-6f1a7b3c4e8a",
+      "shortId": "FMEM5U",
+      "name": "JaniYousafYT",
+      "role": "USER",
+      "level": 23
+    },
+    "message": "/flip 1-1",
+    "timestamp": "2026-05-11T00:57:01.643Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "guest-b9d1b97b-1786-49ad-9242-6f1a7b3c4e8a",
+      "shortId": "FMEM5U",
+      "name": "JaniYousafYT",
+      "role": "USER",
+      "level": 23
+    },
+    "message": "/flip 2-1",
+    "timestamp": "2026-05-11T00:57:05.660Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "guest-b9d1b97b-1786-49ad-9242-6f1a7b3c4e8a",
+      "shortId": "FMEM5U",
+      "name": "JaniYousafYT",
+      "role": "USER",
+      "level": 23
+    },
+    "message": "/flip",
+    "timestamp": "2026-05-11T00:57:12.452Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "guest-b9d1b97b-1786-49ad-9242-6f1a7b3c4e8a",
+      "shortId": "FMEM5U",
+      "name": "JaniYousafYT",
+      "role": "USER",
+      "level": 23
+    },
+    "message": "/cancelwager",
+    "timestamp": "2026-05-11T00:57:30.641Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "guest-b9d1b97b-1786-49ad-9242-6f1a7b3c4e8a",
+      "shortId": "FMEM5U",
+      "name": "JaniYousafYT",
+      "role": "USER",
+      "level": 23
+    },
+    "message": "/wager [Golden||CHEST|LEGENDARY]x111 #THEUNC",
+    "timestamp": "2026-05-11T00:58:59.011Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "guest-b9d1b97b-1786-49ad-9242-6f1a7b3c4e8a",
+      "shortId": "FMEM5U",
+      "name": "JaniYousafYT",
+      "role": "USER",
+      "level": 23
+    },
+    "message": "/cancelwager",
+    "timestamp": "2026-05-11T00:59:48.472Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "guest-b9d1b97b-1786-49ad-9242-6f1a7b3c4e8a",
+      "shortId": "FMEM5U",
+      "name": "JaniYousafYT",
+      "role": "USER",
+      "level": 23
+    },
+    "message": "/wager[Golden||CHEST|LEGENDARY]x111 #E779VY",
+    "timestamp": "2026-05-11T01:00:59.399Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "guest-b9d1b97b-1786-49ad-9242-6f1a7b3c4e8a",
+      "shortId": "FMEM5U",
+      "name": "JaniYousafYT",
+      "role": "USER",
+      "level": 23
+    },
+    "message": "/wager [Golden||CHEST|LEGENDARY]x111 #E779VY",
+    "timestamp": "2026-05-11T01:01:37.672Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "guest-b9d1b97b-1786-49ad-9242-6f1a7b3c4e8a",
+      "shortId": "FMEM5U",
+      "name": "JaniYousafYT",
+      "role": "USER",
+      "level": 23
+    },
+    "message": "/enter",
+    "timestamp": "2026-05-11T01:01:44.081Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "guest-b9d1b97b-1786-49ad-9242-6f1a7b3c4e8a",
+      "shortId": "FMEM5U",
+      "name": "JaniYousafYT",
+      "role": "USER",
+      "level": 23
+    },
+    "message": "/hm verde",
+    "timestamp": "2026-05-11T01:02:46.652Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "guest-b9d1b97b-1786-49ad-9242-6f1a7b3c4e8a",
+      "shortId": "FMEM5U",
+      "name": "JaniYousafYT",
+      "role": "USER",
+      "level": 23
+    },
+    "message": "/wager [Golden||CHEST|LEGENDARY]x111 #HUB956",
+    "timestamp": "2026-05-11T01:03:05.775Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "guest-b9d1b97b-1786-49ad-9242-6f1a7b3c4e8a",
+      "shortId": "FMEM5U",
+      "name": "JaniYousafYT",
+      "role": "USER",
+      "level": 23
+    },
+    "message": "navy im heads",
+    "timestamp": "2026-05-11T01:03:20.812Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "guest-b9d1b97b-1786-49ad-9242-6f1a7b3c4e8a",
+      "shortId": "FMEM5U",
+      "name": "JaniYousafYT",
+      "role": "USER",
+      "level": 23
+    },
+    "message": "/cancelwager",
+    "timestamp": "2026-05-11T01:03:50.460Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "guest-b9d1b97b-1786-49ad-9242-6f1a7b3c4e8a",
+      "shortId": "FMEM5U",
+      "name": "JaniYousafYT",
+      "role": "USER",
+      "level": 23
+    },
+    "message": "/wager [Golden||CHEST|LEGENDARY]x111 #CQ8UMQ",
+    "timestamp": "2026-05-11T01:04:08.236Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "guest-b9d1b97b-1786-49ad-9242-6f1a7b3c4e8a",
+      "shortId": "FMEM5U",
+      "name": "JaniYousafYT",
+      "role": "USER",
+      "level": 23
+    },
+    "message": "/mywager",
+    "timestamp": "2026-05-11T01:04:32.617Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "guest-b9d1b97b-1786-49ad-9242-6f1a7b3c4e8a",
+      "shortId": "FMEM5U",
+      "name": "JaniYousafYT",
+      "role": "USER",
+      "level": 23
+    },
+    "message": "/#ALITHFwager",
+    "timestamp": "2026-05-11T01:04:46.890Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "guest-b9d1b97b-1786-49ad-9242-6f1a7b3c4e8a",
+      "shortId": "FMEM5U",
+      "name": "JaniYousafYT",
+      "role": "USER",
+      "level": 23
+    },
+    "message": "/flip",
+    "timestamp": "2026-05-11T01:05:08.556Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "guest-b9d1b97b-1786-49ad-9242-6f1a7b3c4e8a",
+      "shortId": "FMEM5U",
+      "name": "JaniYousafYT",
+      "role": "USER",
+      "level": 23
+    },
+    "message": "/1-0",
+    "timestamp": "2026-05-11T01:05:14.970Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "guest-b9d1b97b-1786-49ad-9242-6f1a7b3c4e8a",
+      "shortId": "FMEM5U",
+      "name": "JaniYousafYT",
+      "role": "USER",
+      "level": 23
+    },
+    "message": "/flip 1-0",
+    "timestamp": "2026-05-11T01:05:19.652Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "guest-b9d1b97b-1786-49ad-9242-6f1a7b3c4e8a",
+      "shortId": "FMEM5U",
+      "name": "JaniYousafYT",
+      "role": "USER",
+      "level": 23
+    },
+    "message": "/flip 1-1",
+    "timestamp": "2026-05-11T01:05:23.796Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "guest-b9d1b97b-1786-49ad-9242-6f1a7b3c4e8a",
+      "shortId": "FMEM5U",
+      "name": "JaniYousafYT",
+      "role": "USER",
+      "level": 23
+    },
+    "message": "/cancelwager",
+    "timestamp": "2026-05-11T01:05:35.774Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "guest-b9d1b97b-1786-49ad-9242-6f1a7b3c4e8a",
+      "shortId": "FMEM5U",
+      "name": "JaniYousafYT",
+      "role": "USER",
+      "level": 23
+    },
+    "message": "anyone want to wager i got 111 goldens",
+    "timestamp": "2026-05-11T01:06:34.955Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "guest-b9d1b97b-1786-49ad-9242-6f1a7b3c4e8a",
+      "shortId": "FMEM5U",
+      "name": "JaniYousafYT",
+      "role": "USER",
+      "level": 23
+    },
+    "message": "alr cancel wager",
+    "timestamp": "2026-05-11T01:06:44.779Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "guest-b9d1b97b-1786-49ad-9242-6f1a7b3c4e8a",
+      "shortId": "FMEM5U",
+      "name": "JaniYousafYT",
+      "role": "USER",
+      "level": 23
+    },
+    "message": "ANYONE WANT TO WAGER I GOT 111 GOLDENS",
+    "timestamp": "2026-05-11T01:07:17.118Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "guest-b9d1b97b-1786-49ad-9242-6f1a7b3c4e8a",
+      "shortId": "FMEM5U",
+      "name": "JaniYousafYT",
+      "role": "USER",
+      "level": 23
+    },
+    "message": "wager 111x goldens aura",
+    "timestamp": "2026-05-11T01:07:43.869Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "guest-b9d1b97b-1786-49ad-9242-6f1a7b3c4e8a",
+      "shortId": "FMEM5U",
+      "name": "JaniYousafYT",
+      "role": "USER",
+      "level": 23
+    },
+    "message": "alr wager then",
+    "timestamp": "2026-05-11T01:08:02.503Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "guest-b9d1b97b-1786-49ad-9242-6f1a7b3c4e8a",
+      "shortId": "FMEM5U",
+      "name": "JaniYousafYT",
+      "role": "USER",
+      "level": 23
+    },
+    "message": "/confirmwager",
+    "timestamp": "2026-05-11T01:08:16.976Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "guest-b9d1b97b-1786-49ad-9242-6f1a7b3c4e8a",
+      "shortId": "FMEM5U",
+      "name": "JaniYousafYT",
+      "role": "USER",
+      "level": 23
+    },
+    "message": "/confirmwagger",
+    "timestamp": "2026-05-11T01:09:12.715Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "guest-b9d1b97b-1786-49ad-9242-6f1a7b3c4e8a",
+      "shortId": "FMEM5U",
+      "name": "JaniYousafYT",
+      "role": "USER",
+      "level": 23
+    },
+    "message": "/confirmwager",
+    "timestamp": "2026-05-11T01:09:18.907Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "guest-b9d1b97b-1786-49ad-9242-6f1a7b3c4e8a",
+      "shortId": "FMEM5U",
+      "name": "JaniYousafYT",
+      "role": "USER",
+      "level": 23
+    },
+    "message": "/cancelwager",
+    "timestamp": "2026-05-11T01:09:41.045Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "guest-b9d1b97b-1786-49ad-9242-6f1a7b3c4e8a",
+      "shortId": "FMEM5U",
+      "name": "JaniYousafYT",
+      "role": "USER",
+      "level": 23
+    },
+    "message": "ethong wager 111x goldens",
+    "timestamp": "2026-05-11T01:09:51.194Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "guest-b9d1b97b-1786-49ad-9242-6f1a7b3c4e8a",
+      "shortId": "FMEM5U",
+      "name": "JaniYousafYT",
+      "role": "USER",
+      "level": 23
+    },
+    "message": "/confirmwager",
+    "timestamp": "2026-05-11T01:10:17.632Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "guest-b9d1b97b-1786-49ad-9242-6f1a7b3c4e8a",
+      "shortId": "FMEM5U",
+      "name": "JaniYousafYT",
+      "role": "USER",
+      "level": 23
+    },
+    "message": "/wager [Golden||CHEST|LEGENDARY]111x",
+    "timestamp": "2026-05-11T01:10:46.255Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "guest-b9d1b97b-1786-49ad-9242-6f1a7b3c4e8a",
+      "shortId": "FMEM5U",
+      "name": "JaniYousafYT",
+      "role": "USER",
+      "level": 23
+    },
+    "message": "/wager [Golden||CHEST|LEGENDARY]111x #3TWZVR",
+    "timestamp": "2026-05-11T01:11:29.301Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "guest-b9d1b97b-1786-49ad-9242-6f1a7b3c4e8a",
+      "shortId": "FMEM5U",
+      "name": "JaniYousafYT",
+      "role": "USER",
+      "level": 23
+    },
+    "message": "/claim",
+    "timestamp": "2026-05-11T01:11:38.223Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "guest-b9d1b97b-1786-49ad-9242-6f1a7b3c4e8a",
+      "shortId": "FMEM5U",
+      "name": "JaniYousafYT",
+      "role": "USER",
+      "level": 23
+    },
+    "message": "skully do it again",
+    "timestamp": "2026-05-11T01:11:48.104Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "guest-b9d1b97b-1786-49ad-9242-6f1a7b3c4e8a",
+      "shortId": "FMEM5U",
+      "name": "JaniYousafYT",
+      "role": "USER",
+      "level": 23
+    },
+    "message": "SOMEONE WAGER 111X",
+    "timestamp": "2026-05-11T01:12:07.666Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "guest-b9d1b97b-1786-49ad-9242-6f1a7b3c4e8a",
+      "shortId": "FMEM5U",
+      "name": "JaniYousafYT",
+      "role": "USER",
+      "level": 23
+    },
+    "message": "skully wager 111x goldens",
+    "timestamp": "2026-05-11T01:12:31.285Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "guest-b9d1b97b-1786-49ad-9242-6f1a7b3c4e8a",
+      "shortId": "FMEM5U",
+      "name": "JaniYousafYT",
+      "role": "USER",
+      "level": 23
+    },
+    "message": "/confirmwager",
+    "timestamp": "2026-05-11T01:12:49.364Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "guest-b9d1b97b-1786-49ad-9242-6f1a7b3c4e8a",
+      "shortId": "FMEM5U",
+      "name": "JaniYousafYT",
+      "role": "USER",
+      "level": 23
+    },
+    "message": "/wager [Golden||CHEST|LEGENDARY]x111 #3TWZVR",
+    "timestamp": "2026-05-11T01:13:12.737Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "guest-b9d1b97b-1786-49ad-9242-6f1a7b3c4e8a",
+      "shortId": "FMEM5U",
+      "name": "JaniYousafYT",
+      "role": "USER",
+      "level": 23
+    },
+    "message": "/confirm",
+    "timestamp": "2026-05-11T01:13:30.068Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "guest-b9d1b97b-1786-49ad-9242-6f1a7b3c4e8a",
+      "shortId": "FMEM5U",
+      "name": "JaniYousafYT",
+      "role": "USER",
+      "level": 23
+    },
+    "message": "/accepr",
+    "timestamp": "2026-05-11T01:13:32.275Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "guest-b9d1b97b-1786-49ad-9242-6f1a7b3c4e8a",
+      "shortId": "FMEM5U",
+      "name": "JaniYousafYT",
+      "role": "USER",
+      "level": 23
+    },
+    "message": "/accept",
+    "timestamp": "2026-05-11T01:13:34.466Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "guest-b9d1b97b-1786-49ad-9242-6f1a7b3c4e8a",
+      "shortId": "FMEM5U",
+      "name": "JaniYousafYT",
+      "role": "USER",
+      "level": 23
+    },
+    "message": "skully how do i accept you thing",
+    "timestamp": "2026-05-11T01:13:43.568Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "guest-b9d1b97b-1786-49ad-9242-6f1a7b3c4e8a",
+      "shortId": "FMEM5U",
+      "name": "JaniYousafYT",
+      "role": "USER",
+      "level": 23
+    },
+    "message": "/cancelwager",
+    "timestamp": "2026-05-11T01:14:32.882Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "guest-b9d1b97b-1786-49ad-9242-6f1a7b3c4e8a",
+      "shortId": "FMEM5U",
+      "name": "JaniYousafYT",
+      "role": "USER",
+      "level": 23
+    },
+    "message": "SOMEONE WAGER 111X GOLDENS",
+    "timestamp": "2026-05-11T01:14:41.109Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "guest-b9d1b97b-1786-49ad-9242-6f1a7b3c4e8a",
+      "shortId": "FMEM5U",
+      "name": "JaniYousafYT",
+      "role": "USER",
+      "level": 23
+    },
+    "message": "/wager [Golden||CHEST|LEGENDARY]x111 #GMX62R",
+    "timestamp": "2026-05-11T01:15:40.184Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "guest-b9d1b97b-1786-49ad-9242-6f1a7b3c4e8a",
+      "shortId": "FMEM5U",
+      "name": "JaniYousafYT",
+      "role": "USER",
+      "level": 23
+    },
+    "message": "/cancelwager",
+    "timestamp": "2026-05-11T01:16:21.610Z"
   }
 ]
