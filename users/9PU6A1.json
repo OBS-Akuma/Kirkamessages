@@ -310,5 +310,17 @@
     },
     "message": "maybe",
     "timestamp": "2026-05-11T08:52:05.425Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "f4ee79aa-6e34-4add-9bb3-82f9d66d11c0",
+      "shortId": "9PU6A1",
+      "name": "Spicy",
+      "role": "USER",
+      "level": 66
+    },
+    "message": "#CA6BYQ",
+    "timestamp": "2026-05-11T10:09:32.545Z"
   }
 ]
