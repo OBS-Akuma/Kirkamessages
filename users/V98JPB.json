@@ -274,5 +274,17 @@
     },
     "message": "ja klikam",
     "timestamp": "2026-05-10T19:22:13.083Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "0gmxK1xH3xSGG9gl50tXZsH5Z3H3",
+      "shortId": "V98JPB",
+      "name": "rfnx",
+      "role": "USER",
+      "level": 101
+    },
+    "message": "elo",
+    "timestamp": "2026-05-11T10:35:36.661Z"
   }
 ]
