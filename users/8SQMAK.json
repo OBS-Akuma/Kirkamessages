@@ -1522,5 +1522,17 @@
     },
     "message": "i want bok",
     "timestamp": "2026-05-11T07:39:11.071Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "e7ca017c-557f-4b21-96eb-3ec2a9a728ab",
+      "shortId": "8SQMAK",
+      "name": "Eri.",
+      "role": "USER",
+      "level": 56
+    },
+    "message": "/hm bad bunny",
+    "timestamp": "2026-05-11T07:39:32.279Z"
   }
 ]
