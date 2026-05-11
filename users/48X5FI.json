@@ -646,5 +646,17 @@
     },
     "message": "[Splanch|VITA|WEAPON_SKIN|MYTHICAL]",
     "timestamp": "2026-05-11T08:36:12.071Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "e4b7c992-a43e-4ff1-96f8-810564ba57b5",
+      "shortId": "48X5FI",
+      "name": "Miss",
+      "role": "USER",
+      "level": 81
+    },
+    "message": "[Slasher||BODY_SKIN|PARANORMAL]",
+    "timestamp": "2026-05-11T08:53:20.644Z"
   }
 ]
