@@ -538,5 +538,41 @@
     },
     "message": "/giveaway",
     "timestamp": "2026-05-10T02:35:45.728Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "7001fed6-5d8a-4759-97fb-f4d659e9cea0",
+      "shortId": "C3F13Y",
+      "name": "NewbiexDzdz",
+      "role": "USER",
+      "level": 44
+    },
+    "message": "/inv #DUHAST",
+    "timestamp": "2026-05-11T01:01:06.068Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "7001fed6-5d8a-4759-97fb-f4d659e9cea0",
+      "shortId": "C3F13Y",
+      "name": "NewbiexDzdz",
+      "role": "USER",
+      "level": 44
+    },
+    "message": "/claim",
+    "timestamp": "2026-05-11T01:01:12.825Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "7001fed6-5d8a-4759-97fb-f4d659e9cea0",
+      "shortId": "C3F13Y",
+      "name": "NewbiexDzdz",
+      "role": "USER",
+      "level": 44
+    },
+    "message": "/Trade accept 86738",
+    "timestamp": "2026-05-11T01:01:31.561Z"
   }
 ]
