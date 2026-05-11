@@ -1234,5 +1234,29 @@
     },
     "message": "no",
     "timestamp": "2026-05-10T23:51:49.488Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "d8c60953-7e39-48e3-b2ff-0df017fd1c32",
+      "shortId": "0DL6F8",
+      "name": "d3stroy3r",
+      "role": "USER",
+      "level": 39
+    },
+    "message": "LF [Liz][Quilliam|VITA|WEAPON_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-11T05:09:37.714Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "d8c60953-7e39-48e3-b2ff-0df017fd1c32",
+      "shortId": "0DL6F8",
+      "name": "d3stroy3r",
+      "role": "USER",
+      "level": 39
+    },
+    "message": "[Lis|Revolver|WEAPON_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-11T05:09:45.415Z"
   }
 ]
