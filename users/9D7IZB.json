@@ -358,5 +358,53 @@
     },
     "message": "wagering [Forbidden|AR-9|WEAPON_SKIN|MYTHICAL]",
     "timestamp": "2026-05-11T09:44:18.981Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "98e76416-28bc-4578-b37a-8cbeb55b413c",
+      "shortId": "9D7IZB",
+      "name": "AightBet",
+      "role": "USER",
+      "level": 88
+    },
+    "message": "/wager [Forbidden|AR-9|WEAPON_SKIN|MYTHICAL] #XCS847",
+    "timestamp": "2026-05-11T09:44:51.100Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "98e76416-28bc-4578-b37a-8cbeb55b413c",
+      "shortId": "9D7IZB",
+      "name": "AightBet",
+      "role": "USER",
+      "level": 88
+    },
+    "message": "gl~",
+    "timestamp": "2026-05-11T09:45:15.359Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "98e76416-28bc-4578-b37a-8cbeb55b413c",
+      "shortId": "9D7IZB",
+      "name": "AightBet",
+      "role": "USER",
+      "level": 88
+    },
+    "message": "gg",
+    "timestamp": "2026-05-11T09:45:28.413Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "98e76416-28bc-4578-b37a-8cbeb55b413c",
+      "shortId": "9D7IZB",
+      "name": "AightBet",
+      "role": "USER",
+      "level": 88
+    },
+    "message": "/claim",
+    "timestamp": "2026-05-11T09:45:30.054Z"
   }
 ]
