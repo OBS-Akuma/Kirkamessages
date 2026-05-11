@@ -1,0 +1,26 @@
+[
+  {
+    "type": 2,
+    "user": {
+      "id": "56853439-bb34-4aeb-a09c-0fe7bfba6421",
+      "shortId": "BL02C7",
+      "name": "Error404",
+      "role": "USER",
+      "level": 16
+    },
+    "message": "I want tomahawk",
+    "timestamp": "2026-05-11T05:23:30.627Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "56853439-bb34-4aeb-a09c-0fe7bfba6421",
+      "shortId": "BL02C7",
+      "name": "Error404",
+      "role": "USER",
+      "level": 16
+    },
+    "message": "I want a blacky player skin",
+    "timestamp": "2026-05-11T05:25:11.324Z"
+  }
+]
