@@ -1391,5 +1391,41 @@
     },
     "message": "/hm bad bunny",
     "timestamp": "2026-05-10T17:43:34.150Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "c6fa57d2-a23b-4634-bf14-fa463568bdf2",
+      "shortId": "0TNRWI",
+      "name": "venus",
+      "role": "USER",
+      "level": 84
+    },
+    "message": "/inv",
+    "timestamp": "2026-05-10T23:40:57.289Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "c6fa57d2-a23b-4634-bf14-fa463568bdf2",
+      "shortId": "0TNRWI",
+      "name": "venus",
+      "role": "USER",
+      "level": 84
+    },
+    "message": "/hm [heacy]",
+    "timestamp": "2026-05-11T00:01:48.673Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "c6fa57d2-a23b-4634-bf14-fa463568bdf2",
+      "shortId": "0TNRWI",
+      "name": "venus",
+      "role": "USER",
+      "level": 84
+    },
+    "message": "/hm [Heavy|LAR|WEAPON_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-11T00:01:58.824Z"
   }
 ]
