@@ -730,5 +730,53 @@
     },
     "message": "trading [Ambrosia|Shark|WEAPON_SKIN|MYTHICAL]",
     "timestamp": "2026-05-10T21:05:43.617Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "b8da81fb-ba0f-4d57-9c2b-560a302212ed",
+      "shortId": "ALITHF",
+      "name": "Bigmac",
+      "role": "USER",
+      "level": 76
+    },
+    "message": "/mywager",
+    "timestamp": "2026-05-11T01:04:18.808Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "b8da81fb-ba0f-4d57-9c2b-560a302212ed",
+      "shortId": "ALITHF",
+      "name": "Bigmac",
+      "role": "USER",
+      "level": 76
+    },
+    "message": "son",
+    "timestamp": "2026-05-11T01:04:21.391Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "b8da81fb-ba0f-4d57-9c2b-560a302212ed",
+      "shortId": "ALITHF",
+      "name": "Bigmac",
+      "role": "USER",
+      "level": 76
+    },
+    "message": "why is my shi a 33# win rate",
+    "timestamp": "2026-05-11T01:04:36.076Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "b8da81fb-ba0f-4d57-9c2b-560a302212ed",
+      "shortId": "ALITHF",
+      "name": "Bigmac",
+      "role": "USER",
+      "level": 76
+    },
+    "message": "33%",
+    "timestamp": "2026-05-11T01:04:39.380Z"
   }
 ]
