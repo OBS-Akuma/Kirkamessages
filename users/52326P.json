@@ -118,5 +118,29 @@
     },
     "message": "[Ice Cold|Shark|WEAPON_SKIN|LEGENDARY]",
     "timestamp": "2026-05-11T03:00:16.039Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "48666a1f-060a-4838-af22-93e3643a479f",
+      "shortId": "52326P",
+      "name": "sylvancobra",
+      "role": "USER",
+      "level": 78
+    },
+    "message": "trading [Skillz||BODY_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-11T03:49:47.454Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "48666a1f-060a-4838-af22-93e3643a479f",
+      "shortId": "52326P",
+      "name": "sylvancobra",
+      "role": "USER",
+      "level": 78
+    },
+    "message": "lf free [Sakura|SCAR|WEAPON_SKIN|EPIC]",
+    "timestamp": "2026-05-11T04:15:10.233Z"
   }
 ]
