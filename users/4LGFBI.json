@@ -1186,5 +1186,17 @@
     },
     "message": "no have",
     "timestamp": "2026-05-09T05:53:27.966Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "xkiNzXE2NVRhVv2juciDJAGV2IG3",
+      "shortId": "4LGFBI",
+      "name": "EzoSensha",
+      "role": "USER",
+      "level": 37
+    },
+    "message": "sell [LMAO||BODY_SKIN|MYTHICAL] and [Xx||BODY_SKIN|MYTHICAL] for 2000 golden",
+    "timestamp": "2026-05-11T09:45:28.299Z"
   }
 ]
