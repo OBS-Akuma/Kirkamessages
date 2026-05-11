@@ -1,0 +1,26 @@
+[
+  {
+    "type": 2,
+    "user": {
+      "id": "704d29f3-6288-402a-bbda-94e5c247fc02",
+      "shortId": "GW5U1J",
+      "name": "PaydenLuvsG59",
+      "role": "USER",
+      "level": 94
+    },
+    "message": ".inv",
+    "timestamp": "2026-05-11T01:30:05.447Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "704d29f3-6288-402a-bbda-94e5c247fc02",
+      "shortId": "GW5U1J",
+      "name": "PaydenLuvsG59",
+      "role": "USER",
+      "level": 94
+    },
+    "message": "/inv",
+    "timestamp": "2026-05-11T01:30:10.053Z"
+  }
+]
