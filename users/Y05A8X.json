@@ -406,5 +406,17 @@
     },
     "message": "[Apollo|SCAR|WEAPON_SKIN|MYTHICAL]",
     "timestamp": "2026-05-06T03:27:28.589Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "0d50e3b5-7e12-4791-a9b8-71d5b0391ca9",
+      "shortId": "Y05A8X",
+      "name": "DARK.F.KNIGHT",
+      "role": "USER",
+      "level": 80
+    },
+    "message": "TRADING my [kurunami] to your [Void LAR|LAR|WEAPON_SKIN|MYTHICAL] and [Void SCAR|SCAR|WEAPON_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-11T00:10:45.069Z"
   }
 ]
