@@ -4148,7 +4148,7 @@
       "role": "USER",
       "level": 33
     },
-    "message": "ÃÂ°ÃÂÃÂ¤ÃÂ«",
+    "message": "ÃÂÃÂ°ÃÂÃÂÃÂÃÂ¤ÃÂÃÂ«",
     "timestamp": "2026-05-11T00:05:52.016Z"
   },
   {
@@ -4678,5 +4678,113 @@
     },
     "message": "anyone wager golden 200?",
     "timestamp": "2026-05-11T00:42:39.240Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "13b9e526-3f3d-429c-a01f-1965066f9fec",
+      "shortId": "BHERYS",
+      "name": "PvP_BYEBYE._.",
+      "role": "USER",
+      "level": 33
+    },
+    "message": "/inv",
+    "timestamp": "2026-05-11T02:41:54.055Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "13b9e526-3f3d-429c-a01f-1965066f9fec",
+      "shortId": "BHERYS",
+      "name": "PvP_BYEBYE._.",
+      "role": "USER",
+      "level": 33
+    },
+    "message": "hey reap",
+    "timestamp": "2026-05-11T02:42:04.198Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "13b9e526-3f3d-429c-a01f-1965066f9fec",
+      "shortId": "BHERYS",
+      "name": "PvP_BYEBYE._.",
+      "role": "USER",
+      "level": 33
+    },
+    "message": "hru",
+    "timestamp": "2026-05-11T02:42:15.148Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "13b9e526-3f3d-429c-a01f-1965066f9fec",
+      "shortId": "BHERYS",
+      "name": "PvP_BYEBYE._.",
+      "role": "USER",
+      "level": 33
+    },
+    "message": "how",
+    "timestamp": "2026-05-11T02:42:21.961Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "13b9e526-3f3d-429c-a01f-1965066f9fec",
+      "shortId": "BHERYS",
+      "name": "PvP_BYEBYE._.",
+      "role": "USER",
+      "level": 33
+    },
+    "message": "ok I will",
+    "timestamp": "2026-05-11T02:43:24.991Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "13b9e526-3f3d-429c-a01f-1965066f9fec",
+      "shortId": "BHERYS",
+      "name": "PvP_BYEBYE._.",
+      "role": "USER",
+      "level": 33
+    },
+    "message": "I got u bro",
+    "timestamp": "2026-05-11T02:43:47.531Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "13b9e526-3f3d-429c-a01f-1965066f9fec",
+      "shortId": "BHERYS",
+      "name": "PvP_BYEBYE._.",
+      "role": "USER",
+      "level": 33
+    },
+    "message": "I'll git u 50",
+    "timestamp": "2026-05-11T02:43:54.710Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "13b9e526-3f3d-429c-a01f-1965066f9fec",
+      "shortId": "BHERYS",
+      "name": "PvP_BYEBYE._.",
+      "role": "USER",
+      "level": 33
+    },
+    "message": "accept reap",
+    "timestamp": "2026-05-11T02:44:55.881Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "13b9e526-3f3d-429c-a01f-1965066f9fec",
+      "shortId": "BHERYS",
+      "name": "PvP_BYEBYE._.",
+      "role": "USER",
+      "level": 33
+    },
+    "message": "bru cosmic give them back pls",
+    "timestamp": "2026-05-11T02:45:16.933Z"
   }
 ]
