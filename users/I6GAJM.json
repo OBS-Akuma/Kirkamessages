@@ -1124,7 +1124,7 @@
       "role": "USER",
       "level": 7
     },
-    "message": "ÃÂÃÂ°ÃÂÃÂÃÂÃÂÃÂÃÂ­ÃÂÃÂ°ÃÂÃÂÃÂÃÂ¤ÃÂÃÂ",
+    "message": "ÃÂÃÂÃÂÃÂ°ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ­ÃÂÃÂÃÂÃÂ°ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ¤ÃÂÃÂÃÂÃÂ",
     "timestamp": "2026-05-10T22:33:23.755Z"
   },
   {
@@ -1172,7 +1172,7 @@
       "role": "USER",
       "level": 7
     },
-    "message": "WHO WANNA OFFER MY WOOD SEND TRADES ÃÂÃÂ°ÃÂÃÂÃÂÃÂÃÂÃÂ",
+    "message": "WHO WANNA OFFER MY WOOD SEND TRADES ÃÂÃÂÃÂÃÂ°ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ",
     "timestamp": "2026-05-10T22:35:05.428Z"
   },
   {
@@ -1786,5 +1786,545 @@
     },
     "message": "/claim",
     "timestamp": "2026-05-11T00:41:46.186Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "guest-fd45fe01-e033-4840-ae91-3a4d6cb0ab69",
+      "shortId": "I6GAJM",
+      "name": "CosmicTABLET",
+      "role": "USER",
+      "level": 8
+    },
+    "message": "/trading my [Wood||CHEST|COMMON] looking for: [Golden||CHEST|LEGENDARY] x 100",
+    "timestamp": "2026-05-11T00:42:41.040Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "guest-fd45fe01-e033-4840-ae91-3a4d6cb0ab69",
+      "shortId": "I6GAJM",
+      "name": "CosmicTABLET",
+      "role": "USER",
+      "level": 8
+    },
+    "message": "Active",
+    "timestamp": "2026-05-11T00:43:11.970Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "guest-fd45fe01-e033-4840-ae91-3a4d6cb0ab69",
+      "shortId": "I6GAJM",
+      "name": "CosmicTABLET",
+      "role": "USER",
+      "level": 8
+    },
+    "message": "Can u slide me some chest ?",
+    "timestamp": "2026-05-11T00:43:20.075Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "guest-fd45fe01-e033-4840-ae91-3a4d6cb0ab69",
+      "shortId": "I6GAJM",
+      "name": "CosmicTABLET",
+      "role": "USER",
+      "level": 8
+    },
+    "message": "Oh",
+    "timestamp": "2026-05-11T00:43:37.559Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "guest-fd45fe01-e033-4840-ae91-3a4d6cb0ab69",
+      "shortId": "I6GAJM",
+      "name": "CosmicTABLET",
+      "role": "USER",
+      "level": 8
+    },
+    "message": "Can u offer my wood",
+    "timestamp": "2026-05-11T00:43:42.131Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "guest-fd45fe01-e033-4840-ae91-3a4d6cb0ab69",
+      "shortId": "I6GAJM",
+      "name": "CosmicTABLET",
+      "role": "USER",
+      "level": 8
+    },
+    "message": "Izzy",
+    "timestamp": "2026-05-11T00:44:28.460Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "guest-fd45fe01-e033-4840-ae91-3a4d6cb0ab69",
+      "shortId": "I6GAJM",
+      "name": "CosmicTABLET",
+      "role": "USER",
+      "level": 8
+    },
+    "message": "How many chest u got",
+    "timestamp": "2026-05-11T00:44:33.555Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "guest-fd45fe01-e033-4840-ae91-3a4d6cb0ab69",
+      "shortId": "I6GAJM",
+      "name": "CosmicTABLET",
+      "role": "USER",
+      "level": 8
+    },
+    "message": "Oop",
+    "timestamp": "2026-05-11T00:44:40.142Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "guest-fd45fe01-e033-4840-ae91-3a4d6cb0ab69",
+      "shortId": "I6GAJM",
+      "name": "CosmicTABLET",
+      "role": "USER",
+      "level": 8
+    },
+    "message": "Hey canel",
+    "timestamp": "2026-05-11T00:45:07.043Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "guest-fd45fe01-e033-4840-ae91-3a4d6cb0ab69",
+      "shortId": "I6GAJM",
+      "name": "CosmicTABLET",
+      "role": "USER",
+      "level": 8
+    },
+    "message": "U said my name earlier wya wanted",
+    "timestamp": "2026-05-11T00:45:21.992Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "guest-fd45fe01-e033-4840-ae91-3a4d6cb0ab69",
+      "shortId": "I6GAJM",
+      "name": "CosmicTABLET",
+      "role": "USER",
+      "level": 8
+    },
+    "message": "How many chest u got",
+    "timestamp": "2026-05-11T00:45:42.842Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "guest-fd45fe01-e033-4840-ae91-3a4d6cb0ab69",
+      "shortId": "I6GAJM",
+      "name": "CosmicTABLET",
+      "role": "USER",
+      "level": 8
+    },
+    "message": "Y'all look how poor I am",
+    "timestamp": "2026-05-11T00:45:57.216Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "guest-fd45fe01-e033-4840-ae91-3a4d6cb0ab69",
+      "shortId": "I6GAJM",
+      "name": "CosmicTABLET",
+      "role": "USER",
+      "level": 8
+    },
+    "message": "/inv",
+    "timestamp": "2026-05-11T00:46:01.024Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "guest-fd45fe01-e033-4840-ae91-3a4d6cb0ab69",
+      "shortId": "I6GAJM",
+      "name": "CosmicTABLET",
+      "role": "USER",
+      "level": 8
+    },
+    "message": "Who can offer my wood send me a trade",
+    "timestamp": "2026-05-11T00:46:28.626Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "guest-fd45fe01-e033-4840-ae91-3a4d6cb0ab69",
+      "shortId": "I6GAJM",
+      "name": "CosmicTABLET",
+      "role": "USER",
+      "level": 8
+    },
+    "message": "Anyone",
+    "timestamp": "2026-05-11T00:46:58.572Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "guest-fd45fe01-e033-4840-ae91-3a4d6cb0ab69",
+      "shortId": "I6GAJM",
+      "name": "CosmicTABLET",
+      "role": "USER",
+      "level": 8
+    },
+    "message": "Canel",
+    "timestamp": "2026-05-11T00:47:09.067Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "guest-fd45fe01-e033-4840-ae91-3a4d6cb0ab69",
+      "shortId": "I6GAJM",
+      "name": "CosmicTABLET",
+      "role": "USER",
+      "level": 8
+    },
+    "message": "So u have shark skins",
+    "timestamp": "2026-05-11T00:47:18.978Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "guest-fd45fe01-e033-4840-ae91-3a4d6cb0ab69",
+      "shortId": "I6GAJM",
+      "name": "CosmicTABLET",
+      "role": "USER",
+      "level": 8
+    },
+    "message": "Do",
+    "timestamp": "2026-05-11T00:47:22.558Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "guest-fd45fe01-e033-4840-ae91-3a4d6cb0ab69",
+      "shortId": "I6GAJM",
+      "name": "CosmicTABLET",
+      "role": "USER",
+      "level": 8
+    },
+    "message": "Do you",
+    "timestamp": "2026-05-11T00:47:43.280Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "guest-fd45fe01-e033-4840-ae91-3a4d6cb0ab69",
+      "shortId": "I6GAJM",
+      "name": "CosmicTABLET",
+      "role": "USER",
+      "level": 8
+    },
+    "message": "Yo nxt",
+    "timestamp": "2026-05-11T00:47:56.549Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "guest-fd45fe01-e033-4840-ae91-3a4d6cb0ab69",
+      "shortId": "I6GAJM",
+      "name": "CosmicTABLET",
+      "role": "USER",
+      "level": 8
+    },
+    "message": "Do ya got gold chest",
+    "timestamp": "2026-05-11T00:48:08.217Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "guest-fd45fe01-e033-4840-ae91-3a4d6cb0ab69",
+      "shortId": "I6GAJM",
+      "name": "CosmicTABLET",
+      "role": "USER",
+      "level": 8
+    },
+    "message": "Do you",
+    "timestamp": "2026-05-11T00:48:26.494Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "guest-fd45fe01-e033-4840-ae91-3a4d6cb0ab69",
+      "shortId": "I6GAJM",
+      "name": "CosmicTABLET",
+      "role": "USER",
+      "level": 8
+    },
+    "message": "Nxt",
+    "timestamp": "2026-05-11T00:49:17.401Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "guest-fd45fe01-e033-4840-ae91-3a4d6cb0ab69",
+      "shortId": "I6GAJM",
+      "name": "CosmicTABLET",
+      "role": "USER",
+      "level": 8
+    },
+    "message": "Who can slide me some golden",
+    "timestamp": "2026-05-11T00:50:01.854Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "guest-fd45fe01-e033-4840-ae91-3a4d6cb0ab69",
+      "shortId": "I6GAJM",
+      "name": "CosmicTABLET",
+      "role": "USER",
+      "level": 8
+    },
+    "message": "Yes mig",
+    "timestamp": "2026-05-11T00:50:12.913Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "guest-fd45fe01-e033-4840-ae91-3a4d6cb0ab69",
+      "shortId": "I6GAJM",
+      "name": "CosmicTABLET",
+      "role": "USER",
+      "level": 8
+    },
+    "message": "I do",
+    "timestamp": "2026-05-11T00:50:21.474Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "guest-fd45fe01-e033-4840-ae91-3a4d6cb0ab69",
+      "shortId": "I6GAJM",
+      "name": "CosmicTABLET",
+      "role": "USER",
+      "level": 8
+    },
+    "message": "Oh",
+    "timestamp": "2026-05-11T00:51:06.119Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "guest-fd45fe01-e033-4840-ae91-3a4d6cb0ab69",
+      "shortId": "I6GAJM",
+      "name": "CosmicTABLET",
+      "role": "USER",
+      "level": 8
+    },
+    "message": "Pawn send me a trade",
+    "timestamp": "2026-05-11T00:51:16.676Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "guest-fd45fe01-e033-4840-ae91-3a4d6cb0ab69",
+      "shortId": "I6GAJM",
+      "name": "CosmicTABLET",
+      "role": "USER",
+      "level": 8
+    },
+    "message": "Nxt",
+    "timestamp": "2026-05-11T00:51:53.374Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "guest-fd45fe01-e033-4840-ae91-3a4d6cb0ab69",
+      "shortId": "I6GAJM",
+      "name": "CosmicTABLET",
+      "role": "USER",
+      "level": 8
+    },
+    "message": "Can u offer wood",
+    "timestamp": "2026-05-11T00:51:59.377Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "guest-fd45fe01-e033-4840-ae91-3a4d6cb0ab69",
+      "shortId": "I6GAJM",
+      "name": "CosmicTABLET",
+      "role": "USER",
+      "level": 8
+    },
+    "message": "Idkk..",
+    "timestamp": "2026-05-11T00:52:21.542Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "guest-fd45fe01-e033-4840-ae91-3a4d6cb0ab69",
+      "shortId": "I6GAJM",
+      "name": "CosmicTABLET",
+      "role": "USER",
+      "level": 8
+    },
+    "message": "Can u slide me some stuff",
+    "timestamp": "2026-05-11T00:52:27.893Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "guest-fd45fe01-e033-4840-ae91-3a4d6cb0ab69",
+      "shortId": "I6GAJM",
+      "name": "CosmicTABLET",
+      "role": "USER",
+      "level": 8
+    },
+    "message": "Hope",
+    "timestamp": "2026-05-11T00:53:06.650Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "guest-fd45fe01-e033-4840-ae91-3a4d6cb0ab69",
+      "shortId": "I6GAJM",
+      "name": "CosmicTABLET",
+      "role": "USER",
+      "level": 8
+    },
+    "message": "Cash",
+    "timestamp": "2026-05-11T00:58:04.270Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "guest-fd45fe01-e033-4840-ae91-3a4d6cb0ab69",
+      "shortId": "I6GAJM",
+      "name": "CosmicTABLET",
+      "role": "USER",
+      "level": 8
+    },
+    "message": "Can u offer my wood",
+    "timestamp": "2026-05-11T00:58:16.346Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "guest-fd45fe01-e033-4840-ae91-3a4d6cb0ab69",
+      "shortId": "I6GAJM",
+      "name": "CosmicTABLET",
+      "role": "USER",
+      "level": 8
+    },
+    "message": "I can get 5",
+    "timestamp": "2026-05-11T00:58:31.425Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "guest-fd45fe01-e033-4840-ae91-3a4d6cb0ab69",
+      "shortId": "I6GAJM",
+      "name": "CosmicTABLET",
+      "role": "USER",
+      "level": 8
+    },
+    "message": "I'm not begging I'm asking",
+    "timestamp": "2026-05-11T00:59:01.969Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "guest-fd45fe01-e033-4840-ae91-3a4d6cb0ab69",
+      "shortId": "I6GAJM",
+      "name": "CosmicTABLET",
+      "role": "USER",
+      "level": 8
+    },
+    "message": "Anyways what",
+    "timestamp": "2026-05-11T00:59:15.891Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "guest-fd45fe01-e033-4840-ae91-3a4d6cb0ab69",
+      "shortId": "I6GAJM",
+      "name": "CosmicTABLET",
+      "role": "USER",
+      "level": 8
+    },
+    "message": "Cash wya say",
+    "timestamp": "2026-05-11T00:59:23.190Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "guest-fd45fe01-e033-4840-ae91-3a4d6cb0ab69",
+      "shortId": "I6GAJM",
+      "name": "CosmicTABLET",
+      "role": "USER",
+      "level": 8
+    },
+    "message": "Cash do ya got shark skins",
+    "timestamp": "2026-05-11T00:59:53.947Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "guest-fd45fe01-e033-4840-ae91-3a4d6cb0ab69",
+      "shortId": "I6GAJM",
+      "name": "CosmicTABLET",
+      "role": "USER",
+      "level": 8
+    },
+    "message": "Wya want for that",
+    "timestamp": "2026-05-11T01:00:11.237Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "guest-fd45fe01-e033-4840-ae91-3a4d6cb0ab69",
+      "shortId": "I6GAJM",
+      "name": "CosmicTABLET",
+      "role": "USER",
+      "level": 8
+    },
+    "message": "I like taht",
+    "timestamp": "2026-05-11T01:00:16.382Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "guest-fd45fe01-e033-4840-ae91-3a4d6cb0ab69",
+      "shortId": "I6GAJM",
+      "name": "CosmicTABLET",
+      "role": "USER",
+      "level": 8
+    },
+    "message": "Uh lemme see",
+    "timestamp": "2026-05-11T01:00:23.235Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "guest-fd45fe01-e033-4840-ae91-3a4d6cb0ab69",
+      "shortId": "I6GAJM",
+      "name": "CosmicTABLET",
+      "role": "USER",
+      "level": 8
+    },
+    "message": "Whiteout crash and",
+    "timestamp": "2026-05-11T01:00:51.007Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "guest-fd45fe01-e033-4840-ae91-3a4d6cb0ab69",
+      "shortId": "I6GAJM",
+      "name": "CosmicTABLET",
+      "role": "USER",
+      "level": 8
+    },
+    "message": "3 makism",
+    "timestamp": "2026-05-11T01:01:06.630Z"
   }
 ]
