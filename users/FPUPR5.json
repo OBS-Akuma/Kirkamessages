@@ -1483,5 +1483,53 @@
     },
     "message": "dipolar and business cat are the best characters ever",
     "timestamp": "2026-05-09T03:27:28.415Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "c3e3dbc6-624d-450c-908a-672ba348b1fd",
+      "shortId": "FPUPR5",
+      "name": "Worman",
+      "role": "USER",
+      "level": 99
+    },
+    "message": "[Onryo||BODY_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-11T00:37:30.905Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "c3e3dbc6-624d-450c-908a-672ba348b1fd",
+      "shortId": "FPUPR5",
+      "name": "Worman",
+      "role": "USER",
+      "level": 99
+    },
+    "message": "[Bound|AR-9|WEAPON_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-11T00:38:29.609Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "c3e3dbc6-624d-450c-908a-672ba348b1fd",
+      "shortId": "FPUPR5",
+      "name": "Worman",
+      "role": "USER",
+      "level": 99
+    },
+    "message": "sense should i make a ticket for qod",
+    "timestamp": "2026-05-11T00:39:14.540Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "c3e3dbc6-624d-450c-908a-672ba348b1fd",
+      "shortId": "FPUPR5",
+      "name": "Worman",
+      "role": "USER",
+      "level": 99
+    },
+    "message": "alr",
+    "timestamp": "2026-05-11T00:39:41.666Z"
   }
 ]
