@@ -22,5 +22,17 @@
     },
     "message": "/enter",
     "timestamp": "2026-05-08T08:09:56.416Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "83c628de-8564-4801-993d-565841634d0c",
+      "shortId": "88U8IP",
+      "name": "Name",
+      "role": "USER",
+      "level": 68
+    },
+    "message": ".",
+    "timestamp": "2026-05-11T01:53:40.161Z"
   }
 ]
