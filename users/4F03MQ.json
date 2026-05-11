@@ -2302,5 +2302,89 @@
     },
     "message": "9000",
     "timestamp": "2026-05-11T03:37:23.707Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "2d057859-f79e-4ba4-825b-4c368a83535c",
+      "shortId": "4F03MQ",
+      "name": "The_Re@per",
+      "role": "USER",
+      "level": 59
+    },
+    "message": "minus 8991",
+    "timestamp": "2026-05-11T03:37:41.845Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "2d057859-f79e-4ba4-825b-4c368a83535c",
+      "shortId": "4F03MQ",
+      "name": "The_Re@per",
+      "role": "USER",
+      "level": 59
+    },
+    "message": "[Soldier]x1984",
+    "timestamp": "2026-05-11T03:39:35.993Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "2d057859-f79e-4ba4-825b-4c368a83535c",
+      "shortId": "4F03MQ",
+      "name": "The_Re@per",
+      "role": "USER",
+      "level": 59
+    },
+    "message": "[Soldiers||CHARACTER_CARD|COMMON]",
+    "timestamp": "2026-05-11T03:39:46.365Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "2d057859-f79e-4ba4-825b-4c368a83535c",
+      "shortId": "4F03MQ",
+      "name": "The_Re@per",
+      "role": "USER",
+      "level": 59
+    },
+    "message": "/inv",
+    "timestamp": "2026-05-11T03:41:07.941Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "2d057859-f79e-4ba4-825b-4c368a83535c",
+      "shortId": "4F03MQ",
+      "name": "The_Re@per",
+      "role": "USER",
+      "level": 59
+    },
+    "message": "can someone give me [Golden||CHEST|LEGENDARY]",
+    "timestamp": "2026-05-11T03:41:24.771Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "2d057859-f79e-4ba4-825b-4c368a83535c",
+      "shortId": "4F03MQ",
+      "name": "The_Re@per",
+      "role": "USER",
+      "level": 59
+    },
+    "message": "/inv",
+    "timestamp": "2026-05-11T03:41:38.034Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "2d057859-f79e-4ba4-825b-4c368a83535c",
+      "shortId": "4F03MQ",
+      "name": "The_Re@per",
+      "role": "USER",
+      "level": 59
+    },
+    "message": "I want to [Kiss|Shark|WEAPON_SKIN|LEGENDARY] you [Drake|Bayonet|WEAPON_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-11T03:42:15.358Z"
   }
 ]
