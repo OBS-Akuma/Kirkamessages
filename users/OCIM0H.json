@@ -202,5 +202,29 @@
     },
     "message": "trading[Splanch|VITA|WEAPON_SKIN|MYTHICAL][Slay||BODY_SKIN|MYTHICAL]",
     "timestamp": "2026-05-11T06:47:50.445Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "2e44f774-a109-4ac3-aed2-b148419582a4",
+      "shortId": "OCIM0H",
+      "name": "SKIBIDI",
+      "role": "USER",
+      "level": 25
+    },
+    "message": "damn",
+    "timestamp": "2026-05-11T08:55:33.128Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "2e44f774-a109-4ac3-aed2-b148419582a4",
+      "shortId": "OCIM0H",
+      "name": "SKIBIDI",
+      "role": "USER",
+      "level": 26
+    },
+    "message": "anyone 1v1 ?",
+    "timestamp": "2026-05-11T09:48:50.077Z"
   }
 ]
