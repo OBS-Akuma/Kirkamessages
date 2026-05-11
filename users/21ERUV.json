@@ -3214,5 +3214,65 @@
     },
     "message": "ggs bro",
     "timestamp": "2026-05-10T21:25:23.664Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "c4be612c-91b2-460a-a030-43bb277d1e8f",
+      "shortId": "21ERUV",
+      "name": "Leo_Xtc",
+      "role": "USER",
+      "level": 99
+    },
+    "message": "bruh",
+    "timestamp": "2026-05-11T06:53:57.476Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "c4be612c-91b2-460a-a030-43bb277d1e8f",
+      "shortId": "21ERUV",
+      "name": "Leo_Xtc",
+      "role": "USER",
+      "level": 99
+    },
+    "message": "ggs",
+    "timestamp": "2026-05-11T06:54:42.118Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "c4be612c-91b2-460a-a030-43bb277d1e8f",
+      "shortId": "21ERUV",
+      "name": "Leo_Xtc",
+      "role": "USER",
+      "level": 99
+    },
+    "message": "np",
+    "timestamp": "2026-05-11T06:54:45.156Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "c4be612c-91b2-460a-a030-43bb277d1e8f",
+      "shortId": "21ERUV",
+      "name": "Leo_Xtc",
+      "role": "USER",
+      "level": 99
+    },
+    "message": "ok lol",
+    "timestamp": "2026-05-11T06:55:12.820Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "c4be612c-91b2-460a-a030-43bb277d1e8f",
+      "shortId": "21ERUV",
+      "name": "Leo_Xtc",
+      "role": "USER",
+      "level": 99
+    },
+    "message": "trading [MatchaLatte||BODY_SKIN|MYTHICAL]x2",
+    "timestamp": "2026-05-11T06:56:55.189Z"
   }
 ]
