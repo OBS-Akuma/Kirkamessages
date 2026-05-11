@@ -4558,5 +4558,401 @@
     },
     "message": "okk",
     "timestamp": "2026-05-11T01:31:58.195Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "462b7f5f-1cb4-4f46-a1e1-f9c092da6a22",
+      "shortId": "BCBHBU",
+      "name": "canel",
+      "role": "USER",
+      "level": 99
+    },
+    "message": "wagering [Anon||BODY_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-11T09:55:04.519Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "462b7f5f-1cb4-4f46-a1e1-f9c092da6a22",
+      "shortId": "BCBHBU",
+      "name": "canel",
+      "role": "USER",
+      "level": 99
+    },
+    "message": "/hm [Moody||BODY_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-11T09:55:13.863Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "462b7f5f-1cb4-4f46-a1e1-f9c092da6a22",
+      "shortId": "BCBHBU",
+      "name": "canel",
+      "role": "USER",
+      "level": 99
+    },
+    "message": "wager [Anon||BODY_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-11T09:55:50.087Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "462b7f5f-1cb4-4f46-a1e1-f9c092da6a22",
+      "shortId": "BCBHBU",
+      "name": "canel",
+      "role": "USER",
+      "level": 99
+    },
+    "message": "/clai",
+    "timestamp": "2026-05-11T10:07:37.595Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "462b7f5f-1cb4-4f46-a1e1-f9c092da6a22",
+      "shortId": "BCBHBU",
+      "name": "canel",
+      "role": "USER",
+      "level": 99
+    },
+    "message": "/claim",
+    "timestamp": "2026-05-11T10:07:40.272Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "462b7f5f-1cb4-4f46-a1e1-f9c092da6a22",
+      "shortId": "BCBHBU",
+      "name": "canel",
+      "role": "USER",
+      "level": 99
+    },
+    "message": "/wager [Anon||BODY_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-11T10:07:44.495Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "462b7f5f-1cb4-4f46-a1e1-f9c092da6a22",
+      "shortId": "BCBHBU",
+      "name": "canel",
+      "role": "USER",
+      "level": 99
+    },
+    "message": "/inv",
+    "timestamp": "2026-05-11T10:07:47.265Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "462b7f5f-1cb4-4f46-a1e1-f9c092da6a22",
+      "shortId": "BCBHBU",
+      "name": "canel",
+      "role": "USER",
+      "level": 99
+    },
+    "message": "/",
+    "timestamp": "2026-05-11T10:07:53.463Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "462b7f5f-1cb4-4f46-a1e1-f9c092da6a22",
+      "shortId": "BCBHBU",
+      "name": "canel",
+      "role": "USER",
+      "level": 99
+    },
+    "message": "/inv",
+    "timestamp": "2026-05-11T10:07:55.685Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "462b7f5f-1cb4-4f46-a1e1-f9c092da6a22",
+      "shortId": "BCBHBU",
+      "name": "canel",
+      "role": "USER",
+      "level": 99
+    },
+    "message": "yes dragon",
+    "timestamp": "2026-05-11T10:07:59.572Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "462b7f5f-1cb4-4f46-a1e1-f9c092da6a22",
+      "shortId": "BCBHBU",
+      "name": "canel",
+      "role": "USER",
+      "level": 99
+    },
+    "message": "/wager [Anon||BODY_SKIN|MYTHICAL] #2NBA3N",
+    "timestamp": "2026-05-11T10:08:27.434Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "462b7f5f-1cb4-4f46-a1e1-f9c092da6a22",
+      "shortId": "BCBHBU",
+      "name": "canel",
+      "role": "USER",
+      "level": 99
+    },
+    "message": "/cancelwager",
+    "timestamp": "2026-05-11T10:08:46.378Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "462b7f5f-1cb4-4f46-a1e1-f9c092da6a22",
+      "shortId": "BCBHBU",
+      "name": "canel",
+      "role": "USER",
+      "level": 99
+    },
+    "message": "#2NBA3N bro",
+    "timestamp": "2026-05-11T10:08:51.425Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "462b7f5f-1cb4-4f46-a1e1-f9c092da6a22",
+      "shortId": "BCBHBU",
+      "name": "canel",
+      "role": "USER",
+      "level": 99
+    },
+    "message": "i can give only warlord",
+    "timestamp": "2026-05-11T10:09:03.085Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "462b7f5f-1cb4-4f46-a1e1-f9c092da6a22",
+      "shortId": "BCBHBU",
+      "name": "canel",
+      "role": "USER",
+      "level": 99
+    },
+    "message": "i cant add",
+    "timestamp": "2026-05-11T10:09:13.139Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "462b7f5f-1cb4-4f46-a1e1-f9c092da6a22",
+      "shortId": "BCBHBU",
+      "name": "canel",
+      "role": "USER",
+      "level": 99
+    },
+    "message": "icant add sry",
+    "timestamp": "2026-05-11T10:09:57.869Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "462b7f5f-1cb4-4f46-a1e1-f9c092da6a22",
+      "shortId": "BCBHBU",
+      "name": "canel",
+      "role": "USER",
+      "level": 99
+    },
+    "message": "wager [Anon||BODY_SKIN|MYTHICAL] [Warlord||BODY_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-11T10:10:43.661Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "462b7f5f-1cb4-4f46-a1e1-f9c092da6a22",
+      "shortId": "BCBHBU",
+      "name": "canel",
+      "role": "USER",
+      "level": 99
+    },
+    "message": "/inv",
+    "timestamp": "2026-05-11T10:10:45.323Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "462b7f5f-1cb4-4f46-a1e1-f9c092da6a22",
+      "shortId": "BCBHBU",
+      "name": "canel",
+      "role": "USER",
+      "level": 99
+    },
+    "message": "ye",
+    "timestamp": "2026-05-11T10:11:05.207Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "462b7f5f-1cb4-4f46-a1e1-f9c092da6a22",
+      "shortId": "BCBHBU",
+      "name": "canel",
+      "role": "USER",
+      "level": 99
+    },
+    "message": "#EY6Y4I bro",
+    "timestamp": "2026-05-11T10:12:18.734Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "462b7f5f-1cb4-4f46-a1e1-f9c092da6a22",
+      "shortId": "BCBHBU",
+      "name": "canel",
+      "role": "USER",
+      "level": 99
+    },
+    "message": "my [Illusionist||BODY_SKIN|MYTHICAL] for your [Easter|Bayonet|WEAPON_SKIN|LEGENDARY]",
+    "timestamp": "2026-05-11T10:12:28.148Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "462b7f5f-1cb4-4f46-a1e1-f9c092da6a22",
+      "shortId": "BCBHBU",
+      "name": "canel",
+      "role": "USER",
+      "level": 99
+    },
+    "message": "bibby",
+    "timestamp": "2026-05-11T10:12:46.159Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "462b7f5f-1cb4-4f46-a1e1-f9c092da6a22",
+      "shortId": "BCBHBU",
+      "name": "canel",
+      "role": "USER",
+      "level": 99
+    },
+    "message": "your easter for my illu",
+    "timestamp": "2026-05-11T10:13:01.059Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "462b7f5f-1cb4-4f46-a1e1-f9c092da6a22",
+      "shortId": "BCBHBU",
+      "name": "canel",
+      "role": "USER",
+      "level": 99
+    },
+    "message": "#EY6Y4I",
+    "timestamp": "2026-05-11T10:13:03.348Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "462b7f5f-1cb4-4f46-a1e1-f9c092da6a22",
+      "shortId": "BCBHBU",
+      "name": "canel",
+      "role": "USER",
+      "level": 99
+    },
+    "message": "#88U8IP bro",
+    "timestamp": "2026-05-11T10:13:40.640Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "462b7f5f-1cb4-4f46-a1e1-f9c092da6a22",
+      "shortId": "BCBHBU",
+      "name": "canel",
+      "role": "USER",
+      "level": 99
+    },
+    "message": "your laby for my illusionist #88U8IP",
+    "timestamp": "2026-05-11T10:13:51.043Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "462b7f5f-1cb4-4f46-a1e1-f9c092da6a22",
+      "shortId": "BCBHBU",
+      "name": "canel",
+      "role": "USER",
+      "level": 99
+    },
+    "message": "wager [Anon||BODY_SKIN|MYTHICAL],[Warlord||BODY_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-11T10:17:51.246Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "462b7f5f-1cb4-4f46-a1e1-f9c092da6a22",
+      "shortId": "BCBHBU",
+      "name": "canel",
+      "role": "USER",
+      "level": 99
+    },
+    "message": "trading [Illusionist||BODY_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-11T10:17:59.054Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "462b7f5f-1cb4-4f46-a1e1-f9c092da6a22",
+      "shortId": "BCBHBU",
+      "name": "canel",
+      "role": "USER",
+      "level": 99
+    },
+    "message": "/wager [Drake|Bayonet|WEAPON_SKIN|MYTHICAL] #ONIEG3",
+    "timestamp": "2026-05-11T10:19:54.927Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "462b7f5f-1cb4-4f46-a1e1-f9c092da6a22",
+      "shortId": "BCBHBU",
+      "name": "canel",
+      "role": "USER",
+      "level": 99
+    },
+    "message": "/",
+    "timestamp": "2026-05-11T10:20:00.618Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "462b7f5f-1cb4-4f46-a1e1-f9c092da6a22",
+      "shortId": "BCBHBU",
+      "name": "canel",
+      "role": "USER",
+      "level": 99
+    },
+    "message": "/wager [Drake|Bayonet|WEAPON_SKIN|MYTHICAL] #ONIEG3",
+    "timestamp": "2026-05-11T10:20:14.184Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "462b7f5f-1cb4-4f46-a1e1-f9c092da6a22",
+      "shortId": "BCBHBU",
+      "name": "canel",
+      "role": "USER",
+      "level": 99
+    },
+    "message": "gop gop",
+    "timestamp": "2026-05-11T10:20:23.238Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "462b7f5f-1cb4-4f46-a1e1-f9c092da6a22",
+      "shortId": "BCBHBU",
+      "name": "canel",
+      "role": "USER",
+      "level": 99
+    },
+    "message": "wanna wager ?",
+    "timestamp": "2026-05-11T10:20:27.445Z"
   }
 ]
