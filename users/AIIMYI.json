@@ -730,5 +730,77 @@
     },
     "message": "/fav bolt",
     "timestamp": "2026-05-10T22:45:44.022Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "5c75b2d7-9364-4cdf-8a05-4f98b9d990f5",
+      "shortId": "AIIMYI",
+      "name": "xyds",
+      "role": "USER",
+      "level": 86
+    },
+    "message": "/giveaway",
+    "timestamp": "2026-05-10T23:59:01.656Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "5c75b2d7-9364-4cdf-8a05-4f98b9d990f5",
+      "shortId": "AIIMYI",
+      "name": "xyds",
+      "role": "USER",
+      "level": 86
+    },
+    "message": "/fav average",
+    "timestamp": "2026-05-11T00:02:55.465Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "5c75b2d7-9364-4cdf-8a05-4f98b9d990f5",
+      "shortId": "AIIMYI",
+      "name": "xyds",
+      "role": "USER",
+      "level": 86
+    },
+    "message": "/inv",
+    "timestamp": "2026-05-11T00:03:25.606Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "5c75b2d7-9364-4cdf-8a05-4f98b9d990f5",
+      "shortId": "AIIMYI",
+      "name": "xyds",
+      "role": "USER",
+      "level": 86
+    },
+    "message": "hello",
+    "timestamp": "2026-05-11T00:03:37.096Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "5c75b2d7-9364-4cdf-8a05-4f98b9d990f5",
+      "shortId": "AIIMYI",
+      "name": "xyds",
+      "role": "USER",
+      "level": 86
+    },
+    "message": "idek lol",
+    "timestamp": "2026-05-11T00:03:47.813Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "5c75b2d7-9364-4cdf-8a05-4f98b9d990f5",
+      "shortId": "AIIMYI",
+      "name": "xyds",
+      "role": "USER",
+      "level": 86
+    },
+    "message": "no i dont 4xbg",
+    "timestamp": "2026-05-11T00:03:58.844Z"
   }
 ]
