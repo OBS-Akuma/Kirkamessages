@@ -3239,5 +3239,17 @@
     },
     "message": "nuggets'",
     "timestamp": "2026-05-11T05:44:08.717Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "7f2a6090-abcb-48a7-8838-88ee8111b261",
+      "shortId": "NUGGET",
+      "name": "Akuma :3",
+      "role": "USER",
+      "level": 57
+    },
+    "message": "wtv",
+    "timestamp": "2026-05-11T05:53:56.779Z"
   }
 ]
