@@ -1,0 +1,50 @@
+[
+  {
+    "type": 2,
+    "user": {
+      "id": "13daa824-5a3b-4d14-a878-bd7136c408ff",
+      "shortId": "2KGROH",
+      "name": "ActullyExcited",
+      "role": "USER",
+      "level": 64
+    },
+    "message": "[Shard|Bayonet|WEAPON_SKIN|LEGENDARY]",
+    "timestamp": "2026-05-11T07:47:13.146Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "13daa824-5a3b-4d14-a878-bd7136c408ff",
+      "shortId": "2KGROH",
+      "name": "ActullyExcited",
+      "role": "USER",
+      "level": 64
+    },
+    "message": "/price [Shard|Bayonet|WEAPON_SKIN|LEGENDARY]",
+    "timestamp": "2026-05-11T07:47:30.797Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "13daa824-5a3b-4d14-a878-bd7136c408ff",
+      "shortId": "2KGROH",
+      "name": "ActullyExcited",
+      "role": "USER",
+      "level": 64
+    },
+    "message": "/price [Rub1x|MAC-10|WEAPON_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-11T07:48:14.642Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "13daa824-5a3b-4d14-a878-bd7136c408ff",
+      "shortId": "2KGROH",
+      "name": "ActullyExcited",
+      "role": "USER",
+      "level": 64
+    },
+    "message": "any1 trading shard?",
+    "timestamp": "2026-05-11T07:48:31.020Z"
+  }
+]
