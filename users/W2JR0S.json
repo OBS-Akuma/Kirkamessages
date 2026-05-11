@@ -562,5 +562,77 @@
     },
     "message": "/price [IMGERROR||BODY_SKIN|MYTHICAL]",
     "timestamp": "2026-05-11T01:57:37.456Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "66c2048f-7fdf-490a-b4fe-9e9f345751b6",
+      "shortId": "W2JR0S",
+      "name": "TobiasKpsGamin",
+      "role": "USER",
+      "level": 79
+    },
+    "message": "/price [Nukem||BODY_SKIN|LEGENDARY]",
+    "timestamp": "2026-05-11T03:49:57.892Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "66c2048f-7fdf-490a-b4fe-9e9f345751b6",
+      "shortId": "W2JR0S",
+      "name": "TobiasKpsGamin",
+      "role": "USER",
+      "level": 79
+    },
+    "message": "/price [IMGERROR||BODY_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-11T03:50:43.430Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "66c2048f-7fdf-490a-b4fe-9e9f345751b6",
+      "shortId": "W2JR0S",
+      "name": "TobiasKpsGamin",
+      "role": "USER",
+      "level": 79
+    },
+    "message": "gn",
+    "timestamp": "2026-05-11T03:57:49.539Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "66c2048f-7fdf-490a-b4fe-9e9f345751b6",
+      "shortId": "W2JR0S",
+      "name": "TobiasKpsGamin",
+      "role": "USER",
+      "level": 79
+    },
+    "message": "Who said they were going to inv me to mafia",
+    "timestamp": "2026-05-11T03:58:50.096Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "66c2048f-7fdf-490a-b4fe-9e9f345751b6",
+      "shortId": "W2JR0S",
+      "name": "TobiasKpsGamin",
+      "role": "USER",
+      "level": 79
+    },
+    "message": "Someone send me inv to black mafia clan",
+    "timestamp": "2026-05-11T04:00:45.326Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "66c2048f-7fdf-490a-b4fe-9e9f345751b6",
+      "shortId": "W2JR0S",
+      "name": "TobiasKpsGamin",
+      "role": "USER",
+      "level": 79
+    },
+    "message": "#V253MV",
+    "timestamp": "2026-05-11T04:42:37.524Z"
   }
 ]
