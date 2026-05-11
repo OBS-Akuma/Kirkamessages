@@ -3706,5 +3706,89 @@
     },
     "message": "mb",
     "timestamp": "2026-05-11T06:35:50.901Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "2d057859-f79e-4ba4-825b-4c368a83535c",
+      "shortId": "4F03MQ",
+      "name": "The_Re@per",
+      "role": "USER",
+      "level": 59
+    },
+    "message": "I got a scar skijn",
+    "timestamp": "2026-05-11T06:38:27.043Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "2d057859-f79e-4ba4-825b-4c368a83535c",
+      "shortId": "4F03MQ",
+      "name": "The_Re@per",
+      "role": "USER",
+      "level": 59
+    },
+    "message": "[Psycho|SCAR|WEAPON_SKIN|LEGENDARY]",
+    "timestamp": "2026-05-11T06:38:48.840Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "2d057859-f79e-4ba4-825b-4c368a83535c",
+      "shortId": "4F03MQ",
+      "name": "The_Re@per",
+      "role": "USER",
+      "level": 59
+    },
+    "message": "for free",
+    "timestamp": "2026-05-11T06:39:06.964Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "2d057859-f79e-4ba4-825b-4c368a83535c",
+      "shortId": "4F03MQ",
+      "name": "The_Re@per",
+      "role": "USER",
+      "level": 59
+    },
+    "message": "ok",
+    "timestamp": "2026-05-11T06:39:27.953Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "2d057859-f79e-4ba4-825b-4c368a83535c",
+      "shortId": "4F03MQ",
+      "name": "The_Re@per",
+      "role": "USER",
+      "level": 59
+    },
+    "message": "I got 11k",
+    "timestamp": "2026-05-11T06:40:13.420Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "2d057859-f79e-4ba4-825b-4c368a83535c",
+      "shortId": "4F03MQ",
+      "name": "The_Re@per",
+      "role": "USER",
+      "level": 59
+    },
+    "message": "?",
+    "timestamp": "2026-05-11T06:40:25.072Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "2d057859-f79e-4ba4-825b-4c368a83535c",
+      "shortId": "4F03MQ",
+      "name": "The_Re@per",
+      "role": "USER",
+      "level": 59
+    },
+    "message": "yo mah can you sell me a skin for 11k",
+    "timestamp": "2026-05-11T06:41:39.140Z"
   }
 ]
