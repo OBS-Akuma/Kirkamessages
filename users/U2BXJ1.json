@@ -358,5 +358,101 @@
     },
     "message": "/locate [Love|VITA|WEAPON_SKIN|LEGENDARY]",
     "timestamp": "2026-05-11T02:40:48.735Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "ed29cf75-a70c-4e1c-8f21-382a23d8c5fb",
+      "shortId": "U2BXJ1",
+      "name": "HalfTwo",
+      "role": "USER",
+      "level": 95
+    },
+    "message": "hm for ghillie",
+    "timestamp": "2026-05-11T06:10:34.438Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "ed29cf75-a70c-4e1c-8f21-382a23d8c5fb",
+      "shortId": "U2BXJ1",
+      "name": "HalfTwo",
+      "role": "USER",
+      "level": 95
+    },
+    "message": "I got goldens",
+    "timestamp": "2026-05-11T06:10:47.361Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "ed29cf75-a70c-4e1c-8f21-382a23d8c5fb",
+      "shortId": "U2BXJ1",
+      "name": "HalfTwo",
+      "role": "USER",
+      "level": 95
+    },
+    "message": "/price [kuromi]",
+    "timestamp": "2026-05-11T06:11:24.457Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "ed29cf75-a70c-4e1c-8f21-382a23d8c5fb",
+      "shortId": "U2BXJ1",
+      "name": "HalfTwo",
+      "role": "USER",
+      "level": 95
+    },
+    "message": "/price [Korunami",
+    "timestamp": "2026-05-11T06:11:45.112Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "ed29cf75-a70c-4e1c-8f21-382a23d8c5fb",
+      "shortId": "U2BXJ1",
+      "name": "HalfTwo",
+      "role": "USER",
+      "level": 95
+    },
+    "message": "hm",
+    "timestamp": "2026-05-11T06:12:00.206Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "ed29cf75-a70c-4e1c-8f21-382a23d8c5fb",
+      "shortId": "U2BXJ1",
+      "name": "HalfTwo",
+      "role": "USER",
+      "level": 95
+    },
+    "message": "/price [Korunami|LAR|WEAPON_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-11T06:12:21.377Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "ed29cf75-a70c-4e1c-8f21-382a23d8c5fb",
+      "shortId": "U2BXJ1",
+      "name": "HalfTwo",
+      "role": "USER",
+      "level": 95
+    },
+    "message": "hell nah",
+    "timestamp": "2026-05-11T06:12:23.620Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "ed29cf75-a70c-4e1c-8f21-382a23d8c5fb",
+      "shortId": "U2BXJ1",
+      "name": "HalfTwo",
+      "role": "USER",
+      "level": 95
+    },
+    "message": "/avg[Korunami|LAR|WEAPON_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-11T06:12:35.334Z"
   }
 ]
