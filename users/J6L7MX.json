@@ -1,0 +1,50 @@
+[
+  {
+    "type": 2,
+    "user": {
+      "id": "afb1b96b-e95e-46c6-96ce-ac06976fb745",
+      "shortId": "J6L7MX",
+      "name": "LEGEND_ONE",
+      "role": "USER",
+      "level": 6
+    },
+    "message": "/inv",
+    "timestamp": "2026-05-11T08:41:25.332Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "afb1b96b-e95e-46c6-96ce-ac06976fb745",
+      "shortId": "J6L7MX",
+      "name": "LEGEND_ONE",
+      "role": "USER",
+      "level": 6
+    },
+    "message": "/fav bolt",
+    "timestamp": "2026-05-11T08:41:29.256Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "afb1b96b-e95e-46c6-96ce-ac06976fb745",
+      "shortId": "J6L7MX",
+      "name": "LEGEND_ONE",
+      "role": "USER",
+      "level": 6
+    },
+    "message": ".",
+    "timestamp": "2026-05-11T08:42:33.718Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "afb1b96b-e95e-46c6-96ce-ac06976fb745",
+      "shortId": "J6L7MX",
+      "name": "LEGEND_ONE",
+      "role": "USER",
+      "level": 6
+    },
+    "message": "/inv",
+    "timestamp": "2026-05-11T08:42:36.585Z"
+  }
+]
