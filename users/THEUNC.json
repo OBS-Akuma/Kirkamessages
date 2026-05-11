@@ -850,5 +850,437 @@
     },
     "message": "/wager [Golden||CHEST|LEGENDARY]x750 #BHERYS",
     "timestamp": "2026-05-11T00:34:46.974Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "fd75f84e-e218-4b57-a35f-53bc4216c6f1",
+      "shortId": "THEUNC",
+      "name": "Izzy",
+      "role": "USER",
+      "level": 99
+    },
+    "message": "/cancelwager",
+    "timestamp": "2026-05-11T00:35:47.631Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "fd75f84e-e218-4b57-a35f-53bc4216c6f1",
+      "shortId": "THEUNC",
+      "name": "Izzy",
+      "role": "USER",
+      "level": 99
+    },
+    "message": "/claim",
+    "timestamp": "2026-05-11T00:35:50.044Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "fd75f84e-e218-4b57-a35f-53bc4216c6f1",
+      "shortId": "THEUNC",
+      "name": "Izzy",
+      "role": "USER",
+      "level": 99
+    },
+    "message": "has to be the same item for a wager",
+    "timestamp": "2026-05-11T00:36:06.061Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "fd75f84e-e218-4b57-a35f-53bc4216c6f1",
+      "shortId": "THEUNC",
+      "name": "Izzy",
+      "role": "USER",
+      "level": 99
+    },
+    "message": "so no",
+    "timestamp": "2026-05-11T00:36:08.842Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "fd75f84e-e218-4b57-a35f-53bc4216c6f1",
+      "shortId": "THEUNC",
+      "name": "Izzy",
+      "role": "USER",
+      "level": 99
+    },
+    "message": "/hm darkift",
+    "timestamp": "2026-05-11T00:36:22.110Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "fd75f84e-e218-4b57-a35f-53bc4216c6f1",
+      "shortId": "THEUNC",
+      "name": "Izzy",
+      "role": "USER",
+      "level": 99
+    },
+    "message": "Voidz its 35k...",
+    "timestamp": "2026-05-11T00:36:30.414Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "fd75f84e-e218-4b57-a35f-53bc4216c6f1",
+      "shortId": "THEUNC",
+      "name": "Izzy",
+      "role": "USER",
+      "level": 99
+    },
+    "message": "anyone wanna wager",
+    "timestamp": "2026-05-11T00:36:59.945Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "fd75f84e-e218-4b57-a35f-53bc4216c6f1",
+      "shortId": "THEUNC",
+      "name": "Izzy",
+      "role": "USER",
+      "level": 99
+    },
+    "message": "?",
+    "timestamp": "2026-05-11T00:37:23.102Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "fd75f84e-e218-4b57-a35f-53bc4216c6f1",
+      "shortId": "THEUNC",
+      "name": "Izzy",
+      "role": "USER",
+      "level": 99
+    },
+    "message": "you cant",
+    "timestamp": "2026-05-11T00:37:36.220Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "fd75f84e-e218-4b57-a35f-53bc4216c6f1",
+      "shortId": "THEUNC",
+      "name": "Izzy",
+      "role": "USER",
+      "level": 99
+    },
+    "message": "i just told you that",
+    "timestamp": "2026-05-11T00:37:38.335Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "fd75f84e-e218-4b57-a35f-53bc4216c6f1",
+      "shortId": "THEUNC",
+      "name": "Izzy",
+      "role": "USER",
+      "level": 99
+    },
+    "message": "just doesnt work that way",
+    "timestamp": "2026-05-11T00:37:49.813Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "fd75f84e-e218-4b57-a35f-53bc4216c6f1",
+      "shortId": "THEUNC",
+      "name": "Izzy",
+      "role": "USER",
+      "level": 99
+    },
+    "message": "i dont want to",
+    "timestamp": "2026-05-11T00:37:53.088Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "fd75f84e-e218-4b57-a35f-53bc4216c6f1",
+      "shortId": "THEUNC",
+      "name": "Izzy",
+      "role": "USER",
+      "level": 99
+    },
+    "message": "im good",
+    "timestamp": "2026-05-11T00:38:01.849Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "fd75f84e-e218-4b57-a35f-53bc4216c6f1",
+      "shortId": "THEUNC",
+      "name": "Izzy",
+      "role": "USER",
+      "level": 99
+    },
+    "message": "/confirmwager",
+    "timestamp": "2026-05-11T00:38:24.474Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "fd75f84e-e218-4b57-a35f-53bc4216c6f1",
+      "shortId": "THEUNC",
+      "name": "Izzy",
+      "role": "USER",
+      "level": 99
+    },
+    "message": "dang",
+    "timestamp": "2026-05-11T00:38:53.539Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "fd75f84e-e218-4b57-a35f-53bc4216c6f1",
+      "shortId": "THEUNC",
+      "name": "Izzy",
+      "role": "USER",
+      "level": 99
+    },
+    "message": "reverse swept",
+    "timestamp": "2026-05-11T00:38:59.473Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "fd75f84e-e218-4b57-a35f-53bc4216c6f1",
+      "shortId": "THEUNC",
+      "name": "Izzy",
+      "role": "USER",
+      "level": 99
+    },
+    "message": "/claim",
+    "timestamp": "2026-05-11T00:39:00.978Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "fd75f84e-e218-4b57-a35f-53bc4216c6f1",
+      "shortId": "THEUNC",
+      "name": "Izzy",
+      "role": "USER",
+      "level": 99
+    },
+    "message": "/wagerstats",
+    "timestamp": "2026-05-11T00:39:15.297Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "fd75f84e-e218-4b57-a35f-53bc4216c6f1",
+      "shortId": "THEUNC",
+      "name": "Izzy",
+      "role": "USER",
+      "level": 99
+    },
+    "message": "/stats",
+    "timestamp": "2026-05-11T00:39:21.016Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "fd75f84e-e218-4b57-a35f-53bc4216c6f1",
+      "shortId": "THEUNC",
+      "name": "Izzy",
+      "role": "USER",
+      "level": 99
+    },
+    "message": "what",
+    "timestamp": "2026-05-11T00:39:27.451Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "fd75f84e-e218-4b57-a35f-53bc4216c6f1",
+      "shortId": "THEUNC",
+      "name": "Izzy",
+      "role": "USER",
+      "level": 99
+    },
+    "message": "/confirmwager",
+    "timestamp": "2026-05-11T00:39:46.160Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "fd75f84e-e218-4b57-a35f-53bc4216c6f1",
+      "shortId": "THEUNC",
+      "name": "Izzy",
+      "role": "USER",
+      "level": 99
+    },
+    "message": "wager 3000 goldens nxt",
+    "timestamp": "2026-05-11T00:40:25.993Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "fd75f84e-e218-4b57-a35f-53bc4216c6f1",
+      "shortId": "THEUNC",
+      "name": "Izzy",
+      "role": "USER",
+      "level": 99
+    },
+    "message": "cancel canel",
+    "timestamp": "2026-05-11T00:40:42.524Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "fd75f84e-e218-4b57-a35f-53bc4216c6f1",
+      "shortId": "THEUNC",
+      "name": "Izzy",
+      "role": "USER",
+      "level": 99
+    },
+    "message": "/wagerconfirm",
+    "timestamp": "2026-05-11T00:41:04.803Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "fd75f84e-e218-4b57-a35f-53bc4216c6f1",
+      "shortId": "THEUNC",
+      "name": "Izzy",
+      "role": "USER",
+      "level": 99
+    },
+    "message": "oops",
+    "timestamp": "2026-05-11T00:41:11.861Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "fd75f84e-e218-4b57-a35f-53bc4216c6f1",
+      "shortId": "THEUNC",
+      "name": "Izzy",
+      "role": "USER",
+      "level": 99
+    },
+    "message": "/confirmwager",
+    "timestamp": "2026-05-11T00:41:15.427Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "fd75f84e-e218-4b57-a35f-53bc4216c6f1",
+      "shortId": "THEUNC",
+      "name": "Izzy",
+      "role": "USER",
+      "level": 99
+    },
+    "message": "gg pal",
+    "timestamp": "2026-05-11T00:41:37.862Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "fd75f84e-e218-4b57-a35f-53bc4216c6f1",
+      "shortId": "THEUNC",
+      "name": "Izzy",
+      "role": "USER",
+      "level": 99
+    },
+    "message": "you have paypay?",
+    "timestamp": "2026-05-11T00:41:53.709Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "fd75f84e-e218-4b57-a35f-53bc4216c6f1",
+      "shortId": "THEUNC",
+      "name": "Izzy",
+      "role": "USER",
+      "level": 99
+    },
+    "message": "nxt you have [Paypay||BODY_SKIN|MYTHICAL] ?",
+    "timestamp": "2026-05-11T00:42:25.067Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "fd75f84e-e218-4b57-a35f-53bc4216c6f1",
+      "shortId": "THEUNC",
+      "name": "Izzy",
+      "role": "USER",
+      "level": 99
+    },
+    "message": "nxt im less than 100m from 1b",
+    "timestamp": "2026-05-11T00:43:15.675Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "fd75f84e-e218-4b57-a35f-53bc4216c6f1",
+      "shortId": "THEUNC",
+      "name": "Izzy",
+      "role": "USER",
+      "level": 99
+    },
+    "message": "i got waxed cancel",
+    "timestamp": "2026-05-11T00:44:12.981Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "fd75f84e-e218-4b57-a35f-53bc4216c6f1",
+      "shortId": "THEUNC",
+      "name": "Izzy",
+      "role": "USER",
+      "level": 99
+    },
+    "message": "im pooooor",
+    "timestamp": "2026-05-11T00:44:17.079Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "fd75f84e-e218-4b57-a35f-53bc4216c6f1",
+      "shortId": "THEUNC",
+      "name": "Izzy",
+      "role": "USER",
+      "level": 99
+    },
+    "message": "now",
+    "timestamp": "2026-05-11T00:44:18.816Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "fd75f84e-e218-4b57-a35f-53bc4216c6f1",
+      "shortId": "THEUNC",
+      "name": "Izzy",
+      "role": "USER",
+      "level": 99
+    },
+    "message": "0",
+    "timestamp": "2026-05-11T00:44:35.726Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "fd75f84e-e218-4b57-a35f-53bc4216c6f1",
+      "shortId": "THEUNC",
+      "name": "Izzy",
+      "role": "USER",
+      "level": 99
+    },
+    "message": "nxt get me to 1b inv",
+    "timestamp": "2026-05-11T00:44:56.214Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "fd75f84e-e218-4b57-a35f-53bc4216c6f1",
+      "shortId": "THEUNC",
+      "name": "Izzy",
+      "role": "USER",
+      "level": 99
+    },
+    "message": "/inv",
+    "timestamp": "2026-05-11T00:44:57.359Z"
   }
 ]
