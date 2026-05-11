@@ -382,5 +382,17 @@
     },
     "message": "#2PSEWV",
     "timestamp": "2026-05-10T21:19:19.652Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "745ddc76-ceb8-4e5f-8b1a-f5981c23d994",
+      "shortId": "BJMC35",
+      "name": "L0RD0fTheNorth",
+      "role": "USER",
+      "level": 98
+    },
+    "message": "/inv",
+    "timestamp": "2026-05-11T19:11:21.121Z"
   }
 ]
