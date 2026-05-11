@@ -1786,5 +1786,53 @@
     },
     "message": "bro why are u traing less than 1000",
     "timestamp": "2026-05-11T06:21:55.746Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "34f8f3a3-088e-45dd-badd-4e80aca43934",
+      "shortId": "IGADFZ",
+      "name": "Night.",
+      "role": "USER",
+      "level": 66
+    },
+    "message": "[Kod||BODY_SKIN|LEGENDARY]",
+    "timestamp": "2026-05-11T07:15:55.029Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "34f8f3a3-088e-45dd-badd-4e80aca43934",
+      "shortId": "IGADFZ",
+      "name": "Night.",
+      "role": "USER",
+      "level": 66
+    },
+    "message": "[Hallowkod||BODY_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-11T07:15:58.120Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "34f8f3a3-088e-45dd-badd-4e80aca43934",
+      "shortId": "IGADFZ",
+      "name": "Night.",
+      "role": "USER",
+      "level": 66
+    },
+    "message": "[devil]",
+    "timestamp": "2026-05-11T07:16:22.156Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "34f8f3a3-088e-45dd-badd-4e80aca43934",
+      "shortId": "IGADFZ",
+      "name": "Night.",
+      "role": "USER",
+      "level": 66
+    },
+    "message": "guys just hit 700 klo!",
+    "timestamp": "2026-05-11T07:38:26.199Z"
   }
 ]
