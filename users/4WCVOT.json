@@ -10,5 +10,77 @@
     },
     "message": "/price [gary]",
     "timestamp": "2026-05-08T10:36:43.161Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "m83U1Z1KO7bMzKrN0XaH4le5CFB2",
+      "shortId": "4WCVOT",
+      "name": "FragmentsScar|",
+      "role": "USER",
+      "level": 68
+    },
+    "message": "guys",
+    "timestamp": "2026-05-11T09:01:00.846Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "m83U1Z1KO7bMzKrN0XaH4le5CFB2",
+      "shortId": "4WCVOT",
+      "name": "FragmentsScar|",
+      "role": "USER",
+      "level": 68
+    },
+    "message": "hey guys",
+    "timestamp": "2026-05-11T09:01:11.304Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "m83U1Z1KO7bMzKrN0XaH4le5CFB2",
+      "shortId": "4WCVOT",
+      "name": "FragmentsScar|",
+      "role": "USER",
+      "level": 68
+    },
+    "message": "who has [Waves|SCAR|WEAPON_SKIN|LEGENDARY]?",
+    "timestamp": "2026-05-11T09:01:18.794Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "m83U1Z1KO7bMzKrN0XaH4le5CFB2",
+      "shortId": "4WCVOT",
+      "name": "FragmentsScar|",
+      "role": "USER",
+      "level": 68
+    },
+    "message": "/price cristalized",
+    "timestamp": "2026-05-11T09:02:04.894Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "m83U1Z1KO7bMzKrN0XaH4le5CFB2",
+      "shortId": "4WCVOT",
+      "name": "FragmentsScar|",
+      "role": "USER",
+      "level": 68
+    },
+    "message": "/price crystalized",
+    "timestamp": "2026-05-11T09:02:26.774Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "m83U1Z1KO7bMzKrN0XaH4le5CFB2",
+      "shortId": "4WCVOT",
+      "name": "FragmentsScar|",
+      "role": "USER",
+      "level": 68
+    },
+    "message": "/inv",
+    "timestamp": "2026-05-11T09:03:00.456Z"
   }
 ]
