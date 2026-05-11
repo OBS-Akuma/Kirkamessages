@@ -2434,5 +2434,65 @@
     },
     "message": "smthn else",
     "timestamp": "2026-05-11T08:32:39.489Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "0f19c49b-cc4f-4df3-ab7b-b388c5515c2a",
+      "shortId": "P3QY1Y",
+      "name": "killerstrike2",
+      "role": "USER",
+      "level": 97
+    },
+    "message": "ye?",
+    "timestamp": "2026-05-11T09:14:41.134Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "0f19c49b-cc4f-4df3-ab7b-b388c5515c2a",
+      "shortId": "P3QY1Y",
+      "name": "killerstrike2",
+      "role": "USER",
+      "level": 97
+    },
+    "message": "bet",
+    "timestamp": "2026-05-11T09:15:14.561Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "0f19c49b-cc4f-4df3-ab7b-b388c5515c2a",
+      "shortId": "P3QY1Y",
+      "name": "killerstrike2",
+      "role": "USER",
+      "level": 97
+    },
+    "message": "rn spicy in a game get rdu",
+    "timestamp": "2026-05-11T09:15:30.042Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "0f19c49b-cc4f-4df3-ab7b-b388c5515c2a",
+      "shortId": "P3QY1Y",
+      "name": "killerstrike2",
+      "role": "USER",
+      "level": 97
+    },
+    "message": "rdy",
+    "timestamp": "2026-05-11T09:15:32.146Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "0f19c49b-cc4f-4df3-ab7b-b388c5515c2a",
+      "shortId": "P3QY1Y",
+      "name": "killerstrike2",
+      "role": "USER",
+      "level": 97
+    },
+    "message": "lemme try to join it",
+    "timestamp": "2026-05-11T09:15:35.750Z"
   }
 ]
