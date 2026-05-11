@@ -190,5 +190,17 @@
     },
     "message": "[Forbidden|AR-9|WEAPON_SKIN|MYTHICAL]",
     "timestamp": "2026-05-08T09:11:58.481Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "2e44f774-a109-4ac3-aed2-b148419582a4",
+      "shortId": "OCIM0H",
+      "name": "SKIBIDI",
+      "role": "USER",
+      "level": 25
+    },
+    "message": "trading[Splanch|VITA|WEAPON_SKIN|MYTHICAL][Slay||BODY_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-11T06:47:50.445Z"
   }
 ]
