@@ -22,5 +22,41 @@
     },
     "message": "/hm capricorn",
     "timestamp": "2026-05-10T02:07:21.804Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "2d441501-81fd-4137-ae63-0b5f1f345d2e",
+      "shortId": "NUC1AI",
+      "name": "Kanzuto",
+      "role": "USER",
+      "level": 81
+    },
+    "message": "/hm bok",
+    "timestamp": "2026-05-11T10:30:14.443Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "2d441501-81fd-4137-ae63-0b5f1f345d2e",
+      "shortId": "NUC1AI",
+      "name": "Kanzuto",
+      "role": "USER",
+      "level": 81
+    },
+    "message": "scarlet make",
+    "timestamp": "2026-05-11T10:35:59.436Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "2d441501-81fd-4137-ae63-0b5f1f345d2e",
+      "shortId": "NUC1AI",
+      "name": "Kanzuto",
+      "role": "USER",
+      "level": 81
+    },
+    "message": "#T8LNH0 make trade",
+    "timestamp": "2026-05-11T10:36:41.217Z"
   }
 ]
