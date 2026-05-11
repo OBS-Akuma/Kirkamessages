@@ -44,7 +44,7 @@
       "role": "USER",
       "level": 98
     },
-    "message": "ong show Äi",
+    "message": "ong show ÃÂi",
     "timestamp": "2026-05-11T01:13:05.581Z"
   },
   {
@@ -56,7 +56,7 @@
       "role": "USER",
       "level": 98
     },
-    "message": "tui coi thá»­",
+    "message": "tui coi thÃ¡Â»Â­",
     "timestamp": "2026-05-11T01:13:10.099Z"
   },
   {
@@ -104,7 +104,7 @@
       "role": "USER",
       "level": 98
     },
-    "message": "Äá»ng Ã½ Äi",
+    "message": "ÃÂÃ¡Â»Âng ÃÂ½ ÃÂi",
     "timestamp": "2026-05-11T01:17:44.636Z"
   },
   {
@@ -116,7 +116,7 @@
       "role": "USER",
       "level": 98
     },
-    "message": "dÃ­ bá» lá»i r",
+    "message": "dÃÂ­ bÃ¡Â»Â lÃ¡Â»Âi r",
     "timestamp": "2026-05-11T01:18:47.292Z"
   },
   {
@@ -200,7 +200,7 @@
       "role": "USER",
       "level": 98
     },
-    "message": "Ã \\",
+    "message": "ÃÂ \\",
     "timestamp": "2026-05-11T01:21:25.970Z"
   },
   {
@@ -236,7 +236,7 @@
       "role": "USER",
       "level": 98
     },
-    "message": "bÃ¡n ko",
+    "message": "bÃÂ¡n ko",
     "timestamp": "2026-05-11T01:21:58.114Z"
   },
   {
@@ -584,7 +584,7 @@
       "role": "USER",
       "level": 98
     },
-    "message": "hÆ¡ much hozila",
+    "message": "hÃÂ¡ much hozila",
     "timestamp": "2026-05-11T02:04:33.064Z"
   },
   {
@@ -694,5 +694,29 @@
     },
     "message": "offer myyyyyyyyyyyyyyyyyyy  v0id",
     "timestamp": "2026-05-11T02:46:49.110Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "6cc4648b-f352-464a-a274-449221c88390",
+      "shortId": "G21OHD",
+      "name": "TheGhost-_-",
+      "role": "USER",
+      "level": 98
+    },
+    "message": "/hmm [CYB3R|Bayonet|WEAPON_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-11T04:07:09.627Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "6cc4648b-f352-464a-a274-449221c88390",
+      "shortId": "G21OHD",
+      "name": "TheGhost-_-",
+      "role": "USER",
+      "level": 98
+    },
+    "message": "/PRICE [CYB3R|Bayonet|WEAPON_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-11T04:07:24.509Z"
   }
 ]
