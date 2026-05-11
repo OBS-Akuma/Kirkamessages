@@ -322,5 +322,41 @@
     },
     "message": "qwerty trade void for my hold invitory",
     "timestamp": "2026-05-11T19:12:50.568Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "fef272b4-70e4-418f-a41c-e28ae12e5c89",
+      "shortId": "6WHCOR",
+      "name": "[EGD]ToXiC",
+      "role": "USER",
+      "level": 71
+    },
+    "message": "lol",
+    "timestamp": "2026-05-11T19:14:17.518Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "fef272b4-70e4-418f-a41c-e28ae12e5c89",
+      "shortId": "6WHCOR",
+      "name": "[EGD]ToXiC",
+      "role": "USER",
+      "level": 71
+    },
+    "message": "no sry",
+    "timestamp": "2026-05-11T19:14:49.169Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "fef272b4-70e4-418f-a41c-e28ae12e5c89",
+      "shortId": "6WHCOR",
+      "name": "[EGD]ToXiC",
+      "role": "USER",
+      "level": 71
+    },
+    "message": "lgd trade dragonic vita for [1337|Shark|WEAPON_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-11T19:16:29.346Z"
   }
 ]
