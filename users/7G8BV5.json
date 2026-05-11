@@ -142,5 +142,101 @@
     },
     "message": "/inv",
     "timestamp": "2026-05-11T01:16:18.643Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "557447c2-d997-44be-b0cb-a93e84a42dfd",
+      "shortId": "7G8BV5",
+      "name": "Voidz",
+      "role": "USER",
+      "level": 100
+    },
+    "message": "Selling [Tagged|Revolver|WEAPON_SKIN|MYTHICAL] for 10mil",
+    "timestamp": "2026-05-11T04:37:49.574Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "557447c2-d997-44be-b0cb-a93e84a42dfd",
+      "shortId": "7G8BV5",
+      "name": "Voidz",
+      "role": "USER",
+      "level": 100
+    },
+    "message": "Yes",
+    "timestamp": "2026-05-11T04:38:15.215Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "557447c2-d997-44be-b0cb-a93e84a42dfd",
+      "shortId": "7G8BV5",
+      "name": "Voidz",
+      "role": "USER",
+      "level": 100
+    },
+    "message": "#QESXKG cost?",
+    "timestamp": "2026-05-11T04:38:52.280Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "557447c2-d997-44be-b0cb-a93e84a42dfd",
+      "shortId": "7G8BV5",
+      "name": "Voidz",
+      "role": "USER",
+      "level": 100
+    },
+    "message": "Wait let me uneqiup my tagged rq",
+    "timestamp": "2026-05-11T04:39:33.762Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "557447c2-d997-44be-b0cb-a93e84a42dfd",
+      "shortId": "7G8BV5",
+      "name": "Voidz",
+      "role": "USER",
+      "level": 100
+    },
+    "message": "I want decent or good offers for [Tagged|Revolver|WEAPON_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-11T04:40:25.920Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "557447c2-d997-44be-b0cb-a93e84a42dfd",
+      "shortId": "7G8BV5",
+      "name": "Voidz",
+      "role": "USER",
+      "level": 100
+    },
+    "message": "Hmmm",
+    "timestamp": "2026-05-11T04:40:41.712Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "557447c2-d997-44be-b0cb-a93e84a42dfd",
+      "shortId": "7G8BV5",
+      "name": "Voidz",
+      "role": "USER",
+      "level": 100
+    },
+    "message": "#V253MV how much total your trade?",
+    "timestamp": "2026-05-11T04:41:07.477Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "557447c2-d997-44be-b0cb-a93e84a42dfd",
+      "shortId": "7G8BV5",
+      "name": "Voidz",
+      "role": "USER",
+      "level": 100
+    },
+    "message": "#HUB956 :crying emoji:",
+    "timestamp": "2026-05-11T04:41:55.995Z"
   }
 ]
