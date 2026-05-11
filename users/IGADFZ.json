@@ -1750,5 +1750,41 @@
     },
     "message": "/price heavy",
     "timestamp": "2026-05-10T19:18:27.823Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "34f8f3a3-088e-45dd-badd-4e80aca43934",
+      "shortId": "IGADFZ",
+      "name": "Night.",
+      "role": "USER",
+      "level": 66
+    },
+    "message": "noah wtf are u doin",
+    "timestamp": "2026-05-11T06:21:27.143Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "34f8f3a3-088e-45dd-badd-4e80aca43934",
+      "shortId": "IGADFZ",
+      "name": "Night.",
+      "role": "USER",
+      "level": 66
+    },
+    "message": "bro Noah and u say ur a good tr",
+    "timestamp": "2026-05-11T06:21:43.287Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "34f8f3a3-088e-45dd-badd-4e80aca43934",
+      "shortId": "IGADFZ",
+      "name": "Night.",
+      "role": "USER",
+      "level": 66
+    },
+    "message": "bro why are u traing less than 1000",
+    "timestamp": "2026-05-11T06:21:55.746Z"
   }
 ]
