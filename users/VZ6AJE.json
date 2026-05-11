@@ -58,5 +58,29 @@
     },
     "message": "nice",
     "timestamp": "2026-05-10T02:49:06.254Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "0e0253e4-94fe-4c73-bb1f-d26f1ba38b19",
+      "shortId": "VZ6AJE",
+      "name": "Newbie.",
+      "role": "USER",
+      "level": 37
+    },
+    "message": "LF[Turtle|Bayonet|WEAPON_SKIN|MYTHICAL]s",
+    "timestamp": "2026-05-10T23:48:57.940Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "0e0253e4-94fe-4c73-bb1f-d26f1ba38b19",
+      "shortId": "VZ6AJE",
+      "name": "Newbie.",
+      "role": "USER",
+      "level": 37
+    },
+    "message": "How many turtles do you have",
+    "timestamp": "2026-05-10T23:49:21.358Z"
   }
 ]
