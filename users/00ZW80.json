@@ -2698,5 +2698,53 @@
     },
     "message": "draco",
     "timestamp": "2026-05-11T03:41:03.324Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "99cc3bc0-e1e3-48ee-815b-9bfe1f7f7fe2",
+      "shortId": "00ZW80",
+      "name": "Newbie",
+      "role": "USER",
+      "level": 29
+    },
+    "message": "lf [Santa Claus||BODY_SKIN|LEGENDARY]",
+    "timestamp": "2026-05-11T05:20:56.700Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "99cc3bc0-e1e3-48ee-815b-9bfe1f7f7fe2",
+      "shortId": "00ZW80",
+      "name": "Newbie",
+      "role": "USER",
+      "level": 29
+    },
+    "message": "who wants [Sizzle||BODY_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-11T05:26:42.460Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "99cc3bc0-e1e3-48ee-815b-9bfe1f7f7fe2",
+      "shortId": "00ZW80",
+      "name": "Newbie",
+      "role": "USER",
+      "level": 29
+    },
+    "message": "im trading [Sizzle||BODY_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-11T05:27:23.167Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "99cc3bc0-e1e3-48ee-815b-9bfe1f7f7fe2",
+      "shortId": "00ZW80",
+      "name": "Newbie",
+      "role": "USER",
+      "level": 29
+    },
+    "message": "trading [Sizzle||BODY_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-11T05:31:08.655Z"
   }
 ]
