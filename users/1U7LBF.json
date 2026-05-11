@@ -1,0 +1,26 @@
+[
+  {
+    "type": 2,
+    "user": {
+      "id": "7b2fd015-022c-48d6-8e62-894fb2a4aaaa",
+      "shortId": "1U7LBF",
+      "name": "Trek",
+      "role": "USER",
+      "level": 12
+    },
+    "message": "/\"Forbidden\"",
+    "timestamp": "2026-05-11T08:41:08.794Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "7b2fd015-022c-48d6-8e62-894fb2a4aaaa",
+      "shortId": "1U7LBF",
+      "name": "Trek",
+      "role": "USER",
+      "level": 12
+    },
+    "message": "\"Forbidden\"",
+    "timestamp": "2026-05-11T08:41:14.950Z"
+  }
+]
