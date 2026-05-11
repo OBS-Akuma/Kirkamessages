@@ -1870,5 +1870,101 @@
     },
     "message": "/locate periodic",
     "timestamp": "2026-05-11T01:42:05.444Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "17c0cfc7-d435-43c1-a93a-d52e6348af58",
+      "shortId": "GV5E48",
+      "name": "#GV5E48",
+      "role": "USER",
+      "level": 97
+    },
+    "message": "trading [Periodic||CHARACTER_CARD|COMMON] 10000",
+    "timestamp": "2026-05-11T01:47:36.159Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "17c0cfc7-d435-43c1-a93a-d52e6348af58",
+      "shortId": "GV5E48",
+      "name": "#GV5E48",
+      "role": "USER",
+      "level": 97
+    },
+    "message": "i want spooder",
+    "timestamp": "2026-05-11T01:47:56.551Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "17c0cfc7-d435-43c1-a93a-d52e6348af58",
+      "shortId": "GV5E48",
+      "name": "#GV5E48",
+      "role": "USER",
+      "level": 97
+    },
+    "message": "[Spooder|Shark|WEAPON_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-11T01:47:59.272Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "17c0cfc7-d435-43c1-a93a-d52e6348af58",
+      "shortId": "GV5E48",
+      "name": "#GV5E48",
+      "role": "USER",
+      "level": 97
+    },
+    "message": "ni",
+    "timestamp": "2026-05-11T01:50:03.026Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "17c0cfc7-d435-43c1-a93a-d52e6348af58",
+      "shortId": "GV5E48",
+      "name": "#GV5E48",
+      "role": "USER",
+      "level": 97
+    },
+    "message": "nills",
+    "timestamp": "2026-05-11T01:50:06.085Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "17c0cfc7-d435-43c1-a93a-d52e6348af58",
+      "shortId": "GV5E48",
+      "name": "#GV5E48",
+      "role": "USER",
+      "level": 97
+    },
+    "message": "cosmic can i have that spooder",
+    "timestamp": "2026-05-11T01:50:25.640Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "17c0cfc7-d435-43c1-a93a-d52e6348af58",
+      "shortId": "GV5E48",
+      "name": "#GV5E48",
+      "role": "USER",
+      "level": 97
+    },
+    "message": "killerstrike",
+    "timestamp": "2026-05-11T01:50:37.039Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "17c0cfc7-d435-43c1-a93a-d52e6348af58",
+      "shortId": "GV5E48",
+      "name": "#GV5E48",
+      "role": "USER",
+      "level": 97
+    },
+    "message": "#QESXKG",
+    "timestamp": "2026-05-11T02:05:58.105Z"
   }
 ]
