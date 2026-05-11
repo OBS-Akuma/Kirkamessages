@@ -22,5 +22,17 @@
     },
     "message": "nxt      the    goat     :()",
     "timestamp": "2026-05-10T18:46:45.064Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "guest-d0e030f1-2eed-417e-a33b-a9808bbddf34",
+      "shortId": "39EPV9",
+      "name": "Riding.D*ck",
+      "role": "USER",
+      "level": 18
+    },
+    "message": "join   2vs2",
+    "timestamp": "2026-05-10T23:55:44.442Z"
   }
 ]
