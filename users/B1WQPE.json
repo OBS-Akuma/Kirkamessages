@@ -682,5 +682,41 @@
     },
     "message": "/mywger",
     "timestamp": "2026-05-11T05:20:34.057Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "2251c284-278f-47dd-a209-5c6781403741",
+      "shortId": "B1WQPE",
+      "name": "Lazy-Genius",
+      "role": "USER",
+      "level": 60
+    },
+    "message": "/confirmwager",
+    "timestamp": "2026-05-11T05:41:01.795Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "2251c284-278f-47dd-a209-5c6781403741",
+      "shortId": "B1WQPE",
+      "name": "Lazy-Genius",
+      "role": "USER",
+      "level": 60
+    },
+    "message": "ggs",
+    "timestamp": "2026-05-11T05:41:29.892Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "2251c284-278f-47dd-a209-5c6781403741",
+      "shortId": "B1WQPE",
+      "name": "Lazy-Genius",
+      "role": "USER",
+      "level": 60
+    },
+    "message": "/claim",
+    "timestamp": "2026-05-11T05:41:32.386Z"
   }
 ]
