@@ -4594,5 +4594,17 @@
     },
     "message": "trading [Ghillie||BODY_SKIN|MYTHICAL][Cinder||BODY_SKIN|MYTHICAL][Xx||BODY_SKIN|MYTHICAL][Shroud||BODY_SKIN|MYTHICAL][Moon||BODY_SKIN|LEGENDARY][Vine||BODY_SKIN|LEGENDARY]",
     "timestamp": "2026-05-09T05:37:07.991Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "a93a6c05-0354-4898-b468-d0ac3266e380",
+      "shortId": "WORKJK",
+      "name": "Ghost",
+      "role": "USER",
+      "level": 70
+    },
+    "message": "/hm pulse",
+    "timestamp": "2026-05-11T02:13:31.876Z"
   }
 ]
