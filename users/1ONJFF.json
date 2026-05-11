@@ -82,5 +82,41 @@
     },
     "message": "cosmos",
     "timestamp": "2026-05-09T17:01:08.075Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "273f4b3e-557a-4d6f-b346-ea9534e6c283",
+      "shortId": "1ONJFF",
+      "name": "_VSG_",
+      "role": "USER",
+      "level": 39
+    },
+    "message": "/hm rainbow",
+    "timestamp": "2026-05-11T07:25:00.621Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "273f4b3e-557a-4d6f-b346-ea9534e6c283",
+      "shortId": "1ONJFF",
+      "name": "_VSG_",
+      "role": "USER",
+      "level": 39
+    },
+    "message": "/hm bok",
+    "timestamp": "2026-05-11T07:27:11.324Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "273f4b3e-557a-4d6f-b346-ea9534e6c283",
+      "shortId": "1ONJFF",
+      "name": "_VSG_",
+      "role": "USER",
+      "level": 39
+    },
+    "message": "/hm [Abyss||BODY_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-11T07:28:45.230Z"
   }
 ]
