@@ -1416,5 +1416,29 @@
     },
     "message": "no",
     "timestamp": "2026-05-11T08:56:00.789Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "b3e46a65-3682-40c5-8a7b-b4af725fa333",
+      "shortId": "DUHAST",
+      "name": "Rammstein",
+      "role": "USER",
+      "level": 80
+    },
+    "message": "#6RY8UN offer for [Marage||BODY_SKIN|MYTHICAL] ?",
+    "timestamp": "2026-05-11T10:06:13.287Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "b3e46a65-3682-40c5-8a7b-b4af725fa333",
+      "shortId": "DUHAST",
+      "name": "Rammstein",
+      "role": "USER",
+      "level": 80
+    },
+    "message": "ok",
+    "timestamp": "2026-05-11T10:06:23.241Z"
   }
 ]
