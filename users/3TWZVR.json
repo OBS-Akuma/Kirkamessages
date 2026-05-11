@@ -970,5 +970,17 @@
     },
     "message": "/price xed",
     "timestamp": "2026-05-11T01:36:34.499Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "d34c86c9-1e20-4c0b-adbe-792a4a4898a0",
+      "shortId": "3TWZVR",
+      "name": "Skully_EZ",
+      "role": "USER",
+      "level": 86
+    },
+    "message": "ANYONE WANNA WAGER 6000 GOLDENNNN",
+    "timestamp": "2026-05-11T01:42:38.237Z"
   }
 ]
