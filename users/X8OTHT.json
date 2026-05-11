@@ -1,0 +1,26 @@
+[
+  {
+    "type": 2,
+    "user": {
+      "id": "cc46ec24-ba97-40fc-830b-6b433c6dad14",
+      "shortId": "X8OTHT",
+      "name": "dr3wal",
+      "role": "USER",
+      "level": 99
+    },
+    "message": "trading [Mushroom||BODY_SKIN|MYTHICAL],[Bubblepop|Bayonet|WEAPON_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-10T23:57:46.851Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "cc46ec24-ba97-40fc-830b-6b433c6dad14",
+      "shortId": "X8OTHT",
+      "name": "dr3wal",
+      "role": "USER",
+      "level": 99
+    },
+    "message": "sens check dc",
+    "timestamp": "2026-05-11T00:06:25.034Z"
+  }
+]
