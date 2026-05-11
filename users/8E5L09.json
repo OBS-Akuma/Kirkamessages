@@ -202,5 +202,17 @@
     },
     "message": "wager 200 Dr",
     "timestamp": "2026-05-11T09:41:10.070Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "7RhnanD1ASQCRfuQ29X4teQtNSv1",
+      "shortId": "8E5L09",
+      "name": "Master.",
+      "role": "USER",
+      "level": 80
+    },
+    "message": "ss",
+    "timestamp": "2026-05-11T09:49:45.252Z"
   }
 ]
