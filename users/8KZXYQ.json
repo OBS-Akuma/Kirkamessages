@@ -10,5 +10,29 @@
     },
     "message": "#ZYXLZW",
     "timestamp": "2026-05-11T02:38:47.285Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "1ac62ef7-a4f9-47ae-896d-b43709d676db",
+      "shortId": "8KZXYQ",
+      "name": "aimlock",
+      "role": "USER",
+      "level": 10
+    },
+    "message": "[Melon||BODY_SKIN|LEGENDARY]",
+    "timestamp": "2026-05-11T02:58:07.714Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "1ac62ef7-a4f9-47ae-896d-b43709d676db",
+      "shortId": "8KZXYQ",
+      "name": "aimlock",
+      "role": "USER",
+      "level": 10
+    },
+    "message": "[Moon||BODY_SKIN|LEGENDARY]",
+    "timestamp": "2026-05-11T03:00:31.258Z"
   }
 ]
