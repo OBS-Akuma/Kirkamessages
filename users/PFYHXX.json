@@ -1,0 +1,38 @@
+[
+  {
+    "type": 2,
+    "user": {
+      "id": "04041873-a778-4136-a122-5eed92db1cf7",
+      "shortId": "PFYHXX",
+      "name": "Level_87",
+      "role": "USER",
+      "level": 5
+    },
+    "message": "how can i trade  more golden",
+    "timestamp": "2026-05-11T10:35:20.725Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "04041873-a778-4136-a122-5eed92db1cf7",
+      "shortId": "PFYHXX",
+      "name": "Level_87",
+      "role": "USER",
+      "level": 5
+    },
+    "message": "/confirwager",
+    "timestamp": "2026-05-11T10:35:32.668Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "04041873-a778-4136-a122-5eed92db1cf7",
+      "shortId": "PFYHXX",
+      "name": "Level_87",
+      "role": "USER",
+      "level": 5
+    },
+    "message": "/claim",
+    "timestamp": "2026-05-11T10:36:05.131Z"
+  }
+]
