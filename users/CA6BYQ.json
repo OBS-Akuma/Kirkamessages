@@ -562,5 +562,29 @@
     },
     "message": "/vt 87163",
     "timestamp": "2026-05-12T12:04:03.582Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "b5f57409-092b-454d-87fa-3e149c32d5e0",
+      "shortId": "CA6BYQ",
+      "name": "Wizzy",
+      "role": "USER",
+      "level": 10
+    },
+    "message": "tr[Golden||CHEST|LEGENDARY]x2450",
+    "timestamp": "2026-05-12T12:31:45.022Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "b5f57409-092b-454d-87fa-3e149c32d5e0",
+      "shortId": "CA6BYQ",
+      "name": "Wizzy",
+      "role": "USER",
+      "level": 10
+    },
+    "message": "wager[Golden||CHEST|LEGENDARY]x100",
+    "timestamp": "2026-05-12T12:57:05.019Z"
   }
 ]
