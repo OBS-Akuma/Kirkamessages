@@ -286,5 +286,17 @@
     },
     "message": "daddy have [Redwitch||BODY_SKIN|EPIC]?",
     "timestamp": "2026-05-08T20:25:59.722Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "c9fd8b88-ed1a-4963-91ce-cb2855d549a0",
+      "shortId": "LIIPGZ",
+      "name": "-Mal0-",
+      "role": "USER",
+      "level": 99
+    },
+    "message": "/inv",
+    "timestamp": "2026-05-12T12:31:14.682Z"
   }
 ]
