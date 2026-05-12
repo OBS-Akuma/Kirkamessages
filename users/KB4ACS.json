@@ -1,0 +1,50 @@
+[
+  {
+    "type": 2,
+    "user": {
+      "id": "00075e3f-5925-4f88-8158-1d35121ed138",
+      "shortId": "KB4ACS",
+      "name": "Fabin",
+      "role": "USER",
+      "level": 100
+    },
+    "message": "#TATTOO",
+    "timestamp": "2026-05-12T13:27:25.817Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "00075e3f-5925-4f88-8158-1d35121ed138",
+      "shortId": "KB4ACS",
+      "name": "Fabin",
+      "role": "USER",
+      "level": 100
+    },
+    "message": "[Fanny||BODY_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-12T14:52:58.720Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "00075e3f-5925-4f88-8158-1d35121ed138",
+      "shortId": "KB4ACS",
+      "name": "Fabin",
+      "role": "USER",
+      "level": 100
+    },
+    "message": "/price [Fanny||BODY_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-12T14:54:04.555Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "00075e3f-5925-4f88-8158-1d35121ed138",
+      "shortId": "KB4ACS",
+      "name": "Fabin",
+      "role": "USER",
+      "level": 100
+    },
+    "message": "[Fanny||BODY_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-12T14:56:47.356Z"
+  }
+]
