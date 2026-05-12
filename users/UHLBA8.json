@@ -58,5 +58,17 @@
     },
     "message": "/hm ice breaker",
     "timestamp": "2026-05-12T10:08:48.339Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "35533f11-ae64-49b9-9018-1ea16cb207cf",
+      "shortId": "UHLBA8",
+      "name": "ProtoType!",
+      "role": "USER",
+      "level": 88
+    },
+    "message": "/hm sensei",
+    "timestamp": "2026-05-12T15:54:42.205Z"
   }
 ]
