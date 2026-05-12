@@ -1,0 +1,26 @@
+[
+  {
+    "type": 2,
+    "user": {
+      "id": "guest-7b94c337-0adf-44c1-be27-b48445a3c60c",
+      "shortId": "ZB71HD",
+      "name": "Phoenix",
+      "role": "USER",
+      "level": 8
+    },
+    "message": "trading [Koi|Bayonet|WEAPON_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-12T00:51:08.587Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "guest-7b94c337-0adf-44c1-be27-b48445a3c60c",
+      "shortId": "ZB71HD",
+      "name": "Phoenix",
+      "role": "USER",
+      "level": 8
+    },
+    "message": "trading [Koi|Bayonet|WEAPON_SKIN|MYTHICAL] for [RGB||BODY_SKIN|LEGENDARY]",
+    "timestamp": "2026-05-12T00:52:24.628Z"
+  }
+]
