@@ -3022,5 +3022,281 @@
     },
     "message": "/enter",
     "timestamp": "2026-05-10T16:51:10.883Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "a634f8f1-fe8c-487e-8d44-2efa53ae05de",
+      "shortId": "CBYAK3",
+      "name": "bobd",
+      "role": "USER",
+      "level": 10
+    },
+    "message": "wagering [Golden||CHEST|LEGENDARY]x100",
+    "timestamp": "2026-05-12T05:34:20.922Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "a634f8f1-fe8c-487e-8d44-2efa53ae05de",
+      "shortId": "CBYAK3",
+      "name": "bobd",
+      "role": "USER",
+      "level": 10
+    },
+    "message": "wager [Golden||CHEST|LEGENDARY]x100",
+    "timestamp": "2026-05-12T05:34:44.058Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "a634f8f1-fe8c-487e-8d44-2efa53ae05de",
+      "shortId": "CBYAK3",
+      "name": "bobd",
+      "role": "USER",
+      "level": 10
+    },
+    "message": "/confirmwager",
+    "timestamp": "2026-05-12T05:35:02.811Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "a634f8f1-fe8c-487e-8d44-2efa53ae05de",
+      "shortId": "CBYAK3",
+      "name": "bobd",
+      "role": "USER",
+      "level": 10
+    },
+    "message": "/wager [Golden||CHEST|LEGENDARY]x100 #7ZBHU4",
+    "timestamp": "2026-05-12T05:36:39.596Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "a634f8f1-fe8c-487e-8d44-2efa53ae05de",
+      "shortId": "CBYAK3",
+      "name": "bobd",
+      "role": "USER",
+      "level": 10
+    },
+    "message": "confirm",
+    "timestamp": "2026-05-12T05:36:43.938Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "a634f8f1-fe8c-487e-8d44-2efa53ae05de",
+      "shortId": "CBYAK3",
+      "name": "bobd",
+      "role": "USER",
+      "level": 10
+    },
+    "message": "/claim",
+    "timestamp": "2026-05-12T05:37:15.074Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "a634f8f1-fe8c-487e-8d44-2efa53ae05de",
+      "shortId": "CBYAK3",
+      "name": "bobd",
+      "role": "USER",
+      "level": 10
+    },
+    "message": "/wager [Golden||CHEST|LEGENDARY]x100 #7ZBHU4",
+    "timestamp": "2026-05-12T05:37:30.848Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "a634f8f1-fe8c-487e-8d44-2efa53ae05de",
+      "shortId": "CBYAK3",
+      "name": "bobd",
+      "role": "USER",
+      "level": 10
+    },
+    "message": "/wager [Aron||BODY_SKIN|LEGENDARY] #7ZBHU4",
+    "timestamp": "2026-05-12T05:38:22.970Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "a634f8f1-fe8c-487e-8d44-2efa53ae05de",
+      "shortId": "CBYAK3",
+      "name": "bobd",
+      "role": "USER",
+      "level": 10
+    },
+    "message": "confirm",
+    "timestamp": "2026-05-12T05:38:34.179Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "a634f8f1-fe8c-487e-8d44-2efa53ae05de",
+      "shortId": "CBYAK3",
+      "name": "bobd",
+      "role": "USER",
+      "level": 10
+    },
+    "message": "/hm aron",
+    "timestamp": "2026-05-12T05:39:24.504Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "a634f8f1-fe8c-487e-8d44-2efa53ae05de",
+      "shortId": "CBYAK3",
+      "name": "bobd",
+      "role": "USER",
+      "level": 10
+    },
+    "message": "/hm xenon",
+    "timestamp": "2026-05-12T05:40:07.662Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "a634f8f1-fe8c-487e-8d44-2efa53ae05de",
+      "shortId": "CBYAK3",
+      "name": "bobd",
+      "role": "USER",
+      "level": 10
+    },
+    "message": "wagering [Golden||CHEST|LEGENDARY]x100 #7ZBHU4",
+    "timestamp": "2026-05-12T05:44:28.637Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "a634f8f1-fe8c-487e-8d44-2efa53ae05de",
+      "shortId": "CBYAK3",
+      "name": "bobd",
+      "role": "USER",
+      "level": 10
+    },
+    "message": "wager [Golden||CHEST|LEGENDARY]x100",
+    "timestamp": "2026-05-12T05:45:31.796Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "a634f8f1-fe8c-487e-8d44-2efa53ae05de",
+      "shortId": "CBYAK3",
+      "name": "bobd",
+      "role": "USER",
+      "level": 10
+    },
+    "message": "/wager [Golden||CHEST|LEGENDARY]x100 #JCN9P8",
+    "timestamp": "2026-05-12T05:46:13.273Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "a634f8f1-fe8c-487e-8d44-2efa53ae05de",
+      "shortId": "CBYAK3",
+      "name": "bobd",
+      "role": "USER",
+      "level": 10
+    },
+    "message": "confirm pvp",
+    "timestamp": "2026-05-12T05:46:17.664Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "a634f8f1-fe8c-487e-8d44-2efa53ae05de",
+      "shortId": "CBYAK3",
+      "name": "bobd",
+      "role": "USER",
+      "level": 10
+    },
+    "message": "confirmwager #JCN9P8",
+    "timestamp": "2026-05-12T05:46:32.208Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "a634f8f1-fe8c-487e-8d44-2efa53ae05de",
+      "shortId": "CBYAK3",
+      "name": "bobd",
+      "role": "USER",
+      "level": 10
+    },
+    "message": "/wager [Golden||CHEST|LEGENDARY]x100 #S91J1D",
+    "timestamp": "2026-05-12T05:48:35.053Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "a634f8f1-fe8c-487e-8d44-2efa53ae05de",
+      "shortId": "CBYAK3",
+      "name": "bobd",
+      "role": "USER",
+      "level": 10
+    },
+    "message": "/cancelwager",
+    "timestamp": "2026-05-12T05:48:49.323Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "a634f8f1-fe8c-487e-8d44-2efa53ae05de",
+      "shortId": "CBYAK3",
+      "name": "bobd",
+      "role": "USER",
+      "level": 10
+    },
+    "message": "/wager [Golden||CHEST|LEGENDARY]x100 #3TWZVR",
+    "timestamp": "2026-05-12T05:48:58.961Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "a634f8f1-fe8c-487e-8d44-2efa53ae05de",
+      "shortId": "CBYAK3",
+      "name": "bobd",
+      "role": "USER",
+      "level": 10
+    },
+    "message": "/d",
+    "timestamp": "2026-05-12T05:50:09.705Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "a634f8f1-fe8c-487e-8d44-2efa53ae05de",
+      "shortId": "CBYAK3",
+      "name": "bobd",
+      "role": "USER",
+      "level": 10
+    },
+    "message": "/wager [Golden||CHEST|LEGENDARY]x100 #3TWZVR",
+    "timestamp": "2026-05-12T05:50:16.731Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "a634f8f1-fe8c-487e-8d44-2efa53ae05de",
+      "shortId": "CBYAK3",
+      "name": "bobd",
+      "role": "USER",
+      "level": 10
+    },
+    "message": "confirm",
+    "timestamp": "2026-05-12T05:50:20.500Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "a634f8f1-fe8c-487e-8d44-2efa53ae05de",
+      "shortId": "CBYAK3",
+      "name": "bobd",
+      "role": "USER",
+      "level": 10
+    },
+    "message": "/enter",
+    "timestamp": "2026-05-12T05:51:00.237Z"
   }
 ]
