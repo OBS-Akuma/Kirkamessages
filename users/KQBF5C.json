@@ -10,5 +10,41 @@
     },
     "message": "/enter",
     "timestamp": "2026-05-10T02:36:01.157Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "guest-ead9915e-39e6-45fc-88af-16937e75f459",
+      "shortId": "KQBF5C",
+      "name": "Newbie",
+      "role": "USER",
+      "level": 8
+    },
+    "message": "/",
+    "timestamp": "2026-05-12T16:40:17.929Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "guest-ead9915e-39e6-45fc-88af-16937e75f459",
+      "shortId": "KQBF5C",
+      "name": "Newbie",
+      "role": "USER",
+      "level": 8
+    },
+    "message": "/enter",
+    "timestamp": "2026-05-12T16:40:17.955Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "guest-ead9915e-39e6-45fc-88af-16937e75f459",
+      "shortId": "KQBF5C",
+      "name": "Newbie",
+      "role": "USER",
+      "level": 8
+    },
+    "message": "/",
+    "timestamp": "2026-05-12T17:33:00.029Z"
   }
 ]
