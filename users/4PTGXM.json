@@ -82,5 +82,53 @@
     },
     "message": "clouds 1v1 me",
     "timestamp": "2026-05-12T12:20:29.431Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "87c4307b-f5e3-40b3-b679-b980594644fa",
+      "shortId": "4PTGXM",
+      "name": "[qod]CFmaster",
+      "role": "USER",
+      "level": 45
+    },
+    "message": "/price [cvo1]",
+    "timestamp": "2026-05-12T12:48:33.767Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "87c4307b-f5e3-40b3-b679-b980594644fa",
+      "shortId": "4PTGXM",
+      "name": "[qod]CFmaster",
+      "role": "USER",
+      "level": 45
+    },
+    "message": "bru",
+    "timestamp": "2026-05-12T12:48:36.595Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "87c4307b-f5e3-40b3-b679-b980594644fa",
+      "shortId": "4PTGXM",
+      "name": "[qod]CFmaster",
+      "role": "USER",
+      "level": 45
+    },
+    "message": "/price [CV01|Bayonet|WEAPON_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-12T12:48:46.468Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "87c4307b-f5e3-40b3-b679-b980594644fa",
+      "shortId": "4PTGXM",
+      "name": "[qod]CFmaster",
+      "role": "USER",
+      "level": 45
+    },
+    "message": "is [CV01|Bayonet|WEAPON_SKIN|MYTHICAL] worth paying for 3m",
+    "timestamp": "2026-05-12T12:49:01.363Z"
   }
 ]
