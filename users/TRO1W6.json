@@ -1,0 +1,26 @@
+[
+  {
+    "type": 2,
+    "user": {
+      "id": "41497977-43fc-4a16-b2a6-44d991b50c8f",
+      "shortId": "TRO1W6",
+      "name": "snickers",
+      "role": "USER",
+      "level": 16
+    },
+    "message": "hey daddy",
+    "timestamp": "2026-05-12T17:48:58.875Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "41497977-43fc-4a16-b2a6-44d991b50c8f",
+      "shortId": "TRO1W6",
+      "name": "snickers",
+      "role": "USER",
+      "level": 16
+    },
+    "message": "I'll slam all u",
+    "timestamp": "2026-05-12T17:49:06.983Z"
+  }
+]
