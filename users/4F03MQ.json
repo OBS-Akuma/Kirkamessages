@@ -5134,5 +5134,29 @@
     },
     "message": "/price [Onryo||BODY_SKIN|MYTHICAL]",
     "timestamp": "2026-05-11T23:30:46.478Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "2d057859-f79e-4ba4-825b-4c368a83535c",
+      "shortId": "4F03MQ",
+      "name": "The_Re@per",
+      "role": "USER",
+      "level": 62
+    },
+    "message": "invatory/[soldier]",
+    "timestamp": "2026-05-12T18:09:43.270Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "2d057859-f79e-4ba4-825b-4c368a83535c",
+      "shortId": "4F03MQ",
+      "name": "The_Re@per",
+      "role": "USER",
+      "level": 62
+    },
+    "message": "/unlock",
+    "timestamp": "2026-05-12T18:14:21.466Z"
   }
 ]
