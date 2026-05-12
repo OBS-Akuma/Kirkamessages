@@ -622,5 +622,29 @@
     },
     "message": "[Ashley||BODY_SKIN|MYTHICAL]",
     "timestamp": "2026-05-12T11:28:12.197Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "b1beaf45-5b0f-40e2-81dc-a34f8a974395",
+      "shortId": "CARROT",
+      "name": "BMW|Tomato",
+      "role": "USER",
+      "level": 101
+    },
+    "message": ":PP",
+    "timestamp": "2026-05-12T16:27:32.127Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "b1beaf45-5b0f-40e2-81dc-a34f8a974395",
+      "shortId": "CARROT",
+      "name": "BMW|Tomato",
+      "role": "USER",
+      "level": 101
+    },
+    "message": "/inv",
+    "timestamp": "2026-05-12T16:27:35.699Z"
   }
 ]
