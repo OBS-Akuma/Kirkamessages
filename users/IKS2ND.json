@@ -1342,5 +1342,581 @@
     },
     "message": "/bolt forbidden",
     "timestamp": "2026-05-11T00:38:06.188Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "8f8504ad-4217-4a7e-86ac-9eeffb88829c",
+      "shortId": "IKS2ND",
+      "name": "El_Diablo",
+      "role": "USER",
+      "level": 78
+    },
+    "message": "/locate vivid",
+    "timestamp": "2026-05-12T00:45:12.775Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "8f8504ad-4217-4a7e-86ac-9eeffb88829c",
+      "shortId": "IKS2ND",
+      "name": "El_Diablo",
+      "role": "USER",
+      "level": 78
+    },
+    "message": "buying skins",
+    "timestamp": "2026-05-12T00:48:47.922Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "8f8504ad-4217-4a7e-86ac-9eeffb88829c",
+      "shortId": "IKS2ND",
+      "name": "El_Diablo",
+      "role": "USER",
+      "level": 78
+    },
+    "message": "#609GEM can I buy some of those?",
+    "timestamp": "2026-05-12T00:49:19.312Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "8f8504ad-4217-4a7e-86ac-9eeffb88829c",
+      "shortId": "IKS2ND",
+      "name": "El_Diablo",
+      "role": "USER",
+      "level": 78
+    },
+    "message": "/hmm vionix",
+    "timestamp": "2026-05-12T00:49:33.824Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "8f8504ad-4217-4a7e-86ac-9eeffb88829c",
+      "shortId": "IKS2ND",
+      "name": "El_Diablo",
+      "role": "USER",
+      "level": 78
+    },
+    "message": "/hm vionix",
+    "timestamp": "2026-05-12T00:49:43.059Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "8f8504ad-4217-4a7e-86ac-9eeffb88829c",
+      "shortId": "IKS2ND",
+      "name": "El_Diablo",
+      "role": "USER",
+      "level": 78
+    },
+    "message": "/hmm rgb",
+    "timestamp": "2026-05-12T00:49:57.923Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "8f8504ad-4217-4a7e-86ac-9eeffb88829c",
+      "shortId": "IKS2ND",
+      "name": "El_Diablo",
+      "role": "USER",
+      "level": 78
+    },
+    "message": "/hm rgb",
+    "timestamp": "2026-05-12T00:50:01.501Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "8f8504ad-4217-4a7e-86ac-9eeffb88829c",
+      "shortId": "IKS2ND",
+      "name": "El_Diablo",
+      "role": "USER",
+      "level": 78
+    },
+    "message": "/hm twilight",
+    "timestamp": "2026-05-12T00:50:16.262Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "8f8504ad-4217-4a7e-86ac-9eeffb88829c",
+      "shortId": "IKS2ND",
+      "name": "El_Diablo",
+      "role": "USER",
+      "level": 78
+    },
+    "message": "this is fair",
+    "timestamp": "2026-05-12T00:51:22.309Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "8f8504ad-4217-4a7e-86ac-9eeffb88829c",
+      "shortId": "IKS2ND",
+      "name": "El_Diablo",
+      "role": "USER",
+      "level": 78
+    },
+    "message": "/hm [Vionix||BODY_SKIN|MYTHICAL],[Twilight|Bayonet|WEAPON_SKIN|MYTHICAL],[RGB||BODY_SKIN|LEGENDARY]",
+    "timestamp": "2026-05-12T00:51:34.719Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "8f8504ad-4217-4a7e-86ac-9eeffb88829c",
+      "shortId": "IKS2ND",
+      "name": "El_Diablo",
+      "role": "USER",
+      "level": 78
+    },
+    "message": "#609GEM rgb black is",
+    "timestamp": "2026-05-12T00:51:48.280Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "8f8504ad-4217-4a7e-86ac-9eeffb88829c",
+      "shortId": "IKS2ND",
+      "name": "El_Diablo",
+      "role": "USER",
+      "level": 78
+    },
+    "message": "#609GEM not rgb",
+    "timestamp": "2026-05-12T00:51:54.259Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "8f8504ad-4217-4a7e-86ac-9eeffb88829c",
+      "shortId": "IKS2ND",
+      "name": "El_Diablo",
+      "role": "USER",
+      "level": 78
+    },
+    "message": "/last10 rgb",
+    "timestamp": "2026-05-12T00:52:01.385Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "8f8504ad-4217-4a7e-86ac-9eeffb88829c",
+      "shortId": "IKS2ND",
+      "name": "El_Diablo",
+      "role": "USER",
+      "level": 78
+    },
+    "message": "see",
+    "timestamp": "2026-05-12T00:52:03.823Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "8f8504ad-4217-4a7e-86ac-9eeffb88829c",
+      "shortId": "IKS2ND",
+      "name": "El_Diablo",
+      "role": "USER",
+      "level": 78
+    },
+    "message": "see venom",
+    "timestamp": "2026-05-12T00:52:51.079Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "8f8504ad-4217-4a7e-86ac-9eeffb88829c",
+      "shortId": "IKS2ND",
+      "name": "El_Diablo",
+      "role": "USER",
+      "level": 78
+    },
+    "message": "/hm shroud",
+    "timestamp": "2026-05-12T00:53:01.664Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "8f8504ad-4217-4a7e-86ac-9eeffb88829c",
+      "shortId": "IKS2ND",
+      "name": "El_Diablo",
+      "role": "USER",
+      "level": 78
+    },
+    "message": "this is fair bruh",
+    "timestamp": "2026-05-12T00:53:25.102Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "8f8504ad-4217-4a7e-86ac-9eeffb88829c",
+      "shortId": "IKS2ND",
+      "name": "El_Diablo",
+      "role": "USER",
+      "level": 78
+    },
+    "message": "#E779VY#1NDTQO its a kirka trade y'all it ain't that deep",
+    "timestamp": "2026-05-12T01:06:06.465Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "8f8504ad-4217-4a7e-86ac-9eeffb88829c",
+      "shortId": "IKS2ND",
+      "name": "El_Diablo",
+      "role": "USER",
+      "level": 78
+    },
+    "message": "workman!",
+    "timestamp": "2026-05-12T01:06:23.072Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "8f8504ad-4217-4a7e-86ac-9eeffb88829c",
+      "shortId": "IKS2ND",
+      "name": "El_Diablo",
+      "role": "USER",
+      "level": 78
+    },
+    "message": "worman!",
+    "timestamp": "2026-05-12T01:06:34.416Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "8f8504ad-4217-4a7e-86ac-9eeffb88829c",
+      "shortId": "IKS2ND",
+      "name": "El_Diablo",
+      "role": "USER",
+      "level": 78
+    },
+    "message": "who got skins I can buy?",
+    "timestamp": "2026-05-12T01:06:45.261Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "8f8504ad-4217-4a7e-86ac-9eeffb88829c",
+      "shortId": "IKS2ND",
+      "name": "El_Diablo",
+      "role": "USER",
+      "level": 78
+    },
+    "message": "#1NDTQO y'know what I'm alr",
+    "timestamp": "2026-05-12T01:08:00.709Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "8f8504ad-4217-4a7e-86ac-9eeffb88829c",
+      "shortId": "IKS2ND",
+      "name": "El_Diablo",
+      "role": "USER",
+      "level": 78
+    },
+    "message": "#1NDTQO I appreciate",
+    "timestamp": "2026-05-12T01:08:21.983Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "8f8504ad-4217-4a7e-86ac-9eeffb88829c",
+      "shortId": "IKS2ND",
+      "name": "El_Diablo",
+      "role": "USER",
+      "level": 78
+    },
+    "message": "#ONIEG3 gop gop",
+    "timestamp": "2026-05-12T01:08:53.732Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "8f8504ad-4217-4a7e-86ac-9eeffb88829c",
+      "shortId": "IKS2ND",
+      "name": "El_Diablo",
+      "role": "USER",
+      "level": 78
+    },
+    "message": "/hm bok",
+    "timestamp": "2026-05-12T01:08:59.335Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "8f8504ad-4217-4a7e-86ac-9eeffb88829c",
+      "shortId": "IKS2ND",
+      "name": "El_Diablo",
+      "role": "USER",
+      "level": 78
+    },
+    "message": "#ONIEG3 I'll buy [Bok||BODY_SKIN|MYTHICAL] from u",
+    "timestamp": "2026-05-12T01:09:09.260Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "8f8504ad-4217-4a7e-86ac-9eeffb88829c",
+      "shortId": "IKS2ND",
+      "name": "El_Diablo",
+      "role": "USER",
+      "level": 78
+    },
+    "message": "I'm ovp",
+    "timestamp": "2026-05-12T01:09:41.233Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "8f8504ad-4217-4a7e-86ac-9eeffb88829c",
+      "shortId": "IKS2ND",
+      "name": "El_Diablo",
+      "role": "USER",
+      "level": 78
+    },
+    "message": "/hm bok",
+    "timestamp": "2026-05-12T01:09:43.999Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "8f8504ad-4217-4a7e-86ac-9eeffb88829c",
+      "shortId": "IKS2ND",
+      "name": "El_Diablo",
+      "role": "USER",
+      "level": 78
+    },
+    "message": "see",
+    "timestamp": "2026-05-12T01:09:45.534Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "8f8504ad-4217-4a7e-86ac-9eeffb88829c",
+      "shortId": "IKS2ND",
+      "name": "El_Diablo",
+      "role": "USER",
+      "level": 78
+    },
+    "message": "/hm [Golden||CHEST|LEGENDARY]x550",
+    "timestamp": "2026-05-12T01:09:56.907Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "8f8504ad-4217-4a7e-86ac-9eeffb88829c",
+      "shortId": "IKS2ND",
+      "name": "El_Diablo",
+      "role": "USER",
+      "level": 78
+    },
+    "message": "see",
+    "timestamp": "2026-05-12T01:09:58.330Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "8f8504ad-4217-4a7e-86ac-9eeffb88829c",
+      "shortId": "IKS2ND",
+      "name": "El_Diablo",
+      "role": "USER",
+      "level": 78
+    },
+    "message": "/last10 bok",
+    "timestamp": "2026-05-12T01:10:07.139Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "8f8504ad-4217-4a7e-86ac-9eeffb88829c",
+      "shortId": "IKS2ND",
+      "name": "El_Diablo",
+      "role": "USER",
+      "level": 78
+    },
+    "message": "clearly not",
+    "timestamp": "2026-05-12T01:10:15.741Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "8f8504ad-4217-4a7e-86ac-9eeffb88829c",
+      "shortId": "IKS2ND",
+      "name": "El_Diablo",
+      "role": "USER",
+      "level": 78
+    },
+    "message": "last 10 trades has been 475k average",
+    "timestamp": "2026-05-12T01:10:31.922Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "8f8504ad-4217-4a7e-86ac-9eeffb88829c",
+      "shortId": "IKS2ND",
+      "name": "El_Diablo",
+      "role": "USER",
+      "level": 78
+    },
+    "message": "#ONIEG3 I'm ovp",
+    "timestamp": "2026-05-12T01:10:36.839Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "8f8504ad-4217-4a7e-86ac-9eeffb88829c",
+      "shortId": "IKS2ND",
+      "name": "El_Diablo",
+      "role": "USER",
+      "level": 78
+    },
+    "message": "#ONIEG3 ye no ur insane",
+    "timestamp": "2026-05-12T01:10:53.463Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "8f8504ad-4217-4a7e-86ac-9eeffb88829c",
+      "shortId": "IKS2ND",
+      "name": "El_Diablo",
+      "role": "USER",
+      "level": 78
+    },
+    "message": "#1NDTQO anything else u selling?",
+    "timestamp": "2026-05-12T01:11:13.954Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "8f8504ad-4217-4a7e-86ac-9eeffb88829c",
+      "shortId": "IKS2ND",
+      "name": "El_Diablo",
+      "role": "USER",
+      "level": 78
+    },
+    "message": "#1NDTQO u selling [Turtle|Bayonet|WEAPON_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-12T01:11:30.361Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "8f8504ad-4217-4a7e-86ac-9eeffb88829c",
+      "shortId": "IKS2ND",
+      "name": "El_Diablo",
+      "role": "USER",
+      "level": 78
+    },
+    "message": "?",
+    "timestamp": "2026-05-12T01:11:32.406Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "8f8504ad-4217-4a7e-86ac-9eeffb88829c",
+      "shortId": "IKS2ND",
+      "name": "El_Diablo",
+      "role": "USER",
+      "level": 78
+    },
+    "message": "#ZF9CFU [2026 Bayonet|Bayonet|WEAPON_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-12T01:11:45.541Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "8f8504ad-4217-4a7e-86ac-9eeffb88829c",
+      "shortId": "IKS2ND",
+      "name": "El_Diablo",
+      "role": "USER",
+      "level": 78
+    },
+    "message": "#Z97DD0 pls I want to buy ur stuff",
+    "timestamp": "2026-05-12T01:13:01.082Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "8f8504ad-4217-4a7e-86ac-9eeffb88829c",
+      "shortId": "IKS2ND",
+      "name": "El_Diablo",
+      "role": "USER",
+      "level": 78
+    },
+    "message": "#Z97DD0 I buy bot price",
+    "timestamp": "2026-05-12T01:13:27.077Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "8f8504ad-4217-4a7e-86ac-9eeffb88829c",
+      "shortId": "IKS2ND",
+      "name": "El_Diablo",
+      "role": "USER",
+      "level": 78
+    },
+    "message": "/hm alightedx8",
+    "timestamp": "2026-05-12T01:13:39.821Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "8f8504ad-4217-4a7e-86ac-9eeffb88829c",
+      "shortId": "IKS2ND",
+      "name": "El_Diablo",
+      "role": "USER",
+      "level": 78
+    },
+    "message": "/hm [Alighted|Bayonet|WEAPON_SKIN|MYTHICAL]x7",
+    "timestamp": "2026-05-12T01:14:00.510Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "8f8504ad-4217-4a7e-86ac-9eeffb88829c",
+      "shortId": "IKS2ND",
+      "name": "El_Diablo",
+      "role": "USER",
+      "level": 78
+    },
+    "message": "/hm turtle",
+    "timestamp": "2026-05-12T01:14:58.342Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "8f8504ad-4217-4a7e-86ac-9eeffb88829c",
+      "shortId": "IKS2ND",
+      "name": "El_Diablo",
+      "role": "USER",
+      "level": 78
+    },
+    "message": "/credits bok",
+    "timestamp": "2026-05-12T01:16:40.851Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "8f8504ad-4217-4a7e-86ac-9eeffb88829c",
+      "shortId": "IKS2ND",
+      "name": "El_Diablo",
+      "role": "USER",
+      "level": 78
+    },
+    "message": "damn",
+    "timestamp": "2026-05-12T01:17:21.241Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "8f8504ad-4217-4a7e-86ac-9eeffb88829c",
+      "shortId": "IKS2ND",
+      "name": "El_Diablo",
+      "role": "USER",
+      "level": 78
+    },
+    "message": "#HUB956 ine was more too XD",
+    "timestamp": "2026-05-12T01:17:32.636Z"
   }
 ]
