@@ -1,0 +1,26 @@
+[
+  {
+    "type": 2,
+    "user": {
+      "id": "guest-1865fe25-2ee5-4c7b-81f4-50834a5dd1ab",
+      "shortId": "AW3SUM",
+      "name": "HAKER_JLA_971",
+      "role": "USER",
+      "level": 15
+    },
+    "message": "i want to gite girefrind",
+    "timestamp": "2026-05-12T07:13:38.139Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "guest-1865fe25-2ee5-4c7b-81f4-50834a5dd1ab",
+      "shortId": "AW3SUM",
+      "name": "HAKER_JLA_971",
+      "role": "USER",
+      "level": 15
+    },
+    "message": "how kane be girefrind",
+    "timestamp": "2026-05-12T07:14:17.999Z"
+  }
+]
