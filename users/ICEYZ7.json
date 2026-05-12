@@ -118,5 +118,149 @@
     },
     "message": "OFFER",
     "timestamp": "2026-05-12T17:23:15.649Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "fef6574f-70b3-41c5-bf77-6c0e1b5f9638",
+      "shortId": "ICEYZ7",
+      "name": "MANGUY",
+      "role": "USER",
+      "level": 74
+    },
+    "message": "tradeing [Oblivion|SCAR|WEAPON_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-12T21:46:37.365Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "fef6574f-70b3-41c5-bf77-6c0e1b5f9638",
+      "shortId": "ICEYZ7",
+      "name": "MANGUY",
+      "role": "USER",
+      "level": 74
+    },
+    "message": "[Paypay||BODY_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-12T21:46:48.896Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "fef6574f-70b3-41c5-bf77-6c0e1b5f9638",
+      "shortId": "ICEYZ7",
+      "name": "MANGUY",
+      "role": "USER",
+      "level": 74
+    },
+    "message": "yes",
+    "timestamp": "2026-05-12T21:46:59.470Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "fef6574f-70b3-41c5-bf77-6c0e1b5f9638",
+      "shortId": "ICEYZ7",
+      "name": "MANGUY",
+      "role": "USER",
+      "level": 74
+    },
+    "message": "offer",
+    "timestamp": "2026-05-12T21:47:22.369Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "fef6574f-70b3-41c5-bf77-6c0e1b5f9638",
+      "shortId": "ICEYZ7",
+      "name": "MANGUY",
+      "role": "USER",
+      "level": 74
+    },
+    "message": "idk",
+    "timestamp": "2026-05-12T21:48:06.707Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "fef6574f-70b3-41c5-bf77-6c0e1b5f9638",
+      "shortId": "ICEYZ7",
+      "name": "MANGUY",
+      "role": "USER",
+      "level": 74
+    },
+    "message": "u can just offer",
+    "timestamp": "2026-05-12T21:48:12.810Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "fef6574f-70b3-41c5-bf77-6c0e1b5f9638",
+      "shortId": "ICEYZ7",
+      "name": "MANGUY",
+      "role": "USER",
+      "level": 74
+    },
+    "message": "/last10 [Dipolar||BODY_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-12T21:48:32.976Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "fef6574f-70b3-41c5-bf77-6c0e1b5f9638",
+      "shortId": "ICEYZ7",
+      "name": "MANGUY",
+      "role": "USER",
+      "level": 74
+    },
+    "message": "idw chests",
+    "timestamp": "2026-05-12T21:48:50.461Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "fef6574f-70b3-41c5-bf77-6c0e1b5f9638",
+      "shortId": "ICEYZ7",
+      "name": "MANGUY",
+      "role": "USER",
+      "level": 74
+    },
+    "message": "#IKS2ND offer [Oblivion|SCAR|WEAPON_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-12T21:49:32.158Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "fef6574f-70b3-41c5-bf77-6c0e1b5f9638",
+      "shortId": "ICEYZ7",
+      "name": "MANGUY",
+      "role": "USER",
+      "level": 74
+    },
+    "message": "oh",
+    "timestamp": "2026-05-12T21:49:53.095Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "fef6574f-70b3-41c5-bf77-6c0e1b5f9638",
+      "shortId": "ICEYZ7",
+      "name": "MANGUY",
+      "role": "USER",
+      "level": 74
+    },
+    "message": "/hm [Eve||BODY_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-12T21:52:01.541Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "fef6574f-70b3-41c5-bf77-6c0e1b5f9638",
+      "shortId": "ICEYZ7",
+      "name": "MANGUY",
+      "role": "USER",
+      "level": 74
+    },
+    "message": "/tarde cancel",
+    "timestamp": "2026-05-12T21:53:23.422Z"
   }
 ]
