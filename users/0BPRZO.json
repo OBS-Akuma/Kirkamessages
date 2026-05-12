@@ -3634,5 +3634,41 @@
     },
     "message": "any has [Lord||BODY_SKIN|MYTHICAL]",
     "timestamp": "2026-05-12T06:08:35.313Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "aC4eJ9XToJg3hfiixxui6Cv8ymy2",
+      "shortId": "0BPRZO",
+      "name": "Abyss",
+      "role": "USER",
+      "level": 48
+    },
+    "message": "[Slime||BODY_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-12T06:51:29.512Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "aC4eJ9XToJg3hfiixxui6Cv8ymy2",
+      "shortId": "0BPRZO",
+      "name": "Abyss",
+      "role": "USER",
+      "level": 48
+    },
+    "message": "ggs",
+    "timestamp": "2026-05-12T06:55:45.720Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "aC4eJ9XToJg3hfiixxui6Cv8ymy2",
+      "shortId": "0BPRZO",
+      "name": "Abyss",
+      "role": "USER",
+      "level": 48
+    },
+    "message": "/price [Thriller||BODY_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-12T06:56:20.243Z"
   }
 ]
