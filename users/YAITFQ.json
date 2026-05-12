@@ -1,0 +1,38 @@
+[
+  {
+    "type": 2,
+    "user": {
+      "id": "d533d4ca-4213-4968-a557-52c47ccab969",
+      "shortId": "YAITFQ",
+      "name": "sehzz",
+      "role": "USER",
+      "level": 46
+    },
+    "message": "/claim",
+    "timestamp": "2026-05-12T17:38:43.292Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "d533d4ca-4213-4968-a557-52c47ccab969",
+      "shortId": "YAITFQ",
+      "name": "sehzz",
+      "role": "USER",
+      "level": 46
+    },
+    "message": "/confirmwager",
+    "timestamp": "2026-05-12T17:40:50.228Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "d533d4ca-4213-4968-a557-52c47ccab969",
+      "shortId": "YAITFQ",
+      "name": "sehzz",
+      "role": "USER",
+      "level": 46
+    },
+    "message": "t",
+    "timestamp": "2026-05-12T17:43:12.634Z"
+  }
+]
