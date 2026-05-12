@@ -1,0 +1,38 @@
+[
+  {
+    "type": 2,
+    "user": {
+      "id": "a956bd0b-b06e-42c1-999f-8d05fa7af85d",
+      "shortId": "X1PTJH",
+      "name": "Polunichka",
+      "role": "USER",
+      "level": 96
+    },
+    "message": "/price [Melody||BODY_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-12T14:04:19.243Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "a956bd0b-b06e-42c1-999f-8d05fa7af85d",
+      "shortId": "X1PTJH",
+      "name": "Polunichka",
+      "role": "USER",
+      "level": 96
+    },
+    "message": "/inv Polunichka",
+    "timestamp": "2026-05-12T14:04:43.037Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "a956bd0b-b06e-42c1-999f-8d05fa7af85d",
+      "shortId": "X1PTJH",
+      "name": "Polunichka",
+      "role": "USER",
+      "level": 96
+    },
+    "message": "/inv #X1PTJH",
+    "timestamp": "2026-05-12T14:04:57.140Z"
+  }
+]
