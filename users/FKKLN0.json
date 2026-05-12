@@ -358,5 +358,17 @@
     },
     "message": "???",
     "timestamp": "2026-05-11T09:33:57.062Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "5cfd9516-919e-4613-bc5d-f8296b9a05ff",
+      "shortId": "FKKLN0",
+      "name": "Evilghoul",
+      "role": "USER",
+      "level": 59
+    },
+    "message": "/price [veiled",
+    "timestamp": "2026-05-12T16:57:18.293Z"
   }
 ]
