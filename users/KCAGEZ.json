@@ -850,5 +850,17 @@
     },
     "message": "bye guys",
     "timestamp": "2026-05-08T07:41:57.167Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "L1pXyZKhoVQwGvtNQKFagYc3aSx1",
+      "shortId": "KCAGEZ",
+      "name": "KCAGEZ#3K5JD8",
+      "role": "USER",
+      "level": 16
+    },
+    "message": "#BETTER",
+    "timestamp": "2026-05-12T06:49:14.654Z"
   }
 ]
