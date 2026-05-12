@@ -1222,5 +1222,89 @@
     },
     "message": "/enter",
     "timestamp": "2026-05-12T03:01:37.539Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "iDzsd49yqFTGnXi6Sv4GrC2ntX13",
+      "shortId": "H61ZLH",
+      "name": "Chuck",
+      "role": "USER",
+      "level": 90
+    },
+    "message": "wagering 400 golden'",
+    "timestamp": "2026-05-12T07:07:21.707Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "iDzsd49yqFTGnXi6Sv4GrC2ntX13",
+      "shortId": "H61ZLH",
+      "name": "Chuck",
+      "role": "USER",
+      "level": 90
+    },
+    "message": "k",
+    "timestamp": "2026-05-12T07:07:31.947Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "iDzsd49yqFTGnXi6Sv4GrC2ntX13",
+      "shortId": "H61ZLH",
+      "name": "Chuck",
+      "role": "USER",
+      "level": 90
+    },
+    "message": "make u mean?",
+    "timestamp": "2026-05-12T07:07:35.033Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "iDzsd49yqFTGnXi6Sv4GrC2ntX13",
+      "shortId": "H61ZLH",
+      "name": "Chuck",
+      "role": "USER",
+      "level": 90
+    },
+    "message": "/wager [Golden||CHEST|LEGENDARY]x400 #HUB956",
+    "timestamp": "2026-05-12T07:08:16.228Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "iDzsd49yqFTGnXi6Sv4GrC2ntX13",
+      "shortId": "H61ZLH",
+      "name": "Chuck",
+      "role": "USER",
+      "level": 90
+    },
+    "message": "gg",
+    "timestamp": "2026-05-12T07:08:48.670Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "iDzsd49yqFTGnXi6Sv4GrC2ntX13",
+      "shortId": "H61ZLH",
+      "name": "Chuck",
+      "role": "USER",
+      "level": 90
+    },
+    "message": "/claim",
+    "timestamp": "2026-05-12T07:08:50.292Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "iDzsd49yqFTGnXi6Sv4GrC2ntX13",
+      "shortId": "H61ZLH",
+      "name": "Chuck",
+      "role": "USER",
+      "level": 90
+    },
+    "message": "fah",
+    "timestamp": "2026-05-12T07:09:47.628Z"
   }
 ]
