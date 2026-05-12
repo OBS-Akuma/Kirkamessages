@@ -2770,5 +2770,17 @@
     },
     "message": "lf godzilla, megalodon",
     "timestamp": "2026-05-11T23:13:22.024Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "99cc3bc0-e1e3-48ee-815b-9bfe1f7f7fe2",
+      "shortId": "00ZW80",
+      "name": "Newbie",
+      "role": "USER",
+      "level": 29
+    },
+    "message": "LF MEGALODON, GODZILLA",
+    "timestamp": "2026-05-11T23:18:27.655Z"
   }
 ]
