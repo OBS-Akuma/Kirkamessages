@@ -106,5 +106,29 @@
     },
     "message": "/inv #DI3JN1",
     "timestamp": "2026-05-10T19:28:26.783Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "KBr6kTsgN7bxaYXwr5TPq8KRt9S2",
+      "shortId": "WSJAFP",
+      "name": "KIllER_GOD",
+      "role": "USER",
+      "level": 93
+    },
+    "message": "/inv",
+    "timestamp": "2026-05-12T17:33:09.488Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "KBr6kTsgN7bxaYXwr5TPq8KRt9S2",
+      "shortId": "WSJAFP",
+      "name": "KIllER_GOD",
+      "role": "USER",
+      "level": 93
+    },
+    "message": "/last10 [Rar|LAR|WEAPON_SKIN|LEGENDARY]",
+    "timestamp": "2026-05-12T19:37:25.517Z"
   }
 ]
