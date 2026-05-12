@@ -1,0 +1,50 @@
+[
+  {
+    "type": 2,
+    "user": {
+      "id": "efb12b69-f074-49d0-aedd-3156d6d1121a",
+      "shortId": "4HQBYF",
+      "name": "[MOB]Z900-ERNO",
+      "role": "USER",
+      "level": 80
+    },
+    "message": "#W7QC9C",
+    "timestamp": "2026-05-12T04:56:30.829Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "efb12b69-f074-49d0-aedd-3156d6d1121a",
+      "shortId": "4HQBYF",
+      "name": "[MOB]Z900-ERNO",
+      "role": "USER",
+      "level": 80
+    },
+    "message": "/inv",
+    "timestamp": "2026-05-12T05:03:49.896Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "efb12b69-f074-49d0-aedd-3156d6d1121a",
+      "shortId": "4HQBYF",
+      "name": "[MOB]Z900-ERNO",
+      "role": "USER",
+      "level": 80
+    },
+    "message": "Who have [Demon|SCAR|WEAPON_SKIN|LEGENDARY]",
+    "timestamp": "2026-05-12T05:05:41.452Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "efb12b69-f074-49d0-aedd-3156d6d1121a",
+      "shortId": "4HQBYF",
+      "name": "[MOB]Z900-ERNO",
+      "role": "USER",
+      "level": 80
+    },
+    "message": "/hm rabbit",
+    "timestamp": "2026-05-12T05:06:56.595Z"
+  }
+]
