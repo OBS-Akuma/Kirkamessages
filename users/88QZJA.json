@@ -214,5 +214,29 @@
     },
     "message": "trading [Astronova|LAR|WEAPON_SKIN|MYTHICAL],[Dragon Shark|Shark|WEAPON_SKIN|MYTHICAL] for [Golden||CHEST|LEGENDARY]s",
     "timestamp": "2026-05-12T21:00:08.425Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "bd4bb0fe-3d6c-4b08-a2b3-014b768c5f2e",
+      "shortId": "88QZJA",
+      "name": "soldmysoul",
+      "role": "USER",
+      "level": 23
+    },
+    "message": "holy miss",
+    "timestamp": "2026-05-12T21:24:28.628Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "bd4bb0fe-3d6c-4b08-a2b3-014b768c5f2e",
+      "shortId": "88QZJA",
+      "name": "soldmysoul",
+      "role": "USER",
+      "level": 23
+    },
+    "message": "gg",
+    "timestamp": "2026-05-12T21:24:30.035Z"
   }
 ]
