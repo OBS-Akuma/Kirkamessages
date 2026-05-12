@@ -322,5 +322,53 @@
     },
     "message": "?",
     "timestamp": "2026-05-07T19:11:48.051Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "a85523e5-6504-4784-9376-5914fc6aa06e",
+      "shortId": "7X1DR1",
+      "name": "HANNA",
+      "role": "USER",
+      "level": 28
+    },
+    "message": "WAGERing",
+    "timestamp": "2026-05-12T13:33:33.945Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "a85523e5-6504-4784-9376-5914fc6aa06e",
+      "shortId": "7X1DR1",
+      "name": "HANNA",
+      "role": "USER",
+      "level": 28
+    },
+    "message": "/price [Sinister||BODY_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-12T13:33:57.125Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "a85523e5-6504-4784-9376-5914fc6aa06e",
+      "shortId": "7X1DR1",
+      "name": "HANNA",
+      "role": "USER",
+      "level": 28
+    },
+    "message": "WAGERING",
+    "timestamp": "2026-05-12T13:34:33.152Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "a85523e5-6504-4784-9376-5914fc6aa06e",
+      "shortId": "7X1DR1",
+      "name": "HANNA",
+      "role": "USER",
+      "level": 28
+    },
+    "message": "/mywager",
+    "timestamp": "2026-05-12T13:35:07.141Z"
   }
 ]
