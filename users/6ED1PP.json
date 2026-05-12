@@ -394,5 +394,53 @@
     },
     "message": "**looking for ** [Astral|AR-9|WEAPON_SKIN|MYTHICAL]",
     "timestamp": "2026-05-07T09:47:15.287Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "c47637f0-61d5-474a-9701-cd4093828a1c",
+      "shortId": "6ED1PP",
+      "name": "max1",
+      "role": "USER",
+      "level": 98
+    },
+    "message": "lf [Eclipse|Bayonet|WEAPON_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-12T09:25:25.753Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "c47637f0-61d5-474a-9701-cd4093828a1c",
+      "shortId": "6ED1PP",
+      "name": "max1",
+      "role": "USER",
+      "level": 98
+    },
+    "message": "looking for [Eclipse|Bayonet|WEAPON_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-12T09:27:15.992Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "c47637f0-61d5-474a-9701-cd4093828a1c",
+      "shortId": "6ED1PP",
+      "name": "max1",
+      "role": "USER",
+      "level": 98
+    },
+    "message": ".",
+    "timestamp": "2026-05-12T09:27:35.026Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "c47637f0-61d5-474a-9701-cd4093828a1c",
+      "shortId": "6ED1PP",
+      "name": "max1",
+      "role": "USER",
+      "level": 98
+    },
+    "message": "looking for [Eclipse|Bayonet|WEAPON_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-12T09:27:36.774Z"
   }
 ]
