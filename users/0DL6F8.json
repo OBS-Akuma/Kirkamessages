@@ -1498,5 +1498,101 @@
     },
     "message": "/price techno",
     "timestamp": "2026-05-12T06:05:03.441Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "d8c60953-7e39-48e3-b2ff-0df017fd1c32",
+      "shortId": "0DL6F8",
+      "name": "d3stroy3r",
+      "role": "USER",
+      "level": 39
+    },
+    "message": "/price wrap",
+    "timestamp": "2026-05-12T06:46:04.438Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "d8c60953-7e39-48e3-b2ff-0df017fd1c32",
+      "shortId": "0DL6F8",
+      "name": "d3stroy3r",
+      "role": "USER",
+      "level": 39
+    },
+    "message": "/inv #HUB956",
+    "timestamp": "2026-05-12T06:49:02.320Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "d8c60953-7e39-48e3-b2ff-0df017fd1c32",
+      "shortId": "0DL6F8",
+      "name": "d3stroy3r",
+      "role": "USER",
+      "level": 39
+    },
+    "message": "/inv #YNB2HD",
+    "timestamp": "2026-05-12T06:49:47.344Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "d8c60953-7e39-48e3-b2ff-0df017fd1c32",
+      "shortId": "0DL6F8",
+      "name": "d3stroy3r",
+      "role": "USER",
+      "level": 39
+    },
+    "message": "/inv",
+    "timestamp": "2026-05-12T06:50:19.678Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "d8c60953-7e39-48e3-b2ff-0df017fd1c32",
+      "shortId": "0DL6F8",
+      "name": "d3stroy3r",
+      "role": "USER",
+      "level": 39
+    },
+    "message": "/inv #YNB2HD",
+    "timestamp": "2026-05-12T06:53:56.028Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "d8c60953-7e39-48e3-b2ff-0df017fd1c32",
+      "shortId": "0DL6F8",
+      "name": "d3stroy3r",
+      "role": "USER",
+      "level": 39
+    },
+    "message": "/price alighted",
+    "timestamp": "2026-05-12T06:54:20.756Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "d8c60953-7e39-48e3-b2ff-0df017fd1c32",
+      "shortId": "0DL6F8",
+      "name": "d3stroy3r",
+      "role": "USER",
+      "level": 39
+    },
+    "message": "/inv",
+    "timestamp": "2026-05-12T06:54:48.202Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "d8c60953-7e39-48e3-b2ff-0df017fd1c32",
+      "shortId": "0DL6F8",
+      "name": "d3stroy3r",
+      "role": "USER",
+      "level": 39
+    },
+    "message": "LF [Quilliam|VITA|WEAPON_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-12T06:55:23.349Z"
   }
 ]
