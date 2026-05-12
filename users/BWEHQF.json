@@ -1,0 +1,38 @@
+[
+  {
+    "type": 2,
+    "user": {
+      "id": "592d793a-8d99-4da9-941c-96a1d6da54d2",
+      "shortId": "BWEHQF",
+      "name": "Pink",
+      "role": "USER",
+      "level": 17
+    },
+    "message": "trd [Melody||BODY_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-12T02:54:44.224Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "592d793a-8d99-4da9-941c-96a1d6da54d2",
+      "shortId": "BWEHQF",
+      "name": "Pink",
+      "role": "USER",
+      "level": 17
+    },
+    "message": "trade [Melody||BODY_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-12T02:55:16.262Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "592d793a-8d99-4da9-941c-96a1d6da54d2",
+      "shortId": "BWEHQF",
+      "name": "Pink",
+      "role": "USER",
+      "level": 17
+    },
+    "message": "trde [Melody||BODY_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-12T02:59:16.143Z"
+  }
+]
