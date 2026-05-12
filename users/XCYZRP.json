@@ -238,5 +238,29 @@
     },
     "message": "trading [Wicked|VITA|WEAPON_SKIN|MYTHICAL] [coctail]",
     "timestamp": "2026-05-12T12:28:19.039Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "aeaadd9b-0cde-45f8-b9ee-06b3d3f553b9",
+      "shortId": "XCYZRP",
+      "name": "Idiot",
+      "role": "USER",
+      "level": 64
+    },
+    "message": "trust good",
+    "timestamp": "2026-05-12T13:34:38.126Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "aeaadd9b-0cde-45f8-b9ee-06b3d3f553b9",
+      "shortId": "XCYZRP",
+      "name": "Idiot",
+      "role": "USER",
+      "level": 64
+    },
+    "message": "whatd u win",
+    "timestamp": "2026-05-12T13:34:43.670Z"
   }
 ]
