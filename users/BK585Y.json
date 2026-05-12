@@ -238,5 +238,17 @@
     },
     "message": "/hm VEILED",
     "timestamp": "2026-05-08T08:15:54.679Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "XoqoDZfM7PPFbsImYLmPmkVzce12",
+      "shortId": "BK585Y",
+      "name": "Imbetterthanu.",
+      "role": "USER",
+      "level": 37
+    },
+    "message": "/hm [Slasher||BODY_SKIN|PARANORMAL]",
+    "timestamp": "2026-05-12T10:48:00.766Z"
   }
 ]
