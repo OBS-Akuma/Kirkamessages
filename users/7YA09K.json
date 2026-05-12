@@ -82,5 +82,53 @@
     },
     "message": "Trading [Gamma||BODY_SKIN|MYTHICAL]",
     "timestamp": "2026-05-12T12:21:35.726Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "8477082a-af1c-49b1-9b67-b79b7e339704",
+      "shortId": "7YA09K",
+      "name": "Samta",
+      "role": "USER",
+      "level": 83
+    },
+    "message": "/hm",
+    "timestamp": "2026-05-12T13:23:08.893Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "8477082a-af1c-49b1-9b67-b79b7e339704",
+      "shortId": "7YA09K",
+      "name": "Samta",
+      "role": "USER",
+      "level": 83
+    },
+    "message": "/hm gamma",
+    "timestamp": "2026-05-12T13:23:11.372Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "8477082a-af1c-49b1-9b67-b79b7e339704",
+      "shortId": "7YA09K",
+      "name": "Samta",
+      "role": "USER",
+      "level": 83
+    },
+    "message": ".",
+    "timestamp": "2026-05-12T13:23:26.352Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "8477082a-af1c-49b1-9b67-b79b7e339704",
+      "shortId": "7YA09K",
+      "name": "Samta",
+      "role": "USER",
+      "level": 83
+    },
+    "message": "/hm gamma",
+    "timestamp": "2026-05-12T13:23:29.351Z"
   }
 ]
