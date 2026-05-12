@@ -94,5 +94,53 @@
     },
     "message": "trade offer my:pumreaper",
     "timestamp": "2026-05-11T07:42:51.235Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "15d60fb8-4a91-4f9b-986f-8164d4db8813",
+      "shortId": "BCMY32",
+      "name": "valkry",
+      "role": "USER",
+      "level": 10
+    },
+    "message": "[Ghost|VITA|WEAPON_SKIN|EPIC]",
+    "timestamp": "2026-05-12T10:22:43.872Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "15d60fb8-4a91-4f9b-986f-8164d4db8813",
+      "shortId": "BCMY32",
+      "name": "valkry",
+      "role": "USER",
+      "level": 10
+    },
+    "message": "[ghilli]",
+    "timestamp": "2026-05-12T10:23:07.746Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "15d60fb8-4a91-4f9b-986f-8164d4db8813",
+      "shortId": "BCMY32",
+      "name": "valkry",
+      "role": "USER",
+      "level": 10
+    },
+    "message": "[Ghillie||BODY_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-12T10:23:19.585Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "15d60fb8-4a91-4f9b-986f-8164d4db8813",
+      "shortId": "BCMY32",
+      "name": "valkry",
+      "role": "USER",
+      "level": 10
+    },
+    "message": "trade my [Darling|VITA|WEAPON_SKIN|LEGENDARY],[Ghost|VITA|WEAPON_SKIN|EPIC],[Doom||BODY_SKIN|LEGENDARY],[Treat||BODY_SKIN|LEGENDARY] your [Ghillie||BODY_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-12T10:24:29.607Z"
   }
 ]
