@@ -526,5 +526,41 @@
     },
     "message": "17588",
     "timestamp": "2026-05-11T05:30:49.417Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "fddeb704-c4e4-4f50-8a81-28c407f6d5da",
+      "shortId": "LYUXIM",
+      "name": "tstep",
+      "role": "USER",
+      "level": 98
+    },
+    "message": "hey yeapers, i dont own those",
+    "timestamp": "2026-05-12T05:01:37.961Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "fddeb704-c4e4-4f50-8a81-28c407f6d5da",
+      "shortId": "LYUXIM",
+      "name": "tstep",
+      "role": "USER",
+      "level": 98
+    },
+    "message": "i dont have anything for moody rn anyways lol",
+    "timestamp": "2026-05-12T05:02:28.620Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "fddeb704-c4e4-4f50-8a81-28c407f6d5da",
+      "shortId": "LYUXIM",
+      "name": "tstep",
+      "role": "USER",
+      "level": 98
+    },
+    "message": "/price tiburon",
+    "timestamp": "2026-05-12T06:08:19.054Z"
   }
 ]
