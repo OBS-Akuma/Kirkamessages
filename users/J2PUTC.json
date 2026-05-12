@@ -10,5 +10,29 @@
     },
     "message": "/help",
     "timestamp": "2026-05-07T18:57:08.854Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "fb5bdd6e-e937-4add-8a6e-5823863f4514",
+      "shortId": "J2PUTC",
+      "name": "RipTide",
+      "role": "USER",
+      "level": 47
+    },
+    "message": "guys how much [V0id||BODY_SKIN|MYTHICAL] worth",
+    "timestamp": "2026-05-12T12:57:12.610Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "fb5bdd6e-e937-4add-8a6e-5823863f4514",
+      "shortId": "J2PUTC",
+      "name": "RipTide",
+      "role": "USER",
+      "level": 47
+    },
+    "message": "/hm [Thief|VITA|WEAPON_SKIN|LEGENDARY]",
+    "timestamp": "2026-05-12T13:52:42.696Z"
   }
 ]
