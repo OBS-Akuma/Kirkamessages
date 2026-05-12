@@ -22,5 +22,17 @@
     },
     "message": "can i join a persons clan lol",
     "timestamp": "2026-05-12T05:53:55.879Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "d21b47c4-bdc1-4aaa-92f4-fa84db5596d8",
+      "shortId": "YNB2HD",
+      "name": "dinosaur",
+      "role": "USER",
+      "level": 8
+    },
+    "message": "/inv",
+    "timestamp": "2026-05-12T06:54:59.987Z"
   }
 ]
