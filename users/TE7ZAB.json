@@ -430,5 +430,89 @@
     },
     "message": "/locate [Bone|Bayonet|WEAPON_SKIN|MYTHICAL]",
     "timestamp": "2026-05-08T11:10:58.192Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "0oxYT4qF3FdotfZebjxkuTX1nLd2",
+      "shortId": "TE7ZAB",
+      "name": "GENZ(MM)",
+      "role": "USER",
+      "level": 70
+    },
+    "message": "/inv",
+    "timestamp": "2026-05-12T10:17:39.905Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "0oxYT4qF3FdotfZebjxkuTX1nLd2",
+      "shortId": "TE7ZAB",
+      "name": "GENZ(MM)",
+      "role": "USER",
+      "level": 70
+    },
+    "message": "yes sir",
+    "timestamp": "2026-05-12T10:18:23.649Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "0oxYT4qF3FdotfZebjxkuTX1nLd2",
+      "shortId": "TE7ZAB",
+      "name": "GENZ",
+      "role": "USER",
+      "level": 70
+    },
+    "message": "/inv",
+    "timestamp": "2026-05-12T10:33:39.287Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "0oxYT4qF3FdotfZebjxkuTX1nLd2",
+      "shortId": "TE7ZAB",
+      "name": "GENZ",
+      "role": "USER",
+      "level": 70
+    },
+    "message": "hy",
+    "timestamp": "2026-05-12T10:33:48.026Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "0oxYT4qF3FdotfZebjxkuTX1nLd2",
+      "shortId": "TE7ZAB",
+      "name": "GENZ",
+      "role": "USER",
+      "level": 70
+    },
+    "message": "only 1 sky",
+    "timestamp": "2026-05-12T10:34:15.754Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "0oxYT4qF3FdotfZebjxkuTX1nLd2",
+      "shortId": "TE7ZAB",
+      "name": "GENZ",
+      "role": "USER",
+      "level": 70
+    },
+    "message": "[Geode||BODY_SKIN|PARANORMAL]",
+    "timestamp": "2026-05-12T10:34:17.988Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "0oxYT4qF3FdotfZebjxkuTX1nLd2",
+      "shortId": "TE7ZAB",
+      "name": "GENZ",
+      "role": "USER",
+      "level": 70
+    },
+    "message": "/bolt [Tiburon|Bayonet|WEAPON_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-12T11:20:20.736Z"
   }
 ]
