@@ -598,5 +598,41 @@
     },
     "message": "Dg [Wolfy||BODY_SKIN|MYTHICAL] [Gentleman||BODY_SKIN|MYTHICAL][Gardener|Bayonet|WEAPON_SKIN|MYTHICAL]",
     "timestamp": "2026-05-11T06:44:21.995Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "849b68b6-84ec-47c9-a14e-ccf0aa3cfc1e",
+      "shortId": "GXJ1VE",
+      "name": "ASTA",
+      "role": "USER",
+      "level": 96
+    },
+    "message": "Wager 2500[Golden||CHEST|LEGENDARY]",
+    "timestamp": "2026-05-11T09:52:43.590Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "849b68b6-84ec-47c9-a14e-ccf0aa3cfc1e",
+      "shortId": "GXJ1VE",
+      "name": "ASTA",
+      "role": "USER",
+      "level": 96
+    },
+    "message": "/confirmwager",
+    "timestamp": "2026-05-11T09:53:14.269Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "849b68b6-84ec-47c9-a14e-ccf0aa3cfc1e",
+      "shortId": "GXJ1VE",
+      "name": "ASTA",
+      "role": "USER",
+      "level": 96
+    },
+    "message": "Ggs",
+    "timestamp": "2026-05-11T09:54:12.763Z"
   }
 ]
