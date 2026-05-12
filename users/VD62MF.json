@@ -10,5 +10,29 @@
     },
     "message": "[Mabel||BODY_SKIN|MYTHICAL]",
     "timestamp": "2026-05-07T20:47:21.852Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "89b2ea2b-42c8-43a1-b469-34cbe187e0f9",
+      "shortId": "VD62MF",
+      "name": "qVp_ato",
+      "role": "USER",
+      "level": 83
+    },
+    "message": "/price [Splanch|VITA|WEAPON_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-12T04:51:21.411Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "89b2ea2b-42c8-43a1-b469-34cbe187e0f9",
+      "shortId": "VD62MF",
+      "name": "qVp_ato",
+      "role": "USER",
+      "level": 83
+    },
+    "message": "/locate splanch",
+    "timestamp": "2026-05-12T04:51:42.156Z"
   }
 ]
