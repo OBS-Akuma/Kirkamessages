@@ -1,0 +1,38 @@
+[
+  {
+    "type": 2,
+    "user": {
+      "id": "70ea75c2-259b-428e-a693-e5b48ddccaae",
+      "shortId": "4UPM84",
+      "name": "DEAD",
+      "role": "USER",
+      "level": 13
+    },
+    "message": "helo",
+    "timestamp": "2026-05-12T13:35:55.778Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "70ea75c2-259b-428e-a693-e5b48ddccaae",
+      "shortId": "4UPM84",
+      "name": "DEAD",
+      "role": "USER",
+      "level": 13
+    },
+    "message": "WAGER [Forbidden|AR-9|WEAPON_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-12T13:36:11.343Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "70ea75c2-259b-428e-a693-e5b48ddccaae",
+      "shortId": "4UPM84",
+      "name": "DEAD",
+      "role": "USER",
+      "level": 13
+    },
+    "message": "WAGER [Forbidden|AR-9|WEAPON_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-12T13:36:21.976Z"
+  }
+]
