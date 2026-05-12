@@ -598,5 +598,53 @@
     },
     "message": "i ment",
     "timestamp": "2026-05-12T20:15:53.500Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "b2e353bf-f255-443b-9b04-2faed1462ac4",
+      "shortId": "2HVDU9",
+      "name": "SNIPEER_BULLET",
+      "role": "USER",
+      "level": 8
+    },
+    "message": "4704",
+    "timestamp": "2026-05-12T20:16:35.019Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "b2e353bf-f255-443b-9b04-2faed1462ac4",
+      "shortId": "2HVDU9",
+      "name": "SNIPEER_BULLET",
+      "role": "USER",
+      "level": 8
+    },
+    "message": "wait diab",
+    "timestamp": "2026-05-12T20:16:40.878Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "b2e353bf-f255-443b-9b04-2faed1462ac4",
+      "shortId": "2HVDU9",
+      "name": "SNIPEER_BULLET",
+      "role": "USER",
+      "level": 8
+    },
+    "message": "do the traid again",
+    "timestamp": "2026-05-12T20:16:48.847Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "b2e353bf-f255-443b-9b04-2faed1462ac4",
+      "shortId": "2HVDU9",
+      "name": "SNIPEER_BULLET",
+      "role": "USER",
+      "level": 8
+    },
+    "message": "kk",
+    "timestamp": "2026-05-12T20:16:56.341Z"
   }
 ]
