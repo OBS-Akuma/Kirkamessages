@@ -70,5 +70,17 @@
     },
     "message": "/trdae cancel",
     "timestamp": "2026-05-10T18:36:02.719Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "712620e0-f974-4caf-b796-58ffab0296a9",
+      "shortId": "CR8K11",
+      "name": "!Aura-_-Xca7z!",
+      "role": "USER",
+      "level": 97
+    },
+    "message": "/enter",
+    "timestamp": "2026-05-12T16:53:58.738Z"
   }
 ]
