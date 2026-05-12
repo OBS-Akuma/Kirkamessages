@@ -46,5 +46,17 @@
     },
     "message": "can i plzz have [golme]",
     "timestamp": "2026-05-07T22:24:58.528Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "848f1b0a-e17e-46fa-8bbe-9b66340dedfd",
+      "shortId": "2FT4AH",
+      "name": "Hunterjimmy",
+      "role": "USER",
+      "level": 45
+    },
+    "message": "[LOL||BODY_SKIN|EPIC]",
+    "timestamp": "2026-05-12T19:32:36.984Z"
   }
 ]
