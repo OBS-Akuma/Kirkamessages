@@ -466,5 +466,17 @@
     },
     "message": "/locate chromium",
     "timestamp": "2026-05-11T08:54:55.482Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "9d42e1d0-cf39-40bd-91c2-7b85e8b36233",
+      "shortId": "S2WVOK",
+      "name": "Hisoka",
+      "role": "USER",
+      "level": 95
+    },
+    "message": "/enter",
+    "timestamp": "2026-05-12T02:25:43.320Z"
   }
 ]
