@@ -58,5 +58,53 @@
     },
     "message": "/price circuit",
     "timestamp": "2026-05-09T17:02:11.869Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "8775fb1b-8c04-4d6b-8bd6-f8432e00d359",
+      "shortId": "VNX47U",
+      "name": "Mylo!",
+      "role": "USER",
+      "level": 38
+    },
+    "message": "what are some pink character skins?",
+    "timestamp": "2026-05-12T02:19:08.436Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "8775fb1b-8c04-4d6b-8bd6-f8432e00d359",
+      "shortId": "VNX47U",
+      "name": "Mylo!",
+      "role": "USER",
+      "level": 38
+    },
+    "message": "/price bloom",
+    "timestamp": "2026-05-12T02:20:03.123Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "8775fb1b-8c04-4d6b-8bd6-f8432e00d359",
+      "shortId": "VNX47U",
+      "name": "Mylo!",
+      "role": "USER",
+      "level": 38
+    },
+    "message": "/price hearts",
+    "timestamp": "2026-05-12T02:20:29.228Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "8775fb1b-8c04-4d6b-8bd6-f8432e00d359",
+      "shortId": "VNX47U",
+      "name": "Mylo!",
+      "role": "USER",
+      "level": 38
+    },
+    "message": "gn yall",
+    "timestamp": "2026-05-12T02:20:37.366Z"
   }
 ]
