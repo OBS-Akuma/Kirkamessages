@@ -10,5 +10,65 @@
     },
     "message": "/inv",
     "timestamp": "2026-05-12T09:22:25.145Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "588d9a5e-bc7f-40ad-9496-883cb0c6bdf8",
+      "shortId": "16K9Z8",
+      "name": "KingLucas",
+      "role": "USER",
+      "level": 100
+    },
+    "message": "/clan SGAura",
+    "timestamp": "2026-05-12T21:30:25.747Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "588d9a5e-bc7f-40ad-9496-883cb0c6bdf8",
+      "shortId": "16K9Z8",
+      "name": "KingLucas",
+      "role": "USER",
+      "level": 100
+    },
+    "message": "/commands",
+    "timestamp": "2026-05-12T21:30:41.453Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "588d9a5e-bc7f-40ad-9496-883cb0c6bdf8",
+      "shortId": "16K9Z8",
+      "name": "KingLucas",
+      "role": "USER",
+      "level": 100
+    },
+    "message": "uh",
+    "timestamp": "2026-05-12T21:30:47.070Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "588d9a5e-bc7f-40ad-9496-883cb0c6bdf8",
+      "shortId": "16K9Z8",
+      "name": "KingLucas",
+      "role": "USER",
+      "level": 100
+    },
+    "message": "/inv",
+    "timestamp": "2026-05-12T21:32:05.920Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "588d9a5e-bc7f-40ad-9496-883cb0c6bdf8",
+      "shortId": "16K9Z8",
+      "name": "KingLucas",
+      "role": "USER",
+      "level": 100
+    },
+    "message": "<3",
+    "timestamp": "2026-05-12T21:37:33.415Z"
   }
 ]
