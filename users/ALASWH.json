@@ -2408,7 +2408,7 @@
       "role": "USER",
       "level": 98
     },
-    "message": "ÃÂ°ÃÂÃÂ¥ÃÂº",
+    "message": "ÃÂÃÂ°ÃÂÃÂÃÂÃÂ¥ÃÂÃÂº",
     "timestamp": "2026-05-12T02:33:10.421Z"
   },
   {
@@ -2708,7 +2708,7 @@
       "role": "USER",
       "level": 98
     },
-    "message": "I saw on TikTok indian food is dirty stompÃÂÃÂ² the food using foot.",
+    "message": "I saw on TikTok indian food is dirty stompÃÂÃÂÃÂÃÂ² the food using foot.",
     "timestamp": "2026-05-12T02:45:31.893Z"
   },
   {
@@ -3430,5 +3430,29 @@
     },
     "message": "Trading [Capricorn|Tomahawk|WEAPON_SKIN|MYTHICAL][Slasher||BODY_SKIN|PARANORMAL]",
     "timestamp": "2026-05-12T04:22:30.785Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "fc59b934-6eb3-42c1-84aa-89d8c53ae325",
+      "shortId": "ALASWH",
+      "name": "wi3rd.",
+      "role": "USER",
+      "level": 98
+    },
+    "message": "Trading [Slasher||BODY_SKIN|PARANORMAL][Capricorn|Tomahawk|WEAPON_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-12T06:02:24.999Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "fc59b934-6eb3-42c1-84aa-89d8c53ae325",
+      "shortId": "ALASWH",
+      "name": "wi3rd.",
+      "role": "USER",
+      "level": 98
+    },
+    "message": "/trading [Capricorn|Tomahawk|WEAPON_SKIN|MYTHICAL][Slasher||BODY_SKIN|PARANORMAL]",
+    "timestamp": "2026-05-12T06:05:07.354Z"
   }
 ]
