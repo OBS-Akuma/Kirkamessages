@@ -298,5 +298,41 @@
     },
     "message": "scarlett",
     "timestamp": "2026-05-12T06:10:46.817Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "a1b97659-2643-423d-befe-d8f211f2b602",
+      "shortId": "888EGY",
+      "name": "S4DY",
+      "role": "USER",
+      "level": 97
+    },
+    "message": "/inv",
+    "timestamp": "2026-05-12T06:49:13.703Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "a1b97659-2643-423d-befe-d8f211f2b602",
+      "shortId": "888EGY",
+      "name": "S4DY",
+      "role": "USER",
+      "level": 97
+    },
+    "message": "...",
+    "timestamp": "2026-05-12T06:49:40.659Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "a1b97659-2643-423d-befe-d8f211f2b602",
+      "shortId": "888EGY",
+      "name": "S4DY",
+      "role": "USER",
+      "level": 97
+    },
+    "message": "/inv",
+    "timestamp": "2026-05-12T06:49:43.507Z"
   }
 ]
