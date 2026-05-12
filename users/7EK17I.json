@@ -22,5 +22,53 @@
     },
     "message": "wsp",
     "timestamp": "2026-05-08T00:57:52.855Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "g5Ack8KQrnVPvDBDpa1jPW8LR4Q2",
+      "shortId": "7EK17I",
+      "name": "ALPHA",
+      "role": "USER",
+      "level": 98
+    },
+    "message": "/locate black santa",
+    "timestamp": "2026-05-12T11:28:51.340Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "g5Ack8KQrnVPvDBDpa1jPW8LR4Q2",
+      "shortId": "7EK17I",
+      "name": "ALPHA",
+      "role": "USER",
+      "level": 98
+    },
+    "message": "/locate black santa p2",
+    "timestamp": "2026-05-12T11:29:20.790Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "g5Ack8KQrnVPvDBDpa1jPW8LR4Q2",
+      "shortId": "7EK17I",
+      "name": "ALPHA",
+      "role": "USER",
+      "level": 98
+    },
+    "message": "/locate black santa p3",
+    "timestamp": "2026-05-12T11:30:40.971Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "g5Ack8KQrnVPvDBDpa1jPW8LR4Q2",
+      "shortId": "7EK17I",
+      "name": "ALPHA",
+      "role": "USER",
+      "level": 98
+    },
+    "message": "/locate black santa p4",
+    "timestamp": "2026-05-12T11:32:10.553Z"
   }
 ]
