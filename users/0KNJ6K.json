@@ -814,5 +814,29 @@
     },
     "message": "/hm majestic",
     "timestamp": "2026-05-10T17:01:36.572Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "665f1a4c-31dc-42b2-9866-5c5b9e918c1f",
+      "shortId": "0KNJ6K",
+      "name": "LawkeyOneLaw",
+      "role": "USER",
+      "level": 80
+    },
+    "message": "/hm tiburon",
+    "timestamp": "2026-05-12T06:08:04.385Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "665f1a4c-31dc-42b2-9866-5c5b9e918c1f",
+      "shortId": "0KNJ6K",
+      "name": "LawkeyOneLaw",
+      "role": "USER",
+      "level": 80
+    },
+    "message": "/hm [forbidden",
+    "timestamp": "2026-05-12T06:08:16.561Z"
   }
 ]
