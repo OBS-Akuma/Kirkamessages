@@ -22,5 +22,65 @@
     },
     "message": "/inv",
     "timestamp": "2026-05-10T18:37:41.786Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "75fa5f25-2746-491f-a575-7de0969ace0b",
+      "shortId": "FHCF8O",
+      "name": "Muxitdinov.D",
+      "role": "USER",
+      "level": 93
+    },
+    "message": "/price [eve",
+    "timestamp": "2026-05-12T07:22:38.021Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "75fa5f25-2746-491f-a575-7de0969ace0b",
+      "shortId": "FHCF8O",
+      "name": "Muxitdinov.D",
+      "role": "USER",
+      "level": 93
+    },
+    "message": "/inv",
+    "timestamp": "2026-05-12T07:26:35.305Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "75fa5f25-2746-491f-a575-7de0969ace0b",
+      "shortId": "FHCF8O",
+      "name": "Muxitdinov.D",
+      "role": "USER",
+      "level": 93
+    },
+    "message": "/price [Arc||BODY_SKIN|LEGENDARY]",
+    "timestamp": "2026-05-12T07:35:49.691Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "75fa5f25-2746-491f-a575-7de0969ace0b",
+      "shortId": "FHCF8O",
+      "name": "Muxitdinov.D",
+      "role": "USER",
+      "level": 93
+    },
+    "message": "/price [Moon||BODY_SKIN|LEGENDARY]",
+    "timestamp": "2026-05-12T07:36:00.255Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "75fa5f25-2746-491f-a575-7de0969ace0b",
+      "shortId": "FHCF8O",
+      "name": "Muxitdinov.D",
+      "role": "USER",
+      "level": 93
+    },
+    "message": "/price [Icey||BODY_SKIN|LEGENDARY]",
+    "timestamp": "2026-05-12T07:36:24.731Z"
   }
 ]
