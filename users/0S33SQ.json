@@ -94,5 +94,65 @@
     },
     "message": ":3",
     "timestamp": "2026-05-12T15:17:58.318Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "6e96cbad-888e-4efd-bd88-73b43c669daf",
+      "shortId": "0S33SQ",
+      "name": "-CAT-",
+      "role": "USER",
+      "level": 99
+    },
+    "message": "/inv",
+    "timestamp": "2026-05-12T15:33:27.749Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "6e96cbad-888e-4efd-bd88-73b43c669daf",
+      "shortId": "0S33SQ",
+      "name": "-CAT-",
+      "role": "USER",
+      "level": 99
+    },
+    "message": "nty",
+    "timestamp": "2026-05-12T15:33:50.051Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "6e96cbad-888e-4efd-bd88-73b43c669daf",
+      "shortId": "0S33SQ",
+      "name": "-CAT-",
+      "role": "USER",
+      "level": 99
+    },
+    "message": "1s",
+    "timestamp": "2026-05-12T15:48:53.989Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "6e96cbad-888e-4efd-bd88-73b43c669daf",
+      "shortId": "0S33SQ",
+      "name": "-CAT-",
+      "role": "USER",
+      "level": 99
+    },
+    "message": "I'll restart client",
+    "timestamp": "2026-05-12T15:48:58.860Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "6e96cbad-888e-4efd-bd88-73b43c669daf",
+      "shortId": "0S33SQ",
+      "name": "-CAT-",
+      "role": "USER",
+      "level": 99
+    },
+    "message": "got kinda laggy",
+    "timestamp": "2026-05-12T15:49:02.635Z"
   }
 ]
