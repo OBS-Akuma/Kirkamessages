@@ -1,0 +1,62 @@
+[
+  {
+    "type": 2,
+    "user": {
+      "id": "30897987-8792-4e47-adff-ebb25cdb0b40",
+      "shortId": "7QTVSU",
+      "name": "I12Bneenja",
+      "role": "USER",
+      "level": 70
+    },
+    "message": "/hm forbidden",
+    "timestamp": "2026-05-12T06:48:35.811Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "30897987-8792-4e47-adff-ebb25cdb0b40",
+      "shortId": "7QTVSU",
+      "name": "I12Bneenja",
+      "role": "USER",
+      "level": 70
+    },
+    "message": "/wager [Golden||CHEST|LEGENDARY]x188 #LDF58K",
+    "timestamp": "2026-05-12T06:51:56.150Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "30897987-8792-4e47-adff-ebb25cdb0b40",
+      "shortId": "7QTVSU",
+      "name": "I12Bneenja",
+      "role": "USER",
+      "level": 70
+    },
+    "message": "/wager cancel",
+    "timestamp": "2026-05-12T06:52:47.154Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "30897987-8792-4e47-adff-ebb25cdb0b40",
+      "shortId": "7QTVSU",
+      "name": "I12Bneenja",
+      "role": "USER",
+      "level": 70
+    },
+    "message": "/calwager",
+    "timestamp": "2026-05-12T06:52:57.829Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "30897987-8792-4e47-adff-ebb25cdb0b40",
+      "shortId": "7QTVSU",
+      "name": "I12Bneenja",
+      "role": "USER",
+      "level": 70
+    },
+    "message": "/cancelwager",
+    "timestamp": "2026-05-12T06:53:05.144Z"
+  }
+]
