@@ -130,5 +130,41 @@
     },
     "message": "/price [Kin|Bayonet|WEAPON_SKIN|LEGENDARY]",
     "timestamp": "2026-05-11T23:32:55.633Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "d8918df7-2a1c-4f91-a644-72d2ab0ca065",
+      "shortId": "BQ95MT",
+      "name": "Gang$ter",
+      "role": "USER",
+      "level": 50
+    },
+    "message": "/inv",
+    "timestamp": "2026-05-12T21:44:09.259Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "d8918df7-2a1c-4f91-a644-72d2ab0ca065",
+      "shortId": "BQ95MT",
+      "name": "Gang$ter",
+      "role": "USER",
+      "level": 50
+    },
+    "message": "/price [Slime||BODY_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-12T21:53:16.458Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "d8918df7-2a1c-4f91-a644-72d2ab0ca065",
+      "shortId": "BQ95MT",
+      "name": "Gang$ter",
+      "role": "USER",
+      "level": 50
+    },
+    "message": "#2MHNQX",
+    "timestamp": "2026-05-12T21:53:49.866Z"
   }
 ]
