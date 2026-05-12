@@ -586,5 +586,53 @@
     },
     "message": "no ths is my main idiot is my alt",
     "timestamp": "2026-05-04T07:34:31.616Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "1476086d-b2a2-4b59-b0f8-20282d5d8910",
+      "shortId": "FPNL9I",
+      "name": "Nyx.",
+      "role": "USER",
+      "level": 100
+    },
+    "message": "/trad offer my:[Guts||BODY_SKIN|LEGENDARY],[Eve||BODY_SKIN|MYTHICAL],[Magic|Shark|WEAPON_SKIN|MYTHICAL] your:[Apple|Bayonet|WEAPON_SKIN|LEGENDARY]",
+    "timestamp": "2026-05-12T05:16:50.003Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "1476086d-b2a2-4b59-b0f8-20282d5d8910",
+      "shortId": "FPNL9I",
+      "name": "Nyx.",
+      "role": "USER",
+      "level": 100
+    },
+    "message": "SON",
+    "timestamp": "2026-05-12T05:16:50.494Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "1476086d-b2a2-4b59-b0f8-20282d5d8910",
+      "shortId": "FPNL9I",
+      "name": "Nyx.",
+      "role": "USER",
+      "level": 100
+    },
+    "message": "WHAT IS THIS",
+    "timestamp": "2026-05-12T05:16:50.502Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "1476086d-b2a2-4b59-b0f8-20282d5d8910",
+      "shortId": "FPNL9I",
+      "name": "Nyx.",
+      "role": "USER",
+      "level": 100
+    },
+    "message": "i quit",
+    "timestamp": "2026-05-12T05:16:50.505Z"
   }
 ]
