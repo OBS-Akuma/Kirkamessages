@@ -1,0 +1,50 @@
+[
+  {
+    "type": 2,
+    "user": {
+      "id": "652ac228-3d25-43e1-a1ae-45e14849f39f",
+      "shortId": "389VYL",
+      "name": "magma",
+      "role": "USER",
+      "level": 32
+    },
+    "message": "/inv #DA0UG2",
+    "timestamp": "2026-05-12T21:24:01.805Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "652ac228-3d25-43e1-a1ae-45e14849f39f",
+      "shortId": "389VYL",
+      "name": "magma",
+      "role": "USER",
+      "level": 32
+    },
+    "message": "/inv #4CQDEK",
+    "timestamp": "2026-05-12T21:24:41.035Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "652ac228-3d25-43e1-a1ae-45e14849f39f",
+      "shortId": "389VYL",
+      "name": "magma",
+      "role": "USER",
+      "level": 32
+    },
+    "message": "/inv #BXOKLG",
+    "timestamp": "2026-05-12T21:25:10.174Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "652ac228-3d25-43e1-a1ae-45e14849f39f",
+      "shortId": "389VYL",
+      "name": "magma",
+      "role": "USER",
+      "level": 32
+    },
+    "message": "/inv #DUHAST",
+    "timestamp": "2026-05-12T21:25:46.912Z"
+  }
+]
