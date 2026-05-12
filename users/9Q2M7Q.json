@@ -34,5 +34,41 @@
     },
     "message": "/enter",
     "timestamp": "2026-05-08T20:07:24.589Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "yTPvMAGSVqcfLbxXXwB6eb6bBQl1",
+      "shortId": "9Q2M7Q",
+      "name": "[GHILLIE][PRO]",
+      "role": "USER",
+      "level": 19
+    },
+    "message": "g",
+    "timestamp": "2026-05-12T16:38:29.883Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "yTPvMAGSVqcfLbxXXwB6eb6bBQl1",
+      "shortId": "9Q2M7Q",
+      "name": "[GHILLIE][PRO]",
+      "role": "USER",
+      "level": 19
+    },
+    "message": "/enter#",
+    "timestamp": "2026-05-12T16:38:31.638Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "yTPvMAGSVqcfLbxXXwB6eb6bBQl1",
+      "shortId": "9Q2M7Q",
+      "name": "[GHILLIE][PRO]",
+      "role": "USER",
+      "level": 19
+    },
+    "message": "/enter",
+    "timestamp": "2026-05-12T16:38:37.465Z"
   }
 ]
