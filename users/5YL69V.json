@@ -22,5 +22,53 @@
     },
     "message": "/inv",
     "timestamp": "2026-05-12T06:49:24.828Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "7eb1bc33-c39c-4a74-9b7a-4044e134e14b",
+      "shortId": "5YL69V",
+      "name": "KajzieeeSK",
+      "role": "USER",
+      "level": 76
+    },
+    "message": "/claim",
+    "timestamp": "2026-05-12T08:51:05.859Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "7eb1bc33-c39c-4a74-9b7a-4044e134e14b",
+      "shortId": "5YL69V",
+      "name": "KajzieeeSK",
+      "role": "USER",
+      "level": 76
+    },
+    "message": "lol",
+    "timestamp": "2026-05-12T08:52:21.674Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "7eb1bc33-c39c-4a74-9b7a-4044e134e14b",
+      "shortId": "5YL69V",
+      "name": "KajzieeeSK",
+      "role": "USER",
+      "level": 76
+    },
+    "message": "/claim",
+    "timestamp": "2026-05-12T08:52:24.429Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "7eb1bc33-c39c-4a74-9b7a-4044e134e14b",
+      "shortId": "5YL69V",
+      "name": "KajzieeeSK",
+      "role": "USER",
+      "level": 76
+    },
+    "message": "/inv",
+    "timestamp": "2026-05-12T09:11:53.964Z"
   }
 ]
