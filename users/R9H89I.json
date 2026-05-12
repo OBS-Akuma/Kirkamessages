@@ -190,5 +190,29 @@
     },
     "message": "Hi pvp",
     "timestamp": "2026-05-12T12:23:05.237Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "Cc8q1hRCpSZwdwP89oxE9BniRE73",
+      "shortId": "R9H89I",
+      "name": "Ultrapromax.",
+      "role": "USER",
+      "level": 95
+    },
+    "message": "/price [V0id||BODY_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-12T14:32:28.914Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "Cc8q1hRCpSZwdwP89oxE9BniRE73",
+      "shortId": "R9H89I",
+      "name": "Ultrapromax.",
+      "role": "USER",
+      "level": 95
+    },
+    "message": "/price [Lor||BODY_SKIN|LEGENDARY]",
+    "timestamp": "2026-05-12T15:03:15.103Z"
   }
 ]
