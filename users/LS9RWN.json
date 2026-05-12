@@ -166,5 +166,17 @@
     },
     "message": "gg",
     "timestamp": "2026-05-12T09:21:39.976Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "47bc2863-0453-43dd-82cc-016ae19e3639",
+      "shortId": "LS9RWN",
+      "name": "ELION",
+      "role": "USER",
+      "level": 34
+    },
+    "message": "/hm [Marage||BODY_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-12T13:49:55.658Z"
   }
 ]
