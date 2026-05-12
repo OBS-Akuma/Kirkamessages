@@ -1522,5 +1522,29 @@
     },
     "message": "#ALN8R2 let's play 1 ranked match [felevera]",
     "timestamp": "2026-05-12T09:50:15.421Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "4b789cea-e6d0-4391-bab3-a43b716b6a1a",
+      "shortId": "305Q5V",
+      "name": "AuraX_t1_Scare",
+      "role": "USER",
+      "level": 96
+    },
+    "message": "Hiska u have oblivion??",
+    "timestamp": "2026-05-12T15:01:30.143Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "4b789cea-e6d0-4391-bab3-a43b716b6a1a",
+      "shortId": "305Q5V",
+      "name": "AuraX_t1_Scare",
+      "role": "USER",
+      "level": 96
+    },
+    "message": "#LXI0XI",
+    "timestamp": "2026-05-12T15:01:34.340Z"
   }
 ]
