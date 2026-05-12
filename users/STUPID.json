@@ -214,5 +214,17 @@
     },
     "message": "[Hans||BODY_SKIN|MYTHICAL]",
     "timestamp": "2026-05-12T20:30:15.586Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "cfac251c-29be-40f1-8e77-40d678c7fab6",
+      "shortId": "STUPID",
+      "name": "Dihxz",
+      "role": "USER",
+      "level": 98
+    },
+    "message": "ew",
+    "timestamp": "2026-05-12T22:36:32.354Z"
   }
 ]
