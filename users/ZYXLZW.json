@@ -4582,5 +4582,905 @@
     },
     "message": "BYE",
     "timestamp": "2026-05-11T03:49:33.365Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "guest-c0275f72-fa1f-4550-ba7d-c79cdf81a912",
+      "shortId": "ZYXLZW",
+      "name": "Cosmic",
+      "role": "USER",
+      "level": 5
+    },
+    "message": "I need help",
+    "timestamp": "2026-05-11T23:24:10.468Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "guest-c0275f72-fa1f-4550-ba7d-c79cdf81a912",
+      "shortId": "ZYXLZW",
+      "name": "Cosmic",
+      "role": "USER",
+      "level": 5
+    },
+    "message": "transfering my stuff",
+    "timestamp": "2026-05-11T23:24:15.472Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "guest-c0275f72-fa1f-4550-ba7d-c79cdf81a912",
+      "shortId": "ZYXLZW",
+      "name": "Cosmic",
+      "role": "USER",
+      "level": 5
+    },
+    "message": "can someone help me",
+    "timestamp": "2026-05-11T23:26:35.719Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "guest-c0275f72-fa1f-4550-ba7d-c79cdf81a912",
+      "shortId": "ZYXLZW",
+      "name": "Cosmic",
+      "role": "USER",
+      "level": 5
+    },
+    "message": "reaper",
+    "timestamp": "2026-05-11T23:26:38.968Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "guest-c0275f72-fa1f-4550-ba7d-c79cdf81a912",
+      "shortId": "ZYXLZW",
+      "name": "Cosmic",
+      "role": "USER",
+      "level": 5
+    },
+    "message": "how do I send a trade to my other acc",
+    "timestamp": "2026-05-11T23:26:48.417Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "guest-c0275f72-fa1f-4550-ba7d-c79cdf81a912",
+      "shortId": "ZYXLZW",
+      "name": "Cosmic",
+      "role": "USER",
+      "level": 5
+    },
+    "message": "bc I got hella good stuff I need to transfer",
+    "timestamp": "2026-05-11T23:27:10.515Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "guest-c0275f72-fa1f-4550-ba7d-c79cdf81a912",
+      "shortId": "ZYXLZW",
+      "name": "Cosmic",
+      "role": "USER",
+      "level": 5
+    },
+    "message": "how do I trade my alt",
+    "timestamp": "2026-05-11T23:27:14.616Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "guest-c0275f72-fa1f-4550-ba7d-c79cdf81a912",
+      "shortId": "ZYXLZW",
+      "name": "Cosmic",
+      "role": "USER",
+      "level": 5
+    },
+    "message": "tell me wi3d",
+    "timestamp": "2026-05-11T23:27:31.036Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "guest-c0275f72-fa1f-4550-ba7d-c79cdf81a912",
+      "shortId": "ZYXLZW",
+      "name": "Cosmic",
+      "role": "USER",
+      "level": 5
+    },
+    "message": "pls",
+    "timestamp": "2026-05-11T23:27:32.807Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "guest-c0275f72-fa1f-4550-ba7d-c79cdf81a912",
+      "shortId": "ZYXLZW",
+      "name": "Cosmic",
+      "role": "USER",
+      "level": 5
+    },
+    "message": "yes",
+    "timestamp": "2026-05-11T23:28:27.838Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "guest-c0275f72-fa1f-4550-ba7d-c79cdf81a912",
+      "shortId": "ZYXLZW",
+      "name": "Cosmic",
+      "role": "USER",
+      "level": 5
+    },
+    "message": "it is",
+    "timestamp": "2026-05-11T23:28:29.801Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "guest-c0275f72-fa1f-4550-ba7d-c79cdf81a912",
+      "shortId": "ZYXLZW",
+      "name": "Cosmic",
+      "role": "USER",
+      "level": 5
+    },
+    "message": "fah no",
+    "timestamp": "2026-05-11T23:28:50.860Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "guest-c0275f72-fa1f-4550-ba7d-c79cdf81a912",
+      "shortId": "ZYXLZW",
+      "name": "Cosmic",
+      "role": "USER",
+      "level": 5
+    },
+    "message": "\"/trade help\"",
+    "timestamp": "2026-05-11T23:28:57.356Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "guest-c0275f72-fa1f-4550-ba7d-c79cdf81a912",
+      "shortId": "ZYXLZW",
+      "name": "Cosmic",
+      "role": "USER",
+      "level": 5
+    },
+    "message": "/cancel",
+    "timestamp": "2026-05-11T23:34:18.073Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "guest-c0275f72-fa1f-4550-ba7d-c79cdf81a912",
+      "shortId": "ZYXLZW",
+      "name": "Cosmic",
+      "role": "USER",
+      "level": 5
+    },
+    "message": "Canel",
+    "timestamp": "2026-05-11T23:34:54.714Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "guest-c0275f72-fa1f-4550-ba7d-c79cdf81a912",
+      "shortId": "ZYXLZW",
+      "name": "Cosmic",
+      "role": "USER",
+      "level": 5
+    },
+    "message": "can I je;p[",
+    "timestamp": "2026-05-11T23:34:59.106Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "guest-c0275f72-fa1f-4550-ba7d-c79cdf81a912",
+      "shortId": "ZYXLZW",
+      "name": "Cosmic",
+      "role": "USER",
+      "level": 5
+    },
+    "message": "u help",
+    "timestamp": "2026-05-11T23:35:02.255Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "guest-c0275f72-fa1f-4550-ba7d-c79cdf81a912",
+      "shortId": "ZYXLZW",
+      "name": "Cosmic",
+      "role": "USER",
+      "level": 5
+    },
+    "message": "\"/trade offer #I6GAJM my: [Wood||CHEST|COMMON] your: [Spooder|Shark|WEAPON_SKIN|MYTHICAL], [Drake|Bayonet|WEAPON_SKIN|MYTHICAL], [Smile|VITA|WEAPON_SKIN|MYTHICAL], [Pulse|Revolver|WEAPON_SKIN|MYTHICAL]\"",
+    "timestamp": "2026-05-11T23:35:06.487Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "guest-c0275f72-fa1f-4550-ba7d-c79cdf81a912",
+      "shortId": "ZYXLZW",
+      "name": "Cosmic",
+      "role": "USER",
+      "level": 5
+    },
+    "message": "what am I typing wrong",
+    "timestamp": "2026-05-11T23:35:21.501Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "guest-c0275f72-fa1f-4550-ba7d-c79cdf81a912",
+      "shortId": "ZYXLZW",
+      "name": "Cosmic",
+      "role": "USER",
+      "level": 5
+    },
+    "message": "'/trade offer #I6GAJM my: [Wood||CHEST|COMMON] your: [Spooder|Shark|WEAPON_SKIN|MYTHICAL], [Drake|Bayonet|WEAPON_SKIN|MYTHICAL], [Smile|VITA|WEAPON_SKIN|MYTHICAL], [Pulse|Revolver|WEAPON_SKIN|MYTHICAL]'",
+    "timestamp": "2026-05-11T23:35:33.125Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "guest-c0275f72-fa1f-4550-ba7d-c79cdf81a912",
+      "shortId": "ZYXLZW",
+      "name": "Cosmic",
+      "role": "USER",
+      "level": 5
+    },
+    "message": "what am I typing wrong",
+    "timestamp": "2026-05-11T23:35:38.472Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "guest-c0275f72-fa1f-4550-ba7d-c79cdf81a912",
+      "shortId": "ZYXLZW",
+      "name": "Cosmic",
+      "role": "USER",
+      "level": 5
+    },
+    "message": "bro",
+    "timestamp": "2026-05-11T23:36:42.319Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "guest-c0275f72-fa1f-4550-ba7d-c79cdf81a912",
+      "shortId": "ZYXLZW",
+      "name": "Cosmic",
+      "role": "USER",
+      "level": 5
+    },
+    "message": "exposed",
+    "timestamp": "2026-05-11T23:36:59.180Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "guest-c0275f72-fa1f-4550-ba7d-c79cdf81a912",
+      "shortId": "ZYXLZW",
+      "name": "Cosmic",
+      "role": "USER",
+      "level": 5
+    },
+    "message": "Im trying to send my stuff to ny tablet acc",
+    "timestamp": "2026-05-11T23:37:32.723Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "guest-c0275f72-fa1f-4550-ba7d-c79cdf81a912",
+      "shortId": "ZYXLZW",
+      "name": "Cosmic",
+      "role": "USER",
+      "level": 5
+    },
+    "message": "idk what I'm doing wrog",
+    "timestamp": "2026-05-11T23:37:39.668Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "guest-c0275f72-fa1f-4550-ba7d-c79cdf81a912",
+      "shortId": "ZYXLZW",
+      "name": "Cosmic",
+      "role": "USER",
+      "level": 5
+    },
+    "message": "'/trade offer #I6GAJM my: [Wood||CHEST|COMMON] your: [Spooder|Shark|WEAPON_SKIN|MYTHICAL], [Drake|Bayonet|WEAPON_SKIN|MYTHICAL], [Smile|VITA|WEAPON_SKIN|MYTHICAL], [Pulse|Revolver|WEAPON_SKIN|MYTHICAL]'",
+    "timestamp": "2026-05-11T23:37:43.194Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "guest-c0275f72-fa1f-4550-ba7d-c79cdf81a912",
+      "shortId": "ZYXLZW",
+      "name": "Cosmic",
+      "role": "USER",
+      "level": 5
+    },
+    "message": "what am I typing wrong",
+    "timestamp": "2026-05-11T23:37:48.686Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "guest-c0275f72-fa1f-4550-ba7d-c79cdf81a912",
+      "shortId": "ZYXLZW",
+      "name": "Cosmic",
+      "role": "USER",
+      "level": 5
+    },
+    "message": "can u help me?",
+    "timestamp": "2026-05-11T23:38:12.984Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "guest-c0275f72-fa1f-4550-ba7d-c79cdf81a912",
+      "shortId": "ZYXLZW",
+      "name": "Cosmic",
+      "role": "USER",
+      "level": 5
+    },
+    "message": "ok ty",
+    "timestamp": "2026-05-11T23:38:25.731Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "guest-c0275f72-fa1f-4550-ba7d-c79cdf81a912",
+      "shortId": "ZYXLZW",
+      "name": "Cosmic",
+      "role": "USER",
+      "level": 5
+    },
+    "message": "it still wont work",
+    "timestamp": "2026-05-11T23:38:42.603Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "guest-c0275f72-fa1f-4550-ba7d-c79cdf81a912",
+      "shortId": "ZYXLZW",
+      "name": "Cosmic",
+      "role": "USER",
+      "level": 5
+    },
+    "message": "bro",
+    "timestamp": "2026-05-11T23:39:10.215Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "guest-c0275f72-fa1f-4550-ba7d-c79cdf81a912",
+      "shortId": "ZYXLZW",
+      "name": "Cosmic",
+      "role": "USER",
+      "level": 5
+    },
+    "message": "ik I doing that purposly",
+    "timestamp": "2026-05-11T23:39:19.399Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "guest-c0275f72-fa1f-4550-ba7d-c79cdf81a912",
+      "shortId": "ZYXLZW",
+      "name": "Cosmic",
+      "role": "USER",
+      "level": 5
+    },
+    "message": "when I do that it takes me back to /trade help",
+    "timestamp": "2026-05-11T23:39:36.217Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "guest-c0275f72-fa1f-4550-ba7d-c79cdf81a912",
+      "shortId": "ZYXLZW",
+      "name": "Cosmic",
+      "role": "USER",
+      "level": 5
+    },
+    "message": "bro",
+    "timestamp": "2026-05-11T23:41:18.759Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "guest-c0275f72-fa1f-4550-ba7d-c79cdf81a912",
+      "shortId": "ZYXLZW",
+      "name": "Cosmic",
+      "role": "USER",
+      "level": 5
+    },
+    "message": "it wont work",
+    "timestamp": "2026-05-11T23:41:21.494Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "guest-c0275f72-fa1f-4550-ba7d-c79cdf81a912",
+      "shortId": "ZYXLZW",
+      "name": "Cosmic",
+      "role": "USER",
+      "level": 5
+    },
+    "message": "'/trade offer #I6GAJM my [Spooder|Shark|WEAPON_SKIN|MYTHICAL], [Drake|Bayonet|WEAPON_SKIN|MYTHICAL] for their [Wood||CHEST|COMMON]'",
+    "timestamp": "2026-05-11T23:41:26.116Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "guest-c0275f72-fa1f-4550-ba7d-c79cdf81a912",
+      "shortId": "ZYXLZW",
+      "name": "Cosmic",
+      "role": "USER",
+      "level": 5
+    },
+    "message": "why wont it work",
+    "timestamp": "2026-05-11T23:41:30.603Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "guest-c0275f72-fa1f-4550-ba7d-c79cdf81a912",
+      "shortId": "ZYXLZW",
+      "name": "Cosmic",
+      "role": "USER",
+      "level": 5
+    },
+    "message": "what am I doing",
+    "timestamp": "2026-05-11T23:41:34.453Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "guest-c0275f72-fa1f-4550-ba7d-c79cdf81a912",
+      "shortId": "ZYXLZW",
+      "name": "Cosmic",
+      "role": "USER",
+      "level": 5
+    },
+    "message": "but how do I send it to my acc",
+    "timestamp": "2026-05-11T23:42:09.171Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "guest-c0275f72-fa1f-4550-ba7d-c79cdf81a912",
+      "shortId": "ZYXLZW",
+      "name": "Cosmic",
+      "role": "USER",
+      "level": 5
+    },
+    "message": "I'm scared ppl just gonna snipe it",
+    "timestamp": "2026-05-11T23:42:25.665Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "guest-c0275f72-fa1f-4550-ba7d-c79cdf81a912",
+      "shortId": "ZYXLZW",
+      "name": "Cosmic",
+      "role": "USER",
+      "level": 5
+    },
+    "message": "what's my user",
+    "timestamp": "2026-05-11T23:42:53.540Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "guest-c0275f72-fa1f-4550-ba7d-c79cdf81a912",
+      "shortId": "ZYXLZW",
+      "name": "Cosmic",
+      "role": "USER",
+      "level": 5
+    },
+    "message": "user id",
+    "timestamp": "2026-05-11T23:42:57.795Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "guest-c0275f72-fa1f-4550-ba7d-c79cdf81a912",
+      "shortId": "ZYXLZW",
+      "name": "Cosmic",
+      "role": "USER",
+      "level": 5
+    },
+    "message": "bro",
+    "timestamp": "2026-05-11T23:45:47.699Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "guest-c0275f72-fa1f-4550-ba7d-c79cdf81a912",
+      "shortId": "ZYXLZW",
+      "name": "Cosmic",
+      "role": "USER",
+      "level": 5
+    },
+    "message": "how do I send trades",
+    "timestamp": "2026-05-11T23:45:52.219Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "guest-c0275f72-fa1f-4550-ba7d-c79cdf81a912",
+      "shortId": "ZYXLZW",
+      "name": "Cosmic",
+      "role": "USER",
+      "level": 5
+    },
+    "message": "finnally",
+    "timestamp": "2026-05-11T23:48:38.922Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "guest-c0275f72-fa1f-4550-ba7d-c79cdf81a912",
+      "shortId": "ZYXLZW",
+      "name": "Cosmic",
+      "role": "USER",
+      "level": 5
+    },
+    "message": "slowly but surely",
+    "timestamp": "2026-05-11T23:50:26.673Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "guest-c0275f72-fa1f-4550-ba7d-c79cdf81a912",
+      "shortId": "ZYXLZW",
+      "name": "Cosmic",
+      "role": "USER",
+      "level": 5
+    },
+    "message": ":sob",
+    "timestamp": "2026-05-11T23:50:29.806Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "guest-c0275f72-fa1f-4550-ba7d-c79cdf81a912",
+      "shortId": "ZYXLZW",
+      "name": "Cosmic",
+      "role": "USER",
+      "level": 5
+    },
+    "message": "who me?",
+    "timestamp": "2026-05-11T23:53:53.193Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "guest-c0275f72-fa1f-4550-ba7d-c79cdf81a912",
+      "shortId": "ZYXLZW",
+      "name": "Cosmic",
+      "role": "USER",
+      "level": 5
+    },
+    "message": "[draft]",
+    "timestamp": "2026-05-11T23:54:12.388Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "guest-c0275f72-fa1f-4550-ba7d-c79cdf81a912",
+      "shortId": "ZYXLZW",
+      "name": "Cosmic",
+      "role": "USER",
+      "level": 5
+    },
+    "message": "what's that",
+    "timestamp": "2026-05-11T23:54:14.996Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "guest-c0275f72-fa1f-4550-ba7d-c79cdf81a912",
+      "shortId": "ZYXLZW",
+      "name": "Cosmic",
+      "role": "USER",
+      "level": 5
+    },
+    "message": "[Darkift||BODY_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-11T23:54:27.174Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "guest-c0275f72-fa1f-4550-ba7d-c79cdf81a912",
+      "shortId": "ZYXLZW",
+      "name": "Cosmic",
+      "role": "USER",
+      "level": 5
+    },
+    "message": "sure man",
+    "timestamp": "2026-05-11T23:54:34.511Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "guest-c0275f72-fa1f-4550-ba7d-c79cdf81a912",
+      "shortId": "ZYXLZW",
+      "name": "Cosmic",
+      "role": "USER",
+      "level": 5
+    },
+    "message": "send it to my tablet",
+    "timestamp": "2026-05-11T23:54:38.315Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "guest-c0275f72-fa1f-4550-ba7d-c79cdf81a912",
+      "shortId": "ZYXLZW",
+      "name": "Cosmic",
+      "role": "USER",
+      "level": 5
+    },
+    "message": "chest",
+    "timestamp": "2026-05-11T23:57:15.852Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "guest-c0275f72-fa1f-4550-ba7d-c79cdf81a912",
+      "shortId": "ZYXLZW",
+      "name": "Cosmic",
+      "role": "USER",
+      "level": 5
+    },
+    "message": "yea",
+    "timestamp": "2026-05-11T23:57:28.725Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "guest-c0275f72-fa1f-4550-ba7d-c79cdf81a912",
+      "shortId": "ZYXLZW",
+      "name": "Cosmic",
+      "role": "USER",
+      "level": 5
+    },
+    "message": "golden",
+    "timestamp": "2026-05-11T23:57:30.244Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "guest-c0275f72-fa1f-4550-ba7d-c79cdf81a912",
+      "shortId": "ZYXLZW",
+      "name": "Cosmic",
+      "role": "USER",
+      "level": 5
+    },
+    "message": "specifically",
+    "timestamp": "2026-05-11T23:57:33.723Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "guest-c0275f72-fa1f-4550-ba7d-c79cdf81a912",
+      "shortId": "ZYXLZW",
+      "name": "Cosmic",
+      "role": "USER",
+      "level": 5
+    },
+    "message": "yea",
+    "timestamp": "2026-05-11T23:57:36.324Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "guest-c0275f72-fa1f-4550-ba7d-c79cdf81a912",
+      "shortId": "ZYXLZW",
+      "name": "Cosmic",
+      "role": "USER",
+      "level": 5
+    },
+    "message": "what's up zero",
+    "timestamp": "2026-05-11T23:57:39.554Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "guest-c0275f72-fa1f-4550-ba7d-c79cdf81a912",
+      "shortId": "ZYXLZW",
+      "name": "Cosmic",
+      "role": "USER",
+      "level": 5
+    },
+    "message": "shii",
+    "timestamp": "2026-05-11T23:57:44.852Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "guest-c0275f72-fa1f-4550-ba7d-c79cdf81a912",
+      "shortId": "ZYXLZW",
+      "name": "Cosmic",
+      "role": "USER",
+      "level": 5
+    },
+    "message": "shii bro",
+    "timestamp": "2026-05-11T23:57:51.194Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "guest-c0275f72-fa1f-4550-ba7d-c79cdf81a912",
+      "shortId": "ZYXLZW",
+      "name": "Cosmic",
+      "role": "USER",
+      "level": 5
+    },
+    "message": "ill tke gamma",
+    "timestamp": "2026-05-11T23:57:59.111Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "guest-c0275f72-fa1f-4550-ba7d-c79cdf81a912",
+      "shortId": "ZYXLZW",
+      "name": "Cosmic",
+      "role": "USER",
+      "level": 5
+    },
+    "message": "[Gamma||BODY_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-11T23:58:02.869Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "guest-c0275f72-fa1f-4550-ba7d-c79cdf81a912",
+      "shortId": "ZYXLZW",
+      "name": "Cosmic",
+      "role": "USER",
+      "level": 5
+    },
+    "message": "what's ur  offer",
+    "timestamp": "2026-05-12T00:00:51.553Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "guest-c0275f72-fa1f-4550-ba7d-c79cdf81a912",
+      "shortId": "ZYXLZW",
+      "name": "Cosmic",
+      "role": "USER",
+      "level": 5
+    },
+    "message": "nahh",
+    "timestamp": "2026-05-12T00:01:13.652Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "guest-c0275f72-fa1f-4550-ba7d-c79cdf81a912",
+      "shortId": "ZYXLZW",
+      "name": "Cosmic",
+      "role": "USER",
+      "level": 5
+    },
+    "message": "yo I want to offer astro",
+    "timestamp": "2026-05-12T00:01:30.025Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "guest-c0275f72-fa1f-4550-ba7d-c79cdf81a912",
+      "shortId": "ZYXLZW",
+      "name": "Cosmic",
+      "role": "USER",
+      "level": 5
+    },
+    "message": "25 gold chest?",
+    "timestamp": "2026-05-12T00:01:35.707Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "guest-c0275f72-fa1f-4550-ba7d-c79cdf81a912",
+      "shortId": "ZYXLZW",
+      "name": "Cosmic",
+      "role": "USER",
+      "level": 5
+    },
+    "message": "is that good",
+    "timestamp": "2026-05-12T00:01:38.385Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "guest-c0275f72-fa1f-4550-ba7d-c79cdf81a912",
+      "shortId": "ZYXLZW",
+      "name": "Cosmic",
+      "role": "USER",
+      "level": 5
+    },
+    "message": "/hm astronova",
+    "timestamp": "2026-05-12T00:01:46.114Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "guest-c0275f72-fa1f-4550-ba7d-c79cdf81a912",
+      "shortId": "ZYXLZW",
+      "name": "Cosmic",
+      "role": "USER",
+      "level": 5
+    },
+    "message": "oh",
+    "timestamp": "2026-05-12T00:01:51.399Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "guest-c0275f72-fa1f-4550-ba7d-c79cdf81a912",
+      "shortId": "ZYXLZW",
+      "name": "Cosmic",
+      "role": "USER",
+      "level": 5
+    },
+    "message": "/inv",
+    "timestamp": "2026-05-12T00:02:10.701Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "guest-c0275f72-fa1f-4550-ba7d-c79cdf81a912",
+      "shortId": "ZYXLZW",
+      "name": "Cosmic",
+      "role": "USER",
+      "level": 5
+    },
+    "message": "I'm broke",
+    "timestamp": "2026-05-12T00:02:14.822Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "guest-c0275f72-fa1f-4550-ba7d-c79cdf81a912",
+      "shortId": "ZYXLZW",
+      "name": "Cosmic",
+      "role": "USER",
+      "level": 5
+    },
+    "message": "I lowk want black and red things",
+    "timestamp": "2026-05-12T00:02:41.695Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "guest-c0275f72-fa1f-4550-ba7d-c79cdf81a912",
+      "shortId": "ZYXLZW",
+      "name": "Cosmic",
+      "role": "USER",
+      "level": 5
+    },
+    "message": "I got smile",
+    "timestamp": "2026-05-12T00:02:45.860Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "guest-c0275f72-fa1f-4550-ba7d-c79cdf81a912",
+      "shortId": "ZYXLZW",
+      "name": "Cosmic",
+      "role": "USER",
+      "level": 5
+    },
+    "message": "is it rare..?",
+    "timestamp": "2026-05-12T00:02:49.906Z"
   }
 ]
