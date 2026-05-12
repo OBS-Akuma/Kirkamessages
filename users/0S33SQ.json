@@ -58,5 +58,17 @@
     },
     "message": "/enter",
     "timestamp": "2026-05-12T07:01:11.409Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "6e96cbad-888e-4efd-bd88-73b43c669daf",
+      "shortId": "0S33SQ",
+      "name": "-CAT-",
+      "role": "USER",
+      "level": 99
+    },
+    "message": "/price [skullduggery]",
+    "timestamp": "2026-05-12T14:49:35.960Z"
   }
 ]
