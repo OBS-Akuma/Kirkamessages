@@ -646,5 +646,89 @@
     },
     "message": ".",
     "timestamp": "2026-05-11T07:05:55.512Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "0b4cd789-a014-4609-bfbf-4bb636738f75",
+      "shortId": "52N4M1",
+      "name": "BuggleLugs",
+      "role": "USER",
+      "level": 95
+    },
+    "message": "#ICQBF4 what u trading",
+    "timestamp": "2026-05-12T03:50:23.334Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "0b4cd789-a014-4609-bfbf-4bb636738f75",
+      "shortId": "52N4M1",
+      "name": "BuggleLugs",
+      "role": "USER",
+      "level": 95
+    },
+    "message": "yeapers what u trading?",
+    "timestamp": "2026-05-12T03:59:59.647Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "0b4cd789-a014-4609-bfbf-4bb636738f75",
+      "shortId": "52N4M1",
+      "name": "BuggleLugs",
+      "role": "USER",
+      "level": 95
+    },
+    "message": "#QR0ITM",
+    "timestamp": "2026-05-12T04:00:01.994Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "0b4cd789-a014-4609-bfbf-4bb636738f75",
+      "shortId": "52N4M1",
+      "name": "BuggleLugs",
+      "role": "USER",
+      "level": 95
+    },
+    "message": "#QR0ITM nope",
+    "timestamp": "2026-05-12T04:00:22.622Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "0b4cd789-a014-4609-bfbf-4bb636738f75",
+      "shortId": "52N4M1",
+      "name": "BuggleLugs",
+      "role": "USER",
+      "level": 95
+    },
+    "message": "hm shinji",
+    "timestamp": "2026-05-12T04:03:09.288Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "0b4cd789-a014-4609-bfbf-4bb636738f75",
+      "shortId": "52N4M1",
+      "name": "BuggleLugs",
+      "role": "USER",
+      "level": 95
+    },
+    "message": "/hm shinji",
+    "timestamp": "2026-05-12T04:03:15.727Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "0b4cd789-a014-4609-bfbf-4bb636738f75",
+      "shortId": "52N4M1",
+      "name": "BuggleLugs",
+      "role": "USER",
+      "level": 95
+    },
+    "message": "/skin gaia",
+    "timestamp": "2026-05-12T04:12:36.237Z"
   }
 ]
