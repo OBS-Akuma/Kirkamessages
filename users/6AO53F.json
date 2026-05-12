@@ -658,5 +658,17 @@
     },
     "message": "ok byee",
     "timestamp": "2026-05-09T16:56:30.847Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "ef0d085e-2d3f-43af-954e-6b579cafd5d5",
+      "shortId": "6AO53F",
+      "name": "OPTIMUS",
+      "role": "USER",
+      "level": 100
+    },
+    "message": "snorlax u here",
+    "timestamp": "2026-05-12T07:04:17.737Z"
   }
 ]
