@@ -1018,5 +1018,41 @@
     },
     "message": "lf [Bones||BODY_SKIN|MYTHICAL]",
     "timestamp": "2026-05-11T01:57:23.857Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "c2f1630a-cceb-442f-9053-3a277f47f5ca",
+      "shortId": "OMCUF0",
+      "name": "Manna",
+      "role": "USER",
+      "level": 99
+    },
+    "message": "/price flaming",
+    "timestamp": "2026-05-11T23:47:16.750Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "c2f1630a-cceb-442f-9053-3a277f47f5ca",
+      "shortId": "OMCUF0",
+      "name": "Manna",
+      "role": "USER",
+      "level": 99
+    },
+    "message": "yes",
+    "timestamp": "2026-05-12T00:12:31.873Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "c2f1630a-cceb-442f-9053-3a277f47f5ca",
+      "shortId": "OMCUF0",
+      "name": "Manna",
+      "role": "USER",
+      "level": 99
+    },
+    "message": "/inv",
+    "timestamp": "2026-05-12T00:12:58.323Z"
   }
 ]
