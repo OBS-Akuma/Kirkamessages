@@ -550,5 +550,65 @@
     },
     "message": "/last10 firedemon",
     "timestamp": "2026-05-12T00:53:12.556Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "TpaHcMKpZ1Uh0sdDEu4UDAONcdS2",
+      "shortId": "KDH9KR",
+      "name": "strange",
+      "role": "USER",
+      "level": 43
+    },
+    "message": "tr[Firedemon||BODY_SKIN|LEGENDARY]",
+    "timestamp": "2026-05-12T01:33:58.881Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "TpaHcMKpZ1Uh0sdDEu4UDAONcdS2",
+      "shortId": "KDH9KR",
+      "name": "strange",
+      "role": "USER",
+      "level": 43
+    },
+    "message": "tr[Firedemon||BODY_SKIN|LEGENDARY].",
+    "timestamp": "2026-05-12T01:36:57.569Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "TpaHcMKpZ1Uh0sdDEu4UDAONcdS2",
+      "shortId": "KDH9KR",
+      "name": "strange",
+      "role": "USER",
+      "level": 43
+    },
+    "message": "tr[Firedemon||BODY_SKIN|LEGENDARY]",
+    "timestamp": "2026-05-12T01:39:31.246Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "TpaHcMKpZ1Uh0sdDEu4UDAONcdS2",
+      "shortId": "KDH9KR",
+      "name": "strange",
+      "role": "USER",
+      "level": 43
+    },
+    "message": "hybrid chill",
+    "timestamp": "2026-05-12T01:40:26.100Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "TpaHcMKpZ1Uh0sdDEu4UDAONcdS2",
+      "shortId": "KDH9KR",
+      "name": "strange",
+      "role": "USER",
+      "level": 43
+    },
+    "message": "ur gonna get muted",
+    "timestamp": "2026-05-12T01:40:30.030Z"
   }
 ]
