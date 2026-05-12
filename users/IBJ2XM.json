@@ -130,5 +130,17 @@
     },
     "message": "#HUB956 i have [Target|Revolver|WEAPON_SKIN|MYTHICAL]",
     "timestamp": "2026-05-11T23:50:54.919Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "TJklp2rWrMVz3nKHI6IZ9FRSRM93",
+      "shortId": "IBJ2XM",
+      "name": "nikosami",
+      "role": "USER",
+      "level": 87
+    },
+    "message": "[Wolfy||BODY_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-12T19:42:06.255Z"
   }
 ]
