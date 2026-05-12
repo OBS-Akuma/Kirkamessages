@@ -8074,5 +8074,17 @@
     },
     "message": "but the accounts lost so",
     "timestamp": "2026-05-12T01:34:44.572Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "60798d39-3ac8-448b-9c8c-1774c9a33347",
+      "shortId": "E779VY",
+      "name": "cqxrpse",
+      "role": "USER",
+      "level": 82
+    },
+    "message": "Trading [Bubblepop|Bayonet|WEAPON_SKIN|MYTHICAL][Qod||BODY_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-12T15:30:34.353Z"
   }
 ]
