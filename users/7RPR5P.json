@@ -106,5 +106,41 @@
     },
     "message": "/price [Forbidden|AR-9|WEAPON_SKIN|MYTHICAL]",
     "timestamp": "2026-05-08T07:56:15.362Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "dece667a-fd9d-4728-88c0-104cad6d4c40",
+      "shortId": "7RPR5P",
+      "name": "RazorX",
+      "role": "USER",
+      "level": 40
+    },
+    "message": "anyone wanting to give away old skins?",
+    "timestamp": "2026-05-12T16:36:06.069Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "dece667a-fd9d-4728-88c0-104cad6d4c40",
+      "shortId": "7RPR5P",
+      "name": "RazorX",
+      "role": "USER",
+      "level": 40
+    },
+    "message": "anything works from epic, legendary or mythic",
+    "timestamp": "2026-05-12T16:36:31.333Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "dece667a-fd9d-4728-88c0-104cad6d4c40",
+      "shortId": "7RPR5P",
+      "name": "RazorX",
+      "role": "USER",
+      "level": 40
+    },
+    "message": "/enter",
+    "timestamp": "2026-05-12T16:37:08.318Z"
   }
 ]
