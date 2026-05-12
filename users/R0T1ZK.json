@@ -1,0 +1,62 @@
+[
+  {
+    "type": 2,
+    "user": {
+      "id": "2cd3128d-7a47-43c8-ba3b-626a36848a78",
+      "shortId": "R0T1ZK",
+      "name": "Jane",
+      "role": "USER",
+      "level": 98
+    },
+    "message": "[Candle|Bayonet|WEAPON_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-12T03:43:21.528Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "2cd3128d-7a47-43c8-ba3b-626a36848a78",
+      "shortId": "R0T1ZK",
+      "name": "Jane",
+      "role": "USER",
+      "level": 98
+    },
+    "message": "[Apple|Bayonet|WEAPON_SKIN|LEGENDARY]",
+    "timestamp": "2026-05-12T03:43:29.889Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "2cd3128d-7a47-43c8-ba3b-626a36848a78",
+      "shortId": "R0T1ZK",
+      "name": "Jane",
+      "role": "USER",
+      "level": 98
+    },
+    "message": "[Rampage|M60|WEAPON_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-12T03:43:40.386Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "2cd3128d-7a47-43c8-ba3b-626a36848a78",
+      "shortId": "R0T1ZK",
+      "name": "Jane",
+      "role": "USER",
+      "level": 98
+    },
+    "message": "[Kin|Bayonet|WEAPON_SKIN|LEGENDARY] [George|M60|WEAPON_SKIN|COMMON]",
+    "timestamp": "2026-05-12T03:44:10.934Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "2cd3128d-7a47-43c8-ba3b-626a36848a78",
+      "shortId": "R0T1ZK",
+      "name": "Jane",
+      "role": "USER",
+      "level": 98
+    },
+    "message": "[Cherenkov|Shark|WEAPON_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-12T03:46:08.634Z"
+  }
+]
