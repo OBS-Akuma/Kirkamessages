@@ -274,5 +274,53 @@
     },
     "message": "/inv",
     "timestamp": "2026-05-12T12:16:07.506Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "2e201d4b-95f1-4665-ac6d-06fe2a36de77",
+      "shortId": "48GE0P",
+      "name": "xana",
+      "role": "USER",
+      "level": 67
+    },
+    "message": "[Hideyoshi||BODY_SKIN|EPIC]",
+    "timestamp": "2026-05-12T13:24:49.268Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "2e201d4b-95f1-4665-ac6d-06fe2a36de77",
+      "shortId": "48GE0P",
+      "name": "xana",
+      "role": "USER",
+      "level": 67
+    },
+    "message": "trading [Uranium||BODY_SKIN|MYTHICAL] for [Golden||CHEST|LEGENDARY]s",
+    "timestamp": "2026-05-12T13:58:55.915Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "2e201d4b-95f1-4665-ac6d-06fe2a36de77",
+      "shortId": "48GE0P",
+      "name": "xana",
+      "role": "USER",
+      "level": 67
+    },
+    "message": "/price [Fever|SCAR|WEAPON_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-12T14:02:03.370Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "2e201d4b-95f1-4665-ac6d-06fe2a36de77",
+      "shortId": "48GE0P",
+      "name": "xana",
+      "role": "USER",
+      "level": 67
+    },
+    "message": "/price [Ticketeer|SCAR|WEAPON_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-12T14:02:18.138Z"
   }
 ]
