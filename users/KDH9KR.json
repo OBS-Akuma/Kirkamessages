@@ -526,5 +526,29 @@
     },
     "message": "i dont like [Blast Bayonet|Bayonet|WEAPON_SKIN|MYTHICAL]",
     "timestamp": "2026-05-09T16:41:13.793Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "TpaHcMKpZ1Uh0sdDEu4UDAONcdS2",
+      "shortId": "KDH9KR",
+      "name": "strange",
+      "role": "USER",
+      "level": 43
+    },
+    "message": "tr[Firedemon||BODY_SKIN|LEGENDARY]",
+    "timestamp": "2026-05-12T00:51:11.887Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "TpaHcMKpZ1Uh0sdDEu4UDAONcdS2",
+      "shortId": "KDH9KR",
+      "name": "strange",
+      "role": "USER",
+      "level": 43
+    },
+    "message": "/last10 firedemon",
+    "timestamp": "2026-05-12T00:53:12.556Z"
   }
 ]
