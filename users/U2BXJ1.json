@@ -562,5 +562,53 @@
     },
     "message": "[Abstraction|VITA|WEAPON_SKIN|MYTHICAL] [Arachne|VITA|WEAPON_SKIN|MYTHICAL] [Cloudy|AR-9|WEAPON_SKIN|LEGENDARY] [Superjames||BODY_SKIN|MYTHICAL] [Eve||BODY_SKIN|MYTHICAL] [arwan]",
     "timestamp": "2026-05-12T11:22:30.421Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "ed29cf75-a70c-4e1c-8f21-382a23d8c5fb",
+      "shortId": "U2BXJ1",
+      "name": "T67playerani",
+      "role": "USER",
+      "level": 95
+    },
+    "message": "#TATTOO",
+    "timestamp": "2026-05-12T11:38:29.153Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "ed29cf75-a70c-4e1c-8f21-382a23d8c5fb",
+      "shortId": "U2BXJ1",
+      "name": "T67playerani",
+      "role": "USER",
+      "level": 95
+    },
+    "message": "/price [Cloudy|AR-9|WEAPON_SKIN|LEGENDARY]",
+    "timestamp": "2026-05-12T11:38:39.534Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "ed29cf75-a70c-4e1c-8f21-382a23d8c5fb",
+      "shortId": "U2BXJ1",
+      "name": "T67playerani",
+      "role": "USER",
+      "level": 95
+    },
+    "message": "/price [2026 Shark|Shark|WEAPON_SKIN|PARANORMAL]",
+    "timestamp": "2026-05-12T11:38:59.436Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "ed29cf75-a70c-4e1c-8f21-382a23d8c5fb",
+      "shortId": "U2BXJ1",
+      "name": "T67playerani",
+      "role": "USER",
+      "level": 95
+    },
+    "message": "/price [Pulse|Revolver|WEAPON_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-12T11:41:59.963Z"
   }
 ]
