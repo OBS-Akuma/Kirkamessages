@@ -46,5 +46,29 @@
     },
     "message": "/value [Billion|Shark|WEAPON_SKIN|MYTHICAL]",
     "timestamp": "2026-05-12T13:33:32.491Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "22adc46a-cda0-4598-b1af-cb2a3226403f",
+      "shortId": "9ZYS63",
+      "name": "Ares",
+      "role": "USER",
+      "level": 46
+    },
+    "message": "/price [Billion|Shark|WEAPON_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-12T15:02:47.520Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "22adc46a-cda0-4598-b1af-cb2a3226403f",
+      "shortId": "9ZYS63",
+      "name": "Ares",
+      "role": "USER",
+      "level": 46
+    },
+    "message": "/price [gemstone]",
+    "timestamp": "2026-05-12T15:07:44.313Z"
   }
 ]
