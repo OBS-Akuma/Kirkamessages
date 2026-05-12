@@ -22,5 +22,17 @@
     },
     "message": "/inv",
     "timestamp": "2026-05-07T09:27:25.058Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "9d387b97-a258-47bf-b10d-0ea9840e1db6",
+      "shortId": "76YSZZ",
+      "name": "AD_17",
+      "role": "USER",
+      "level": 64
+    },
+    "message": "whut can i get for 190x[Golden||CHEST|LEGENDARY]",
+    "timestamp": "2026-05-12T15:39:50.886Z"
   }
 ]
