@@ -2122,5 +2122,41 @@
     },
     "message": "anyone have [RGB||BODY_SKIN|LEGENDARY] or [RGB Black||BODY_SKIN|MYTHICAL]?",
     "timestamp": "2026-05-10T19:16:36.935Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "87b44f4a-1dc7-40f0-802f-2d46633545b9",
+      "shortId": "KKY06O",
+      "name": "Demon[Vink]",
+      "role": "USER",
+      "level": 50
+    },
+    "message": "yt dan can i offer for [Blast AR-9|AR-9|WEAPON_SKIN|MYTHICAL]?",
+    "timestamp": "2026-05-11T19:08:14.105Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "87b44f4a-1dc7-40f0-802f-2d46633545b9",
+      "shortId": "KKY06O",
+      "name": "Demon[Vink]",
+      "role": "USER",
+      "level": 50
+    },
+    "message": "[Xx||BODY_SKIN|MYTHICAL],[Blast Shark|Shark|WEAPON_SKIN|MYTHICAL] for [Blast AR-9|AR-9|WEAPON_SKIN|MYTHICAL]? DAN YT",
+    "timestamp": "2026-05-11T19:08:50.979Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "87b44f4a-1dc7-40f0-802f-2d46633545b9",
+      "shortId": "KKY06O",
+      "name": "Demon[Vink]",
+      "role": "USER",
+      "level": 50
+    },
+    "message": "no sry",
+    "timestamp": "2026-05-11T19:09:17.684Z"
   }
 ]
