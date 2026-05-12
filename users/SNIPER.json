@@ -130,5 +130,17 @@
     },
     "message": "/inv",
     "timestamp": "2026-05-12T06:49:29.355Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "d93ce53d-09df-4326-ad21-cbbec8fafef5",
+      "shortId": "SNIPER",
+      "name": "Citrus",
+      "role": "VERIFIED",
+      "level": 97
+    },
+    "message": "[Exhibit A|Shark|WEAPON_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-12T16:33:20.685Z"
   }
 ]
