@@ -1078,5 +1078,65 @@
     },
     "message": "awh alr",
     "timestamp": "2026-05-12T11:59:45.928Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "KEjMV2BDdFhYr0t6c3uhBW90G183",
+      "shortId": "9OAPEW",
+      "name": "Listener",
+      "role": "USER",
+      "level": 99
+    },
+    "message": "trading [Warlord||BODY_SKIN|MYTHICAL] [Hotrod Bayonet|Bayonet|WEAPON_SKIN|MYTHICAL],[Hotrod Shark|Shark|WEAPON_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-12T13:49:01.424Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "KEjMV2BDdFhYr0t6c3uhBW90G183",
+      "shortId": "9OAPEW",
+      "name": "Listener",
+      "role": "USER",
+      "level": 99
+    },
+    "message": "#9MDD8T can I do warlord + hotrod bayo + hotrod shark for st patric",
+    "timestamp": "2026-05-12T14:14:13.660Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "KEjMV2BDdFhYr0t6c3uhBW90G183",
+      "shortId": "9OAPEW",
+      "name": "Listener",
+      "role": "USER",
+      "level": 99
+    },
+    "message": ":>",
+    "timestamp": "2026-05-12T14:14:15.839Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "KEjMV2BDdFhYr0t6c3uhBW90G183",
+      "shortId": "9OAPEW",
+      "name": "Listener",
+      "role": "USER",
+      "level": 99
+    },
+    "message": "alr",
+    "timestamp": "2026-05-12T14:14:26.816Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "KEjMV2BDdFhYr0t6c3uhBW90G183",
+      "shortId": "9OAPEW",
+      "name": "Listener",
+      "role": "USER",
+      "level": 99
+    },
+    "message": "/inv",
+    "timestamp": "2026-05-12T14:42:19.587Z"
   }
 ]
