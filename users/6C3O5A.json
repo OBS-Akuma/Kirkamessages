@@ -1,0 +1,74 @@
+[
+  {
+    "type": 2,
+    "user": {
+      "id": "7b747bd7-ded5-4b2e-b952-2167295b8654",
+      "shortId": "6C3O5A",
+      "name": "scorh",
+      "role": "USER",
+      "level": 101
+    },
+    "message": "/price [tiburon",
+    "timestamp": "2026-05-12T11:23:04.146Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "7b747bd7-ded5-4b2e-b952-2167295b8654",
+      "shortId": "6C3O5A",
+      "name": "scorh",
+      "role": "USER",
+      "level": 101
+    },
+    "message": "/TRADE CANCEL",
+    "timestamp": "2026-05-12T13:00:14.411Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "7b747bd7-ded5-4b2e-b952-2167295b8654",
+      "shortId": "6C3O5A",
+      "name": "scorh",
+      "role": "USER",
+      "level": 101
+    },
+    "message": "sivf",
+    "timestamp": "2026-05-12T13:01:55.824Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "7b747bd7-ded5-4b2e-b952-2167295b8654",
+      "shortId": "6C3O5A",
+      "name": "scorh",
+      "role": "USER",
+      "level": 101
+    },
+    "message": "hm for [Synergy|LAR|WEAPON_SKIN|MYTHICAL] ?",
+    "timestamp": "2026-05-12T13:02:04.550Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "7b747bd7-ded5-4b2e-b952-2167295b8654",
+      "shortId": "6C3O5A",
+      "name": "scorh",
+      "role": "USER",
+      "level": 101
+    },
+    "message": "/price [synergy",
+    "timestamp": "2026-05-12T13:02:17.133Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "7b747bd7-ded5-4b2e-b952-2167295b8654",
+      "shortId": "6C3O5A",
+      "name": "scorh",
+      "role": "USER",
+      "level": 101
+    },
+    "message": "alr",
+    "timestamp": "2026-05-12T13:02:34.899Z"
+  }
+]
