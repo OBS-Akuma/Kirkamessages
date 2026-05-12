@@ -610,5 +610,29 @@
     },
     "message": "ur gonna get muted",
     "timestamp": "2026-05-12T01:40:30.030Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "TpaHcMKpZ1Uh0sdDEu4UDAONcdS2",
+      "shortId": "KDH9KR",
+      "name": "strange",
+      "role": "USER",
+      "level": 43
+    },
+    "message": "tr[Firedemon||BODY_SKIN|LEGENDARY]",
+    "timestamp": "2026-05-12T16:52:04.749Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "TpaHcMKpZ1Uh0sdDEu4UDAONcdS2",
+      "shortId": "KDH9KR",
+      "name": "strange",
+      "role": "USER",
+      "level": 43
+    },
+    "message": "/enter",
+    "timestamp": "2026-05-12T16:52:56.433Z"
   }
 ]
