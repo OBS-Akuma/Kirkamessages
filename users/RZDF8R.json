@@ -1138,5 +1138,17 @@
     },
     "message": "/hm slasher x1000000000000000000000000000000000000000000000000000000000000000000",
     "timestamp": "2026-05-12T03:14:11.689Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "8b783ea6-80c0-441e-9d0f-9f9efbfb40d0",
+      "shortId": "RZDF8R",
+      "name": "[LND].Butcher",
+      "role": "USER",
+      "level": 44
+    },
+    "message": "#O1E906",
+    "timestamp": "2026-05-12T12:50:28.272Z"
   }
 ]
