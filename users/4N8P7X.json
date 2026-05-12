@@ -190,5 +190,17 @@
     },
     "message": "rdy karoooooooooooo",
     "timestamp": "2026-05-12T16:16:47.691Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "76ab5d08-a13f-49ef-a196-e0d8551c47ab",
+      "shortId": "4N8P7X",
+      "name": "CHOOUTU",
+      "role": "USER",
+      "level": 94
+    },
+    "message": "wager any",
+    "timestamp": "2026-05-12T17:10:35.111Z"
   }
 ]
