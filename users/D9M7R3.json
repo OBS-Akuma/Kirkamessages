@@ -190,5 +190,17 @@
     },
     "message": "gg",
     "timestamp": "2026-05-12T09:29:43.502Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "0b43e966-3a87-43a7-b01a-7caf11b625a1",
+      "shortId": "D9M7R3",
+      "name": "V0idSn1per_Op",
+      "role": "USER",
+      "level": 16
+    },
+    "message": "/inv",
+    "timestamp": "2026-05-12T16:18:34.474Z"
   }
 ]
