@@ -130,5 +130,29 @@
     },
     "message": "/hm gamma",
     "timestamp": "2026-05-12T13:23:29.351Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "8477082a-af1c-49b1-9b67-b79b7e339704",
+      "shortId": "7YA09K",
+      "name": "Samta",
+      "role": "USER",
+      "level": 83
+    },
+    "message": ".",
+    "timestamp": "2026-05-12T15:58:47.257Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "8477082a-af1c-49b1-9b67-b79b7e339704",
+      "shortId": "7YA09K",
+      "name": "Samta",
+      "role": "USER",
+      "level": 83
+    },
+    "message": "/hm gamma",
+    "timestamp": "2026-05-12T15:58:47.814Z"
   }
 ]
