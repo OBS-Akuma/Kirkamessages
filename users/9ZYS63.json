@@ -70,5 +70,17 @@
     },
     "message": "/price [gemstone]",
     "timestamp": "2026-05-12T15:07:44.313Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "22adc46a-cda0-4598-b1af-cb2a3226403f",
+      "shortId": "9ZYS63",
+      "name": "Ares",
+      "role": "USER",
+      "level": 46
+    },
+    "message": "any clans i can join?",
+    "timestamp": "2026-05-12T15:54:01.879Z"
   }
 ]
