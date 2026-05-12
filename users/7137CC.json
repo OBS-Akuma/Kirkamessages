@@ -94,5 +94,17 @@
     },
     "message": "7137CC",
     "timestamp": "2026-05-11T08:47:47.203Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "f31ba0cb-4464-4727-9570-23b1f3c4f179",
+      "shortId": "7137CC",
+      "name": "PRO**",
+      "role": "USER",
+      "level": 13
+    },
+    "message": "#PX0G7D",
+    "timestamp": "2026-05-12T09:19:31.075Z"
   }
 ]
