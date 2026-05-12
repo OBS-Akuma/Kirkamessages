@@ -454,5 +454,29 @@
     },
     "message": "hi daminion",
     "timestamp": "2026-05-12T09:21:57.960Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "745ddc76-ceb8-4e5f-8b1a-f5981c23d994",
+      "shortId": "BJMC35",
+      "name": "L0RD0fTheNorth",
+      "role": "USER",
+      "level": 98
+    },
+    "message": "/inv",
+    "timestamp": "2026-05-12T18:10:29.991Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "745ddc76-ceb8-4e5f-8b1a-f5981c23d994",
+      "shortId": "BJMC35",
+      "name": "L0RD0fTheNorth",
+      "role": "USER",
+      "level": 98
+    },
+    "message": "lf quilliam",
+    "timestamp": "2026-05-12T18:10:34.883Z"
   }
 ]
