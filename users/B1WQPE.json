@@ -1294,5 +1294,17 @@
     },
     "message": "??",
     "timestamp": "2026-05-11T10:34:16.367Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "2251c284-278f-47dd-a209-5c6781403741",
+      "shortId": "B1WQPE",
+      "name": "Lazy-Genius",
+      "role": "USER",
+      "level": 60
+    },
+    "message": "hi",
+    "timestamp": "2026-05-11T10:50:46.406Z"
   }
 ]
