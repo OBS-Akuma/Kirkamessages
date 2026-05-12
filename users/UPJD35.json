@@ -1,0 +1,38 @@
+[
+  {
+    "type": 2,
+    "user": {
+      "id": "579a9176-52bd-4f87-bd0d-e61c1e26db34",
+      "shortId": "UPJD35",
+      "name": "BLASTMAN",
+      "role": "USER",
+      "level": 29
+    },
+    "message": "/giveaway [Cwn||BODY_SKIN|LEGENDARY]x4 40",
+    "timestamp": "2026-05-12T14:39:54.221Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "579a9176-52bd-4f87-bd0d-e61c1e26db34",
+      "shortId": "UPJD35",
+      "name": "BLASTMAN",
+      "role": "USER",
+      "level": 29
+    },
+    "message": "enter",
+    "timestamp": "2026-05-12T14:40:08.624Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "579a9176-52bd-4f87-bd0d-e61c1e26db34",
+      "shortId": "UPJD35",
+      "name": "BLASTMAN",
+      "role": "USER",
+      "level": 29
+    },
+    "message": "/giveaway",
+    "timestamp": "2026-05-12T14:40:24.259Z"
+  }
+]
