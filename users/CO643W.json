@@ -94,5 +94,17 @@
     },
     "message": "Chicken for trade",
     "timestamp": "2026-05-08T20:45:50.894Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "guest-42b3c84d-f78b-4c70-b3cb-6121a6575ba6",
+      "shortId": "CO643W",
+      "name": "KAUBO",
+      "role": "USER",
+      "level": 11
+    },
+    "message": "arafat muklo",
+    "timestamp": "2026-05-12T16:01:43.402Z"
   }
 ]
