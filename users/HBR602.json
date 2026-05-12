@@ -2266,5 +2266,17 @@
     },
     "message": "hm [Skulduggery||BODY_SKIN|MYTHICAL]",
     "timestamp": "2026-05-11T10:31:55.747Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "b5b856b7-c455-4d13-9c58-9eb824d4550f",
+      "shortId": "HBR602",
+      "name": "glimmer",
+      "role": "USER",
+      "level": 87
+    },
+    "message": "tr [Slasher||BODY_SKIN|PARANORMAL] [Hazmat||BODY_SKIN|PARANORMAL] [Target|Revolver|WEAPON_SKIN|MYTHICAL] [Bok||BODY_SKIN|MYTHICAL] [Mabel||BODY_SKIN|MYTHICAL] [Onryo||BODY_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-12T05:20:50.504Z"
   }
 ]
