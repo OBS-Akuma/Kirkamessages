@@ -10,5 +10,53 @@
     },
     "message": "HAIII",
     "timestamp": "2026-05-03T15:36:56.707Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "6b8f7224-8017-4746-80ad-40336adbfe82",
+      "shortId": "IGE8SY",
+      "name": "Deetya",
+      "role": "USER",
+      "level": 18
+    },
+    "message": "/price polar",
+    "timestamp": "2026-05-12T15:11:21.999Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "6b8f7224-8017-4746-80ad-40336adbfe82",
+      "shortId": "IGE8SY",
+      "name": "Deetya",
+      "role": "USER",
+      "level": 18
+    },
+    "message": "Elo",
+    "timestamp": "2026-05-12T15:12:02.547Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "6b8f7224-8017-4746-80ad-40336adbfe82",
+      "shortId": "IGE8SY",
+      "name": "Deetya",
+      "role": "USER",
+      "level": 18
+    },
+    "message": "/price polar",
+    "timestamp": "2026-05-12T15:12:04.768Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "6b8f7224-8017-4746-80ad-40336adbfe82",
+      "shortId": "IGE8SY",
+      "name": "Deetya",
+      "role": "USER",
+      "level": 18
+    },
+    "message": "TR [Clownabeth||BODY_SKIN|MYTHICAL] [Polar||BODY_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-12T15:21:03.668Z"
   }
 ]
