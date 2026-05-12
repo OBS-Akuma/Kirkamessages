@@ -694,5 +694,29 @@
     },
     "message": "/inv #AKLTPC",
     "timestamp": "2026-05-11T06:45:04.993Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "7001fed6-5d8a-4759-97fb-f4d659e9cea0",
+      "shortId": "C3F13Y",
+      "name": "NewbiexDzdz",
+      "role": "USER",
+      "level": 45
+    },
+    "message": "/inv #WERWER",
+    "timestamp": "2026-05-12T03:41:00.127Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "7001fed6-5d8a-4759-97fb-f4d659e9cea0",
+      "shortId": "C3F13Y",
+      "name": "NewbiexDzdz",
+      "role": "USER",
+      "level": 45
+    },
+    "message": "PLS,ADA YANG PUNYA [Blast SCAR|SCAR|WEAPON_SKIN|MYTHICAL] NGGAK?",
+    "timestamp": "2026-05-12T03:42:43.156Z"
   }
 ]
