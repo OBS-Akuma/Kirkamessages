@@ -1,0 +1,86 @@
+[
+  {
+    "type": 2,
+    "user": {
+      "id": "6de2665f-d84d-452e-844b-fdd40870abbb",
+      "shortId": "9H88FT",
+      "name": "washed",
+      "role": "USER",
+      "level": 36
+    },
+    "message": "/help",
+    "timestamp": "2026-05-12T09:32:00.694Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "6de2665f-d84d-452e-844b-fdd40870abbb",
+      "shortId": "9H88FT",
+      "name": "washed",
+      "role": "USER",
+      "level": 36
+    },
+    "message": "/c10",
+    "timestamp": "2026-05-12T09:32:20.608Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "6de2665f-d84d-452e-844b-fdd40870abbb",
+      "shortId": "9H88FT",
+      "name": "washed",
+      "role": "USER",
+      "level": 36
+    },
+    "message": "/c6",
+    "timestamp": "2026-05-12T09:32:31.847Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "6de2665f-d84d-452e-844b-fdd40870abbb",
+      "shortId": "9H88FT",
+      "name": "washed",
+      "role": "USER",
+      "level": 36
+    },
+    "message": "/topgoat",
+    "timestamp": "2026-05-12T09:32:42.952Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "6de2665f-d84d-452e-844b-fdd40870abbb",
+      "shortId": "9H88FT",
+      "name": "washed",
+      "role": "USER",
+      "level": 36
+    },
+    "message": "/c1",
+    "timestamp": "2026-05-12T09:33:10.573Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "6de2665f-d84d-452e-844b-fdd40870abbb",
+      "shortId": "9H88FT",
+      "name": "washed",
+      "role": "USER",
+      "level": 36
+    },
+    "message": "/ping",
+    "timestamp": "2026-05-12T09:33:26.722Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "6de2665f-d84d-452e-844b-fdd40870abbb",
+      "shortId": "9H88FT",
+      "name": "washed",
+      "role": "USER",
+      "level": 36
+    },
+    "message": "#S91J1D",
+    "timestamp": "2026-05-12T10:43:21.811Z"
+  }
+]
