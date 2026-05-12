@@ -274,5 +274,29 @@
     },
     "message": "just give u onryo for nothing? -_-",
     "timestamp": "2026-05-12T07:17:05.601Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "VDlzMXAa9DZPbZvebQ5vePHLeex2",
+      "shortId": "3XRCCU",
+      "name": "DABEYT",
+      "role": "USER",
+      "level": 66
+    },
+    "message": "[Imperial|SCAR|WEAPON_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-12T07:20:32.603Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "VDlzMXAa9DZPbZvebQ5vePHLeex2",
+      "shortId": "3XRCCU",
+      "name": "DABEYT",
+      "role": "USER",
+      "level": 66
+    },
+    "message": "/hm imperial",
+    "timestamp": "2026-05-12T07:20:42.690Z"
   }
 ]
