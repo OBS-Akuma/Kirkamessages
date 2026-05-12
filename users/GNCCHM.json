@@ -106,5 +106,137 @@
     },
     "message": "/inv",
     "timestamp": "2026-05-12T10:58:37.850Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "6b91b714-19c2-496f-adf9-3f65bca47839",
+      "shortId": "GNCCHM",
+      "name": "AURACAOBANG",
+      "role": "USER",
+      "level": 99
+    },
+    "message": "UG [Golden||CHEST|LEGENDARY]x9000 :)",
+    "timestamp": "2026-05-12T12:28:43.954Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "6b91b714-19c2-496f-adf9-3f65bca47839",
+      "shortId": "GNCCHM",
+      "name": "AURACAOBANG",
+      "role": "USER",
+      "level": 99
+    },
+    "message": "trading 9k golden",
+    "timestamp": "2026-05-12T12:30:16.141Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "6b91b714-19c2-496f-adf9-3f65bca47839",
+      "shortId": "GNCCHM",
+      "name": "AURACAOBANG",
+      "role": "USER",
+      "level": 99
+    },
+    "message": "/hm ashley",
+    "timestamp": "2026-05-12T12:30:25.583Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "6b91b714-19c2-496f-adf9-3f65bca47839",
+      "shortId": "GNCCHM",
+      "name": "AURACAOBANG",
+      "role": "USER",
+      "level": 99
+    },
+    "message": "yo guys hm is [Ashley||BODY_SKIN|MYTHICAL] rn",
+    "timestamp": "2026-05-12T12:30:34.451Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "6b91b714-19c2-496f-adf9-3f65bca47839",
+      "shortId": "GNCCHM",
+      "name": "AURACAOBANG",
+      "role": "USER",
+      "level": 99
+    },
+    "message": "ight",
+    "timestamp": "2026-05-12T12:30:44.619Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "6b91b714-19c2-496f-adf9-3f65bca47839",
+      "shortId": "GNCCHM",
+      "name": "AURACAOBANG",
+      "role": "USER",
+      "level": 99
+    },
+    "message": "/hm sunshine",
+    "timestamp": "2026-05-12T12:48:28.317Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "6b91b714-19c2-496f-adf9-3f65bca47839",
+      "shortId": "GNCCHM",
+      "name": "AURACAOBANG",
+      "role": "USER",
+      "level": 99
+    },
+    "message": "#FCNBSC",
+    "timestamp": "2026-05-12T12:53:59.294Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "6b91b714-19c2-496f-adf9-3f65bca47839",
+      "shortId": "GNCCHM",
+      "name": "AURACAOBANG",
+      "role": "USER",
+      "level": 99
+    },
+    "message": "/price [Reed||BODY_SKIN|LEGENDARY]",
+    "timestamp": "2026-05-12T14:17:25.891Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "6b91b714-19c2-496f-adf9-3f65bca47839",
+      "shortId": "GNCCHM",
+      "name": "AURACAOBANG",
+      "role": "USER",
+      "level": 99
+    },
+    "message": "#48X5FI",
+    "timestamp": "2026-05-12T14:18:40.549Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "6b91b714-19c2-496f-adf9-3f65bca47839",
+      "shortId": "GNCCHM",
+      "name": "AURACAOBANG",
+      "role": "USER",
+      "level": 99
+    },
+    "message": "/price [spranch",
+    "timestamp": "2026-05-12T14:20:10.365Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "6b91b714-19c2-496f-adf9-3f65bca47839",
+      "shortId": "GNCCHM",
+      "name": "AURACAOBANG",
+      "role": "USER",
+      "level": 99
+    },
+    "message": "/price splanch",
+    "timestamp": "2026-05-12T14:20:20.617Z"
   }
 ]
