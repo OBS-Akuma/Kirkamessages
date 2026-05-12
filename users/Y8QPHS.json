@@ -10,5 +10,53 @@
     },
     "message": "[Kod||BODY_SKIN|LEGENDARY]",
     "timestamp": "2026-05-08T10:27:20.455Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "58ec0979-1905-4ac8-85f8-7c3073dc799b",
+      "shortId": "Y8QPHS",
+      "name": "Krish",
+      "role": "USER",
+      "level": 94
+    },
+    "message": "[Infernal|AR-9|WEAPON_SKIN|MYTHICAL] /value",
+    "timestamp": "2026-05-11T10:28:14.409Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "58ec0979-1905-4ac8-85f8-7c3073dc799b",
+      "shortId": "Y8QPHS",
+      "name": "Krish",
+      "role": "USER",
+      "level": 94
+    },
+    "message": "/value [Infernal|AR-9|WEAPON_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-11T10:28:22.003Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "58ec0979-1905-4ac8-85f8-7c3073dc799b",
+      "shortId": "Y8QPHS",
+      "name": "Krish",
+      "role": "USER",
+      "level": 94
+    },
+    "message": "/guys",
+    "timestamp": "2026-05-11T10:28:24.926Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "58ec0979-1905-4ac8-85f8-7c3073dc799b",
+      "shortId": "Y8QPHS",
+      "name": "Krish",
+      "role": "USER",
+      "level": 94
+    },
+    "message": "anyone tell me how to find value?",
+    "timestamp": "2026-05-11T10:28:34.907Z"
   }
 ]
