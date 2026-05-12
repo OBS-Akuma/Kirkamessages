@@ -2674,5 +2674,53 @@
     },
     "message": "#6ED1PP",
     "timestamp": "2026-05-11T00:15:06.707Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "1a4fb7ab-45cd-449b-858f-14a509ff9ecb",
+      "shortId": "NM3VUO",
+      "name": "Newbie#2",
+      "role": "USER",
+      "level": 64
+    },
+    "message": "#Z4C82V",
+    "timestamp": "2026-05-12T07:19:18.722Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "1a4fb7ab-45cd-449b-858f-14a509ff9ecb",
+      "shortId": "NM3VUO",
+      "name": "Newbie#2",
+      "role": "USER",
+      "level": 64
+    },
+    "message": "report tht cheating bot",
+    "timestamp": "2026-05-12T07:19:37.246Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "1a4fb7ab-45cd-449b-858f-14a509ff9ecb",
+      "shortId": "NM3VUO",
+      "name": "Newbie#2",
+      "role": "USER",
+      "level": 64
+    },
+    "message": "if y'all can",
+    "timestamp": "2026-05-12T07:19:42.624Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "1a4fb7ab-45cd-449b-858f-14a509ff9ecb",
+      "shortId": "NM3VUO",
+      "name": "Newbie#2",
+      "role": "USER",
+      "level": 64
+    },
+    "message": "#Z4C82V",
+    "timestamp": "2026-05-12T07:23:25.806Z"
   }
 ]
