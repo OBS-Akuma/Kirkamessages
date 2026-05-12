@@ -1,0 +1,38 @@
+[
+  {
+    "type": 2,
+    "user": {
+      "id": "51200e40-fd32-44d5-bd16-347884727941",
+      "shortId": "6MQ61X",
+      "name": "Doxt",
+      "role": "USER",
+      "level": 83
+    },
+    "message": "(samurai)",
+    "timestamp": "2026-05-11T23:48:10.014Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "51200e40-fd32-44d5-bd16-347884727941",
+      "shortId": "6MQ61X",
+      "name": "Doxt",
+      "role": "USER",
+      "level": 83
+    },
+    "message": "{samurai}",
+    "timestamp": "2026-05-11T23:48:35.971Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "51200e40-fd32-44d5-bd16-347884727941",
+      "shortId": "6MQ61X",
+      "name": "Doxt",
+      "role": "USER",
+      "level": 83
+    },
+    "message": "how do i mark an item",
+    "timestamp": "2026-05-11T23:48:44.026Z"
+  }
+]
