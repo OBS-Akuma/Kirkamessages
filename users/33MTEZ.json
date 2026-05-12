@@ -382,5 +382,17 @@
     },
     "message": "what items",
     "timestamp": "2026-05-12T18:46:10.724Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "c55ae53c-5622-4ebe-801b-5fa6c6f5f940",
+      "shortId": "33MTEZ",
+      "name": "larp",
+      "role": "USER",
+      "level": 77
+    },
+    "message": "tr[Melody||BODY_SKIN|MYTHICAL][Glance|Bayonet|WEAPON_SKIN|LEGENDARY][Blast SCAR|SCAR|WEAPON_SKIN|MYTHICAL][Scorcher|Shark|WEAPON_SKIN|MYTHICAL][Forbidden|AR-9|WEAPON_SKIN|MYTHICAL][Teddy||BODY_SKIN|LEGENDARY][Lucy||BODY_SKIN|LEGENDARY][CheckUV|VITA|WEAPON_SKIN|LEGENDARY]",
+    "timestamp": "2026-05-12T19:40:28.472Z"
   }
 ]
