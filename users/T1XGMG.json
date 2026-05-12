@@ -334,5 +334,137 @@
     },
     "message": "i wanna trade",
     "timestamp": "2026-05-12T01:21:39.407Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "1b11cbe3-1e5b-405a-be00-261152eedc05",
+      "shortId": "T1XGMG",
+      "name": "j..........",
+      "role": "USER",
+      "level": 92
+    },
+    "message": "/price [Baldwin||BODY_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-12T13:24:19.968Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "1b11cbe3-1e5b-405a-be00-261152eedc05",
+      "shortId": "T1XGMG",
+      "name": "j..........",
+      "role": "USER",
+      "level": 92
+    },
+    "message": "#2QIYUL yea?",
+    "timestamp": "2026-05-12T13:24:45.039Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "1b11cbe3-1e5b-405a-be00-261152eedc05",
+      "shortId": "T1XGMG",
+      "name": "j..........",
+      "role": "USER",
+      "level": 92
+    },
+    "message": "/price [Xed||BODY_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-12T13:25:02.534Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "1b11cbe3-1e5b-405a-be00-261152eedc05",
+      "shortId": "T1XGMG",
+      "name": "j..........",
+      "role": "USER",
+      "level": 92
+    },
+    "message": "#2QIYUL nty",
+    "timestamp": "2026-05-12T13:26:10.548Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "1b11cbe3-1e5b-405a-be00-261152eedc05",
+      "shortId": "T1XGMG",
+      "name": "j..........",
+      "role": "USER",
+      "level": 92
+    },
+    "message": "#2QIYUL what?",
+    "timestamp": "2026-05-12T13:26:32.915Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "1b11cbe3-1e5b-405a-be00-261152eedc05",
+      "shortId": "T1XGMG",
+      "name": "j..........",
+      "role": "USER",
+      "level": 92
+    },
+    "message": "nah",
+    "timestamp": "2026-05-12T13:26:36.378Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "1b11cbe3-1e5b-405a-be00-261152eedc05",
+      "shortId": "T1XGMG",
+      "name": "j..........",
+      "role": "USER",
+      "level": 92
+    },
+    "message": "/price [Swirl|Revolver|WEAPON_SKIN|EPIC]",
+    "timestamp": "2026-05-12T13:33:27.381Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "1b11cbe3-1e5b-405a-be00-261152eedc05",
+      "shortId": "T1XGMG",
+      "name": "j..........",
+      "role": "USER",
+      "level": 92
+    },
+    "message": "/hm [Bullseye||BODY_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-12T13:33:53.457Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "1b11cbe3-1e5b-405a-be00-261152eedc05",
+      "shortId": "T1XGMG",
+      "name": "j..........",
+      "role": "USER",
+      "level": 92
+    },
+    "message": "/hm [Guts||BODY_SKIN|LEGENDARY]",
+    "timestamp": "2026-05-12T13:35:48.117Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "1b11cbe3-1e5b-405a-be00-261152eedc05",
+      "shortId": "T1XGMG",
+      "name": "j..........",
+      "role": "USER",
+      "level": 92
+    },
+    "message": "/hm [Sinister||BODY_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-12T13:35:57.691Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "1b11cbe3-1e5b-405a-be00-261152eedc05",
+      "shortId": "T1XGMG",
+      "name": "j..........",
+      "role": "USER",
+      "level": 92
+    },
+    "message": "/hm [Slasher||BODY_SKIN|PARANORMAL]",
+    "timestamp": "2026-05-12T13:36:15.774Z"
   }
 ]
