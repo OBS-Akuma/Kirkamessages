@@ -4040,7 +4040,7 @@
       "role": "USER",
       "level": 99
     },
-    "message": "HÒJE",
+    "message": "HÃJE",
     "timestamp": "2026-05-12T14:48:42.323Z"
   },
   {
@@ -5554,5 +5554,65 @@
     },
     "message": "Its 22m, but no one want to pay tht much for it :3",
     "timestamp": "2026-05-12T18:16:42.297Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "e94fc41b-ee11-41e2-8942-4381500742af",
+      "shortId": "KILLER",
+      "name": "Quitter",
+      "role": "USER",
+      "level": 99
+    },
+    "message": "Rider biker also no demand -.-",
+    "timestamp": "2026-05-12T18:19:45.552Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "e94fc41b-ee11-41e2-8942-4381500742af",
+      "shortId": "KILLER",
+      "name": "Quitter",
+      "role": "USER",
+      "level": 99
+    },
+    "message": "Kirka lagging thts fs",
+    "timestamp": "2026-05-12T18:20:31.177Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "e94fc41b-ee11-41e2-8942-4381500742af",
+      "shortId": "KILLER",
+      "name": "Quitter",
+      "role": "USER",
+      "level": 99
+    },
+    "message": "Cant even open profile",
+    "timestamp": "2026-05-12T18:20:39.022Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "e94fc41b-ee11-41e2-8942-4381500742af",
+      "shortId": "KILLER",
+      "name": "Quitter",
+      "role": "USER",
+      "level": 99
+    },
+    "message": "I can help sell it",
+    "timestamp": "2026-05-12T18:21:26.310Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "e94fc41b-ee11-41e2-8942-4381500742af",
+      "shortId": "KILLER",
+      "name": "Quitter",
+      "role": "USER",
+      "level": 99
+    },
+    "message": "I mean quicksell",
+    "timestamp": "2026-05-12T18:21:31.915Z"
   }
 ]
