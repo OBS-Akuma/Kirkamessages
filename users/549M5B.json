@@ -250,5 +250,17 @@
     },
     "message": "wager [Rainy||BODY_SKIN|MYTHICAL]",
     "timestamp": "2026-05-09T01:29:49.291Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "8685e1d3-c485-4f8c-9e7f-55fa5f66839d",
+      "shortId": "549M5B",
+      "name": "dumpndrac",
+      "role": "USER",
+      "level": 61
+    },
+    "message": "wager [Splanch|VITA|WEAPON_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-12T12:26:56.993Z"
   }
 ]
