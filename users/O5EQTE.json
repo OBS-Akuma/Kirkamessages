@@ -1,0 +1,26 @@
+[
+  {
+    "type": 2,
+    "user": {
+      "id": "319f48c9-e8bb-450b-b027-66734e73ac82",
+      "shortId": "O5EQTE",
+      "name": "LenZ",
+      "role": "USER",
+      "level": 98
+    },
+    "message": "/gift #WX7ZW3 [turtle[",
+    "timestamp": "2026-05-12T11:14:23.745Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "319f48c9-e8bb-450b-b027-66734e73ac82",
+      "shortId": "O5EQTE",
+      "name": "LenZ",
+      "role": "USER",
+      "level": 98
+    },
+    "message": "/gift #WX7ZW3 [Turtle|Bayonet|WEAPON_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-12T11:14:36.133Z"
+  }
+]
