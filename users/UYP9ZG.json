@@ -130,5 +130,41 @@
     },
     "message": "i have some items but they are not as good as qod yk",
     "timestamp": "2026-05-11T19:16:23.721Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "40a82586-b2b2-48bf-af45-a1a237369d0a",
+      "shortId": "UYP9ZG",
+      "name": "Jack_Sparrow",
+      "role": "USER",
+      "level": 99
+    },
+    "message": "/price [Hellizabeth||BODY_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-12T09:03:41.689Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "40a82586-b2b2-48bf-af45-a1a237369d0a",
+      "shortId": "UYP9ZG",
+      "name": "Jack_Sparrow",
+      "role": "USER",
+      "level": 99
+    },
+    "message": "tr [Retro|Bayonet|WEAPON_SKIN|MYTHICAL], [Drake|Bayonet|WEAPON_SKIN|MYTHICAL] , [Abstraction|VITA|WEAPON_SKIN|MYTHICAL],[Cosmos|VITA|WEAPON_SKIN|MYTHICAL],[Astronova|LAR|WEAPON_SKIN|MYTHICAL]x2,[All Spark|Revolver|WEAPON_SKIN|MYTHICAL]x2",
+    "timestamp": "2026-05-12T10:02:18.008Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "40a82586-b2b2-48bf-af45-a1a237369d0a",
+      "shortId": "UYP9ZG",
+      "name": "Jack_Sparrow",
+      "role": "USER",
+      "level": 99
+    },
+    "message": "tr [Retro|Bayonet|WEAPON_SKIN|MYTHICAL], [Drake|Bayonet|WEAPON_SKIN|MYTHICAL] , [Abstraction|VITA|WEAPON_SKIN|MYTHICAL],[Cosmos|VITA|WEAPON_SKIN|MYTHICAL],[Astronova|LAR|WEAPON_SKIN|MYTHICAL]x2,[All Spark|Revolver|WEAPON_SKIN|MYTHICAL]x2/",
+    "timestamp": "2026-05-12T10:04:09.660Z"
   }
 ]
