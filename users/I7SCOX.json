@@ -982,5 +982,77 @@
     },
     "message": "/inv #POOKIE",
     "timestamp": "2026-05-10T23:44:29.697Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "e53ac14c-dc7d-421c-8abd-fe7b9e185688",
+      "shortId": "I7SCOX",
+      "name": "cocoa_koala",
+      "role": "USER",
+      "level": 81
+    },
+    "message": "hm for d scar",
+    "timestamp": "2026-05-12T04:25:42.761Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "e53ac14c-dc7d-421c-8abd-fe7b9e185688",
+      "shortId": "I7SCOX",
+      "name": "cocoa_koala",
+      "role": "USER",
+      "level": 81
+    },
+    "message": "/hm [Dragonic SCAR|SCAR|WEAPON_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-12T04:25:48.079Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "e53ac14c-dc7d-421c-8abd-fe7b9e185688",
+      "shortId": "I7SCOX",
+      "name": "cocoa_koala",
+      "role": "USER",
+      "level": 81
+    },
+    "message": "/enter",
+    "timestamp": "2026-05-12T04:26:06.359Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "e53ac14c-dc7d-421c-8abd-fe7b9e185688",
+      "shortId": "I7SCOX",
+      "name": "cocoa_koala",
+      "role": "USER",
+      "level": 81
+    },
+    "message": "/giveaway woodx1",
+    "timestamp": "2026-05-12T04:26:16.829Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "e53ac14c-dc7d-421c-8abd-fe7b9e185688",
+      "shortId": "I7SCOX",
+      "name": "cocoa_koala",
+      "role": "USER",
+      "level": 81
+    },
+    "message": "/giveaway woodx1 10",
+    "timestamp": "2026-05-12T04:26:25.246Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "e53ac14c-dc7d-421c-8abd-fe7b9e185688",
+      "shortId": "I7SCOX",
+      "name": "cocoa_koala",
+      "role": "USER",
+      "level": 81
+    },
+    "message": "/giveaway [Wood||CHEST|COMMON]x1 10",
+    "timestamp": "2026-05-12T04:26:33.195Z"
   }
 ]
