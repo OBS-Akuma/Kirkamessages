@@ -2995,5 +2995,17 @@
     },
     "message": "/price ticketeer",
     "timestamp": "2026-05-11T06:30:11.485Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "c3e3dbc6-624d-450c-908a-672ba348b1fd",
+      "shortId": "FPUPR5",
+      "name": "Worman",
+      "role": "USER",
+      "level": 99
+    },
+    "message": "lies",
+    "timestamp": "2026-05-12T02:53:04.712Z"
   }
 ]
