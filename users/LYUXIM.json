@@ -562,5 +562,53 @@
     },
     "message": "/price tiburon",
     "timestamp": "2026-05-12T06:08:19.054Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "fddeb704-c4e4-4f50-8a81-28c407f6d5da",
+      "shortId": "LYUXIM",
+      "name": "tstep",
+      "role": "USER",
+      "level": 98
+    },
+    "message": "/price bloom",
+    "timestamp": "2026-05-12T20:16:00.758Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "fddeb704-c4e4-4f50-8a81-28c407f6d5da",
+      "shortId": "LYUXIM",
+      "name": "tstep",
+      "role": "USER",
+      "level": 98
+    },
+    "message": "/price ashley",
+    "timestamp": "2026-05-12T20:16:02.912Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "fddeb704-c4e4-4f50-8a81-28c407f6d5da",
+      "shortId": "LYUXIM",
+      "name": "tstep",
+      "role": "USER",
+      "level": 98
+    },
+    "message": "/",
+    "timestamp": "2026-05-12T20:16:08.778Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "fddeb704-c4e4-4f50-8a81-28c407f6d5da",
+      "shortId": "LYUXIM",
+      "name": "tstep",
+      "role": "USER",
+      "level": 98
+    },
+    "message": "/price ashley",
+    "timestamp": "2026-05-12T20:16:13.065Z"
   }
 ]
