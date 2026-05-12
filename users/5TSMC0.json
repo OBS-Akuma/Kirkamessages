@@ -958,5 +958,29 @@
     },
     "message": "/fav bolt",
     "timestamp": "2026-05-12T18:15:44.208Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "eafec961-ab59-4151-9ba7-667b3c9d1626",
+      "shortId": "5TSMC0",
+      "name": "Ghosty67",
+      "role": "USER",
+      "level": 93
+    },
+    "message": "/traed accept 16035",
+    "timestamp": "2026-05-12T21:24:19.003Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "eafec961-ab59-4151-9ba7-667b3c9d1626",
+      "shortId": "5TSMC0",
+      "name": "Ghosty67",
+      "role": "USER",
+      "level": 93
+    },
+    "message": "FINLAY",
+    "timestamp": "2026-05-12T21:51:42.522Z"
   }
 ]
