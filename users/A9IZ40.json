@@ -490,5 +490,17 @@
     },
     "message": "WHEN ARE THEY GOING OT READY UP SHELL",
     "timestamp": "2026-05-12T00:27:15.957Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "2fde3233-4f8a-4e77-bd7e-61070f06f116",
+      "shortId": "A9IZ40",
+      "name": "EXEhellokitty",
+      "role": "USER",
+      "level": 12
+    },
+    "message": "/price fade",
+    "timestamp": "2026-05-12T14:02:57.854Z"
   }
 ]
