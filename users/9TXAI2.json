@@ -22,5 +22,17 @@
     },
     "message": "#UDMYQA",
     "timestamp": "2026-05-08T08:41:40.911Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "32a3c6f6-29c5-43a7-b4fd-08d6ff1065d0",
+      "shortId": "9TXAI2",
+      "name": "steaveboi",
+      "role": "USER",
+      "level": 72
+    },
+    "message": "/inv",
+    "timestamp": "2026-05-12T07:13:40.495Z"
   }
 ]
