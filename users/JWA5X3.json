@@ -298,5 +298,29 @@
     },
     "message": "i add [blast tomahwak]",
     "timestamp": "2026-05-11T10:30:11.534Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "oxeMDF6fD4QcQyaaSaRwsbEXU8p1",
+      "shortId": "JWA5X3",
+      "name": "HUNTER",
+      "role": "USER",
+      "level": 99
+    },
+    "message": "TR [Gardener|Bayonet|WEAPON_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-12T07:21:49.518Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "oxeMDF6fD4QcQyaaSaRwsbEXU8p1",
+      "shortId": "JWA5X3",
+      "name": "HUNTER",
+      "role": "USER",
+      "level": 99
+    },
+    "message": "/PRICE [Gardener|Bayonet|WEAPON_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-12T07:22:03.023Z"
   }
 ]
