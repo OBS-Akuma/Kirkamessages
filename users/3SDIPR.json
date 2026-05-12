@@ -10,5 +10,29 @@
     },
     "message": "/price [Moonlight|MAC-10|WEAPON_SKIN|MYTHICAL]",
     "timestamp": "2026-05-10T17:36:52.294Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "b2b5f6f8-fa24-450c-86e7-bc8213c3ce26",
+      "shortId": "3SDIPR",
+      "name": "Scarletslayer",
+      "role": "USER",
+      "level": 94
+    },
+    "message": "/price [Borg||BODY_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-12T22:03:27.958Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "b2b5f6f8-fa24-450c-86e7-bc8213c3ce26",
+      "shortId": "3SDIPR",
+      "name": "Scarletslayer",
+      "role": "USER",
+      "level": 94
+    },
+    "message": "/price [Oblivion|SCAR|WEAPON_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-12T22:04:18.446Z"
   }
 ]
