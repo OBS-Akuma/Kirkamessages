@@ -1162,5 +1162,17 @@
     },
     "message": "Miniiii",
     "timestamp": "2026-05-11T19:16:24.039Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "f243a14c-7c0e-4ce8-9879-4db5ce9b08e1",
+      "shortId": "2PRWIF",
+      "name": "DaddyCalling",
+      "role": "USER",
+      "level": 97
+    },
+    "message": "/inv",
+    "timestamp": "2026-05-12T07:30:04.471Z"
   }
 ]
