@@ -58,5 +58,53 @@
     },
     "message": "/inv",
     "timestamp": "2026-05-11T00:36:08.342Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "6b91b714-19c2-496f-adf9-3f65bca47839",
+      "shortId": "GNCCHM",
+      "name": "AURACAOBANG",
+      "role": "USER",
+      "level": 99
+    },
+    "message": "/hm borg",
+    "timestamp": "2026-05-12T10:34:40.226Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "6b91b714-19c2-496f-adf9-3f65bca47839",
+      "shortId": "GNCCHM",
+      "name": "AURACAOBANG",
+      "role": "USER",
+      "level": 99
+    },
+    "message": "lf cyberpunk",
+    "timestamp": "2026-05-12T10:53:33.574Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "6b91b714-19c2-496f-adf9-3f65bca47839",
+      "shortId": "GNCCHM",
+      "name": "AURACAOBANG",
+      "role": "USER",
+      "level": 99
+    },
+    "message": "/hm scarlet",
+    "timestamp": "2026-05-12T10:58:24.940Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "6b91b714-19c2-496f-adf9-3f65bca47839",
+      "shortId": "GNCCHM",
+      "name": "AURACAOBANG",
+      "role": "USER",
+      "level": 99
+    },
+    "message": "/inv",
+    "timestamp": "2026-05-12T10:58:37.850Z"
   }
 ]
