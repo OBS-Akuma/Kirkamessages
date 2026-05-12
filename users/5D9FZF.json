@@ -1,0 +1,26 @@
+[
+  {
+    "type": 2,
+    "user": {
+      "id": "ee620c18-723d-4dc7-a509-4d792da9e1eb",
+      "shortId": "5D9FZF",
+      "name": "Blake_FBI.",
+      "role": "USER",
+      "level": 71
+    },
+    "message": "/price [corn field]",
+    "timestamp": "2026-05-12T13:09:20.072Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "ee620c18-723d-4dc7-a509-4d792da9e1eb",
+      "shortId": "5D9FZF",
+      "name": "Blake_FBI.",
+      "role": "USER",
+      "level": 71
+    },
+    "message": "/price [Cornfield|Bayonet|WEAPON_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-12T13:09:27.767Z"
+  }
+]
