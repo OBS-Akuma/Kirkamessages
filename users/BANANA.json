@@ -1,0 +1,26 @@
+[
+  {
+    "type": 2,
+    "user": {
+      "id": "c334e81d-af71-469a-935e-6af74a97ef90",
+      "shortId": "BANANA",
+      "name": "Banana",
+      "role": "USER",
+      "level": 45
+    },
+    "message": "lf gold",
+    "timestamp": "2026-05-12T01:32:19.650Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "c334e81d-af71-469a-935e-6af74a97ef90",
+      "shortId": "BANANA",
+      "name": "Banana",
+      "role": "USER",
+      "level": 45
+    },
+    "message": "[Onryo||BODY_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-12T01:39:36.251Z"
+  }
+]
