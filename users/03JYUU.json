@@ -1,0 +1,50 @@
+[
+  {
+    "type": 2,
+    "user": {
+      "id": "15481d96-aea1-406c-b8ac-a149cd48667b",
+      "shortId": "03JYUU",
+      "name": "MADARA",
+      "role": "USER",
+      "level": 86
+    },
+    "message": "/hm [Basket||BODY_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-12T18:19:50.060Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "15481d96-aea1-406c-b8ac-a149cd48667b",
+      "shortId": "03JYUU",
+      "name": "MADARA",
+      "role": "USER",
+      "level": 86
+    },
+    "message": "/price [Basket||BODY_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-12T18:20:00.304Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "15481d96-aea1-406c-b8ac-a149cd48667b",
+      "shortId": "03JYUU",
+      "name": "MADARA",
+      "role": "USER",
+      "level": 86
+    },
+    "message": "/price [Phantom||BODY_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-12T18:20:11.906Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "15481d96-aea1-406c-b8ac-a149cd48667b",
+      "shortId": "03JYUU",
+      "name": "MADARA",
+      "role": "USER",
+      "level": 86
+    },
+    "message": "/price [Clownabeth||BODY_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-12T18:20:25.999Z"
+  }
+]
