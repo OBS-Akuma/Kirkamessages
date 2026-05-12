@@ -10,5 +10,17 @@
     },
     "message": "Vasco",
     "timestamp": "2026-05-11T02:21:04.307Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "35dc0886-3d6e-4211-a87b-704e7128501f",
+      "shortId": "MN08R9",
+      "name": "VITAMINA",
+      "role": "USER",
+      "level": 37
+    },
+    "message": "vasco",
+    "timestamp": "2026-05-12T05:12:42.169Z"
   }
 ]
