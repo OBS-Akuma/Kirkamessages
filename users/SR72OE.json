@@ -1,0 +1,26 @@
+[
+  {
+    "type": 2,
+    "user": {
+      "id": "3d398ba5-24f9-4c77-8fe3-8601c8a8b21e",
+      "shortId": "SR72OE",
+      "name": "NIGHTSTRIDER",
+      "role": "USER",
+      "level": 6
+    },
+    "message": "/ trade accept3480",
+    "timestamp": "2026-05-12T20:19:59.205Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "3d398ba5-24f9-4c77-8fe3-8601c8a8b21e",
+      "shortId": "SR72OE",
+      "name": "NIGHTSTRIDER",
+      "role": "USER",
+      "level": 6
+    },
+    "message": "/tradd",
+    "timestamp": "2026-05-12T20:20:56.750Z"
+  }
+]
