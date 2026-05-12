@@ -70,5 +70,29 @@
     },
     "message": "/price [skullduggery]",
     "timestamp": "2026-05-12T14:49:35.960Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "6e96cbad-888e-4efd-bd88-73b43c669daf",
+      "shortId": "0S33SQ",
+      "name": "-CAT-",
+      "role": "USER",
+      "level": 99
+    },
+    "message": "/price [Pandora||BODY_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-12T15:17:33.325Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "6e96cbad-888e-4efd-bd88-73b43c669daf",
+      "shortId": "0S33SQ",
+      "name": "-CAT-",
+      "role": "USER",
+      "level": 99
+    },
+    "message": ":3",
+    "timestamp": "2026-05-12T15:17:58.318Z"
   }
 ]
