@@ -346,5 +346,65 @@
     },
     "message": "make trade",
     "timestamp": "2026-05-11T04:44:35.188Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "280c3608-bb05-4ac1-94ca-2c769b119534",
+      "shortId": "V253MV",
+      "name": "Robber",
+      "role": "USER",
+      "level": 97
+    },
+    "message": "tr [coktail],[s set]",
+    "timestamp": "2026-05-12T16:27:10.810Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "280c3608-bb05-4ac1-94ca-2c769b119534",
+      "shortId": "V253MV",
+      "name": "Robber",
+      "role": "USER",
+      "level": 97
+    },
+    "message": "egd? wanna lobby for sad?",
+    "timestamp": "2026-05-12T16:27:19.376Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "280c3608-bb05-4ac1-94ca-2c769b119534",
+      "shortId": "V253MV",
+      "name": "Robber",
+      "role": "USER",
+      "level": 97
+    },
+    "message": "okayy",
+    "timestamp": "2026-05-12T16:27:31.841Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "280c3608-bb05-4ac1-94ca-2c769b119534",
+      "shortId": "V253MV",
+      "name": "Robber",
+      "role": "USER",
+      "level": 97
+    },
+    "message": "/playercount",
+    "timestamp": "2026-05-12T18:41:38.698Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "280c3608-bb05-4ac1-94ca-2c769b119534",
+      "shortId": "V253MV",
+      "name": "Robber",
+      "role": "USER",
+      "level": 97
+    },
+    "message": "wager [Polar||BODY_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-12T19:18:48.760Z"
   }
 ]
