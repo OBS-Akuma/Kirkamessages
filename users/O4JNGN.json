@@ -34,5 +34,29 @@
     },
     "message": "/price vocaloid",
     "timestamp": "2026-05-12T05:49:16.029Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "99e06e2e-0832-4967-8103-b17c9ffed739",
+      "shortId": "O4JNGN",
+      "name": "caoBK",
+      "role": "USER",
+      "level": 93
+    },
+    "message": "#7AEWTE",
+    "timestamp": "2026-05-12T09:35:17.983Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "99e06e2e-0832-4967-8103-b17c9ffed739",
+      "shortId": "O4JNGN",
+      "name": "caoBK",
+      "role": "USER",
+      "level": 93
+    },
+    "message": "#7AEWTE.",
+    "timestamp": "2026-05-12T09:45:51.495Z"
   }
 ]
