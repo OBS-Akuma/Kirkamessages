@@ -910,5 +910,29 @@
     },
     "message": "/fav bolt",
     "timestamp": "2026-05-11T06:32:28.400Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "5c75b2d7-9364-4cdf-8a05-4f98b9d990f5",
+      "shortId": "AIIMYI",
+      "name": "xyds",
+      "role": "USER",
+      "level": 87
+    },
+    "message": "/giveaway",
+    "timestamp": "2026-05-12T05:50:41.698Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "5c75b2d7-9364-4cdf-8a05-4f98b9d990f5",
+      "shortId": "AIIMYI",
+      "name": "xyds",
+      "role": "USER",
+      "level": 87
+    },
+    "message": "/enter",
+    "timestamp": "2026-05-12T05:54:58.296Z"
   }
 ]
