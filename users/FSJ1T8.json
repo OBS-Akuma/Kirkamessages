@@ -106,5 +106,149 @@
     },
     "message": "[2026 Shark|Shark|WEAPON_SKIN|PARANORMAL]",
     "timestamp": "2026-05-12T04:51:20.647Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "d8e98c7e-79bf-497e-8652-f4d435559ddf",
+      "shortId": "FSJ1T8",
+      "name": "StremZ",
+      "role": "USER",
+      "level": 18
+    },
+    "message": "/hm [Gold|VITA|WEAPON_SKIN|LEGENDARY]",
+    "timestamp": "2026-05-12T06:33:21.386Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "d8e98c7e-79bf-497e-8652-f4d435559ddf",
+      "shortId": "FSJ1T8",
+      "name": "StremZ",
+      "role": "USER",
+      "level": 18
+    },
+    "message": "/hm [Koi|Bayonet|WEAPON_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-12T07:33:44.396Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "d8e98c7e-79bf-497e-8652-f4d435559ddf",
+      "shortId": "FSJ1T8",
+      "name": "StremZ",
+      "role": "USER",
+      "level": 18
+    },
+    "message": "No",
+    "timestamp": "2026-05-12T07:33:48.772Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "d8e98c7e-79bf-497e-8652-f4d435559ddf",
+      "shortId": "FSJ1T8",
+      "name": "StremZ",
+      "role": "USER",
+      "level": 18
+    },
+    "message": "I trade [2026 Bayonet|Bayonet|WEAPON_SKIN|MYTHICAL] for character skin",
+    "timestamp": "2026-05-12T07:34:27.708Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "d8e98c7e-79bf-497e-8652-f4d435559ddf",
+      "shortId": "FSJ1T8",
+      "name": "StremZ",
+      "role": "USER",
+      "level": 18
+    },
+    "message": "Sorry",
+    "timestamp": "2026-05-12T07:34:57.627Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "d8e98c7e-79bf-497e-8652-f4d435559ddf",
+      "shortId": "FSJ1T8",
+      "name": "StremZ",
+      "role": "USER",
+      "level": 18
+    },
+    "message": "I traded",
+    "timestamp": "2026-05-12T07:35:02.828Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "d8e98c7e-79bf-497e-8652-f4d435559ddf",
+      "shortId": "FSJ1T8",
+      "name": "StremZ",
+      "role": "USER",
+      "level": 18
+    },
+    "message": "/inv #FSJ1T8",
+    "timestamp": "2026-05-12T07:35:41.469Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "d8e98c7e-79bf-497e-8652-f4d435559ddf",
+      "shortId": "FSJ1T8",
+      "name": "StremZ",
+      "role": "USER",
+      "level": 18
+    },
+    "message": "/hm [Teddy||BODY_SKIN|LEGENDARY]",
+    "timestamp": "2026-05-12T07:36:06.992Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "d8e98c7e-79bf-497e-8652-f4d435559ddf",
+      "shortId": "FSJ1T8",
+      "name": "StremZ",
+      "role": "USER",
+      "level": 18
+    },
+    "message": "I trade [2025||BODY_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-12T07:36:31.775Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "d8e98c7e-79bf-497e-8652-f4d435559ddf",
+      "shortId": "FSJ1T8",
+      "name": "StremZ",
+      "role": "USER",
+      "level": 18
+    },
+    "message": "[Elf||BODY_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-12T07:38:20.021Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "d8e98c7e-79bf-497e-8652-f4d435559ddf",
+      "shortId": "FSJ1T8",
+      "name": "StremZ",
+      "role": "USER",
+      "level": 18
+    },
+    "message": "/hm [skeletan]",
+    "timestamp": "2026-05-12T07:38:40.928Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "d8e98c7e-79bf-497e-8652-f4d435559ddf",
+      "shortId": "FSJ1T8",
+      "name": "StremZ",
+      "role": "USER",
+      "level": 18
+    },
+    "message": "/hm [Skeletain||BODY_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-12T07:38:55.884Z"
   }
 ]
