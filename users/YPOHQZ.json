@@ -20,7 +20,7 @@
       "role": "USER",
       "level": 6
     },
-    "message": "/confirmwÐ°ger",
+    "message": "/confirmwÃÂ°ger",
     "timestamp": "2026-05-11T04:53:48.658Z"
   },
   {
@@ -56,7 +56,7 @@
       "role": "USER",
       "level": 6
     },
-    "message": "/confirmwÐ°ger",
+    "message": "/confirmwÃÂ°ger",
     "timestamp": "2026-05-11T04:59:10.225Z"
   },
   {
@@ -80,7 +80,7 @@
       "role": "USER",
       "level": 6
     },
-    "message": "/confirmwÐ°ger",
+    "message": "/confirmwÃÂ°ger",
     "timestamp": "2026-05-11T04:59:35.176Z"
   },
   {
@@ -104,7 +104,7 @@
       "role": "USER",
       "level": 6
     },
-    "message": "/confirmwÐ°ger",
+    "message": "/confirmwÃÂ°ger",
     "timestamp": "2026-05-11T05:00:16.772Z"
   },
   {
@@ -116,7 +116,7 @@
       "role": "USER",
       "level": 6
     },
-    "message": "/cancelwÐ°ger",
+    "message": "/cancelwÃÂ°ger",
     "timestamp": "2026-05-11T05:02:46.850Z"
   },
   {
@@ -176,7 +176,7 @@
       "role": "USER",
       "level": 6
     },
-    "message": "/confirmwаger",
+    "message": "/confirmwÐ°ger",
     "timestamp": "2026-05-11T06:04:47.470Z"
   },
   {
@@ -212,7 +212,7 @@
       "role": "USER",
       "level": 6
     },
-    "message": "/confirmwаger",
+    "message": "/confirmwÐ°ger",
     "timestamp": "2026-05-11T06:07:26.439Z"
   },
   {
@@ -320,7 +320,7 @@
       "role": "USER",
       "level": 6
     },
-    "message": "/confirmwаger",
+    "message": "/confirmwÐ°ger",
     "timestamp": "2026-05-11T07:29:55.467Z"
   },
   {
@@ -416,7 +416,7 @@
       "role": "USER",
       "level": 6
     },
-    "message": "お前誰",
+    "message": "ãåèª°",
     "timestamp": "2026-05-11T07:37:00.310Z"
   },
   {
@@ -634,5 +634,113 @@
     },
     "message": "and pollen",
     "timestamp": "2026-05-11T07:49:35.459Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "guest-a0607e61-c82b-426a-9f88-f8e3ad9419e5",
+      "shortId": "YPOHQZ",
+      "name": "Watcher",
+      "role": "USER",
+      "level": 6
+    },
+    "message": "who wanna wager goldens",
+    "timestamp": "2026-05-12T04:59:29.121Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "guest-a0607e61-c82b-426a-9f88-f8e3ad9419e5",
+      "shortId": "YPOHQZ",
+      "name": "Watcher",
+      "role": "USER",
+      "level": 6
+    },
+    "message": "wager [Golden||CHEST|LEGENDARY]x9200",
+    "timestamp": "2026-05-12T04:59:42.478Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "guest-a0607e61-c82b-426a-9f88-f8e3ad9419e5",
+      "shortId": "YPOHQZ",
+      "name": "Watcher",
+      "role": "USER",
+      "level": 6
+    },
+    "message": "how many",
+    "timestamp": "2026-05-12T04:59:58.992Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "guest-a0607e61-c82b-426a-9f88-f8e3ad9419e5",
+      "shortId": "YPOHQZ",
+      "name": "Watcher",
+      "role": "USER",
+      "level": 6
+    },
+    "message": "wait a sec",
+    "timestamp": "2026-05-12T05:00:22.607Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "guest-a0607e61-c82b-426a-9f88-f8e3ad9419e5",
+      "shortId": "YPOHQZ",
+      "name": "Watcher",
+      "role": "USER",
+      "level": 6
+    },
+    "message": "came back",
+    "timestamp": "2026-05-12T05:01:28.241Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "guest-a0607e61-c82b-426a-9f88-f8e3ad9419e5",
+      "shortId": "YPOHQZ",
+      "name": "Watcher",
+      "role": "USER",
+      "level": 6
+    },
+    "message": "did you make wager?",
+    "timestamp": "2026-05-12T05:01:50.206Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "guest-a0607e61-c82b-426a-9f88-f8e3ad9419e5",
+      "shortId": "YPOHQZ",
+      "name": "Watcher",
+      "role": "USER",
+      "level": 6
+    },
+    "message": "make me wager",
+    "timestamp": "2026-05-12T05:02:17.800Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "guest-a0607e61-c82b-426a-9f88-f8e3ad9419e5",
+      "shortId": "YPOHQZ",
+      "name": "Watcher",
+      "role": "USER",
+      "level": 6
+    },
+    "message": "/confirmwаger",
+    "timestamp": "2026-05-12T05:02:35.547Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "guest-a0607e61-c82b-426a-9f88-f8e3ad9419e5",
+      "shortId": "YPOHQZ",
+      "name": "Watcher",
+      "role": "USER",
+      "level": 6
+    },
+    "message": "/cancelwager",
+    "timestamp": "2026-05-12T05:03:08.240Z"
   }
 ]
