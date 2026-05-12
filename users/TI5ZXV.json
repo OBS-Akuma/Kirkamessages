@@ -34,5 +34,137 @@
     },
     "message": "/inv #0N5H9D",
     "timestamp": "2026-05-08T19:43:39.967Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "89e327e2-f3cb-4655-aef2-4d11ab474766",
+      "shortId": "TI5ZXV",
+      "name": "FaceLess",
+      "role": "USER",
+      "level": 91
+    },
+    "message": "/price [Ashley||BODY_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-12T10:54:47.227Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "89e327e2-f3cb-4655-aef2-4d11ab474766",
+      "shortId": "TI5ZXV",
+      "name": "FaceLess",
+      "role": "USER",
+      "level": 91
+    },
+    "message": "/inv",
+    "timestamp": "2026-05-12T10:55:22.980Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "89e327e2-f3cb-4655-aef2-4d11ab474766",
+      "shortId": "TI5ZXV",
+      "name": "FaceLess",
+      "role": "USER",
+      "level": 91
+    },
+    "message": "Trading [Ashley||BODY_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-12T10:55:42.007Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "89e327e2-f3cb-4655-aef2-4d11ab474766",
+      "shortId": "TI5ZXV",
+      "name": "FaceLess",
+      "role": "USER",
+      "level": 91
+    },
+    "message": "TR [Ashley||BODY_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-12T10:58:07.781Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "89e327e2-f3cb-4655-aef2-4d11ab474766",
+      "shortId": "TI5ZXV",
+      "name": "FaceLess",
+      "role": "USER",
+      "level": 91
+    },
+    "message": "I got an offer of my [Maid||BODY_SKIN|MYTHICAL] and [Ashley||BODY_SKIN|MYTHICAL] for a [Bubblepop|Bayonet|WEAPON_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-12T10:59:02.011Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "89e327e2-f3cb-4655-aef2-4d11ab474766",
+      "shortId": "TI5ZXV",
+      "name": "FaceLess",
+      "role": "USER",
+      "level": 91
+    },
+    "message": "is [Maid||BODY_SKIN|MYTHICAL] and [Ashley||BODY_SKIN|MYTHICAL] good?",
+    "timestamp": "2026-05-12T11:01:05.907Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "89e327e2-f3cb-4655-aef2-4d11ab474766",
+      "shortId": "TI5ZXV",
+      "name": "FaceLess",
+      "role": "USER",
+      "level": 91
+    },
+    "message": "[Onryo||BODY_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-12T11:01:51.825Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "89e327e2-f3cb-4655-aef2-4d11ab474766",
+      "shortId": "TI5ZXV",
+      "name": "FaceLess",
+      "role": "USER",
+      "level": 91
+    },
+    "message": "[Mabel||BODY_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-12T11:01:58.767Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "89e327e2-f3cb-4655-aef2-4d11ab474766",
+      "shortId": "TI5ZXV",
+      "name": "FaceLess",
+      "role": "USER",
+      "level": 91
+    },
+    "message": "/hm [Onryo||BODY_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-12T11:02:08.434Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "89e327e2-f3cb-4655-aef2-4d11ab474766",
+      "shortId": "TI5ZXV",
+      "name": "FaceLess",
+      "role": "USER",
+      "level": 91
+    },
+    "message": "/hm [Mabel||BODY_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-12T11:02:16.856Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "89e327e2-f3cb-4655-aef2-4d11ab474766",
+      "shortId": "TI5ZXV",
+      "name": "FaceLess",
+      "role": "USER",
+      "level": 91
+    },
+    "message": "how much is [Onryo||BODY_SKIN|MYTHICAL] worth?",
+    "timestamp": "2026-05-12T11:02:39.878Z"
   }
 ]
