@@ -670,5 +670,41 @@
     },
     "message": "/hm onryo",
     "timestamp": "2026-05-12T05:20:08.999Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "9d42e1d0-cf39-40bd-91c2-7b85e8b36233",
+      "shortId": "S2WVOK",
+      "name": "Hisoka",
+      "role": "USER",
+      "level": 95
+    },
+    "message": "virus pay up",
+    "timestamp": "2026-05-12T05:25:41.063Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "9d42e1d0-cf39-40bd-91c2-7b85e8b36233",
+      "shortId": "S2WVOK",
+      "name": "Hisoka",
+      "role": "USER",
+      "level": 95
+    },
+    "message": "I got melody",
+    "timestamp": "2026-05-12T05:38:28.187Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "9d42e1d0-cf39-40bd-91c2-7b85e8b36233",
+      "shortId": "S2WVOK",
+      "name": "Hisoka",
+      "role": "USER",
+      "level": 95
+    },
+    "message": "ion wager no more",
+    "timestamp": "2026-05-12T05:39:00.493Z"
   }
 ]
