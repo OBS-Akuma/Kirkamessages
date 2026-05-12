@@ -1,0 +1,26 @@
+[
+  {
+    "type": 2,
+    "user": {
+      "id": "3893efc4-f988-4561-b1f3-863d6fd6feca",
+      "shortId": "9FT1XL",
+      "name": "donk",
+      "role": "USER",
+      "level": 65
+    },
+    "message": "[Cargo|SCAR|WEAPON_SKIN|LEGENDARY]",
+    "timestamp": "2026-05-12T06:15:28.790Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "3893efc4-f988-4561-b1f3-863d6fd6feca",
+      "shortId": "9FT1XL",
+      "name": "donk",
+      "role": "USER",
+      "level": 65
+    },
+    "message": "[Void SCAR|SCAR|WEAPON_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-12T06:15:31.255Z"
+  }
+]
