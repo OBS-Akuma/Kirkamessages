@@ -130,5 +130,53 @@
     },
     "message": "#EH98MG",
     "timestamp": "2026-05-11T23:56:23.967Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "cfac251c-29be-40f1-8e77-40d678c7fab6",
+      "shortId": "STUPID",
+      "name": "Dihxz",
+      "role": "USER",
+      "level": 98
+    },
+    "message": "/locate [golden",
+    "timestamp": "2026-05-12T13:43:49.216Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "cfac251c-29be-40f1-8e77-40d678c7fab6",
+      "shortId": "STUPID",
+      "name": "Dihxz",
+      "role": "USER",
+      "level": 98
+    },
+    "message": "#TE7ZAB",
+    "timestamp": "2026-05-12T13:44:27.663Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "cfac251c-29be-40f1-8e77-40d678c7fab6",
+      "shortId": "STUPID",
+      "name": "Dihxz",
+      "role": "USER",
+      "level": 98
+    },
+    "message": "/locate [golden",
+    "timestamp": "2026-05-12T15:34:26.533Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "cfac251c-29be-40f1-8e77-40d678c7fab6",
+      "shortId": "STUPID",
+      "name": "Dihxz",
+      "role": "USER",
+      "level": 98
+    },
+    "message": "/locate [wood",
+    "timestamp": "2026-05-12T15:34:34.380Z"
   }
 ]
