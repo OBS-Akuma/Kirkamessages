@@ -214,5 +214,65 @@
     },
     "message": "pls bang",
     "timestamp": "2026-05-11T10:34:06.956Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "m83U1Z1KO7bMzKrN0XaH4le5CFB2",
+      "shortId": "4WCVOT",
+      "name": "FragmentsScar|",
+      "role": "USER",
+      "level": 68
+    },
+    "message": "/price koi",
+    "timestamp": "2026-05-12T00:24:47.313Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "m83U1Z1KO7bMzKrN0XaH4le5CFB2",
+      "shortId": "4WCVOT",
+      "name": "FragmentsScar|",
+      "role": "USER",
+      "level": 68
+    },
+    "message": "/price Lustre",
+    "timestamp": "2026-05-12T00:25:34.179Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "m83U1Z1KO7bMzKrN0XaH4le5CFB2",
+      "shortId": "4WCVOT",
+      "name": "FragmentsScar|",
+      "role": "USER",
+      "level": 68
+    },
+    "message": "/price honey",
+    "timestamp": "2026-05-12T00:27:08.165Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "m83U1Z1KO7bMzKrN0XaH4le5CFB2",
+      "shortId": "4WCVOT",
+      "name": "FragmentsScar|",
+      "role": "USER",
+      "level": 68
+    },
+    "message": "/price spooder",
+    "timestamp": "2026-05-12T00:27:19.035Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "m83U1Z1KO7bMzKrN0XaH4le5CFB2",
+      "shortId": "4WCVOT",
+      "name": "FragmentsScar|",
+      "role": "USER",
+      "level": 68
+    },
+    "message": "/inv",
+    "timestamp": "2026-05-12T00:29:42.548Z"
   }
 ]
