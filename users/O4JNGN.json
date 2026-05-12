@@ -1,0 +1,38 @@
+[
+  {
+    "type": 2,
+    "user": {
+      "id": "99e06e2e-0832-4967-8103-b17c9ffed739",
+      "shortId": "O4JNGN",
+      "name": "caoBK",
+      "role": "USER",
+      "level": 93
+    },
+    "message": "Who is the richest person in Kirka?",
+    "timestamp": "2026-05-12T05:47:47.658Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "99e06e2e-0832-4967-8103-b17c9ffed739",
+      "shortId": "O4JNGN",
+      "name": "caoBK",
+      "role": "USER",
+      "level": 93
+    },
+    "message": "/price smile",
+    "timestamp": "2026-05-12T05:48:36.696Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "99e06e2e-0832-4967-8103-b17c9ffed739",
+      "shortId": "O4JNGN",
+      "name": "caoBK",
+      "role": "USER",
+      "level": 93
+    },
+    "message": "/price vocaloid",
+    "timestamp": "2026-05-12T05:49:16.029Z"
+  }
+]
