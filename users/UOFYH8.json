@@ -1,0 +1,38 @@
+[
+  {
+    "type": 2,
+    "user": {
+      "id": "71e158e2-bdd1-4ff7-905e-b67a4eb0d5e2",
+      "shortId": "UOFYH8",
+      "name": "Daniel",
+      "role": "USER",
+      "level": 100
+    },
+    "message": "y'all know #AV64AA he's banned...",
+    "timestamp": "2026-05-12T03:44:33.641Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "71e158e2-bdd1-4ff7-905e-b67a4eb0d5e2",
+      "shortId": "UOFYH8",
+      "name": "Daniel",
+      "role": "USER",
+      "level": 100
+    },
+    "message": "IDK",
+    "timestamp": "2026-05-12T03:44:54.726Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "71e158e2-bdd1-4ff7-905e-b67a4eb0d5e2",
+      "shortId": "UOFYH8",
+      "name": "Daniel",
+      "role": "USER",
+      "level": 100
+    },
+    "message": "he added me",
+    "timestamp": "2026-05-12T03:44:58.013Z"
+  }
+]
