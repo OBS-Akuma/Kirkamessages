@@ -10,5 +10,41 @@
     },
     "message": "/price forbidden",
     "timestamp": "2026-05-11T01:42:19.169Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "AUy23h0y5Pe3nkQN26eKw4W4Er23",
+      "shortId": "SVYRO7",
+      "name": "[VN]blacktiger",
+      "role": "USER",
+      "level": 95
+    },
+    "message": "moi cao",
+    "timestamp": "2026-05-12T16:14:54.365Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "AUy23h0y5Pe3nkQN26eKw4W4Er23",
+      "shortId": "SVYRO7",
+      "name": "[VN]blacktiger",
+      "role": "USER",
+      "level": 95
+    },
+    "message": "cao onlie kia",
+    "timestamp": "2026-05-12T16:14:58.147Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "AUy23h0y5Pe3nkQN26eKw4W4Er23",
+      "shortId": "SVYRO7",
+      "name": "[VN]blacktiger",
+      "role": "USER",
+      "level": 95
+    },
+    "message": "/team",
+    "timestamp": "2026-05-12T16:23:52.721Z"
   }
 ]
