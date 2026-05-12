@@ -46,5 +46,41 @@
     },
     "message": "/inv",
     "timestamp": "2026-05-08T19:49:46.806Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "96baa27f-6f4c-4df6-b932-f89e2f0674c1",
+      "shortId": "X4NFWH",
+      "name": "vampire.",
+      "role": "USER",
+      "level": 100
+    },
+    "message": "heiko y mi phatom ;-;",
+    "timestamp": "2026-05-12T20:45:27.846Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "96baa27f-6f4c-4df6-b932-f89e2f0674c1",
+      "shortId": "X4NFWH",
+      "name": "vampire.",
+      "role": "USER",
+      "level": 100
+    },
+    "message": "si jeje :3",
+    "timestamp": "2026-05-12T20:45:53.701Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "96baa27f-6f4c-4df6-b932-f89e2f0674c1",
+      "shortId": "X4NFWH",
+      "name": "vampire.",
+      "role": "USER",
+      "level": 100
+    },
+    "message": "oh",
+    "timestamp": "2026-05-12T20:46:09.702Z"
   }
 ]
