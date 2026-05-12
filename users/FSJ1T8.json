@@ -250,5 +250,53 @@
     },
     "message": "/hm [Skeletain||BODY_SKIN|MYTHICAL]",
     "timestamp": "2026-05-12T07:38:55.884Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "d8e98c7e-79bf-497e-8652-f4d435559ddf",
+      "shortId": "FSJ1T8",
+      "name": "StremZ",
+      "role": "USER",
+      "level": 18
+    },
+    "message": "/hm [2025||BODY_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-12T08:30:19.858Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "d8e98c7e-79bf-497e-8652-f4d435559ddf",
+      "shortId": "FSJ1T8",
+      "name": "StremZ",
+      "role": "USER",
+      "level": 18
+    },
+    "message": "/hm [Baboo]",
+    "timestamp": "2026-05-12T08:32:18.001Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "d8e98c7e-79bf-497e-8652-f4d435559ddf",
+      "shortId": "FSJ1T8",
+      "name": "StremZ",
+      "role": "USER",
+      "level": 18
+    },
+    "message": "/hm [Bamboo|VITA|WEAPON_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-12T08:32:31.211Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "d8e98c7e-79bf-497e-8652-f4d435559ddf",
+      "shortId": "FSJ1T8",
+      "name": "StremZ",
+      "role": "USER",
+      "level": 18
+    },
+    "message": "/hm [Target|Revolver|WEAPON_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-12T08:33:16.956Z"
   }
 ]
