@@ -286,5 +286,29 @@
     },
     "message": "/price splanch",
     "timestamp": "2026-05-12T07:17:11.014Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "m83U1Z1KO7bMzKrN0XaH4le5CFB2",
+      "shortId": "4WCVOT",
+      "name": "FragmentsScar|",
+      "role": "USER",
+      "level": 69
+    },
+    "message": "trade offer my:[Larry|M60|WEAPON_SKIN|RARE] your:[Wood||CHEST|COMMON]x2,[Golden||CHEST|LEGENDARY]x169,[Ice||CHEST|EPIC]x1",
+    "timestamp": "2026-05-12T11:56:29.648Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "m83U1Z1KO7bMzKrN0XaH4le5CFB2",
+      "shortId": "4WCVOT",
+      "name": "FragmentsScar|",
+      "role": "USER",
+      "level": 69
+    },
+    "message": "/price splanch",
+    "timestamp": "2026-05-12T12:09:10.536Z"
   }
 ]
