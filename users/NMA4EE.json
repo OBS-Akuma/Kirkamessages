@@ -10,5 +10,53 @@
     },
     "message": "/price [Rainbows||BODY_SKIN|MYTHICAL]",
     "timestamp": "2026-05-09T17:01:15.472Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "8e4dd944-e478-41ae-9f12-87a90772aa6c",
+      "shortId": "NMA4EE",
+      "name": "^3in1^",
+      "role": "USER",
+      "level": 48
+    },
+    "message": "/price [Onesi||BODY_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-12T15:34:37.245Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "8e4dd944-e478-41ae-9f12-87a90772aa6c",
+      "shortId": "NMA4EE",
+      "name": "^3in1^",
+      "role": "USER",
+      "level": 48
+    },
+    "message": "/price [Paypay||BODY_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-12T15:58:28.414Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "8e4dd944-e478-41ae-9f12-87a90772aa6c",
+      "shortId": "NMA4EE",
+      "name": "^3in1^",
+      "role": "USER",
+      "level": 48
+    },
+    "message": "Trading [Onesi||BODY_SKIN|MYTHICAL]=[Onesi||BODY_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-12T16:20:51.290Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "8e4dd944-e478-41ae-9f12-87a90772aa6c",
+      "shortId": "NMA4EE",
+      "name": "^3in1^",
+      "role": "USER",
+      "level": 48
+    },
+    "message": "TR=[Onesi||BODY_SKIN|MYTHICAL]=[Onesi||BODY_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-12T16:24:26.299Z"
   }
 ]
