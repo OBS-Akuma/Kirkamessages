@@ -298,5 +298,17 @@
     },
     "message": "/hm imperial",
     "timestamp": "2026-05-12T07:20:42.690Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "VDlzMXAa9DZPbZvebQ5vePHLeex2",
+      "shortId": "3XRCCU",
+      "name": "DABEYT",
+      "role": "USER",
+      "level": 66
+    },
+    "message": "[bruh]",
+    "timestamp": "2026-05-12T07:22:56.811Z"
   }
 ]
