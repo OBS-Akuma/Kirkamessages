@@ -94,5 +94,29 @@
     },
     "message": "[PEPE||BODY_SKIN|MYTHICAL]",
     "timestamp": "2026-05-11T10:53:20.186Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "2e201d4b-95f1-4665-ac6d-06fe2a36de77",
+      "shortId": "48GE0P",
+      "name": "xana",
+      "role": "USER",
+      "level": 66
+    },
+    "message": "/price ice breaker",
+    "timestamp": "2026-05-12T09:57:56.341Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "2e201d4b-95f1-4665-ac6d-06fe2a36de77",
+      "shortId": "48GE0P",
+      "name": "xana",
+      "role": "USER",
+      "level": 66
+    },
+    "message": "[beach vita]",
+    "timestamp": "2026-05-12T09:58:16.478Z"
   }
 ]
