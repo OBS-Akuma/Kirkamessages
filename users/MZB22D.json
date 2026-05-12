@@ -1,0 +1,26 @@
+[
+  {
+    "type": 2,
+    "user": {
+      "id": "22471db4-a40d-4087-b894-08036ab159cd",
+      "shortId": "MZB22D",
+      "name": "Dreams",
+      "role": "USER",
+      "level": 45
+    },
+    "message": "accept kid",
+    "timestamp": "2026-05-11T10:49:00.166Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "22471db4-a40d-4087-b894-08036ab159cd",
+      "shortId": "MZB22D",
+      "name": "Dreams",
+      "role": "USER",
+      "level": 45
+    },
+    "message": "stupid scamming kid",
+    "timestamp": "2026-05-11T10:50:11.831Z"
+  }
+]
