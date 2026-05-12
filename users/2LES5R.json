@@ -1,0 +1,26 @@
+[
+  {
+    "type": 2,
+    "user": {
+      "id": "bee70fae-ddc2-496d-b12e-22ce2604ebfc",
+      "shortId": "2LES5R",
+      "name": "QWER",
+      "role": "USER",
+      "level": 81
+    },
+    "message": "/hm ghillie",
+    "timestamp": "2026-05-12T07:54:55.359Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "bee70fae-ddc2-496d-b12e-22ce2604ebfc",
+      "shortId": "2LES5R",
+      "name": "QWER",
+      "role": "USER",
+      "level": 81
+    },
+    "message": "?",
+    "timestamp": "2026-05-12T07:56:26.832Z"
+  }
+]
