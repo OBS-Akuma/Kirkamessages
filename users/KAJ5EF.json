@@ -1,0 +1,50 @@
+[
+  {
+    "type": 2,
+    "user": {
+      "id": "858c44d9-0171-4220-aaef-fe84ee9a359d",
+      "shortId": "KAJ5EF",
+      "name": "Kaalu",
+      "role": "USER",
+      "level": 87
+    },
+    "message": "hi guys",
+    "timestamp": "2026-05-12T15:24:44.040Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "858c44d9-0171-4220-aaef-fe84ee9a359d",
+      "shortId": "KAJ5EF",
+      "name": "Kaalu",
+      "role": "USER",
+      "level": 87
+    },
+    "message": "is the server down",
+    "timestamp": "2026-05-12T15:24:52.867Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "858c44d9-0171-4220-aaef-fe84ee9a359d",
+      "shortId": "KAJ5EF",
+      "name": "Kaalu",
+      "role": "USER",
+      "level": 87
+    },
+    "message": "?",
+    "timestamp": "2026-05-12T15:24:55.058Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "858c44d9-0171-4220-aaef-fe84ee9a359d",
+      "shortId": "KAJ5EF",
+      "name": "Kaalu",
+      "role": "USER",
+      "level": 87
+    },
+    "message": "hi. i needa skin for toma",
+    "timestamp": "2026-05-12T15:25:50.818Z"
+  }
+]
