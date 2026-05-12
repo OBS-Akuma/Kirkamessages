@@ -70,5 +70,41 @@
     },
     "message": "/locate black santa p4",
     "timestamp": "2026-05-12T11:32:10.553Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "g5Ack8KQrnVPvDBDpa1jPW8LR4Q2",
+      "shortId": "7EK17I",
+      "name": "ALPHA",
+      "role": "USER",
+      "level": 98
+    },
+    "message": "/locate ashley",
+    "timestamp": "2026-05-12T11:34:58.977Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "g5Ack8KQrnVPvDBDpa1jPW8LR4Q2",
+      "shortId": "7EK17I",
+      "name": "ALPHA",
+      "role": "USER",
+      "level": 98
+    },
+    "message": "نعم",
+    "timestamp": "2026-05-12T11:38:31.019Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "g5Ack8KQrnVPvDBDpa1jPW8LR4Q2",
+      "shortId": "7EK17I",
+      "name": "ALPHA",
+      "role": "USER",
+      "level": 98
+    },
+    "message": "كويس",
+    "timestamp": "2026-05-12T11:38:59.593Z"
   }
 ]
