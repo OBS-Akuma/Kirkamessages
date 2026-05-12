@@ -154,5 +154,41 @@
     },
     "message": "#CQ8UMQ huyhue",
     "timestamp": "2026-05-11T09:16:14.647Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "kJBtJQlRhdhMeeEXuHPyPI32rHA2",
+      "shortId": "KERRC1",
+      "name": "noob",
+      "role": "USER",
+      "level": 88
+    },
+    "message": "lôi kéo thg cha = đc",
+    "timestamp": "2026-05-12T14:37:25.625Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "kJBtJQlRhdhMeeEXuHPyPI32rHA2",
+      "shortId": "KERRC1",
+      "name": "noob",
+      "role": "USER",
+      "level": 88
+    },
+    "message": "or me ?",
+    "timestamp": "2026-05-12T14:39:46.974Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "kJBtJQlRhdhMeeEXuHPyPI32rHA2",
+      "shortId": "KERRC1",
+      "name": "noob",
+      "role": "USER",
+      "level": 88
+    },
+    "message": "noob :)",
+    "timestamp": "2026-05-12T14:39:53.201Z"
   }
 ]
