@@ -46,5 +46,89 @@
     },
     "message": "[Gore||BODY_SKIN|MYTHICAL]",
     "timestamp": "2026-05-11T10:33:04.929Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "40a82586-b2b2-48bf-af45-a1a237369d0a",
+      "shortId": "UYP9ZG",
+      "name": "Jack_Sparrow",
+      "role": "USER",
+      "level": 99
+    },
+    "message": "/price [Qod||BODY_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-11T19:14:05.819Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "40a82586-b2b2-48bf-af45-a1a237369d0a",
+      "shortId": "UYP9ZG",
+      "name": "Jack_Sparrow",
+      "role": "USER",
+      "level": 99
+    },
+    "message": "/price [Imperial|SCAR|WEAPON_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-11T19:14:14.970Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "40a82586-b2b2-48bf-af45-a1a237369d0a",
+      "shortId": "UYP9ZG",
+      "name": "Jack_Sparrow",
+      "role": "USER",
+      "level": 99
+    },
+    "message": "yeah qwerty ?",
+    "timestamp": "2026-05-11T19:14:39.819Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "40a82586-b2b2-48bf-af45-a1a237369d0a",
+      "shortId": "UYP9ZG",
+      "name": "Jack_Sparrow",
+      "role": "USER",
+      "level": 99
+    },
+    "message": "sry dont have anything to give",
+    "timestamp": "2026-05-11T19:15:06.116Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "40a82586-b2b2-48bf-af45-a1a237369d0a",
+      "shortId": "UYP9ZG",
+      "name": "Jack_Sparrow",
+      "role": "USER",
+      "level": 99
+    },
+    "message": "/price [supermommy]",
+    "timestamp": "2026-05-11T19:15:17.734Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "40a82586-b2b2-48bf-af45-a1a237369d0a",
+      "shortId": "UYP9ZG",
+      "name": "Jack_Sparrow",
+      "role": "USER",
+      "level": 99
+    },
+    "message": "nft?",
+    "timestamp": "2026-05-11T19:15:26.881Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "40a82586-b2b2-48bf-af45-a1a237369d0a",
+      "shortId": "UYP9ZG",
+      "name": "Jack_Sparrow",
+      "role": "USER",
+      "level": 99
+    },
+    "message": "i have some items but they are not as good as qod yk",
+    "timestamp": "2026-05-11T19:16:23.721Z"
   }
 ]
