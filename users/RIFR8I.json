@@ -20,7 +20,31 @@
       "role": "USER",
       "level": 32
     },
-    "message": "ÃÂÃÂªÃÂÃÂ±ÃÂ¬ ÃÂÃÂ§ ÃÂ±ÃÂ¬ÃÂ§ÃÂ§ÃÂ§ÃÂÃÂ©",
+    "message": "ÃÂÃÂÃÂÃÂªÃÂÃÂÃÂÃÂ±ÃÂÃÂ¬ ÃÂÃÂÃÂÃÂ§ ÃÂÃÂ±ÃÂÃÂ¬ÃÂÃÂ§ÃÂÃÂ§ÃÂÃÂ§ÃÂÃÂÃÂÃÂ©",
     "timestamp": "2026-05-12T13:39:46.937Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "FFeP9e5dciM6vlvWhyd5iXqfg0W2",
+      "shortId": "RIFR8I",
+      "name": "Ahmed",
+      "role": "USER",
+      "level": 32
+    },
+    "message": "#RIFR8I",
+    "timestamp": "2026-05-12T21:43:37.402Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "FFeP9e5dciM6vlvWhyd5iXqfg0W2",
+      "shortId": "RIFR8I",
+      "name": "Ahmed",
+      "role": "USER",
+      "level": 32
+    },
+    "message": "/hv dragonic vita",
+    "timestamp": "2026-05-12T21:52:38.308Z"
   }
 ]
