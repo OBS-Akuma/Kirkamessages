@@ -454,5 +454,101 @@
     },
     "message": "okk",
     "timestamp": "2026-05-12T07:39:45.400Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "oxeMDF6fD4QcQyaaSaRwsbEXU8p1",
+      "shortId": "JWA5X3",
+      "name": "HUNTER",
+      "role": "USER",
+      "level": 99
+    },
+    "message": "#6RY8UN [Gardener|Bayonet|WEAPON_SKIN|MYTHICAL] for [Ashley||BODY_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-12T09:44:11.012Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "oxeMDF6fD4QcQyaaSaRwsbEXU8p1",
+      "shortId": "JWA5X3",
+      "name": "HUNTER",
+      "role": "USER",
+      "level": 99
+    },
+    "message": "/price [Onryo||BODY_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-12T09:44:49.933Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "oxeMDF6fD4QcQyaaSaRwsbEXU8p1",
+      "shortId": "JWA5X3",
+      "name": "HUNTER",
+      "role": "USER",
+      "level": 99
+    },
+    "message": "#5ZCHYI [Gardener|Bayonet|WEAPON_SKIN|MYTHICAL] fo [Astral|AR-9|WEAPON_SKIN|MYTHICAL] ?",
+    "timestamp": "2026-05-12T09:45:05.423Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "oxeMDF6fD4QcQyaaSaRwsbEXU8p1",
+      "shortId": "JWA5X3",
+      "name": "HUNTER",
+      "role": "USER",
+      "level": 99
+    },
+    "message": "saint tell",
+    "timestamp": "2026-05-12T09:45:21.817Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "oxeMDF6fD4QcQyaaSaRwsbEXU8p1",
+      "shortId": "JWA5X3",
+      "name": "HUNTER",
+      "role": "USER",
+      "level": 99
+    },
+    "message": "herng",
+    "timestamp": "2026-05-12T09:45:37.532Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "oxeMDF6fD4QcQyaaSaRwsbEXU8p1",
+      "shortId": "JWA5X3",
+      "name": "HUNTER",
+      "role": "USER",
+      "level": 99
+    },
+    "message": "[Gardener|Bayonet|WEAPON_SKIN|MYTHICAL] for [Bay|Shark|WEAPON_SKIN|LEGENDARY] [Beach|Bayonet|WEAPON_SKIN|LEGENDARY]",
+    "timestamp": "2026-05-12T09:45:49.874Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "oxeMDF6fD4QcQyaaSaRwsbEXU8p1",
+      "shortId": "JWA5X3",
+      "name": "HUNTER",
+      "role": "USER",
+      "level": 99
+    },
+    "message": "/price [beach[",
+    "timestamp": "2026-05-12T09:46:00.962Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "oxeMDF6fD4QcQyaaSaRwsbEXU8p1",
+      "shortId": "JWA5X3",
+      "name": "HUNTER",
+      "role": "USER",
+      "level": 99
+    },
+    "message": "/price [Beach|Bayonet|WEAPON_SKIN|LEGENDARY]",
+    "timestamp": "2026-05-12T09:46:08.702Z"
   }
 ]
