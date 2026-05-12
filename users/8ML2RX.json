@@ -1,0 +1,38 @@
+[
+  {
+    "type": 2,
+    "user": {
+      "id": "guest-25f50b04-d62e-46c6-a403-686dce3f7ddc",
+      "shortId": "8ML2RX",
+      "name": "XxXxX",
+      "role": "USER",
+      "level": 16
+    },
+    "message": "5499",
+    "timestamp": "2026-05-12T10:58:57.558Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "guest-25f50b04-d62e-46c6-a403-686dce3f7ddc",
+      "shortId": "8ML2RX",
+      "name": "XxXxX",
+      "role": "USER",
+      "level": 16
+    },
+    "message": "/5499",
+    "timestamp": "2026-05-12T10:59:07.429Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "guest-25f50b04-d62e-46c6-a403-686dce3f7ddc",
+      "shortId": "8ML2RX",
+      "name": "XxXxX",
+      "role": "USER",
+      "level": 16
+    },
+    "message": "i got 2024",
+    "timestamp": "2026-05-12T11:00:45.430Z"
+  }
+]
