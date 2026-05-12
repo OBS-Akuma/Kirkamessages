@@ -5014,5 +5014,17 @@
     },
     "message": ".wager/cf/ug[Frau||BODY_SKIN|MYTHICAL]",
     "timestamp": "2026-05-11T01:35:09.686Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "187137c4-6750-42fa-9168-4c2a9859f7c1",
+      "shortId": "4SYHPF",
+      "name": "Elisha",
+      "role": "USER",
+      "level": 62
+    },
+    "message": "/enter",
+    "timestamp": "2026-05-12T20:30:30.819Z"
   }
 ]
