@@ -226,5 +226,17 @@
     },
     "message": "/wager [daniel]",
     "timestamp": "2026-05-10T02:21:53.203Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "455090b1-947f-4466-9511-e5f91fc2245b",
+      "shortId": "U1BUEI",
+      "name": "dispersion",
+      "role": "USER",
+      "level": 101
+    },
+    "message": "quests not loading?",
+    "timestamp": "2026-05-12T18:09:23.076Z"
   }
 ]
