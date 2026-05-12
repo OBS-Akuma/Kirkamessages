@@ -178,5 +178,29 @@
     },
     "message": "lffffff[contrastt]",
     "timestamp": "2026-05-10T19:23:25.383Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "1ad49c24-c65a-4281-96be-43fc3bcc527a",
+      "shortId": "NSBLR9",
+      "name": "I.Kill.You!",
+      "role": "USER",
+      "level": 10
+    },
+    "message": "/enter",
+    "timestamp": "2026-05-12T16:37:13.805Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "1ad49c24-c65a-4281-96be-43fc3bcc527a",
+      "shortId": "NSBLR9",
+      "name": "I.Kill.You!",
+      "role": "USER",
+      "level": 10
+    },
+    "message": "kirrkaaa stop bufggging frrr",
+    "timestamp": "2026-05-12T18:27:06.025Z"
   }
 ]
