@@ -10,5 +10,29 @@
     },
     "message": "/enter",
     "timestamp": "2026-05-07T20:18:42.118Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "820da069-3e2c-4d40-b9f6-190d74402e83",
+      "shortId": "70UA7G",
+      "name": "Finnley",
+      "role": "USER",
+      "level": 15
+    },
+    "message": "/hm jade",
+    "timestamp": "2026-05-12T19:48:23.394Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "820da069-3e2c-4d40-b9f6-190d74402e83",
+      "shortId": "70UA7G",
+      "name": "Finnley",
+      "role": "USER",
+      "level": 15
+    },
+    "message": "/hm engravement",
+    "timestamp": "2026-05-12T19:48:50.269Z"
   }
 ]
