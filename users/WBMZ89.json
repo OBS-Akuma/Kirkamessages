@@ -94,5 +94,17 @@
     },
     "message": "/price hope",
     "timestamp": "2026-05-08T04:52:39.366Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "5a635f34-a75c-4e65-b5c8-c4798edc756a",
+      "shortId": "WBMZ89",
+      "name": "SQUIRT",
+      "role": "USER",
+      "level": 10
+    },
+    "message": "sbbb",
+    "timestamp": "2026-05-11T09:24:00.585Z"
   }
 ]
