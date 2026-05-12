@@ -130,5 +130,53 @@
     },
     "message": "[ranked_s5 silver]",
     "timestamp": "2026-05-07T18:10:03.595Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "781154c6-3c25-415c-9495-e284bf68219f",
+      "shortId": "FYLNOY",
+      "name": "CyanNo.Y",
+      "role": "USER",
+      "level": 88
+    },
+    "message": "/enter",
+    "timestamp": "2026-05-12T16:53:50.000Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "781154c6-3c25-415c-9495-e284bf68219f",
+      "shortId": "FYLNOY",
+      "name": "CyanNo.Y",
+      "role": "USER",
+      "level": 88
+    },
+    "message": "hey aura",
+    "timestamp": "2026-05-12T16:54:03.660Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "781154c6-3c25-415c-9495-e284bf68219f",
+      "shortId": "FYLNOY",
+      "name": "CyanNo.Y",
+      "role": "USER",
+      "level": 88
+    },
+    "message": "why arent u lobbying with listener and dev",
+    "timestamp": "2026-05-12T16:54:09.657Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "781154c6-3c25-415c-9495-e284bf68219f",
+      "shortId": "FYLNOY",
+      "name": "CyanNo.Y",
+      "role": "USER",
+      "level": 88
+    },
+    "message": "wh",
+    "timestamp": "2026-05-12T16:54:45.842Z"
   }
 ]
