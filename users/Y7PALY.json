@@ -526,5 +526,29 @@
     },
     "message": "add more",
     "timestamp": "2026-05-12T05:20:24.695Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "cY45RbBiChU33NcagimgpS8e0aU2",
+      "shortId": "Y7PALY",
+      "name": "MR_LEON_Playz",
+      "role": "USER",
+      "level": 71
+    },
+    "message": "trade[Dragonic SCAR|SCAR|WEAPON_SKIN|MYTHICAL][Hotrod MAC-10|MAC-10|WEAPON_SKIN|MYTHICAL][Polar||BODY_SKIN|MYTHICAL][Ghillie||BODY_SKIN|MYTHICAL][Krampus||BODY_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-12T07:18:59.323Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "cY45RbBiChU33NcagimgpS8e0aU2",
+      "shortId": "Y7PALY",
+      "name": "MR_LEON_Playz",
+      "role": "USER",
+      "level": 71
+    },
+    "message": "i need goood clan i need it",
+    "timestamp": "2026-05-12T07:19:21.905Z"
   }
 ]
