@@ -1,0 +1,26 @@
+[
+  {
+    "type": 2,
+    "user": {
+      "id": "guest-f44f698a-be21-4af8-bb86-13175255c25a",
+      "shortId": "96R57O",
+      "name": "[uwu]",
+      "role": "USER",
+      "level": 29
+    },
+    "message": "/join",
+    "timestamp": "2026-05-12T06:45:11.825Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "guest-f44f698a-be21-4af8-bb86-13175255c25a",
+      "shortId": "96R57O",
+      "name": "[uwu]",
+      "role": "USER",
+      "level": 29
+    },
+    "message": "/enter",
+    "timestamp": "2026-05-12T06:45:14.763Z"
+  }
+]
