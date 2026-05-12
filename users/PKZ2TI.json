@@ -442,5 +442,29 @@
     },
     "message": "#KSOY64 did u lose ur lor?",
     "timestamp": "2026-05-11T01:55:03.036Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "4797abbf-1d99-448f-b020-b59a507a2ce9",
+      "shortId": "PKZ2TI",
+      "name": "jinx",
+      "role": "USER",
+      "level": 6
+    },
+    "message": "/locate [Goat||BODY_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-12T21:48:28.434Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "4797abbf-1d99-448f-b020-b59a507a2ce9",
+      "shortId": "PKZ2TI",
+      "name": "jinx",
+      "role": "USER",
+      "level": 6
+    },
+    "message": "#JJB07J",
+    "timestamp": "2026-05-12T21:51:41.229Z"
   }
 ]
