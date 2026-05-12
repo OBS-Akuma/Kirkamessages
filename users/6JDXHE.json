@@ -34,5 +34,29 @@
     },
     "message": "/claim",
     "timestamp": "2026-05-11T19:09:16.964Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "guest-d15d6994-b5c7-4828-b57e-31f29268e511",
+      "shortId": "6JDXHE",
+      "name": "TUNGTUNGSAHUR.",
+      "role": "USER",
+      "level": 20
+    },
+    "message": "/price polka",
+    "timestamp": "2026-05-12T15:21:59.612Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "guest-d15d6994-b5c7-4828-b57e-31f29268e511",
+      "shortId": "6JDXHE",
+      "name": "TUNGTUNGSAHUR.",
+      "role": "USER",
+      "level": 20
+    },
+    "message": "[Polka||BODY_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-12T15:24:42.092Z"
   }
 ]
