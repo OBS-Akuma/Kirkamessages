@@ -4618,5 +4618,17 @@
     },
     "message": "pepe",
     "timestamp": "2026-05-12T06:15:39.046Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "nMIphnUUG0d0O6FFix2cU7iMda92",
+      "shortId": "H415SN",
+      "name": "VIRUS",
+      "role": "USER",
+      "level": 68
+    },
+    "message": "/claim",
+    "timestamp": "2026-05-12T06:36:42.441Z"
   }
 ]
