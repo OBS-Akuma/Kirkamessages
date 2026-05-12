@@ -10,5 +10,17 @@
     },
     "message": "/inv",
     "timestamp": "2026-05-08T01:28:50.589Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "625a62bf-caab-4006-b0e6-dadcf233703d",
+      "shortId": "SCREAM",
+      "name": "Ibuprofen",
+      "role": "MODERATOR",
+      "level": 101
+    },
+    "message": "Erm/",
+    "timestamp": "2026-05-12T17:54:18.810Z"
   }
 ]
