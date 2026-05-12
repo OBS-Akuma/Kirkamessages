@@ -1990,5 +1990,53 @@
     },
     "message": "is 730 klo good",
     "timestamp": "2026-05-12T13:34:20.108Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "c1dc9eb7-1501-4a08-a07f-1643616d21a3",
+      "shortId": "1SH1BR",
+      "name": "Gastricks",
+      "role": "USER",
+      "level": 70
+    },
+    "message": "/hm [1337|Shark|WEAPON_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-12T14:22:00.501Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "c1dc9eb7-1501-4a08-a07f-1643616d21a3",
+      "shortId": "1SH1BR",
+      "name": "Gastricks",
+      "role": "USER",
+      "level": 70
+    },
+    "message": "/inv",
+    "timestamp": "2026-05-12T14:22:14.535Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "c1dc9eb7-1501-4a08-a07f-1643616d21a3",
+      "shortId": "1SH1BR",
+      "name": "Gastricks",
+      "role": "USER",
+      "level": 70
+    },
+    "message": "/hm corny",
+    "timestamp": "2026-05-12T14:22:49.116Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "c1dc9eb7-1501-4a08-a07f-1643616d21a3",
+      "shortId": "1SH1BR",
+      "name": "Gastricks",
+      "role": "USER",
+      "level": 70
+    },
+    "message": "trading [Corny||BODY_SKIN|LEGENDARY]",
+    "timestamp": "2026-05-12T14:23:14.852Z"
   }
 ]
