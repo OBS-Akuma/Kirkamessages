@@ -298,5 +298,29 @@
     },
     "message": "/enter",
     "timestamp": "2026-05-10T20:31:49.832Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "e593855f-34dd-4d12-b03f-87cf92b607c9",
+      "shortId": "Q9COV0",
+      "name": "Dutchman",
+      "role": "USER",
+      "level": 95
+    },
+    "message": "hi",
+    "timestamp": "2026-05-12T02:25:32.395Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "e593855f-34dd-4d12-b03f-87cf92b607c9",
+      "shortId": "Q9COV0",
+      "name": "Dutchman",
+      "role": "USER",
+      "level": 95
+    },
+    "message": "/enter",
+    "timestamp": "2026-05-12T02:25:34.074Z"
   }
 ]
