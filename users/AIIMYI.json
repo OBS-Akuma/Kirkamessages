@@ -1114,5 +1114,65 @@
     },
     "message": "/fav bolt",
     "timestamp": "2026-05-13T04:10:24.869Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "5c75b2d7-9364-4cdf-8a05-4f98b9d990f5",
+      "shortId": "AIIMYI",
+      "name": "xyds",
+      "role": "USER",
+      "level": 88
+    },
+    "message": "/hm [Cane|Bayonet|WEAPON_SKIN|EPIC]",
+    "timestamp": "2026-05-13T21:45:30.186Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "5c75b2d7-9364-4cdf-8a05-4f98b9d990f5",
+      "shortId": "AIIMYI",
+      "name": "xyds",
+      "role": "USER",
+      "level": 88
+    },
+    "message": "/fav bolt",
+    "timestamp": "2026-05-13T21:46:02.274Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "5c75b2d7-9364-4cdf-8a05-4f98b9d990f5",
+      "shortId": "AIIMYI",
+      "name": "xyds",
+      "role": "USER",
+      "level": 88
+    },
+    "message": "/hm [Crazy|AR-9|WEAPON_SKIN|LEGENDARY]",
+    "timestamp": "2026-05-13T21:46:14.835Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "5c75b2d7-9364-4cdf-8a05-4f98b9d990f5",
+      "shortId": "AIIMYI",
+      "name": "xyds",
+      "role": "USER",
+      "level": 88
+    },
+    "message": "/giveaway",
+    "timestamp": "2026-05-13T23:29:07.648Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "5c75b2d7-9364-4cdf-8a05-4f98b9d990f5",
+      "shortId": "AIIMYI",
+      "name": "xyds",
+      "role": "USER",
+      "level": 88
+    },
+    "message": "/enter",
+    "timestamp": "2026-05-13T23:41:07.310Z"
   }
 ]
