@@ -190,5 +190,113 @@
     },
     "message": "any other givaways?",
     "timestamp": "2026-05-13T08:14:26.627Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "dece667a-fd9d-4728-88c0-104cad6d4c40",
+      "shortId": "7RPR5P",
+      "name": "RazorX",
+      "role": "USER",
+      "level": 40
+    },
+    "message": "/price [Splanch|VITA|WEAPON_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-13T08:57:46.644Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "dece667a-fd9d-4728-88c0-104cad6d4c40",
+      "shortId": "7RPR5P",
+      "name": "RazorX",
+      "role": "USER",
+      "level": 40
+    },
+    "message": "ouch",
+    "timestamp": "2026-05-13T08:57:51.579Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "dece667a-fd9d-4728-88c0-104cad6d4c40",
+      "shortId": "7RPR5P",
+      "name": "RazorX",
+      "role": "USER",
+      "level": 40
+    },
+    "message": "/price [Verde|Bayonet|WEAPON_SKIN|MYTHICAL],[Splanch|VITA|WEAPON_SKIN|MYTHICAL],[Synergy|LAR|WEAPON_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-13T08:58:36.788Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "dece667a-fd9d-4728-88c0-104cad6d4c40",
+      "shortId": "7RPR5P",
+      "name": "RazorX",
+      "role": "USER",
+      "level": 40
+    },
+    "message": "[Blast||BODY_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-13T09:14:22.753Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "dece667a-fd9d-4728-88c0-104cad6d4c40",
+      "shortId": "7RPR5P",
+      "name": "RazorX",
+      "role": "USER",
+      "level": 40
+    },
+    "message": "no i wanna buy",
+    "timestamp": "2026-05-13T09:14:36.834Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "dece667a-fd9d-4728-88c0-104cad6d4c40",
+      "shortId": "7RPR5P",
+      "name": "RazorX",
+      "role": "USER",
+      "level": 40
+    },
+    "message": "i only have[Forbidden|AR-9|WEAPON_SKIN|MYTHICAL],[CYB3R|Bayonet|WEAPON_SKIN|MYTHICAL]and[Nyan Cat|VITA|WEAPON_SKIN|LEGENDARY]",
+    "timestamp": "2026-05-13T09:15:09.714Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "dece667a-fd9d-4728-88c0-104cad6d4c40",
+      "shortId": "7RPR5P",
+      "name": "RazorX",
+      "role": "USER",
+      "level": 40
+    },
+    "message": "i ment[Nyan Shark|Shark|WEAPON_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-13T09:16:04.956Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "dece667a-fd9d-4728-88c0-104cad6d4c40",
+      "shortId": "7RPR5P",
+      "name": "RazorX",
+      "role": "USER",
+      "level": 40
+    },
+    "message": "/price [Nyan Shark|Shark|WEAPON_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-13T09:16:21.989Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "dece667a-fd9d-4728-88c0-104cad6d4c40",
+      "shortId": "7RPR5P",
+      "name": "RazorX",
+      "role": "USER",
+      "level": 40
+    },
+    "message": "/hm [Koi|Bayonet|WEAPON_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-13T09:16:59.598Z"
   }
 ]
