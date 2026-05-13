@@ -646,5 +646,41 @@
     },
     "message": "[Heavy|LAR|WEAPON_SKIN|MYTHICAL]",
     "timestamp": "2026-05-13T00:00:30.167Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "fddeb704-c4e4-4f50-8a81-28c407f6d5da",
+      "shortId": "LYUXIM",
+      "name": "tstep",
+      "role": "USER",
+      "level": 98
+    },
+    "message": "/locate qod",
+    "timestamp": "2026-05-13T02:43:00.687Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "fddeb704-c4e4-4f50-8a81-28c407f6d5da",
+      "shortId": "LYUXIM",
+      "name": "tstep",
+      "role": "USER",
+      "level": 98
+    },
+    "message": "/inv #FPUPR5",
+    "timestamp": "2026-05-13T02:43:13.893Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "fddeb704-c4e4-4f50-8a81-28c407f6d5da",
+      "shortId": "LYUXIM",
+      "name": "tstep",
+      "role": "USER",
+      "level": 98
+    },
+    "message": "/locate qod",
+    "timestamp": "2026-05-13T02:43:26.670Z"
   }
 ]
