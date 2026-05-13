@@ -610,5 +610,65 @@
     },
     "message": "67",
     "timestamp": "2026-05-12T18:00:38.094Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "4565adc2-154f-4217-b2fc-56369a378692",
+      "shortId": "H345UD",
+      "name": "Hybrid",
+      "role": "USER",
+      "level": 28
+    },
+    "message": "https://kirka.io/___lobby___/NA~iNaDBvIQ-",
+    "timestamp": "2026-05-13T18:03:31.738Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "4565adc2-154f-4217-b2fc-56369a378692",
+      "shortId": "H345UD",
+      "name": "Hybrid",
+      "role": "USER",
+      "level": 28
+    },
+    "message": "yall enter my party anyone",
+    "timestamp": "2026-05-13T18:03:37.307Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "4565adc2-154f-4217-b2fc-56369a378692",
+      "shortId": "H345UD",
+      "name": "Hybrid",
+      "role": "USER",
+      "level": 28
+    },
+    "message": "https://kirka.io/___lobby___/NA~iNaDBvIQ-",
+    "timestamp": "2026-05-13T18:03:42.942Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "4565adc2-154f-4217-b2fc-56369a378692",
+      "shortId": "H345UD",
+      "name": "Hybrid",
+      "role": "USER",
+      "level": 28
+    },
+    "message": "https://kirka.io/___lobby___/NA~iNaDBvIQ-https://kirka.io/___lobby___/NA~iNaDBvI",
+    "timestamp": "2026-05-13T18:03:45.526Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "4565adc2-154f-4217-b2fc-56369a378692",
+      "shortId": "H345UD",
+      "name": "Hybrid",
+      "role": "USER",
+      "level": 28
+    },
+    "message": "xd im kidding",
+    "timestamp": "2026-05-13T18:03:52.126Z"
   }
 ]
