@@ -730,5 +730,77 @@
     },
     "message": "trade offer #MPZ4LH me:[Golden||CHEST|LEGENDARY] your:[Clover|MAC-10|WEAPON_SKIN|MYTHICAL],[Liberty|VITA|WEAPON_SKIN|LEGENDARY],[Bansee|VITA|WEAPON_SKIN|MYTHICAL]",
     "timestamp": "2026-05-12T07:05:26.466Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "849b68b6-84ec-47c9-a14e-ccf0aa3cfc1e",
+      "shortId": "GXJ1VE",
+      "name": "ASTA",
+      "role": "USER",
+      "level": 96
+    },
+    "message": "tr [Wolfy||BODY_SKIN|MYTHICAL][siant patrick]",
+    "timestamp": "2026-05-13T11:44:26.947Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "849b68b6-84ec-47c9-a14e-ccf0aa3cfc1e",
+      "shortId": "GXJ1VE",
+      "name": "ASTA",
+      "role": "USER",
+      "level": 96
+    },
+    "message": "[Saint Patrick|Shark|WEAPON_SKIN|LEGENDARY]",
+    "timestamp": "2026-05-13T11:44:47.191Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "849b68b6-84ec-47c9-a14e-ccf0aa3cfc1e",
+      "shortId": "GXJ1VE",
+      "name": "ASTA",
+      "role": "USER",
+      "level": 96
+    },
+    "message": "tr [Wolfy||BODY_SKIN|MYTHICAL][Saint Patrick|Shark|WEAPON_SKIN|LEGENDARY]",
+    "timestamp": "2026-05-13T11:45:10.201Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "849b68b6-84ec-47c9-a14e-ccf0aa3cfc1e",
+      "shortId": "GXJ1VE",
+      "name": "ASTA",
+      "role": "USER",
+      "level": 96
+    },
+    "message": "/confirmwager",
+    "timestamp": "2026-05-13T11:45:25.153Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "849b68b6-84ec-47c9-a14e-ccf0aa3cfc1e",
+      "shortId": "GXJ1VE",
+      "name": "ASTA",
+      "role": "USER",
+      "level": 96
+    },
+    "message": "wait",
+    "timestamp": "2026-05-13T11:45:46.367Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "849b68b6-84ec-47c9-a14e-ccf0aa3cfc1e",
+      "shortId": "GXJ1VE",
+      "name": "ASTA",
+      "role": "USER",
+      "level": 96
+    },
+    "message": "in my alt",
+    "timestamp": "2026-05-13T11:45:49.648Z"
   }
 ]
