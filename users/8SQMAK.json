@@ -1858,5 +1858,173 @@
     },
     "message": "/hm dynasty",
     "timestamp": "2026-05-13T06:01:01.523Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "e7ca017c-557f-4b21-96eb-3ec2a9a728ab",
+      "shortId": "8SQMAK",
+      "name": "Eri.",
+      "role": "USER",
+      "level": 56
+    },
+    "message": "/price nyan shark",
+    "timestamp": "2026-05-13T08:55:25.718Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "e7ca017c-557f-4b21-96eb-3ec2a9a728ab",
+      "shortId": "8SQMAK",
+      "name": "Eri.",
+      "role": "USER",
+      "level": 56
+    },
+    "message": "how many coins for polar ?",
+    "timestamp": "2026-05-13T08:56:07.924Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "e7ca017c-557f-4b21-96eb-3ec2a9a728ab",
+      "shortId": "8SQMAK",
+      "name": "Eri.",
+      "role": "USER",
+      "level": 56
+    },
+    "message": "ok",
+    "timestamp": "2026-05-13T08:56:27.168Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "e7ca017c-557f-4b21-96eb-3ec2a9a728ab",
+      "shortId": "8SQMAK",
+      "name": "Eri.",
+      "role": "USER",
+      "level": 56
+    },
+    "message": "fix",
+    "timestamp": "2026-05-13T08:56:35.656Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "e7ca017c-557f-4b21-96eb-3ec2a9a728ab",
+      "shortId": "8SQMAK",
+      "name": "Eri.",
+      "role": "USER",
+      "level": 56
+    },
+    "message": "/price polar",
+    "timestamp": "2026-05-13T09:01:38.384Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "e7ca017c-557f-4b21-96eb-3ec2a9a728ab",
+      "shortId": "8SQMAK",
+      "name": "Eri.",
+      "role": "USER",
+      "level": 56
+    },
+    "message": "/price 2026",
+    "timestamp": "2026-05-13T09:02:05.656Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "e7ca017c-557f-4b21-96eb-3ec2a9a728ab",
+      "shortId": "8SQMAK",
+      "name": "Eri.",
+      "role": "USER",
+      "level": 56
+    },
+    "message": "/hm 2026",
+    "timestamp": "2026-05-13T09:02:16.038Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "e7ca017c-557f-4b21-96eb-3ec2a9a728ab",
+      "shortId": "8SQMAK",
+      "name": "Eri.",
+      "role": "USER",
+      "level": 56
+    },
+    "message": "/hm diane",
+    "timestamp": "2026-05-13T09:16:09.701Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "e7ca017c-557f-4b21-96eb-3ec2a9a728ab",
+      "shortId": "8SQMAK",
+      "name": "Eri.",
+      "role": "USER",
+      "level": 56
+    },
+    "message": "/price diane",
+    "timestamp": "2026-05-13T09:16:18.938Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "e7ca017c-557f-4b21-96eb-3ec2a9a728ab",
+      "shortId": "8SQMAK",
+      "name": "Eri.",
+      "role": "USER",
+      "level": 56
+    },
+    "message": "/hm polygon",
+    "timestamp": "2026-05-13T09:16:45.826Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "e7ca017c-557f-4b21-96eb-3ec2a9a728ab",
+      "shortId": "8SQMAK",
+      "name": "Eri.",
+      "role": "USER",
+      "level": 56
+    },
+    "message": "how many coins for ghillie",
+    "timestamp": "2026-05-13T09:19:13.383Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "e7ca017c-557f-4b21-96eb-3ec2a9a728ab",
+      "shortId": "8SQMAK",
+      "name": "Eri.",
+      "role": "USER",
+      "level": 56
+    },
+    "message": "who has ghillie",
+    "timestamp": "2026-05-13T09:19:55.892Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "e7ca017c-557f-4b21-96eb-3ec2a9a728ab",
+      "shortId": "8SQMAK",
+      "name": "Eri.",
+      "role": "USER",
+      "level": 56
+    },
+    "message": "/hm nova",
+    "timestamp": "2026-05-13T09:20:17.286Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "e7ca017c-557f-4b21-96eb-3ec2a9a728ab",
+      "shortId": "8SQMAK",
+      "name": "Eri.",
+      "role": "USER",
+      "level": 56
+    },
+    "message": "/price nova",
+    "timestamp": "2026-05-13T09:20:29.120Z"
   }
 ]
