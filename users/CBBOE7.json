@@ -466,5 +466,413 @@
     },
     "message": "/enter",
     "timestamp": "2026-05-12T17:04:04.328Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "e6f1092a-d1c9-4698-905b-5e4797995800",
+      "shortId": "CBBOE7",
+      "name": "tmmor",
+      "role": "USER",
+      "level": 61
+    },
+    "message": "tr [Diane|Shark|WEAPON_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-13T11:39:46.515Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "e6f1092a-d1c9-4698-905b-5e4797995800",
+      "shortId": "CBBOE7",
+      "name": "tmmor",
+      "role": "USER",
+      "level": 61
+    },
+    "message": "/lottery",
+    "timestamp": "2026-05-13T11:40:00.592Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "e6f1092a-d1c9-4698-905b-5e4797995800",
+      "shortId": "CBBOE7",
+      "name": "tmmor",
+      "role": "USER",
+      "level": 61
+    },
+    "message": "/lottery 2",
+    "timestamp": "2026-05-13T11:40:07.269Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "e6f1092a-d1c9-4698-905b-5e4797995800",
+      "shortId": "CBBOE7",
+      "name": "tmmor",
+      "role": "USER",
+      "level": 61
+    },
+    "message": "/mywager",
+    "timestamp": "2026-05-13T11:40:21.004Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "e6f1092a-d1c9-4698-905b-5e4797995800",
+      "shortId": "CBBOE7",
+      "name": "tmmor",
+      "role": "USER",
+      "level": 61
+    },
+    "message": "/enter",
+    "timestamp": "2026-05-13T11:40:30.176Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "e6f1092a-d1c9-4698-905b-5e4797995800",
+      "shortId": "CBBOE7",
+      "name": "tmmor",
+      "role": "USER",
+      "level": 62
+    },
+    "message": "/lottery 2",
+    "timestamp": "2026-05-13T12:06:46.829Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "e6f1092a-d1c9-4698-905b-5e4797995800",
+      "shortId": "CBBOE7",
+      "name": "tmmor",
+      "role": "USER",
+      "level": 62
+    },
+    "message": "/lottery",
+    "timestamp": "2026-05-13T12:06:54.993Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "e6f1092a-d1c9-4698-905b-5e4797995800",
+      "shortId": "CBBOE7",
+      "name": "tmmor",
+      "role": "USER",
+      "level": 62
+    },
+    "message": "/lotter 2",
+    "timestamp": "2026-05-13T12:06:58.732Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "e6f1092a-d1c9-4698-905b-5e4797995800",
+      "shortId": "CBBOE7",
+      "name": "tmmor",
+      "role": "USER",
+      "level": 62
+    },
+    "message": "/lottery 2",
+    "timestamp": "2026-05-13T12:07:02.500Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "e6f1092a-d1c9-4698-905b-5e4797995800",
+      "shortId": "CBBOE7",
+      "name": "tmmor",
+      "role": "USER",
+      "level": 62
+    },
+    "message": "/hm garden",
+    "timestamp": "2026-05-13T12:07:54.217Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "e6f1092a-d1c9-4698-905b-5e4797995800",
+      "shortId": "CBBOE7",
+      "name": "tmmor",
+      "role": "USER",
+      "level": 62
+    },
+    "message": "tr [Diane|Shark|WEAPON_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-13T12:08:02.342Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "e6f1092a-d1c9-4698-905b-5e4797995800",
+      "shortId": "CBBOE7",
+      "name": "tmmor",
+      "role": "USER",
+      "level": 62
+    },
+    "message": "yo qwerty i got diane if you wanna trade, or [Ivoire|Revolver|WEAPON_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-13T12:09:10.577Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "e6f1092a-d1c9-4698-905b-5e4797995800",
+      "shortId": "CBBOE7",
+      "name": "tmmor",
+      "role": "USER",
+      "level": 62
+    },
+    "message": "no worries",
+    "timestamp": "2026-05-13T12:09:31.652Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "e6f1092a-d1c9-4698-905b-5e4797995800",
+      "shortId": "CBBOE7",
+      "name": "tmmor",
+      "role": "USER",
+      "level": 62
+    },
+    "message": "sounds good",
+    "timestamp": "2026-05-13T12:09:39.616Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "e6f1092a-d1c9-4698-905b-5e4797995800",
+      "shortId": "CBBOE7",
+      "name": "tmmor",
+      "role": "USER",
+      "level": 62
+    },
+    "message": "/inv",
+    "timestamp": "2026-05-13T12:09:50.043Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "e6f1092a-d1c9-4698-905b-5e4797995800",
+      "shortId": "CBBOE7",
+      "name": "tmmor",
+      "role": "USER",
+      "level": 62
+    },
+    "message": "#2HPWTQ",
+    "timestamp": "2026-05-13T12:10:03.709Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "e6f1092a-d1c9-4698-905b-5e4797995800",
+      "shortId": "CBBOE7",
+      "name": "tmmor",
+      "role": "USER",
+      "level": 62
+    },
+    "message": "qwerty is [Garden|LAR|WEAPON_SKIN|MYTHICAL] worth much?",
+    "timestamp": "2026-05-13T12:10:30.895Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "e6f1092a-d1c9-4698-905b-5e4797995800",
+      "shortId": "CBBOE7",
+      "name": "tmmor",
+      "role": "USER",
+      "level": 63
+    },
+    "message": "/hm underwater",
+    "timestamp": "2026-05-13T18:22:27.146Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "e6f1092a-d1c9-4698-905b-5e4797995800",
+      "shortId": "CBBOE7",
+      "name": "tmmor",
+      "role": "USER",
+      "level": 63
+    },
+    "message": "/hm koi",
+    "timestamp": "2026-05-13T18:22:34.446Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "e6f1092a-d1c9-4698-905b-5e4797995800",
+      "shortId": "CBBOE7",
+      "name": "tmmor",
+      "role": "USER",
+      "level": 63
+    },
+    "message": "/hm nyan shark",
+    "timestamp": "2026-05-13T18:22:42.560Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "e6f1092a-d1c9-4698-905b-5e4797995800",
+      "shortId": "CBBOE7",
+      "name": "tmmor",
+      "role": "USER",
+      "level": 63
+    },
+    "message": "/hm gnome",
+    "timestamp": "2026-05-13T18:25:38.545Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "e6f1092a-d1c9-4698-905b-5e4797995800",
+      "shortId": "CBBOE7",
+      "name": "tmmor",
+      "role": "USER",
+      "level": 63
+    },
+    "message": "/hm silver bullet",
+    "timestamp": "2026-05-13T18:26:08.242Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "e6f1092a-d1c9-4698-905b-5e4797995800",
+      "shortId": "CBBOE7",
+      "name": "tmmor",
+      "role": "USER",
+      "level": 63
+    },
+    "message": "/hm skeletain",
+    "timestamp": "2026-05-13T18:26:46.857Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "e6f1092a-d1c9-4698-905b-5e4797995800",
+      "shortId": "CBBOE7",
+      "name": "tmmor",
+      "role": "USER",
+      "level": 63
+    },
+    "message": "/hm hellizabeth",
+    "timestamp": "2026-05-13T18:26:55.439Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "e6f1092a-d1c9-4698-905b-5e4797995800",
+      "shortId": "CBBOE7",
+      "name": "tmmor",
+      "role": "USER",
+      "level": 63
+    },
+    "message": "#Q87FQ9 poo skin",
+    "timestamp": "2026-05-13T18:34:00.039Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "e6f1092a-d1c9-4698-905b-5e4797995800",
+      "shortId": "CBBOE7",
+      "name": "tmmor",
+      "role": "USER",
+      "level": 63
+    },
+    "message": "/hm diane",
+    "timestamp": "2026-05-13T18:34:29.232Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "e6f1092a-d1c9-4698-905b-5e4797995800",
+      "shortId": "CBBOE7",
+      "name": "tmmor",
+      "role": "USER",
+      "level": 63
+    },
+    "message": "/hm [Ivoire|Revolver|WEAPON_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-13T18:35:41.344Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "e6f1092a-d1c9-4698-905b-5e4797995800",
+      "shortId": "CBBOE7",
+      "name": "tmmor",
+      "role": "USER",
+      "level": 63
+    },
+    "message": "/hm demon",
+    "timestamp": "2026-05-13T18:36:10.505Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "e6f1092a-d1c9-4698-905b-5e4797995800",
+      "shortId": "CBBOE7",
+      "name": "tmmor",
+      "role": "USER",
+      "level": 63
+    },
+    "message": "np[",
+    "timestamp": "2026-05-13T18:36:16.233Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "e6f1092a-d1c9-4698-905b-5e4797995800",
+      "shortId": "CBBOE7",
+      "name": "tmmor",
+      "role": "USER",
+      "level": 63
+    },
+    "message": "/hm or",
+    "timestamp": "2026-05-13T18:36:41.500Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "e6f1092a-d1c9-4698-905b-5e4797995800",
+      "shortId": "CBBOE7",
+      "name": "tmmor",
+      "role": "USER",
+      "level": 63
+    },
+    "message": "ty",
+    "timestamp": "2026-05-13T18:37:18.938Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "e6f1092a-d1c9-4698-905b-5e4797995800",
+      "shortId": "CBBOE7",
+      "name": "tmmor",
+      "role": "USER",
+      "level": 63
+    },
+    "message": "/hm cornfield",
+    "timestamp": "2026-05-13T18:37:34.917Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "e6f1092a-d1c9-4698-905b-5e4797995800",
+      "shortId": "CBBOE7",
+      "name": "tmmor",
+      "role": "USER",
+      "level": 63
+    },
+    "message": "/hm honey",
+    "timestamp": "2026-05-13T18:40:10.323Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "e6f1092a-d1c9-4698-905b-5e4797995800",
+      "shortId": "CBBOE7",
+      "name": "tmmor",
+      "role": "USER",
+      "level": 63
+    },
+    "message": "/hm or",
+    "timestamp": "2026-05-13T18:41:19.384Z"
   }
 ]
