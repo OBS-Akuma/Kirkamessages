@@ -1,0 +1,38 @@
+[
+  {
+    "type": 2,
+    "user": {
+      "id": "86aa4f97-7723-4c5b-8c09-0ecaa84630bd",
+      "shortId": "RQ6HHB",
+      "name": "Newbie",
+      "role": "USER",
+      "level": 8
+    },
+    "message": "/enter",
+    "timestamp": "2026-05-13T09:56:16.005Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "86aa4f97-7723-4c5b-8c09-0ecaa84630bd",
+      "shortId": "RQ6HHB",
+      "name": "Newbie",
+      "role": "USER",
+      "level": 8
+    },
+    "message": "/locate 2025 revolver",
+    "timestamp": "2026-05-13T09:59:11.449Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "86aa4f97-7723-4c5b-8c09-0ecaa84630bd",
+      "shortId": "RQ6HHB",
+      "name": "Newbie",
+      "role": "USER",
+      "level": 8
+    },
+    "message": "I need golden",
+    "timestamp": "2026-05-13T10:20:52.278Z"
+  }
+]
