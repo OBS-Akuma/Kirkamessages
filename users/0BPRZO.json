@@ -3706,5 +3706,29 @@
     },
     "message": "TR [ghoul[pastel][Forbidden|AR-9|WEAPON_SKIN|MYTHICAL]",
     "timestamp": "2026-05-12T20:04:43.425Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "aC4eJ9XToJg3hfiixxui6Cv8ymy2",
+      "shortId": "0BPRZO",
+      "name": "Abyss",
+      "role": "USER",
+      "level": 48
+    },
+    "message": "TR [ghoul",
+    "timestamp": "2026-05-13T04:20:03.857Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "aC4eJ9XToJg3hfiixxui6Cv8ymy2",
+      "shortId": "0BPRZO",
+      "name": "Abyss",
+      "role": "USER",
+      "level": 48
+    },
+    "message": "/price [Xed||BODY_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-13T04:24:51.677Z"
   }
 ]
