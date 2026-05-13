@@ -58,5 +58,65 @@
     },
     "message": "/hm korunami",
     "timestamp": "2026-05-11T05:05:42.110Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "gU03Zn1AmRRlJcisOmSfHXfhFCy1",
+      "shortId": "OQGXLZ",
+      "name": "KOONG",
+      "role": "USER",
+      "level": 97
+    },
+    "message": "/inv #MURDER",
+    "timestamp": "2026-05-13T04:52:25.482Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "gU03Zn1AmRRlJcisOmSfHXfhFCy1",
+      "shortId": "OQGXLZ",
+      "name": "KOONG",
+      "role": "USER",
+      "level": 97
+    },
+    "message": "/hm cloud",
+    "timestamp": "2026-05-13T04:52:48.550Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "gU03Zn1AmRRlJcisOmSfHXfhFCy1",
+      "shortId": "OQGXLZ",
+      "name": "KOONG",
+      "role": "USER",
+      "level": 97
+    },
+    "message": "/hm bay",
+    "timestamp": "2026-05-13T05:02:50.908Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "gU03Zn1AmRRlJcisOmSfHXfhFCy1",
+      "shortId": "OQGXLZ",
+      "name": "KOONG",
+      "role": "USER",
+      "level": 97
+    },
+    "message": "/hm bound",
+    "timestamp": "2026-05-13T05:02:56.484Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "gU03Zn1AmRRlJcisOmSfHXfhFCy1",
+      "shortId": "OQGXLZ",
+      "name": "KOONG",
+      "role": "USER",
+      "level": 97
+    },
+    "message": "/inv #PKZ692",
+    "timestamp": "2026-05-13T12:44:24.050Z"
   }
 ]
