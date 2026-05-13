@@ -370,5 +370,17 @@
     },
     "message": "/enter",
     "timestamp": "2026-05-13T09:49:22.955Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "f3d8aed5-3408-4def-a9ca-471732d2f2e5",
+      "shortId": "C8L568",
+      "name": "Coolboy025",
+      "role": "USER",
+      "level": 98
+    },
+    "message": "/inv",
+    "timestamp": "2026-05-13T10:28:37.556Z"
   }
 ]
