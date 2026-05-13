@@ -1186,5 +1186,17 @@
     },
     "message": "paques nft",
     "timestamp": "2026-05-13T07:25:35.441Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "8555bb57-2c28-4acb-8d99-5ed0031e8883",
+      "shortId": "CWSG5V",
+      "name": "swankz",
+      "role": "USER",
+      "level": 82
+    },
+    "message": "/inv",
+    "timestamp": "2026-05-13T08:32:40.489Z"
   }
 ]
