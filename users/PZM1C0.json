@@ -1,0 +1,26 @@
+[
+  {
+    "type": 2,
+    "user": {
+      "id": "guest-6127092b-f61e-4478-a2d1-000912bac645",
+      "shortId": "PZM1C0",
+      "name": "Cactussniper",
+      "role": "USER",
+      "level": 8
+    },
+    "message": "W",
+    "timestamp": "2026-05-13T01:00:12.095Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "guest-6127092b-f61e-4478-a2d1-000912bac645",
+      "shortId": "PZM1C0",
+      "name": "Cactussniper",
+      "role": "USER",
+      "level": 8
+    },
+    "message": "Frucker",
+    "timestamp": "2026-05-13T01:00:46.371Z"
+  }
+]
