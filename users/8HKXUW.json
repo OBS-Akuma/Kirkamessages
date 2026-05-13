@@ -1,0 +1,26 @@
+[
+  {
+    "type": 2,
+    "user": {
+      "id": "e6ed6664-faae-4c4f-b3d6-c1c97818f1d7",
+      "shortId": "8HKXUW",
+      "name": "WHEELHORSE",
+      "role": "USER",
+      "level": 14
+    },
+    "message": "cfing [Fever|SCAR|WEAPON_SKIN|MYTHICAL] [Rabbit|Shark|WEAPON_SKIN|MYTHICAL] [Solar|Shark|WEAPON_SKIN|LEGENDARY] with mm",
+    "timestamp": "2026-05-13T12:50:48.617Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "e6ed6664-faae-4c4f-b3d6-c1c97818f1d7",
+      "shortId": "8HKXUW",
+      "name": "WHEELHORSE",
+      "role": "USER",
+      "level": 14
+    },
+    "message": "yes",
+    "timestamp": "2026-05-13T12:51:57.372Z"
+  }
+]
