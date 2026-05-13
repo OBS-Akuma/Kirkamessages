@@ -10930,5 +10930,641 @@
     },
     "message": "/price polygon",
     "timestamp": "2026-05-13T01:20:22.243Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "4b3c9e26-0516-4634-99f9-ea8361ccd6d8",
+      "shortId": "UP1R78",
+      "name": "CASH",
+      "role": "USER",
+      "level": 81
+    },
+    "message": "TR[Jade|Bayonet|WEAPON_SKIN|MYTHICAL][Sunshine||BODY_SKIN|MYTHICAL][Infernal|AR-9|WEAPON_SKIN|MYTHICAL][Polygon|Bayonet|WEAPON_SKIN|MYTHICAL][2024|Bayonet|WEAPON_SKIN|MYTHICAL][Drake|Bayonet|WEAPON_SKIN|MYTHICAL][Polar||BODY_SKIN|MYTHICAL][Panda||BODY_SKIN|MYTHICAL][Sandwich||BODY_SKIN|MYTHICAL]245Kgo",
+    "timestamp": "2026-05-13T01:29:30.876Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "4b3c9e26-0516-4634-99f9-ea8361ccd6d8",
+      "shortId": "UP1R78",
+      "name": "CASH",
+      "role": "USER",
+      "level": 81
+    },
+    "message": "What \\You offer for my [Sunshine||BODY_SKIN|MYTHICAL] ?",
+    "timestamp": "2026-05-13T01:30:00.250Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "4b3c9e26-0516-4634-99f9-ea8361ccd6d8",
+      "shortId": "UP1R78",
+      "name": "CASH",
+      "role": "USER",
+      "level": 81
+    },
+    "message": "Items",
+    "timestamp": "2026-05-13T01:30:13.685Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "4b3c9e26-0516-4634-99f9-ea8361ccd6d8",
+      "shortId": "UP1R78",
+      "name": "CASH",
+      "role": "USER",
+      "level": 81
+    },
+    "message": "items mislt",
+    "timestamp": "2026-05-13T01:30:18.624Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "4b3c9e26-0516-4634-99f9-ea8361ccd6d8",
+      "shortId": "UP1R78",
+      "name": "CASH",
+      "role": "USER",
+      "level": 81
+    },
+    "message": "/price cyber slime",
+    "timestamp": "2026-05-13T01:30:46.566Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "4b3c9e26-0516-4634-99f9-ea8361ccd6d8",
+      "shortId": "UP1R78",
+      "name": "CASH",
+      "role": "USER",
+      "level": 81
+    },
+    "message": "Who Was offering for my [Sunshine||BODY_SKIN|MYTHICAL] ?",
+    "timestamp": "2026-05-13T01:31:15.907Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "4b3c9e26-0516-4634-99f9-ea8361ccd6d8",
+      "shortId": "UP1R78",
+      "name": "CASH",
+      "role": "USER",
+      "level": 81
+    },
+    "message": "I really Want Items",
+    "timestamp": "2026-05-13T01:31:48.384Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "4b3c9e26-0516-4634-99f9-ea8361ccd6d8",
+      "shortId": "UP1R78",
+      "name": "CASH",
+      "role": "USER",
+      "level": 81
+    },
+    "message": "/price cyber shark",
+    "timestamp": "2026-05-13T01:32:03.479Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "4b3c9e26-0516-4634-99f9-ea8361ccd6d8",
+      "shortId": "UP1R78",
+      "name": "CASH",
+      "role": "USER",
+      "level": 81
+    },
+    "message": "/price slime",
+    "timestamp": "2026-05-13T01:32:11.335Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "4b3c9e26-0516-4634-99f9-ea8361ccd6d8",
+      "shortId": "UP1R78",
+      "name": "CASH",
+      "role": "USER",
+      "level": 81
+    },
+    "message": "#HUB956",
+    "timestamp": "2026-05-13T01:32:24.383Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "4b3c9e26-0516-4634-99f9-ea8361ccd6d8",
+      "shortId": "UP1R78",
+      "name": "CASH",
+      "role": "USER",
+      "level": 81
+    },
+    "message": "Offer with items",
+    "timestamp": "2026-05-13T01:32:27.903Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "4b3c9e26-0516-4634-99f9-ea8361ccd6d8",
+      "shortId": "UP1R78",
+      "name": "CASH",
+      "role": "USER",
+      "level": 81
+    },
+    "message": "no goldens",
+    "timestamp": "2026-05-13T01:32:30.789Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "4b3c9e26-0516-4634-99f9-ea8361ccd6d8",
+      "shortId": "UP1R78",
+      "name": "CASH",
+      "role": "USER",
+      "level": 81
+    },
+    "message": "/inv #HUB956",
+    "timestamp": "2026-05-13T01:32:50.191Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "4b3c9e26-0516-4634-99f9-ea8361ccd6d8",
+      "shortId": "UP1R78",
+      "name": "CASH",
+      "role": "USER",
+      "level": 81
+    },
+    "message": "IC",
+    "timestamp": "2026-05-13T01:32:53.124Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "4b3c9e26-0516-4634-99f9-ea8361ccd6d8",
+      "shortId": "UP1R78",
+      "name": "CASH",
+      "role": "USER",
+      "level": 81
+    },
+    "message": "Lol you richer then me",
+    "timestamp": "2026-05-13T01:33:00.578Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "4b3c9e26-0516-4634-99f9-ea8361ccd6d8",
+      "shortId": "UP1R78",
+      "name": "CASH",
+      "role": "USER",
+      "level": 81
+    },
+    "message": "/inv",
+    "timestamp": "2026-05-13T01:33:09.766Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "4b3c9e26-0516-4634-99f9-ea8361ccd6d8",
+      "shortId": "UP1R78",
+      "name": "CASH",
+      "role": "USER",
+      "level": 81
+    },
+    "message": "ok",
+    "timestamp": "2026-05-13T01:33:49.906Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "4b3c9e26-0516-4634-99f9-ea8361ccd6d8",
+      "shortId": "UP1R78",
+      "name": "CASH",
+      "role": "USER",
+      "level": 81
+    },
+    "message": "[Blesssed] is nice",
+    "timestamp": "2026-05-13T01:34:02.165Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "4b3c9e26-0516-4634-99f9-ea8361ccd6d8",
+      "shortId": "UP1R78",
+      "name": "CASH",
+      "role": "USER",
+      "level": 81
+    },
+    "message": "same as [Solar|Shark|WEAPON_SKIN|LEGENDARY]",
+    "timestamp": "2026-05-13T01:34:05.710Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "4b3c9e26-0516-4634-99f9-ea8361ccd6d8",
+      "shortId": "UP1R78",
+      "name": "CASH",
+      "role": "USER",
+      "level": 81
+    },
+    "message": "/price solar",
+    "timestamp": "2026-05-13T01:34:14.324Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "4b3c9e26-0516-4634-99f9-ea8361ccd6d8",
+      "shortId": "UP1R78",
+      "name": "CASH",
+      "role": "USER",
+      "level": 81
+    },
+    "message": "Wannad o this ?",
+    "timestamp": "2026-05-13T01:35:08.182Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "4b3c9e26-0516-4634-99f9-ea8361ccd6d8",
+      "shortId": "UP1R78",
+      "name": "CASH",
+      "role": "USER",
+      "level": 81
+    },
+    "message": "aight",
+    "timestamp": "2026-05-13T01:35:11.550Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "4b3c9e26-0516-4634-99f9-ea8361ccd6d8",
+      "shortId": "UP1R78",
+      "name": "CASH",
+      "role": "USER",
+      "level": 81
+    },
+    "message": "/price blessed",
+    "timestamp": "2026-05-13T01:35:36.379Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "4b3c9e26-0516-4634-99f9-ea8361ccd6d8",
+      "shortId": "UP1R78",
+      "name": "CASH",
+      "role": "USER",
+      "level": 81
+    },
+    "message": "#HUB956 what will you offer ?",
+    "timestamp": "2026-05-13T01:35:57.258Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "4b3c9e26-0516-4634-99f9-ea8361ccd6d8",
+      "shortId": "UP1R78",
+      "name": "CASH",
+      "role": "USER",
+      "level": 81
+    },
+    "message": "whats the offer ?",
+    "timestamp": "2026-05-13T01:36:27.212Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "4b3c9e26-0516-4634-99f9-ea8361ccd6d8",
+      "shortId": "UP1R78",
+      "name": "CASH",
+      "role": "USER",
+      "level": 81
+    },
+    "message": "#HUB956",
+    "timestamp": "2026-05-13T01:36:32.993Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "4b3c9e26-0516-4634-99f9-ea8361ccd6d8",
+      "shortId": "UP1R78",
+      "name": "CASH",
+      "role": "USER",
+      "level": 81
+    },
+    "message": "What Will you Offer since you have a good amount of items",
+    "timestamp": "2026-05-13T01:36:45.478Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "4b3c9e26-0516-4634-99f9-ea8361ccd6d8",
+      "shortId": "UP1R78",
+      "name": "CASH",
+      "role": "USER",
+      "level": 81
+    },
+    "message": "#HUB956#HUB956#HUB956#HUB956#HUB956#HUB956#HUB956#HUB956#HUB956#HUB956#HUB956#HU",
+    "timestamp": "2026-05-13T01:37:02.996Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "4b3c9e26-0516-4634-99f9-ea8361ccd6d8",
+      "shortId": "UP1R78",
+      "name": "CASH",
+      "role": "USER",
+      "level": 81
+    },
+    "message": "What WILL YOU OFFER FOR MY [Sunshine||BODY_SKIN|MYTHICAL] ?",
+    "timestamp": "2026-05-13T01:37:27.804Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "4b3c9e26-0516-4634-99f9-ea8361ccd6d8",
+      "shortId": "UP1R78",
+      "name": "CASH",
+      "role": "USER",
+      "level": 81
+    },
+    "message": "dont i dont have #",
+    "timestamp": "2026-05-13T01:38:07.976Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "4b3c9e26-0516-4634-99f9-ea8361ccd6d8",
+      "shortId": "UP1R78",
+      "name": "CASH",
+      "role": "USER",
+      "level": 81
+    },
+    "message": "PAss",
+    "timestamp": "2026-05-13T01:38:22.888Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "4b3c9e26-0516-4634-99f9-ea8361ccd6d8",
+      "shortId": "UP1R78",
+      "name": "CASH",
+      "role": "USER",
+      "level": 81
+    },
+    "message": "I already have",
+    "timestamp": "2026-05-13T01:38:31.221Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "4b3c9e26-0516-4634-99f9-ea8361ccd6d8",
+      "shortId": "UP1R78",
+      "name": "CASH",
+      "role": "USER",
+      "level": 81
+    },
+    "message": "I dont want 2024",
+    "timestamp": "2026-05-13T01:38:40.751Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "4b3c9e26-0516-4634-99f9-ea8361ccd6d8",
+      "shortId": "UP1R78",
+      "name": "CASH",
+      "role": "USER",
+      "level": 81
+    },
+    "message": "[Sunshine||BODY_SKIN|MYTHICAL] is pretty demanded]",
+    "timestamp": "2026-05-13T01:39:24.968Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "4b3c9e26-0516-4634-99f9-ea8361ccd6d8",
+      "shortId": "UP1R78",
+      "name": "CASH",
+      "role": "USER",
+      "level": 81
+    },
+    "message": "#HUB956",
+    "timestamp": "2026-05-13T01:42:10.325Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "4b3c9e26-0516-4634-99f9-ea8361ccd6d8",
+      "shortId": "UP1R78",
+      "name": "CASH",
+      "role": "USER",
+      "level": 81
+    },
+    "message": "can you offer for my [Sunshine||BODY_SKIN|MYTHICAL] in items ?",
+    "timestamp": "2026-05-13T01:42:24.380Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "4b3c9e26-0516-4634-99f9-ea8361ccd6d8",
+      "shortId": "UP1R78",
+      "name": "CASH",
+      "role": "USER",
+      "level": 81
+    },
+    "message": "What are the items that are you trading ?",
+    "timestamp": "2026-05-13T01:42:58.121Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "4b3c9e26-0516-4634-99f9-ea8361ccd6d8",
+      "shortId": "UP1R78",
+      "name": "CASH",
+      "role": "USER",
+      "level": 81
+    },
+    "message": "/price cv01",
+    "timestamp": "2026-05-13T01:43:06.820Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "4b3c9e26-0516-4634-99f9-ea8361ccd6d8",
+      "shortId": "UP1R78",
+      "name": "CASH",
+      "role": "USER",
+      "level": 81
+    },
+    "message": "for my [Sunshine||BODY_SKIN|MYTHICAL] ?",
+    "timestamp": "2026-05-13T01:43:21.706Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "4b3c9e26-0516-4634-99f9-ea8361ccd6d8",
+      "shortId": "UP1R78",
+      "name": "CASH",
+      "role": "USER",
+      "level": 81
+    },
+    "message": "oh ic",
+    "timestamp": "2026-05-13T01:43:32.129Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "4b3c9e26-0516-4634-99f9-ea8361ccd6d8",
+      "shortId": "UP1R78",
+      "name": "CASH",
+      "role": "USER",
+      "level": 81
+    },
+    "message": "what are the items that are for trade then ?",
+    "timestamp": "2026-05-13T01:43:38.507Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "4b3c9e26-0516-4634-99f9-ea8361ccd6d8",
+      "shortId": "UP1R78",
+      "name": "CASH",
+      "role": "USER",
+      "level": 81
+    },
+    "message": "oh",
+    "timestamp": "2026-05-13T01:44:25.620Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "4b3c9e26-0516-4634-99f9-ea8361ccd6d8",
+      "shortId": "UP1R78",
+      "name": "CASH",
+      "role": "USER",
+      "level": 81
+    },
+    "message": "Ok nvm",
+    "timestamp": "2026-05-13T01:44:29.824Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "4b3c9e26-0516-4634-99f9-ea8361ccd6d8",
+      "shortId": "UP1R78",
+      "name": "CASH",
+      "role": "USER",
+      "level": 81
+    },
+    "message": "TR[Jade|Bayonet|WEAPON_SKIN|MYTHICAL][Sunshine||BODY_SKIN|MYTHICAL][Infernal|AR-9|WEAPON_SKIN|MYTHICAL][Polygon|Bayonet|WEAPON_SKIN|MYTHICAL][2024|Bayonet|WEAPON_SKIN|MYTHICAL][Drake|Bayonet|WEAPON_SKIN|MYTHICAL][Polar||BODY_SKIN|MYTHICAL][Panda||BODY_SKIN|MYTHICAL][Sandwich||BODY_SKIN|MYTHICAL]245K",
+    "timestamp": "2026-05-13T01:44:50.201Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "4b3c9e26-0516-4634-99f9-ea8361ccd6d8",
+      "shortId": "UP1R78",
+      "name": "CASH",
+      "role": "USER",
+      "level": 81
+    },
+    "message": "/price frau",
+    "timestamp": "2026-05-13T01:45:04.822Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "4b3c9e26-0516-4634-99f9-ea8361ccd6d8",
+      "shortId": "UP1R78",
+      "name": "CASH",
+      "role": "USER",
+      "level": 81
+    },
+    "message": "/price oblivion",
+    "timestamp": "2026-05-13T01:45:13.478Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "4b3c9e26-0516-4634-99f9-ea8361ccd6d8",
+      "shortId": "UP1R78",
+      "name": "CASH",
+      "role": "USER",
+      "level": 81
+    },
+    "message": "Wanna do this ?",
+    "timestamp": "2026-05-13T01:45:34.837Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "4b3c9e26-0516-4634-99f9-ea8361ccd6d8",
+      "shortId": "UP1R78",
+      "name": "CASH",
+      "role": "USER",
+      "level": 81
+    },
+    "message": "my trade is goood",
+    "timestamp": "2026-05-13T01:45:44.353Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "4b3c9e26-0516-4634-99f9-ea8361ccd6d8",
+      "shortId": "UP1R78",
+      "name": "CASH",
+      "role": "USER",
+      "level": 81
+    },
+    "message": "TR[Jade|Bayonet|WEAPON_SKIN|MYTHICAL][Sunshine||BODY_SKIN|MYTHICAL][Infernal|AR-9|WEAPON_SKIN|MYTHICAL][Polygon|Bayonet|WEAPON_SKIN|MYTHICAL][2024|Bayonet|WEAPON_SKIN|MYTHICAL][Drake|Bayonet|WEAPON_SKIN|MYTHICAL][Polar||BODY_SKIN|MYTHICAL][Panda||BODY_SKIN|MYTHICAL][Sandwich||BODY_SKIN|MYTHICAL]245K",
+    "timestamp": "2026-05-13T01:52:52.805Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "4b3c9e26-0516-4634-99f9-ea8361ccd6d8",
+      "shortId": "UP1R78",
+      "name": "CASH",
+      "role": "USER",
+      "level": 81
+    },
+    "message": "/price void scar",
+    "timestamp": "2026-05-13T01:55:38.789Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "4b3c9e26-0516-4634-99f9-ea8361ccd6d8",
+      "shortId": "UP1R78",
+      "name": "CASH",
+      "role": "USER",
+      "level": 81
+    },
+    "message": "~OLZ",
+    "timestamp": "2026-05-13T01:56:38.429Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "4b3c9e26-0516-4634-99f9-ea8361ccd6d8",
+      "shortId": "UP1R78",
+      "name": "CASH",
+      "role": "USER",
+      "level": 81
+    },
+    "message": "Plz",
+    "timestamp": "2026-05-13T01:56:39.676Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "4b3c9e26-0516-4634-99f9-ea8361ccd6d8",
+      "shortId": "UP1R78",
+      "name": "CASH",
+      "role": "USER",
+      "level": 81
+    },
+    "message": "MU OFFER IS GOOD",
+    "timestamp": "2026-05-13T01:57:02.347Z"
   }
 ]
