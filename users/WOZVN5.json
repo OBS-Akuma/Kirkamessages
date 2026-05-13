@@ -382,5 +382,89 @@
     },
     "message": "/price [Tiburon|Bayonet|WEAPON_SKIN|MYTHICAL]",
     "timestamp": "2026-05-13T00:19:15.983Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "abda4985-51b0-4287-9f35-3d73b6eb1cb3",
+      "shortId": "WOZVN5",
+      "name": "Turtle",
+      "role": "USER",
+      "level": 85
+    },
+    "message": "trading [Tiburon|Bayonet|WEAPON_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-13T00:21:40.337Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "abda4985-51b0-4287-9f35-3d73b6eb1cb3",
+      "shortId": "WOZVN5",
+      "name": "Turtle",
+      "role": "USER",
+      "level": 85
+    },
+    "message": "/hm [Lustre|Bayonet|WEAPON_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-13T00:21:56.680Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "abda4985-51b0-4287-9f35-3d73b6eb1cb3",
+      "shortId": "WOZVN5",
+      "name": "Turtle",
+      "role": "USER",
+      "level": 85
+    },
+    "message": "/hm [Jade|Bayonet|WEAPON_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-13T00:51:54.827Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "abda4985-51b0-4287-9f35-3d73b6eb1cb3",
+      "shortId": "WOZVN5",
+      "name": "Turtle",
+      "role": "USER",
+      "level": 85
+    },
+    "message": "trading [Melody||BODY_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-13T00:53:34.675Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "abda4985-51b0-4287-9f35-3d73b6eb1cb3",
+      "shortId": "WOZVN5",
+      "name": "Turtle",
+      "role": "USER",
+      "level": 85
+    },
+    "message": "ab3 i think i have some",
+    "timestamp": "2026-05-13T00:55:08.809Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "abda4985-51b0-4287-9f35-3d73b6eb1cb3",
+      "shortId": "WOZVN5",
+      "name": "Turtle",
+      "role": "USER",
+      "level": 85
+    },
+    "message": "lol i only have 28",
+    "timestamp": "2026-05-13T00:55:31.706Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "abda4985-51b0-4287-9f35-3d73b6eb1cb3",
+      "shortId": "WOZVN5",
+      "name": "Turtle",
+      "role": "USER",
+      "level": 85
+    },
+    "message": "lol just golden x5",
+    "timestamp": "2026-05-13T00:56:01.405Z"
   }
 ]
