@@ -1378,5 +1378,53 @@
     },
     "message": "pepeTheFrog#1BY7KM thats cappppppppppppp",
     "timestamp": "2026-05-13T08:08:34.456Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "guest-077dceb4-05fe-4442-b2e0-edd5469cf619",
+      "shortId": "AH7NA2",
+      "name": "ALTERED",
+      "role": "USER",
+      "level": 26
+    },
+    "message": "does anyone have [Dragonic SCAR|SCAR|WEAPON_SKIN|MYTHICAL] or [Void SCAR|SCAR|WEAPON_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-13T19:34:06.201Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "guest-077dceb4-05fe-4442-b2e0-edd5469cf619",
+      "shortId": "AH7NA2",
+      "name": "ALTERED",
+      "role": "USER",
+      "level": 26
+    },
+    "message": "pepeTheFrog#1BY7KM will you trade your [Void SCAR|SCAR|WEAPON_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-13T19:34:59.115Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "guest-077dceb4-05fe-4442-b2e0-edd5469cf619",
+      "shortId": "AH7NA2",
+      "name": "ALTERED",
+      "role": "USER",
+      "level": 26
+    },
+    "message": ".price [Lightning|AR-9|WEAPON_SKIN|EPIC]",
+    "timestamp": "2026-05-13T20:19:27.372Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "guest-077dceb4-05fe-4442-b2e0-edd5469cf619",
+      "shortId": "AH7NA2",
+      "name": "ALTERED",
+      "role": "USER",
+      "level": 26
+    },
+    "message": "cerista#2I5XG5 whatt",
+    "timestamp": "2026-05-13T20:19:40.932Z"
   }
 ]
