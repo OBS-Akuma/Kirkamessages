@@ -34,5 +34,17 @@
     },
     "message": "im a pro",
     "timestamp": "2026-05-12T13:09:29.680Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "qDSeFTXIwAWwxp6CWSUCvK2Ycuf2",
+      "shortId": "BTWJQ0",
+      "name": "THUNDER_PILOT",
+      "role": "USER",
+      "level": 5
+    },
+    "message": "HI",
+    "timestamp": "2026-05-13T03:46:21.641Z"
   }
 ]
