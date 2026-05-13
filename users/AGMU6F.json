@@ -1378,5 +1378,65 @@
     },
     "message": "https://kirka.io/___lobby___/ASIA~FfBVaAaMd",
     "timestamp": "2026-05-12T06:10:40.615Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "guest-ce433610-0184-4035-a0fb-0a15d61fbcf5",
+      "shortId": "AGMU6F",
+      "name": "roAt",
+      "role": "USER",
+      "level": 5
+    },
+    "message": "wanna cf",
+    "timestamp": "2026-05-13T12:51:26.013Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "guest-ce433610-0184-4035-a0fb-0a15d61fbcf5",
+      "shortId": "AGMU6F",
+      "name": "roAt",
+      "role": "USER",
+      "level": 5
+    },
+    "message": "#8HKXUW [Gloopies|LAR|WEAPON_SKIN|MYTHICAL] for [Solar|Shark|WEAPON_SKIN|LEGENDARY] cffff",
+    "timestamp": "2026-05-13T12:51:38.896Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "guest-ce433610-0184-4035-a0fb-0a15d61fbcf5",
+      "shortId": "AGMU6F",
+      "name": "roAt",
+      "role": "USER",
+      "level": 5
+    },
+    "message": "cf[Gloopies|LAR|WEAPON_SKIN|MYTHICAL].[Pastel||BODY_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-13T12:52:05.884Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "guest-ce433610-0184-4035-a0fb-0a15d61fbcf5",
+      "shortId": "AGMU6F",
+      "name": "roAt",
+      "role": "USER",
+      "level": 5
+    },
+    "message": "/confirmwager",
+    "timestamp": "2026-05-13T17:13:50.742Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "guest-ce433610-0184-4035-a0fb-0a15d61fbcf5",
+      "shortId": "AGMU6F",
+      "name": "roAt",
+      "role": "USER",
+      "level": 5
+    },
+    "message": "/claim",
+    "timestamp": "2026-05-13T17:13:58.066Z"
   }
 ]
