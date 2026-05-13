@@ -10,5 +10,17 @@
     },
     "message": "Hiiiiiiiiiiiiiiiiiiiiiiiiii",
     "timestamp": "2026-05-12T10:54:50.110Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "eddf08bc-3dd7-4189-b9cb-b1750ac9584c",
+      "shortId": "PUCRUE",
+      "name": "Mulan",
+      "role": "USER",
+      "level": 8
+    },
+    "message": "Hi there",
+    "timestamp": "2026-05-13T01:39:53.422Z"
   }
 ]
