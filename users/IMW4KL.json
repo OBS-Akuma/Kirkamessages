@@ -22,5 +22,29 @@
     },
     "message": "servers updating?",
     "timestamp": "2026-05-04T08:15:31.638Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "99a493fa-2412-49cf-91b1-8b043386a997",
+      "shortId": "IMW4KL",
+      "name": "NoRegPulse.",
+      "role": "USER",
+      "level": 100
+    },
+    "message": "/hm marage",
+    "timestamp": "2026-05-13T07:37:19.258Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "99a493fa-2412-49cf-91b1-8b043386a997",
+      "shortId": "IMW4KL",
+      "name": "NoRegPulse.",
+      "role": "USER",
+      "level": 100
+    },
+    "message": "/hm wolfy",
+    "timestamp": "2026-05-13T07:37:23.543Z"
   }
 ]
