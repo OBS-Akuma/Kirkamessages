@@ -10,5 +10,17 @@
     },
     "message": "can i have [Blast AR-9|AR-9|WEAPON_SKIN|MYTHICAL]",
     "timestamp": "2026-05-09T16:25:22.734Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "3d9fdb6a-92a8-4248-a510-1d9b7449272a",
+      "shortId": "FU9OOR",
+      "name": "IshowNeko",
+      "role": "USER",
+      "level": 66
+    },
+    "message": "/price nova",
+    "timestamp": "2026-05-13T09:26:21.825Z"
   }
 ]
