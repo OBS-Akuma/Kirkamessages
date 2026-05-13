@@ -1,0 +1,26 @@
+[
+  {
+    "type": 2,
+    "user": {
+      "id": "f9cc5e8b-44ac-4190-a61f-69faebbef3db",
+      "shortId": "VEFBIR",
+      "name": "will1003",
+      "role": "USER",
+      "level": 28
+    },
+    "message": "/price bad bunny",
+    "timestamp": "2026-05-13T04:22:58.960Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "f9cc5e8b-44ac-4190-a61f-69faebbef3db",
+      "shortId": "VEFBIR",
+      "name": "will1003",
+      "role": "USER",
+      "level": 28
+    },
+    "message": "/price 2026",
+    "timestamp": "2026-05-13T04:26:04.789Z"
+  }
+]
