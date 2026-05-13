@@ -82,5 +82,29 @@
     },
     "message": "any clans i can join?",
     "timestamp": "2026-05-12T15:54:01.879Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "22adc46a-cda0-4598-b1af-cb2a3226403f",
+      "shortId": "9ZYS63",
+      "name": "Ares",
+      "role": "USER",
+      "level": 47
+    },
+    "message": "/price [Retro|Bayonet|WEAPON_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-13T05:57:40.154Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "22adc46a-cda0-4598-b1af-cb2a3226403f",
+      "shortId": "9ZYS63",
+      "name": "Ares",
+      "role": "USER",
+      "level": 47
+    },
+    "message": "/price [Billion|Shark|WEAPON_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-13T05:57:52.762Z"
   }
 ]
