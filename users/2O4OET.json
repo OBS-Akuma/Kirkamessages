@@ -46,5 +46,29 @@
     },
     "message": "go attend to the report ive made on jayy",
     "timestamp": "2026-05-12T18:10:56.281Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "a3e8bd41-614c-48e8-9603-92c8c3222cc3",
+      "shortId": "2O4OET",
+      "name": "aimlockr",
+      "role": "USER",
+      "level": 93
+    },
+    "message": "[Marage||BODY_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-13T23:10:02.324Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "a3e8bd41-614c-48e8-9603-92c8c3222cc3",
+      "shortId": "2O4OET",
+      "name": "aimlockr",
+      "role": "USER",
+      "level": 93
+    },
+    "message": "/locate [Guts||BODY_SKIN|LEGENDARY]",
+    "timestamp": "2026-05-13T23:13:10.026Z"
   }
 ]
