@@ -274,5 +274,41 @@
     },
     "message": "hello",
     "timestamp": "2026-05-12T23:46:27.215Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "cfac251c-29be-40f1-8e77-40d678c7fab6",
+      "shortId": "STUPID",
+      "name": "Dihxz",
+      "role": "USER",
+      "level": 98
+    },
+    "message": "/price [ashley",
+    "timestamp": "2026-05-13T00:45:54.523Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "cfac251c-29be-40f1-8e77-40d678c7fab6",
+      "shortId": "STUPID",
+      "name": "Dihxz",
+      "role": "USER",
+      "level": 98
+    },
+    "message": "/price [bloom",
+    "timestamp": "2026-05-13T00:46:04.218Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "cfac251c-29be-40f1-8e77-40d678c7fab6",
+      "shortId": "STUPID",
+      "name": "Dihxz",
+      "role": "USER",
+      "level": 98
+    },
+    "message": "/locate [donut",
+    "timestamp": "2026-05-13T02:13:47.564Z"
   }
 ]
