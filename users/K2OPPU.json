@@ -166,5 +166,29 @@
     },
     "message": "/hm bubblepop",
     "timestamp": "2026-05-11T05:59:22.097Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "9d1e4931-0d95-4a56-989c-2ad0bf9fe52c",
+      "shortId": "K2OPPU",
+      "name": "Nexus",
+      "role": "USER",
+      "level": 80
+    },
+    "message": "lf [Splash|Bayonet|WEAPON_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-13T05:56:52.544Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "9d1e4931-0d95-4a56-989c-2ad0bf9fe52c",
+      "shortId": "K2OPPU",
+      "name": "Nexus",
+      "role": "USER",
+      "level": 80
+    },
+    "message": "/locate employed",
+    "timestamp": "2026-05-13T05:56:59.025Z"
   }
 ]
