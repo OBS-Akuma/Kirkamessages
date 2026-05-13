@@ -1018,5 +1018,113 @@
     },
     "message": "/inv",
     "timestamp": "2026-05-12T11:06:18.263Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "2eec0c1d-a4ad-48e7-9e0f-8b198b03ba5c",
+      "shortId": "5BGMXR",
+      "name": "SPARTA",
+      "role": "USER",
+      "level": 99
+    },
+    "message": "trading [Business Cat||BODY_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-13T00:48:15.945Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "2eec0c1d-a4ad-48e7-9e0f-8b198b03ba5c",
+      "shortId": "5BGMXR",
+      "name": "SPARTA",
+      "role": "USER",
+      "level": 99
+    },
+    "message": "#4CQDEK 50m",
+    "timestamp": "2026-05-13T00:48:47.261Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "2eec0c1d-a4ad-48e7-9e0f-8b198b03ba5c",
+      "shortId": "5BGMXR",
+      "name": "SPARTA",
+      "role": "USER",
+      "level": 99
+    },
+    "message": "#4CQDEK",
+    "timestamp": "2026-05-13T00:49:32.857Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "2eec0c1d-a4ad-48e7-9e0f-8b198b03ba5c",
+      "shortId": "5BGMXR",
+      "name": "SPARTA",
+      "role": "USER",
+      "level": 99
+    },
+    "message": "#4CQDEK u want it ?",
+    "timestamp": "2026-05-13T00:50:16.887Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "2eec0c1d-a4ad-48e7-9e0f-8b198b03ba5c",
+      "shortId": "5BGMXR",
+      "name": "SPARTA",
+      "role": "USER",
+      "level": 99
+    },
+    "message": "OFFER",
+    "timestamp": "2026-05-13T00:50:26.811Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "2eec0c1d-a4ad-48e7-9e0f-8b198b03ba5c",
+      "shortId": "5BGMXR",
+      "name": "SPARTA",
+      "role": "USER",
+      "level": 99
+    },
+    "message": "i hate [Skillz||BODY_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-13T00:51:41.395Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "2eec0c1d-a4ad-48e7-9e0f-8b198b03ba5c",
+      "shortId": "5BGMXR",
+      "name": "SPARTA",
+      "role": "USER",
+      "level": 99
+    },
+    "message": "#XYW9EV i dont have i think",
+    "timestamp": "2026-05-13T00:51:55.557Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "2eec0c1d-a4ad-48e7-9e0f-8b198b03ba5c",
+      "shortId": "5BGMXR",
+      "name": "SPARTA",
+      "role": "USER",
+      "level": 99
+    },
+    "message": "sorry bro ##4CQDEK",
+    "timestamp": "2026-05-13T00:52:30.496Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "2eec0c1d-a4ad-48e7-9e0f-8b198b03ba5c",
+      "shortId": "5BGMXR",
+      "name": "SPARTA",
+      "role": "USER",
+      "level": 99
+    },
+    "message": "no sorry",
+    "timestamp": "2026-05-13T00:52:53.545Z"
   }
 ]
