@@ -10,5 +10,17 @@
     },
     "message": "[Skillz||BODY_SKIN|MYTHICAL]",
     "timestamp": "2026-05-12T11:03:38.868Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "54d59308-d87b-412b-a130-8c32adc1d3de",
+      "shortId": "FM1HMR",
+      "name": "Peach|Tomato",
+      "role": "USER",
+      "level": 95
+    },
+    "message": "/enter",
+    "timestamp": "2026-05-13T08:07:49.179Z"
   }
 ]
