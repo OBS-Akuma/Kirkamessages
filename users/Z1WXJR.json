@@ -598,5 +598,17 @@
     },
     "message": "plz accept vapor trade",
     "timestamp": "2026-05-10T23:58:42.806Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "70184f38-6b61-4ca3-bf66-2cdbc3f42f1b",
+      "shortId": "Z1WXJR",
+      "name": "ZouD",
+      "role": "USER",
+      "level": 46
+    },
+    "message": "/price [Cyber Shark|Shark|WEAPON_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-13T01:29:48.556Z"
   }
 ]
