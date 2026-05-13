@@ -58,5 +58,29 @@
     },
     "message": "trade [marilywyd]",
     "timestamp": "2026-05-12T14:45:17.767Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "IUzAo82nXxczjbXldEb3N8qVLtn2",
+      "shortId": "NLWRRI",
+      "name": "EPSTEIN",
+      "role": "USER",
+      "level": 78
+    },
+    "message": "/price kingdracula",
+    "timestamp": "2026-05-13T05:12:09.175Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "IUzAo82nXxczjbXldEb3N8qVLtn2",
+      "shortId": "NLWRRI",
+      "name": "EPSTEIN",
+      "role": "USER",
+      "level": 78
+    },
+    "message": "/price ember",
+    "timestamp": "2026-05-13T07:35:24.404Z"
   }
 ]
