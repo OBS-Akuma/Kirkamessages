@@ -130,5 +130,17 @@
     },
     "message": "/price twitch",
     "timestamp": "2026-05-07T20:59:21.697Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "bb28e88e-bb7f-4334-962b-39d94acd3f3b",
+      "shortId": "X3LKXL",
+      "name": "#TP|Imtobadmen",
+      "role": "USER",
+      "level": 86
+    },
+    "message": "/locate krampus",
+    "timestamp": "2026-05-13T20:13:20.864Z"
   }
 ]
