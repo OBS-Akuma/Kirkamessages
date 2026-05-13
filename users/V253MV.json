@@ -406,5 +406,89 @@
     },
     "message": "wager [Polar||BODY_SKIN|MYTHICAL]",
     "timestamp": "2026-05-12T19:18:48.760Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "280c3608-bb05-4ac1-94ca-2c769b119534",
+      "shortId": "V253MV",
+      "name": "Robber",
+      "role": "USER",
+      "level": 97
+    },
+    "message": "/wager [Golden||CHEST|LEGENDARY]x3000 #8KK5DM",
+    "timestamp": "2026-05-13T18:11:02.122Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "280c3608-bb05-4ac1-94ca-2c769b119534",
+      "shortId": "V253MV",
+      "name": "Robber",
+      "role": "USER",
+      "level": 97
+    },
+    "message": "why not broo",
+    "timestamp": "2026-05-13T18:11:10.873Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "280c3608-bb05-4ac1-94ca-2c769b119534",
+      "shortId": "V253MV",
+      "name": "Robber",
+      "role": "USER",
+      "level": 97
+    },
+    "message": "/cancelwager",
+    "timestamp": "2026-05-13T18:11:14.313Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "280c3608-bb05-4ac1-94ca-2c769b119534",
+      "shortId": "V253MV",
+      "name": "Robber",
+      "role": "USER",
+      "level": 97
+    },
+    "message": "only 3k",
+    "timestamp": "2026-05-13T18:11:17.039Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "280c3608-bb05-4ac1-94ca-2c769b119534",
+      "shortId": "V253MV",
+      "name": "Robber",
+      "role": "USER",
+      "level": 97
+    },
+    "message": "oww -__-",
+    "timestamp": "2026-05-13T18:11:25.834Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "280c3608-bb05-4ac1-94ca-2c769b119534",
+      "shortId": "V253MV",
+      "name": "Robber",
+      "role": "USER",
+      "level": 97
+    },
+    "message": "accept i kill you",
+    "timestamp": "2026-05-13T19:27:39.219Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "280c3608-bb05-4ac1-94ca-2c769b119534",
+      "shortId": "V253MV",
+      "name": "Robber",
+      "role": "USER",
+      "level": 97
+    },
+    "message": "nah",
+    "timestamp": "2026-05-13T19:28:45.516Z"
   }
 ]
