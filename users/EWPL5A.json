@@ -1,0 +1,38 @@
+[
+  {
+    "type": 2,
+    "user": {
+      "id": "499aec12-c943-4586-ab6c-64f4055797a7",
+      "shortId": "EWPL5A",
+      "name": "TheRandomOne",
+      "role": "USER",
+      "level": 93
+    },
+    "message": "/inv",
+    "timestamp": "2026-05-13T17:42:45.466Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "499aec12-c943-4586-ab6c-64f4055797a7",
+      "shortId": "EWPL5A",
+      "name": "TheRandomOne",
+      "role": "USER",
+      "level": 93
+    },
+    "message": ".",
+    "timestamp": "2026-05-13T17:44:03.988Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "499aec12-c943-4586-ab6c-64f4055797a7",
+      "shortId": "EWPL5A",
+      "name": "TheRandomOne",
+      "role": "USER",
+      "level": 93
+    },
+    "message": "/inv",
+    "timestamp": "2026-05-13T17:44:06.463Z"
+  }
+]
