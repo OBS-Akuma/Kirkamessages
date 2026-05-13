@@ -10,5 +10,17 @@
     },
     "message": "/inv",
     "timestamp": "2026-05-10T17:18:24.599Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "guest-1630fd18-b709-42de-825a-3b3a67b800e5",
+      "shortId": "9H4EYO",
+      "name": "BM|m3atballs",
+      "role": "USER",
+      "level": 54
+    },
+    "message": "/claim",
+    "timestamp": "2026-05-12T22:25:03.731Z"
   }
 ]
