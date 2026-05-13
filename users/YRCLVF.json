@@ -238,5 +238,41 @@
     },
     "message": "/inv",
     "timestamp": "2026-05-12T23:59:11.160Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "guest-90f9f973-9f0a-40cf-8971-668d21d6910c",
+      "shortId": "YRCLVF",
+      "name": "[OG]Levelegen",
+      "role": "USER",
+      "level": 55
+    },
+    "message": "/hm ice breaker",
+    "timestamp": "2026-05-13T19:36:41.162Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "guest-90f9f973-9f0a-40cf-8971-668d21d6910c",
+      "shortId": "YRCLVF",
+      "name": "[OG]Levelegen",
+      "role": "USER",
+      "level": 55
+    },
+    "message": "everyone is this worth it [Golden||CHEST|LEGENDARY]x3400 for [Ice Breaker|Bayonet|WEAPON_SKIN|MYTHICAL]x1?",
+    "timestamp": "2026-05-13T19:40:12.501Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "guest-90f9f973-9f0a-40cf-8971-668d21d6910c",
+      "shortId": "YRCLVF",
+      "name": "[OG]Levelegen",
+      "role": "USER",
+      "level": 55
+    },
+    "message": "/st ice breaker",
+    "timestamp": "2026-05-13T20:10:48.574Z"
   }
 ]
