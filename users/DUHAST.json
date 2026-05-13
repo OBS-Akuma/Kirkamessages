@@ -2650,7 +2650,7 @@
       "role": "USER",
       "level": 80
     },
-    "message": "اسمي وسام",
+    "message": "Ø§Ø³ÙÙ ÙØ³Ø§Ù",
     "timestamp": "2026-05-12T21:56:23.639Z"
   },
   {
@@ -2662,7 +2662,7 @@
       "role": "USER",
       "level": 80
     },
-    "message": "تمام",
+    "message": "ØªÙØ§Ù",
     "timestamp": "2026-05-12T21:56:28.116Z"
   },
   {
@@ -2748,5 +2748,173 @@
     },
     "message": "tr [Marage||BODY_SKIN|MYTHICAL][Dragonic||BODY_SKIN|MYTHICAL][Moltorath||BODY_SKIN|MYTHICAL][Gwen||BODY_SKIN|MYTHICAL][Sizzle||BODY_SKIN|MYTHICAL]  only lf [Chromium|Bayonet|WEAPON_SKIN|MYTHICAL][Gentleman||BODY_SKIN|MYTHICAL]",
     "timestamp": "2026-05-12T22:15:25.625Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "b3e46a65-3682-40c5-8a7b-b4af725fa333",
+      "shortId": "DUHAST",
+      "name": "Rammstein",
+      "role": "USER",
+      "level": 80
+    },
+    "message": "tr [Marage||BODY_SKIN|MYTHICAL][Dragonic||BODY_SKIN|MYTHICAL][Moltorath||BODY_SKIN|MYTHICAL][Gwen||BODY_SKIN|MYTHICAL][Sizzle||BODY_SKIN|MYTHICAL]  only lf [Chromium|Bayonet|WEAPON_SKIN|MYTHICAL][Gentleman||BODY_SKIN|MYTHICAL]..",
+    "timestamp": "2026-05-12T22:27:07.718Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "b3e46a65-3682-40c5-8a7b-b4af725fa333",
+      "shortId": "DUHAST",
+      "name": "Rammstein",
+      "role": "USER",
+      "level": 80
+    },
+    "message": "tr [Marage||BODY_SKIN|MYTHICAL][Dragonic||BODY_SKIN|MYTHICAL][Moltorath||BODY_SKIN|MYTHICAL][Gwen||BODY_SKIN|MYTHICAL][Sizzle||BODY_SKIN|MYTHICAL]  only lf [Chromium|Bayonet|WEAPON_SKIN|MYTHICAL][Gentleman||BODY_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-12T22:28:30.061Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "b3e46a65-3682-40c5-8a7b-b4af725fa333",
+      "shortId": "DUHAST",
+      "name": "Rammstein",
+      "role": "USER",
+      "level": 80
+    },
+    "message": "tr [Marage||BODY_SKIN|MYTHICAL][Dragonic||BODY_SKIN|MYTHICAL][Moltorath||BODY_SKIN|MYTHICAL][Gwen||BODY_SKIN|MYTHICAL][Sizzle||BODY_SKIN|MYTHICAL]  only lf [Chromium|Bayonet|WEAPON_SKIN|MYTHICAL][Gentleman||BODY_SKIN|MYTHICAL].",
+    "timestamp": "2026-05-12T23:07:39.330Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "b3e46a65-3682-40c5-8a7b-b4af725fa333",
+      "shortId": "DUHAST",
+      "name": "Rammstein",
+      "role": "USER",
+      "level": 80
+    },
+    "message": "?",
+    "timestamp": "2026-05-12T23:07:52.873Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "b3e46a65-3682-40c5-8a7b-b4af725fa333",
+      "shortId": "DUHAST",
+      "name": "Rammstein",
+      "role": "USER",
+      "level": 80
+    },
+    "message": "no",
+    "timestamp": "2026-05-12T23:07:59.072Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "b3e46a65-3682-40c5-8a7b-b4af725fa333",
+      "shortId": "DUHAST",
+      "name": "Rammstein",
+      "role": "USER",
+      "level": 80
+    },
+    "message": "hahaha",
+    "timestamp": "2026-05-12T23:32:48.168Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "b3e46a65-3682-40c5-8a7b-b4af725fa333",
+      "shortId": "DUHAST",
+      "name": "Rammstein",
+      "role": "USER",
+      "level": 80
+    },
+    "message": "tr [Marage||BODY_SKIN|MYTHICAL][Dragonic||BODY_SKIN|MYTHICAL][Moltorath||BODY_SKIN|MYTHICAL][Gwen||BODY_SKIN|MYTHICAL][Sizzle||BODY_SKIN|MYTHICAL]  only lf [Chromium|Bayonet|WEAPON_SKIN|MYTHICAL][Gentleman||BODY_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-12T23:33:08.943Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "b3e46a65-3682-40c5-8a7b-b4af725fa333",
+      "shortId": "DUHAST",
+      "name": "Rammstein",
+      "role": "USER",
+      "level": 80
+    },
+    "message": "/Locate [Chromium|Bayonet|WEAPON_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-12T23:33:55.428Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "b3e46a65-3682-40c5-8a7b-b4af725fa333",
+      "shortId": "DUHAST",
+      "name": "Rammstein",
+      "role": "USER",
+      "level": 80
+    },
+    "message": "/inv",
+    "timestamp": "2026-05-12T23:34:01.268Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "b3e46a65-3682-40c5-8a7b-b4af725fa333",
+      "shortId": "DUHAST",
+      "name": "Rammstein",
+      "role": "USER",
+      "level": 80
+    },
+    "message": "/Locate [Chromium|Bayonet|WEAPON_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-12T23:34:03.918Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "b3e46a65-3682-40c5-8a7b-b4af725fa333",
+      "shortId": "DUHAST",
+      "name": "Rammstein",
+      "role": "USER",
+      "level": 80
+    },
+    "message": "..",
+    "timestamp": "2026-05-12T23:34:16.341Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "b3e46a65-3682-40c5-8a7b-b4af725fa333",
+      "shortId": "DUHAST",
+      "name": "Rammstein",
+      "role": "USER",
+      "level": 80
+    },
+    "message": "/Locate [Chromium|Bayonet|WEAPON_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-12T23:34:17.851Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "b3e46a65-3682-40c5-8a7b-b4af725fa333",
+      "shortId": "DUHAST",
+      "name": "Rammstein",
+      "role": "USER",
+      "level": 80
+    },
+    "message": "tr [Marage||BODY_SKIN|MYTHICAL][Dragonic||BODY_SKIN|MYTHICAL][Moltorath||BODY_SKIN|MYTHICAL][Gwen||BODY_SKIN|MYTHICAL][Sizzle||BODY_SKIN|MYTHICAL]  only lf [Chromium|Bayonet|WEAPON_SKIN|MYTHICAL][Gentleman||BODY_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-12T23:34:38.825Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "b3e46a65-3682-40c5-8a7b-b4af725fa333",
+      "shortId": "DUHAST",
+      "name": "Rammstein",
+      "role": "USER",
+      "level": 80
+    },
+    "message": "tr [Marage||BODY_SKIN|MYTHICAL][Dragonic||BODY_SKIN|MYTHICAL][Moltorath||BODY_SKIN|MYTHICAL][Gwen||BODY_SKIN|MYTHICAL][Sizzle||BODY_SKIN|MYTHICAL]  only lf [Chromium|Bayonet|WEAPON_SKIN|MYTHICAL][Gentleman||BODY_SKIN|MYTHICAL],,",
+    "timestamp": "2026-05-12T23:35:23.891Z"
   }
 ]
