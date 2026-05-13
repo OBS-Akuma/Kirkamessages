@@ -646,5 +646,29 @@
     },
     "message": "/inv",
     "timestamp": "2026-05-12T16:27:35.699Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "b1beaf45-5b0f-40e2-81dc-a34f8a974395",
+      "shortId": "CARROT",
+      "name": "BMW|Tomato",
+      "role": "USER",
+      "level": 101
+    },
+    "message": "[Adora||BODY_SKIN|PARANORMAL]",
+    "timestamp": "2026-05-13T09:55:22.653Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "b1beaf45-5b0f-40e2-81dc-a34f8a974395",
+      "shortId": "CARROT",
+      "name": "BMW|Tomato",
+      "role": "USER",
+      "level": 101
+    },
+    "message": "[Snowbun||BODY_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-13T09:55:56.836Z"
   }
 ]
