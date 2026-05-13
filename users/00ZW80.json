@@ -3406,5 +3406,65 @@
     },
     "message": "lf [Void SCAR|SCAR|WEAPON_SKIN|MYTHICAL],[Void LAR|LAR|WEAPON_SKIN|MYTHICAL].",
     "timestamp": "2026-05-12T23:14:23.325Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "99cc3bc0-e1e3-48ee-815b-9bfe1f7f7fe2",
+      "shortId": "00ZW80",
+      "name": "Newbie",
+      "role": "USER",
+      "level": 29
+    },
+    "message": "trade",
+    "timestamp": "2026-05-13T18:38:37.096Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "99cc3bc0-e1e3-48ee-815b-9bfe1f7f7fe2",
+      "shortId": "00ZW80",
+      "name": "Newbie",
+      "role": "USER",
+      "level": 29
+    },
+    "message": "?",
+    "timestamp": "2026-05-13T18:40:18.087Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "99cc3bc0-e1e3-48ee-815b-9bfe1f7f7fe2",
+      "shortId": "00ZW80",
+      "name": "Newbie",
+      "role": "USER",
+      "level": 29
+    },
+    "message": "#2QIYUL show proof buddy",
+    "timestamp": "2026-05-13T18:40:48.529Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "99cc3bc0-e1e3-48ee-815b-9bfe1f7f7fe2",
+      "shortId": "00ZW80",
+      "name": "Newbie",
+      "role": "USER",
+      "level": 29
+    },
+    "message": "dg [Spice||BODY_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-13T18:59:08.864Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "99cc3bc0-e1e3-48ee-815b-9bfe1f7f7fe2",
+      "shortId": "00ZW80",
+      "name": "Newbie",
+      "role": "USER",
+      "level": 29
+    },
+    "message": "/mywager",
+    "timestamp": "2026-05-13T19:06:34.895Z"
   }
 ]
