@@ -1042,5 +1042,41 @@
     },
     "message": "even if i give 2000 if them?",
     "timestamp": "2026-05-12T14:55:17.719Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "f20d745a-4f90-4e97-b44a-358fb5fdccad",
+      "shortId": "5Y9IRC",
+      "name": "BavumaIsBack",
+      "role": "USER",
+      "level": 61
+    },
+    "message": "tr 6000 [Golden||CHEST|LEGENDARY]",
+    "timestamp": "2026-05-13T07:26:04.582Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "f20d745a-4f90-4e97-b44a-358fb5fdccad",
+      "shortId": "5Y9IRC",
+      "name": "BavumaIsBack",
+      "role": "USER",
+      "level": 61
+    },
+    "message": "/hm darling",
+    "timestamp": "2026-05-13T07:54:24.829Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "f20d745a-4f90-4e97-b44a-358fb5fdccad",
+      "shortId": "5Y9IRC",
+      "name": "BavumaIsBack",
+      "role": "USER",
+      "level": 61
+    },
+    "message": "/hm demon",
+    "timestamp": "2026-05-13T07:54:36.760Z"
   }
 ]
