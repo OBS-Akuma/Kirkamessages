@@ -34,5 +34,269 @@
     },
     "message": "/inv",
     "timestamp": "2026-05-08T08:55:05.128Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "b25b6a10-e4df-4f14-8f8b-01ae2e3c0d74",
+      "shortId": "BT3D2N",
+      "name": "Herocraft",
+      "role": "USER",
+      "level": 68
+    },
+    "message": "bin laden",
+    "timestamp": "2026-05-13T08:43:52.696Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "b25b6a10-e4df-4f14-8f8b-01ae2e3c0d74",
+      "shortId": "BT3D2N",
+      "name": "Herocraft",
+      "role": "USER",
+      "level": 68
+    },
+    "message": "ight",
+    "timestamp": "2026-05-13T08:44:07.961Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "b25b6a10-e4df-4f14-8f8b-01ae2e3c0d74",
+      "shortId": "BT3D2N",
+      "name": "Herocraft",
+      "role": "USER",
+      "level": 68
+    },
+    "message": "ready",
+    "timestamp": "2026-05-13T08:44:09.192Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "b25b6a10-e4df-4f14-8f8b-01ae2e3c0d74",
+      "shortId": "BT3D2N",
+      "name": "Herocraft",
+      "role": "USER",
+      "level": 68
+    },
+    "message": "/flip 0-0",
+    "timestamp": "2026-05-13T08:44:15.235Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "b25b6a10-e4df-4f14-8f8b-01ae2e3c0d74",
+      "shortId": "BT3D2N",
+      "name": "Herocraft",
+      "role": "USER",
+      "level": 68
+    },
+    "message": "/flip 1-0",
+    "timestamp": "2026-05-13T08:44:23.015Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "b25b6a10-e4df-4f14-8f8b-01ae2e3c0d74",
+      "shortId": "BT3D2N",
+      "name": "Herocraft",
+      "role": "USER",
+      "level": 68
+    },
+    "message": "cooked",
+    "timestamp": "2026-05-13T08:44:28.031Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "b25b6a10-e4df-4f14-8f8b-01ae2e3c0d74",
+      "shortId": "BT3D2N",
+      "name": "Herocraft",
+      "role": "USER",
+      "level": 68
+    },
+    "message": "/flip 2-0",
+    "timestamp": "2026-05-13T08:44:32.090Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "b25b6a10-e4df-4f14-8f8b-01ae2e3c0d74",
+      "shortId": "BT3D2N",
+      "name": "Herocraft",
+      "role": "USER",
+      "level": 68
+    },
+    "message": "/flip 3-0",
+    "timestamp": "2026-05-13T08:44:42.628Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "b25b6a10-e4df-4f14-8f8b-01ae2e3c0d74",
+      "shortId": "BT3D2N",
+      "name": "Herocraft",
+      "role": "USER",
+      "level": 68
+    },
+    "message": "/flip 3-1",
+    "timestamp": "2026-05-13T08:44:52.813Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "b25b6a10-e4df-4f14-8f8b-01ae2e3c0d74",
+      "shortId": "BT3D2N",
+      "name": "Herocraft",
+      "role": "USER",
+      "level": 68
+    },
+    "message": "/flip 3-2",
+    "timestamp": "2026-05-13T08:45:02.111Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "b25b6a10-e4df-4f14-8f8b-01ae2e3c0d74",
+      "shortId": "BT3D2N",
+      "name": "Herocraft",
+      "role": "USER",
+      "level": 68
+    },
+    "message": "/flip 3-3",
+    "timestamp": "2026-05-13T08:45:13.744Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "b25b6a10-e4df-4f14-8f8b-01ae2e3c0d74",
+      "shortId": "BT3D2N",
+      "name": "Herocraft",
+      "role": "USER",
+      "level": 68
+    },
+    "message": "/flip 4-3",
+    "timestamp": "2026-05-13T08:45:22.495Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "b25b6a10-e4df-4f14-8f8b-01ae2e3c0d74",
+      "shortId": "BT3D2N",
+      "name": "Herocraft",
+      "role": "USER",
+      "level": 68
+    },
+    "message": "make",
+    "timestamp": "2026-05-13T08:45:24.627Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "b25b6a10-e4df-4f14-8f8b-01ae2e3c0d74",
+      "shortId": "BT3D2N",
+      "name": "Herocraft",
+      "role": "USER",
+      "level": 68
+    },
+    "message": "fym",
+    "timestamp": "2026-05-13T08:45:48.908Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "b25b6a10-e4df-4f14-8f8b-01ae2e3c0d74",
+      "shortId": "BT3D2N",
+      "name": "Herocraft",
+      "role": "USER",
+      "level": 68
+    },
+    "message": "I'm just in global",
+    "timestamp": "2026-05-13T08:46:06.542Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "b25b6a10-e4df-4f14-8f8b-01ae2e3c0d74",
+      "shortId": "BT3D2N",
+      "name": "Herocraft",
+      "role": "USER",
+      "level": 68
+    },
+    "message": "that doesn't make me a global timmie",
+    "timestamp": "2026-05-13T08:46:12.213Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "b25b6a10-e4df-4f14-8f8b-01ae2e3c0d74",
+      "shortId": "BT3D2N",
+      "name": "Herocraft",
+      "role": "USER",
+      "level": 68
+    },
+    "message": "/confirmwager",
+    "timestamp": "2026-05-13T08:47:19.956Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "b25b6a10-e4df-4f14-8f8b-01ae2e3c0d74",
+      "shortId": "BT3D2N",
+      "name": "Herocraft",
+      "role": "USER",
+      "level": 68
+    },
+    "message": "NO",
+    "timestamp": "2026-05-13T08:48:19.366Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "b25b6a10-e4df-4f14-8f8b-01ae2e3c0d74",
+      "shortId": "BT3D2N",
+      "name": "Herocraft",
+      "role": "USER",
+      "level": 68
+    },
+    "message": "/confirmwager",
+    "timestamp": "2026-05-13T08:48:53.419Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "b25b6a10-e4df-4f14-8f8b-01ae2e3c0d74",
+      "shortId": "BT3D2N",
+      "name": "Herocraft",
+      "role": "USER",
+      "level": 68
+    },
+    "message": "g",
+    "timestamp": "2026-05-13T08:49:22.112Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "b25b6a10-e4df-4f14-8f8b-01ae2e3c0d74",
+      "shortId": "BT3D2N",
+      "name": "Herocraft",
+      "role": "USER",
+      "level": 68
+    },
+    "message": "/confirmwager",
+    "timestamp": "2026-05-13T08:49:26.390Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "b25b6a10-e4df-4f14-8f8b-01ae2e3c0d74",
+      "shortId": "BT3D2N",
+      "name": "Herocraft",
+      "role": "USER",
+      "level": 68
+    },
+    "message": "/claim",
+    "timestamp": "2026-05-13T08:49:56.581Z"
   }
 ]
