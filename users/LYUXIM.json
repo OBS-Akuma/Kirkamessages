@@ -610,5 +610,41 @@
     },
     "message": "/price ashley",
     "timestamp": "2026-05-12T20:16:13.065Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "fddeb704-c4e4-4f50-8a81-28c407f6d5da",
+      "shortId": "LYUXIM",
+      "name": "tstep",
+      "role": "USER",
+      "level": 98
+    },
+    "message": "thank you sir yeapers",
+    "timestamp": "2026-05-12T23:49:24.794Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "fddeb704-c4e4-4f50-8a81-28c407f6d5da",
+      "shortId": "LYUXIM",
+      "name": "tstep",
+      "role": "USER",
+      "level": 98
+    },
+    "message": "/inv",
+    "timestamp": "2026-05-12T23:49:53.054Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "fddeb704-c4e4-4f50-8a81-28c407f6d5da",
+      "shortId": "LYUXIM",
+      "name": "tstep",
+      "role": "USER",
+      "level": 98
+    },
+    "message": "[Heavy|LAR|WEAPON_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-13T00:00:30.167Z"
   }
 ]
