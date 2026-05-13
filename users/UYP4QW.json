@@ -1858,5 +1858,101 @@
     },
     "message": "/locate [Verde|Bayonet|WEAPON_SKIN|MYTHICAL]",
     "timestamp": "2026-05-13T02:13:38.242Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "917b9784-f2fe-420c-974a-82ab4aef4f03",
+      "shortId": "UYP4QW",
+      "name": "Homer",
+      "role": "USER",
+      "level": 96
+    },
+    "message": "/playercount",
+    "timestamp": "2026-05-13T02:26:13.038Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "917b9784-f2fe-420c-974a-82ab4aef4f03",
+      "shortId": "UYP4QW",
+      "name": "Homer",
+      "role": "USER",
+      "level": 96
+    },
+    "message": "/claim",
+    "timestamp": "2026-05-13T02:26:23.873Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "917b9784-f2fe-420c-974a-82ab4aef4f03",
+      "shortId": "UYP4QW",
+      "name": "Homer",
+      "role": "USER",
+      "level": 96
+    },
+    "message": "i won my own giveaway",
+    "timestamp": "2026-05-13T02:26:49.588Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "917b9784-f2fe-420c-974a-82ab4aef4f03",
+      "shortId": "UYP4QW",
+      "name": "Homer",
+      "role": "USER",
+      "level": 96
+    },
+    "message": ":sob:",
+    "timestamp": "2026-05-13T02:26:54.034Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "917b9784-f2fe-420c-974a-82ab4aef4f03",
+      "shortId": "UYP4QW",
+      "name": "Homer",
+      "role": "USER",
+      "level": 96
+    },
+    "message": "nty",
+    "timestamp": "2026-05-13T02:27:03.607Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "917b9784-f2fe-420c-974a-82ab4aef4f03",
+      "shortId": "UYP4QW",
+      "name": "Homer",
+      "role": "USER",
+      "level": 96
+    },
+    "message": "chicken butt ?",
+    "timestamp": "2026-05-13T02:27:14.728Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "917b9784-f2fe-420c-974a-82ab4aef4f03",
+      "shortId": "UYP4QW",
+      "name": "Homer",
+      "role": "USER",
+      "level": 96
+    },
+    "message": "LOLMFAO",
+    "timestamp": "2026-05-13T02:27:34.618Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "917b9784-f2fe-420c-974a-82ab4aef4f03",
+      "shortId": "UYP4QW",
+      "name": "Homer",
+      "role": "USER",
+      "level": 96
+    },
+    "message": "#SYSTEM",
+    "timestamp": "2026-05-13T02:44:39.471Z"
   }
 ]
