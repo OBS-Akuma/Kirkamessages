@@ -166,5 +166,17 @@
     },
     "message": "/inv",
     "timestamp": "2026-05-11T10:22:17.683Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "ef51f7ea-a641-4ab0-a5e3-0f53a27e9224",
+      "shortId": "FVDXYV",
+      "name": "Phoenix",
+      "role": "USER",
+      "level": 97
+    },
+    "message": "Tr [Anon||BODY_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-13T10:56:45.207Z"
   }
 ]
