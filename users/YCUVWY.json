@@ -442,5 +442,41 @@
     },
     "message": "[Gamma||BODY_SKIN|MYTHICAL]",
     "timestamp": "2026-05-12T00:14:38.764Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "ffe01498-abc8-4508-b78b-38b168c40c4c",
+      "shortId": "YCUVWY",
+      "name": "gr4w1n6",
+      "role": "USER",
+      "level": 97
+    },
+    "message": "/ping",
+    "timestamp": "2026-05-12T23:23:35.374Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "ffe01498-abc8-4508-b78b-38b168c40c4c",
+      "shortId": "YCUVWY",
+      "name": "gr4w1n6",
+      "role": "USER",
+      "level": 97
+    },
+    "message": "/",
+    "timestamp": "2026-05-12T23:23:39.002Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "ffe01498-abc8-4508-b78b-38b168c40c4c",
+      "shortId": "YCUVWY",
+      "name": "gr4w1n6",
+      "role": "USER",
+      "level": 97
+    },
+    "message": "/ping",
+    "timestamp": "2026-05-12T23:23:41.498Z"
   }
 ]
