@@ -46,5 +46,41 @@
     },
     "message": "[blast knife]",
     "timestamp": "2026-05-12T23:37:36.069Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "ec244aa6-dc52-4b96-baaf-e37e2f5ef19c",
+      "shortId": "PIXWRL",
+      "name": "cheers",
+      "role": "USER",
+      "level": 52
+    },
+    "message": "/inv",
+    "timestamp": "2026-05-13T05:31:28.394Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "ec244aa6-dc52-4b96-baaf-e37e2f5ef19c",
+      "shortId": "PIXWRL",
+      "name": "cheers",
+      "role": "USER",
+      "level": 52
+    },
+    "message": "/avg",
+    "timestamp": "2026-05-13T05:31:37.639Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "ec244aa6-dc52-4b96-baaf-e37e2f5ef19c",
+      "shortId": "PIXWRL",
+      "name": "cheers",
+      "role": "USER",
+      "level": 52
+    },
+    "message": "/inv #PIXWRL",
+    "timestamp": "2026-05-13T05:32:03.593Z"
   }
 ]
