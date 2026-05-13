@@ -238,5 +238,149 @@
     },
     "message": "gg",
     "timestamp": "2026-05-12T21:24:30.035Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "bd4bb0fe-3d6c-4b08-a2b3-014b768c5f2e",
+      "shortId": "88QZJA",
+      "name": "soldmysoul",
+      "role": "USER",
+      "level": 23
+    },
+    "message": "/locate foil",
+    "timestamp": "2026-05-13T18:42:38.589Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "bd4bb0fe-3d6c-4b08-a2b3-014b768c5f2e",
+      "shortId": "88QZJA",
+      "name": "soldmysoul",
+      "role": "USER",
+      "level": 23
+    },
+    "message": "/commands",
+    "timestamp": "2026-05-13T20:03:47.717Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "bd4bb0fe-3d6c-4b08-a2b3-014b768c5f2e",
+      "shortId": "88QZJA",
+      "name": "soldmysoul",
+      "role": "USER",
+      "level": 23
+    },
+    "message": "/c9",
+    "timestamp": "2026-05-13T20:03:55.681Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "bd4bb0fe-3d6c-4b08-a2b3-014b768c5f2e",
+      "shortId": "88QZJA",
+      "name": "soldmysoul",
+      "role": "USER",
+      "level": 23
+    },
+    "message": "/gift",
+    "timestamp": "2026-05-13T20:04:02.950Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "bd4bb0fe-3d6c-4b08-a2b3-014b768c5f2e",
+      "shortId": "88QZJA",
+      "name": "soldmysoul",
+      "role": "USER",
+      "level": 23
+    },
+    "message": "Huh",
+    "timestamp": "2026-05-13T20:04:17.473Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "bd4bb0fe-3d6c-4b08-a2b3-014b768c5f2e",
+      "shortId": "88QZJA",
+      "name": "soldmysoul",
+      "role": "USER",
+      "level": 23
+    },
+    "message": "/gift",
+    "timestamp": "2026-05-13T20:04:23.415Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "bd4bb0fe-3d6c-4b08-a2b3-014b768c5f2e",
+      "shortId": "88QZJA",
+      "name": "soldmysoul",
+      "role": "USER",
+      "level": 23
+    },
+    "message": "/gift [Kod||BODY_SKIN|LEGENDARY] #3H2D6N",
+    "timestamp": "2026-05-13T20:04:42.707Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "bd4bb0fe-3d6c-4b08-a2b3-014b768c5f2e",
+      "shortId": "88QZJA",
+      "name": "soldmysoul",
+      "role": "USER",
+      "level": 23
+    },
+    "message": "Hm kod",
+    "timestamp": "2026-05-13T20:05:32.649Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "bd4bb0fe-3d6c-4b08-a2b3-014b768c5f2e",
+      "shortId": "88QZJA",
+      "name": "soldmysoul",
+      "role": "USER",
+      "level": 23
+    },
+    "message": "Is kod good",
+    "timestamp": "2026-05-13T20:05:41.166Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "bd4bb0fe-3d6c-4b08-a2b3-014b768c5f2e",
+      "shortId": "88QZJA",
+      "name": "soldmysoul",
+      "role": "USER",
+      "level": 23
+    },
+    "message": "I qs kod",
+    "timestamp": "2026-05-13T20:06:38.723Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "bd4bb0fe-3d6c-4b08-a2b3-014b768c5f2e",
+      "shortId": "88QZJA",
+      "name": "soldmysoul",
+      "role": "USER",
+      "level": 23
+    },
+    "message": "Kod for ginger man pls",
+    "timestamp": "2026-05-13T20:06:59.431Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "bd4bb0fe-3d6c-4b08-a2b3-014b768c5f2e",
+      "shortId": "88QZJA",
+      "name": "soldmysoul",
+      "role": "USER",
+      "level": 23
+    },
+    "message": "No bye",
+    "timestamp": "2026-05-13T20:07:19.481Z"
   }
 ]
