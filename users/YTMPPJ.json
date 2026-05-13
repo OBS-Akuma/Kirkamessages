@@ -118,5 +118,17 @@
     },
     "message": "/offer or",
     "timestamp": "2026-05-02T19:35:35.301Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "db44ee19-ff33-46f9-95f8-944df904198d",
+      "shortId": "YTMPPJ",
+      "name": "Him.",
+      "role": "USER",
+      "level": 50
+    },
+    "message": "i want mikasa",
+    "timestamp": "2026-05-12T20:26:49.663Z"
   }
 ]
