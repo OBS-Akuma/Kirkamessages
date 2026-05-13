@@ -3790,5 +3790,53 @@
     },
     "message": "/claim",
     "timestamp": "2026-05-13T01:24:13.431Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "6ea76ffe-0fdc-46fc-b3a0-95b6bab931e2",
+      "shortId": "CRCD0D",
+      "name": "TP|Jhosen|Live",
+      "role": "USER",
+      "level": 94
+    },
+    "message": "/enter",
+    "timestamp": "2026-05-13T01:25:00.216Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "6ea76ffe-0fdc-46fc-b3a0-95b6bab931e2",
+      "shortId": "CRCD0D",
+      "name": "TP|Jhosen|Live",
+      "role": "USER",
+      "level": 94
+    },
+    "message": "/claim",
+    "timestamp": "2026-05-13T01:25:05.044Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "6ea76ffe-0fdc-46fc-b3a0-95b6bab931e2",
+      "shortId": "CRCD0D",
+      "name": "TP|Jhosen|Live",
+      "role": "USER",
+      "level": 94
+    },
+    "message": "e",
+    "timestamp": "2026-05-13T01:25:09.103Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "6ea76ffe-0fdc-46fc-b3a0-95b6bab931e2",
+      "shortId": "CRCD0D",
+      "name": "TP|Jhosen|Live",
+      "role": "USER",
+      "level": 94
+    },
+    "message": "/claim",
+    "timestamp": "2026-05-13T01:25:10.887Z"
   }
 ]
