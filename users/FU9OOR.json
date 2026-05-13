@@ -22,5 +22,65 @@
     },
     "message": "/price nova",
     "timestamp": "2026-05-13T09:26:21.825Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "3d9fdb6a-92a8-4248-a510-1d9b7449272a",
+      "shortId": "FU9OOR",
+      "name": "IshowNeko",
+      "role": "USER",
+      "level": 66
+    },
+    "message": "/price [Nova|SCAR|WEAPON_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-13T17:13:43.900Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "3d9fdb6a-92a8-4248-a510-1d9b7449272a",
+      "shortId": "FU9OOR",
+      "name": "IshowNeko",
+      "role": "USER",
+      "level": 66
+    },
+    "message": "quitter plzzzz can i have [Nova|SCAR|WEAPON_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-13T17:15:24.563Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "3d9fdb6a-92a8-4248-a510-1d9b7449272a",
+      "shortId": "FU9OOR",
+      "name": "IshowNeko",
+      "role": "USER",
+      "level": 66
+    },
+    "message": "/inv",
+    "timestamp": "2026-05-13T17:16:56.483Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "3d9fdb6a-92a8-4248-a510-1d9b7449272a",
+      "shortId": "FU9OOR",
+      "name": "IshowNeko",
+      "role": "USER",
+      "level": 66
+    },
+    "message": "CAYDuB pzplzz can i have [Nova|SCAR|WEAPON_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-13T17:18:15.668Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "3d9fdb6a-92a8-4248-a510-1d9b7449272a",
+      "shortId": "FU9OOR",
+      "name": "IshowNeko",
+      "role": "USER",
+      "level": 66
+    },
+    "message": "how much for [pandor]",
+    "timestamp": "2026-05-13T17:19:03.885Z"
   }
 ]
