@@ -1582,5 +1582,41 @@
     },
     "message": "Wagering [Jolly||BODY_SKIN|MYTHICAL]x2[Twitch||BODY_SKIN|MYTHICAL]",
     "timestamp": "2026-05-10T16:41:10.639Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "1385b47a-bc43-4879-a1c4-7baf533b7bcc",
+      "shortId": "2JDMSD",
+      "name": "[\\/]Ike",
+      "role": "USER",
+      "level": 47
+    },
+    "message": "Wagering [Golden||CHEST|LEGENDARY]x800",
+    "timestamp": "2026-05-13T22:25:53.512Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "1385b47a-bc43-4879-a1c4-7baf533b7bcc",
+      "shortId": "2JDMSD",
+      "name": "[\\/]Ike",
+      "role": "USER",
+      "level": 47
+    },
+    "message": "Someone wager me [Golden||CHEST|LEGENDARY]x800",
+    "timestamp": "2026-05-13T22:26:45.644Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "1385b47a-bc43-4879-a1c4-7baf533b7bcc",
+      "shortId": "2JDMSD",
+      "name": "[\\/]Ike",
+      "role": "USER",
+      "level": 47
+    },
+    "message": "Wagering [Golden||CHEST|LEGENDARY]x800.",
+    "timestamp": "2026-05-13T22:28:19.907Z"
   }
 ]
