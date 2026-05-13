@@ -142,5 +142,29 @@
     },
     "message": "[Fudge|VITA|WEAPON_SKIN|MYTHICAL] [Ganache|Revolver|WEAPON_SKIN|MYTHICAL] [Gloopies|LAR|WEAPON_SKIN|MYTHICAL]",
     "timestamp": "2026-05-12T14:54:12.325Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "f0d80479-1f11-4af2-89c6-0cc4908e5c92",
+      "shortId": "CAGCUU",
+      "name": "yawnyawn",
+      "role": "USER",
+      "level": 100
+    },
+    "message": "gg <3",
+    "timestamp": "2026-05-12T22:39:01.993Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "f0d80479-1f11-4af2-89c6-0cc4908e5c92",
+      "shortId": "CAGCUU",
+      "name": "yawnyawn",
+      "role": "USER",
+      "level": 100
+    },
+    "message": "idh gwen :^",
+    "timestamp": "2026-05-12T22:39:40.377Z"
   }
 ]
