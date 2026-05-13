@@ -22,5 +22,161 @@
     },
     "message": "/enter",
     "timestamp": "2026-05-13T09:22:23.175Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "a8964d28-d1de-46ad-bba0-c7243e6762db",
+      "shortId": "BE0C84",
+      "name": "StormFate",
+      "role": "USER",
+      "level": 32
+    },
+    "message": "dw",
+    "timestamp": "2026-05-13T11:27:03.626Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "a8964d28-d1de-46ad-bba0-c7243e6762db",
+      "shortId": "BE0C84",
+      "name": "StormFate",
+      "role": "USER",
+      "level": 32
+    },
+    "message": "/price grinchette",
+    "timestamp": "2026-05-13T11:27:15.973Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "a8964d28-d1de-46ad-bba0-c7243e6762db",
+      "shortId": "BE0C84",
+      "name": "StormFate",
+      "role": "USER",
+      "level": 32
+    },
+    "message": "/price CYBER",
+    "timestamp": "2026-05-13T11:27:36.659Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "a8964d28-d1de-46ad-bba0-c7243e6762db",
+      "shortId": "BE0C84",
+      "name": "StormFate",
+      "role": "USER",
+      "level": 32
+    },
+    "message": "/price CYB3R",
+    "timestamp": "2026-05-13T11:27:54.930Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "a8964d28-d1de-46ad-bba0-c7243e6762db",
+      "shortId": "BE0C84",
+      "name": "StormFate",
+      "role": "USER",
+      "level": 32
+    },
+    "message": "/price CYB3Rx1,Icex400,Woodx500",
+    "timestamp": "2026-05-13T11:30:05.770Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "a8964d28-d1de-46ad-bba0-c7243e6762db",
+      "shortId": "BE0C84",
+      "name": "StormFate",
+      "role": "USER",
+      "level": 32
+    },
+    "message": "/auto CYB3R,",
+    "timestamp": "2026-05-13T11:30:19.665Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "a8964d28-d1de-46ad-bba0-c7243e6762db",
+      "shortId": "BE0C84",
+      "name": "StormFate",
+      "role": "USER",
+      "level": 32
+    },
+    "message": "/price kod",
+    "timestamp": "2026-05-13T11:33:12.485Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "a8964d28-d1de-46ad-bba0-c7243e6762db",
+      "shortId": "BE0C84",
+      "name": "StormFate",
+      "role": "USER",
+      "level": 32
+    },
+    "message": "/inv",
+    "timestamp": "2026-05-13T11:33:33.927Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "a8964d28-d1de-46ad-bba0-c7243e6762db",
+      "shortId": "BE0C84",
+      "name": "StormFate",
+      "role": "USER",
+      "level": 32
+    },
+    "message": "/locate love",
+    "timestamp": "2026-05-13T11:34:39.233Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "a8964d28-d1de-46ad-bba0-c7243e6762db",
+      "shortId": "BE0C84",
+      "name": "StormFate",
+      "role": "USER",
+      "level": 32
+    },
+    "message": "wow lol nice",
+    "timestamp": "2026-05-13T11:35:02.644Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "a8964d28-d1de-46ad-bba0-c7243e6762db",
+      "shortId": "BE0C84",
+      "name": "StormFate",
+      "role": "USER",
+      "level": 32
+    },
+    "message": "do you get theem?",
+    "timestamp": "2026-05-13T11:35:08.590Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "a8964d28-d1de-46ad-bba0-c7243e6762db",
+      "shortId": "BE0C84",
+      "name": "StormFate",
+      "role": "USER",
+      "level": 32
+    },
+    "message": "/locate sensei",
+    "timestamp": "2026-05-13T11:35:27.075Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "a8964d28-d1de-46ad-bba0-c7243e6762db",
+      "shortId": "BE0C84",
+      "name": "StormFate",
+      "role": "USER",
+      "level": 32
+    },
+    "message": "i want kodd",
+    "timestamp": "2026-05-13T11:36:07.714Z"
   }
 ]
