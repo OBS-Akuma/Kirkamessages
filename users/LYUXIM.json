@@ -730,5 +730,65 @@
     },
     "message": "/price bok",
     "timestamp": "2026-05-13T05:08:32.741Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "fddeb704-c4e4-4f50-8a81-28c407f6d5da",
+      "shortId": "LYUXIM",
+      "name": "tstep",
+      "role": "USER",
+      "level": 98
+    },
+    "message": "/locate bansee",
+    "timestamp": "2026-05-13T19:43:28.840Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "fddeb704-c4e4-4f50-8a81-28c407f6d5da",
+      "shortId": "LYUXIM",
+      "name": "tstep",
+      "role": "USER",
+      "level": 98
+    },
+    "message": "/inv #LS9RWN",
+    "timestamp": "2026-05-13T19:43:36.760Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "fddeb704-c4e4-4f50-8a81-28c407f6d5da",
+      "shortId": "LYUXIM",
+      "name": "tstep",
+      "role": "USER",
+      "level": 98
+    },
+    "message": "/locate static",
+    "timestamp": "2026-05-13T19:43:51.340Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "fddeb704-c4e4-4f50-8a81-28c407f6d5da",
+      "shortId": "LYUXIM",
+      "name": "tstep",
+      "role": "USER",
+      "level": 98
+    },
+    "message": "/inv #SKK6YZ",
+    "timestamp": "2026-05-13T19:44:00.399Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "fddeb704-c4e4-4f50-8a81-28c407f6d5da",
+      "shortId": "LYUXIM",
+      "name": "tstep",
+      "role": "USER",
+      "level": 98
+    },
+    "message": "sorry i dont want",
+    "timestamp": "2026-05-13T19:44:06.298Z"
   }
 ]
