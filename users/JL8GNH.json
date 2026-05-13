@@ -274,5 +274,53 @@
     },
     "message": "/locate [mage",
     "timestamp": "2026-05-13T11:09:00.322Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "243cc494-98b8-44bd-b0f7-4624b76a0184",
+      "shortId": "JL8GNH",
+      "name": "BeastMaster",
+      "role": "USER",
+      "level": 100
+    },
+    "message": "uye skill?",
+    "timestamp": "2026-05-13T21:42:04.927Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "243cc494-98b8-44bd-b0f7-4624b76a0184",
+      "shortId": "JL8GNH",
+      "name": "BeastMaster",
+      "role": "USER",
+      "level": 100
+    },
+    "message": "yes skill?",
+    "timestamp": "2026-05-13T21:42:12.787Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "243cc494-98b8-44bd-b0f7-4624b76a0184",
+      "shortId": "JL8GNH",
+      "name": "BeastMaster",
+      "role": "USER",
+      "level": 100
+    },
+    "message": "bye bye",
+    "timestamp": "2026-05-13T21:42:32.353Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "243cc494-98b8-44bd-b0f7-4624b76a0184",
+      "shortId": "JL8GNH",
+      "name": "BeastMaster",
+      "role": "USER",
+      "level": 100
+    },
+    "message": "gtg to school",
+    "timestamp": "2026-05-13T21:42:33.634Z"
   }
 ]
