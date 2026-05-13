@@ -82,5 +82,17 @@
     },
     "message": "i need [Fleur||BODY_SKIN|LEGENDARY]",
     "timestamp": "2026-05-12T16:42:56.274Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "guest-09f2d7bf-4c56-4fee-ad57-9114175f756b",
+      "shortId": "O5IACZ",
+      "name": "Luffy",
+      "role": "USER",
+      "level": 16
+    },
+    "message": "i need [Vine||BODY_SKIN|LEGENDARY]",
+    "timestamp": "2026-05-13T17:45:42.853Z"
   }
 ]
