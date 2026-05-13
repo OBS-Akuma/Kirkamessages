@@ -226,5 +226,53 @@
     },
     "message": "ok, do you want me to tag your id ntat or no?",
     "timestamp": "2026-05-07T05:49:37.428Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "5eca5e40-9a48-45e2-84b8-f6c3902872bd",
+      "shortId": "1CEW9O",
+      "name": "iced",
+      "role": "USER",
+      "level": 97
+    },
+    "message": "anyone tryna wager vintage wit me",
+    "timestamp": "2026-05-12T23:22:54.266Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "5eca5e40-9a48-45e2-84b8-f6c3902872bd",
+      "shortId": "1CEW9O",
+      "name": "iced",
+      "role": "USER",
+      "level": 97
+    },
+    "message": "or [Eggs|Bayonet|WEAPON_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-12T23:23:07.747Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "5eca5e40-9a48-45e2-84b8-f6c3902872bd",
+      "shortId": "1CEW9O",
+      "name": "iced",
+      "role": "USER",
+      "level": 97
+    },
+    "message": "/ping",
+    "timestamp": "2026-05-12T23:23:46.992Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "5eca5e40-9a48-45e2-84b8-f6c3902872bd",
+      "shortId": "1CEW9O",
+      "name": "iced",
+      "role": "USER",
+      "level": 97
+    },
+    "message": "/wager [Vintage|VITA|WEAPON_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-12T23:25:40.975Z"
   }
 ]
