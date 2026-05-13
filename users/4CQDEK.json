@@ -17470,5 +17470,29 @@
     },
     "message": "#BXOKLG#BXOKLG#BXOKLG#BXOKLG#BXOKLG yo u see my trade?",
     "timestamp": "2026-05-13T17:16:09.801Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "878dfc67-a2f4-46d9-b837-58e311d701d3",
+      "shortId": "4CQDEK",
+      "name": "UrBoiBeetle",
+      "role": "USER",
+      "level": 98
+    },
+    "message": "Caydub i got [Liberty|VITA|WEAPON_SKIN|LEGENDARY]",
+    "timestamp": "2026-05-13T17:17:14.271Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "878dfc67-a2f4-46d9-b837-58e311d701d3",
+      "shortId": "4CQDEK",
+      "name": "UrBoiBeetle",
+      "role": "USER",
+      "level": 98
+    },
+    "message": "#CAYDUB nah",
+    "timestamp": "2026-05-13T17:17:40.859Z"
   }
 ]
