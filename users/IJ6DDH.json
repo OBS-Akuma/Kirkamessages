@@ -2218,5 +2218,185 @@
     },
     "message": "/enter",
     "timestamp": "2026-05-12T04:32:42.073Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "guest-54be4ece-9e2b-474f-9d38-577976065f54",
+      "shortId": "IJ6DDH",
+      "name": "EGD|Galaxy",
+      "role": "USER",
+      "level": 32
+    },
+    "message": "Who has [Lor||BODY_SKIN|LEGENDARY]",
+    "timestamp": "2026-05-13T00:59:04.111Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "guest-54be4ece-9e2b-474f-9d38-577976065f54",
+      "shortId": "IJ6DDH",
+      "name": "EGD|Galaxy",
+      "role": "USER",
+      "level": 32
+    },
+    "message": "/claim",
+    "timestamp": "2026-05-13T00:59:13.278Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "guest-54be4ece-9e2b-474f-9d38-577976065f54",
+      "shortId": "IJ6DDH",
+      "name": "EGD|Galaxy",
+      "role": "USER",
+      "level": 32
+    },
+    "message": "/hm blast scar scorcher",
+    "timestamp": "2026-05-13T01:00:40.802Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "guest-54be4ece-9e2b-474f-9d38-577976065f54",
+      "shortId": "IJ6DDH",
+      "name": "EGD|Galaxy",
+      "role": "USER",
+      "level": 32
+    },
+    "message": "/hm blast scar, scorcher",
+    "timestamp": "2026-05-13T01:00:55.831Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "guest-54be4ece-9e2b-474f-9d38-577976065f54",
+      "shortId": "IJ6DDH",
+      "name": "EGD|Galaxy",
+      "role": "USER",
+      "level": 32
+    },
+    "message": "Vivid",
+    "timestamp": "2026-05-13T01:01:04.634Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "guest-54be4ece-9e2b-474f-9d38-577976065f54",
+      "shortId": "IJ6DDH",
+      "name": "EGD|Galaxy",
+      "role": "USER",
+      "level": 32
+    },
+    "message": "No I'm looking for [Lor||BODY_SKIN|LEGENDARY]",
+    "timestamp": "2026-05-13T01:01:24.802Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "guest-54be4ece-9e2b-474f-9d38-577976065f54",
+      "shortId": "IJ6DDH",
+      "name": "EGD|Galaxy",
+      "role": "USER",
+      "level": 32
+    },
+    "message": "Me",
+    "timestamp": "2026-05-13T01:01:57.219Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "guest-54be4ece-9e2b-474f-9d38-577976065f54",
+      "shortId": "IJ6DDH",
+      "name": "EGD|Galaxy",
+      "role": "USER",
+      "level": 32
+    },
+    "message": "Skull",
+    "timestamp": "2026-05-13T01:02:01.586Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "guest-54be4ece-9e2b-474f-9d38-577976065f54",
+      "shortId": "IJ6DDH",
+      "name": "EGD|Galaxy",
+      "role": "USER",
+      "level": 32
+    },
+    "message": "Let's wager",
+    "timestamp": "2026-05-13T01:02:53.144Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "guest-54be4ece-9e2b-474f-9d38-577976065f54",
+      "shortId": "IJ6DDH",
+      "name": "EGD|Galaxy",
+      "role": "USER",
+      "level": 32
+    },
+    "message": "10",
+    "timestamp": "2026-05-13T01:03:06.382Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "guest-54be4ece-9e2b-474f-9d38-577976065f54",
+      "shortId": "IJ6DDH",
+      "name": "EGD|Galaxy",
+      "role": "USER",
+      "level": 32
+    },
+    "message": "K 30",
+    "timestamp": "2026-05-13T01:03:22.010Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "guest-54be4ece-9e2b-474f-9d38-577976065f54",
+      "shortId": "IJ6DDH",
+      "name": "EGD|Galaxy",
+      "role": "USER",
+      "level": 32
+    },
+    "message": "I said 30",
+    "timestamp": "2026-05-13T01:03:42.437Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "guest-54be4ece-9e2b-474f-9d38-577976065f54",
+      "shortId": "IJ6DDH",
+      "name": "EGD|Galaxy",
+      "role": "USER",
+      "level": 32
+    },
+    "message": "Not 30k",
+    "timestamp": "2026-05-13T01:03:48.914Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "guest-54be4ece-9e2b-474f-9d38-577976065f54",
+      "shortId": "IJ6DDH",
+      "name": "EGD|Galaxy",
+      "role": "USER",
+      "level": 32
+    },
+    "message": "-_- 50",
+    "timestamp": "2026-05-13T01:04:02.551Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "guest-54be4ece-9e2b-474f-9d38-577976065f54",
+      "shortId": "IJ6DDH",
+      "name": "EGD|Galaxy",
+      "role": "USER",
+      "level": 32
+    },
+    "message": "I only have 85 I don't want to gamble all my [Golden||CHEST|LEGENDARY]",
+    "timestamp": "2026-05-13T01:04:38.414Z"
   }
 ]
