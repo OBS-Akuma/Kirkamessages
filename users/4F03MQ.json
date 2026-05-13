@@ -7114,5 +7114,17 @@
     },
     "message": "/price [Gentleman||BODY_SKIN|MYTHICAL]",
     "timestamp": "2026-05-13T23:06:15.911Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "2d057859-f79e-4ba4-825b-4c368a83535c",
+      "shortId": "4F03MQ",
+      "name": "The_Re@per",
+      "role": "USER",
+      "level": 62
+    },
+    "message": "/enter 518122",
+    "timestamp": "2026-05-13T23:50:43.744Z"
   }
 ]
