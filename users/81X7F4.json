@@ -1618,5 +1618,29 @@
     },
     "message": "okay",
     "timestamp": "2026-05-13T12:50:25.406Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "7675dc32-1d0f-408a-9898-9733b0528afd",
+      "shortId": "81X7F4",
+      "name": "2buyfore",
+      "role": "USER",
+      "level": 39
+    },
+    "message": "/flip test",
+    "timestamp": "2026-05-13T12:51:33.926Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "7675dc32-1d0f-408a-9898-9733b0528afd",
+      "shortId": "81X7F4",
+      "name": "2buyfore",
+      "role": "USER",
+      "level": 39
+    },
+    "message": "okay sounds good",
+    "timestamp": "2026-05-13T12:51:37.328Z"
   }
 ]
