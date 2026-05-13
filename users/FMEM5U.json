@@ -1402,5 +1402,53 @@
     },
     "message": "/cancelwager",
     "timestamp": "2026-05-11T01:16:21.610Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "guest-b9d1b97b-1786-49ad-9242-6f1a7b3c4e8a",
+      "shortId": "FMEM5U",
+      "name": "JaniYousafYT",
+      "role": "USER",
+      "level": 23
+    },
+    "message": "/wager [Golden||CHEST|LEGENDARY]x111 #ESCROW",
+    "timestamp": "2026-05-12T22:29:45.032Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "guest-b9d1b97b-1786-49ad-9242-6f1a7b3c4e8a",
+      "shortId": "FMEM5U",
+      "name": "JaniYousafYT",
+      "role": "USER",
+      "level": 23
+    },
+    "message": "/wager [Golden||CHEST|LEGENDARY]x111 #VJ0H64",
+    "timestamp": "2026-05-12T22:30:14.168Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "guest-b9d1b97b-1786-49ad-9242-6f1a7b3c4e8a",
+      "shortId": "FMEM5U",
+      "name": "JaniYousafYT",
+      "role": "USER",
+      "level": 23
+    },
+    "message": "/enter",
+    "timestamp": "2026-05-13T01:18:33.316Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "guest-b9d1b97b-1786-49ad-9242-6f1a7b3c4e8a",
+      "shortId": "FMEM5U",
+      "name": "JaniYousafYT",
+      "role": "USER",
+      "level": 23
+    },
+    "message": "ab3 trade me i got you",
+    "timestamp": "2026-05-13T01:19:54.438Z"
   }
 ]
