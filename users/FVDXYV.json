@@ -178,5 +178,77 @@
     },
     "message": "Tr [Anon||BODY_SKIN|MYTHICAL]",
     "timestamp": "2026-05-13T10:56:45.207Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "ef51f7ea-a641-4ab0-a5e3-0f53a27e9224",
+      "shortId": "FVDXYV",
+      "name": "Phoenix",
+      "role": "USER",
+      "level": 97
+    },
+    "message": "/price [Garden|LAR|WEAPON_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-13T11:43:51.886Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "ef51f7ea-a641-4ab0-a5e3-0f53a27e9224",
+      "shortId": "FVDXYV",
+      "name": "Phoenix",
+      "role": "USER",
+      "level": 97
+    },
+    "message": "any offers on [Anon||BODY_SKIN|MYTHICAL]?",
+    "timestamp": "2026-05-13T11:46:39.589Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "ef51f7ea-a641-4ab0-a5e3-0f53a27e9224",
+      "shortId": "FVDXYV",
+      "name": "Phoenix",
+      "role": "USER",
+      "level": 97
+    },
+    "message": "22m",
+    "timestamp": "2026-05-13T11:47:05.375Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "ef51f7ea-a641-4ab0-a5e3-0f53a27e9224",
+      "shortId": "FVDXYV",
+      "name": "Phoenix",
+      "role": "USER",
+      "level": 97
+    },
+    "message": "/price [skeletain[",
+    "timestamp": "2026-05-13T12:03:22.214Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "ef51f7ea-a641-4ab0-a5e3-0f53a27e9224",
+      "shortId": "FVDXYV",
+      "name": "Phoenix",
+      "role": "USER",
+      "level": 97
+    },
+    "message": "/price [Skeletain||BODY_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-13T12:03:29.148Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "ef51f7ea-a641-4ab0-a5e3-0f53a27e9224",
+      "shortId": "FVDXYV",
+      "name": "Phoenix",
+      "role": "USER",
+      "level": 97
+    },
+    "message": "/price [Sizzle||BODY_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-13T12:10:31.715Z"
   }
 ]
