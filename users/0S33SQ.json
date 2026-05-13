@@ -154,5 +154,17 @@
     },
     "message": "got kinda laggy",
     "timestamp": "2026-05-12T15:49:02.635Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "6e96cbad-888e-4efd-bd88-73b43c669daf",
+      "shortId": "0S33SQ",
+      "name": "-CAT-",
+      "role": "USER",
+      "level": 99
+    },
+    "message": "/price [Xed||BODY_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-13T21:56:49.053Z"
   }
 ]
