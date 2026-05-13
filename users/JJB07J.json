@@ -118,5 +118,53 @@
     },
     "message": "i only have [Goat||BODY_SKIN|MYTHICAL] [Bamboo|VITA|WEAPON_SKIN|MYTHICAL] and [Forbidden|AR-9|WEAPON_SKIN|MYTHICAL]",
     "timestamp": "2026-05-12T23:04:33.435Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "ae9daafe-3288-4d0f-a846-f157bd1e7c33",
+      "shortId": "JJB07J",
+      "name": "deadgirlscry",
+      "role": "USER",
+      "level": 39
+    },
+    "message": "trading [Goat||BODY_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-13T02:49:32.720Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "ae9daafe-3288-4d0f-a846-f157bd1e7c33",
+      "shortId": "JJB07J",
+      "name": "deadgirlscry",
+      "role": "USER",
+      "level": 39
+    },
+    "message": "offer",
+    "timestamp": "2026-05-13T02:49:42.953Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "ae9daafe-3288-4d0f-a846-f157bd1e7c33",
+      "shortId": "JJB07J",
+      "name": "[PLX3]D4rkPr0",
+      "role": "USER",
+      "level": 39
+    },
+    "message": "TRADING SKIN [Goat||BODY_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-13T03:53:30.743Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "ae9daafe-3288-4d0f-a846-f157bd1e7c33",
+      "shortId": "JJB07J",
+      "name": "[PLX3]D4rkPr0",
+      "role": "USER",
+      "level": 39
+    },
+    "message": "TAKING OFFERS",
+    "timestamp": "2026-05-13T03:53:33.262Z"
   }
 ]
