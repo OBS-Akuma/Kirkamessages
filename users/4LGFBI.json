@@ -1318,5 +1318,29 @@
     },
     "message": "LF [Shroud||BODY_SKIN|MYTHICAL]",
     "timestamp": "2026-05-13T03:55:36.231Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "xkiNzXE2NVRhVv2juciDJAGV2IG3",
+      "shortId": "4LGFBI",
+      "name": "EzoSensha",
+      "role": "USER",
+      "level": 37
+    },
+    "message": "LF [Shroud||BODY_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-13T04:40:05.572Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "xkiNzXE2NVRhVv2juciDJAGV2IG3",
+      "shortId": "4LGFBI",
+      "name": "EzoSensha",
+      "role": "USER",
+      "level": 37
+    },
+    "message": "VENOM YOU ALREADY HAVE [Shroud||BODY_SKIN|MYTHICAL] ?",
+    "timestamp": "2026-05-13T04:40:50.890Z"
   }
 ]
