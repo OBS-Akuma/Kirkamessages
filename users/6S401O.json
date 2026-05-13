@@ -1,0 +1,50 @@
+[
+  {
+    "type": 2,
+    "user": {
+      "id": "guest-f5004d81-a780-42c6-bb0d-a46cd19440dc",
+      "shortId": "6S401O",
+      "name": "InVaSiOn",
+      "role": "USER",
+      "level": 9
+    },
+    "message": "/price [Cyber SCAR|SCAR|WEAPON_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-13T20:41:40.587Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "guest-f5004d81-a780-42c6-bb0d-a46cd19440dc",
+      "shortId": "6S401O",
+      "name": "InVaSiOn",
+      "role": "USER",
+      "level": 9
+    },
+    "message": "/price [Blast SCAR|SCAR|WEAPON_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-13T20:41:50.069Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "guest-f5004d81-a780-42c6-bb0d-a46cd19440dc",
+      "shortId": "6S401O",
+      "name": "InVaSiOn",
+      "role": "USER",
+      "level": 9
+    },
+    "message": "/price [Dragonic SCAR|SCAR|WEAPON_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-13T20:41:57.718Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "guest-f5004d81-a780-42c6-bb0d-a46cd19440dc",
+      "shortId": "6S401O",
+      "name": "InVaSiOn",
+      "role": "USER",
+      "level": 9
+    },
+    "message": "/price [Void SCAR|SCAR|WEAPON_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-13T20:42:04.704Z"
+  }
+]
