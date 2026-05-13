@@ -34,5 +34,17 @@
     },
     "message": "/price [Forbidden|AR-9|WEAPON_SKIN|MYTHICAL]",
     "timestamp": "2026-05-07T04:17:52.224Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "ba8fb07a-cd4e-44c0-add5-732ae10a29bd",
+      "shortId": "XEZX6W",
+      "name": "BOIM",
+      "role": "USER",
+      "level": 77
+    },
+    "message": "/owners [Engravement|Bayonet|WEAPON_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-13T03:21:02.600Z"
   }
 ]
