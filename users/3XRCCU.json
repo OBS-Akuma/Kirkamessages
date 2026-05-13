@@ -382,5 +382,41 @@
     },
     "message": "/hm moon",
     "timestamp": "2026-05-12T08:10:42.147Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "VDlzMXAa9DZPbZvebQ5vePHLeex2",
+      "shortId": "3XRCCU",
+      "name": "DABEYT",
+      "role": "USER",
+      "level": 68
+    },
+    "message": "/hm wrap",
+    "timestamp": "2026-05-13T18:17:47.386Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "VDlzMXAa9DZPbZvebQ5vePHLeex2",
+      "shortId": "3XRCCU",
+      "name": "DABEYT",
+      "role": "USER",
+      "level": 68
+    },
+    "message": "/hm blast vita",
+    "timestamp": "2026-05-13T18:18:05.926Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "VDlzMXAa9DZPbZvebQ5vePHLeex2",
+      "shortId": "3XRCCU",
+      "name": "DABEYT",
+      "role": "USER",
+      "level": 68
+    },
+    "message": "/inv #RWH3Z0",
+    "timestamp": "2026-05-13T18:18:43.266Z"
   }
 ]
