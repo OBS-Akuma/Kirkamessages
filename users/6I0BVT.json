@@ -10,5 +10,17 @@
     },
     "message": "trade:[Gazer||BODY_SKIN|MYTHICAL][Moltorath||BODY_SKIN|MYTHICAL][Orion||BODY_SKIN|MYTHICAL][Gonzo||BODY_SKIN|MYTHICAL][Box||BODY_SKIN|MYTHICAL]",
     "timestamp": "2026-05-12T09:29:57.667Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "ced5b931-343c-4260-acfe-82c7f2ce8bb7",
+      "shortId": "6I0BVT",
+      "name": "SOIKAL",
+      "role": "USER",
+      "level": 72
+    },
+    "message": "/inv",
+    "timestamp": "2026-05-13T09:18:47.606Z"
   }
 ]
