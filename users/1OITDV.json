@@ -70,5 +70,29 @@
     },
     "message": "jajj",
     "timestamp": "2026-05-12T23:42:09.088Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "4888f28f-c1f6-4982-ac94-8a637667e4d0",
+      "shortId": "1OITDV",
+      "name": "Yorjan_.Sth",
+      "role": "USER",
+      "level": 91
+    },
+    "message": "#ESCROW",
+    "timestamp": "2026-05-13T23:29:03.149Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "4888f28f-c1f6-4982-ac94-8a637667e4d0",
+      "shortId": "1OITDV",
+      "name": "Yorjan_.Sth",
+      "role": "USER",
+      "level": 91
+    },
+    "message": "[Choco||BODY_SKIN|LEGENDARY]",
+    "timestamp": "2026-05-13T23:29:46.031Z"
   }
 ]
