@@ -200,7 +200,7 @@
       "role": "USER",
       "level": 74
     },
-    "message": "No ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ°ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ",
+    "message": "No ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ°ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ",
     "timestamp": "2026-05-13T04:42:29.859Z"
   },
   {
@@ -382,5 +382,149 @@
     },
     "message": "TR[RGB||BODY_SKIN|LEGENDARY]",
     "timestamp": "2026-05-13T05:02:54.273Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "108b6c61-9f3f-4981-8cf3-4b60e20ef40a",
+      "shortId": "3VOHFR",
+      "name": "SantaGrifa",
+      "role": "USER",
+      "level": 74
+    },
+    "message": "TR[Ghoul||BODY_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-13T08:21:59.320Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "108b6c61-9f3f-4981-8cf3-4b60e20ef40a",
+      "shortId": "3VOHFR",
+      "name": "SantaGrifa",
+      "role": "USER",
+      "level": 74
+    },
+    "message": "#609GEM??",
+    "timestamp": "2026-05-13T08:31:22.324Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "108b6c61-9f3f-4981-8cf3-4b60e20ef40a",
+      "shortId": "3VOHFR",
+      "name": "SantaGrifa",
+      "role": "USER",
+      "level": 74
+    },
+    "message": "Offer my:[Polar||BODY_SKIN|MYTHICAL] your:[Nova|SCAR|WEAPON_SKIN|MYTHICAL] #609GEM",
+    "timestamp": "2026-05-13T08:32:08.624Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "108b6c61-9f3f-4981-8cf3-4b60e20ef40a",
+      "shortId": "3VOHFR",
+      "name": "SantaGrifa",
+      "role": "USER",
+      "level": 74
+    },
+    "message": "TR[Gust]",
+    "timestamp": "2026-05-13T08:35:28.822Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "108b6c61-9f3f-4981-8cf3-4b60e20ef40a",
+      "shortId": "3VOHFR",
+      "name": "SantaGrifa",
+      "role": "USER",
+      "level": 74
+    },
+    "message": "TR[Guts||BODY_SKIN|LEGENDARY]",
+    "timestamp": "2026-05-13T08:35:40.969Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "108b6c61-9f3f-4981-8cf3-4b60e20ef40a",
+      "shortId": "3VOHFR",
+      "name": "SantaGrifa",
+      "role": "USER",
+      "level": 74
+    },
+    "message": "/tarde bunp",
+    "timestamp": "2026-05-13T08:37:12.453Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "108b6c61-9f3f-4981-8cf3-4b60e20ef40a",
+      "shortId": "3VOHFR",
+      "name": "SantaGrifa",
+      "role": "USER",
+      "level": 74
+    },
+    "message": "TR[Cider||BODY_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-13T08:38:13.233Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "108b6c61-9f3f-4981-8cf3-4b60e20ef40a",
+      "shortId": "3VOHFR",
+      "name": "SantaGrifa",
+      "role": "USER",
+      "level": 74
+    },
+    "message": "TR[Cinder||BODY_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-13T08:38:58.145Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "108b6c61-9f3f-4981-8cf3-4b60e20ef40a",
+      "shortId": "3VOHFR",
+      "name": "SantaGrifa",
+      "role": "USER",
+      "level": 74
+    },
+    "message": "TR[Reaper||BODY_SKIN|LEGENDARY]",
+    "timestamp": "2026-05-13T08:44:21.028Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "108b6c61-9f3f-4981-8cf3-4b60e20ef40a",
+      "shortId": "3VOHFR",
+      "name": "SantaGrifa",
+      "role": "USER",
+      "level": 74
+    },
+    "message": "/trad accept 39958",
+    "timestamp": "2026-05-13T08:52:22.436Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "108b6c61-9f3f-4981-8cf3-4b60e20ef40a",
+      "shortId": "3VOHFR",
+      "name": "SantaGrifa",
+      "role": "USER",
+      "level": 74
+    },
+    "message": "TR[Xx||BODY_SKIN|MYTHICAL] #609GEM",
+    "timestamp": "2026-05-13T09:06:58.087Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "108b6c61-9f3f-4981-8cf3-4b60e20ef40a",
+      "shortId": "3VOHFR",
+      "name": "SantaGrifa",
+      "role": "USER",
+      "level": 74
+    },
+    "message": "#609GEM no [Astra|VITA|WEAPON_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-13T09:07:49.269Z"
   }
 ]
