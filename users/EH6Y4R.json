@@ -262,5 +262,101 @@
     },
     "message": "i want [Onryo||BODY_SKIN|MYTHICAL]",
     "timestamp": "2026-05-13T08:50:59.323Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "2760683e-aa41-44d2-a695-3251af55423d",
+      "shortId": "EH6Y4R",
+      "name": "AORUS_MASTER",
+      "role": "USER",
+      "level": 44
+    },
+    "message": "can i get[RGB||BODY_SKIN|LEGENDARY]",
+    "timestamp": "2026-05-13T17:23:21.518Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "2760683e-aa41-44d2-a695-3251af55423d",
+      "shortId": "EH6Y4R",
+      "name": "AORUS_MASTER",
+      "role": "USER",
+      "level": 44
+    },
+    "message": "give [RGB||BODY_SKIN|LEGENDARY] in exchnage of [Decor||BODY_SKIN|MYTHICAL] or [Spearmint||BODY_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-13T17:25:05.695Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "2760683e-aa41-44d2-a695-3251af55423d",
+      "shortId": "EH6Y4R",
+      "name": "AORUS_MASTER",
+      "role": "USER",
+      "level": 44
+    },
+    "message": "i want [RGB||BODY_SKIN|LEGENDARY] badly",
+    "timestamp": "2026-05-13T17:25:26.796Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "2760683e-aa41-44d2-a695-3251af55423d",
+      "shortId": "EH6Y4R",
+      "name": "AORUS_MASTER",
+      "role": "USER",
+      "level": 44
+    },
+    "message": "/locate [RGB||BODY_SKIN|LEGENDARY]",
+    "timestamp": "2026-05-13T17:28:36.557Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "2760683e-aa41-44d2-a695-3251af55423d",
+      "shortId": "EH6Y4R",
+      "name": "AORUS_MASTER",
+      "role": "USER",
+      "level": 44
+    },
+    "message": "/locate [Onryo||BODY_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-13T17:29:09.528Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "2760683e-aa41-44d2-a695-3251af55423d",
+      "shortId": "EH6Y4R",
+      "name": "AORUS_MASTER",
+      "role": "USER",
+      "level": 44
+    },
+    "message": "anyone selling [RGB||BODY_SKIN|LEGENDARY]",
+    "timestamp": "2026-05-13T17:44:45.026Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "2760683e-aa41-44d2-a695-3251af55423d",
+      "shortId": "EH6Y4R",
+      "name": "AORUS_MASTER",
+      "role": "USER",
+      "level": 44
+    },
+    "message": "i have 2026",
+    "timestamp": "2026-05-13T17:44:51.451Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "2760683e-aa41-44d2-a695-3251af55423d",
+      "shortId": "EH6Y4R",
+      "name": "AORUS_MASTER",
+      "role": "USER",
+      "level": 44
+    },
+    "message": "/locate [RGB||BODY_SKIN|LEGENDARY]",
+    "timestamp": "2026-05-13T17:45:57.285Z"
   }
 ]
