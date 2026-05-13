@@ -3562,5 +3562,17 @@
     },
     "message": "/enter",
     "timestamp": "2026-05-12T20:30:02.127Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "c2f1630a-cceb-442f-9053-3a277f47f5ca",
+      "shortId": "OMCUF0",
+      "name": "Manna",
+      "role": "USER",
+      "level": 99
+    },
+    "message": "/price void bayo",
+    "timestamp": "2026-05-13T00:17:03.356Z"
   }
 ]
