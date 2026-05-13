@@ -3731,5 +3731,29 @@
     },
     "message": "#EL0ET2",
     "timestamp": "2026-05-12T22:37:58.595Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "7f2a6090-abcb-48a7-8838-88ee8111b261",
+      "shortId": "NUGGET",
+      "name": "Akuma :3",
+      "role": "USER",
+      "level": 57
+    },
+    "message": "trading halloween",
+    "timestamp": "2026-05-13T05:15:35.674Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "7f2a6090-abcb-48a7-8838-88ee8111b261",
+      "shortId": "NUGGET",
+      "name": "Akuma :3",
+      "role": "USER",
+      "level": 57
+    },
+    "message": "/locate [Halloween||CHEST|MYTHICAL]",
+    "timestamp": "2026-05-13T05:16:03.028Z"
   }
 ]
