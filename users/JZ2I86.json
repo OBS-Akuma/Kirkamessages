@@ -238,5 +238,17 @@
     },
     "message": "/trrade bump",
     "timestamp": "2026-05-13T03:14:31.669Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "075cfb3a-621e-441a-8616-40981ed0f115",
+      "shortId": "JZ2I86",
+      "name": "$overeign",
+      "role": "USER",
+      "level": 86
+    },
+    "message": "/inv",
+    "timestamp": "2026-05-13T05:00:32.371Z"
   }
 ]
