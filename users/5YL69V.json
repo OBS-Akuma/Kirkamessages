@@ -82,5 +82,29 @@
     },
     "message": "[tricolor]",
     "timestamp": "2026-05-12T10:33:05.851Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "7eb1bc33-c39c-4a74-9b7a-4044e134e14b",
+      "shortId": "5YL69V",
+      "name": "KajzieeeSK",
+      "role": "USER",
+      "level": 77
+    },
+    "message": "/enter",
+    "timestamp": "2026-05-13T08:03:30.329Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "7eb1bc33-c39c-4a74-9b7a-4044e134e14b",
+      "shortId": "5YL69V",
+      "name": "KajzieeeSK",
+      "role": "USER",
+      "level": 77
+    },
+    "message": "/hm ghillie",
+    "timestamp": "2026-05-13T08:07:04.156Z"
   }
 ]
