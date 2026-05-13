@@ -790,5 +790,77 @@
     },
     "message": "/wager [Cosmos|VITA|WEAPON_SKIN|MYTHICAL]x1 #U2BXJ1",
     "timestamp": "2026-05-13T01:52:45.801Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "4640c5e7-8889-4f71-8446-a54180b81f7c",
+      "shortId": "KLBFGG",
+      "name": "keyboard",
+      "role": "USER",
+      "level": 77
+    },
+    "message": "/enter",
+    "timestamp": "2026-05-13T21:54:28.635Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "4640c5e7-8889-4f71-8446-a54180b81f7c",
+      "shortId": "KLBFGG",
+      "name": "keyboard",
+      "role": "USER",
+      "level": 77
+    },
+    "message": "#2I5XG5 you want [Biker||BODY_SKIN|MYTHICAL] for it?",
+    "timestamp": "2026-05-13T21:57:04.006Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "4640c5e7-8889-4f71-8446-a54180b81f7c",
+      "shortId": "KLBFGG",
+      "name": "keyboard",
+      "role": "USER",
+      "level": 77
+    },
+    "message": "/wager [Golden||CHEST|LEGENDARY]x1000 #2HPWTQ",
+    "timestamp": "2026-05-13T21:57:57.542Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "4640c5e7-8889-4f71-8446-a54180b81f7c",
+      "shortId": "KLBFGG",
+      "name": "keyboard",
+      "role": "USER",
+      "level": 77
+    },
+    "message": "#2I5XG5 you should do biker",
+    "timestamp": "2026-05-13T21:58:05.141Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "4640c5e7-8889-4f71-8446-a54180b81f7c",
+      "shortId": "KLBFGG",
+      "name": "keyboard",
+      "role": "USER",
+      "level": 77
+    },
+    "message": "gg",
+    "timestamp": "2026-05-13T21:58:41.190Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "4640c5e7-8889-4f71-8446-a54180b81f7c",
+      "shortId": "KLBFGG",
+      "name": "keyboard",
+      "role": "USER",
+      "level": 77
+    },
+    "message": "/claim",
+    "timestamp": "2026-05-13T21:58:43.296Z"
   }
 ]
