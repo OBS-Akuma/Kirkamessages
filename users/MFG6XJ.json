@@ -34,5 +34,77 @@
     },
     "message": "How do you highlight your weapon with red?",
     "timestamp": "2026-05-12T17:36:56.532Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "HqTvxqMcGKaheG6u0yjPfAOIcuY2",
+      "shortId": "MFG6XJ",
+      "name": "Not_Dewier",
+      "role": "USER",
+      "level": 33
+    },
+    "message": "/naruto a",
+    "timestamp": "2026-05-13T02:43:48.239Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "HqTvxqMcGKaheG6u0yjPfAOIcuY2",
+      "shortId": "MFG6XJ",
+      "name": "Not_Dewier",
+      "role": "USER",
+      "level": 33
+    },
+    "message": "/price 2025 revolver",
+    "timestamp": "2026-05-13T02:44:07.659Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "HqTvxqMcGKaheG6u0yjPfAOIcuY2",
+      "shortId": "MFG6XJ",
+      "name": "Not_Dewier",
+      "role": "USER",
+      "level": 33
+    },
+    "message": "I have",
+    "timestamp": "2026-05-13T02:44:24.647Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "HqTvxqMcGKaheG6u0yjPfAOIcuY2",
+      "shortId": "MFG6XJ",
+      "name": "Not_Dewier",
+      "role": "USER",
+      "level": 33
+    },
+    "message": "1",
+    "timestamp": "2026-05-13T02:44:43.060Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "HqTvxqMcGKaheG6u0yjPfAOIcuY2",
+      "shortId": "MFG6XJ",
+      "name": "Not_Dewier",
+      "role": "USER",
+      "level": 33
+    },
+    "message": "I sold the other one unfortunately",
+    "timestamp": "2026-05-13T02:44:50.615Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "HqTvxqMcGKaheG6u0yjPfAOIcuY2",
+      "shortId": "MFG6XJ",
+      "name": "Not_Dewier",
+      "role": "USER",
+      "level": 33
+    },
+    "message": "[void]",
+    "timestamp": "2026-05-13T02:47:49.070Z"
   }
 ]
