@@ -1,0 +1,26 @@
+[
+  {
+    "type": 2,
+    "user": {
+      "id": "2f228fc0-3548-4182-94b4-8477e476f91b",
+      "shortId": "TPZ1IW",
+      "name": "PhoenixFrost",
+      "role": "USER",
+      "level": 21
+    },
+    "message": "lf [Starship||BODY_SKIN|MYTHICAL] [Slime||BODY_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-12T23:34:59.710Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "2f228fc0-3548-4182-94b4-8477e476f91b",
+      "shortId": "TPZ1IW",
+      "name": "PhoenixFrost",
+      "role": "USER",
+      "level": 21
+    },
+    "message": "Yo",
+    "timestamp": "2026-05-12T23:35:25.465Z"
+  }
+]
