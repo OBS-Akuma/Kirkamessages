@@ -490,5 +490,17 @@
     },
     "message": "what",
     "timestamp": "2026-05-11T04:07:59.733Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "6339b454-7133-4957-8e55-aa611e46fccd",
+      "shortId": "6UBZ2F",
+      "name": "Sweezsy",
+      "role": "USER",
+      "level": 85
+    },
+    "message": "#EL0ET2",
+    "timestamp": "2026-05-12T22:37:09.039Z"
   }
 ]
