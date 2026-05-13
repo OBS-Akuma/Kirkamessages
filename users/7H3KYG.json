@@ -1,0 +1,602 @@
+[
+  {
+    "type": 2,
+    "user": {
+      "id": "ec92f407-cbda-4140-8a82-0e0aabfba793",
+      "shortId": "7H3KYG",
+      "name": "Newbie#1",
+      "role": "USER",
+      "level": 87
+    },
+    "message": "/price [Distortion|MAC-10|WEAPON_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-13T04:44:47.479Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "ec92f407-cbda-4140-8a82-0e0aabfba793",
+      "shortId": "7H3KYG",
+      "name": "Newbie#1",
+      "role": "USER",
+      "level": 87
+    },
+    "message": "wtf",
+    "timestamp": "2026-05-13T04:45:04.231Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "ec92f407-cbda-4140-8a82-0e0aabfba793",
+      "shortId": "7H3KYG",
+      "name": "Newbie#1",
+      "role": "USER",
+      "level": 87
+    },
+    "message": "wtf did I miss",
+    "timestamp": "2026-05-13T04:45:11.003Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "ec92f407-cbda-4140-8a82-0e0aabfba793",
+      "shortId": "7H3KYG",
+      "name": "Newbie#1",
+      "role": "USER",
+      "level": 87
+    },
+    "message": "from kirka",
+    "timestamp": "2026-05-13T04:45:13.554Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "ec92f407-cbda-4140-8a82-0e0aabfba793",
+      "shortId": "7H3KYG",
+      "name": "Newbie#1",
+      "role": "USER",
+      "level": 87
+    },
+    "message": "/bolt [Distortion|MAC-10|WEAPON_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-13T04:45:30.764Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "ec92f407-cbda-4140-8a82-0e0aabfba793",
+      "shortId": "7H3KYG",
+      "name": "Newbie#1",
+      "role": "USER",
+      "level": 87
+    },
+    "message": "/hm [Distortion|MAC-10|WEAPON_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-13T04:46:36.683Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "ec92f407-cbda-4140-8a82-0e0aabfba793",
+      "shortId": "7H3KYG",
+      "name": "Newbie#1",
+      "role": "USER",
+      "level": 87
+    },
+    "message": "/hm [Chromaflame|LAR|WEAPON_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-13T04:48:29.383Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "ec92f407-cbda-4140-8a82-0e0aabfba793",
+      "shortId": "7H3KYG",
+      "name": "Newbie#1",
+      "role": "USER",
+      "level": 87
+    },
+    "message": "/inv",
+    "timestamp": "2026-05-13T04:48:44.703Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "ec92f407-cbda-4140-8a82-0e0aabfba793",
+      "shortId": "7H3KYG",
+      "name": "Newbie#1",
+      "role": "USER",
+      "level": 87
+    },
+    "message": "I'm broke asf",
+    "timestamp": "2026-05-13T04:49:04.760Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "ec92f407-cbda-4140-8a82-0e0aabfba793",
+      "shortId": "7H3KYG",
+      "name": "Newbie#1",
+      "role": "USER",
+      "level": 87
+    },
+    "message": "⣿⣿⣿⣿⣿⣿⣿⣿⠁⠀⣠⡄⢿⣿⣿⣿⣿⣿⣿⣿⣿ ⣿⣿⣿⣿⣿⣿⣿⣿⣆⠀⠌⣩⣌⠻⢿⣿⣿⣿⣿⣿⣿ ⣿⣿⣿⣿⢛⣭⣿⣽⢁⣶⣿⣿⣿⣿⣶⡌⢻⠻⢿⣿⣿ ⣿⣿⣿⡇⢚⣿⠿⢃⡾⣿⡏⢻⣿⢻",
+    "timestamp": "2026-05-13T04:49:07.385Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "ec92f407-cbda-4140-8a82-0e0aabfba793",
+      "shortId": "7H3KYG",
+      "name": "Newbie#1",
+      "role": "USER",
+      "level": 87
+    },
+    "message": "/hm [Maze||BODY_SKIN|EPIC]",
+    "timestamp": "2026-05-13T04:49:21.562Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "ec92f407-cbda-4140-8a82-0e0aabfba793",
+      "shortId": "7H3KYG",
+      "name": "Newbie#1",
+      "role": "USER",
+      "level": 87
+    },
+    "message": "/hm [Slasher||BODY_SKIN|PARANORMAL]",
+    "timestamp": "2026-05-13T04:49:42.010Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "ec92f407-cbda-4140-8a82-0e0aabfba793",
+      "shortId": "7H3KYG",
+      "name": "Newbie#1",
+      "role": "USER",
+      "level": 87
+    },
+    "message": "/hm [Vocaloid|SCAR|WEAPON_SKIN|LEGENDARY]",
+    "timestamp": "2026-05-13T04:50:20.627Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "ec92f407-cbda-4140-8a82-0e0aabfba793",
+      "shortId": "7H3KYG",
+      "name": "Newbie#1",
+      "role": "USER",
+      "level": 87
+    },
+    "message": "/price [Rar|LAR|WEAPON_SKIN|LEGENDARY]",
+    "timestamp": "2026-05-13T04:50:39.443Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "ec92f407-cbda-4140-8a82-0e0aabfba793",
+      "shortId": "7H3KYG",
+      "name": "Newbie#1",
+      "role": "USER",
+      "level": 87
+    },
+    "message": "/hm [Rar|LAR|WEAPON_SKIN|LEGENDARY]",
+    "timestamp": "2026-05-13T04:50:47.072Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "ec92f407-cbda-4140-8a82-0e0aabfba793",
+      "shortId": "7H3KYG",
+      "name": "Newbie#1",
+      "role": "USER",
+      "level": 87
+    },
+    "message": "/hm [Turtle|Bayonet|WEAPON_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-13T04:51:04.039Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "ec92f407-cbda-4140-8a82-0e0aabfba793",
+      "shortId": "7H3KYG",
+      "name": "Newbie#1",
+      "role": "USER",
+      "level": 87
+    },
+    "message": "/hm [Retro|Bayonet|WEAPON_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-13T04:51:16.766Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "ec92f407-cbda-4140-8a82-0e0aabfba793",
+      "shortId": "7H3KYG",
+      "name": "Newbie#1",
+      "role": "USER",
+      "level": 87
+    },
+    "message": "#HUB956 ?",
+    "timestamp": "2026-05-13T04:51:43.051Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "ec92f407-cbda-4140-8a82-0e0aabfba793",
+      "shortId": "7H3KYG",
+      "name": "Newbie#1",
+      "role": "USER",
+      "level": 87
+    },
+    "message": "/hm [TTV||BODY_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-13T04:51:51.549Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "ec92f407-cbda-4140-8a82-0e0aabfba793",
+      "shortId": "7H3KYG",
+      "name": "Newbie#1",
+      "role": "USER",
+      "level": 87
+    },
+    "message": "/hm [Nova|SCAR|WEAPON_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-13T04:51:58.573Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "ec92f407-cbda-4140-8a82-0e0aabfba793",
+      "shortId": "7H3KYG",
+      "name": "Newbie#1",
+      "role": "USER",
+      "level": 87
+    },
+    "message": "I'm broke",
+    "timestamp": "2026-05-13T04:52:03.048Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "ec92f407-cbda-4140-8a82-0e0aabfba793",
+      "shortId": "7H3KYG",
+      "name": "Newbie#1",
+      "role": "USER",
+      "level": 87
+    },
+    "message": "asf",
+    "timestamp": "2026-05-13T04:52:05.279Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "ec92f407-cbda-4140-8a82-0e0aabfba793",
+      "shortId": "7H3KYG",
+      "name": "Newbie#1",
+      "role": "USER",
+      "level": 87
+    },
+    "message": "/price [Xx||BODY_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-13T04:52:50.253Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "ec92f407-cbda-4140-8a82-0e0aabfba793",
+      "shortId": "7H3KYG",
+      "name": "Newbie#1",
+      "role": "USER",
+      "level": 87
+    },
+    "message": "/price [Artificial||BODY_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-13T04:53:35.113Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "ec92f407-cbda-4140-8a82-0e0aabfba793",
+      "shortId": "7H3KYG",
+      "name": "Newbie#1",
+      "role": "USER",
+      "level": 87
+    },
+    "message": "/price [AR-9||WEAPON_1|COMMON]",
+    "timestamp": "2026-05-13T04:54:02.053Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "ec92f407-cbda-4140-8a82-0e0aabfba793",
+      "shortId": "7H3KYG",
+      "name": "Newbie#1",
+      "role": "USER",
+      "level": 87
+    },
+    "message": "/price [Void AR-9|AR-9|WEAPON_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-13T04:54:15.420Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "ec92f407-cbda-4140-8a82-0e0aabfba793",
+      "shortId": "7H3KYG",
+      "name": "Newbie#1",
+      "role": "USER",
+      "level": 87
+    },
+    "message": "/price [Nyan Shark|Shark|WEAPON_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-13T04:54:30.926Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "ec92f407-cbda-4140-8a82-0e0aabfba793",
+      "shortId": "7H3KYG",
+      "name": "Newbie#1",
+      "role": "USER",
+      "level": 87
+    },
+    "message": "/price [Bok||BODY_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-13T04:54:54.738Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "ec92f407-cbda-4140-8a82-0e0aabfba793",
+      "shortId": "7H3KYG",
+      "name": "Newbie#1",
+      "role": "USER",
+      "level": 87
+    },
+    "message": "/price [Gilded|VITA|WEAPON_SKIN|LEGENDARY]",
+    "timestamp": "2026-05-13T04:59:39.146Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "ec92f407-cbda-4140-8a82-0e0aabfba793",
+      "shortId": "7H3KYG",
+      "name": "Newbie#1",
+      "role": "USER",
+      "level": 87
+    },
+    "message": "/price [Eclipse|Bayonet|WEAPON_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-13T04:59:48.112Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "ec92f407-cbda-4140-8a82-0e0aabfba793",
+      "shortId": "7H3KYG",
+      "name": "Newbie#1",
+      "role": "USER",
+      "level": 87
+    },
+    "message": "/price [Eruption|Bayonet|WEAPON_SKIN|LEGENDARY]",
+    "timestamp": "2026-05-13T05:00:50.662Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "ec92f407-cbda-4140-8a82-0e0aabfba793",
+      "shortId": "7H3KYG",
+      "name": "Newbie#1",
+      "role": "USER",
+      "level": 87
+    },
+    "message": "/inv",
+    "timestamp": "2026-05-13T05:00:53.696Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "ec92f407-cbda-4140-8a82-0e0aabfba793",
+      "shortId": "7H3KYG",
+      "name": "Newbie#1",
+      "role": "USER",
+      "level": 87
+    },
+    "message": "f",
+    "timestamp": "2026-05-13T05:01:01.541Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "ec92f407-cbda-4140-8a82-0e0aabfba793",
+      "shortId": "7H3KYG",
+      "name": "Newbie#1",
+      "role": "USER",
+      "level": 87
+    },
+    "message": "/inv",
+    "timestamp": "2026-05-13T05:01:04.906Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "ec92f407-cbda-4140-8a82-0e0aabfba793",
+      "shortId": "7H3KYG",
+      "name": "Newbie#1",
+      "role": "USER",
+      "level": 87
+    },
+    "message": "#HUB956",
+    "timestamp": "2026-05-13T05:01:44.863Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "ec92f407-cbda-4140-8a82-0e0aabfba793",
+      "shortId": "7H3KYG",
+      "name": "Newbie#1",
+      "role": "USER",
+      "level": 87
+    },
+    "message": "/price [korunmai]",
+    "timestamp": "2026-05-13T05:02:37.063Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "ec92f407-cbda-4140-8a82-0e0aabfba793",
+      "shortId": "7H3KYG",
+      "name": "Newbie#1",
+      "role": "USER",
+      "level": 87
+    },
+    "message": "/price [Korunami|LAR|WEAPON_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-13T05:02:46.981Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "ec92f407-cbda-4140-8a82-0e0aabfba793",
+      "shortId": "7H3KYG",
+      "name": "Newbie#1",
+      "role": "USER",
+      "level": 87
+    },
+    "message": "/price [Cornfield|Bayonet|WEAPON_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-13T05:02:58.862Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "ec92f407-cbda-4140-8a82-0e0aabfba793",
+      "shortId": "7H3KYG",
+      "name": "Newbie#1",
+      "role": "USER",
+      "level": 87
+    },
+    "message": "/price [Reaper||BODY_SKIN|LEGENDARY]",
+    "timestamp": "2026-05-13T05:03:33.245Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "ec92f407-cbda-4140-8a82-0e0aabfba793",
+      "shortId": "7H3KYG",
+      "name": "Newbie#1",
+      "role": "USER",
+      "level": 87
+    },
+    "message": "/price [Moon||BODY_SKIN|LEGENDARY]",
+    "timestamp": "2026-05-13T05:03:38.290Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "ec92f407-cbda-4140-8a82-0e0aabfba793",
+      "shortId": "7H3KYG",
+      "name": "Newbie#1",
+      "role": "USER",
+      "level": 87
+    },
+    "message": "/price [Shroud||BODY_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-13T05:03:44.160Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "ec92f407-cbda-4140-8a82-0e0aabfba793",
+      "shortId": "7H3KYG",
+      "name": "Newbie#1",
+      "role": "USER",
+      "level": 87
+    },
+    "message": "/price [Ritual|Bayonet|WEAPON_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-13T05:04:14.701Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "ec92f407-cbda-4140-8a82-0e0aabfba793",
+      "shortId": "7H3KYG",
+      "name": "Newbie#1",
+      "role": "USER",
+      "level": 87
+    },
+    "message": "/price [Twilight|Bayonet|WEAPON_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-13T05:04:30.173Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "ec92f407-cbda-4140-8a82-0e0aabfba793",
+      "shortId": "7H3KYG",
+      "name": "Newbie#1",
+      "role": "USER",
+      "level": 87
+    },
+    "message": "trading 1000 [Ice||CHEST|EPIC]",
+    "timestamp": "2026-05-13T05:05:53.793Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "ec92f407-cbda-4140-8a82-0e0aabfba793",
+      "shortId": "7H3KYG",
+      "name": "Newbie#1",
+      "role": "USER",
+      "level": 87
+    },
+    "message": "trading 20000 [Golden||CHEST|LEGENDARY]",
+    "timestamp": "2026-05-13T05:06:42.832Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "ec92f407-cbda-4140-8a82-0e0aabfba793",
+      "shortId": "7H3KYG",
+      "name": "Newbie#1",
+      "role": "USER",
+      "level": 87
+    },
+    "message": "ANyone wants 20000 [Golden||CHEST|LEGENDARY]",
+    "timestamp": "2026-05-13T05:07:00.407Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "ec92f407-cbda-4140-8a82-0e0aabfba793",
+      "shortId": "7H3KYG",
+      "name": "Newbie#1",
+      "role": "USER",
+      "level": 87
+    },
+    "message": "#HUB956 bre",
+    "timestamp": "2026-05-13T05:07:14.664Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "ec92f407-cbda-4140-8a82-0e0aabfba793",
+      "shortId": "7H3KYG",
+      "name": "Newbie#1",
+      "role": "USER",
+      "level": 87
+    },
+    "message": "no",
+    "timestamp": "2026-05-13T05:07:15.804Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "ec92f407-cbda-4140-8a82-0e0aabfba793",
+      "shortId": "7H3KYG",
+      "name": "Newbie#1",
+      "role": "USER",
+      "level": 87
+    },
+    "message": "#HUB956 u want [void ar-9}",
+    "timestamp": "2026-05-13T05:07:39.335Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "ec92f407-cbda-4140-8a82-0e0aabfba793",
+      "shortId": "7H3KYG",
+      "name": "Newbie#1",
+      "role": "USER",
+      "level": 87
+    },
+    "message": "[Void AR-9|AR-9|WEAPON_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-13T05:07:49.356Z"
+  }
+]
