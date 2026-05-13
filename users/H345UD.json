@@ -514,5 +514,101 @@
     },
     "message": "67",
     "timestamp": "2026-05-12T01:41:23.627Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "4565adc2-154f-4217-b2fc-56369a378692",
+      "shortId": "H345UD",
+      "name": "Hybrid",
+      "role": "USER",
+      "level": 26
+    },
+    "message": "/claim",
+    "timestamp": "2026-05-12T17:38:57.394Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "4565adc2-154f-4217-b2fc-56369a378692",
+      "shortId": "H345UD",
+      "name": "Hybrid",
+      "role": "USER",
+      "level": 26
+    },
+    "message": "/hm forbidden",
+    "timestamp": "2026-05-12T17:39:09.716Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "4565adc2-154f-4217-b2fc-56369a378692",
+      "shortId": "H345UD",
+      "name": "Hybrid",
+      "role": "USER",
+      "level": 26
+    },
+    "message": "67",
+    "timestamp": "2026-05-12T17:39:23.960Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "4565adc2-154f-4217-b2fc-56369a378692",
+      "shortId": "H345UD",
+      "name": "Hybrid",
+      "role": "USER",
+      "level": 26
+    },
+    "message": "6767",
+    "timestamp": "2026-05-12T17:39:26.806Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "4565adc2-154f-4217-b2fc-56369a378692",
+      "shortId": "H345UD",
+      "name": "Hybrid",
+      "role": "USER",
+      "level": 26
+    },
+    "message": "67",
+    "timestamp": "2026-05-12T17:39:28.072Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "4565adc2-154f-4217-b2fc-56369a378692",
+      "shortId": "H345UD",
+      "name": "Hybrid",
+      "role": "USER",
+      "level": 26
+    },
+    "message": "677",
+    "timestamp": "2026-05-12T17:39:29.515Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "4565adc2-154f-4217-b2fc-56369a378692",
+      "shortId": "H345UD",
+      "name": "Hybrid",
+      "role": "USER",
+      "level": 26
+    },
+    "message": "ayy 67",
+    "timestamp": "2026-05-12T17:39:37.749Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "4565adc2-154f-4217-b2fc-56369a378692",
+      "shortId": "H345UD",
+      "name": "Hybrid",
+      "role": "USER",
+      "level": 26
+    },
+    "message": "67",
+    "timestamp": "2026-05-12T18:00:38.094Z"
   }
 ]
