@@ -250,5 +250,17 @@
     },
     "message": "who has [Onryo||BODY_SKIN|MYTHICAL]",
     "timestamp": "2026-05-12T07:19:26.807Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "2760683e-aa41-44d2-a695-3251af55423d",
+      "shortId": "EH6Y4R",
+      "name": "PREDATOR",
+      "role": "USER",
+      "level": 43
+    },
+    "message": "i want [Onryo||BODY_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-13T08:50:59.323Z"
   }
 ]
