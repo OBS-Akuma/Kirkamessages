@@ -22,5 +22,29 @@
     },
     "message": "/hm borg",
     "timestamp": "2026-05-12T22:09:25.425Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "c5594c31-6c15-414e-bc4e-080d2d75ee86",
+      "shortId": "Z1OYTP",
+      "name": "masterthelag",
+      "role": "USER",
+      "level": 96
+    },
+    "message": "/hm melody",
+    "timestamp": "2026-05-12T22:39:44.245Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "c5594c31-6c15-414e-bc4e-080d2d75ee86",
+      "shortId": "Z1OYTP",
+      "name": "masterthelag",
+      "role": "USER",
+      "level": 96
+    },
+    "message": "/hm forbidden",
+    "timestamp": "2026-05-12T22:53:30.686Z"
   }
 ]
