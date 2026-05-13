@@ -10,5 +10,29 @@
     },
     "message": "who got romahawk skins",
     "timestamp": "2026-05-12T11:13:10.282Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "6285b2a1-03a2-4df3-bd4b-65900c112a2e",
+      "shortId": "4XCV3Y",
+      "name": "Ge0meTry",
+      "role": "USER",
+      "level": 98
+    },
+    "message": "hello",
+    "timestamp": "2026-05-13T12:08:30.795Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "6285b2a1-03a2-4df3-bd4b-65900c112a2e",
+      "shortId": "4XCV3Y",
+      "name": "Ge0meTry",
+      "role": "USER",
+      "level": 98
+    },
+    "message": "/inv",
+    "timestamp": "2026-05-13T12:08:32.875Z"
   }
 ]
