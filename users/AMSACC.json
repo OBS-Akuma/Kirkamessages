@@ -118,5 +118,77 @@
     },
     "message": "/hm [Golem||BODY_SKIN|MYTHICAL]",
     "timestamp": "2026-05-12T03:11:48.757Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "I5ej63ppmJhA5kC8oeXzfzXlWCE3",
+      "shortId": "AMSACC",
+      "name": "The_Pharaoh",
+      "role": "USER",
+      "level": 73
+    },
+    "message": "[Shotdead|VITA|WEAPON_SKIN|MYTHICAL],[Wrap|VITA|WEAPON_SKIN|LEGENDARY],[Dragonic VITA|VITA|WEAPON_SKIN|MYTHICAL],[2026 VITA|VITA|WEAPON_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-12T21:49:20.999Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "I5ej63ppmJhA5kC8oeXzfzXlWCE3",
+      "shortId": "AMSACC",
+      "name": "The_Pharaoh",
+      "role": "USER",
+      "level": 73
+    },
+    "message": "[Flarefang|Bayonet|WEAPON_SKIN|MYTHICAL],[Alighted|Bayonet|WEAPON_SKIN|MYTHICAL],[Apple|Bayonet|WEAPON_SKIN|LEGENDARY],[2026 Bayonet|Bayonet|WEAPON_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-12T21:53:12.950Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "I5ej63ppmJhA5kC8oeXzfzXlWCE3",
+      "shortId": "AMSACC",
+      "name": "The_Pharaoh",
+      "role": "USER",
+      "level": 73
+    },
+    "message": "#ZLSGY1 offer on fallen",
+    "timestamp": "2026-05-12T21:54:53.398Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "I5ej63ppmJhA5kC8oeXzfzXlWCE3",
+      "shortId": "AMSACC",
+      "name": "The_Pharaoh",
+      "role": "USER",
+      "level": 73
+    },
+    "message": "[Rabbit|Shark|WEAPON_SKIN|MYTHICAL],[Spooder|Shark|WEAPON_SKIN|MYTHICAL],[Nyan Shark|Shark|WEAPON_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-12T21:58:26.245Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "I5ej63ppmJhA5kC8oeXzfzXlWCE3",
+      "shortId": "AMSACC",
+      "name": "The_Pharaoh",
+      "role": "USER",
+      "level": 73
+    },
+    "message": "/wager [Hallowkod||BODY_SKIN|MYTHICAL] #K8ZPFQ",
+    "timestamp": "2026-05-12T22:03:55.524Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "I5ej63ppmJhA5kC8oeXzfzXlWCE3",
+      "shortId": "AMSACC",
+      "name": "The_Pharaoh",
+      "role": "USER",
+      "level": 73
+    },
+    "message": "/cancelwager",
+    "timestamp": "2026-05-12T22:04:07.686Z"
   }
 ]
