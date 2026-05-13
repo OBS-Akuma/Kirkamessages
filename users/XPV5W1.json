@@ -226,5 +226,77 @@
     },
     "message": "hi",
     "timestamp": "2026-05-11T05:22:08.947Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "dd70471f-a36c-4dab-af4a-36d6582008da",
+      "shortId": "XPV5W1",
+      "name": "Annihilator.",
+      "role": "USER",
+      "level": 88
+    },
+    "message": "[02]",
+    "timestamp": "2026-05-13T08:05:31.018Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "dd70471f-a36c-4dab-af4a-36d6582008da",
+      "shortId": "XPV5W1",
+      "name": "Annihilator.",
+      "role": "USER",
+      "level": 88
+    },
+    "message": "[bipolar]",
+    "timestamp": "2026-05-13T08:05:47.377Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "dd70471f-a36c-4dab-af4a-36d6582008da",
+      "shortId": "XPV5W1",
+      "name": "Annihilator.",
+      "role": "USER",
+      "level": 88
+    },
+    "message": "/pr [Sensei||BODY_SKIN|LEGENDARY]",
+    "timestamp": "2026-05-13T08:06:11.275Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "dd70471f-a36c-4dab-af4a-36d6582008da",
+      "shortId": "XPV5W1",
+      "name": "Annihilator.",
+      "role": "USER",
+      "level": 88
+    },
+    "message": "hi",
+    "timestamp": "2026-05-13T09:53:47.395Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "dd70471f-a36c-4dab-af4a-36d6582008da",
+      "shortId": "XPV5W1",
+      "name": "Annihilator.",
+      "role": "USER",
+      "level": 88
+    },
+    "message": "/price [Blast SCAR|SCAR|WEAPON_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-13T09:54:00.398Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "dd70471f-a36c-4dab-af4a-36d6582008da",
+      "shortId": "XPV5W1",
+      "name": "Annihilator.",
+      "role": "USER",
+      "level": 88
+    },
+    "message": "/price [Nova|SCAR|WEAPON_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-13T09:54:14.502Z"
   }
 ]
