@@ -1,0 +1,26 @@
+[
+  {
+    "type": 2,
+    "user": {
+      "id": "2ee0a2bf-75f0-4c31-b6e2-a72c29143ecd",
+      "shortId": "6O1PTT",
+      "name": "miku",
+      "role": "USER",
+      "level": 99
+    },
+    "message": "/giveaway",
+    "timestamp": "2026-05-13T23:38:46.745Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "2ee0a2bf-75f0-4c31-b6e2-a72c29143ecd",
+      "shortId": "6O1PTT",
+      "name": "miku",
+      "role": "USER",
+      "level": 99
+    },
+    "message": "/giveaway [All Spark|Revolver|WEAPON_SKIN|MYTHICAL]x1 10m",
+    "timestamp": "2026-05-13T23:40:31.023Z"
+  }
+]
