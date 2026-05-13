@@ -886,5 +886,17 @@
     },
     "message": "injoy",
     "timestamp": "2026-05-07T22:22:58.522Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "99348ff4-3989-457c-b6a5-2f5c3239c4fa",
+      "shortId": "T9OX5E",
+      "name": "EnZo",
+      "role": "USER",
+      "level": 30
+    },
+    "message": "np",
+    "timestamp": "2026-05-13T22:35:36.718Z"
   }
 ]
