@@ -166,5 +166,53 @@
     },
     "message": "Sorry tha'll be a lost",
     "timestamp": "2026-05-12T05:42:08.997Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "JjbaAxDVXtUSyHMHRHax0phxF6A3",
+      "shortId": "85OKB1",
+      "name": "BravePotato.eF",
+      "role": "USER",
+      "level": 63
+    },
+    "message": "Lost bhai koi gelen?",
+    "timestamp": "2026-05-13T11:26:53.344Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "JjbaAxDVXtUSyHMHRHax0phxF6A3",
+      "shortId": "85OKB1",
+      "name": "BravePotato.eF",
+      "role": "USER",
+      "level": 63
+    },
+    "message": "Does anyone have a good skin of bayonet?",
+    "timestamp": "2026-05-13T11:46:13.616Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "JjbaAxDVXtUSyHMHRHax0phxF6A3",
+      "shortId": "85OKB1",
+      "name": "BravePotato.eF",
+      "role": "USER",
+      "level": 63
+    },
+    "message": "Excuse me?",
+    "timestamp": "2026-05-13T11:47:02.468Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "JjbaAxDVXtUSyHMHRHax0phxF6A3",
+      "shortId": "85OKB1",
+      "name": "BravePotato.eF",
+      "role": "USER",
+      "level": 63
+    },
+    "message": "Can I buy a good skin of bayonet?",
+    "timestamp": "2026-05-13T11:47:38.509Z"
   }
 ]
