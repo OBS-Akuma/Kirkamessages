@@ -10,5 +10,17 @@
     },
     "message": "/enter",
     "timestamp": "2026-05-08T09:03:25.078Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "a699fdb7-17ce-49c5-a234-97d7cf9a40a4",
+      "shortId": "BL7TQQ",
+      "name": "A_Will_Eternal",
+      "role": "USER",
+      "level": 12
+    },
+    "message": "BRUH",
+    "timestamp": "2026-05-13T05:30:28.896Z"
   }
 ]
