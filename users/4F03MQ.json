@@ -6634,5 +6634,29 @@
     },
     "message": "/hm [LOL||BODY_SKIN|EPIC]",
     "timestamp": "2026-05-13T08:46:32.311Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "2d057859-f79e-4ba4-825b-4c368a83535c",
+      "shortId": "4F03MQ",
+      "name": "The_Re@per",
+      "role": "USER",
+      "level": 62
+    },
+    "message": "is [LMAO||BODY_SKIN|MYTHICAL] rare",
+    "timestamp": "2026-05-13T19:51:56.291Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "2d057859-f79e-4ba4-825b-4c368a83535c",
+      "shortId": "4F03MQ",
+      "name": "The_Re@per",
+      "role": "USER",
+      "level": 62
+    },
+    "message": "cuz I traded it for [Ghillie||BODY_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-13T19:52:08.417Z"
   }
 ]
