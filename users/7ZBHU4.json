@@ -12680,7 +12680,7 @@
       "role": "USER",
       "level": 81
     },
-    "message": "ÃÂ°ÃÂÃÂ¥ÃÂÃÂ°ÃÂÃÂÃÂ­",
+    "message": "ÃÂÃÂ°ÃÂÃÂÃÂÃÂ¥ÃÂÃÂÃÂÃÂ°ÃÂÃÂÃÂÃÂÃÂÃÂ­",
     "timestamp": "2026-05-13T02:31:53.242Z"
   },
   {
@@ -13102,5 +13102,41 @@
     },
     "message": "trading melody",
     "timestamp": "2026-05-13T06:14:05.876Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "33988dd7-9acc-4279-89a5-40343121a95f",
+      "shortId": "7ZBHU4",
+      "name": "bloodyrawr",
+      "role": "USER",
+      "level": 81
+    },
+    "message": "anyone want wager?",
+    "timestamp": "2026-05-13T07:20:06.463Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "33988dd7-9acc-4279-89a5-40343121a95f",
+      "shortId": "7ZBHU4",
+      "name": "bloodyrawr",
+      "role": "USER",
+      "level": 81
+    },
+    "message": "#2HPWTQ I have melody and pastel to wager",
+    "timestamp": "2026-05-13T07:21:13.562Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "33988dd7-9acc-4279-89a5-40343121a95f",
+      "shortId": "7ZBHU4",
+      "name": "bloodyrawr",
+      "role": "USER",
+      "level": 81
+    },
+    "message": "lf wager",
+    "timestamp": "2026-05-13T07:21:36.434Z"
   }
 ]
