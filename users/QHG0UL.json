@@ -94,5 +94,65 @@
     },
     "message": "/hm nova",
     "timestamp": "2026-05-13T17:37:52.657Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "LvZ3s7PpbvTithiWmkSLtHj14Sq1",
+      "shortId": "QHG0UL",
+      "name": "INDONESIAN",
+      "role": "USER",
+      "level": 19
+    },
+    "message": "who got [Nova|SCAR|WEAPON_SKIN|MYTHICAL] i will play 6.5lkah",
+    "timestamp": "2026-05-13T18:35:36.734Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "LvZ3s7PpbvTithiWmkSLtHj14Sq1",
+      "shortId": "QHG0UL",
+      "name": "INDONESIAN",
+      "role": "USER",
+      "level": 19
+    },
+    "message": "who got [Nova|SCAR|WEAPON_SKIN|MYTHICAL] i will pay 6.5lakh",
+    "timestamp": "2026-05-13T18:36:14.654Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "LvZ3s7PpbvTithiWmkSLtHj14Sq1",
+      "shortId": "QHG0UL",
+      "name": "INDONESIAN",
+      "role": "USER",
+      "level": 19
+    },
+    "message": "[Diane|Shark|WEAPON_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-13T18:43:55.614Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "LvZ3s7PpbvTithiWmkSLtHj14Sq1",
+      "shortId": "QHG0UL",
+      "name": "INDONESIAN",
+      "role": "USER",
+      "level": 19
+    },
+    "message": "/hm [Diane|Shark|WEAPON_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-13T18:44:03.516Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "LvZ3s7PpbvTithiWmkSLtHj14Sq1",
+      "shortId": "QHG0UL",
+      "name": "INDONESIAN",
+      "role": "USER",
+      "level": 19
+    },
+    "message": "/inv",
+    "timestamp": "2026-05-13T18:45:12.129Z"
   }
 ]
