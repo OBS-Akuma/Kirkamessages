@@ -1801,7 +1801,7 @@
       "role": "USER",
       "level": 87
     },
-    "message": "EGD broo sorry sorryÃÂÃÂÃÂÃÂ°ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ­i dont wnt melody sht",
+    "message": "EGD broo sorry sorryÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ°ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ­i dont wnt melody sht",
     "timestamp": "2026-05-12T18:37:42.072Z"
   },
   {
@@ -3303,5 +3303,41 @@
     },
     "message": "/hm skyboy",
     "timestamp": "2026-05-13T08:23:22.499Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "92e1d618-7d71-4c20-8857-4d98f4aadf54",
+      "shortId": "L7K5B3",
+      "name": "Born.1of1",
+      "role": "USER",
+      "level": 87
+    },
+    "message": "/inv",
+    "timestamp": "2026-05-13T09:16:51.529Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "92e1d618-7d71-4c20-8857-4d98f4aadf54",
+      "shortId": "L7K5B3",
+      "name": "Born.1of1",
+      "role": "USER",
+      "level": 87
+    },
+    "message": "Yes EGD?",
+    "timestamp": "2026-05-13T09:21:44.992Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "92e1d618-7d71-4c20-8857-4d98f4aadf54",
+      "shortId": "L7K5B3",
+      "name": "Born.1of1",
+      "role": "USER",
+      "level": 87
+    },
+    "message": "EGD yess?",
+    "timestamp": "2026-05-13T09:22:00.898Z"
   }
 ]
