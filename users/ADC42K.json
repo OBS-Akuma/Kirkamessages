@@ -4246,5 +4246,29 @@
     },
     "message": "what is this /naruto",
     "timestamp": "2026-05-12T22:56:40.130Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "0c505348-c30c-4cbb-b666-b5ae990acec1",
+      "shortId": "ADC42K",
+      "name": "THEBAND",
+      "role": "USER",
+      "level": 17
+    },
+    "message": "lf [Rose||BODY_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-13T01:39:54.738Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "0c505348-c30c-4cbb-b666-b5ae990acec1",
+      "shortId": "ADC42K",
+      "name": "THEBAND",
+      "role": "USER",
+      "level": 17
+    },
+    "message": "hisoka do u have [Rose||BODY_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-13T01:40:55.143Z"
   }
 ]
