@@ -46,5 +46,41 @@
     },
     "message": "300k",
     "timestamp": "2026-05-12T08:11:45.616Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "080e4809-a68a-46b2-a014-5a07bce503ab",
+      "shortId": "Q87FQ9",
+      "name": "Chacha",
+      "role": "USER",
+      "level": 95
+    },
+    "message": "Buy dynasty from market in 2000000 _-",
+    "timestamp": "2026-05-13T18:32:27.285Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "080e4809-a68a-46b2-a014-5a07bce503ab",
+      "shortId": "Q87FQ9",
+      "name": "Chacha",
+      "role": "USER",
+      "level": 95
+    },
+    "message": "guys buy dynasty from market , shh get for urself before anyone takes it",
+    "timestamp": "2026-05-13T18:33:27.908Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "080e4809-a68a-46b2-a014-5a07bce503ab",
+      "shortId": "Q87FQ9",
+      "name": "Chacha",
+      "role": "USER",
+      "level": 95
+    },
+    "message": "_-)",
+    "timestamp": "2026-05-13T18:33:34.353Z"
   }
 ]
