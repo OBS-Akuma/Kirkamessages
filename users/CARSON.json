@@ -1042,5 +1042,17 @@
     },
     "message": "fuh nuh",
     "timestamp": "2026-05-13T02:32:12.571Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "9760c58b-fc34-425a-8d81-a957ad5a75c1",
+      "shortId": "CARSON",
+      "name": "YT-CqrsonFPS",
+      "role": "USER",
+      "level": 98
+    },
+    "message": "[Sinister||BODY_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-13T12:48:41.345Z"
   }
 ]
