@@ -238,5 +238,65 @@
     },
     "message": "quests not loading?",
     "timestamp": "2026-05-12T18:09:23.076Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "455090b1-947f-4466-9511-e5f91fc2245b",
+      "shortId": "U1BUEI",
+      "name": "dispersion",
+      "role": "USER",
+      "level": 101
+    },
+    "message": "i want that caramel",
+    "timestamp": "2026-05-13T18:28:49.181Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "455090b1-947f-4466-9511-e5f91fc2245b",
+      "shortId": "U1BUEI",
+      "name": "dispersion",
+      "role": "USER",
+      "level": 101
+    },
+    "message": "hiiiiiiii <3",
+    "timestamp": "2026-05-13T18:29:43.110Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "455090b1-947f-4466-9511-e5f91fc2245b",
+      "shortId": "U1BUEI",
+      "name": "dispersion",
+      "role": "USER",
+      "level": 101
+    },
+    "message": "chillin wbu",
+    "timestamp": "2026-05-13T18:29:59.555Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "455090b1-947f-4466-9511-e5f91fc2245b",
+      "shortId": "U1BUEI",
+      "name": "dispersion",
+      "role": "USER",
+      "level": 101
+    },
+    "message": "no i dont have",
+    "timestamp": "2026-05-13T18:30:08.058Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "455090b1-947f-4466-9511-e5f91fc2245b",
+      "shortId": "U1BUEI",
+      "name": "dispersion",
+      "role": "USER",
+      "level": 101
+    },
+    "message": "/inv",
+    "timestamp": "2026-05-13T20:13:57.990Z"
   }
 ]
