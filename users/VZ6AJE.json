@@ -82,5 +82,41 @@
     },
     "message": "How many turtles do you have",
     "timestamp": "2026-05-10T23:49:21.358Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "0e0253e4-94fe-4c73-bb1f-d26f1ba38b19",
+      "shortId": "VZ6AJE",
+      "name": "Newbie.",
+      "role": "USER",
+      "level": 37
+    },
+    "message": "LF [Turtle|Bayonet|WEAPON_SKIN|MYTHICAL]s",
+    "timestamp": "2026-05-13T12:05:20.673Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "0e0253e4-94fe-4c73-bb1f-d26f1ba38b19",
+      "shortId": "VZ6AJE",
+      "name": "Newbie.",
+      "role": "USER",
+      "level": 37
+    },
+    "message": "polar for hellspawn",
+    "timestamp": "2026-05-13T12:05:56.491Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "0e0253e4-94fe-4c73-bb1f-d26f1ba38b19",
+      "shortId": "VZ6AJE",
+      "name": "Newbie.",
+      "role": "USER",
+      "level": 37
+    },
+    "message": "/price [Puppet||BODY_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-13T12:48:30.986Z"
   }
 ]
