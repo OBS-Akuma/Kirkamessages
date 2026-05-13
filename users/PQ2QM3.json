@@ -5758,5 +5758,29 @@
     },
     "message": "that's fair",
     "timestamp": "2026-05-13T09:26:23.840Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "f20b7a06-4259-43c3-8ec1-51c98ab462c9",
+      "shortId": "PQ2QM3",
+      "name": "Rencyy__",
+      "role": "USER",
+      "level": 30
+    },
+    "message": "yo what u wanna trade for",
+    "timestamp": "2026-05-13T21:00:02.478Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "f20b7a06-4259-43c3-8ec1-51c98ab462c9",
+      "shortId": "PQ2QM3",
+      "name": "Rencyy__",
+      "role": "USER",
+      "level": 30
+    },
+    "message": "yo /._. what u got",
+    "timestamp": "2026-05-13T21:00:40.590Z"
   }
 ]
