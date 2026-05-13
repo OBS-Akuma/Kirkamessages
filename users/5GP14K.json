@@ -5578,5 +5578,785 @@
     },
     "message": "*luck",
     "timestamp": "2026-05-13T08:22:27.622Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "ccb0989c-752e-489f-a2a2-cacbd0491076",
+      "shortId": "5GP14K",
+      "name": "Dr.strange",
+      "role": "USER",
+      "level": 84
+    },
+    "message": "I don't have more",
+    "timestamp": "2026-05-13T08:22:38.332Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "ccb0989c-752e-489f-a2a2-cacbd0491076",
+      "shortId": "5GP14K",
+      "name": "Dr.strange",
+      "role": "USER",
+      "level": 84
+    },
+    "message": "Wagering [Citrouille||BODY_SKIN|LEGENDARY],[Magic|Shark|WEAPON_SKIN|MYTHICAL],[Landoh|VITA|WEAPON_SKIN|LEGENDARY]!!!!!",
+    "timestamp": "2026-05-13T08:23:02.887Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "ccb0989c-752e-489f-a2a2-cacbd0491076",
+      "shortId": "5GP14K",
+      "name": "Dr.strange",
+      "role": "USER",
+      "level": 84
+    },
+    "message": "/price randoh",
+    "timestamp": "2026-05-13T08:23:14.709Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "ccb0989c-752e-489f-a2a2-cacbd0491076",
+      "shortId": "5GP14K",
+      "name": "Dr.strange",
+      "role": "USER",
+      "level": 84
+    },
+    "message": "/hm landoh",
+    "timestamp": "2026-05-13T08:23:22.107Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "ccb0989c-752e-489f-a2a2-cacbd0491076",
+      "shortId": "5GP14K",
+      "name": "Dr.strange",
+      "role": "USER",
+      "level": 84
+    },
+    "message": "Who wanna wager [Citrouille||BODY_SKIN|LEGENDARY]????",
+    "timestamp": "2026-05-13T08:23:33.423Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "ccb0989c-752e-489f-a2a2-cacbd0491076",
+      "shortId": "5GP14K",
+      "name": "Dr.strange",
+      "role": "USER",
+      "level": 84
+    },
+    "message": "/wager [Golden||CHEST|LEGENDARY]x130 #609GEM",
+    "timestamp": "2026-05-13T08:24:11.447Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "ccb0989c-752e-489f-a2a2-cacbd0491076",
+      "shortId": "5GP14K",
+      "name": "Dr.strange",
+      "role": "USER",
+      "level": 84
+    },
+    "message": "#FKKLN0 i have [Citrouille||BODY_SKIN|LEGENDARY]",
+    "timestamp": "2026-05-13T08:24:42.422Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "ccb0989c-752e-489f-a2a2-cacbd0491076",
+      "shortId": "5GP14K",
+      "name": "Dr.strange",
+      "role": "USER",
+      "level": 84
+    },
+    "message": "Fck my luckk",
+    "timestamp": "2026-05-13T08:24:47.151Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "ccb0989c-752e-489f-a2a2-cacbd0491076",
+      "shortId": "5GP14K",
+      "name": "Dr.strange",
+      "role": "USER",
+      "level": 84
+    },
+    "message": "#FKKLN0offer?",
+    "timestamp": "2026-05-13T08:25:05.292Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "ccb0989c-752e-489f-a2a2-cacbd0491076",
+      "shortId": "5GP14K",
+      "name": "Dr.strange",
+      "role": "USER",
+      "level": 84
+    },
+    "message": "#609GEMWager [Magic|Shark|WEAPON_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-13T08:25:16.135Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "ccb0989c-752e-489f-a2a2-cacbd0491076",
+      "shortId": "5GP14K",
+      "name": "Dr.strange",
+      "role": "USER",
+      "level": 84
+    },
+    "message": "/wager [Diane|Shark|WEAPON_SKIN|MYTHICAL] #609GEM",
+    "timestamp": "2026-05-13T08:25:53.930Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "ccb0989c-752e-489f-a2a2-cacbd0491076",
+      "shortId": "5GP14K",
+      "name": "Dr.strange",
+      "role": "USER",
+      "level": 84
+    },
+    "message": "#FKKLN0yeM",
+    "timestamp": "2026-05-13T08:26:04.103Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "ccb0989c-752e-489f-a2a2-cacbd0491076",
+      "shortId": "5GP14K",
+      "name": "Dr.strange",
+      "role": "USER",
+      "level": 84
+    },
+    "message": "/wager [Diane|Shark|WEAPON_SKIN|MYTHICAL] #609GEM",
+    "timestamp": "2026-05-13T08:26:15.752Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "ccb0989c-752e-489f-a2a2-cacbd0491076",
+      "shortId": "5GP14K",
+      "name": "Dr.strange",
+      "role": "USER",
+      "level": 84
+    },
+    "message": "#FKKLN0 citrouille is 2m",
+    "timestamp": "2026-05-13T08:26:44.408Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "ccb0989c-752e-489f-a2a2-cacbd0491076",
+      "shortId": "5GP14K",
+      "name": "Dr.strange",
+      "role": "USER",
+      "level": 84
+    },
+    "message": "Fck my luckk",
+    "timestamp": "2026-05-13T08:26:53.221Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "ccb0989c-752e-489f-a2a2-cacbd0491076",
+      "shortId": "5GP14K",
+      "name": "Dr.strange",
+      "role": "USER",
+      "level": 84
+    },
+    "message": "Venom",
+    "timestamp": "2026-05-13T08:27:07.622Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "ccb0989c-752e-489f-a2a2-cacbd0491076",
+      "shortId": "5GP14K",
+      "name": "Dr.strange",
+      "role": "USER",
+      "level": 84
+    },
+    "message": "Slide me something #609GEM",
+    "timestamp": "2026-05-13T08:31:31.823Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "ccb0989c-752e-489f-a2a2-cacbd0491076",
+      "shortId": "5GP14K",
+      "name": "Dr.strange",
+      "role": "USER",
+      "level": 84
+    },
+    "message": "I lost 190m broo",
+    "timestamp": "2026-05-13T08:32:06.152Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "ccb0989c-752e-489f-a2a2-cacbd0491076",
+      "shortId": "5GP14K",
+      "name": "Dr.strange",
+      "role": "USER",
+      "level": 84
+    },
+    "message": "I am now just like 2-4m",
+    "timestamp": "2026-05-13T08:32:16.033Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "ccb0989c-752e-489f-a2a2-cacbd0491076",
+      "shortId": "5GP14K",
+      "name": "Dr.strange",
+      "role": "USER",
+      "level": 84
+    },
+    "message": "Me too",
+    "timestamp": "2026-05-13T08:32:19.022Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "ccb0989c-752e-489f-a2a2-cacbd0491076",
+      "shortId": "5GP14K",
+      "name": "Dr.strange",
+      "role": "USER",
+      "level": 84
+    },
+    "message": "My loose streak is like 30-40",
+    "timestamp": "2026-05-13T08:32:42.915Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "ccb0989c-752e-489f-a2a2-cacbd0491076",
+      "shortId": "5GP14K",
+      "name": "Dr.strange",
+      "role": "USER",
+      "level": 84
+    },
+    "message": "I don't have",
+    "timestamp": "2026-05-13T08:33:04.385Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "ccb0989c-752e-489f-a2a2-cacbd0491076",
+      "shortId": "5GP14K",
+      "name": "Dr.strange",
+      "role": "USER",
+      "level": 84
+    },
+    "message": "I donthave",
+    "timestamp": "2026-05-13T08:33:17.112Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "ccb0989c-752e-489f-a2a2-cacbd0491076",
+      "shortId": "5GP14K",
+      "name": "Dr.strange",
+      "role": "USER",
+      "level": 84
+    },
+    "message": "Wanna cf?",
+    "timestamp": "2026-05-13T08:33:22.654Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "ccb0989c-752e-489f-a2a2-cacbd0491076",
+      "shortId": "5GP14K",
+      "name": "Dr.strange",
+      "role": "USER",
+      "level": 84
+    },
+    "message": "Do wager cf like 1 week ago",
+    "timestamp": "2026-05-13T08:33:47.923Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "ccb0989c-752e-489f-a2a2-cacbd0491076",
+      "shortId": "5GP14K",
+      "name": "Dr.strange",
+      "role": "USER",
+      "level": 84
+    },
+    "message": "When you planned me of scamm",
+    "timestamp": "2026-05-13T08:34:15.057Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "ccb0989c-752e-489f-a2a2-cacbd0491076",
+      "shortId": "5GP14K",
+      "name": "Dr.strange",
+      "role": "USER",
+      "level": 84
+    },
+    "message": "Yeh",
+    "timestamp": "2026-05-13T08:34:34.103Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "ccb0989c-752e-489f-a2a2-cacbd0491076",
+      "shortId": "5GP14K",
+      "name": "Dr.strange",
+      "role": "USER",
+      "level": 84
+    },
+    "message": "Wager golden",
+    "timestamp": "2026-05-13T08:34:38.231Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "ccb0989c-752e-489f-a2a2-cacbd0491076",
+      "shortId": "5GP14K",
+      "name": "Dr.strange",
+      "role": "USER",
+      "level": 84
+    },
+    "message": "Whoever will win will get other items ok?",
+    "timestamp": "2026-05-13T08:34:51.341Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "ccb0989c-752e-489f-a2a2-cacbd0491076",
+      "shortId": "5GP14K",
+      "name": "Dr.strange",
+      "role": "USER",
+      "level": 84
+    },
+    "message": "/hm spooder",
+    "timestamp": "2026-05-13T08:35:15.831Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "ccb0989c-752e-489f-a2a2-cacbd0491076",
+      "shortId": "5GP14K",
+      "name": "Dr.strange",
+      "role": "USER",
+      "level": 84
+    },
+    "message": "/hm magic",
+    "timestamp": "2026-05-13T08:35:21.368Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "ccb0989c-752e-489f-a2a2-cacbd0491076",
+      "shortId": "5GP14K",
+      "name": "Dr.strange",
+      "role": "USER",
+      "level": 84
+    },
+    "message": "Do smt 600k",
+    "timestamp": "2026-05-13T08:35:29.287Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "ccb0989c-752e-489f-a2a2-cacbd0491076",
+      "shortId": "5GP14K",
+      "name": "Dr.strange",
+      "role": "USER",
+      "level": 84
+    },
+    "message": "Venom wanna wager or no??",
+    "timestamp": "2026-05-13T08:36:02.120Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "ccb0989c-752e-489f-a2a2-cacbd0491076",
+      "shortId": "5GP14K",
+      "name": "Dr.strange",
+      "role": "USER",
+      "level": 84
+    },
+    "message": "You had lost is on wager yesterday:(((",
+    "timestamp": "2026-05-13T08:36:25.981Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "ccb0989c-752e-489f-a2a2-cacbd0491076",
+      "shortId": "5GP14K",
+      "name": "Dr.strange",
+      "role": "USER",
+      "level": 84
+    },
+    "message": "Slide me broooooo smt",
+    "timestamp": "2026-05-13T08:36:46.502Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "ccb0989c-752e-489f-a2a2-cacbd0491076",
+      "shortId": "5GP14K",
+      "name": "Dr.strange",
+      "role": "USER",
+      "level": 84
+    },
+    "message": "I'll return it",
+    "timestamp": "2026-05-13T08:36:51.382Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "ccb0989c-752e-489f-a2a2-cacbd0491076",
+      "shortId": "5GP14K",
+      "name": "Dr.strange",
+      "role": "USER",
+      "level": 84
+    },
+    "message": "Not taking gift",
+    "timestamp": "2026-05-13T08:36:57.823Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "ccb0989c-752e-489f-a2a2-cacbd0491076",
+      "shortId": "5GP14K",
+      "name": "Dr.strange",
+      "role": "USER",
+      "level": 84
+    },
+    "message": "/mywager",
+    "timestamp": "2026-05-13T09:11:28.709Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "ccb0989c-752e-489f-a2a2-cacbd0491076",
+      "shortId": "5GP14K",
+      "name": "Dr.strange",
+      "role": "USER",
+      "level": 84
+    },
+    "message": "Who wanna wager [Citrouille||BODY_SKIN|LEGENDARY]?????",
+    "timestamp": "2026-05-13T09:11:52.149Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "ccb0989c-752e-489f-a2a2-cacbd0491076",
+      "shortId": "5GP14K",
+      "name": "Dr.strange",
+      "role": "USER",
+      "level": 84
+    },
+    "message": "Who wanna cf???",
+    "timestamp": "2026-05-13T09:12:41.598Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "ccb0989c-752e-489f-a2a2-cacbd0491076",
+      "shortId": "5GP14K",
+      "name": "Dr.strange",
+      "role": "USER",
+      "level": 84
+    },
+    "message": "#FKKLN0 no he isnot",
+    "timestamp": "2026-05-13T09:12:47.933Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "ccb0989c-752e-489f-a2a2-cacbd0491076",
+      "shortId": "5GP14K",
+      "name": "Dr.strange",
+      "role": "USER",
+      "level": 84
+    },
+    "message": "Yes",
+    "timestamp": "2026-05-13T09:13:02.372Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "ccb0989c-752e-489f-a2a2-cacbd0491076",
+      "shortId": "5GP14K",
+      "name": "Dr.strange",
+      "role": "USER",
+      "level": 84
+    },
+    "message": "[Citrouille||BODY_SKIN|LEGENDARY]??",
+    "timestamp": "2026-05-13T09:13:13.421Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "ccb0989c-752e-489f-a2a2-cacbd0491076",
+      "shortId": "5GP14K",
+      "name": "Dr.strange",
+      "role": "USER",
+      "level": 84
+    },
+    "message": "Iam broken bro",
+    "timestamp": "2026-05-13T09:13:46.606Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "ccb0989c-752e-489f-a2a2-cacbd0491076",
+      "shortId": "5GP14K",
+      "name": "Dr.strange",
+      "role": "USER",
+      "level": 84
+    },
+    "message": "[Magic|Shark|WEAPON_SKIN|MYTHICAL],[Landoh|VITA|WEAPON_SKIN|LEGENDARY],[Citrouille||BODY_SKIN|LEGENDARY]??",
+    "timestamp": "2026-05-13T09:14:11.056Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "ccb0989c-752e-489f-a2a2-cacbd0491076",
+      "shortId": "5GP14K",
+      "name": "Dr.strange",
+      "role": "USER",
+      "level": 84
+    },
+    "message": "I don't have bro",
+    "timestamp": "2026-05-13T09:14:50.142Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "ccb0989c-752e-489f-a2a2-cacbd0491076",
+      "shortId": "5GP14K",
+      "name": "Dr.strange",
+      "role": "USER",
+      "level": 84
+    },
+    "message": "Don't force me to add",
+    "timestamp": "2026-05-13T09:14:57.517Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "ccb0989c-752e-489f-a2a2-cacbd0491076",
+      "shortId": "5GP14K",
+      "name": "Dr.strange",
+      "role": "USER",
+      "level": 84
+    },
+    "message": "Nope",
+    "timestamp": "2026-05-13T09:15:08.956Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "ccb0989c-752e-489f-a2a2-cacbd0491076",
+      "shortId": "5GP14K",
+      "name": "Dr.strange",
+      "role": "USER",
+      "level": 84
+    },
+    "message": "#305Q5V slide me smt",
+    "timestamp": "2026-05-13T09:15:18.451Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "ccb0989c-752e-489f-a2a2-cacbd0491076",
+      "shortId": "5GP14K",
+      "name": "Dr.strange",
+      "role": "USER",
+      "level": 84
+    },
+    "message": "Who wanna see a good skin????",
+    "timestamp": "2026-05-13T09:15:48.765Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "ccb0989c-752e-489f-a2a2-cacbd0491076",
+      "shortId": "5GP14K",
+      "name": "Dr.strange",
+      "role": "USER",
+      "level": 84
+    },
+    "message": "[Radiance|VITA|WEAPON_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-13T09:16:09.202Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "ccb0989c-752e-489f-a2a2-cacbd0491076",
+      "shortId": "5GP14K",
+      "name": "Dr.strange",
+      "role": "USER",
+      "level": 84
+    },
+    "message": "See",
+    "timestamp": "2026-05-13T09:16:13.312Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "ccb0989c-752e-489f-a2a2-cacbd0491076",
+      "shortId": "5GP14K",
+      "name": "Dr.strange",
+      "role": "USER",
+      "level": 84
+    },
+    "message": "Was it good looking??",
+    "timestamp": "2026-05-13T09:17:04.874Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "ccb0989c-752e-489f-a2a2-cacbd0491076",
+      "shortId": "5GP14K",
+      "name": "Dr.strange",
+      "role": "USER",
+      "level": 84
+    },
+    "message": "Ye?",
+    "timestamp": "2026-05-13T09:17:37.432Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "ccb0989c-752e-489f-a2a2-cacbd0491076",
+      "shortId": "5GP14K",
+      "name": "Dr.strange",
+      "role": "USER",
+      "level": 84
+    },
+    "message": "I am too",
+    "timestamp": "2026-05-13T09:17:44.758Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "ccb0989c-752e-489f-a2a2-cacbd0491076",
+      "shortId": "5GP14K",
+      "name": "Dr.strange",
+      "role": "USER",
+      "level": 84
+    },
+    "message": "Idh sryy",
+    "timestamp": "2026-05-13T09:17:56.930Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "ccb0989c-752e-489f-a2a2-cacbd0491076",
+      "shortId": "5GP14K",
+      "name": "Dr.strange",
+      "role": "USER",
+      "level": 84
+    },
+    "message": "I lost it",
+    "timestamp": "2026-05-13T09:18:04.512Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "ccb0989c-752e-489f-a2a2-cacbd0491076",
+      "shortId": "5GP14K",
+      "name": "Dr.strange",
+      "role": "USER",
+      "level": 84
+    },
+    "message": "Ilost it",
+    "timestamp": "2026-05-13T09:18:15.689Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "ccb0989c-752e-489f-a2a2-cacbd0491076",
+      "shortId": "5GP14K",
+      "name": "Dr.strange",
+      "role": "USER",
+      "level": 84
+    },
+    "message": "Whatt???????",
+    "timestamp": "2026-05-13T09:19:08.799Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "ccb0989c-752e-489f-a2a2-cacbd0491076",
+      "shortId": "5GP14K",
+      "name": "Dr.strange",
+      "role": "USER",
+      "level": 84
+    },
+    "message": "/hm shroud",
+    "timestamp": "2026-05-13T09:19:19.033Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "ccb0989c-752e-489f-a2a2-cacbd0491076",
+      "shortId": "5GP14K",
+      "name": "Dr.strange",
+      "role": "USER",
+      "level": 84
+    },
+    "message": "Shroud is 420k",
+    "timestamp": "2026-05-13T09:19:29.709Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "ccb0989c-752e-489f-a2a2-cacbd0491076",
+      "shortId": "5GP14K",
+      "name": "Dr.strange",
+      "role": "USER",
+      "level": 84
+    },
+    "message": "That is 2m",
+    "timestamp": "2026-05-13T09:19:37.086Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "ccb0989c-752e-489f-a2a2-cacbd0491076",
+      "shortId": "5GP14K",
+      "name": "Dr.strange",
+      "role": "USER",
+      "level": 84
+    },
+    "message": "Take magic",
+    "timestamp": "2026-05-13T09:20:01.575Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "ccb0989c-752e-489f-a2a2-cacbd0491076",
+      "shortId": "5GP14K",
+      "name": "Dr.strange",
+      "role": "USER",
+      "level": 84
+    },
+    "message": "#609GEM i lost it",
+    "timestamp": "2026-05-13T09:20:09.878Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "ccb0989c-752e-489f-a2a2-cacbd0491076",
+      "shortId": "5GP14K",
+      "name": "Dr.strange",
+      "role": "USER",
+      "level": 84
+    },
+    "message": "[Landoh|VITA|WEAPON_SKIN|LEGENDARY]",
+    "timestamp": "2026-05-13T09:20:31.938Z"
   }
 ]
