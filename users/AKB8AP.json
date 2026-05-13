@@ -1,0 +1,26 @@
+[
+  {
+    "type": 2,
+    "user": {
+      "id": "f7824b01-a053-4835-b5a7-0fa4240c4ffd",
+      "shortId": "AKB8AP",
+      "name": "Diamondite",
+      "role": "USER",
+      "level": 73
+    },
+    "message": "[Marbled|MAC-10|WEAPON_SKIN|COMMON]",
+    "timestamp": "2026-05-13T19:37:51.386Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "f7824b01-a053-4835-b5a7-0fa4240c4ffd",
+      "shortId": "AKB8AP",
+      "name": "Diamondite",
+      "role": "USER",
+      "level": 73
+    },
+    "message": "[Marble|Shark|WEAPON_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-13T19:38:07.842Z"
+  }
+]
