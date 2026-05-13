@@ -1,0 +1,50 @@
+[
+  {
+    "type": 2,
+    "user": {
+      "id": "ec244aa6-dc52-4b96-baaf-e37e2f5ef19c",
+      "shortId": "PIXWRL",
+      "name": "cheers",
+      "role": "USER",
+      "level": 52
+    },
+    "message": "[Blast SCAR|SCAR|WEAPON_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-12T23:23:52.302Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "ec244aa6-dc52-4b96-baaf-e37e2f5ef19c",
+      "shortId": "PIXWRL",
+      "name": "cheers",
+      "role": "USER",
+      "level": 52
+    },
+    "message": "/price [Blast SCAR|SCAR|WEAPON_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-12T23:36:43.238Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "ec244aa6-dc52-4b96-baaf-e37e2f5ef19c",
+      "shortId": "PIXWRL",
+      "name": "cheers",
+      "role": "USER",
+      "level": 52
+    },
+    "message": "/price [Void SCAR|SCAR|WEAPON_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-12T23:37:00.044Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "ec244aa6-dc52-4b96-baaf-e37e2f5ef19c",
+      "shortId": "PIXWRL",
+      "name": "cheers",
+      "role": "USER",
+      "level": 52
+    },
+    "message": "[blast knife]",
+    "timestamp": "2026-05-12T23:37:36.069Z"
+  }
+]
