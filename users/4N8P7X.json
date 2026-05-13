@@ -202,5 +202,197 @@
     },
     "message": "wager any",
     "timestamp": "2026-05-12T17:10:35.111Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "76ab5d08-a13f-49ef-a196-e0d8551c47ab",
+      "shortId": "4N8P7X",
+      "name": "CHOOUTU",
+      "role": "USER",
+      "level": 94
+    },
+    "message": "helo",
+    "timestamp": "2026-05-13T09:50:45.614Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "76ab5d08-a13f-49ef-a196-e0d8551c47ab",
+      "shortId": "4N8P7X",
+      "name": "CHOOUTU",
+      "role": "USER",
+      "level": 94
+    },
+    "message": "Saint lora",
+    "timestamp": "2026-05-13T09:51:20.300Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "76ab5d08-a13f-49ef-a196-e0d8551c47ab",
+      "shortId": "4N8P7X",
+      "name": "CHOOUTU",
+      "role": "USER",
+      "level": 94
+    },
+    "message": "teri ma ko llan",
+    "timestamp": "2026-05-13T09:51:26.918Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "76ab5d08-a13f-49ef-a196-e0d8551c47ab",
+      "shortId": "4N8P7X",
+      "name": "CHOOUTU",
+      "role": "USER",
+      "level": 94
+    },
+    "message": "chupa",
+    "timestamp": "2026-05-13T09:51:34.186Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "76ab5d08-a13f-49ef-a196-e0d8551c47ab",
+      "shortId": "4N8P7X",
+      "name": "CHOOUTU",
+      "role": "USER",
+      "level": 94
+    },
+    "message": "/wager [Golden||CHEST|LEGENDARY]x100 #609GEM",
+    "timestamp": "2026-05-13T09:51:52.526Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "76ab5d08-a13f-49ef-a196-e0d8551c47ab",
+      "shortId": "4N8P7X",
+      "name": "CHOOUTU",
+      "role": "USER",
+      "level": 94
+    },
+    "message": "/claim",
+    "timestamp": "2026-05-13T09:53:04.378Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "76ab5d08-a13f-49ef-a196-e0d8551c47ab",
+      "shortId": "4N8P7X",
+      "name": "CHOOUTU",
+      "role": "USER",
+      "level": 94
+    },
+    "message": "Saint tera ghar se",
+    "timestamp": "2026-05-13T09:54:00.143Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "76ab5d08-a13f-49ef-a196-e0d8551c47ab",
+      "shortId": "4N8P7X",
+      "name": "CHOOUTU",
+      "role": "USER",
+      "level": 94
+    },
+    "message": "/wager [Golden||CHEST|LEGENDARY]x30",
+    "timestamp": "2026-05-13T09:54:22.613Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "76ab5d08-a13f-49ef-a196-e0d8551c47ab",
+      "shortId": "4N8P7X",
+      "name": "CHOOUTU",
+      "role": "USER",
+      "level": 94
+    },
+    "message": "/wager [Golden||CHEST|LEGENDARY]x30 #609GEM",
+    "timestamp": "2026-05-13T09:54:35.414Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "76ab5d08-a13f-49ef-a196-e0d8551c47ab",
+      "shortId": "4N8P7X",
+      "name": "CHOOUTU",
+      "role": "USER",
+      "level": 94
+    },
+    "message": "pwnster im win plz",
+    "timestamp": "2026-05-13T09:55:02.511Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "76ab5d08-a13f-49ef-a196-e0d8551c47ab",
+      "shortId": "4N8P7X",
+      "name": "CHOOUTU",
+      "role": "USER",
+      "level": 94
+    },
+    "message": "/wager [Golden||CHEST|LEGENDARY]x120 #609GEM",
+    "timestamp": "2026-05-13T09:55:40.895Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "76ab5d08-a13f-49ef-a196-e0d8551c47ab",
+      "shortId": "4N8P7X",
+      "name": "CHOOUTU",
+      "role": "USER",
+      "level": 94
+    },
+    "message": "/enter",
+    "timestamp": "2026-05-13T09:56:05.532Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "76ab5d08-a13f-49ef-a196-e0d8551c47ab",
+      "shortId": "4N8P7X",
+      "name": "CHOOUTU",
+      "role": "USER",
+      "level": 94
+    },
+    "message": "/cancelwager",
+    "timestamp": "2026-05-13T09:56:22.056Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "76ab5d08-a13f-49ef-a196-e0d8551c47ab",
+      "shortId": "4N8P7X",
+      "name": "CHOOUTU",
+      "role": "USER",
+      "level": 94
+    },
+    "message": "/calim",
+    "timestamp": "2026-05-13T09:56:30.533Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "76ab5d08-a13f-49ef-a196-e0d8551c47ab",
+      "shortId": "4N8P7X",
+      "name": "CHOOUTU",
+      "role": "USER",
+      "level": 94
+    },
+    "message": "/claim",
+    "timestamp": "2026-05-13T09:56:40.578Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "76ab5d08-a13f-49ef-a196-e0d8551c47ab",
+      "shortId": "4N8P7X",
+      "name": "CHOOUTU",
+      "role": "USER",
+      "level": 94
+    },
+    "message": "/wager [Golden||CHEST|LEGENDARY]x60 #609GEM",
+    "timestamp": "2026-05-13T09:57:08.109Z"
   }
 ]
