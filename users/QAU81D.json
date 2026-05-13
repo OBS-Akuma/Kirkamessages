@@ -34,5 +34,17 @@
     },
     "message": "HEY EVERYONE",
     "timestamp": "2026-05-11T03:25:05.152Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "guest-f2f1e677-5702-40e8-985b-1328b72feebc",
+      "shortId": "QAU81D",
+      "name": "fireeclash",
+      "role": "USER",
+      "level": 19
+    },
+    "message": "who wanna do favekel",
+    "timestamp": "2026-05-13T22:42:45.747Z"
   }
 ]
