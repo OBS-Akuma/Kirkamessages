@@ -22,5 +22,41 @@
     },
     "message": "/heads",
     "timestamp": "2026-05-04T02:45:20.416Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "43e45d7c-af2e-4e66-8cf2-c26358125248",
+      "shortId": "KVCYCH",
+      "name": "0__0",
+      "role": "USER",
+      "level": 30
+    },
+    "message": "/flip",
+    "timestamp": "2026-05-13T08:32:10.522Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "43e45d7c-af2e-4e66-8cf2-c26358125248",
+      "shortId": "KVCYCH",
+      "name": "0__0",
+      "role": "USER",
+      "level": 30
+    },
+    "message": "/heads or tails",
+    "timestamp": "2026-05-13T08:32:20.550Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "43e45d7c-af2e-4e66-8cf2-c26358125248",
+      "shortId": "KVCYCH",
+      "name": "0__0",
+      "role": "USER",
+      "level": 30
+    },
+    "message": "\\heads or tales",
+    "timestamp": "2026-05-13T08:34:03.155Z"
   }
 ]
