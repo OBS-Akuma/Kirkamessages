@@ -1294,5 +1294,53 @@
     },
     "message": "ukiyo nft sry",
     "timestamp": "2026-05-13T07:22:26.975Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "9d42e1d0-cf39-40bd-91c2-7b85e8b36233",
+      "shortId": "S2WVOK",
+      "name": "Hisoka",
+      "role": "USER",
+      "level": 95
+    },
+    "message": "hello",
+    "timestamp": "2026-05-13T12:10:59.023Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "9d42e1d0-cf39-40bd-91c2-7b85e8b36233",
+      "shortId": "S2WVOK",
+      "name": "Hisoka",
+      "role": "USER",
+      "level": 95
+    },
+    "message": "yer",
+    "timestamp": "2026-05-13T12:11:13.951Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "9d42e1d0-cf39-40bd-91c2-7b85e8b36233",
+      "shortId": "S2WVOK",
+      "name": "Hisoka",
+      "role": "USER",
+      "level": 95
+    },
+    "message": "hello",
+    "timestamp": "2026-05-13T12:11:24.105Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "9d42e1d0-cf39-40bd-91c2-7b85e8b36233",
+      "shortId": "S2WVOK",
+      "name": "Hisoka",
+      "role": "USER",
+      "level": 95
+    },
+    "message": "nah u gotta add",
+    "timestamp": "2026-05-13T12:11:46.098Z"
   }
 ]
