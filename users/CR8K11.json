@@ -82,5 +82,101 @@
     },
     "message": "/enter",
     "timestamp": "2026-05-12T16:53:58.738Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "712620e0-f974-4caf-b796-58ffab0296a9",
+      "shortId": "CR8K11",
+      "name": "!Aura-_-Xca7z!",
+      "role": "USER",
+      "level": 97
+    },
+    "message": "tr[Forbidden|AR-9|WEAPON_SKIN|MYTHICAL] lf[Godzilla|AR-9|WEAPON_SKIN|LEGENDARY]",
+    "timestamp": "2026-05-13T18:49:03.515Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "712620e0-f974-4caf-b796-58ffab0296a9",
+      "shortId": "CR8K11",
+      "name": "!Aura-_-Xca7z!",
+      "role": "USER",
+      "level": 97
+    },
+    "message": "/enter",
+    "timestamp": "2026-05-13T18:49:09.403Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "712620e0-f974-4caf-b796-58ffab0296a9",
+      "shortId": "CR8K11",
+      "name": "!Aura-_-Xca7z!",
+      "role": "USER",
+      "level": 97
+    },
+    "message": "tr [Forbidden|AR-9|WEAPON_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-13T19:10:57.430Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "712620e0-f974-4caf-b796-58ffab0296a9",
+      "shortId": "CR8K11",
+      "name": "!Aura-_-Xca7z!",
+      "role": "USER",
+      "level": 97
+    },
+    "message": "born",
+    "timestamp": "2026-05-13T19:11:27.155Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "712620e0-f974-4caf-b796-58ffab0296a9",
+      "shortId": "CR8K11",
+      "name": "!Aura-_-Xca7z!",
+      "role": "USER",
+      "level": 97
+    },
+    "message": "u trading endless",
+    "timestamp": "2026-05-13T19:11:46.430Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "712620e0-f974-4caf-b796-58ffab0296a9",
+      "shortId": "CR8K11",
+      "name": "!Aura-_-Xca7z!",
+      "role": "USER",
+      "level": 97
+    },
+    "message": "lf [Endless||BODY_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-13T19:12:21.332Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "712620e0-f974-4caf-b796-58ffab0296a9",
+      "shortId": "CR8K11",
+      "name": "!Aura-_-Xca7z!",
+      "role": "USER",
+      "level": 97
+    },
+    "message": "r",
+    "timestamp": "2026-05-13T19:21:48.722Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "712620e0-f974-4caf-b796-58ffab0296a9",
+      "shortId": "CR8K11",
+      "name": "!Aura-_-Xca7z!",
+      "role": "USER",
+      "level": 97
+    },
+    "message": "lf [Endless||BODY_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-13T19:21:48.724Z"
   }
 ]
