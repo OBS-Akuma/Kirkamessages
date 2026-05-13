@@ -562,5 +562,17 @@
     },
     "message": "/Confirmwager",
     "timestamp": "2026-05-12T15:33:37.738Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "4207d12e-c22a-4b15-951d-f55b923175c6",
+      "shortId": "IRRMVV",
+      "name": "STIFF",
+      "role": "USER",
+      "level": 72
+    },
+    "message": "/price sketch",
+    "timestamp": "2026-05-13T17:30:50.026Z"
   }
 ]
