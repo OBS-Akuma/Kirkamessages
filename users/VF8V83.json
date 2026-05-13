@@ -334,5 +334,113 @@
     },
     "message": "anyone recruiting for clans?",
     "timestamp": "2026-05-12T16:01:05.535Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "33a45ebb-52a5-4bb7-98dc-1496a9b28711",
+      "shortId": "VF8V83",
+      "name": "MommyMilkers69",
+      "role": "USER",
+      "level": 51
+    },
+    "message": "/playercount",
+    "timestamp": "2026-05-13T17:24:08.423Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "33a45ebb-52a5-4bb7-98dc-1496a9b28711",
+      "shortId": "VF8V83",
+      "name": "MommyMilkers69",
+      "role": "USER",
+      "level": 51
+    },
+    "message": "/hm [Forbidden|AR-9|WEAPON_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-13T17:24:59.004Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "33a45ebb-52a5-4bb7-98dc-1496a9b28711",
+      "shortId": "VF8V83",
+      "name": "MommyMilkers69",
+      "role": "USER",
+      "level": 51
+    },
+    "message": "offers for [Underwater|AR-9|WEAPON_SKIN|MYTHICAL] ?",
+    "timestamp": "2026-05-13T17:25:24.133Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "33a45ebb-52a5-4bb7-98dc-1496a9b28711",
+      "shortId": "VF8V83",
+      "name": "MommyMilkers69",
+      "role": "USER",
+      "level": 51
+    },
+    "message": "/playercount",
+    "timestamp": "2026-05-13T19:54:39.214Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "33a45ebb-52a5-4bb7-98dc-1496a9b28711",
+      "shortId": "VF8V83",
+      "name": "MommyMilkers69",
+      "role": "USER",
+      "level": 51
+    },
+    "message": "why does nobody buy on market after 3pm",
+    "timestamp": "2026-05-13T19:55:00.866Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "33a45ebb-52a5-4bb7-98dc-1496a9b28711",
+      "shortId": "VF8V83",
+      "name": "MommyMilkers69",
+      "role": "USER",
+      "level": 51
+    },
+    "message": "broke boys get on at night?",
+    "timestamp": "2026-05-13T19:55:08.694Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "33a45ebb-52a5-4bb7-98dc-1496a9b28711",
+      "shortId": "VF8V83",
+      "name": "MommyMilkers69",
+      "role": "USER",
+      "level": 51
+    },
+    "message": "anyone selling [Gold Coins|Bayonet|WEAPON_SKIN|LEGENDARY] ?",
+    "timestamp": "2026-05-13T19:55:37.511Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "33a45ebb-52a5-4bb7-98dc-1496a9b28711",
+      "shortId": "VF8V83",
+      "name": "MommyMilkers69",
+      "role": "USER",
+      "level": 51
+    },
+    "message": "/inv",
+    "timestamp": "2026-05-13T20:01:23.063Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "33a45ebb-52a5-4bb7-98dc-1496a9b28711",
+      "shortId": "VF8V83",
+      "name": "MommyMilkers69",
+      "role": "USER",
+      "level": 51
+    },
+    "message": "someone buy my [Cornfield|Bayonet|WEAPON_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-13T20:12:20.426Z"
   }
 ]
