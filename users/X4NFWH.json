@@ -106,5 +106,29 @@
     },
     "message": "https://kirka.io/___lobby___/NA~exxCxKZdZ",
     "timestamp": "2026-05-12T23:48:06.592Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "96baa27f-6f4c-4df6-b932-f89e2f0674c1",
+      "shortId": "X4NFWH",
+      "name": "$crim",
+      "role": "USER",
+      "level": 100
+    },
+    "message": "GAB",
+    "timestamp": "2026-05-13T21:51:18.166Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "96baa27f-6f4c-4df6-b932-f89e2f0674c1",
+      "shortId": "X4NFWH",
+      "name": "$crim",
+      "role": "USER",
+      "level": 100
+    },
+    "message": "gracias bro",
+    "timestamp": "2026-05-13T21:51:46.863Z"
   }
 ]
