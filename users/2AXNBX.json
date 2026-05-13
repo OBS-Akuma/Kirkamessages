@@ -142,5 +142,17 @@
     },
     "message": "Ola amigo",
     "timestamp": "2026-05-13T18:31:51.983Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "53aaabac-cb2f-4ad4-b330-c14e44558723",
+      "shortId": "2AXNBX",
+      "name": "KAUBOHAHA",
+      "role": "USER",
+      "level": 7
+    },
+    "message": "Who wants to get scammed?",
+    "timestamp": "2026-05-13T23:10:29.459Z"
   }
 ]
