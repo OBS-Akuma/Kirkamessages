@@ -2038,5 +2038,41 @@
     },
     "message": "/price bok",
     "timestamp": "2026-05-13T09:20:46.921Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "e7ca017c-557f-4b21-96eb-3ec2a9a728ab",
+      "shortId": "8SQMAK",
+      "name": "Eri.",
+      "role": "USER",
+      "level": 57
+    },
+    "message": "/price ceru",
+    "timestamp": "2026-05-13T22:56:59.077Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "e7ca017c-557f-4b21-96eb-3ec2a9a728ab",
+      "shortId": "8SQMAK",
+      "name": "Eri.",
+      "role": "USER",
+      "level": 57
+    },
+    "message": "/hm ceru",
+    "timestamp": "2026-05-13T22:57:49.817Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "e7ca017c-557f-4b21-96eb-3ec2a9a728ab",
+      "shortId": "8SQMAK",
+      "name": "Eri.",
+      "role": "USER",
+      "level": 57
+    },
+    "message": "/hm ortus",
+    "timestamp": "2026-05-13T22:59:29.335Z"
   }
 ]
