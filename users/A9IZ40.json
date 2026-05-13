@@ -1162,5 +1162,41 @@
     },
     "message": "okey im JUST BOREDDDDDDDDDDDDDDDDD",
     "timestamp": "2026-05-13T04:24:26.222Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "2fde3233-4f8a-4e77-bd7e-61070f06f116",
+      "shortId": "A9IZ40",
+      "name": "Evilspider111",
+      "role": "USER",
+      "level": 13
+    },
+    "message": "[join my party]",
+    "timestamp": "2026-05-13T20:18:42.512Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "2fde3233-4f8a-4e77-bd7e-61070f06f116",
+      "shortId": "A9IZ40",
+      "name": "Evilspider111",
+      "role": "USER",
+      "level": 13
+    },
+    "message": "NO",
+    "timestamp": "2026-05-13T20:18:45.965Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "2fde3233-4f8a-4e77-bd7e-61070f06f116",
+      "shortId": "A9IZ40",
+      "name": "Evilspider111",
+      "role": "USER",
+      "level": 13
+    },
+    "message": "lol",
+    "timestamp": "2026-05-13T20:18:55.718Z"
   }
 ]
