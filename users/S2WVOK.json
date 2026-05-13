@@ -1246,5 +1246,53 @@
     },
     "message": "/locate paypay p2",
     "timestamp": "2026-05-12T14:10:20.929Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "9d42e1d0-cf39-40bd-91c2-7b85e8b36233",
+      "shortId": "S2WVOK",
+      "name": "Hisoka",
+      "role": "USER",
+      "level": 95
+    },
+    "message": "/price error",
+    "timestamp": "2026-05-13T03:34:55.597Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "9d42e1d0-cf39-40bd-91c2-7b85e8b36233",
+      "shortId": "S2WVOK",
+      "name": "Hisoka",
+      "role": "USER",
+      "level": 95
+    },
+    "message": "gg",
+    "timestamp": "2026-05-13T07:21:59.275Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "9d42e1d0-cf39-40bd-91c2-7b85e8b36233",
+      "shortId": "S2WVOK",
+      "name": "Hisoka",
+      "role": "USER",
+      "level": 95
+    },
+    "message": "what",
+    "timestamp": "2026-05-13T07:22:12.524Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "9d42e1d0-cf39-40bd-91c2-7b85e8b36233",
+      "shortId": "S2WVOK",
+      "name": "Hisoka",
+      "role": "USER",
+      "level": 95
+    },
+    "message": "ukiyo nft sry",
+    "timestamp": "2026-05-13T07:22:26.975Z"
   }
 ]
