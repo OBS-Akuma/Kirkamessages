@@ -70,5 +70,29 @@
     },
     "message": "tr [2024|Bayonet|WEAPON_SKIN|MYTHICAL]",
     "timestamp": "2026-05-12T19:18:24.328Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "LvZ3s7PpbvTithiWmkSLtHj14Sq1",
+      "shortId": "QHG0UL",
+      "name": "INDONESIAN",
+      "role": "USER",
+      "level": 17
+    },
+    "message": "[Nova|SCAR|WEAPON_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-13T17:37:40.950Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "LvZ3s7PpbvTithiWmkSLtHj14Sq1",
+      "shortId": "QHG0UL",
+      "name": "INDONESIAN",
+      "role": "USER",
+      "level": 17
+    },
+    "message": "/hm nova",
+    "timestamp": "2026-05-13T17:37:52.657Z"
   }
 ]
