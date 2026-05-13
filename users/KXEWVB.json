@@ -766,5 +766,29 @@
     },
     "message": "sry for confusion",
     "timestamp": "2026-05-12T21:59:12.297Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "0da15239-6286-425f-801e-d8d93852d9cd",
+      "shortId": "KXEWVB",
+      "name": "Karma",
+      "role": "USER",
+      "level": 12
+    },
+    "message": "/donate [Carrot||BODY_SKIN|LEGENDARY]",
+    "timestamp": "2026-05-12T23:36:27.059Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "0da15239-6286-425f-801e-d8d93852d9cd",
+      "shortId": "KXEWVB",
+      "name": "Karma",
+      "role": "USER",
+      "level": 12
+    },
+    "message": "/donate [brownie]",
+    "timestamp": "2026-05-12T23:37:09.104Z"
   }
 ]
