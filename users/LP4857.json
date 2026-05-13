@@ -10,5 +10,17 @@
     },
     "message": "/enter",
     "timestamp": "2026-05-12T16:54:13.440Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "824f5346-12a0-4467-82a0-38d74053b17e",
+      "shortId": "LP4857",
+      "name": "LegacyAgain",
+      "role": "USER",
+      "level": 14
+    },
+    "message": "/hm reed",
+    "timestamp": "2026-05-13T12:10:23.115Z"
   }
 ]
