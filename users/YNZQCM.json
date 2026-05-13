@@ -46,5 +46,29 @@
     },
     "message": "I WANT FORBITEN",
     "timestamp": "2026-05-03T15:42:50.646Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "a167fdbb-a978-4d7d-9e7f-1cac411f31e6",
+      "shortId": "YNZQCM",
+      "name": "Wild_Azure",
+      "role": "USER",
+      "level": 6
+    },
+    "message": "kirkabot-0x878cbf",
+    "timestamp": "2026-05-13T06:08:47.675Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "a167fdbb-a978-4d7d-9e7f-1cac411f31e6",
+      "shortId": "YNZQCM",
+      "name": "Wild_Azure",
+      "role": "USER",
+      "level": 6
+    },
+    "message": "HI can i get smth for free?",
+    "timestamp": "2026-05-13T06:09:10.896Z"
   }
 ]
