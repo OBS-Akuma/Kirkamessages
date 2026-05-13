@@ -2290,5 +2290,149 @@
     },
     "message": "/claim",
     "timestamp": "2026-05-13T18:09:01.699Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "1b11cbe3-1e5b-405a-be00-261152eedc05",
+      "shortId": "T1XGMG",
+      "name": "j..........",
+      "role": "USER",
+      "level": 92
+    },
+    "message": "/price [Blackhole|Bayonet|WEAPON_SKIN|PARANORMAL]",
+    "timestamp": "2026-05-13T19:52:23.058Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "1b11cbe3-1e5b-405a-be00-261152eedc05",
+      "shortId": "T1XGMG",
+      "name": "j..........",
+      "role": "USER",
+      "level": 92
+    },
+    "message": "/inv",
+    "timestamp": "2026-05-13T19:56:49.614Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "1b11cbe3-1e5b-405a-be00-261152eedc05",
+      "shortId": "T1XGMG",
+      "name": "j..........",
+      "role": "USER",
+      "level": 92
+    },
+    "message": "#VLR28T hm for it",
+    "timestamp": "2026-05-13T19:57:29.863Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "1b11cbe3-1e5b-405a-be00-261152eedc05",
+      "shortId": "T1XGMG",
+      "name": "j..........",
+      "role": "USER",
+      "level": 92
+    },
+    "message": "#VLR28T i dont got that much",
+    "timestamp": "2026-05-13T19:57:54.182Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "1b11cbe3-1e5b-405a-be00-261152eedc05",
+      "shortId": "T1XGMG",
+      "name": "j..........",
+      "role": "USER",
+      "level": 92
+    },
+    "message": "/inv #MTUD6Q",
+    "timestamp": "2026-05-13T20:02:33.085Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "1b11cbe3-1e5b-405a-be00-261152eedc05",
+      "shortId": "T1XGMG",
+      "name": "j..........",
+      "role": "USER",
+      "level": 92
+    },
+    "message": "/hm moltorath",
+    "timestamp": "2026-05-13T20:04:50.655Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "1b11cbe3-1e5b-405a-be00-261152eedc05",
+      "shortId": "T1XGMG",
+      "name": "j..........",
+      "role": "USER",
+      "level": 92
+    },
+    "message": "#L1USTLi have",
+    "timestamp": "2026-05-13T20:09:00.666Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "1b11cbe3-1e5b-405a-be00-261152eedc05",
+      "shortId": "T1XGMG",
+      "name": "j..........",
+      "role": "USER",
+      "level": 92
+    },
+    "message": "#L1USTL what u have",
+    "timestamp": "2026-05-13T20:09:16.681Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "1b11cbe3-1e5b-405a-be00-261152eedc05",
+      "shortId": "T1XGMG",
+      "name": "j..........",
+      "role": "USER",
+      "level": 92
+    },
+    "message": "#L1USTL I want [Clownabeth||BODY_SKIN|MYTHICAL][Ghillie||BODY_SKIN|MYTHICAL][Nova|SCAR|WEAPON_SKIN|MYTHICAL][Lilith||BODY_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-13T20:11:10.394Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "1b11cbe3-1e5b-405a-be00-261152eedc05",
+      "shortId": "T1XGMG",
+      "name": "j..........",
+      "role": "USER",
+      "level": 92
+    },
+    "message": "#L1USTL than no trade",
+    "timestamp": "2026-05-13T20:11:43.415Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "1b11cbe3-1e5b-405a-be00-261152eedc05",
+      "shortId": "T1XGMG",
+      "name": "j..........",
+      "role": "USER",
+      "level": 92
+    },
+    "message": "and [Clownabeth||BODY_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-13T20:12:12.805Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "1b11cbe3-1e5b-405a-be00-261152eedc05",
+      "shortId": "T1XGMG",
+      "name": "j..........",
+      "role": "USER",
+      "level": 92
+    },
+    "message": "NO",
+    "timestamp": "2026-05-13T20:14:39.434Z"
   }
 ]
