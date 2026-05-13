@@ -286,5 +286,29 @@
     },
     "message": "/hm arachne",
     "timestamp": "2026-05-13T18:18:04.366Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "13b24829-c64d-419c-be63-d763f6e055c4",
+      "shortId": "IZ172J",
+      "name": "Fear",
+      "role": "USER",
+      "level": 54
+    },
+    "message": "[Helloween]",
+    "timestamp": "2026-05-13T21:46:05.922Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "13b24829-c64d-419c-be63-d763f6e055c4",
+      "shortId": "IZ172J",
+      "name": "Fear",
+      "role": "USER",
+      "level": 54
+    },
+    "message": "[Halloween||CHEST|MYTHICAL]",
+    "timestamp": "2026-05-13T21:46:15.391Z"
   }
 ]
