@@ -10,5 +10,89 @@
     },
     "message": "/Trade accept 87551",
     "timestamp": "2026-05-12T07:08:32.592Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "673352f6-7e9d-47fc-b580-f7f61a314dd9",
+      "shortId": "MPZ4LH",
+      "name": "Asta",
+      "role": "USER",
+      "level": 6
+    },
+    "message": "...",
+    "timestamp": "2026-05-13T11:46:01.277Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "673352f6-7e9d-47fc-b580-f7f61a314dd9",
+      "shortId": "MPZ4LH",
+      "name": "Asta",
+      "role": "USER",
+      "level": 6
+    },
+    "message": "that alt",
+    "timestamp": "2026-05-13T11:46:04.333Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "673352f6-7e9d-47fc-b580-f7f61a314dd9",
+      "shortId": "MPZ4LH",
+      "name": "Asta",
+      "role": "USER",
+      "level": 6
+    },
+    "message": "/confirmwager",
+    "timestamp": "2026-05-13T11:46:25.212Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "673352f6-7e9d-47fc-b580-f7f61a314dd9",
+      "shortId": "MPZ4LH",
+      "name": "Asta",
+      "role": "USER",
+      "level": 6
+    },
+    "message": "ggs",
+    "timestamp": "2026-05-13T11:47:01.216Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "673352f6-7e9d-47fc-b580-f7f61a314dd9",
+      "shortId": "MPZ4LH",
+      "name": "Asta",
+      "role": "USER",
+      "level": 6
+    },
+    "message": "want to wager wolfy? #ESCROW",
+    "timestamp": "2026-05-13T11:47:17.717Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "673352f6-7e9d-47fc-b580-f7f61a314dd9",
+      "shortId": "MPZ4LH",
+      "name": "Asta",
+      "role": "USER",
+      "level": 6
+    },
+    "message": "#000000",
+    "timestamp": "2026-05-13T11:47:36.138Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "673352f6-7e9d-47fc-b580-f7f61a314dd9",
+      "shortId": "MPZ4LH",
+      "name": "Asta",
+      "role": "USER",
+      "level": 6
+    },
+    "message": "want to wager wolfy?",
+    "timestamp": "2026-05-13T11:47:42.865Z"
   }
 ]
