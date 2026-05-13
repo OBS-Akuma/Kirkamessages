@@ -106,5 +106,53 @@
     },
     "message": "[void]",
     "timestamp": "2026-05-13T02:47:49.070Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "HqTvxqMcGKaheG6u0yjPfAOIcuY2",
+      "shortId": "MFG6XJ",
+      "name": "Not_Dewier",
+      "role": "USER",
+      "level": 33
+    },
+    "message": "/hm void",
+    "timestamp": "2026-05-13T03:28:56.689Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "HqTvxqMcGKaheG6u0yjPfAOIcuY2",
+      "shortId": "MFG6XJ",
+      "name": "Not_Dewier",
+      "role": "USER",
+      "level": 33
+    },
+    "message": "gryn are you here",
+    "timestamp": "2026-05-13T03:40:04.864Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "HqTvxqMcGKaheG6u0yjPfAOIcuY2",
+      "shortId": "MFG6XJ",
+      "name": "Not_Dewier",
+      "role": "USER",
+      "level": 33
+    },
+    "message": "/price strawberry",
+    "timestamp": "2026-05-13T03:41:10.864Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "HqTvxqMcGKaheG6u0yjPfAOIcuY2",
+      "shortId": "MFG6XJ",
+      "name": "Not_Dewier",
+      "role": "USER",
+      "level": 33
+    },
+    "message": "/price hearts",
+    "timestamp": "2026-05-13T03:41:25.369Z"
   }
 ]
