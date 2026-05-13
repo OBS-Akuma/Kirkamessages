@@ -142,5 +142,17 @@
     },
     "message": "dont really go tmuch for you then sorry",
     "timestamp": "2026-05-13T11:27:06.116Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "1cbf1b31-083b-4206-83f1-14dca6d14d39",
+      "shortId": "2MK6YG",
+      "name": "Blubbbl",
+      "role": "USER",
+      "level": 97
+    },
+    "message": "/price [Punji|Bayonet|WEAPON_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-13T11:30:53.648Z"
   }
 ]
