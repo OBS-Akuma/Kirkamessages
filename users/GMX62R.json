@@ -3826,5 +3826,29 @@
     },
     "message": "BYE EVERYONEEEEE",
     "timestamp": "2026-05-13T02:43:22.705Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "bc8e6feb-bb40-4540-9470-ea5c349d769c",
+      "shortId": "GMX62R",
+      "name": "Ethong",
+      "role": "USER",
+      "level": 28
+    },
+    "message": "who wants 20 heatwaves",
+    "timestamp": "2026-05-13T18:18:05.949Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "bc8e6feb-bb40-4540-9470-ea5c349d769c",
+      "shortId": "GMX62R",
+      "name": "Ethong",
+      "role": "USER",
+      "level": 28
+    },
+    "message": "for trade",
+    "timestamp": "2026-05-13T18:18:16.362Z"
   }
 ]
