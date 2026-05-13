@@ -226,5 +226,17 @@
     },
     "message": "/locate scale p100",
     "timestamp": "2026-05-10T23:35:59.178Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "guest-90f9f973-9f0a-40cf-8971-668d21d6910c",
+      "shortId": "YRCLVF",
+      "name": "[OG]Levelegen",
+      "role": "USER",
+      "level": 55
+    },
+    "message": "/inv",
+    "timestamp": "2026-05-12T23:59:11.160Z"
   }
 ]
