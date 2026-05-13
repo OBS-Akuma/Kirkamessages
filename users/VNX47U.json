@@ -106,5 +106,53 @@
     },
     "message": "gn yall",
     "timestamp": "2026-05-12T02:20:37.366Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "8775fb1b-8c04-4d6b-8bd6-f8432e00d359",
+      "shortId": "VNX47U",
+      "name": "Mylo!",
+      "role": "USER",
+      "level": 38
+    },
+    "message": "mud",
+    "timestamp": "2026-05-13T00:18:35.150Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "8775fb1b-8c04-4d6b-8bd6-f8432e00d359",
+      "shortId": "VNX47U",
+      "name": "Mylo!",
+      "role": "USER",
+      "level": 38
+    },
+    "message": "-_-",
+    "timestamp": "2026-05-13T00:18:48.456Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "8775fb1b-8c04-4d6b-8bd6-f8432e00d359",
+      "shortId": "VNX47U",
+      "name": "Mylo!",
+      "role": "USER",
+      "level": 38
+    },
+    "message": "oh boi",
+    "timestamp": "2026-05-13T00:19:10.167Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "8775fb1b-8c04-4d6b-8bd6-f8432e00d359",
+      "shortId": "VNX47U",
+      "name": "Mylo!",
+      "role": "USER",
+      "level": 38
+    },
+    "message": "/price 2024",
+    "timestamp": "2026-05-13T00:19:24.063Z"
   }
 ]
