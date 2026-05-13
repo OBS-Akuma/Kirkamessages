@@ -874,5 +874,317 @@
     },
     "message": "/claim",
     "timestamp": "2026-05-08T08:29:48.872Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "8555bb57-2c28-4acb-8d99-5ed0031e8883",
+      "shortId": "CWSG5V",
+      "name": "swankz",
+      "role": "USER",
+      "level": 82
+    },
+    "message": "/hm waves",
+    "timestamp": "2026-05-13T03:35:21.210Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "8555bb57-2c28-4acb-8d99-5ed0031e8883",
+      "shortId": "CWSG5V",
+      "name": "swankz",
+      "role": "USER",
+      "level": 82
+    },
+    "message": "/hm scarlet",
+    "timestamp": "2026-05-13T03:35:25.239Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "8555bb57-2c28-4acb-8d99-5ed0031e8883",
+      "shortId": "CWSG5V",
+      "name": "swankz",
+      "role": "USER",
+      "level": 82
+    },
+    "message": "[Scarlet|SCAR|WEAPON_SKIN|LEGENDARY]",
+    "timestamp": "2026-05-13T03:35:30.427Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "8555bb57-2c28-4acb-8d99-5ed0031e8883",
+      "shortId": "CWSG5V",
+      "name": "swankz",
+      "role": "USER",
+      "level": 82
+    },
+    "message": "/hm scarlet",
+    "timestamp": "2026-05-13T03:35:44.765Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "8555bb57-2c28-4acb-8d99-5ed0031e8883",
+      "shortId": "CWSG5V",
+      "name": "swankz",
+      "role": "USER",
+      "level": 82
+    },
+    "message": "/locate paques",
+    "timestamp": "2026-05-13T07:19:23.202Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "8555bb57-2c28-4acb-8d99-5ed0031e8883",
+      "shortId": "CWSG5V",
+      "name": "swankz",
+      "role": "USER",
+      "level": 82
+    },
+    "message": "#MONSTR",
+    "timestamp": "2026-05-13T07:20:48.869Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "8555bb57-2c28-4acb-8d99-5ed0031e8883",
+      "shortId": "CWSG5V",
+      "name": "swankz",
+      "role": "USER",
+      "level": 82
+    },
+    "message": "/locate rampage",
+    "timestamp": "2026-05-13T07:21:00.285Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "8555bb57-2c28-4acb-8d99-5ed0031e8883",
+      "shortId": "CWSG5V",
+      "name": "swankz",
+      "role": "USER",
+      "level": 82
+    },
+    "message": "what do u wanna trade?",
+    "timestamp": "2026-05-13T07:21:28.790Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "8555bb57-2c28-4acb-8d99-5ed0031e8883",
+      "shortId": "CWSG5V",
+      "name": "swankz",
+      "role": "USER",
+      "level": 82
+    },
+    "message": "/locate beast",
+    "timestamp": "2026-05-13T07:21:34.485Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "8555bb57-2c28-4acb-8d99-5ed0031e8883",
+      "shortId": "CWSG5V",
+      "name": "swankz",
+      "role": "USER",
+      "level": 82
+    },
+    "message": "for what?",
+    "timestamp": "2026-05-13T07:22:14.801Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "8555bb57-2c28-4acb-8d99-5ed0031e8883",
+      "shortId": "CWSG5V",
+      "name": "swankz",
+      "role": "USER",
+      "level": 82
+    },
+    "message": "what can u offer",
+    "timestamp": "2026-05-13T07:22:17.978Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "8555bb57-2c28-4acb-8d99-5ed0031e8883",
+      "shortId": "CWSG5V",
+      "name": "swankz",
+      "role": "USER",
+      "level": 82
+    },
+    "message": "/hm ukiyo",
+    "timestamp": "2026-05-13T07:22:30.109Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "8555bb57-2c28-4acb-8d99-5ed0031e8883",
+      "shortId": "CWSG5V",
+      "name": "swankz",
+      "role": "USER",
+      "level": 82
+    },
+    "message": "/owners [Beast||BODY_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-13T07:23:08.791Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "8555bb57-2c28-4acb-8d99-5ed0031e8883",
+      "shortId": "CWSG5V",
+      "name": "swankz",
+      "role": "USER",
+      "level": 82
+    },
+    "message": "/owners sketch",
+    "timestamp": "2026-05-13T07:23:20.060Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "8555bb57-2c28-4acb-8d99-5ed0031e8883",
+      "shortId": "CWSG5V",
+      "name": "swankz",
+      "role": "USER",
+      "level": 82
+    },
+    "message": "/hm beast",
+    "timestamp": "2026-05-13T07:23:27.604Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "8555bb57-2c28-4acb-8d99-5ed0031e8883",
+      "shortId": "CWSG5V",
+      "name": "swankz",
+      "role": "USER",
+      "level": 82
+    },
+    "message": "/hm sketch",
+    "timestamp": "2026-05-13T07:23:31.618Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "8555bb57-2c28-4acb-8d99-5ed0031e8883",
+      "shortId": "CWSG5V",
+      "name": "swankz",
+      "role": "USER",
+      "level": 82
+    },
+    "message": "s",
+    "timestamp": "2026-05-13T07:23:48.298Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "8555bb57-2c28-4acb-8d99-5ed0031e8883",
+      "shortId": "CWSG5V",
+      "name": "swankz",
+      "role": "USER",
+      "level": 82
+    },
+    "message": "/hm sketch",
+    "timestamp": "2026-05-13T07:23:51.167Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "8555bb57-2c28-4acb-8d99-5ed0031e8883",
+      "shortId": "CWSG5V",
+      "name": "swankz",
+      "role": "USER",
+      "level": 82
+    },
+    "message": "/locate sketch",
+    "timestamp": "2026-05-13T07:23:57.030Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "8555bb57-2c28-4acb-8d99-5ed0031e8883",
+      "shortId": "CWSG5V",
+      "name": "swankz",
+      "role": "USER",
+      "level": 82
+    },
+    "message": "/hm alice",
+    "timestamp": "2026-05-13T07:24:20.633Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "8555bb57-2c28-4acb-8d99-5ed0031e8883",
+      "shortId": "CWSG5V",
+      "name": "swankz",
+      "role": "USER",
+      "level": 82
+    },
+    "message": "/locate alice",
+    "timestamp": "2026-05-13T07:24:26.735Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "8555bb57-2c28-4acb-8d99-5ed0031e8883",
+      "shortId": "CWSG5V",
+      "name": "swankz",
+      "role": "USER",
+      "level": 82
+    },
+    "message": "?",
+    "timestamp": "2026-05-13T07:24:52.818Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "8555bb57-2c28-4acb-8d99-5ed0031e8883",
+      "shortId": "CWSG5V",
+      "name": "swankz",
+      "role": "USER",
+      "level": 82
+    },
+    "message": "/hm noble",
+    "timestamp": "2026-05-13T07:25:10.620Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "8555bb57-2c28-4acb-8d99-5ed0031e8883",
+      "shortId": "CWSG5V",
+      "name": "swankz",
+      "role": "USER",
+      "level": 82
+    },
+    "message": "10m",
+    "timestamp": "2026-05-13T07:25:13.216Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "8555bb57-2c28-4acb-8d99-5ed0031e8883",
+      "shortId": "CWSG5V",
+      "name": "swankz",
+      "role": "USER",
+      "level": 82
+    },
+    "message": "n",
+    "timestamp": "2026-05-13T07:25:24.597Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "8555bb57-2c28-4acb-8d99-5ed0031e8883",
+      "shortId": "CWSG5V",
+      "name": "swankz",
+      "role": "USER",
+      "level": 82
+    },
+    "message": "paques nft",
+    "timestamp": "2026-05-13T07:25:35.441Z"
   }
 ]
