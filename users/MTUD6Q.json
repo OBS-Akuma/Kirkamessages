@@ -34,5 +34,41 @@
     },
     "message": "/price [Taurus|Shark|WEAPON_SKIN|LEGENDARY]",
     "timestamp": "2026-05-09T16:27:11.371Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "658538a1-7bc2-4f47-a0e4-2fea6233eb22",
+      "shortId": "MTUD6Q",
+      "name": "NoT_FeLiX",
+      "role": "USER",
+      "level": 98
+    },
+    "message": "/hm waves",
+    "timestamp": "2026-05-13T22:56:53.990Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "658538a1-7bc2-4f47-a0e4-2fea6233eb22",
+      "shortId": "MTUD6Q",
+      "name": "NoT_FeLiX",
+      "role": "USER",
+      "level": 98
+    },
+    "message": "/price[Tiburon|Bayonet|WEAPON_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-13T22:59:18.747Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "658538a1-7bc2-4f47-a0e4-2fea6233eb22",
+      "shortId": "MTUD6Q",
+      "name": "NoT_FeLiX",
+      "role": "USER",
+      "level": 98
+    },
+    "message": "/hm tide",
+    "timestamp": "2026-05-13T22:59:54.215Z"
   }
 ]
