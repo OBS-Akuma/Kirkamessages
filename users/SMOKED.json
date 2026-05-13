@@ -1126,5 +1126,41 @@
     },
     "message": "#LIOYPJ",
     "timestamp": "2026-05-13T00:56:14.064Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "8130e18e-ff15-4f5b-a4e4-e3b8692ee32b",
+      "shortId": "SMOKED",
+      "name": "Torque_",
+      "role": "USER",
+      "level": 100
+    },
+    "message": "Hey heiko",
+    "timestamp": "2026-05-13T04:23:55.284Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "8130e18e-ff15-4f5b-a4e4-e3b8692ee32b",
+      "shortId": "SMOKED",
+      "name": "Torque_",
+      "role": "USER",
+      "level": 100
+    },
+    "message": "wana offer for [Candle|Bayonet|WEAPON_SKIN|MYTHICAL]?",
+    "timestamp": "2026-05-13T04:24:14.493Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "8130e18e-ff15-4f5b-a4e4-e3b8692ee32b",
+      "shortId": "SMOKED",
+      "name": "Torque_",
+      "role": "USER",
+      "level": 100
+    },
+    "message": "/price [Bubblepop|Bayonet|WEAPON_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-13T04:25:43.761Z"
   }
 ]
