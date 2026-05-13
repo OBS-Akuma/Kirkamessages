@@ -4054,5 +4054,29 @@
     },
     "message": "any good that you have ?",
     "timestamp": "2026-05-13T04:43:29.664Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "aC4eJ9XToJg3hfiixxui6Cv8ymy2",
+      "shortId": "0BPRZO",
+      "name": "Abyss",
+      "role": "USER",
+      "level": 48
+    },
+    "message": "TR [Ghoul||BODY_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-13T06:09:51.828Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "aC4eJ9XToJg3hfiixxui6Cv8ymy2",
+      "shortId": "0BPRZO",
+      "name": "Abyss",
+      "role": "USER",
+      "level": 48
+    },
+    "message": "/price [RGB||BODY_SKIN|LEGENDARY]",
+    "timestamp": "2026-05-13T06:10:57.199Z"
   }
 ]
