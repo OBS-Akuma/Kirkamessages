@@ -262,5 +262,113 @@
     },
     "message": "/tarde cancel",
     "timestamp": "2026-05-12T21:53:23.422Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "fef6574f-70b3-41c5-bf77-6c0e1b5f9638",
+      "shortId": "ICEYZ7",
+      "name": "MANGUY",
+      "role": "USER",
+      "level": 74
+    },
+    "message": "[Oblivion|SCAR|WEAPON_SKIN|MYTHICAL] for [Slasher||BODY_SKIN|PARANORMAL]",
+    "timestamp": "2026-05-12T22:15:18.433Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "fef6574f-70b3-41c5-bf77-6c0e1b5f9638",
+      "shortId": "ICEYZ7",
+      "name": "MANGUY",
+      "role": "USER",
+      "level": 74
+    },
+    "message": "#VJ0H64",
+    "timestamp": "2026-05-12T22:15:58.187Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "fef6574f-70b3-41c5-bf77-6c0e1b5f9638",
+      "shortId": "ICEYZ7",
+      "name": "MANGUY",
+      "role": "USER",
+      "level": 74
+    },
+    "message": "slasher has no value aydan",
+    "timestamp": "2026-05-12T22:17:39.655Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "fef6574f-70b3-41c5-bf77-6c0e1b5f9638",
+      "shortId": "ICEYZ7",
+      "name": "MANGUY",
+      "role": "USER",
+      "level": 74
+    },
+    "message": "trading [Oblivion|SCAR|WEAPON_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-12T22:22:01.545Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "fef6574f-70b3-41c5-bf77-6c0e1b5f9638",
+      "shortId": "ICEYZ7",
+      "name": "MANGUY",
+      "role": "USER",
+      "level": 74
+    },
+    "message": "/hm [Slasher||BODY_SKIN|PARANORMAL]",
+    "timestamp": "2026-05-12T22:22:44.576Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "fef6574f-70b3-41c5-bf77-6c0e1b5f9638",
+      "shortId": "ICEYZ7",
+      "name": "MANGUY",
+      "role": "USER",
+      "level": 74
+    },
+    "message": "#SCREAM can u offer [Oblivion|SCAR|WEAPON_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-12T22:23:38.591Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "fef6574f-70b3-41c5-bf77-6c0e1b5f9638",
+      "shortId": "ICEYZ7",
+      "name": "MANGUY",
+      "role": "USER",
+      "level": 74
+    },
+    "message": "/hm [Nutcracker||BODY_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-12T22:25:26.240Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "fef6574f-70b3-41c5-bf77-6c0e1b5f9638",
+      "shortId": "ICEYZ7",
+      "name": "MANGUY",
+      "role": "USER",
+      "level": 74
+    },
+    "message": "/hm [Jolly||BODY_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-12T22:25:51.709Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "fef6574f-70b3-41c5-bf77-6c0e1b5f9638",
+      "shortId": "ICEYZ7",
+      "name": "MANGUY",
+      "role": "USER",
+      "level": 74
+    },
+    "message": "/hm [pollygon]",
+    "timestamp": "2026-05-12T22:26:34.110Z"
   }
 ]
