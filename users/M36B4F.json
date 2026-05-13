@@ -46,5 +46,17 @@
     },
     "message": "/inv",
     "timestamp": "2026-05-12T18:15:42.013Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "be5dd652-8c23-47ff-b575-5c4965aeb608",
+      "shortId": "M36B4F",
+      "name": "PieMan",
+      "role": "USER",
+      "level": 38
+    },
+    "message": "hm?",
+    "timestamp": "2026-05-13T23:24:01.596Z"
   }
 ]
