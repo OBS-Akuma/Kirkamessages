@@ -2650,5 +2650,53 @@
     },
     "message": "bruh",
     "timestamp": "2026-05-13T09:27:16.856Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "ef6ad6dd-220e-40eb-afe4-1520b78be5d7",
+      "shortId": "69Y0E5",
+      "name": "MrMelone",
+      "role": "USER",
+      "level": 56
+    },
+    "message": "/enter",
+    "timestamp": "2026-05-13T21:48:41.492Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "ef6ad6dd-220e-40eb-afe4-1520b78be5d7",
+      "shortId": "69Y0E5",
+      "name": "MrMelone",
+      "role": "USER",
+      "level": 56
+    },
+    "message": "/price polar",
+    "timestamp": "2026-05-13T21:49:21.475Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "ef6ad6dd-220e-40eb-afe4-1520b78be5d7",
+      "shortId": "69Y0E5",
+      "name": "MrMelone",
+      "role": "USER",
+      "level": 56
+    },
+    "message": "/price radioactive",
+    "timestamp": "2026-05-13T21:49:36.718Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "ef6ad6dd-220e-40eb-afe4-1520b78be5d7",
+      "shortId": "69Y0E5",
+      "name": "MrMelone",
+      "role": "USER",
+      "level": 56
+    },
+    "message": "/price polar",
+    "timestamp": "2026-05-13T21:50:01.229Z"
   }
 ]
