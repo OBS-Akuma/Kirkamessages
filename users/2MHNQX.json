@@ -1702,5 +1702,101 @@
     },
     "message": "i litrally have 0 clue what happened to it",
     "timestamp": "2026-05-12T22:11:09.374Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "1c9cf342-5e36-47ce-86d7-096f4170995e",
+      "shortId": "2MHNQX",
+      "name": "Midnight",
+      "role": "USER",
+      "level": 101
+    },
+    "message": "/hm hellbent",
+    "timestamp": "2026-05-12T23:09:30.307Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "1c9cf342-5e36-47ce-86d7-096f4170995e",
+      "shortId": "2MHNQX",
+      "name": "Midnight",
+      "role": "USER",
+      "level": 101
+    },
+    "message": "/hm heatwavex25 fadex27 vividx15",
+    "timestamp": "2026-05-12T23:58:13.815Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "1c9cf342-5e36-47ce-86d7-096f4170995e",
+      "shortId": "2MHNQX",
+      "name": "Midnight",
+      "role": "USER",
+      "level": 101
+    },
+    "message": "/hm heatwave x25 fade x27 vivid x15",
+    "timestamp": "2026-05-12T23:58:23.322Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "1c9cf342-5e36-47ce-86d7-096f4170995e",
+      "shortId": "2MHNQX",
+      "name": "Midnight",
+      "role": "USER",
+      "level": 101
+    },
+    "message": "/hm [Heatwave|VITA|WEAPON_SKIN|LEGENDARY]x25 [Fade|Revolver|WEAPON_SKIN|LEGENDARY]x27 [Vivid|VITA|WEAPON_SKIN|LEGENDARY]x15",
+    "timestamp": "2026-05-12T23:58:42.647Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "1c9cf342-5e36-47ce-86d7-096f4170995e",
+      "shortId": "2MHNQX",
+      "name": "Midnight",
+      "role": "USER",
+      "level": 101
+    },
+    "message": "/hm[Fade|Revolver|WEAPON_SKIN|LEGENDARY]x27",
+    "timestamp": "2026-05-12T23:59:13.611Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "1c9cf342-5e36-47ce-86d7-096f4170995e",
+      "shortId": "2MHNQX",
+      "name": "Midnight",
+      "role": "USER",
+      "level": 101
+    },
+    "message": "/hm [Fade|Revolver|WEAPON_SKIN|LEGENDARY]x27",
+    "timestamp": "2026-05-12T23:59:17.114Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "1c9cf342-5e36-47ce-86d7-096f4170995e",
+      "shortId": "2MHNQX",
+      "name": "Midnight",
+      "role": "USER",
+      "level": 101
+    },
+    "message": "/hm /hm [Heatwave|VITA|WEAPON_SKIN|LEGENDARY]x13",
+    "timestamp": "2026-05-12T23:59:22.630Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "1c9cf342-5e36-47ce-86d7-096f4170995e",
+      "shortId": "2MHNQX",
+      "name": "Midnight",
+      "role": "USER",
+      "level": 101
+    },
+    "message": "/hm [Vivid|VITA|WEAPON_SKIN|LEGENDARY]x18",
+    "timestamp": "2026-05-12T23:59:30.149Z"
   }
 ]
