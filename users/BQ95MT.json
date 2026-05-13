@@ -166,5 +166,41 @@
     },
     "message": "#2MHNQX",
     "timestamp": "2026-05-12T21:53:49.866Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "d8918df7-2a1c-4f91-a644-72d2ab0ca065",
+      "shortId": "BQ95MT",
+      "name": "Gang$ter",
+      "role": "USER",
+      "level": 50
+    },
+    "message": "/price [angle]",
+    "timestamp": "2026-05-12T22:52:55.723Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "d8918df7-2a1c-4f91-a644-72d2ab0ca065",
+      "shortId": "BQ95MT",
+      "name": "Gang$ter",
+      "role": "USER",
+      "level": 50
+    },
+    "message": "/price [Angel||BODY_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-12T22:53:05.175Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "d8918df7-2a1c-4f91-a644-72d2ab0ca065",
+      "shortId": "BQ95MT",
+      "name": "Gang$ter",
+      "role": "USER",
+      "level": 50
+    },
+    "message": "/inv",
+    "timestamp": "2026-05-12T22:53:23.134Z"
   }
 ]
