@@ -1210,5 +1210,17 @@
     },
     "message": "/price [Candle|Bayonet|WEAPON_SKIN|MYTHICAL]",
     "timestamp": "2026-05-12T19:45:47.039Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "0b4cd789-a014-4609-bfbf-4bb636738f75",
+      "shortId": "52N4M1",
+      "name": "BuggleLugs",
+      "role": "USER",
+      "level": 95
+    },
+    "message": "#L7K5B3 hi",
+    "timestamp": "2026-05-13T04:12:04.804Z"
   }
 ]
