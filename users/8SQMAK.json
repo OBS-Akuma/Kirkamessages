@@ -1786,5 +1786,77 @@
     },
     "message": "buy polar 3m3",
     "timestamp": "2026-05-13T05:19:10.167Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "e7ca017c-557f-4b21-96eb-3ec2a9a728ab",
+      "shortId": "8SQMAK",
+      "name": "Eri.",
+      "role": "USER",
+      "level": 56
+    },
+    "message": "/hm price xx",
+    "timestamp": "2026-05-13T05:57:37.141Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "e7ca017c-557f-4b21-96eb-3ec2a9a728ab",
+      "shortId": "8SQMAK",
+      "name": "Eri.",
+      "role": "USER",
+      "level": 56
+    },
+    "message": "/price Xx",
+    "timestamp": "2026-05-13T05:57:52.342Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "e7ca017c-557f-4b21-96eb-3ec2a9a728ab",
+      "shortId": "8SQMAK",
+      "name": "Eri.",
+      "role": "USER",
+      "level": 56
+    },
+    "message": "/hm lmao",
+    "timestamp": "2026-05-13T05:59:29.586Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "e7ca017c-557f-4b21-96eb-3ec2a9a728ab",
+      "shortId": "8SQMAK",
+      "name": "Eri.",
+      "role": "USER",
+      "level": 56
+    },
+    "message": "/price lmao",
+    "timestamp": "2026-05-13T05:59:40.138Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "e7ca017c-557f-4b21-96eb-3ec2a9a728ab",
+      "shortId": "8SQMAK",
+      "name": "Eri.",
+      "role": "USER",
+      "level": 56
+    },
+    "message": "/price dynasty",
+    "timestamp": "2026-05-13T06:00:38.083Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "e7ca017c-557f-4b21-96eb-3ec2a9a728ab",
+      "shortId": "8SQMAK",
+      "name": "Eri.",
+      "role": "USER",
+      "level": 56
+    },
+    "message": "/hm dynasty",
+    "timestamp": "2026-05-13T06:01:01.523Z"
   }
 ]
