@@ -130,5 +130,41 @@
     },
     "message": "#MURDER",
     "timestamp": "2026-05-13T07:22:02.378Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "e45990f7-cb60-48c6-b664-41a0d09d25a1",
+      "shortId": "FUYR7K",
+      "name": "NSFW",
+      "role": "USER",
+      "level": 95
+    },
+    "message": "/RAFFLE",
+    "timestamp": "2026-05-13T08:02:43.652Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "e45990f7-cb60-48c6-b664-41a0d09d25a1",
+      "shortId": "FUYR7K",
+      "name": "NSFW",
+      "role": "USER",
+      "level": 95
+    },
+    "message": "/raffle",
+    "timestamp": "2026-05-13T08:02:45.458Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "e45990f7-cb60-48c6-b664-41a0d09d25a1",
+      "shortId": "FUYR7K",
+      "name": "NSFW",
+      "role": "USER",
+      "level": 95
+    },
+    "message": "/loterry 10",
+    "timestamp": "2026-05-13T08:02:50.092Z"
   }
 ]
