@@ -1270,5 +1270,53 @@
     },
     "message": "T-T",
     "timestamp": "2026-05-11T09:49:31.783Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "xkiNzXE2NVRhVv2juciDJAGV2IG3",
+      "shortId": "4LGFBI",
+      "name": "EzoSensha",
+      "role": "USER",
+      "level": 37
+    },
+    "message": "trading [LMAO||BODY_SKIN|MYTHICAL] [Xx||BODY_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-13T03:51:14.045Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "xkiNzXE2NVRhVv2juciDJAGV2IG3",
+      "shortId": "4LGFBI",
+      "name": "EzoSensha",
+      "role": "USER",
+      "level": 37
+    },
+    "message": "/hm xx",
+    "timestamp": "2026-05-13T03:53:15.142Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "xkiNzXE2NVRhVv2juciDJAGV2IG3",
+      "shortId": "4LGFBI",
+      "name": "EzoSensha",
+      "role": "USER",
+      "level": 37
+    },
+    "message": "LOOKING FOR [Shroud||BODY_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-13T03:54:12.607Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "xkiNzXE2NVRhVv2juciDJAGV2IG3",
+      "shortId": "4LGFBI",
+      "name": "EzoSensha",
+      "role": "USER",
+      "level": 37
+    },
+    "message": "LF [Shroud||BODY_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-13T03:55:36.231Z"
   }
 ]
