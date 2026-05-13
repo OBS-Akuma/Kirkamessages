@@ -226,5 +226,17 @@
     },
     "message": "/topskin vita",
     "timestamp": "2026-05-13T04:08:59.382Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "2d441501-81fd-4137-ae63-0b5f1f345d2e",
+      "shortId": "NUC1AI",
+      "name": "Meliodas",
+      "role": "USER",
+      "level": 81
+    },
+    "message": "[Astral|AR-9|WEAPON_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-13T05:55:57.278Z"
   }
 ]
