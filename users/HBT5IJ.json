@@ -46,5 +46,17 @@
     },
     "message": "/price [Polar||BODY_SKIN|MYTHICAL]",
     "timestamp": "2026-05-12T20:51:04.773Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "b210c4f2-70c2-4648-812b-c6065bd84041",
+      "shortId": "HBT5IJ",
+      "name": "Invader299",
+      "role": "USER",
+      "level": 100
+    },
+    "message": "/price [Ghillie||BODY_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-13T08:21:58.434Z"
   }
 ]
