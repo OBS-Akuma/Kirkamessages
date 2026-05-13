@@ -94,5 +94,17 @@
     },
     "message": "/inv",
     "timestamp": "2026-05-08T08:42:17.836Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "108b6c61-9f3f-4981-8cf3-4b60e20ef40a",
+      "shortId": "3VOHFR",
+      "name": "SantaGrifa",
+      "role": "USER",
+      "level": 74
+    },
+    "message": "TR[Tide|SCAR|WEAPON_SKIN|LEGENDARY]",
+    "timestamp": "2026-05-13T04:24:39.046Z"
   }
 ]
