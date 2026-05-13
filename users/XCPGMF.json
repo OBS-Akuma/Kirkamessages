@@ -58,5 +58,17 @@
     },
     "message": "alr what u trading",
     "timestamp": "2026-05-02T19:32:34.177Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "rjspNBf01cM81Srk9Gcun9IvoGg2",
+      "shortId": "XCPGMF",
+      "name": "alex__",
+      "role": "USER",
+      "level": 11
+    },
+    "message": "deftones",
+    "timestamp": "2026-05-13T18:38:29.188Z"
   }
 ]
