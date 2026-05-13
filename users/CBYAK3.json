@@ -3298,5 +3298,89 @@
     },
     "message": "/enter",
     "timestamp": "2026-05-12T05:51:00.237Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "a634f8f1-fe8c-487e-8d44-2efa53ae05de",
+      "shortId": "CBYAK3",
+      "name": "bobd",
+      "role": "USER",
+      "level": 10
+    },
+    "message": "/ytade accept 57967",
+    "timestamp": "2026-05-13T17:13:17.984Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "a634f8f1-fe8c-487e-8d44-2efa53ae05de",
+      "shortId": "CBYAK3",
+      "name": "bobd",
+      "role": "USER",
+      "level": 10
+    },
+    "message": "/claim",
+    "timestamp": "2026-05-13T17:13:55.905Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "a634f8f1-fe8c-487e-8d44-2efa53ae05de",
+      "shortId": "CBYAK3",
+      "name": "bobd",
+      "role": "USER",
+      "level": 10
+    },
+    "message": "/wager [Golden||CHEST|LEGENDARY]c1- #AGMU6F",
+    "timestamp": "2026-05-13T17:15:46.613Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "a634f8f1-fe8c-487e-8d44-2efa53ae05de",
+      "shortId": "CBYAK3",
+      "name": "bobd",
+      "role": "USER",
+      "level": 10
+    },
+    "message": "/wager [Golden||CHEST|LEGENDARY]x10 #AGMU6F",
+    "timestamp": "2026-05-13T17:15:59.000Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "a634f8f1-fe8c-487e-8d44-2efa53ae05de",
+      "shortId": "CBYAK3",
+      "name": "bobd",
+      "role": "USER",
+      "level": 10
+    },
+    "message": "confirm #AGMU6F",
+    "timestamp": "2026-05-13T17:16:03.239Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "a634f8f1-fe8c-487e-8d44-2efa53ae05de",
+      "shortId": "CBYAK3",
+      "name": "bobd",
+      "role": "USER",
+      "level": 10
+    },
+    "message": "#AGMU6F confirm wager",
+    "timestamp": "2026-05-13T17:16:26.726Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "a634f8f1-fe8c-487e-8d44-2efa53ae05de",
+      "shortId": "CBYAK3",
+      "name": "bobd",
+      "role": "USER",
+      "level": 10
+    },
+    "message": "/cancelwager",
+    "timestamp": "2026-05-13T17:16:44.035Z"
   }
 ]
