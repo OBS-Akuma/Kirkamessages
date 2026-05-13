@@ -58,5 +58,41 @@
     },
     "message": "**i want clan pro *",
     "timestamp": "2026-05-11T09:19:32.335Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "7e219480-2ec2-4364-b5dd-11ccebdc38d6",
+      "shortId": "5YT0L8",
+      "name": "fire",
+      "role": "USER",
+      "level": 10
+    },
+    "message": "/inv",
+    "timestamp": "2026-05-13T11:27:13.633Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "7e219480-2ec2-4364-b5dd-11ccebdc38d6",
+      "shortId": "5YT0L8",
+      "name": "fire",
+      "role": "USER",
+      "level": 10
+    },
+    "message": "سلام أحمد",
+    "timestamp": "2026-05-13T11:44:13.346Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "7e219480-2ec2-4364-b5dd-11ccebdc38d6",
+      "shortId": "5YT0L8",
+      "name": "fire",
+      "role": "USER",
+      "level": 10
+    },
+    "message": "السلام عليكم أحمد",
+    "timestamp": "2026-05-13T11:46:02.845Z"
   }
 ]
