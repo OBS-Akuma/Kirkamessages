@@ -1630,5 +1630,17 @@
     },
     "message": "1v1 thoe?",
     "timestamp": "2026-05-13T17:32:59.415Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "b2e353bf-f255-443b-9b04-2faed1462ac4",
+      "shortId": "2HVDU9",
+      "name": "SNIPEER_BULLET",
+      "role": "USER",
+      "level": 8
+    },
+    "message": "67",
+    "timestamp": "2026-05-13T18:30:17.349Z"
   }
 ]
