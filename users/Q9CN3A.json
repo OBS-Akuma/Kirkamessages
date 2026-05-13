@@ -10,5 +10,29 @@
     },
     "message": "[Metro|AR-9|WEAPON_SKIN|MYTHICAL]",
     "timestamp": "2026-05-10T18:44:06.131Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "f84224b0-b3f1-4c5a-8c37-e075340bf2f3",
+      "shortId": "Q9CN3A",
+      "name": "Newt",
+      "role": "USER",
+      "level": 99
+    },
+    "message": "/tarde accept",
+    "timestamp": "2026-05-13T20:25:19.852Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "f84224b0-b3f1-4c5a-8c37-e075340bf2f3",
+      "shortId": "Q9CN3A",
+      "name": "Newt",
+      "role": "USER",
+      "level": 99
+    },
+    "message": "/tarde confirm",
+    "timestamp": "2026-05-13T20:26:04.081Z"
   }
 ]
