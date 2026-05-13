@@ -1,0 +1,26 @@
+[
+  {
+    "type": 2,
+    "user": {
+      "id": "c6d09fe8-bd3e-45a6-8e58-875560002d89",
+      "shortId": "S4XXAY",
+      "name": "SANK",
+      "role": "USER",
+      "level": 89
+    },
+    "message": "/price [Godzilla|AR-9|WEAPON_SKIN|LEGENDARY]",
+    "timestamp": "2026-05-13T19:33:07.082Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "c6d09fe8-bd3e-45a6-8e58-875560002d89",
+      "shortId": "S4XXAY",
+      "name": "SANK",
+      "role": "USER",
+      "level": 89
+    },
+    "message": "/price [Void Shark|Shark|WEAPON_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-13T19:34:15.646Z"
+  }
+]
