@@ -382,5 +382,29 @@
     },
     "message": "No bye",
     "timestamp": "2026-05-13T20:07:19.481Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "bd4bb0fe-3d6c-4b08-a2b3-014b768c5f2e",
+      "shortId": "88QZJA",
+      "name": "soldmysoul",
+      "role": "USER",
+      "level": 23
+    },
+    "message": "[Bunny||BODY_SKIN|EPIC]",
+    "timestamp": "2026-05-13T20:28:12.429Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "bd4bb0fe-3d6c-4b08-a2b3-014b768c5f2e",
+      "shortId": "88QZJA",
+      "name": "soldmysoul",
+      "role": "USER",
+      "level": 23
+    },
+    "message": "[Hideyoshi||BODY_SKIN|EPIC]",
+    "timestamp": "2026-05-13T20:28:34.768Z"
   }
 ]
