@@ -142,5 +142,41 @@
     },
     "message": "/claim",
     "timestamp": "2026-05-10T16:43:31.073Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "287119fe-d055-4d21-b222-fa6f668e0d9c",
+      "shortId": "YA4U8O",
+      "name": "VANDREX",
+      "role": "USER",
+      "level": 94
+    },
+    "message": "/hm punji",
+    "timestamp": "2026-05-13T20:38:59.014Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "287119fe-d055-4d21-b222-fa6f668e0d9c",
+      "shortId": "YA4U8O",
+      "name": "VANDREX",
+      "role": "USER",
+      "level": 94
+    },
+    "message": "/hm cornfield",
+    "timestamp": "2026-05-13T20:41:33.191Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "287119fe-d055-4d21-b222-fa6f668e0d9c",
+      "shortId": "YA4U8O",
+      "name": "VANDREX",
+      "role": "USER",
+      "level": 94
+    },
+    "message": "/inv",
+    "timestamp": "2026-05-13T20:42:49.661Z"
   }
 ]
