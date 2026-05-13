@@ -166,5 +166,29 @@
     },
     "message": "/loterry 10",
     "timestamp": "2026-05-13T08:02:50.092Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "e45990f7-cb60-48c6-b664-41a0d09d25a1",
+      "shortId": "FUYR7K",
+      "name": "SYLKIE",
+      "role": "USER",
+      "level": 95
+    },
+    "message": "wagering goldens",
+    "timestamp": "2026-05-13T12:01:59.678Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "e45990f7-cb60-48c6-b664-41a0d09d25a1",
+      "shortId": "FUYR7K",
+      "name": "SYLKIE",
+      "role": "USER",
+      "level": 95
+    },
+    "message": "/hm royalchamp",
+    "timestamp": "2026-05-13T12:02:29.767Z"
   }
 ]
