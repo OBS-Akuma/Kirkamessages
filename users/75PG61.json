@@ -1,0 +1,26 @@
+[
+  {
+    "type": 2,
+    "user": {
+      "id": "5277ed01-0b98-421d-9eaa-37a51e95c046",
+      "shortId": "75PG61",
+      "name": "Newbie#0",
+      "role": "USER",
+      "level": 94
+    },
+    "message": "/inv #2PSEWV",
+    "timestamp": "2026-05-14T13:29:10.187Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "5277ed01-0b98-421d-9eaa-37a51e95c046",
+      "shortId": "75PG61",
+      "name": "Newbie#0",
+      "role": "USER",
+      "level": 94
+    },
+    "message": "/inv #DUHAST",
+    "timestamp": "2026-05-14T13:29:30.152Z"
+  }
+]
