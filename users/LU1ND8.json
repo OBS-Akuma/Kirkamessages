@@ -5710,5 +5710,41 @@
     },
     "message": "#000000?",
     "timestamp": "2026-05-13T21:02:47.748Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "zkUzuHzV1sOAL9ZUyRPVDszlcgq2",
+      "shortId": "LU1ND8",
+      "name": "Br0keN|yt",
+      "role": "USER",
+      "level": 83
+    },
+    "message": "/confirmwager",
+    "timestamp": "2026-05-14T07:05:36.979Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "zkUzuHzV1sOAL9ZUyRPVDszlcgq2",
+      "shortId": "LU1ND8",
+      "name": "Br0keN|yt",
+      "role": "USER",
+      "level": 83
+    },
+    "message": "Fagggg",
+    "timestamp": "2026-05-14T07:06:14.005Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "zkUzuHzV1sOAL9ZUyRPVDszlcgq2",
+      "shortId": "LU1ND8",
+      "name": "Br0keN|yt",
+      "role": "USER",
+      "level": 83
+    },
+    "message": "Fml",
+    "timestamp": "2026-05-14T07:06:19.315Z"
   }
 ]
