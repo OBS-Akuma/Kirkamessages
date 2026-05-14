@@ -334,5 +334,29 @@
     },
     "message": "tr:[Mabel||BODY_SKIN|MYTHICAL]x12",
     "timestamp": "2026-05-09T03:41:36.074Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "b78b20c7-031f-404f-a921-cbf588488870",
+      "shortId": "JAUF8R",
+      "name": "RemmuS.",
+      "role": "USER",
+      "level": 70
+    },
+    "message": "trading:[Shinji||BODY_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-13T23:02:32.600Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "b78b20c7-031f-404f-a921-cbf588488870",
+      "shortId": "JAUF8R",
+      "name": "RemmuS.",
+      "role": "USER",
+      "level": 70
+    },
+    "message": "dang akuma",
+    "timestamp": "2026-05-13T23:03:00.586Z"
   }
 ]
