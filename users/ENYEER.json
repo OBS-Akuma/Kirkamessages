@@ -466,5 +466,29 @@
     },
     "message": "selamat makan",
     "timestamp": "2026-05-14T01:13:00.066Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "e3278dc0-1ce2-46f8-b13e-44e3d5fd1c86",
+      "shortId": "ENYEER",
+      "name": "SuperKuroky",
+      "role": "USER",
+      "level": 101
+    },
+    "message": "/price [Alighted|Bayonet|WEAPON_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-14T13:03:35.849Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "e3278dc0-1ce2-46f8-b13e-44e3d5fd1c86",
+      "shortId": "ENYEER",
+      "name": "SuperKuroky",
+      "role": "USER",
+      "level": 101
+    },
+    "message": "sure",
+    "timestamp": "2026-05-14T13:04:19.626Z"
   }
 ]
