@@ -1,0 +1,38 @@
+[
+  {
+    "type": 2,
+    "user": {
+      "id": "62440fec-83f0-4523-b11d-de6c80e7f0b3",
+      "shortId": "3AFNQD",
+      "name": "Complexity-_-",
+      "role": "USER",
+      "level": 42
+    },
+    "message": "[Tiburon|Bayonet|WEAPON_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-14T03:47:37.643Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "62440fec-83f0-4523-b11d-de6c80e7f0b3",
+      "shortId": "3AFNQD",
+      "name": "Complexity-_-",
+      "role": "USER",
+      "level": 42
+    },
+    "message": "[Ortus|Revolver|WEAPON_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-14T03:47:58.732Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "62440fec-83f0-4523-b11d-de6c80e7f0b3",
+      "shortId": "3AFNQD",
+      "name": "Complexity-_-",
+      "role": "USER",
+      "level": 42
+    },
+    "message": "[Forbidden|AR-9|WEAPON_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-14T03:48:21.902Z"
+  }
+]
