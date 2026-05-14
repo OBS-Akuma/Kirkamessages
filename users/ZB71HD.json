@@ -70,5 +70,77 @@
     },
     "message": "trading [Koi|Bayonet|WEAPON_SKIN|MYTHICAL]",
     "timestamp": "2026-05-13T04:18:28.417Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "guest-7b94c337-0adf-44c1-be27-b48445a3c60c",
+      "shortId": "ZB71HD",
+      "name": "Phoenix",
+      "role": "USER",
+      "level": 8
+    },
+    "message": "/enter",
+    "timestamp": "2026-05-14T00:31:03.796Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "guest-7b94c337-0adf-44c1-be27-b48445a3c60c",
+      "shortId": "ZB71HD",
+      "name": "Phoenix",
+      "role": "USER",
+      "level": 8
+    },
+    "message": "/wager [Golden||CHEST|LEGENDARY]",
+    "timestamp": "2026-05-14T00:32:07.619Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "guest-7b94c337-0adf-44c1-be27-b48445a3c60c",
+      "shortId": "ZB71HD",
+      "name": "Phoenix",
+      "role": "USER",
+      "level": 8
+    },
+    "message": "trading [Koi|Bayonet|WEAPON_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-14T00:32:32.944Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "guest-7b94c337-0adf-44c1-be27-b48445a3c60c",
+      "shortId": "ZB71HD",
+      "name": "Phoenix",
+      "role": "USER",
+      "level": 8
+    },
+    "message": "/locate [Kod||BODY_SKIN|LEGENDARY]",
+    "timestamp": "2026-05-14T00:32:48.364Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "guest-7b94c337-0adf-44c1-be27-b48445a3c60c",
+      "shortId": "ZB71HD",
+      "name": "Phoenix",
+      "role": "USER",
+      "level": 8
+    },
+    "message": "/enter",
+    "timestamp": "2026-05-14T00:33:34.172Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "guest-7b94c337-0adf-44c1-be27-b48445a3c60c",
+      "shortId": "ZB71HD",
+      "name": "Phoenix",
+      "role": "USER",
+      "level": 8
+    },
+    "message": "mb gang",
+    "timestamp": "2026-05-14T00:33:39.876Z"
   }
 ]
