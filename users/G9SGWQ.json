@@ -10,5 +10,17 @@
     },
     "message": "[wooden]",
     "timestamp": "2026-05-12T11:48:35.226Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "pmV8SGdgIDfDGAH2M6uDdPPfFut1",
+      "shortId": "G9SGWQ",
+      "name": "ILetGoOfHer",
+      "role": "USER",
+      "level": 10
+    },
+    "message": "#ESCROW",
+    "timestamp": "2026-05-14T12:50:41.830Z"
   }
 ]
