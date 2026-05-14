@@ -46,5 +46,29 @@
     },
     "message": "what do i do with 120k money",
     "timestamp": "2026-05-08T08:57:54.911Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "guest-de2a1e4b-c1bb-4c47-ba96-e314c3fc9f38",
+      "shortId": "MARDRB",
+      "name": "wabyyy",
+      "role": "USER",
+      "level": 8
+    },
+    "message": "chatt how do i level up faster chatttttt",
+    "timestamp": "2026-05-14T01:17:40.899Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "guest-de2a1e4b-c1bb-4c47-ba96-e314c3fc9f38",
+      "shortId": "MARDRB",
+      "name": "wabyyy",
+      "role": "USER",
+      "level": 8
+    },
+    "message": "how do i level up faster chatttttttttt",
+    "timestamp": "2026-05-14T01:18:56.688Z"
   }
 ]
