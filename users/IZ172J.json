@@ -310,5 +310,41 @@
     },
     "message": "[Halloween||CHEST|MYTHICAL]",
     "timestamp": "2026-05-13T21:46:15.391Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "13b24829-c64d-419c-be63-d763f6e055c4",
+      "shortId": "IZ172J",
+      "name": "Fear",
+      "role": "USER",
+      "level": 56
+    },
+    "message": "/hm enderman",
+    "timestamp": "2026-05-14T11:19:07.025Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "13b24829-c64d-419c-be63-d763f6e055c4",
+      "shortId": "IZ172J",
+      "name": "Fear",
+      "role": "USER",
+      "level": 56
+    },
+    "message": "/hm hippy",
+    "timestamp": "2026-05-14T11:19:21.284Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "13b24829-c64d-419c-be63-d763f6e055c4",
+      "shortId": "IZ172J",
+      "name": "Fear",
+      "role": "USER",
+      "level": 56
+    },
+    "message": "/price enderman",
+    "timestamp": "2026-05-14T11:21:03.319Z"
   }
 ]
