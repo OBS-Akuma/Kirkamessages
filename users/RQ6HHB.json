@@ -70,5 +70,185 @@
     },
     "message": "/hm splanch",
     "timestamp": "2026-05-14T08:12:53.890Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "86aa4f97-7723-4c5b-8c09-0ecaa84630bd",
+      "shortId": "RQ6HHB",
+      "name": "Newbie",
+      "role": "USER",
+      "level": 13
+    },
+    "message": "/inv",
+    "timestamp": "2026-05-14T09:21:22.550Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "86aa4f97-7723-4c5b-8c09-0ecaa84630bd",
+      "shortId": "RQ6HHB",
+      "name": "Newbie",
+      "role": "USER",
+      "level": 13
+    },
+    "message": "/wager",
+    "timestamp": "2026-05-14T10:06:04.354Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "86aa4f97-7723-4c5b-8c09-0ecaa84630bd",
+      "shortId": "RQ6HHB",
+      "name": "Newbie",
+      "role": "USER",
+      "level": 13
+    },
+    "message": "/wager elizabeth",
+    "timestamp": "2026-05-14T10:06:29.230Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "86aa4f97-7723-4c5b-8c09-0ecaa84630bd",
+      "shortId": "RQ6HHB",
+      "name": "Newbie",
+      "role": "USER",
+      "level": 13
+    },
+    "message": "/wager [Elizabeth||BODY_SKIN|COMMON]x1",
+    "timestamp": "2026-05-14T10:06:46.836Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "86aa4f97-7723-4c5b-8c09-0ecaa84630bd",
+      "shortId": "RQ6HHB",
+      "name": "Newbie",
+      "role": "USER",
+      "level": 13
+    },
+    "message": "[James||BODY_SKIN|COMMON]",
+    "timestamp": "2026-05-14T10:06:56.155Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "86aa4f97-7723-4c5b-8c09-0ecaa84630bd",
+      "shortId": "RQ6HHB",
+      "name": "Newbie",
+      "role": "USER",
+      "level": 13
+    },
+    "message": "[grim]",
+    "timestamp": "2026-05-14T10:07:10.962Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "86aa4f97-7723-4c5b-8c09-0ecaa84630bd",
+      "shortId": "RQ6HHB",
+      "name": "Newbie",
+      "role": "USER",
+      "level": 13
+    },
+    "message": "[Frost||BODY_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-14T10:07:17.301Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "86aa4f97-7723-4c5b-8c09-0ecaa84630bd",
+      "shortId": "RQ6HHB",
+      "name": "Newbie",
+      "role": "USER",
+      "level": 13
+    },
+    "message": "I need [Golden||CHEST|LEGENDARY], any trades?",
+    "timestamp": "2026-05-14T10:07:55.752Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "86aa4f97-7723-4c5b-8c09-0ecaa84630bd",
+      "shortId": "RQ6HHB",
+      "name": "Newbie",
+      "role": "USER",
+      "level": 13
+    },
+    "message": "/confirmwager",
+    "timestamp": "2026-05-14T10:08:13.293Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "86aa4f97-7723-4c5b-8c09-0ecaa84630bd",
+      "shortId": "RQ6HHB",
+      "name": "Newbie",
+      "role": "USER",
+      "level": 13
+    },
+    "message": "/wager",
+    "timestamp": "2026-05-14T10:10:04.990Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "86aa4f97-7723-4c5b-8c09-0ecaa84630bd",
+      "shortId": "RQ6HHB",
+      "name": "Newbie",
+      "role": "USER",
+      "level": 13
+    },
+    "message": "/wager [Elizabeth||BODY_SKIN|COMMON]x1",
+    "timestamp": "2026-05-14T10:10:23.649Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "86aa4f97-7723-4c5b-8c09-0ecaa84630bd",
+      "shortId": "RQ6HHB",
+      "name": "Newbie",
+      "role": "USER",
+      "level": 13
+    },
+    "message": "/enter",
+    "timestamp": "2026-05-14T10:10:58.842Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "86aa4f97-7723-4c5b-8c09-0ecaa84630bd",
+      "shortId": "RQ6HHB",
+      "name": "Newbie",
+      "role": "USER",
+      "level": 13
+    },
+    "message": "/raffle",
+    "timestamp": "2026-05-14T10:11:06.524Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "86aa4f97-7723-4c5b-8c09-0ecaa84630bd",
+      "shortId": "RQ6HHB",
+      "name": "Newbie",
+      "role": "USER",
+      "level": 13
+    },
+    "message": "[Ghoul||BODY_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-14T10:27:25.744Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "86aa4f97-7723-4c5b-8c09-0ecaa84630bd",
+      "shortId": "RQ6HHB",
+      "name": "Newbie",
+      "role": "USER",
+      "level": 13
+    },
+    "message": "I want [leave]",
+    "timestamp": "2026-05-14T10:27:38.008Z"
   }
 ]
