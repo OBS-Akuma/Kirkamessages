@@ -3106,5 +3106,137 @@
     },
     "message": "/claim",
     "timestamp": "2026-05-13T23:39:11.588Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "guest-54be4ece-9e2b-474f-9d38-577976065f54",
+      "shortId": "IJ6DDH",
+      "name": "EGD|Galaxy",
+      "role": "USER",
+      "level": 34
+    },
+    "message": "/enter",
+    "timestamp": "2026-05-14T00:02:53.279Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "guest-54be4ece-9e2b-474f-9d38-577976065f54",
+      "shortId": "IJ6DDH",
+      "name": "EGD|Galaxy",
+      "role": "USER",
+      "level": 35
+    },
+    "message": "Trading [Lashes|Bayonet|WEAPON_SKIN|LEGENDARY][Hologram|Revolver|WEAPON_SKIN|MYTHICAL][Fever|SCAR|WEAPON_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-14T00:41:48.304Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "guest-54be4ece-9e2b-474f-9d38-577976065f54",
+      "shortId": "IJ6DDH",
+      "name": "EGD|Galaxy",
+      "role": "USER",
+      "level": 35
+    },
+    "message": "Wagering [Fever|SCAR|WEAPON_SKIN|MYTHICAL] I'm going to make",
+    "timestamp": "2026-05-14T00:42:30.878Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "guest-54be4ece-9e2b-474f-9d38-577976065f54",
+      "shortId": "IJ6DDH",
+      "name": "EGD|Galaxy",
+      "role": "USER",
+      "level": 35
+    },
+    "message": "What mythical",
+    "timestamp": "2026-05-14T00:42:48.845Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "guest-54be4ece-9e2b-474f-9d38-577976065f54",
+      "shortId": "IJ6DDH",
+      "name": "EGD|Galaxy",
+      "role": "USER",
+      "level": 35
+    },
+    "message": "/wager [Fever|SCAR|WEAPON_SKIN|MYTHICAL] #00ZW80",
+    "timestamp": "2026-05-14T00:43:35.870Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "guest-54be4ece-9e2b-474f-9d38-577976065f54",
+      "shortId": "IJ6DDH",
+      "name": "EGD|Galaxy",
+      "role": "USER",
+      "level": 35
+    },
+    "message": "Who has [Slime||BODY_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-14T00:45:40.074Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "guest-54be4ece-9e2b-474f-9d38-577976065f54",
+      "shortId": "IJ6DDH",
+      "name": "EGD|Galaxy",
+      "role": "USER",
+      "level": 35
+    },
+    "message": "Who has [Oblivion|SCAR|WEAPON_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-14T00:47:02.161Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "guest-54be4ece-9e2b-474f-9d38-577976065f54",
+      "shortId": "IJ6DDH",
+      "name": "EGD|Galaxy",
+      "role": "USER",
+      "level": 35
+    },
+    "message": "10",
+    "timestamp": "2026-05-14T00:47:12.475Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "guest-54be4ece-9e2b-474f-9d38-577976065f54",
+      "shortId": "IJ6DDH",
+      "name": "EGD|Galaxy",
+      "role": "USER",
+      "level": 35
+    },
+    "message": ":(",
+    "timestamp": "2026-05-14T00:48:07.801Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "guest-54be4ece-9e2b-474f-9d38-577976065f54",
+      "shortId": "IJ6DDH",
+      "name": "EGD|Galaxy",
+      "role": "USER",
+      "level": 35
+    },
+    "message": "Who has [CYB3R|Bayonet|WEAPON_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-14T00:48:50.307Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "guest-54be4ece-9e2b-474f-9d38-577976065f54",
+      "shortId": "IJ6DDH",
+      "name": "EGD|Galaxy",
+      "role": "USER",
+      "level": 35
+    },
+    "message": "Trade",
+    "timestamp": "2026-05-14T00:49:12.824Z"
   }
 ]
