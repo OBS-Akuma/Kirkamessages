@@ -8,7 +8,7 @@
       "role": "USER",
       "level": 20
     },
-    "message": "/ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ°NV",
+    "message": "/ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ°NV",
     "timestamp": "2026-05-14T12:18:05.757Z"
   },
   {
@@ -200,7 +200,7 @@
       "role": "USER",
       "level": 22
     },
-    "message": "/hm ÃÂÃÂ§",
+    "message": "/hm ÃÂÃÂÃÂÃÂ§",
     "timestamp": "2026-05-14T14:44:20.660Z"
   },
   {
@@ -260,7 +260,7 @@
       "role": "USER",
       "level": 22
     },
-    "message": "/hm ÃÂÃÂ",
+    "message": "/hm ÃÂÃÂÃÂÃÂ",
     "timestamp": "2026-05-14T14:44:47.623Z"
   },
   {
@@ -382,5 +382,77 @@
     },
     "message": "/wager",
     "timestamp": "2026-05-14T17:14:59.246Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "0gcBaCl2jLQQalynA53ag9AH7Ur2",
+      "shortId": "1KNVVY",
+      "name": "ORBION",
+      "role": "USER",
+      "level": 22
+    },
+    "message": "/hm rubyx180000",
+    "timestamp": "2026-05-14T17:51:12.402Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "0gcBaCl2jLQQalynA53ag9AH7Ur2",
+      "shortId": "1KNVVY",
+      "name": "ORBION",
+      "role": "USER",
+      "level": 22
+    },
+    "message": "a7tradd",
+    "timestamp": "2026-05-14T17:51:24.305Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "0gcBaCl2jLQQalynA53ag9AH7Ur2",
+      "shortId": "1KNVVY",
+      "name": "ORBION",
+      "role": "USER",
+      "level": 22
+    },
+    "message": "/hm champion",
+    "timestamp": "2026-05-14T18:06:05.034Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "0gcBaCl2jLQQalynA53ag9AH7Ur2",
+      "shortId": "1KNVVY",
+      "name": "ORBION",
+      "role": "USER",
+      "level": 22
+    },
+    "message": "(",
+    "timestamp": "2026-05-14T18:08:06.109Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "0gcBaCl2jLQQalynA53ag9AH7Ur2",
+      "shortId": "1KNVVY",
+      "name": "ORBION",
+      "role": "USER",
+      "level": 22
+    },
+    "message": "()/(()",
+    "timestamp": "2026-05-14T18:08:12.669Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "0gcBaCl2jLQQalynA53ag9AH7Ur2",
+      "shortId": "1KNVVY",
+      "name": "ORBION",
+      "role": "USER",
+      "level": 22
+    },
+    "message": "&&",
+    "timestamp": "2026-05-14T18:08:15.090Z"
   }
 ]
