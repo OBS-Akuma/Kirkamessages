@@ -4198,5 +4198,53 @@
     },
     "message": "#L7K5B3 salki",
     "timestamp": "2026-05-13T04:09:20.927Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "8f8504ad-4217-4a7e-86ac-9eeffb88829c",
+      "shortId": "IKS2ND",
+      "name": "El_Diablo",
+      "role": "USER",
+      "level": 78
+    },
+    "message": "#00ZW80 can I buy with goldens?",
+    "timestamp": "2026-05-14T00:46:28.095Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "8f8504ad-4217-4a7e-86ac-9eeffb88829c",
+      "shortId": "IKS2ND",
+      "name": "El_Diablo",
+      "role": "USER",
+      "level": 78
+    },
+    "message": "#YA5S5A ye?",
+    "timestamp": "2026-05-14T00:46:42.143Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "8f8504ad-4217-4a7e-86ac-9eeffb88829c",
+      "shortId": "IKS2ND",
+      "name": "El_Diablo",
+      "role": "USER",
+      "level": 78
+    },
+    "message": "#YA5S5A ye",
+    "timestamp": "2026-05-14T00:47:11.685Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "8f8504ad-4217-4a7e-86ac-9eeffb88829c",
+      "shortId": "IKS2ND",
+      "name": "El_Diablo",
+      "role": "USER",
+      "level": 78
+    },
+    "message": "#YA5S5A kirka discord, imgur",
+    "timestamp": "2026-05-14T00:47:37.538Z"
   }
 ]
