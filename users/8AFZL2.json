@@ -226,5 +226,17 @@
     },
     "message": "...",
     "timestamp": "2026-05-14T13:33:13.347Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "dde0da8a-87f3-4294-bf44-5b5aaf07c020",
+      "shortId": "8AFZL2",
+      "name": "AIMTOME",
+      "role": "USER",
+      "level": 32
+    },
+    "message": "Leo",
+    "timestamp": "2026-05-14T15:42:12.627Z"
   }
 ]
