@@ -1054,5 +1054,17 @@
     },
     "message": "/hm [Golden||CHEST|LEGENDARY]x675,[Ice||CHEST|EPIC]x7,[Wood||CHEST|COMMON]x1018",
     "timestamp": "2026-05-13T20:26:17.360Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "4565adc2-154f-4217-b2fc-56369a378692",
+      "shortId": "H345UD",
+      "name": "Hybrid",
+      "role": "USER",
+      "level": 29
+    },
+    "message": "/hm gore",
+    "timestamp": "2026-05-14T15:39:33.796Z"
   }
 ]
