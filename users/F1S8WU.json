@@ -3586,5 +3586,101 @@
     },
     "message": "It went off",
     "timestamp": "2026-05-14T06:43:02.243Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "fce58d08-90f4-45cd-9aba-7f4babb73836",
+      "shortId": "F1S8WU",
+      "name": "Blessed",
+      "role": "USER",
+      "level": 76
+    },
+    "message": "/wager [Golden||CHEST|LEGENDARY]x100 #F8X5NM",
+    "timestamp": "2026-05-14T11:41:22.093Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "fce58d08-90f4-45cd-9aba-7f4babb73836",
+      "shortId": "F1S8WU",
+      "name": "Blessed",
+      "role": "USER",
+      "level": 76
+    },
+    "message": "Venom 1v1",
+    "timestamp": "2026-05-14T11:43:09.439Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "fce58d08-90f4-45cd-9aba-7f4babb73836",
+      "shortId": "F1S8WU",
+      "name": "Blessed",
+      "role": "USER",
+      "level": 76
+    },
+    "message": "Golden 100",
+    "timestamp": "2026-05-14T11:43:30.540Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "fce58d08-90f4-45cd-9aba-7f4babb73836",
+      "shortId": "F1S8WU",
+      "name": "Blessed",
+      "role": "USER",
+      "level": 76
+    },
+    "message": "Venom",
+    "timestamp": "2026-05-14T11:46:28.552Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "fce58d08-90f4-45cd-9aba-7f4babb73836",
+      "shortId": "F1S8WU",
+      "name": "Blessed",
+      "role": "USER",
+      "level": 76
+    },
+    "message": "1vq",
+    "timestamp": "2026-05-14T11:46:40.516Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "fce58d08-90f4-45cd-9aba-7f4babb73836",
+      "shortId": "F1S8WU",
+      "name": "Blessed",
+      "role": "USER",
+      "level": 76
+    },
+    "message": "Venom",
+    "timestamp": "2026-05-14T12:33:52.920Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "fce58d08-90f4-45cd-9aba-7f4babb73836",
+      "shortId": "F1S8WU",
+      "name": "Blessed",
+      "role": "USER",
+      "level": 76
+    },
+    "message": "Yes",
+    "timestamp": "2026-05-14T12:34:23.541Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "fce58d08-90f4-45cd-9aba-7f4babb73836",
+      "shortId": "F1S8WU",
+      "name": "Blessed",
+      "role": "USER",
+      "level": 76
+    },
+    "message": "G",
+    "timestamp": "2026-05-14T12:34:44.325Z"
   }
 ]
