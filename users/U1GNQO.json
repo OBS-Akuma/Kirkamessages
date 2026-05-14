@@ -1,0 +1,38 @@
+[
+  {
+    "type": 2,
+    "user": {
+      "id": "6aa6a88a-520d-48ab-bff5-474b59da265e",
+      "shortId": "U1GNQO",
+      "name": "Zenith",
+      "role": "USER",
+      "level": 17
+    },
+    "message": "#Z97DD0",
+    "timestamp": "2026-05-14T00:27:34.382Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "6aa6a88a-520d-48ab-bff5-474b59da265e",
+      "shortId": "U1GNQO",
+      "name": "Zenith",
+      "role": "USER",
+      "level": 17
+    },
+    "message": "/enter",
+    "timestamp": "2026-05-14T00:27:35.508Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "6aa6a88a-520d-48ab-bff5-474b59da265e",
+      "shortId": "U1GNQO",
+      "name": "Zenith",
+      "role": "USER",
+      "level": 17
+    },
+    "message": "#Z97DD0",
+    "timestamp": "2026-05-14T00:27:41.042Z"
+  }
+]
