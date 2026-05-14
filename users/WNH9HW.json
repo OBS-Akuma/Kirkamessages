@@ -1,0 +1,26 @@
+[
+  {
+    "type": 2,
+    "user": {
+      "id": "f4852ecd-035d-4936-bec3-b064f425260b",
+      "shortId": "WNH9HW",
+      "name": "Queroleitor",
+      "role": "USER",
+      "level": 89
+    },
+    "message": "'kirkabot-0x2c3683",
+    "timestamp": "2026-05-14T16:54:51.971Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "f4852ecd-035d-4936-bec3-b064f425260b",
+      "shortId": "WNH9HW",
+      "name": "Queroleitor",
+      "role": "USER",
+      "level": 89
+    },
+    "message": "kirkabot-0x1a037e",
+    "timestamp": "2026-05-14T16:56:07.752Z"
+  }
+]
