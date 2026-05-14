@@ -262,5 +262,77 @@
     },
     "message": "TR [MOLTOROATH]",
     "timestamp": "2026-05-12T22:32:39.928Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "652ac228-3d25-43e1-a1ae-45e14849f39f",
+      "shortId": "389VYL",
+      "name": "magma",
+      "role": "USER",
+      "level": 32
+    },
+    "message": "/inv",
+    "timestamp": "2026-05-14T15:59:59.424Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "652ac228-3d25-43e1-a1ae-45e14849f39f",
+      "shortId": "389VYL",
+      "name": "magma",
+      "role": "USER",
+      "level": 32
+    },
+    "message": "tr [Moltorath||BODY_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-14T16:00:29.949Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "652ac228-3d25-43e1-a1ae-45e14849f39f",
+      "shortId": "389VYL",
+      "name": "magma",
+      "role": "USER",
+      "level": 32
+    },
+    "message": "YEP",
+    "timestamp": "2026-05-14T16:00:54.122Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "652ac228-3d25-43e1-a1ae-45e14849f39f",
+      "shortId": "389VYL",
+      "name": "magma",
+      "role": "USER",
+      "level": 32
+    },
+    "message": "ye?",
+    "timestamp": "2026-05-14T16:01:06.691Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "652ac228-3d25-43e1-a1ae-45e14849f39f",
+      "shortId": "389VYL",
+      "name": "magma",
+      "role": "USER",
+      "level": 32
+    },
+    "message": "tr [Moltorath||BODY_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-14T16:09:55.599Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "652ac228-3d25-43e1-a1ae-45e14849f39f",
+      "shortId": "389VYL",
+      "name": "magma",
+      "role": "USER",
+      "level": 32
+    },
+    "message": "LF [Slasher||BODY_SKIN|PARANORMAL]",
+    "timestamp": "2026-05-14T16:10:17.601Z"
   }
 ]
