@@ -22,5 +22,101 @@
     },
     "message": "I AM ULTIMATE HOPE",
     "timestamp": "2026-05-14T12:34:06.441Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "d8ed2826-bad8-4b7b-9656-cd5ae7297d8a",
+      "shortId": "I6RNRH",
+      "name": "Makoto_Naegi",
+      "role": "USER",
+      "level": 86
+    },
+    "message": "LF GODD REVOLVER SKINS",
+    "timestamp": "2026-05-14T13:37:05.432Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "d8ed2826-bad8-4b7b-9656-cd5ae7297d8a",
+      "shortId": "I6RNRH",
+      "name": "Makoto_Naegi",
+      "role": "USER",
+      "level": 86
+    },
+    "message": "WHO WANTS [Pulse|Revolver|WEAPON_SKIN|MYTHICAL]?",
+    "timestamp": "2026-05-14T13:39:28.591Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "d8ed2826-bad8-4b7b-9656-cd5ae7297d8a",
+      "shortId": "I6RNRH",
+      "name": "Makoto_Naegi",
+      "role": "USER",
+      "level": 86
+    },
+    "message": "/hm infernal",
+    "timestamp": "2026-05-14T13:40:39.585Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "d8ed2826-bad8-4b7b-9656-cd5ae7297d8a",
+      "shortId": "I6RNRH",
+      "name": "Makoto_Naegi",
+      "role": "USER",
+      "level": 86
+    },
+    "message": "/hm pulse",
+    "timestamp": "2026-05-14T13:40:44.335Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "d8ed2826-bad8-4b7b-9656-cd5ae7297d8a",
+      "shortId": "I6RNRH",
+      "name": "Makoto_Naegi",
+      "role": "USER",
+      "level": 86
+    },
+    "message": "/hm [Pulse|Revolver|WEAPON_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-14T13:41:04.926Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "d8ed2826-bad8-4b7b-9656-cd5ae7297d8a",
+      "shortId": "I6RNRH",
+      "name": "Makoto_Naegi",
+      "role": "USER",
+      "level": 86
+    },
+    "message": "i want [Capricorn|Tomahawk|WEAPON_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-14T13:41:28.067Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "d8ed2826-bad8-4b7b-9656-cd5ae7297d8a",
+      "shortId": "I6RNRH",
+      "name": "Makoto_Naegi",
+      "role": "USER",
+      "level": 86
+    },
+    "message": "i give [Pulse|Revolver|WEAPON_SKIN|MYTHICAL]?",
+    "timestamp": "2026-05-14T13:41:38.848Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "d8ed2826-bad8-4b7b-9656-cd5ae7297d8a",
+      "shortId": "I6RNRH",
+      "name": "Makoto_Naegi",
+      "role": "USER",
+      "level": 86
+    },
+    "message": "[Capricorn|Tomahawk|WEAPON_SKIN|MYTHICAL] for [Pulse|Revolver|WEAPON_SKIN|MYTHICAL]?",
+    "timestamp": "2026-05-14T13:42:14.965Z"
   }
 ]
