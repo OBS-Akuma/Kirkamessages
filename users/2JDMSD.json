@@ -1618,5 +1618,29 @@
     },
     "message": "Wagering [Golden||CHEST|LEGENDARY]x800.",
     "timestamp": "2026-05-13T22:28:19.907Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "1385b47a-bc43-4879-a1c4-7baf533b7bcc",
+      "shortId": "2JDMSD",
+      "name": "[\\/]Ike",
+      "role": "USER",
+      "level": 47
+    },
+    "message": "Wagering [Golden||CHEST|LEGENDARY]x800",
+    "timestamp": "2026-05-14T02:46:25.825Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "1385b47a-bc43-4879-a1c4-7baf533b7bcc",
+      "shortId": "2JDMSD",
+      "name": "[\\/]Ike",
+      "role": "USER",
+      "level": 47
+    },
+    "message": "/confirmwager",
+    "timestamp": "2026-05-14T02:46:44.893Z"
   }
 ]
