@@ -310,5 +310,29 @@
     },
     "message": "trading:[Fade|Revolver|WEAPON_SKIN|LEGENDARY]",
     "timestamp": "2026-05-14T00:47:11.854Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "guest-14124d53-c031-432c-9730-b5b3133369c3",
+      "shortId": "CUNMZE",
+      "name": "NotAverage",
+      "role": "USER",
+      "level": 14
+    },
+    "message": "?wager",
+    "timestamp": "2026-05-14T00:49:43.549Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "guest-14124d53-c031-432c-9730-b5b3133369c3",
+      "shortId": "CUNMZE",
+      "name": "NotAverage",
+      "role": "USER",
+      "level": 15
+    },
+    "message": "I'll trade for solar",
+    "timestamp": "2026-05-14T01:55:29.724Z"
   }
 ]
