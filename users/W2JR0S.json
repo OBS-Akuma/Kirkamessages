@@ -2170,5 +2170,17 @@
     },
     "message": "add me",
     "timestamp": "2026-05-13T22:45:45.017Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "66c2048f-7fdf-490a-b4fe-9e9f345751b6",
+      "shortId": "W2JR0S",
+      "name": "TobiasKpsGamin",
+      "role": "USER",
+      "level": 81
+    },
+    "message": "anyone wanna 1v1?",
+    "timestamp": "2026-05-13T22:47:49.060Z"
   }
 ]
