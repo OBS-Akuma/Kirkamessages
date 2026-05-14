@@ -1066,5 +1066,17 @@
     },
     "message": "bruh",
     "timestamp": "2026-05-13T18:03:48.248Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "zHM9sIdJaGYY4Yv50T12EQRkGpF2",
+      "shortId": "ZRPPEQ",
+      "name": "XzroniX",
+      "role": "USER",
+      "level": 85
+    },
+    "message": "/hm [Warlord||BODY_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-14T11:20:49.323Z"
   }
 ]
