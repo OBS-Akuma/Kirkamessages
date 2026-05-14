@@ -202,5 +202,29 @@
     },
     "message": "/inv",
     "timestamp": "2026-05-12T22:53:23.134Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "d8918df7-2a1c-4f91-a644-72d2ab0ca065",
+      "shortId": "BQ95MT",
+      "name": "Gang$ter",
+      "role": "USER",
+      "level": 52
+    },
+    "message": "/inv.",
+    "timestamp": "2026-05-14T02:48:03.163Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "d8918df7-2a1c-4f91-a644-72d2ab0ca065",
+      "shortId": "BQ95MT",
+      "name": "Gang$ter",
+      "role": "USER",
+      "level": 52
+    },
+    "message": "/inv",
+    "timestamp": "2026-05-14T02:48:35.125Z"
   }
 ]
