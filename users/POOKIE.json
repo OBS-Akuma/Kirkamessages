@@ -11036,7 +11036,7 @@
       "role": "USER",
       "level": 99
     },
-    "message": "Iâm top 5 rn lmao",
+    "message": "IÃ¢ÂÂm top 5 rn lmao",
     "timestamp": "2026-05-13T05:32:15.023Z"
   },
   {
@@ -11494,5 +11494,77 @@
     },
     "message": "no graywing",
     "timestamp": "2026-05-13T23:35:12.552Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "7b609f0d-49c0-45b7-b15d-9934489db3d9",
+      "shortId": "POOKIE",
+      "name": "_Nxt",
+      "role": "USER",
+      "level": 99
+    },
+    "message": "hisoka",
+    "timestamp": "2026-05-14T02:06:11.609Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "7b609f0d-49c0-45b7-b15d-9934489db3d9",
+      "shortId": "POOKIE",
+      "name": "_Nxt",
+      "role": "USER",
+      "level": 99
+    },
+    "message": "wanna wager jenni",
+    "timestamp": "2026-05-14T02:06:14.400Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "7b609f0d-49c0-45b7-b15d-9934489db3d9",
+      "shortId": "POOKIE",
+      "name": "_Nxt",
+      "role": "USER",
+      "level": 99
+    },
+    "message": "im down",
+    "timestamp": "2026-05-14T02:06:15.516Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "7b609f0d-49c0-45b7-b15d-9934489db3d9",
+      "shortId": "POOKIE",
+      "name": "_Nxt",
+      "role": "USER",
+      "level": 99
+    },
+    "message": "wager wolfy hisokaaaaaaa!",
+    "timestamp": "2026-05-14T03:45:18.936Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "7b609f0d-49c0-45b7-b15d-9934489db3d9",
+      "shortId": "POOKIE",
+      "name": "_Nxt",
+      "role": "USER",
+      "level": 99
+    },
+    "message": "lmao",
+    "timestamp": "2026-05-14T03:45:21.884Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "7b609f0d-49c0-45b7-b15d-9934489db3d9",
+      "shortId": "POOKIE",
+      "name": "_Nxt",
+      "role": "USER",
+      "level": 99
+    },
+    "message": "im jk dw",
+    "timestamp": "2026-05-14T03:45:24.019Z"
   }
 ]
