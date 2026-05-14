@@ -70,5 +70,29 @@
     },
     "message": "its usally dead around this time anyways",
     "timestamp": "2026-05-08T00:39:21.534Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "f89f551b-813e-4a90-936e-7c39b5a7fe37",
+      "shortId": "74BA8S",
+      "name": "eli*",
+      "role": "USER",
+      "level": 100
+    },
+    "message": "lf [Maze||BODY_SKIN|EPIC]",
+    "timestamp": "2026-05-14T06:55:41.695Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "f89f551b-813e-4a90-936e-7c39b5a7fe37",
+      "shortId": "74BA8S",
+      "name": "eli*",
+      "role": "USER",
+      "level": 100
+    },
+    "message": "[Kod||BODY_SKIN|LEGENDARY][Lor||BODY_SKIN|LEGENDARY][Bunny||BODY_SKIN|EPIC][Maze||BODY_SKIN|EPIC]",
+    "timestamp": "2026-05-14T07:14:33.896Z"
   }
 ]
