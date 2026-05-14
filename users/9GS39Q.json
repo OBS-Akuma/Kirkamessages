@@ -274,5 +274,77 @@
     },
     "message": "[Warlord||BODY_SKIN|MYTHICAL] [Sizzle||BODY_SKIN|MYTHICAL]",
     "timestamp": "2026-05-13T05:14:10.305Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "7714e24e-93ad-49df-a7d8-5bd8cc33d629",
+      "shortId": "9GS39Q",
+      "name": "BreadManz",
+      "role": "USER",
+      "level": 29
+    },
+    "message": "/hm [egghunt]",
+    "timestamp": "2026-05-14T09:32:31.324Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "7714e24e-93ad-49df-a7d8-5bd8cc33d629",
+      "shortId": "9GS39Q",
+      "name": "BreadManz",
+      "role": "USER",
+      "level": 29
+    },
+    "message": "/hm [Egg Hunt|Shark|WEAPON_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-14T09:32:44.461Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "7714e24e-93ad-49df-a7d8-5bd8cc33d629",
+      "shortId": "9GS39Q",
+      "name": "BreadManz",
+      "role": "USER",
+      "level": 29
+    },
+    "message": "/locate [Black Santa||BODY_SKIN|PARANORMAL]",
+    "timestamp": "2026-05-14T09:33:28.354Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "7714e24e-93ad-49df-a7d8-5bd8cc33d629",
+      "shortId": "9GS39Q",
+      "name": "BreadManz",
+      "role": "USER",
+      "level": 29
+    },
+    "message": "[Astronova|LAR|WEAPON_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-14T09:34:39.924Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "7714e24e-93ad-49df-a7d8-5bd8cc33d629",
+      "shortId": "9GS39Q",
+      "name": "BreadManz",
+      "role": "USER",
+      "level": 29
+    },
+    "message": "Gimme 1200 qt [Astronova|LAR|WEAPON_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-14T09:35:29.595Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "7714e24e-93ad-49df-a7d8-5bd8cc33d629",
+      "shortId": "9GS39Q",
+      "name": "BreadManz",
+      "role": "USER",
+      "level": 29
+    },
+    "message": "/locate [Santa|VITA|WEAPON_SKIN|LEGENDARY]",
+    "timestamp": "2026-05-14T09:36:53.573Z"
   }
 ]
