@@ -1834,5 +1834,41 @@
     },
     "message": "/lvlreward 84",
     "timestamp": "2026-05-14T02:09:59.012Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "e53ac14c-dc7d-421c-8abd-fe7b9e185688",
+      "shortId": "I7SCOX",
+      "name": "cocoa_koala",
+      "role": "USER",
+      "level": 82
+    },
+    "message": "/hm choco",
+    "timestamp": "2026-05-14T03:56:20.691Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "e53ac14c-dc7d-421c-8abd-fe7b9e185688",
+      "shortId": "I7SCOX",
+      "name": "cocoa_koala",
+      "role": "USER",
+      "level": 82
+    },
+    "message": "/price choco",
+    "timestamp": "2026-05-14T03:56:23.800Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "e53ac14c-dc7d-421c-8abd-fe7b9e185688",
+      "shortId": "I7SCOX",
+      "name": "cocoa_koala",
+      "role": "USER",
+      "level": 82
+    },
+    "message": "/price [Choco||BODY_SKIN|LEGENDARY]",
+    "timestamp": "2026-05-14T03:56:30.778Z"
   }
 ]
