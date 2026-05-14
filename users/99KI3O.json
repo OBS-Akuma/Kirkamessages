@@ -46,5 +46,17 @@
     },
     "message": "[Goldie||BODY_SKIN|MYTHICAL]",
     "timestamp": "2026-05-12T03:18:27.105Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "44000ee7-74ef-402c-8347-94038f162411",
+      "shortId": "99KI3O",
+      "name": "ramen",
+      "role": "VERIFIED",
+      "level": 100
+    },
+    "message": "yeah, you're getting 100% muted lol",
+    "timestamp": "2026-05-14T15:35:05.464Z"
   }
 ]
