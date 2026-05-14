@@ -118,5 +118,17 @@
     },
     "message": "/hm teddy",
     "timestamp": "2026-05-09T16:52:46.753Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "abce0b7b-a5ee-4bae-b599-63185581fa40",
+      "shortId": "6WH8YI",
+      "name": "MR_RESPECT",
+      "role": "USER",
+      "level": 51
+    },
+    "message": "/accept 80849",
+    "timestamp": "2026-05-14T12:23:02.936Z"
   }
 ]
