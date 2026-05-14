@@ -16016,5 +16016,101 @@
     },
     "message": "ok",
     "timestamp": "2026-05-14T01:13:34.813Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "4525c2fd-62ac-46cf-8b35-f56bc75a81bb",
+      "shortId": "5GD3AU",
+      "name": "7xWORLDCHAMP",
+      "role": "USER",
+      "level": 48
+    },
+    "message": "/enter",
+    "timestamp": "2026-05-14T04:25:17.322Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "4525c2fd-62ac-46cf-8b35-f56bc75a81bb",
+      "shortId": "5GD3AU",
+      "name": "7xWORLDCHAMP",
+      "role": "USER",
+      "level": 48
+    },
+    "message": "#CURSED",
+    "timestamp": "2026-05-14T04:25:23.683Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "4525c2fd-62ac-46cf-8b35-f56bc75a81bb",
+      "shortId": "5GD3AU",
+      "name": "7xWORLDCHAMP",
+      "role": "USER",
+      "level": 48
+    },
+    "message": "what the",
+    "timestamp": "2026-05-14T04:25:30.861Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "4525c2fd-62ac-46cf-8b35-f56bc75a81bb",
+      "shortId": "5GD3AU",
+      "name": "7xWORLDCHAMP",
+      "role": "USER",
+      "level": 48
+    },
+    "message": "wsp nefor",
+    "timestamp": "2026-05-14T04:25:38.050Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "4525c2fd-62ac-46cf-8b35-f56bc75a81bb",
+      "shortId": "5GD3AU",
+      "name": "7xWORLDCHAMP",
+      "role": "USER",
+      "level": 48
+    },
+    "message": "im bilal",
+    "timestamp": "2026-05-14T04:25:40.666Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "4525c2fd-62ac-46cf-8b35-f56bc75a81bb",
+      "shortId": "5GD3AU",
+      "name": "7xWORLDCHAMP",
+      "role": "USER",
+      "level": 48
+    },
+    "message": "hyd",
+    "timestamp": "2026-05-14T04:25:43.427Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "4525c2fd-62ac-46cf-8b35-f56bc75a81bb",
+      "shortId": "5GD3AU",
+      "name": "7xWORLDCHAMP",
+      "role": "USER",
+      "level": 48
+    },
+    "message": "alr peace",
+    "timestamp": "2026-05-14T04:26:08.046Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "4525c2fd-62ac-46cf-8b35-f56bc75a81bb",
+      "shortId": "5GD3AU",
+      "name": "7xWORLDCHAMP",
+      "role": "USER",
+      "level": 48
+    },
+    "message": "/inv",
+    "timestamp": "2026-05-14T04:26:09.379Z"
   }
 ]
