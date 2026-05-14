@@ -22,5 +22,17 @@
     },
     "message": "trade offer my:[Wood||CHEST|COMMON] your:[Infernal|AR-9|WEAPON_SKIN|MYTHICAL]",
     "timestamp": "2026-05-09T05:41:19.216Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "e86ca335-713a-4989-86d0-b0a363119900",
+      "shortId": "TBR364",
+      "name": "alpha",
+      "role": "USER",
+      "level": 60
+    },
+    "message": "hi",
+    "timestamp": "2026-05-14T12:29:52.044Z"
   }
 ]
