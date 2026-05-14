@@ -190,5 +190,17 @@
     },
     "message": "/cancelwager",
     "timestamp": "2026-05-12T22:04:07.686Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "I5ej63ppmJhA5kC8oeXzfzXlWCE3",
+      "shortId": "AMSACC",
+      "name": "The_Pharaoh",
+      "role": "USER",
+      "level": 73
+    },
+    "message": "k",
+    "timestamp": "2026-05-14T11:54:20.173Z"
   }
 ]
