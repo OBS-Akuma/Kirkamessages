@@ -5878,5 +5878,77 @@
     },
     "message": "..",
     "timestamp": "2026-05-14T15:40:35.179Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "3cd39bca-fb4d-4024-bf72-57d747f9a75f",
+      "shortId": "5ZCHYI",
+      "name": "Saint.",
+      "role": "USER",
+      "level": 74
+    },
+    "message": "ram",
+    "timestamp": "2026-05-14T16:43:25.094Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "3cd39bca-fb4d-4024-bf72-57d747f9a75f",
+      "shortId": "5ZCHYI",
+      "name": "Saint.",
+      "role": "USER",
+      "level": 74
+    },
+    "message": "u got imp ?",
+    "timestamp": "2026-05-14T16:43:30.807Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "3cd39bca-fb4d-4024-bf72-57d747f9a75f",
+      "shortId": "5ZCHYI",
+      "name": "Saint.",
+      "role": "USER",
+      "level": 74
+    },
+    "message": "or shinji ?",
+    "timestamp": "2026-05-14T16:43:41.139Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "3cd39bca-fb4d-4024-bf72-57d747f9a75f",
+      "shortId": "5ZCHYI",
+      "name": "Saint.",
+      "role": "USER",
+      "level": 74
+    },
+    "message": "trading [Lor||BODY_SKIN|LEGENDARY][Radioactive|Bayonet|WEAPON_SKIN|LEGENDARY][Gentleman||BODY_SKIN|MYTHICAL][Astral|AR-9|WEAPON_SKIN|MYTHICAL][Basket||BODY_SKIN|MYTHICAL][Scarlet|SCAR|WEAPON_SKIN|LEGENDARY][Billion|Shark|WEAPON_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-14T16:46:02.690Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "3cd39bca-fb4d-4024-bf72-57d747f9a75f",
+      "shortId": "5ZCHYI",
+      "name": "Saint.",
+      "role": "USER",
+      "level": 74
+    },
+    "message": "trading [Lor||BODY_SKIN|LEGENDARY][Radioactive|Bayonet|WEAPON_SKIN|LEGENDARY][Gentleman||BODY_SKIN|MYTHICAL][Business Cat||BODY_SKIN|MYTHICAL][Astral|AR-9|WEAPON_SKIN|MYTHICAL][Basket||BODY_SKIN|MYTHICAL][Scarlet|SCAR|WEAPON_SKIN|LEGENDARY]",
+    "timestamp": "2026-05-14T16:47:02.344Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "3cd39bca-fb4d-4024-bf72-57d747f9a75f",
+      "shortId": "5ZCHYI",
+      "name": "Saint.",
+      "role": "USER",
+      "level": 74
+    },
+    "message": "lol asta",
+    "timestamp": "2026-05-14T16:47:42.312Z"
   }
 ]
