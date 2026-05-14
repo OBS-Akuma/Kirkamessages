@@ -946,5 +946,461 @@
     },
     "message": "/gw",
     "timestamp": "2026-05-14T00:33:59.311Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "89f5517d-5d90-40c8-a84a-8d391351c502",
+      "shortId": "IH51XN",
+      "name": "AllMight",
+      "role": "USER",
+      "level": 32
+    },
+    "message": "#Z97DD0 can i get soething",
+    "timestamp": "2026-05-14T11:39:42.768Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "89f5517d-5d90-40c8-a84a-8d391351c502",
+      "shortId": "IH51XN",
+      "name": "AllMight",
+      "role": "USER",
+      "level": 32
+    },
+    "message": "pls",
+    "timestamp": "2026-05-14T11:39:44.714Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "89f5517d-5d90-40c8-a84a-8d391351c502",
+      "shortId": "IH51XN",
+      "name": "AllMight",
+      "role": "USER",
+      "level": 32
+    },
+    "message": "anyone wager jade",
+    "timestamp": "2026-05-14T11:42:34.598Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "89f5517d-5d90-40c8-a84a-8d391351c502",
+      "shortId": "IH51XN",
+      "name": "AllMight",
+      "role": "USER",
+      "level": 32
+    },
+    "message": "anyone",
+    "timestamp": "2026-05-14T11:43:21.425Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "89f5517d-5d90-40c8-a84a-8d391351c502",
+      "shortId": "IH51XN",
+      "name": "AllMight",
+      "role": "USER",
+      "level": 32
+    },
+    "message": "wager jade",
+    "timestamp": "2026-05-14T11:43:27.307Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "89f5517d-5d90-40c8-a84a-8d391351c502",
+      "shortId": "IH51XN",
+      "name": "AllMight",
+      "role": "USER",
+      "level": 32
+    },
+    "message": "yes #Z97DD0",
+    "timestamp": "2026-05-14T11:43:34.231Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "89f5517d-5d90-40c8-a84a-8d391351c502",
+      "shortId": "IH51XN",
+      "name": "AllMight",
+      "role": "USER",
+      "level": 32
+    },
+    "message": "#Z97DD0 can ig et something xdd",
+    "timestamp": "2026-05-14T11:43:43.765Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "89f5517d-5d90-40c8-a84a-8d391351c502",
+      "shortId": "IH51XN",
+      "name": "AllMight",
+      "role": "USER",
+      "level": 32
+    },
+    "message": "i wanna wager jade",
+    "timestamp": "2026-05-14T11:48:30.947Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "89f5517d-5d90-40c8-a84a-8d391351c502",
+      "shortId": "IH51XN",
+      "name": "AllMight",
+      "role": "USER",
+      "level": 32
+    },
+    "message": "WAGERING JADE",
+    "timestamp": "2026-05-14T12:00:51.834Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "89f5517d-5d90-40c8-a84a-8d391351c502",
+      "shortId": "IH51XN",
+      "name": "AllMight",
+      "role": "USER",
+      "level": 32
+    },
+    "message": "wagering jade",
+    "timestamp": "2026-05-14T12:01:49.385Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "89f5517d-5d90-40c8-a84a-8d391351c502",
+      "shortId": "IH51XN",
+      "name": "AllMight",
+      "role": "USER",
+      "level": 32
+    },
+    "message": "who wanna",
+    "timestamp": "2026-05-14T12:01:50.906Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "89f5517d-5d90-40c8-a84a-8d391351c502",
+      "shortId": "IH51XN",
+      "name": "AllMight",
+      "role": "USER",
+      "level": 32
+    },
+    "message": "/wager [Jade|Bayonet|WEAPON_SKIN|MYTHICAL] #609GEM",
+    "timestamp": "2026-05-14T12:02:00.010Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "89f5517d-5d90-40c8-a84a-8d391351c502",
+      "shortId": "IH51XN",
+      "name": "AllMight",
+      "role": "USER",
+      "level": 32
+    },
+    "message": "/cancelwager",
+    "timestamp": "2026-05-14T12:02:14.967Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "89f5517d-5d90-40c8-a84a-8d391351c502",
+      "shortId": "IH51XN",
+      "name": "AllMight",
+      "role": "USER",
+      "level": 32
+    },
+    "message": "/wager [Jade|Bayonet|WEAPON_SKIN|MYTHICAL] #Z97DD0",
+    "timestamp": "2026-05-14T12:02:26.364Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "89f5517d-5d90-40c8-a84a-8d391351c502",
+      "shortId": "IH51XN",
+      "name": "AllMight",
+      "role": "USER",
+      "level": 32
+    },
+    "message": "#Z97DD0 do accep it]",
+    "timestamp": "2026-05-14T12:02:50.174Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "89f5517d-5d90-40c8-a84a-8d391351c502",
+      "shortId": "IH51XN",
+      "name": "AllMight",
+      "role": "USER",
+      "level": 32
+    },
+    "message": "wager accept",
+    "timestamp": "2026-05-14T12:02:53.208Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "89f5517d-5d90-40c8-a84a-8d391351c502",
+      "shortId": "IH51XN",
+      "name": "AllMight",
+      "role": "USER",
+      "level": 32
+    },
+    "message": "/wager [Jade|Bayonet|WEAPON_SKIN|MYTHICAL] #Z97DD0",
+    "timestamp": "2026-05-14T12:03:02.866Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "89f5517d-5d90-40c8-a84a-8d391351c502",
+      "shortId": "IH51XN",
+      "name": "AllMight",
+      "role": "USER",
+      "level": 32
+    },
+    "message": "/confirmwager",
+    "timestamp": "2026-05-14T12:03:14.241Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "89f5517d-5d90-40c8-a84a-8d391351c502",
+      "shortId": "IH51XN",
+      "name": "AllMight",
+      "role": "USER",
+      "level": 32
+    },
+    "message": "#Z97DD0 bro pls i want it back",
+    "timestamp": "2026-05-14T12:03:58.191Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "89f5517d-5d90-40c8-a84a-8d391351c502",
+      "shortId": "IH51XN",
+      "name": "AllMight",
+      "role": "USER",
+      "level": 32
+    },
+    "message": "pls #Z97DD0",
+    "timestamp": "2026-05-14T12:04:04.407Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "89f5517d-5d90-40c8-a84a-8d391351c502",
+      "shortId": "IH51XN",
+      "name": "AllMight",
+      "role": "USER",
+      "level": 32
+    },
+    "message": "#Z97DD0 can i do ge tit..",
+    "timestamp": "2026-05-14T12:04:15.332Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "89f5517d-5d90-40c8-a84a-8d391351c502",
+      "shortId": "IH51XN",
+      "name": "AllMight",
+      "role": "USER",
+      "level": 32
+    },
+    "message": "pls i am poor..",
+    "timestamp": "2026-05-14T12:04:21.168Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "89f5517d-5d90-40c8-a84a-8d391351c502",
+      "shortId": "IH51XN",
+      "name": "AllMight",
+      "role": "USER",
+      "level": 32
+    },
+    "message": "#FFAHG8 pls donate",
+    "timestamp": "2026-05-14T12:04:48.202Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "89f5517d-5d90-40c8-a84a-8d391351c502",
+      "shortId": "IH51XN",
+      "name": "AllMight",
+      "role": "USER",
+      "level": 32
+    },
+    "message": "i am poor bro",
+    "timestamp": "2026-05-14T12:04:52.282Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "89f5517d-5d90-40c8-a84a-8d391351c502",
+      "shortId": "IH51XN",
+      "name": "AllMight",
+      "role": "USER",
+      "level": 32
+    },
+    "message": "i dont have anything..",
+    "timestamp": "2026-05-14T12:04:56.150Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "89f5517d-5d90-40c8-a84a-8d391351c502",
+      "shortId": "IH51XN",
+      "name": "AllMight",
+      "role": "USER",
+      "level": 32
+    },
+    "message": "guyz i am poor",
+    "timestamp": "2026-05-14T12:07:34.219Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "89f5517d-5d90-40c8-a84a-8d391351c502",
+      "shortId": "IH51XN",
+      "name": "AllMight",
+      "role": "USER",
+      "level": 32
+    },
+    "message": "#FFA",
+    "timestamp": "2026-05-14T12:07:43.062Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "89f5517d-5d90-40c8-a84a-8d391351c502",
+      "shortId": "IH51XN",
+      "name": "AllMight",
+      "role": "USER",
+      "level": 32
+    },
+    "message": "poormme..",
+    "timestamp": "2026-05-14T12:07:51.526Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "89f5517d-5d90-40c8-a84a-8d391351c502",
+      "shortId": "IH51XN",
+      "name": "AllMight",
+      "role": "USER",
+      "level": 32
+    },
+    "message": "/raid",
+    "timestamp": "2026-05-14T12:08:03.804Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "89f5517d-5d90-40c8-a84a-8d391351c502",
+      "shortId": "IH51XN",
+      "name": "AllMight",
+      "role": "USER",
+      "level": 32
+    },
+    "message": "/rade",
+    "timestamp": "2026-05-14T12:08:08.426Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "89f5517d-5d90-40c8-a84a-8d391351c502",
+      "shortId": "IH51XN",
+      "name": "AllMight",
+      "role": "USER",
+      "level": 32
+    },
+    "message": "tading [Oblivion|SCAR|WEAPON_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-14T12:08:56.748Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "89f5517d-5d90-40c8-a84a-8d391351c502",
+      "shortId": "IH51XN",
+      "name": "AllMight",
+      "role": "USER",
+      "level": 32
+    },
+    "message": "i have smile too",
+    "timestamp": "2026-05-14T12:09:05.843Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "89f5517d-5d90-40c8-a84a-8d391351c502",
+      "shortId": "IH51XN",
+      "name": "AllMight",
+      "role": "USER",
+      "level": 32
+    },
+    "message": "trading [Smile|VITA|WEAPON_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-14T12:09:12.091Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "89f5517d-5d90-40c8-a84a-8d391351c502",
+      "shortId": "IH51XN",
+      "name": "AllMight",
+      "role": "USER",
+      "level": 32
+    },
+    "message": "#OCDLQA",
+    "timestamp": "2026-05-14T12:26:35.394Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "89f5517d-5d90-40c8-a84a-8d391351c502",
+      "shortId": "IH51XN",
+      "name": "AllMight",
+      "role": "USER",
+      "level": 32
+    },
+    "message": "#0K40CF",
+    "timestamp": "2026-05-14T12:27:01.082Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "89f5517d-5d90-40c8-a84a-8d391351c502",
+      "shortId": "IH51XN",
+      "name": "AllMight",
+      "role": "USER",
+      "level": 32
+    },
+    "message": "#0K40CF hi",
+    "timestamp": "2026-05-14T12:27:11.213Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "89f5517d-5d90-40c8-a84a-8d391351c502",
+      "shortId": "IH51XN",
+      "name": "AllMight",
+      "role": "USER",
+      "level": 32
+    },
+    "message": "#OK40CF",
+    "timestamp": "2026-05-14T12:27:21.008Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "89f5517d-5d90-40c8-a84a-8d391351c502",
+      "shortId": "IH51XN",
+      "name": "AllMight",
+      "role": "USER",
+      "level": 32
+    },
+    "message": "#T6ST2K",
+    "timestamp": "2026-05-14T12:27:48.702Z"
   }
 ]
