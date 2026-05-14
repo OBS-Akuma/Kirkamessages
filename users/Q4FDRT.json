@@ -1198,5 +1198,29 @@
     },
     "message": "ggs",
     "timestamp": "2026-05-12T07:41:10.304Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "64546038-d71f-428b-8f7f-85f52af80adc",
+      "shortId": "Q4FDRT",
+      "name": "Deimos",
+      "role": "USER",
+      "level": 102
+    },
+    "message": "anyone trading [Jingles|VITA|WEAPON_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-13T23:20:50.367Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "64546038-d71f-428b-8f7f-85f52af80adc",
+      "shortId": "Q4FDRT",
+      "name": "Deimos",
+      "role": "USER",
+      "level": 102
+    },
+    "message": "oh i thought ur trading jingles, i see u was responding to wood chest",
+    "timestamp": "2026-05-13T23:21:34.026Z"
   }
 ]
