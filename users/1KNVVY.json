@@ -8,7 +8,7 @@
       "role": "USER",
       "level": 20
     },
-    "message": "/Ä°NV",
+    "message": "/ÃÂ°NV",
     "timestamp": "2026-05-14T12:18:05.757Z"
   },
   {
@@ -106,5 +106,17 @@
     },
     "message": "/hm wood",
     "timestamp": "2026-05-14T12:35:41.967Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "0gcBaCl2jLQQalynA53ag9AH7Ur2",
+      "shortId": "1KNVVY",
+      "name": "ORBION",
+      "role": "USER",
+      "level": 22
+    },
+    "message": "/hm phantom",
+    "timestamp": "2026-05-14T14:30:31.752Z"
   }
 ]
