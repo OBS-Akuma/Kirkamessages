@@ -22,5 +22,29 @@
     },
     "message": "i might be one of the players oat",
     "timestamp": "2026-05-14T13:33:12.108Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "cdb1535e-1e6d-48b6-8ba7-6aebbdaca624",
+      "shortId": "ARTIST",
+      "name": "baddddd",
+      "role": "VERIFIED",
+      "level": 100
+    },
+    "message": "lil bro looking for wagers",
+    "timestamp": "2026-05-14T15:11:15.245Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "cdb1535e-1e6d-48b6-8ba7-6aebbdaca624",
+      "shortId": "ARTIST",
+      "name": "baddddd",
+      "role": "VERIFIED",
+      "level": 100
+    },
+    "message": "lf [Astral|AR-9|WEAPON_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-14T15:14:24.807Z"
   }
 ]
