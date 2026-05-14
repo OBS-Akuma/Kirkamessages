@@ -154,5 +154,29 @@
     },
     "message": "trading [Chick||BODY_SKIN|MYTHICAL]x2",
     "timestamp": "2026-05-13T05:28:06.401Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "767b30e5-3a3c-4631-ba51-23dc0fd7be35",
+      "shortId": "SAVAGE",
+      "name": "m00lb",
+      "role": "VERIFIED",
+      "level": 91
+    },
+    "message": "trading [Chick||BODY_SKIN|MYTHICAL] for 70 mil in skins worth 2-10 mil",
+    "timestamp": "2026-05-14T02:28:36.812Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "767b30e5-3a3c-4631-ba51-23dc0fd7be35",
+      "shortId": "SAVAGE",
+      "name": "m00lb",
+      "role": "VERIFIED",
+      "level": 91
+    },
+    "message": "trading [Chick||BODY_SKIN|MYTHICAL] for 70m in skins worth 2-10m",
+    "timestamp": "2026-05-14T02:39:26.105Z"
   }
 ]
