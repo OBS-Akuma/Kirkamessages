@@ -262,5 +262,581 @@
     },
     "message": "TRADING TECHNETTE AND TURTLE TRADING TECHNETTE AND TURTLE",
     "timestamp": "2026-05-13T11:10:05.763Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "5b0f1f09-93e6-478e-83bb-154921fd822e",
+      "shortId": "71DTZW",
+      "name": "VultureUnknown",
+      "role": "USER",
+      "level": 58
+    },
+    "message": "I HAVE >technette<",
+    "timestamp": "2026-05-14T09:28:36.243Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "5b0f1f09-93e6-478e-83bb-154921fd822e",
+      "shortId": "71DTZW",
+      "name": "VultureUnknown",
+      "role": "USER",
+      "level": 58
+    },
+    "message": "I HAVE (technette)",
+    "timestamp": "2026-05-14T09:28:43.002Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "5b0f1f09-93e6-478e-83bb-154921fd822e",
+      "shortId": "71DTZW",
+      "name": "VultureUnknown",
+      "role": "USER",
+      "level": 58
+    },
+    "message": "I HAVE TECHNETTE",
+    "timestamp": "2026-05-14T09:28:49.565Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "5b0f1f09-93e6-478e-83bb-154921fd822e",
+      "shortId": "71DTZW",
+      "name": "VultureUnknown",
+      "role": "USER",
+      "level": 58
+    },
+    "message": "/price technette",
+    "timestamp": "2026-05-14T09:28:59.444Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "5b0f1f09-93e6-478e-83bb-154921fd822e",
+      "shortId": "71DTZW",
+      "name": "VultureUnknown",
+      "role": "USER",
+      "level": 58
+    },
+    "message": ":technette:",
+    "timestamp": "2026-05-14T09:29:10.435Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "5b0f1f09-93e6-478e-83bb-154921fd822e",
+      "shortId": "71DTZW",
+      "name": "VultureUnknown",
+      "role": "USER",
+      "level": 58
+    },
+    "message": "hm technette",
+    "timestamp": "2026-05-14T09:29:38.666Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "5b0f1f09-93e6-478e-83bb-154921fd822e",
+      "shortId": "71DTZW",
+      "name": "VultureUnknown",
+      "role": "USER",
+      "level": 58
+    },
+    "message": "/hm technette",
+    "timestamp": "2026-05-14T09:29:43.580Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "5b0f1f09-93e6-478e-83bb-154921fd822e",
+      "shortId": "71DTZW",
+      "name": "VultureUnknown",
+      "role": "USER",
+      "level": 58
+    },
+    "message": "/locate technette",
+    "timestamp": "2026-05-14T09:29:55.562Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "5b0f1f09-93e6-478e-83bb-154921fd822e",
+      "shortId": "71DTZW",
+      "name": "VultureUnknown",
+      "role": "USER",
+      "level": 58
+    },
+    "message": "I HAVE TECHNETTE",
+    "timestamp": "2026-05-14T09:30:05.372Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "5b0f1f09-93e6-478e-83bb-154921fd822e",
+      "shortId": "71DTZW",
+      "name": "VultureUnknown",
+      "role": "USER",
+      "level": 58
+    },
+    "message": "ME ME",
+    "timestamp": "2026-05-14T09:30:07.061Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "5b0f1f09-93e6-478e-83bb-154921fd822e",
+      "shortId": "71DTZW",
+      "name": "VultureUnknown",
+      "role": "USER",
+      "level": 58
+    },
+    "message": "/price ghillie",
+    "timestamp": "2026-05-14T09:30:18.046Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "5b0f1f09-93e6-478e-83bb-154921fd822e",
+      "shortId": "71DTZW",
+      "name": "VultureUnknown",
+      "role": "USER",
+      "level": 58
+    },
+    "message": "/price ortus",
+    "timestamp": "2026-05-14T09:31:13.182Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "5b0f1f09-93e6-478e-83bb-154921fd822e",
+      "shortId": "71DTZW",
+      "name": "VultureUnknown",
+      "role": "USER",
+      "level": 58
+    },
+    "message": "/inv",
+    "timestamp": "2026-05-14T09:31:56.695Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "5b0f1f09-93e6-478e-83bb-154921fd822e",
+      "shortId": "71DTZW",
+      "name": "VultureUnknown",
+      "role": "USER",
+      "level": 58
+    },
+    "message": "TRADING GHILLIE",
+    "timestamp": "2026-05-14T09:32:11.378Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "5b0f1f09-93e6-478e-83bb-154921fd822e",
+      "shortId": "71DTZW",
+      "name": "VultureUnknown",
+      "role": "USER",
+      "level": 58
+    },
+    "message": "TRADE gHILLIE",
+    "timestamp": "2026-05-14T09:32:34.609Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "5b0f1f09-93e6-478e-83bb-154921fd822e",
+      "shortId": "71DTZW",
+      "name": "VultureUnknown",
+      "role": "USER",
+      "level": 58
+    },
+    "message": "TRADING GHILLE",
+    "timestamp": "2026-05-14T09:32:36.219Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "5b0f1f09-93e6-478e-83bb-154921fd822e",
+      "shortId": "71DTZW",
+      "name": "VultureUnknown",
+      "role": "USER",
+      "level": 58
+    },
+    "message": "yeah venom?",
+    "timestamp": "2026-05-14T09:32:42.177Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "5b0f1f09-93e6-478e-83bb-154921fd822e",
+      "shortId": "71DTZW",
+      "name": "VultureUnknown",
+      "role": "USER",
+      "level": 58
+    },
+    "message": "whtast that",
+    "timestamp": "2026-05-14T09:32:46.789Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "5b0f1f09-93e6-478e-83bb-154921fd822e",
+      "shortId": "71DTZW",
+      "name": "VultureUnknown",
+      "role": "USER",
+      "level": 58
+    },
+    "message": "whats wager?",
+    "timestamp": "2026-05-14T09:32:58.449Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "5b0f1f09-93e6-478e-83bb-154921fd822e",
+      "shortId": "71DTZW",
+      "name": "VultureUnknown",
+      "role": "USER",
+      "level": 58
+    },
+    "message": "no",
+    "timestamp": "2026-05-14T09:33:10.747Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "5b0f1f09-93e6-478e-83bb-154921fd822e",
+      "shortId": "71DTZW",
+      "name": "VultureUnknown",
+      "role": "USER",
+      "level": 58
+    },
+    "message": "How to wager?",
+    "timestamp": "2026-05-14T09:33:15.988Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "5b0f1f09-93e6-478e-83bb-154921fd822e",
+      "shortId": "71DTZW",
+      "name": "VultureUnknown",
+      "role": "USER",
+      "level": 58
+    },
+    "message": "/hm ghillie",
+    "timestamp": "2026-05-14T09:33:21.930Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "5b0f1f09-93e6-478e-83bb-154921fd822e",
+      "shortId": "71DTZW",
+      "name": "VultureUnknown",
+      "role": "USER",
+      "level": 58
+    },
+    "message": "TRADINg GHILLIE",
+    "timestamp": "2026-05-14T09:33:34.802Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "5b0f1f09-93e6-478e-83bb-154921fd822e",
+      "shortId": "71DTZW",
+      "name": "VultureUnknown",
+      "role": "USER",
+      "level": 58
+    },
+    "message": "TRADING GHILLIE",
+    "timestamp": "2026-05-14T09:33:38.518Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "5b0f1f09-93e6-478e-83bb-154921fd822e",
+      "shortId": "71DTZW",
+      "name": "VultureUnknown",
+      "role": "USER",
+      "level": 58
+    },
+    "message": "/hm ghillie",
+    "timestamp": "2026-05-14T09:33:42.693Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "5b0f1f09-93e6-478e-83bb-154921fd822e",
+      "shortId": "71DTZW",
+      "name": "VultureUnknown",
+      "role": "USER",
+      "level": 58
+    },
+    "message": "WHAT DOES WAGER MEAN?",
+    "timestamp": "2026-05-14T09:34:06.406Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "5b0f1f09-93e6-478e-83bb-154921fd822e",
+      "shortId": "71DTZW",
+      "name": "VultureUnknown",
+      "role": "USER",
+      "level": 58
+    },
+    "message": "GUYS WHAT DOES WAGER MEAN??",
+    "timestamp": "2026-05-14T09:34:14.905Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "5b0f1f09-93e6-478e-83bb-154921fd822e",
+      "shortId": "71DTZW",
+      "name": "VultureUnknown",
+      "role": "USER",
+      "level": 58
+    },
+    "message": "WHAT IS WAGER?",
+    "timestamp": "2026-05-14T09:34:41.564Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "5b0f1f09-93e6-478e-83bb-154921fd822e",
+      "shortId": "71DTZW",
+      "name": "VultureUnknown",
+      "role": "USER",
+      "level": 58
+    },
+    "message": "tELL ME SOMEONE",
+    "timestamp": "2026-05-14T09:34:46.279Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "5b0f1f09-93e6-478e-83bb-154921fd822e",
+      "shortId": "71DTZW",
+      "name": "VultureUnknown",
+      "role": "USER",
+      "level": 58
+    },
+    "message": "/price hastra",
+    "timestamp": "2026-05-14T09:35:11.812Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "5b0f1f09-93e6-478e-83bb-154921fd822e",
+      "shortId": "71DTZW",
+      "name": "VultureUnknown",
+      "role": "USER",
+      "level": 58
+    },
+    "message": "/price astra",
+    "timestamp": "2026-05-14T09:35:18.850Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "5b0f1f09-93e6-478e-83bb-154921fd822e",
+      "shortId": "71DTZW",
+      "name": "VultureUnknown",
+      "role": "USER",
+      "level": 58
+    },
+    "message": "/price melody",
+    "timestamp": "2026-05-14T09:35:28.677Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "5b0f1f09-93e6-478e-83bb-154921fd822e",
+      "shortId": "71DTZW",
+      "name": "VultureUnknown",
+      "role": "USER",
+      "level": 58
+    },
+    "message": "TARDINg GHILLI",
+    "timestamp": "2026-05-14T09:35:41.065Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "5b0f1f09-93e6-478e-83bb-154921fd822e",
+      "shortId": "71DTZW",
+      "name": "VultureUnknown",
+      "role": "USER",
+      "level": 58
+    },
+    "message": "TRADING GHILLIEEE",
+    "timestamp": "2026-05-14T09:35:54.483Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "5b0f1f09-93e6-478e-83bb-154921fd822e",
+      "shortId": "71DTZW",
+      "name": "VultureUnknown",
+      "role": "USER",
+      "level": 58
+    },
+    "message": "TRADING GHILLIEE",
+    "timestamp": "2026-05-14T09:36:18.320Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "5b0f1f09-93e6-478e-83bb-154921fd822e",
+      "shortId": "71DTZW",
+      "name": "VultureUnknown",
+      "role": "USER",
+      "level": 58
+    },
+    "message": "SOMEONE TRADE ME",
+    "timestamp": "2026-05-14T09:36:22.168Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "5b0f1f09-93e6-478e-83bb-154921fd822e",
+      "shortId": "71DTZW",
+      "name": "VultureUnknown",
+      "role": "USER",
+      "level": 58
+    },
+    "message": "TRADING GHILLIEE",
+    "timestamp": "2026-05-14T09:36:35.029Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "5b0f1f09-93e6-478e-83bb-154921fd822e",
+      "shortId": "71DTZW",
+      "name": "VultureUnknown",
+      "role": "USER",
+      "level": 58
+    },
+    "message": "NO",
+    "timestamp": "2026-05-14T09:36:53.269Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "5b0f1f09-93e6-478e-83bb-154921fd822e",
+      "shortId": "71DTZW",
+      "name": "VultureUnknown",
+      "role": "USER",
+      "level": 58
+    },
+    "message": "trading ghillieee",
+    "timestamp": "2026-05-14T09:37:05.855Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "5b0f1f09-93e6-478e-83bb-154921fd822e",
+      "shortId": "71DTZW",
+      "name": "VultureUnknown",
+      "role": "USER",
+      "level": 58
+    },
+    "message": "Daily wut",
+    "timestamp": "2026-05-14T09:37:22.089Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "5b0f1f09-93e6-478e-83bb-154921fd822e",
+      "shortId": "71DTZW",
+      "name": "VultureUnknown",
+      "role": "USER",
+      "level": 58
+    },
+    "message": "what daily",
+    "timestamp": "2026-05-14T09:37:25.717Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "5b0f1f09-93e6-478e-83bb-154921fd822e",
+      "shortId": "71DTZW",
+      "name": "VultureUnknown",
+      "role": "USER",
+      "level": 58
+    },
+    "message": "Dont give me a bad offer",
+    "timestamp": "2026-05-14T09:37:31.484Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "5b0f1f09-93e6-478e-83bb-154921fd822e",
+      "shortId": "71DTZW",
+      "name": "VultureUnknown",
+      "role": "USER",
+      "level": 58
+    },
+    "message": "I dont want golden",
+    "timestamp": "2026-05-14T09:37:35.707Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "5b0f1f09-93e6-478e-83bb-154921fd822e",
+      "shortId": "71DTZW",
+      "name": "VultureUnknown",
+      "role": "USER",
+      "level": 58
+    },
+    "message": "hmm",
+    "timestamp": "2026-05-14T09:37:37.751Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "5b0f1f09-93e6-478e-83bb-154921fd822e",
+      "shortId": "71DTZW",
+      "name": "VultureUnknown",
+      "role": "USER",
+      "level": 58
+    },
+    "message": "/price damascus",
+    "timestamp": "2026-05-14T09:37:42.369Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "5b0f1f09-93e6-478e-83bb-154921fd822e",
+      "shortId": "71DTZW",
+      "name": "VultureUnknown",
+      "role": "USER",
+      "level": 58
+    },
+    "message": "/price smile",
+    "timestamp": "2026-05-14T09:37:48.628Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "5b0f1f09-93e6-478e-83bb-154921fd822e",
+      "shortId": "71DTZW",
+      "name": "VultureUnknown",
+      "role": "USER",
+      "level": 58
+    },
+    "message": "Sorry i cant offer daily",
+    "timestamp": "2026-05-14T09:37:57.754Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "5b0f1f09-93e6-478e-83bb-154921fd822e",
+      "shortId": "71DTZW",
+      "name": "VultureUnknown",
+      "role": "USER",
+      "level": 58
+    },
+    "message": "/inv",
+    "timestamp": "2026-05-14T09:38:03.449Z"
   }
 ]
