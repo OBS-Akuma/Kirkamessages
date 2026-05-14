@@ -1,0 +1,98 @@
+[
+  {
+    "type": 2,
+    "user": {
+      "id": "d401fa47-8fad-4dfd-bef6-2fd82f5bf9cc",
+      "shortId": "6BTWY7",
+      "name": "NEWBIE",
+      "role": "USER",
+      "level": 22
+    },
+    "message": "/locate [Garden|LAR|WEAPON_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-14T16:37:01.153Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "d401fa47-8fad-4dfd-bef6-2fd82f5bf9cc",
+      "shortId": "6BTWY7",
+      "name": "NEWBIE",
+      "role": "USER",
+      "level": 22
+    },
+    "message": "/hm [Verde|Bayonet|WEAPON_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-14T16:37:11.304Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "d401fa47-8fad-4dfd-bef6-2fd82f5bf9cc",
+      "shortId": "6BTWY7",
+      "name": "NEWBIE",
+      "role": "USER",
+      "level": 22
+    },
+    "message": "/hm [Splanch|VITA|WEAPON_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-14T16:37:24.228Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "d401fa47-8fad-4dfd-bef6-2fd82f5bf9cc",
+      "shortId": "6BTWY7",
+      "name": "NEWBIE",
+      "role": "USER",
+      "level": 22
+    },
+    "message": "/hm [Synergy|LAR|WEAPON_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-14T16:37:36.505Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "d401fa47-8fad-4dfd-bef6-2fd82f5bf9cc",
+      "shortId": "6BTWY7",
+      "name": "NEWBIE",
+      "role": "USER",
+      "level": 22
+    },
+    "message": "/locate [Muppet||BODY_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-14T16:38:42.346Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "d401fa47-8fad-4dfd-bef6-2fd82f5bf9cc",
+      "shortId": "6BTWY7",
+      "name": "NEWBIE",
+      "role": "USER",
+      "level": 22
+    },
+    "message": "/hm [Muppet||BODY_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-14T16:39:17.862Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "d401fa47-8fad-4dfd-bef6-2fd82f5bf9cc",
+      "shortId": "6BTWY7",
+      "name": "NEWBIE",
+      "role": "USER",
+      "level": 22
+    },
+    "message": "/locate [Muppet||BODY_SKIN|MYTHICAL] p2",
+    "timestamp": "2026-05-14T16:39:31.896Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "d401fa47-8fad-4dfd-bef6-2fd82f5bf9cc",
+      "shortId": "6BTWY7",
+      "name": "NEWBIE",
+      "role": "USER",
+      "level": 22
+    },
+    "message": "/hm [Ostern|Shark|WEAPON_SKIN|LEGENDARY]",
+    "timestamp": "2026-05-14T16:40:15.430Z"
+  }
+]
