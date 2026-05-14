@@ -1666,5 +1666,41 @@
     },
     "message": "wait minion are you hyra or his friend",
     "timestamp": "2026-05-12T22:38:56.073Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "eafec961-ab59-4151-9ba7-667b3c9d1626",
+      "shortId": "5TSMC0",
+      "name": "Ghosty67",
+      "role": "USER",
+      "level": 93
+    },
+    "message": "rarara",
+    "timestamp": "2026-05-14T18:12:13.472Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "eafec961-ab59-4151-9ba7-667b3c9d1626",
+      "shortId": "5TSMC0",
+      "name": "Ghosty67",
+      "role": "USER",
+      "level": 93
+    },
+    "message": "Lf-[Color||BODY_SKIN|MYTHICAL][Synergy|LAR|WEAPON_SKIN|MYTHICAL][Cryonic||BODY_SKIN|MYTHICAL][Rose||BODY_SKIN|MYTHICAL] T-[Sculpture||BODY_SKIN|MYTHICAL][Verde|Bayonet|WEAPON_SKIN|MYTHICAL][Catalyst|MAC-10|WEAPON_SKIN|MYTHICAL][Ortus|Revolver|WEAPON_SKIN|MYTHICAL][moonlig",
+    "timestamp": "2026-05-14T18:15:51.958Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "eafec961-ab59-4151-9ba7-667b3c9d1626",
+      "shortId": "5TSMC0",
+      "name": "Ghosty67",
+      "role": "USER",
+      "level": 93
+    },
+    "message": "[Wolfy||BODY_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-14T18:18:21.586Z"
   }
 ]
