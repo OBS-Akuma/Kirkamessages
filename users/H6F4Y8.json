@@ -2818,5 +2818,89 @@
     },
     "message": "/cancelwager",
     "timestamp": "2026-05-11T09:37:30.252Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "U2TClvBwGvgshMlK8lPk6H5zHX42",
+      "shortId": "H6F4Y8",
+      "name": "CHAMPION",
+      "role": "USER",
+      "level": 78
+    },
+    "message": "my[Shotdead|VITA|WEAPON_SKIN|MYTHICAL] for [Ortus|Revolver|WEAPON_SKIN|MYTHICAL] Is HIM",
+    "timestamp": "2026-05-14T03:42:17.926Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "U2TClvBwGvgshMlK8lPk6H5zHX42",
+      "shortId": "H6F4Y8",
+      "name": "CHAMPION",
+      "role": "USER",
+      "level": 78
+    },
+    "message": "ok",
+    "timestamp": "2026-05-14T03:42:49.306Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "U2TClvBwGvgshMlK8lPk6H5zHX42",
+      "shortId": "H6F4Y8",
+      "name": "CHAMPION",
+      "role": "USER",
+      "level": 78
+    },
+    "message": "yo",
+    "timestamp": "2026-05-14T03:43:15.284Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "U2TClvBwGvgshMlK8lPk6H5zHX42",
+      "shortId": "H6F4Y8",
+      "name": "CHAMPION",
+      "role": "USER",
+      "level": 78
+    },
+    "message": "I is him",
+    "timestamp": "2026-05-14T03:44:00.299Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "U2TClvBwGvgshMlK8lPk6H5zHX42",
+      "shortId": "H6F4Y8",
+      "name": "CHAMPION",
+      "role": "USER",
+      "level": 78
+    },
+    "message": "Accept is him",
+    "timestamp": "2026-05-14T03:44:10.550Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "U2TClvBwGvgshMlK8lPk6H5zHX42",
+      "shortId": "H6F4Y8",
+      "name": "CHAMPION",
+      "role": "USER",
+      "level": 78
+    },
+    "message": "i is him wanna more tr",
+    "timestamp": "2026-05-14T03:44:33.610Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "U2TClvBwGvgshMlK8lPk6H5zHX42",
+      "shortId": "H6F4Y8",
+      "name": "CHAMPION",
+      "role": "USER",
+      "level": 78
+    },
+    "message": "is HIM",
+    "timestamp": "2026-05-14T03:45:44.620Z"
   }
 ]
