@@ -1462,5 +1462,269 @@
     },
     "message": "/enter",
     "timestamp": "2026-05-14T00:51:25.407Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "e53ac14c-dc7d-421c-8abd-fe7b9e185688",
+      "shortId": "I7SCOX",
+      "name": "cocoa_koala",
+      "role": "USER",
+      "level": 82
+    },
+    "message": "/wager [Love Bites|Bayonet|WEAPON_SKIN|MYTHICAL]x1 #Z97DD0",
+    "timestamp": "2026-05-14T01:01:37.106Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "e53ac14c-dc7d-421c-8abd-fe7b9e185688",
+      "shortId": "I7SCOX",
+      "name": "cocoa_koala",
+      "role": "USER",
+      "level": 82
+    },
+    "message": "/cancelwager]",
+    "timestamp": "2026-05-14T01:02:17.906Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "e53ac14c-dc7d-421c-8abd-fe7b9e185688",
+      "shortId": "I7SCOX",
+      "name": "cocoa_koala",
+      "role": "USER",
+      "level": 82
+    },
+    "message": "/cancelwager",
+    "timestamp": "2026-05-14T01:02:22.207Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "e53ac14c-dc7d-421c-8abd-fe7b9e185688",
+      "shortId": "I7SCOX",
+      "name": "cocoa_koala",
+      "role": "USER",
+      "level": 82
+    },
+    "message": "/inv #CRM7LY",
+    "timestamp": "2026-05-14T01:02:49.583Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "e53ac14c-dc7d-421c-8abd-fe7b9e185688",
+      "shortId": "I7SCOX",
+      "name": "cocoa_koala",
+      "role": "USER",
+      "level": 82
+    },
+    "message": "/mywager",
+    "timestamp": "2026-05-14T01:03:02.307Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "e53ac14c-dc7d-421c-8abd-fe7b9e185688",
+      "shortId": "I7SCOX",
+      "name": "cocoa_koala",
+      "role": "USER",
+      "level": 82
+    },
+    "message": "/price angel",
+    "timestamp": "2026-05-14T01:03:29.037Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "e53ac14c-dc7d-421c-8abd-fe7b9e185688",
+      "shortId": "I7SCOX",
+      "name": "cocoa_koala",
+      "role": "USER",
+      "level": 82
+    },
+    "message": "/hm angel",
+    "timestamp": "2026-05-14T01:03:35.899Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "e53ac14c-dc7d-421c-8abd-fe7b9e185688",
+      "shortId": "I7SCOX",
+      "name": "cocoa_koala",
+      "role": "USER",
+      "level": 82
+    },
+    "message": "/price sinister",
+    "timestamp": "2026-05-14T01:03:40.716Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "e53ac14c-dc7d-421c-8abd-fe7b9e185688",
+      "shortId": "I7SCOX",
+      "name": "cocoa_koala",
+      "role": "USER",
+      "level": 82
+    },
+    "message": "ytdaniel",
+    "timestamp": "2026-05-14T01:03:47.026Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "e53ac14c-dc7d-421c-8abd-fe7b9e185688",
+      "shortId": "I7SCOX",
+      "name": "cocoa_koala",
+      "role": "USER",
+      "level": 82
+    },
+    "message": "wager love bites?",
+    "timestamp": "2026-05-14T01:03:53.313Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "e53ac14c-dc7d-421c-8abd-fe7b9e185688",
+      "shortId": "I7SCOX",
+      "name": "cocoa_koala",
+      "role": "USER",
+      "level": 82
+    },
+    "message": "/wager [Love Bites|Bayonet|WEAPON_SKIN|MYTHICAL]x1 #CRM7LY",
+    "timestamp": "2026-05-14T01:04:03.105Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "e53ac14c-dc7d-421c-8abd-fe7b9e185688",
+      "shortId": "I7SCOX",
+      "name": "cocoa_koala",
+      "role": "USER",
+      "level": 82
+    },
+    "message": "/cancelwager",
+    "timestamp": "2026-05-14T01:04:06.811Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "e53ac14c-dc7d-421c-8abd-fe7b9e185688",
+      "shortId": "I7SCOX",
+      "name": "cocoa_koala",
+      "role": "USER",
+      "level": 82
+    },
+    "message": "/wager [Love Bites|Bayonet|WEAPON_SKIN|MYTHICAL]x1 #Z97DD0",
+    "timestamp": "2026-05-14T01:04:27.249Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "e53ac14c-dc7d-421c-8abd-fe7b9e185688",
+      "shortId": "I7SCOX",
+      "name": "cocoa_koala",
+      "role": "USER",
+      "level": 82
+    },
+    "message": "/cancelwager",
+    "timestamp": "2026-05-14T01:04:32.664Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "e53ac14c-dc7d-421c-8abd-fe7b9e185688",
+      "shortId": "I7SCOX",
+      "name": "cocoa_koala",
+      "role": "USER",
+      "level": 82
+    },
+    "message": "/wager [Love Bites|Bayonet|WEAPON_SKIN|MYTHICAL]x1 #Z97DD0",
+    "timestamp": "2026-05-14T01:04:39.686Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "e53ac14c-dc7d-421c-8abd-fe7b9e185688",
+      "shortId": "I7SCOX",
+      "name": "cocoa_koala",
+      "role": "USER",
+      "level": 82
+    },
+    "message": "yes?",
+    "timestamp": "2026-05-14T01:04:47.860Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "e53ac14c-dc7d-421c-8abd-fe7b9e185688",
+      "shortId": "I7SCOX",
+      "name": "cocoa_koala",
+      "role": "USER",
+      "level": 82
+    },
+    "message": "wait im not cosmic",
+    "timestamp": "2026-05-14T01:04:53.803Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "e53ac14c-dc7d-421c-8abd-fe7b9e185688",
+      "shortId": "I7SCOX",
+      "name": "cocoa_koala",
+      "role": "USER",
+      "level": 82
+    },
+    "message": "i used to be cosmic",
+    "timestamp": "2026-05-14T01:05:02.217Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "e53ac14c-dc7d-421c-8abd-fe7b9e185688",
+      "shortId": "I7SCOX",
+      "name": "cocoa_koala",
+      "role": "USER",
+      "level": 82
+    },
+    "message": "ggs",
+    "timestamp": "2026-05-14T01:05:38.612Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "e53ac14c-dc7d-421c-8abd-fe7b9e185688",
+      "shortId": "I7SCOX",
+      "name": "cocoa_koala",
+      "role": "USER",
+      "level": 82
+    },
+    "message": "hm for void bayo",
+    "timestamp": "2026-05-14T01:13:21.174Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "e53ac14c-dc7d-421c-8abd-fe7b9e185688",
+      "shortId": "I7SCOX",
+      "name": "cocoa_koala",
+      "role": "USER",
+      "level": 82
+    },
+    "message": "/price void bayonet",
+    "timestamp": "2026-05-14T01:13:28.633Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "e53ac14c-dc7d-421c-8abd-fe7b9e185688",
+      "shortId": "I7SCOX",
+      "name": "cocoa_koala",
+      "role": "USER",
+      "level": 82
+    },
+    "message": "/inv #305Q5V",
+    "timestamp": "2026-05-14T01:13:44.203Z"
   }
 ]
