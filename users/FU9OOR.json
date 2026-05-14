@@ -82,5 +82,29 @@
     },
     "message": "how much for [pandor]",
     "timestamp": "2026-05-13T17:19:03.885Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "3d9fdb6a-92a8-4248-a510-1d9b7449272a",
+      "shortId": "FU9OOR",
+      "name": "IshowNeko",
+      "role": "USER",
+      "level": 67
+    },
+    "message": "Anyone have [Dragon||BODY_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-14T16:47:09.364Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "3d9fdb6a-92a8-4248-a510-1d9b7449272a",
+      "shortId": "FU9OOR",
+      "name": "IshowNeko",
+      "role": "USER",
+      "level": 67
+    },
+    "message": "BLessed plzzzz brooooo",
+    "timestamp": "2026-05-14T16:51:40.432Z"
   }
 ]
