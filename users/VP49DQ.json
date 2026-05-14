@@ -22,5 +22,17 @@
     },
     "message": "/inv",
     "timestamp": "2026-05-08T10:37:42.039Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "4260a745-fb92-4457-a664-9cddab4b64b5",
+      "shortId": "VP49DQ",
+      "name": "Its_Apolo",
+      "role": "USER",
+      "level": 80
+    },
+    "message": "/inv",
+    "timestamp": "2026-05-14T12:17:32.892Z"
   }
 ]
