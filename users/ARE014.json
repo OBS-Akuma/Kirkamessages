@@ -82,5 +82,17 @@
     },
     "message": "/howmuch [Ranked_S3 Silver|Bayonet|WEAPON_SKIN|MYTHICAL]",
     "timestamp": "2026-05-14T10:02:48.649Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "a851043d-a828-4326-a155-9838854ae82a",
+      "shortId": "ARE014",
+      "name": "Rasmus",
+      "role": "USER",
+      "level": 98
+    },
+    "message": "/howmuch [Panda||BODY_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-14T17:27:57.049Z"
   }
 ]
