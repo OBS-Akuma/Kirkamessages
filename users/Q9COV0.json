@@ -382,5 +382,53 @@
     },
     "message": "buying [Taurus|Shark|WEAPON_SKIN|LEGENDARY] with goldens or gold",
     "timestamp": "2026-05-12T23:45:38.122Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "e593855f-34dd-4d12-b03f-87cf92b607c9",
+      "shortId": "Q9COV0",
+      "name": "Dutchman",
+      "role": "USER",
+      "level": 96
+    },
+    "message": "wagering [all sparks]",
+    "timestamp": "2026-05-14T00:55:25.362Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "e593855f-34dd-4d12-b03f-87cf92b607c9",
+      "shortId": "Q9COV0",
+      "name": "Dutchman",
+      "role": "USER",
+      "level": 96
+    },
+    "message": "wagering [allspark]",
+    "timestamp": "2026-05-14T00:55:31.988Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "e593855f-34dd-4d12-b03f-87cf92b607c9",
+      "shortId": "Q9COV0",
+      "name": "Dutchman",
+      "role": "USER",
+      "level": 96
+    },
+    "message": "wagering [All Spark|Revolver|WEAPON_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-14T00:55:39.931Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "e593855f-34dd-4d12-b03f-87cf92b607c9",
+      "shortId": "Q9COV0",
+      "name": "Dutchman",
+      "role": "USER",
+      "level": 96
+    },
+    "message": "/hm [Waves|SCAR|WEAPON_SKIN|LEGENDARY]",
+    "timestamp": "2026-05-14T00:56:54.507Z"
   }
 ]
