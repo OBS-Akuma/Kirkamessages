@@ -358,5 +358,29 @@
     },
     "message": "/locate [RGB||BODY_SKIN|LEGENDARY]",
     "timestamp": "2026-05-13T17:45:57.285Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "2760683e-aa41-44d2-a695-3251af55423d",
+      "shortId": "EH6Y4R",
+      "name": "AORUS_MASTER",
+      "role": "USER",
+      "level": 44
+    },
+    "message": "i want rgb",
+    "timestamp": "2026-05-14T06:45:46.226Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "2760683e-aa41-44d2-a695-3251af55423d",
+      "shortId": "EH6Y4R",
+      "name": "AORUS_MASTER",
+      "role": "USER",
+      "level": 44
+    },
+    "message": "yes [RGB||BODY_SKIN|LEGENDARY]",
+    "timestamp": "2026-05-14T06:46:08.494Z"
   }
 ]
