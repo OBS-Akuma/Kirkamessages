@@ -394,5 +394,29 @@
     },
     "message": "dark nova can I trade koi and cosmos for slime",
     "timestamp": "2026-05-14T15:31:27.377Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "f26a883f-eeab-4925-9ad9-74c453303f7e",
+      "shortId": "UARYDM",
+      "name": "Aceria",
+      "role": "USER",
+      "level": 19
+    },
+    "message": "/locate [Slime||BODY_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-14T16:32:36.534Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "f26a883f-eeab-4925-9ad9-74c453303f7e",
+      "shortId": "UARYDM",
+      "name": "Aceria",
+      "role": "USER",
+      "level": 19
+    },
+    "message": "LF [Slime||BODY_SKIN|MYTHICAL] TRADING [Koi|Bayonet|WEAPON_SKIN|MYTHICAL] [Cosmos|VITA|WEAPON_SKIN|MYTHICAL] FOR IT",
+    "timestamp": "2026-05-14T16:33:27.034Z"
   }
 ]
