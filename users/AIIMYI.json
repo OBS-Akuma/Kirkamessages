@@ -1186,5 +1186,53 @@
     },
     "message": "/giveaway",
     "timestamp": "2026-05-13T23:57:49.223Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "5c75b2d7-9364-4cdf-8a05-4f98b9d990f5",
+      "shortId": "AIIMYI",
+      "name": "xyds",
+      "role": "USER",
+      "level": 88
+    },
+    "message": "/enter",
+    "timestamp": "2026-05-14T01:35:33.643Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "5c75b2d7-9364-4cdf-8a05-4f98b9d990f5",
+      "shortId": "AIIMYI",
+      "name": "xyds",
+      "role": "USER",
+      "level": 88
+    },
+    "message": "/giveaway",
+    "timestamp": "2026-05-14T04:21:34.731Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "5c75b2d7-9364-4cdf-8a05-4f98b9d990f5",
+      "shortId": "AIIMYI",
+      "name": "xyds",
+      "role": "USER",
+      "level": 88
+    },
+    "message": "/fav bolt",
+    "timestamp": "2026-05-14T04:22:50.840Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "5c75b2d7-9364-4cdf-8a05-4f98b9d990f5",
+      "shortId": "AIIMYI",
+      "name": "xyds",
+      "role": "USER",
+      "level": 88
+    },
+    "message": "/enter",
+    "timestamp": "2026-05-14T04:24:25.956Z"
   }
 ]
