@@ -3382,5 +3382,17 @@
     },
     "message": "/cancelwager",
     "timestamp": "2026-05-13T17:16:44.035Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "a634f8f1-fe8c-487e-8d44-2efa53ae05de",
+      "shortId": "CBYAK3",
+      "name": "bobd",
+      "role": "USER",
+      "level": 10
+    },
+    "message": "/hm lmao",
+    "timestamp": "2026-05-14T06:39:09.033Z"
   }
 ]
