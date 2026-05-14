@@ -1652,7 +1652,7 @@
       "role": "USER",
       "level": 85
     },
-    "message": "stop lying ð",
+    "message": "stop lying Ã°ÂÂÂ",
     "timestamp": "2026-05-14T08:45:45.509Z"
   },
   {
@@ -3658,5 +3658,77 @@
     },
     "message": "wat happened",
     "timestamp": "2026-05-14T12:41:50.234Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "AlzfWHE7wLd0H1GJaDMHdgqkREM2",
+      "shortId": "FFAHG8",
+      "name": "BrilliantWizar",
+      "role": "USER",
+      "level": 85
+    },
+    "message": "accept anyone",
+    "timestamp": "2026-05-14T12:44:26.420Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "AlzfWHE7wLd0H1GJaDMHdgqkREM2",
+      "shortId": "FFAHG8",
+      "name": "BrilliantWizar",
+      "role": "USER",
+      "level": 85
+    },
+    "message": "/price skillz",
+    "timestamp": "2026-05-14T12:46:21.040Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "AlzfWHE7wLd0H1GJaDMHdgqkREM2",
+      "shortId": "FFAHG8",
+      "name": "BrilliantWizar",
+      "role": "USER",
+      "level": 85
+    },
+    "message": "yo rizz",
+    "timestamp": "2026-05-14T12:47:10.676Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "AlzfWHE7wLd0H1GJaDMHdgqkREM2",
+      "shortId": "FFAHG8",
+      "name": "BrilliantWizar",
+      "role": "USER",
+      "level": 85
+    },
+    "message": "saying hi xd",
+    "timestamp": "2026-05-14T12:47:20.618Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "AlzfWHE7wLd0H1GJaDMHdgqkREM2",
+      "shortId": "FFAHG8",
+      "name": "BrilliantWizar",
+      "role": "USER",
+      "level": 85
+    },
+    "message": "pls",
+    "timestamp": "2026-05-14T12:47:57.706Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "AlzfWHE7wLd0H1GJaDMHdgqkREM2",
+      "shortId": "FFAHG8",
+      "name": "BrilliantWizar",
+      "role": "USER",
+      "level": 85
+    },
+    "message": "someone accept",
+    "timestamp": "2026-05-14T12:47:59.738Z"
   }
 ]
