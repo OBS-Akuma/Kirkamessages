@@ -94,5 +94,17 @@
     },
     "message": "no skull only dead",
     "timestamp": "2026-05-07T09:16:24.993Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "73f39405-343d-46a5-98f1-e401d46b81c0",
+      "shortId": "ECI0ZP",
+      "name": "Dead-Shot",
+      "role": "USER",
+      "level": 100
+    },
+    "message": "/price sizzle",
+    "timestamp": "2026-05-13T19:11:21.266Z"
   }
 ]
