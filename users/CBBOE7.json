@@ -898,5 +898,41 @@
     },
     "message": "/hm sam",
     "timestamp": "2026-05-13T22:24:23.578Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "e6f1092a-d1c9-4698-905b-5e4797995800",
+      "shortId": "CBBOE7",
+      "name": "tmmor",
+      "role": "USER",
+      "level": 63
+    },
+    "message": "/claim",
+    "timestamp": "2026-05-14T09:45:15.490Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "e6f1092a-d1c9-4698-905b-5e4797995800",
+      "shortId": "CBBOE7",
+      "name": "tmmor",
+      "role": "USER",
+      "level": 63
+    },
+    "message": "/lottery",
+    "timestamp": "2026-05-14T09:45:21.258Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "e6f1092a-d1c9-4698-905b-5e4797995800",
+      "shortId": "CBBOE7",
+      "name": "tmmor",
+      "role": "USER",
+      "level": 63
+    },
+    "message": "/enter",
+    "timestamp": "2026-05-14T09:54:50.983Z"
   }
 ]
