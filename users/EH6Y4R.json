@@ -802,5 +802,101 @@
     },
     "message": "1m for [RGB||BODY_SKIN|LEGENDARY]",
     "timestamp": "2026-05-14T10:07:33.018Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "2760683e-aa41-44d2-a695-3251af55423d",
+      "shortId": "EH6Y4R",
+      "name": "AORUS_MASTER",
+      "role": "USER",
+      "level": 45
+    },
+    "message": "i want [Vortex||BODY_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-14T13:48:26.414Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "2760683e-aa41-44d2-a695-3251af55423d",
+      "shortId": "EH6Y4R",
+      "name": "AORUS_MASTER",
+      "role": "USER",
+      "level": 45
+    },
+    "message": "/loccate [Wood||CHEST|COMMON]",
+    "timestamp": "2026-05-14T16:02:04.548Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "2760683e-aa41-44d2-a695-3251af55423d",
+      "shortId": "EH6Y4R",
+      "name": "AORUS_MASTER",
+      "role": "USER",
+      "level": 45
+    },
+    "message": "/locate [Decor||BODY_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-14T16:03:00.955Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "2760683e-aa41-44d2-a695-3251af55423d",
+      "shortId": "EH6Y4R",
+      "name": "AORUS_MASTER",
+      "role": "USER",
+      "level": 45
+    },
+    "message": "[scer]",
+    "timestamp": "2026-05-14T16:03:21.521Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "2760683e-aa41-44d2-a695-3251af55423d",
+      "shortId": "EH6Y4R",
+      "name": "AORUS_MASTER",
+      "role": "USER",
+      "level": 45
+    },
+    "message": "[blastsca]",
+    "timestamp": "2026-05-14T16:03:34.801Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "2760683e-aa41-44d2-a695-3251af55423d",
+      "shortId": "EH6Y4R",
+      "name": "AORUS_MASTER",
+      "role": "USER",
+      "level": 45
+    },
+    "message": "[blastscar]",
+    "timestamp": "2026-05-14T16:03:46.699Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "2760683e-aa41-44d2-a695-3251af55423d",
+      "shortId": "EH6Y4R",
+      "name": "AORUS_MASTER",
+      "role": "USER",
+      "level": 45
+    },
+    "message": "[Blast SCAR|SCAR|WEAPON_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-14T16:03:58.524Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "2760683e-aa41-44d2-a695-3251af55423d",
+      "shortId": "EH6Y4R",
+      "name": "AORUS_MASTER",
+      "role": "USER",
+      "level": 45
+    },
+    "message": "/hm [RGB||BODY_SKIN|LEGENDARY]",
+    "timestamp": "2026-05-14T16:04:31.728Z"
   }
 ]
