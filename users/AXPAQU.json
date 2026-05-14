@@ -346,5 +346,89 @@
     },
     "message": "/price [Forbidden|AR-9|WEAPON_SKIN|MYTHICAL]",
     "timestamp": "2026-05-14T13:36:04.849Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "b5b01500-dd86-419d-a785-b769fb1bb75d",
+      "shortId": "AXPAQU",
+      "name": "Infinity",
+      "role": "USER",
+      "level": 98
+    },
+    "message": "tr[Punji|Bayonet|WEAPON_SKIN|MYTHICAL]x3[CV01|Bayonet|WEAPON_SKIN|MYTHICAL][Elysian|Shark|WEAPON_SKIN|MYTHICAL][Icing|Bayonet|WEAPON_SKIN|MYTHICAL][Blast SCAR|SCAR|WEAPON_SKIN|MYTHICAL][Jazzin||BODY_SKIN|MYTHICAL][Mabel||BODY_SKIN|MYTHICAL][Caramel||BODY_SKIN|MYTHICAL][Monarch|Shark|WEAPON_SKIN|MYTHICAL].\\",
+    "timestamp": "2026-05-14T13:51:00.232Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "b5b01500-dd86-419d-a785-b769fb1bb75d",
+      "shortId": "AXPAQU",
+      "name": "Infinity",
+      "role": "USER",
+      "level": 98
+    },
+    "message": "yeah?",
+    "timestamp": "2026-05-14T13:51:14.587Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "b5b01500-dd86-419d-a785-b769fb1bb75d",
+      "shortId": "AXPAQU",
+      "name": "Infinity",
+      "role": "USER",
+      "level": 98
+    },
+    "message": "no",
+    "timestamp": "2026-05-14T13:51:16.468Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "b5b01500-dd86-419d-a785-b769fb1bb75d",
+      "shortId": "AXPAQU",
+      "name": "Infinity",
+      "role": "USER",
+      "level": 98
+    },
+    "message": "chill pug",
+    "timestamp": "2026-05-14T13:51:38.915Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "b5b01500-dd86-419d-a785-b769fb1bb75d",
+      "shortId": "AXPAQU",
+      "name": "Infinity",
+      "role": "USER",
+      "level": 98
+    },
+    "message": "hm for forbidden?",
+    "timestamp": "2026-05-14T13:51:47.410Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "b5b01500-dd86-419d-a785-b769fb1bb75d",
+      "shortId": "AXPAQU",
+      "name": "Infinity",
+      "role": "USER",
+      "level": 98
+    },
+    "message": "hm for forbidden chill pug?",
+    "timestamp": "2026-05-14T13:52:06.129Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "b5b01500-dd86-419d-a785-b769fb1bb75d",
+      "shortId": "AXPAQU",
+      "name": "Infinity",
+      "role": "USER",
+      "level": 98
+    },
+    "message": "/price [snow]",
+    "timestamp": "2026-05-14T13:52:27.443Z"
   }
 ]
