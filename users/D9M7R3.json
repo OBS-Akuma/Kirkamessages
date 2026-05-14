@@ -250,5 +250,29 @@
     },
     "message": "/price [Old|Bayonet|WEAPON_SKIN|LEGENDARY]",
     "timestamp": "2026-05-13T09:49:31.017Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "0b43e966-3a87-43a7-b01a-7caf11b625a1",
+      "shortId": "D9M7R3",
+      "name": "V0idSn1per_Op",
+      "role": "USER",
+      "level": 17
+    },
+    "message": "/price [Xx||BODY_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-14T08:55:00.603Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "0b43e966-3a87-43a7-b01a-7caf11b625a1",
+      "shortId": "D9M7R3",
+      "name": "V0idSn1per_Op",
+      "role": "USER",
+      "level": 17
+    },
+    "message": "/inv",
+    "timestamp": "2026-05-14T08:55:08.724Z"
   }
 ]
