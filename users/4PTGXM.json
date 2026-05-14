@@ -154,5 +154,29 @@
     },
     "message": "/price [Infernal|AR-9|WEAPON_SKIN|MYTHICAL]",
     "timestamp": "2026-05-12T17:35:06.209Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "87c4307b-f5e3-40b3-b679-b980594644fa",
+      "shortId": "4PTGXM",
+      "name": "[qod]CFmaster",
+      "role": "USER",
+      "level": 45
+    },
+    "message": "Ryzxn you tryna bless?",
+    "timestamp": "2026-05-14T14:35:25.752Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "87c4307b-f5e3-40b3-b679-b980594644fa",
+      "shortId": "4PTGXM",
+      "name": "[qod]CFmaster",
+      "role": "USER",
+      "level": 45
+    },
+    "message": "/price [Forbidden|AR-9|WEAPON_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-14T14:36:41.180Z"
   }
 ]
