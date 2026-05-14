@@ -514,5 +514,53 @@
     },
     "message": "Ohh",
     "timestamp": "2026-05-13T09:12:58.115Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "5cfd9516-919e-4613-bc5d-f8296b9a05ff",
+      "shortId": "FKKLN0",
+      "name": "Evilghoul",
+      "role": "USER",
+      "level": 61
+    },
+    "message": "/lvl reward 29",
+    "timestamp": "2026-05-14T09:53:08.122Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "5cfd9516-919e-4613-bc5d-f8296b9a05ff",
+      "shortId": "FKKLN0",
+      "name": "Evilghoul",
+      "role": "USER",
+      "level": 61
+    },
+    "message": "/lvl reward 99",
+    "timestamp": "2026-05-14T09:53:29.229Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "5cfd9516-919e-4613-bc5d-f8296b9a05ff",
+      "shortId": "FKKLN0",
+      "name": "Evilghoul",
+      "role": "USER",
+      "level": 61
+    },
+    "message": "/lvl reward 23",
+    "timestamp": "2026-05-14T09:53:42.294Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "5cfd9516-919e-4613-bc5d-f8296b9a05ff",
+      "shortId": "FKKLN0",
+      "name": "Evilghoul",
+      "role": "USER",
+      "level": 61
+    },
+    "message": "/commands",
+    "timestamp": "2026-05-14T09:53:56.450Z"
   }
 ]
