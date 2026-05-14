@@ -58,5 +58,17 @@
     },
     "message": "8",
     "timestamp": "2026-05-13T00:58:12.954Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "k87zKja7VORmmA8pCPUF09i5iZH2",
+      "shortId": "Z1UGO9",
+      "name": "Viento912",
+      "role": "USER",
+      "level": 79
+    },
+    "message": "trading [Pulse|Revolver|WEAPON_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-14T02:14:14.080Z"
   }
 ]
