@@ -512,7 +512,7 @@
       "role": "USER",
       "level": 73
     },
-    "message": "#IQT1IO ÙÙÙ Ø",
+    "message": "#IQT1IO ÃÂÃÂÃÂ ÃÂ",
     "timestamp": "2026-05-13T22:29:31.099Z"
   },
   {
@@ -634,5 +634,17 @@
     },
     "message": "nty",
     "timestamp": "2026-05-13T23:36:58.191Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "e0e13dd2-dd3b-4014-adb8-7071894dcf68",
+      "shortId": "NMAUET",
+      "name": "Odyssey",
+      "role": "USER",
+      "level": 73
+    },
+    "message": "/tradae bump",
+    "timestamp": "2026-05-14T06:50:22.124Z"
   }
 ]
