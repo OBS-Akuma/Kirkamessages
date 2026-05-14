@@ -1,0 +1,62 @@
+[
+  {
+    "type": 2,
+    "user": {
+      "id": "e6d2c874-7af9-4f32-b59d-c57e7df72599",
+      "shortId": "MEXICO",
+      "name": "flyen",
+      "role": "VERIFIED",
+      "level": 98
+    },
+    "message": "/inv",
+    "timestamp": "2026-05-13T23:15:55.181Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "e6d2c874-7af9-4f32-b59d-c57e7df72599",
+      "shortId": "MEXICO",
+      "name": "flyen",
+      "role": "VERIFIED",
+      "level": 98
+    },
+    "message": "heh",
+    "timestamp": "2026-05-13T23:15:56.772Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "e6d2c874-7af9-4f32-b59d-c57e7df72599",
+      "shortId": "MEXICO",
+      "name": "flyen",
+      "role": "VERIFIED",
+      "level": 98
+    },
+    "message": "damn",
+    "timestamp": "2026-05-13T23:16:03.814Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "e6d2c874-7af9-4f32-b59d-c57e7df72599",
+      "shortId": "MEXICO",
+      "name": "flyen",
+      "role": "VERIFIED",
+      "level": 98
+    },
+    "message": "nevermind",
+    "timestamp": "2026-05-13T23:16:05.658Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "e6d2c874-7af9-4f32-b59d-c57e7df72599",
+      "shortId": "MEXICO",
+      "name": "flyen",
+      "role": "VERIFIED",
+      "level": 98
+    },
+    "message": "i just got mogged",
+    "timestamp": "2026-05-13T23:16:08.037Z"
+  }
+]
