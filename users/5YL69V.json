@@ -142,5 +142,29 @@
     },
     "message": "/claim",
     "timestamp": "2026-05-13T08:39:48.738Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "7eb1bc33-c39c-4a74-9b7a-4044e134e14b",
+      "shortId": "5YL69V",
+      "name": "KajzieeeSK",
+      "role": "USER",
+      "level": 78
+    },
+    "message": "lol",
+    "timestamp": "2026-05-14T12:05:54.839Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "7eb1bc33-c39c-4a74-9b7a-4044e134e14b",
+      "shortId": "5YL69V",
+      "name": "KajzieeeSK",
+      "role": "USER",
+      "level": 78
+    },
+    "message": "/claim",
+    "timestamp": "2026-05-14T12:05:56.892Z"
   }
 ]
