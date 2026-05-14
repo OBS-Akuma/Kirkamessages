@@ -3091,5 +3091,29 @@
     },
     "message": "#2I5XG5 its alright",
     "timestamp": "2026-05-13T19:21:48.729Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "c3e3dbc6-624d-450c-908a-672ba348b1fd",
+      "shortId": "FPUPR5",
+      "name": "Worman",
+      "role": "USER",
+      "level": 99
+    },
+    "message": "ty",
+    "timestamp": "2026-05-14T03:55:44.929Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "c3e3dbc6-624d-450c-908a-672ba348b1fd",
+      "shortId": "FPUPR5",
+      "name": "Worman",
+      "role": "USER",
+      "level": 99
+    },
+    "message": "/price qod",
+    "timestamp": "2026-05-14T03:57:53.112Z"
   }
 ]
