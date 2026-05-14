@@ -430,5 +430,17 @@
     },
     "message": "/hm [Waves|SCAR|WEAPON_SKIN|LEGENDARY]",
     "timestamp": "2026-05-14T00:56:54.507Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "e593855f-34dd-4d12-b03f-87cf92b607c9",
+      "shortId": "Q9COV0",
+      "name": "Dutchman",
+      "role": "USER",
+      "level": 96
+    },
+    "message": "byeee",
+    "timestamp": "2026-05-14T03:09:18.093Z"
   }
 ]
