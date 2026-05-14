@@ -22,5 +22,17 @@
     },
     "message": "#6BTWY7",
     "timestamp": "2026-05-08T11:09:23.436Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "0c8b7b4d-3192-4229-b40f-5b0f3202d193",
+      "shortId": "88RMP5",
+      "name": "romainstar",
+      "role": "USER",
+      "level": 39
+    },
+    "message": "/inv",
+    "timestamp": "2026-05-14T15:50:20.825Z"
   }
 ]
