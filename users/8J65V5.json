@@ -130,5 +130,17 @@
     },
     "message": "/hm [heater]",
     "timestamp": "2026-05-14T15:41:54.242Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "0jgsbogKwLdcDagDPzBEdIluanK2",
+      "shortId": "8J65V5",
+      "name": "SunWaffle.KH0Y",
+      "role": "USER",
+      "level": 84
+    },
+    "message": "/hm [Forbidden|AR-9|WEAPON_SKIN|MYTHICAL]x2",
+    "timestamp": "2026-05-14T16:24:18.463Z"
   }
 ]
