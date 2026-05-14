@@ -1714,5 +1714,161 @@
     },
     "message": "#4F03MQ",
     "timestamp": "2026-05-11T03:58:57.135Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "ede31f87-e617-489f-bf57-1524c9c3aba4",
+      "shortId": "4M7IFO",
+      "name": "DeffendPr.",
+      "role": "USER",
+      "level": 19
+    },
+    "message": "wagering [Golden||CHEST|LEGENDARY]x250",
+    "timestamp": "2026-05-14T12:22:34.981Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "ede31f87-e617-489f-bf57-1524c9c3aba4",
+      "shortId": "4M7IFO",
+      "name": "DeffendPr.",
+      "role": "USER",
+      "level": 19
+    },
+    "message": "wagering [Golden||CHEST|LEGENDARY]x250wagering [Golden||CHEST|LEGENDARY]x250",
+    "timestamp": "2026-05-14T12:23:21.980Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "ede31f87-e617-489f-bf57-1524c9c3aba4",
+      "shortId": "4M7IFO",
+      "name": "DeffendPr.",
+      "role": "USER",
+      "level": 19
+    },
+    "message": "/confirmwager",
+    "timestamp": "2026-05-14T12:23:37.843Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "ede31f87-e617-489f-bf57-1524c9c3aba4",
+      "shortId": "4M7IFO",
+      "name": "DeffendPr.",
+      "role": "USER",
+      "level": 19
+    },
+    "message": "wagering [Momo||BODY_SKIN|LEGENDARY]",
+    "timestamp": "2026-05-14T12:24:14.351Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "ede31f87-e617-489f-bf57-1524c9c3aba4",
+      "shortId": "4M7IFO",
+      "name": "DeffendPr.",
+      "role": "USER",
+      "level": 19
+    },
+    "message": "wagering [Momo||BODY_SKIN|LEGENDARY]/",
+    "timestamp": "2026-05-14T12:25:05.659Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "ede31f87-e617-489f-bf57-1524c9c3aba4",
+      "shortId": "4M7IFO",
+      "name": "DeffendPr.",
+      "role": "USER",
+      "level": 19
+    },
+    "message": "wagering [Momo||BODY_SKIN|LEGENDARY]..",
+    "timestamp": "2026-05-14T12:25:26.162Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "ede31f87-e617-489f-bf57-1524c9c3aba4",
+      "shortId": "4M7IFO",
+      "name": "DeffendPr.",
+      "role": "USER",
+      "level": 19
+    },
+    "message": "wagering [Momo||BODY_SKIN|LEGENDARY]",
+    "timestamp": "2026-05-14T12:25:54.556Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "ede31f87-e617-489f-bf57-1524c9c3aba4",
+      "shortId": "4M7IFO",
+      "name": "DeffendPr.",
+      "role": "USER",
+      "level": 19
+    },
+    "message": "/wager [Momo||BODY_SKIN|LEGENDARY]",
+    "timestamp": "2026-05-14T12:26:03.964Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "ede31f87-e617-489f-bf57-1524c9c3aba4",
+      "shortId": "4M7IFO",
+      "name": "DeffendPr.",
+      "role": "USER",
+      "level": 19
+    },
+    "message": "/wager [Momo||BODY_SKIN|LEGENDARY] #609GEM",
+    "timestamp": "2026-05-14T12:26:09.222Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "ede31f87-e617-489f-bf57-1524c9c3aba4",
+      "shortId": "4M7IFO",
+      "name": "DeffendPr.",
+      "role": "USER",
+      "level": 19
+    },
+    "message": "wager [Momo||BODY_SKIN|LEGENDARY] #609GEM",
+    "timestamp": "2026-05-14T12:26:22.795Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "ede31f87-e617-489f-bf57-1524c9c3aba4",
+      "shortId": "4M7IFO",
+      "name": "DeffendPr.",
+      "role": "USER",
+      "level": 19
+    },
+    "message": "/wager [Momo||BODY_SKIN|LEGENDARY] #609GEM",
+    "timestamp": "2026-05-14T12:27:00.226Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "ede31f87-e617-489f-bf57-1524c9c3aba4",
+      "shortId": "4M7IFO",
+      "name": "DeffendPr.",
+      "role": "USER",
+      "level": 19
+    },
+    "message": "VENOM confirmwager",
+    "timestamp": "2026-05-14T12:27:24.953Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "ede31f87-e617-489f-bf57-1524c9c3aba4",
+      "shortId": "4M7IFO",
+      "name": "DeffendPr.",
+      "role": "USER",
+      "level": 19
+    },
+    "message": "who have [Momo||BODY_SKIN|LEGENDARY]",
+    "timestamp": "2026-05-14T12:28:14.694Z"
   }
 ]
