@@ -94,5 +94,305 @@
     },
     "message": "LF 2026 PLEASE",
     "timestamp": "2026-05-08T20:36:08.087Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "f26a883f-eeab-4925-9ad9-74c453303f7e",
+      "shortId": "UARYDM",
+      "name": "Aceria",
+      "role": "USER",
+      "level": 19
+    },
+    "message": "/hm [Slime||BODY_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-14T15:00:05.078Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "f26a883f-eeab-4925-9ad9-74c453303f7e",
+      "shortId": "UARYDM",
+      "name": "Aceria",
+      "role": "USER",
+      "level": 19
+    },
+    "message": "/hm koi",
+    "timestamp": "2026-05-14T15:00:21.032Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "f26a883f-eeab-4925-9ad9-74c453303f7e",
+      "shortId": "UARYDM",
+      "name": "Aceria",
+      "role": "USER",
+      "level": 19
+    },
+    "message": "/hm cosmos",
+    "timestamp": "2026-05-14T15:00:29.756Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "f26a883f-eeab-4925-9ad9-74c453303f7e",
+      "shortId": "UARYDM",
+      "name": "Aceria",
+      "role": "USER",
+      "level": 19
+    },
+    "message": "/hm 2026",
+    "timestamp": "2026-05-14T15:00:45.012Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "f26a883f-eeab-4925-9ad9-74c453303f7e",
+      "shortId": "UARYDM",
+      "name": "Aceria",
+      "role": "USER",
+      "level": 19
+    },
+    "message": "ANYONE GOT 2026 OR SLIME IM TRADING COSMOS, KOI, DIANE.",
+    "timestamp": "2026-05-14T15:01:22.445Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "f26a883f-eeab-4925-9ad9-74c453303f7e",
+      "shortId": "UARYDM",
+      "name": "Aceria",
+      "role": "USER",
+      "level": 19
+    },
+    "message": "LF [Slime||BODY_SKIN|MYTHICAL], [2026||BODY_SKIN|MYTHICAL] TRAING [Diane|Shark|WEAPON_SKIN|MYTHICAL] [Koi|Bayonet|WEAPON_SKIN|MYTHICAL] [Cosmos|VITA|WEAPON_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-14T15:02:01.492Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "f26a883f-eeab-4925-9ad9-74c453303f7e",
+      "shortId": "UARYDM",
+      "name": "Aceria",
+      "role": "USER",
+      "level": 19
+    },
+    "message": "/wager [Golden||CHEST|LEGENDARY]X10 #DCU12S",
+    "timestamp": "2026-05-14T15:04:04.201Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "f26a883f-eeab-4925-9ad9-74c453303f7e",
+      "shortId": "UARYDM",
+      "name": "Aceria",
+      "role": "USER",
+      "level": 19
+    },
+    "message": "/wager [Golden||CHEST|LEGENDARY]x<10> #DCU12S",
+    "timestamp": "2026-05-14T15:04:21.146Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "f26a883f-eeab-4925-9ad9-74c453303f7e",
+      "shortId": "UARYDM",
+      "name": "Aceria",
+      "role": "USER",
+      "level": 19
+    },
+    "message": "/wager [Golden||CHEST|LEGENDARY]X10 #DCU12S",
+    "timestamp": "2026-05-14T15:05:01.422Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "f26a883f-eeab-4925-9ad9-74c453303f7e",
+      "shortId": "UARYDM",
+      "name": "Aceria",
+      "role": "USER",
+      "level": 19
+    },
+    "message": "/wager [Golden||CHEST|LEGENDARY]<x10> #DCU12S",
+    "timestamp": "2026-05-14T15:05:39.926Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "f26a883f-eeab-4925-9ad9-74c453303f7e",
+      "shortId": "UARYDM",
+      "name": "Aceria",
+      "role": "USER",
+      "level": 19
+    },
+    "message": "/wager [Golden||CHEST|LEGENDARY] #DCU12S",
+    "timestamp": "2026-05-14T15:05:52.333Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "f26a883f-eeab-4925-9ad9-74c453303f7e",
+      "shortId": "UARYDM",
+      "name": "Aceria",
+      "role": "USER",
+      "level": 19
+    },
+    "message": "/confirmwager",
+    "timestamp": "2026-05-14T15:06:39.578Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "f26a883f-eeab-4925-9ad9-74c453303f7e",
+      "shortId": "UARYDM",
+      "name": "Aceria",
+      "role": "USER",
+      "level": 19
+    },
+    "message": "/claim",
+    "timestamp": "2026-05-14T15:07:18.829Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "f26a883f-eeab-4925-9ad9-74c453303f7e",
+      "shortId": "UARYDM",
+      "name": "Aceria",
+      "role": "USER",
+      "level": 19
+    },
+    "message": "ggs/trade accept 23368",
+    "timestamp": "2026-05-14T15:07:27.563Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "f26a883f-eeab-4925-9ad9-74c453303f7e",
+      "shortId": "UARYDM",
+      "name": "Aceria",
+      "role": "USER",
+      "level": 19
+    },
+    "message": "also how do you do quantities?",
+    "timestamp": "2026-05-14T15:07:46.813Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "f26a883f-eeab-4925-9ad9-74c453303f7e",
+      "shortId": "UARYDM",
+      "name": "Aceria",
+      "role": "USER",
+      "level": 19
+    },
+    "message": "caydub do you perhaps have 2026 or slime up for trade",
+    "timestamp": "2026-05-14T15:10:22.741Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "f26a883f-eeab-4925-9ad9-74c453303f7e",
+      "shortId": "UARYDM",
+      "name": "Aceria",
+      "role": "USER",
+      "level": 19
+    },
+    "message": "#CAYDUB do you have slime or 2026 per chance",
+    "timestamp": "2026-05-14T15:10:47.428Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "f26a883f-eeab-4925-9ad9-74c453303f7e",
+      "shortId": "UARYDM",
+      "name": "Aceria",
+      "role": "USER",
+      "level": 19
+    },
+    "message": "aw",
+    "timestamp": "2026-05-14T15:11:01.948Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "f26a883f-eeab-4925-9ad9-74c453303f7e",
+      "shortId": "UARYDM",
+      "name": "Aceria",
+      "role": "USER",
+      "level": 19
+    },
+    "message": "do anyone got slime",
+    "timestamp": "2026-05-14T15:11:15.580Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "f26a883f-eeab-4925-9ad9-74c453303f7e",
+      "shortId": "UARYDM",
+      "name": "Aceria",
+      "role": "USER",
+      "level": 19
+    },
+    "message": "do anyone got [Slime||BODY_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-14T15:11:26.930Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "f26a883f-eeab-4925-9ad9-74c453303f7e",
+      "shortId": "UARYDM",
+      "name": "Aceria",
+      "role": "USER",
+      "level": 19
+    },
+    "message": "#CAYDUB can I have some money so I could buy slime when it pops up on market",
+    "timestamp": "2026-05-14T15:16:22.150Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "f26a883f-eeab-4925-9ad9-74c453303f7e",
+      "shortId": "UARYDM",
+      "name": "Aceria",
+      "role": "USER",
+      "level": 19
+    },
+    "message": "TRADING COSMOS FOR 2200 GOLDEN",
+    "timestamp": "2026-05-14T15:25:12.109Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "f26a883f-eeab-4925-9ad9-74c453303f7e",
+      "shortId": "UARYDM",
+      "name": "Aceria",
+      "role": "USER",
+      "level": 19
+    },
+    "message": "PLEASE",
+    "timestamp": "2026-05-14T15:25:16.933Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "f26a883f-eeab-4925-9ad9-74c453303f7e",
+      "shortId": "UARYDM",
+      "name": "Aceria",
+      "role": "USER",
+      "level": 19
+    },
+    "message": "TRADING [Cosmos|VITA|WEAPON_SKIN|MYTHICAL] FOR 2200 GOLDEN PLEASE",
+    "timestamp": "2026-05-14T15:25:37.107Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "f26a883f-eeab-4925-9ad9-74c453303f7e",
+      "shortId": "UARYDM",
+      "name": "Aceria",
+      "role": "USER",
+      "level": 19
+    },
+    "message": "dark nova can I trade koi and cosmos for slime",
+    "timestamp": "2026-05-14T15:31:27.377Z"
   }
 ]
