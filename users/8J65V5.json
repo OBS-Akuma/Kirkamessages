@@ -94,5 +94,41 @@
     },
     "message": "?",
     "timestamp": "2026-05-12T16:14:41.492Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "0jgsbogKwLdcDagDPzBEdIluanK2",
+      "shortId": "8J65V5",
+      "name": "SunWaffle.KH0Y",
+      "role": "USER",
+      "level": 84
+    },
+    "message": "trading [Chroma|LAR|WEAPON_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-14T15:36:49.734Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "0jgsbogKwLdcDagDPzBEdIluanK2",
+      "shortId": "8J65V5",
+      "name": "SunWaffle.KH0Y",
+      "role": "USER",
+      "level": 84
+    },
+    "message": "im tradong",
+    "timestamp": "2026-05-14T15:37:30.485Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "0jgsbogKwLdcDagDPzBEdIluanK2",
+      "shortId": "8J65V5",
+      "name": "SunWaffle.KH0Y",
+      "role": "USER",
+      "level": 84
+    },
+    "message": "/hm [heater]",
+    "timestamp": "2026-05-14T15:41:54.242Z"
   }
 ]
