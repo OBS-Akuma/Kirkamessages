@@ -262,5 +262,29 @@
     },
     "message": "wager [Splanch|VITA|WEAPON_SKIN|MYTHICAL]",
     "timestamp": "2026-05-12T12:26:56.993Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "8685e1d3-c485-4f8c-9e7f-55fa5f66839d",
+      "shortId": "549M5B",
+      "name": "free.tez",
+      "role": "USER",
+      "level": 61
+    },
+    "message": "wager [Splanch|VITA|WEAPON_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-14T09:36:39.980Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "8685e1d3-c485-4f8c-9e7f-55fa5f66839d",
+      "shortId": "549M5B",
+      "name": "free.tez",
+      "role": "USER",
+      "level": 61
+    },
+    "message": "[Wicked|VITA|WEAPON_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-14T10:28:28.517Z"
   }
 ]
