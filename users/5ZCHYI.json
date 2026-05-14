@@ -5866,5 +5866,17 @@
     },
     "message": "lf [Fanny||BODY_SKIN|MYTHICAL]",
     "timestamp": "2026-05-14T14:37:19.669Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "3cd39bca-fb4d-4024-bf72-57d747f9a75f",
+      "shortId": "5ZCHYI",
+      "name": "Saint.",
+      "role": "USER",
+      "level": 74
+    },
+    "message": "..",
+    "timestamp": "2026-05-14T15:40:35.179Z"
   }
 ]
