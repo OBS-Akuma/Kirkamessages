@@ -34,5 +34,17 @@
     },
     "message": "/price [Hans||BODY_SKIN|MYTHICAL]",
     "timestamp": "2026-05-14T14:46:41.661Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "80cde26a-1893-4587-98e3-76c73e47d71e",
+      "shortId": "A69UZG",
+      "name": "Coping_Orca",
+      "role": "USER",
+      "level": 99
+    },
+    "message": "tr [67]",
+    "timestamp": "2026-05-14T15:52:31.352Z"
   }
 ]
