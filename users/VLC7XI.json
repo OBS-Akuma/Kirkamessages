@@ -94,5 +94,41 @@
     },
     "message": "/inv #PQQRKM",
     "timestamp": "2026-05-12T15:37:30.801Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "guest-c9cb0868-5f94-4248-8174-3ad01e297f96",
+      "shortId": "VLC7XI",
+      "name": "[GOD]X",
+      "role": "USER",
+      "level": 29
+    },
+    "message": "/inv",
+    "timestamp": "2026-05-14T15:01:42.883Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "guest-c9cb0868-5f94-4248-8174-3ad01e297f96",
+      "shortId": "VLC7XI",
+      "name": "[GOD]X",
+      "role": "USER",
+      "level": 29
+    },
+    "message": "/hm [Beast||BODY_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-14T15:01:58.253Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "guest-c9cb0868-5f94-4248-8174-3ad01e297f96",
+      "shortId": "VLC7XI",
+      "name": "[GOD]X",
+      "role": "USER",
+      "level": 29
+    },
+    "message": "/inv",
+    "timestamp": "2026-05-14T15:04:54.039Z"
   }
 ]
