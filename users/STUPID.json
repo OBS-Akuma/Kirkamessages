@@ -346,5 +346,17 @@
     },
     "message": "?",
     "timestamp": "2026-05-13T21:03:45.414Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "cfac251c-29be-40f1-8e77-40d678c7fab6",
+      "shortId": "STUPID",
+      "name": "Dihxz",
+      "role": "USER",
+      "level": 98
+    },
+    "message": "#GOLDEN",
+    "timestamp": "2026-05-14T01:15:24.730Z"
   }
 ]
