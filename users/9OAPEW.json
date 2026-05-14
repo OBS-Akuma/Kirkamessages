@@ -1414,5 +1414,29 @@
     },
     "message": "quil x2 is too much",
     "timestamp": "2026-05-14T10:31:47.221Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "KEjMV2BDdFhYr0t6c3uhBW90G183",
+      "shortId": "9OAPEW",
+      "name": "Listener",
+      "role": "USER",
+      "level": 99
+    },
+    "message": "hello",
+    "timestamp": "2026-05-14T15:34:02.834Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "KEjMV2BDdFhYr0t6c3uhBW90G183",
+      "shortId": "9OAPEW",
+      "name": "Listener",
+      "role": "USER",
+      "level": 99
+    },
+    "message": "not dev ;-;",
+    "timestamp": "2026-05-14T15:34:26.795Z"
   }
 ]
