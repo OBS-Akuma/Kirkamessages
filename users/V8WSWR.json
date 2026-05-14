@@ -778,5 +778,17 @@
     },
     "message": "[Gold|VITA|WEAPON_SKIN|LEGENDARY]",
     "timestamp": "2026-05-14T08:18:06.956Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "c143aa24-17ed-4798-8226-cd575d179c32",
+      "shortId": "V8WSWR",
+      "name": "killerstrike2",
+      "role": "USER",
+      "level": 24
+    },
+    "message": "[1337|Shark|WEAPON_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-14T13:19:08.164Z"
   }
 ]
