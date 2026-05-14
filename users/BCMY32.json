@@ -178,5 +178,65 @@
     },
     "message": "[LMAO||BODY_SKIN|MYTHICAL]",
     "timestamp": "2026-05-13T06:01:41.226Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "15d60fb8-4a91-4f9b-986f-8164d4db8813",
+      "shortId": "BCMY32",
+      "name": "valkry",
+      "role": "USER",
+      "level": 11
+    },
+    "message": "trade me [ghallie]",
+    "timestamp": "2026-05-14T01:22:50.441Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "15d60fb8-4a91-4f9b-986f-8164d4db8813",
+      "shortId": "BCMY32",
+      "name": "valkry",
+      "role": "USER",
+      "level": 11
+    },
+    "message": "trade me [Ghillie||BODY_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-14T01:23:06.168Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "15d60fb8-4a91-4f9b-986f-8164d4db8813",
+      "shortId": "BCMY32",
+      "name": "valkry",
+      "role": "USER",
+      "level": 11
+    },
+    "message": "hey trade [Ghillie||BODY_SKIN|MYTHICAL] for me?",
+    "timestamp": "2026-05-14T01:24:14.025Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "15d60fb8-4a91-4f9b-986f-8164d4db8813",
+      "shortId": "BCMY32",
+      "name": "valkry",
+      "role": "USER",
+      "level": 11
+    },
+    "message": "who hv [Ghillie||BODY_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-14T01:24:27.213Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "15d60fb8-4a91-4f9b-986f-8164d4db8813",
+      "shortId": "BCMY32",
+      "name": "valkry",
+      "role": "USER",
+      "level": 11
+    },
+    "message": "[gamblin]",
+    "timestamp": "2026-05-14T01:25:22.012Z"
   }
 ]
