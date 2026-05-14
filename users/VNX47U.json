@@ -178,5 +178,53 @@
     },
     "message": "/price 2024",
     "timestamp": "2026-05-14T00:10:11.399Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "8775fb1b-8c04-4d6b-8bd6-f8432e00d359",
+      "shortId": "VNX47U",
+      "name": "Mylo!",
+      "role": "USER",
+      "level": 41
+    },
+    "message": "/price cornfield",
+    "timestamp": "2026-05-14T09:00:45.153Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "8775fb1b-8c04-4d6b-8bd6-f8432e00d359",
+      "shortId": "VNX47U",
+      "name": "Mylo!",
+      "role": "USER",
+      "level": 42
+    },
+    "message": "lwk looking for a pink skin",
+    "timestamp": "2026-05-14T09:28:59.131Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "8775fb1b-8c04-4d6b-8bd6-f8432e00d359",
+      "shortId": "VNX47U",
+      "name": "Mylo!",
+      "role": "USER",
+      "level": 42
+    },
+    "message": "[Technette||BODY_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-14T09:29:19.847Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "8775fb1b-8c04-4d6b-8bd6-f8432e00d359",
+      "shortId": "VNX47U",
+      "name": "Mylo!",
+      "role": "USER",
+      "level": 42
+    },
+    "message": "/locate slasher",
+    "timestamp": "2026-05-14T09:29:46.555Z"
   }
 ]
