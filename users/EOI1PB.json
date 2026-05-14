@@ -70,5 +70,89 @@
     },
     "message": "trading [2026 Shark|Shark|WEAPON_SKIN|PARANORMAL]",
     "timestamp": "2026-05-14T08:26:14.473Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "8dbe411e-429d-4477-8209-7c29f975007f",
+      "shortId": "EOI1PB",
+      "name": "Phoenix",
+      "role": "USER",
+      "level": 45
+    },
+    "message": "trading [2026 Shark|Shark|WEAPON_SKIN|PARANORMAL].",
+    "timestamp": "2026-05-14T08:55:51.644Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "8dbe411e-429d-4477-8209-7c29f975007f",
+      "shortId": "EOI1PB",
+      "name": "Phoenix",
+      "role": "USER",
+      "level": 45
+    },
+    "message": "trading [2026 Shark|Shark|WEAPON_SKIN|PARANORMAL]",
+    "timestamp": "2026-05-14T09:27:53.551Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "8dbe411e-429d-4477-8209-7c29f975007f",
+      "shortId": "EOI1PB",
+      "name": "Phoenix",
+      "role": "USER",
+      "level": 45
+    },
+    "message": "[2026 Shark|Shark|WEAPON_SKIN|PARANORMAL] for [Slasher||BODY_SKIN|PARANORMAL]?",
+    "timestamp": "2026-05-14T09:28:31.943Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "8dbe411e-429d-4477-8209-7c29f975007f",
+      "shortId": "EOI1PB",
+      "name": "Phoenix",
+      "role": "USER",
+      "level": 45
+    },
+    "message": "/inv [Slasher||BODY_SKIN|PARANORMAL]",
+    "timestamp": "2026-05-14T09:29:15.665Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "8dbe411e-429d-4477-8209-7c29f975007f",
+      "shortId": "EOI1PB",
+      "name": "Phoenix",
+      "role": "USER",
+      "level": 46
+    },
+    "message": "do i do [2026 Shark|Shark|WEAPON_SKIN|PARANORMAL] for [Slasher||BODY_SKIN|PARANORMAL]?",
+    "timestamp": "2026-05-14T09:47:08.594Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "8dbe411e-429d-4477-8209-7c29f975007f",
+      "shortId": "EOI1PB",
+      "name": "Phoenix",
+      "role": "USER",
+      "level": 46
+    },
+    "message": "/price [Slasher||BODY_SKIN|PARANORMAL]",
+    "timestamp": "2026-05-14T09:47:36.754Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "8dbe411e-429d-4477-8209-7c29f975007f",
+      "shortId": "EOI1PB",
+      "name": "Phoenix",
+      "role": "USER",
+      "level": 46
+    },
+    "message": "/price [2026 Shark|Shark|WEAPON_SKIN|PARANORMAL]",
+    "timestamp": "2026-05-14T09:47:58.664Z"
   }
 ]
