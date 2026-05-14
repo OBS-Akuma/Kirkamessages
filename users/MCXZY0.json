@@ -22,5 +22,29 @@
     },
     "message": "/inv #LTX9W6",
     "timestamp": "2026-05-13T08:45:02.777Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "ccbef495-a4e2-477b-9b5c-6fe0fc36e79d",
+      "shortId": "MCXZY0",
+      "name": "AIM(QUIT)",
+      "role": "USER",
+      "level": 71
+    },
+    "message": "/inv #PV831P",
+    "timestamp": "2026-05-14T06:38:46.551Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "ccbef495-a4e2-477b-9b5c-6fe0fc36e79d",
+      "shortId": "MCXZY0",
+      "name": "AIM(QUIT)",
+      "role": "USER",
+      "level": 71
+    },
+    "message": "/inv",
+    "timestamp": "2026-05-14T06:48:35.254Z"
   }
 ]
