@@ -586,5 +586,17 @@
     },
     "message": "/HM [Sinister||BODY_SKIN|MYTHICAL]",
     "timestamp": "2026-05-13T19:07:41.340Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "a1b97659-2643-423d-befe-d8f211f2b602",
+      "shortId": "888EGY",
+      "name": "S4DY",
+      "role": "USER",
+      "level": 97
+    },
+    "message": "/hm xed",
+    "timestamp": "2026-05-14T09:32:26.518Z"
   }
 ]
