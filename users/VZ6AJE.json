@@ -118,5 +118,329 @@
     },
     "message": "/price [Puppet||BODY_SKIN|MYTHICAL]",
     "timestamp": "2026-05-13T12:48:30.986Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "0e0253e4-94fe-4c73-bb1f-d26f1ba38b19",
+      "shortId": "VZ6AJE",
+      "name": "Newbie.",
+      "role": "USER",
+      "level": 37
+    },
+    "message": "[Vampire|Bayonet|WEAPON_SKIN|LEGENDARY]",
+    "timestamp": "2026-05-14T08:11:07.412Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "0e0253e4-94fe-4c73-bb1f-d26f1ba38b19",
+      "shortId": "VZ6AJE",
+      "name": "Newbie.",
+      "role": "USER",
+      "level": 37
+    },
+    "message": "/price [Vampire|Bayonet|WEAPON_SKIN|LEGENDARY]",
+    "timestamp": "2026-05-14T08:11:18.092Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "0e0253e4-94fe-4c73-bb1f-d26f1ba38b19",
+      "shortId": "VZ6AJE",
+      "name": "Newbie.",
+      "role": "USER",
+      "level": 37
+    },
+    "message": "Yes?",
+    "timestamp": "2026-05-14T08:11:27.443Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "0e0253e4-94fe-4c73-bb1f-d26f1ba38b19",
+      "shortId": "VZ6AJE",
+      "name": "Newbie.",
+      "role": "USER",
+      "level": 37
+    },
+    "message": "Huh",
+    "timestamp": "2026-05-14T08:11:52.259Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "0e0253e4-94fe-4c73-bb1f-d26f1ba38b19",
+      "shortId": "VZ6AJE",
+      "name": "Newbie.",
+      "role": "USER",
+      "level": 37
+    },
+    "message": "?",
+    "timestamp": "2026-05-14T08:13:03.200Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "0e0253e4-94fe-4c73-bb1f-d26f1ba38b19",
+      "shortId": "VZ6AJE",
+      "name": "Newbie.",
+      "role": "USER",
+      "level": 37
+    },
+    "message": "What do you have for trade?",
+    "timestamp": "2026-05-14T08:13:38.398Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "0e0253e4-94fe-4c73-bb1f-d26f1ba38b19",
+      "shortId": "VZ6AJE",
+      "name": "Newbie.",
+      "role": "USER",
+      "level": 37
+    },
+    "message": "How much for [Tide|SCAR|WEAPON_SKIN|LEGENDARY]?",
+    "timestamp": "2026-05-14T08:15:17.339Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "0e0253e4-94fe-4c73-bb1f-d26f1ba38b19",
+      "shortId": "VZ6AJE",
+      "name": "Newbie.",
+      "role": "USER",
+      "level": 37
+    },
+    "message": "I have astronova",
+    "timestamp": "2026-05-14T08:15:39.610Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "0e0253e4-94fe-4c73-bb1f-d26f1ba38b19",
+      "shortId": "VZ6AJE",
+      "name": "Newbie.",
+      "role": "USER",
+      "level": 37
+    },
+    "message": "Nah",
+    "timestamp": "2026-05-14T08:15:56.450Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "0e0253e4-94fe-4c73-bb1f-d26f1ba38b19",
+      "shortId": "VZ6AJE",
+      "name": "Newbie.",
+      "role": "USER",
+      "level": 37
+    },
+    "message": "That's all I'll do",
+    "timestamp": "2026-05-14T08:16:21.933Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "0e0253e4-94fe-4c73-bb1f-d26f1ba38b19",
+      "shortId": "VZ6AJE",
+      "name": "Newbie.",
+      "role": "USER",
+      "level": 37
+    },
+    "message": "?",
+    "timestamp": "2026-05-14T08:16:36.364Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "0e0253e4-94fe-4c73-bb1f-d26f1ba38b19",
+      "shortId": "VZ6AJE",
+      "name": "Newbie.",
+      "role": "USER",
+      "level": 37
+    },
+    "message": "What do you have for trade??",
+    "timestamp": "2026-05-14T08:16:50.461Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "0e0253e4-94fe-4c73-bb1f-d26f1ba38b19",
+      "shortId": "VZ6AJE",
+      "name": "Newbie.",
+      "role": "USER",
+      "level": 37
+    },
+    "message": "[Punji|Bayonet|WEAPON_SKIN|MYTHICAL] for [Royalchamp||BODY_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-14T08:17:25.888Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "0e0253e4-94fe-4c73-bb1f-d26f1ba38b19",
+      "shortId": "VZ6AJE",
+      "name": "Newbie.",
+      "role": "USER",
+      "level": 37
+    },
+    "message": "Hm for demon?",
+    "timestamp": "2026-05-14T08:18:00.067Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "0e0253e4-94fe-4c73-bb1f-d26f1ba38b19",
+      "shortId": "VZ6AJE",
+      "name": "Newbie.",
+      "role": "USER",
+      "level": 37
+    },
+    "message": "??",
+    "timestamp": "2026-05-14T08:19:17.951Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "0e0253e4-94fe-4c73-bb1f-d26f1ba38b19",
+      "shortId": "VZ6AJE",
+      "name": "Newbie.",
+      "role": "USER",
+      "level": 37
+    },
+    "message": "For?",
+    "timestamp": "2026-05-14T08:19:36.416Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "0e0253e4-94fe-4c73-bb1f-d26f1ba38b19",
+      "shortId": "VZ6AJE",
+      "name": "Newbie.",
+      "role": "USER",
+      "level": 37
+    },
+    "message": "How much add?",
+    "timestamp": "2026-05-14T08:20:33.308Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "0e0253e4-94fe-4c73-bb1f-d26f1ba38b19",
+      "shortId": "VZ6AJE",
+      "name": "Newbie.",
+      "role": "USER",
+      "level": 37
+    },
+    "message": "Sure, go ahead",
+    "timestamp": "2026-05-14T08:20:52.392Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "0e0253e4-94fe-4c73-bb1f-d26f1ba38b19",
+      "shortId": "VZ6AJE",
+      "name": "Newbie.",
+      "role": "USER",
+      "level": 37
+    },
+    "message": "Nah",
+    "timestamp": "2026-05-14T08:21:18.930Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "0e0253e4-94fe-4c73-bb1f-d26f1ba38b19",
+      "shortId": "VZ6AJE",
+      "name": "Newbie.",
+      "role": "USER",
+      "level": 37
+    },
+    "message": "I don't have demon..",
+    "timestamp": "2026-05-14T08:21:34.991Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "0e0253e4-94fe-4c73-bb1f-d26f1ba38b19",
+      "shortId": "VZ6AJE",
+      "name": "Newbie.",
+      "role": "USER",
+      "level": 37
+    },
+    "message": "Go check my inv in discord bro",
+    "timestamp": "2026-05-14T08:22:04.797Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "0e0253e4-94fe-4c73-bb1f-d26f1ba38b19",
+      "shortId": "VZ6AJE",
+      "name": "Newbie.",
+      "role": "USER",
+      "level": 37
+    },
+    "message": "[Target|Revolver|WEAPON_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-14T08:22:22.960Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "0e0253e4-94fe-4c73-bb1f-d26f1ba38b19",
+      "shortId": "VZ6AJE",
+      "name": "Newbie.",
+      "role": "USER",
+      "level": 37
+    },
+    "message": "[Momo||BODY_SKIN|LEGENDARY],[Reed||BODY_SKIN|LEGENDARY]",
+    "timestamp": "2026-05-14T08:23:17.170Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "0e0253e4-94fe-4c73-bb1f-d26f1ba38b19",
+      "shortId": "VZ6AJE",
+      "name": "Newbie.",
+      "role": "USER",
+      "level": 37
+    },
+    "message": "I hvae [Lucy||BODY_SKIN|LEGENDARY]",
+    "timestamp": "2026-05-14T08:23:56.552Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "0e0253e4-94fe-4c73-bb1f-d26f1ba38b19",
+      "shortId": "VZ6AJE",
+      "name": "Newbie.",
+      "role": "USER",
+      "level": 37
+    },
+    "message": "Yep",
+    "timestamp": "2026-05-14T08:24:07.353Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "0e0253e4-94fe-4c73-bb1f-d26f1ba38b19",
+      "shortId": "VZ6AJE",
+      "name": "Newbie.",
+      "role": "USER",
+      "level": 37
+    },
+    "message": "None of my business",
+    "timestamp": "2026-05-14T08:26:27.958Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "0e0253e4-94fe-4c73-bb1f-d26f1ba38b19",
+      "shortId": "VZ6AJE",
+      "name": "Newbie.",
+      "role": "USER",
+      "level": 37
+    },
+    "message": "I have",
+    "timestamp": "2026-05-14T08:27:06.835Z"
   }
 ]
