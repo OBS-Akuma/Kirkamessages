@@ -10,5 +10,17 @@
     },
     "message": "ok",
     "timestamp": "2026-05-13T07:33:15.179Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "e02cbb1a-3366-432c-bf3f-90cf1b6766ef",
+      "shortId": "9PY2RJ",
+      "name": "Bl4Z3",
+      "role": "USER",
+      "level": 28
+    },
+    "message": "pwnstar can you pls give me a free ticketeer",
+    "timestamp": "2026-05-14T13:43:52.426Z"
   }
 ]
