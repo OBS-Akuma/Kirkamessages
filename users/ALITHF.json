@@ -802,5 +802,101 @@
     },
     "message": "bruh",
     "timestamp": "2026-05-13T21:02:49.481Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "b8da81fb-ba0f-4d57-9c2b-560a302212ed",
+      "shortId": "ALITHF",
+      "name": "Bigmac",
+      "role": "USER",
+      "level": 76
+    },
+    "message": "i need to make the rest",
+    "timestamp": "2026-05-14T03:14:29.823Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "b8da81fb-ba0f-4d57-9c2b-560a302212ed",
+      "shortId": "ALITHF",
+      "name": "Bigmac",
+      "role": "USER",
+      "level": 76
+    },
+    "message": "#Q2S6GK",
+    "timestamp": "2026-05-14T03:14:36.897Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "b8da81fb-ba0f-4d57-9c2b-560a302212ed",
+      "shortId": "ALITHF",
+      "name": "Bigmac",
+      "role": "USER",
+      "level": 76
+    },
+    "message": "make trade",
+    "timestamp": "2026-05-14T03:14:38.582Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "b8da81fb-ba0f-4d57-9c2b-560a302212ed",
+      "shortId": "ALITHF",
+      "name": "Bigmac",
+      "role": "USER",
+      "level": 76
+    },
+    "message": "i was talking to wasd",
+    "timestamp": "2026-05-14T03:15:13.771Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "b8da81fb-ba0f-4d57-9c2b-560a302212ed",
+      "shortId": "ALITHF",
+      "name": "Bigmac",
+      "role": "USER",
+      "level": 76
+    },
+    "message": "lf [Elf||BODY_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-14T04:24:32.475Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "b8da81fb-ba0f-4d57-9c2b-560a302212ed",
+      "shortId": "ALITHF",
+      "name": "Bigmac",
+      "role": "USER",
+      "level": 76
+    },
+    "message": "lf [Elf||BODY_SKIN|MYTHICAL].",
+    "timestamp": "2026-05-14T04:26:49.862Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "b8da81fb-ba0f-4d57-9c2b-560a302212ed",
+      "shortId": "ALITHF",
+      "name": "Bigmac",
+      "role": "USER",
+      "level": 76
+    },
+    "message": "/owners [Elf||BODY_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-14T04:26:53.603Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "b8da81fb-ba0f-4d57-9c2b-560a302212ed",
+      "shortId": "ALITHF",
+      "name": "Bigmac",
+      "role": "USER",
+      "level": 76
+    },
+    "message": "/locate [Elf||BODY_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-14T04:26:59.097Z"
   }
 ]
