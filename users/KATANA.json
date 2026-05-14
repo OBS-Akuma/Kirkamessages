@@ -1066,5 +1066,17 @@
     },
     "message": "Waiting still.",
     "timestamp": "2026-05-14T07:34:29.977Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "0909a116-4e5b-42fb-9f7b-ca9b4f776a26",
+      "shortId": "KATANA",
+      "name": "Dream",
+      "role": "USER",
+      "level": 100
+    },
+    "message": "/hm snowglobe",
+    "timestamp": "2026-05-14T07:36:13.574Z"
   }
 ]
