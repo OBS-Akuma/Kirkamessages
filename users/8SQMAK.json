@@ -2074,5 +2074,65 @@
     },
     "message": "/hm ortus",
     "timestamp": "2026-05-13T22:59:29.335Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "e7ca017c-557f-4b21-96eb-3ec2a9a728ab",
+      "shortId": "8SQMAK",
+      "name": "Eri.",
+      "role": "USER",
+      "level": 57
+    },
+    "message": "/price chromaflame",
+    "timestamp": "2026-05-14T02:56:15.501Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "e7ca017c-557f-4b21-96eb-3ec2a9a728ab",
+      "shortId": "8SQMAK",
+      "name": "Eri.",
+      "role": "USER",
+      "level": 57
+    },
+    "message": "/price dragonic",
+    "timestamp": "2026-05-14T10:07:03.433Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "e7ca017c-557f-4b21-96eb-3ec2a9a728ab",
+      "shortId": "8SQMAK",
+      "name": "Eri.",
+      "role": "USER",
+      "level": 57
+    },
+    "message": "/price abstraction, dragonic weatie",
+    "timestamp": "2026-05-14T10:09:13.738Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "e7ca017c-557f-4b21-96eb-3ec2a9a728ab",
+      "shortId": "8SQMAK",
+      "name": "Eri.",
+      "role": "USER",
+      "level": 57
+    },
+    "message": "/price Dragonic Weatie",
+    "timestamp": "2026-05-14T10:09:52.592Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "e7ca017c-557f-4b21-96eb-3ec2a9a728ab",
+      "shortId": "8SQMAK",
+      "name": "Eri.",
+      "role": "USER",
+      "level": 57
+    },
+    "message": "/price Abstraction",
+    "timestamp": "2026-05-14T10:10:27.391Z"
   }
 ]
