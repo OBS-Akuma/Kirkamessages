@@ -1186,5 +1186,17 @@
     },
     "message": "lmao",
     "timestamp": "2026-05-14T15:44:02.818Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "a1b97659-2643-423d-befe-d8f211f2b602",
+      "shortId": "888EGY",
+      "name": "S4DY",
+      "role": "USER",
+      "level": 97
+    },
+    "message": "tr [Darkweb||BODY_SKIN|MYTHICAL] [Mabel||BODY_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-14T15:44:43.424Z"
   }
 ]
