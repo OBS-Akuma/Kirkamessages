@@ -166,5 +166,17 @@
     },
     "message": "/price [Xed||BODY_SKIN|MYTHICAL]",
     "timestamp": "2026-05-13T21:56:49.053Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "6e96cbad-888e-4efd-bd88-73b43c669daf",
+      "shortId": "0S33SQ",
+      "name": "-CAT-",
+      "role": "USER",
+      "level": 99
+    },
+    "message": "#609GEM hm do you offer for it?",
+    "timestamp": "2026-05-14T08:56:39.447Z"
   }
 ]
