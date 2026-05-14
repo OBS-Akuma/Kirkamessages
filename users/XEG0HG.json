@@ -190,5 +190,17 @@
     },
     "message": "/price forbidden",
     "timestamp": "2026-05-12T15:01:37.205Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "e4b18726-59b3-4eeb-89d5-261b099072b6",
+      "shortId": "XEG0HG",
+      "name": "Nattou",
+      "role": "USER",
+      "level": 77
+    },
+    "message": "/inv",
+    "timestamp": "2026-05-14T17:26:18.820Z"
   }
 ]
