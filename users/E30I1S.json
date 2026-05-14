@@ -1,0 +1,50 @@
+[
+  {
+    "type": 2,
+    "user": {
+      "id": "d97fc4ce-044c-43aa-b2f5-d3435cd4e6b3",
+      "shortId": "E30I1S",
+      "name": "Meowbie^.^",
+      "role": "USER",
+      "level": 40
+    },
+    "message": "hiee",
+    "timestamp": "2026-05-14T14:01:03.007Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "d97fc4ce-044c-43aa-b2f5-d3435cd4e6b3",
+      "shortId": "E30I1S",
+      "name": "Meowbie^.^",
+      "role": "USER",
+      "level": 40
+    },
+    "message": "/enter",
+    "timestamp": "2026-05-14T14:01:27.016Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "d97fc4ce-044c-43aa-b2f5-d3435cd4e6b3",
+      "shortId": "E30I1S",
+      "name": "Meowbie^.^",
+      "role": "USER",
+      "level": 40
+    },
+    "message": "./inv",
+    "timestamp": "2026-05-14T14:01:36.567Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "d97fc4ce-044c-43aa-b2f5-d3435cd4e6b3",
+      "shortId": "E30I1S",
+      "name": "Meowbie^.^",
+      "role": "USER",
+      "level": 40
+    },
+    "message": "/inv",
+    "timestamp": "2026-05-14T14:01:40.948Z"
+  }
+]
