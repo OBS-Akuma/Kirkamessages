@@ -1,0 +1,26 @@
+[
+  {
+    "type": 2,
+    "user": {
+      "id": "guest-9ac6f36c-527e-4657-8297-c2cb56aa2b8c",
+      "shortId": "1FPLRW",
+      "name": "viktorrosas",
+      "role": "USER",
+      "level": 5
+    },
+    "message": "wgars up",
+    "timestamp": "2026-05-14T18:12:21.360Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "guest-9ac6f36c-527e-4657-8297-c2cb56aa2b8c",
+      "shortId": "1FPLRW",
+      "name": "viktorrosas",
+      "role": "USER",
+      "level": 5
+    },
+    "message": "hi",
+    "timestamp": "2026-05-14T18:12:25.346Z"
+  }
+]
