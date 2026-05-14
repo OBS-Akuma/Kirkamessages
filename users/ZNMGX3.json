@@ -274,5 +274,89 @@
     },
     "message": "#HUB956",
     "timestamp": "2026-05-13T02:27:03.924Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "5e16094e-cf58-4b45-886c-dc98cb2a0f10",
+      "shortId": "ZNMGX3",
+      "name": "TraDer",
+      "role": "USER",
+      "level": 8
+    },
+    "message": "/inv #OSCAAV",
+    "timestamp": "2026-05-14T01:11:29.277Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "5e16094e-cf58-4b45-886c-dc98cb2a0f10",
+      "shortId": "ZNMGX3",
+      "name": "TraDer",
+      "role": "USER",
+      "level": 8
+    },
+    "message": "#WANTED",
+    "timestamp": "2026-05-14T01:12:23.415Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "5e16094e-cf58-4b45-886c-dc98cb2a0f10",
+      "shortId": "ZNMGX3",
+      "name": "TraDer",
+      "role": "USER",
+      "level": 8
+    },
+    "message": "/inv",
+    "timestamp": "2026-05-14T01:12:46.966Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "5e16094e-cf58-4b45-886c-dc98cb2a0f10",
+      "shortId": "ZNMGX3",
+      "name": "TraDer",
+      "role": "USER",
+      "level": 8
+    },
+    "message": "Lf[Fanny||BODY_SKIN|MYTHICAL][Shi er][Cyclop||BODY_SKIN|MYTHICAL][",
+    "timestamp": "2026-05-14T01:14:12.607Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "5e16094e-cf58-4b45-886c-dc98cb2a0f10",
+      "shortId": "ZNMGX3",
+      "name": "TraDer",
+      "role": "USER",
+      "level": 8
+    },
+    "message": "[Color||BODY_SKIN|MYTHICAL] lf",
+    "timestamp": "2026-05-14T01:14:22.384Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "5e16094e-cf58-4b45-886c-dc98cb2a0f10",
+      "shortId": "ZNMGX3",
+      "name": "TraDer",
+      "role": "USER",
+      "level": 8
+    },
+    "message": "Abuzar personal trade bna da plzz",
+    "timestamp": "2026-05-14T01:15:20.516Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "5e16094e-cf58-4b45-886c-dc98cb2a0f10",
+      "shortId": "ZNMGX3",
+      "name": "TraDer",
+      "role": "USER",
+      "level": 8
+    },
+    "message": "Abuzar Bhi ma mobile par tha 😔😔😔",
+    "timestamp": "2026-05-14T01:16:12.503Z"
   }
 ]
