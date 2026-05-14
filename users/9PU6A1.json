@@ -562,5 +562,65 @@
     },
     "message": "chachhaaa",
     "timestamp": "2026-05-12T13:27:02.006Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "f4ee79aa-6e34-4add-9bb3-82f9d66d11c0",
+      "shortId": "9PU6A1",
+      "name": "Spicy",
+      "role": "USER",
+      "level": 67
+    },
+    "message": "/inv #WERWER",
+    "timestamp": "2026-05-14T09:20:42.593Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "f4ee79aa-6e34-4add-9bb3-82f9d66d11c0",
+      "shortId": "9PU6A1",
+      "name": "Spicy",
+      "role": "USER",
+      "level": 67
+    },
+    "message": "/hm gold",
+    "timestamp": "2026-05-14T12:05:23.543Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "f4ee79aa-6e34-4add-9bb3-82f9d66d11c0",
+      "shortId": "9PU6A1",
+      "name": "Spicy",
+      "role": "USER",
+      "level": 67
+    },
+    "message": "hii wizzy",
+    "timestamp": "2026-05-14T12:05:38.196Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "f4ee79aa-6e34-4add-9bb3-82f9d66d11c0",
+      "shortId": "9PU6A1",
+      "name": "Spicy",
+      "role": "USER",
+      "level": 67
+    },
+    "message": "lunar wtf",
+    "timestamp": "2026-05-14T12:20:37.857Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "f4ee79aa-6e34-4add-9bb3-82f9d66d11c0",
+      "shortId": "9PU6A1",
+      "name": "Spicy",
+      "role": "USER",
+      "level": 67
+    },
+    "message": "9",
+    "timestamp": "2026-05-14T12:20:46.255Z"
   }
 ]
