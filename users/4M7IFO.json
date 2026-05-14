@@ -1870,5 +1870,137 @@
     },
     "message": "who have [Momo||BODY_SKIN|LEGENDARY]",
     "timestamp": "2026-05-14T12:28:14.694Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "ede31f87-e617-489f-bf57-1524c9c3aba4",
+      "shortId": "4M7IFO",
+      "name": "DeffendPr.",
+      "role": "USER",
+      "level": 19
+    },
+    "message": "wagering [Momo||BODY_SKIN|LEGENDARY]",
+    "timestamp": "2026-05-14T12:40:03.752Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "ede31f87-e617-489f-bf57-1524c9c3aba4",
+      "shortId": "4M7IFO",
+      "name": "DeffendPr.",
+      "role": "USER",
+      "level": 19
+    },
+    "message": "/wager [Momo||BODY_SKIN|LEGENDARY] #PV831P",
+    "timestamp": "2026-05-14T12:40:26.873Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "ede31f87-e617-489f-bf57-1524c9c3aba4",
+      "shortId": "4M7IFO",
+      "name": "DeffendPr.",
+      "role": "USER",
+      "level": 19
+    },
+    "message": "/cancelwager",
+    "timestamp": "2026-05-14T12:40:58.800Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "ede31f87-e617-489f-bf57-1524c9c3aba4",
+      "shortId": "4M7IFO",
+      "name": "DeffendPr.",
+      "role": "USER",
+      "level": 19
+    },
+    "message": "/wager [momo ]#TRE873",
+    "timestamp": "2026-05-14T12:41:18.215Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "ede31f87-e617-489f-bf57-1524c9c3aba4",
+      "shortId": "4M7IFO",
+      "name": "DeffendPr.",
+      "role": "USER",
+      "level": 19
+    },
+    "message": "/wager [Momo||BODY_SKIN|LEGENDARY] #TRE873",
+    "timestamp": "2026-05-14T12:41:24.960Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "ede31f87-e617-489f-bf57-1524c9c3aba4",
+      "shortId": "4M7IFO",
+      "name": "DeffendPr.",
+      "role": "USER",
+      "level": 19
+    },
+    "message": "wagering 120[Golden||CHEST|LEGENDARY]",
+    "timestamp": "2026-05-14T13:21:17.935Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "ede31f87-e617-489f-bf57-1524c9c3aba4",
+      "shortId": "4M7IFO",
+      "name": "DeffendPr.",
+      "role": "USER",
+      "level": 19
+    },
+    "message": "wagering 120[Golden||CHEST|LEGENDARY]..",
+    "timestamp": "2026-05-14T13:21:40.708Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "ede31f87-e617-489f-bf57-1524c9c3aba4",
+      "shortId": "4M7IFO",
+      "name": "DeffendPr.",
+      "role": "USER",
+      "level": 19
+    },
+    "message": "wagering 120[Golden||CHEST|LEGENDARY].",
+    "timestamp": "2026-05-14T13:22:01.800Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "ede31f87-e617-489f-bf57-1524c9c3aba4",
+      "shortId": "4M7IFO",
+      "name": "DeffendPr.",
+      "role": "USER",
+      "level": 19
+    },
+    "message": "#609GEM",
+    "timestamp": "2026-05-14T13:22:55.441Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "ede31f87-e617-489f-bf57-1524c9c3aba4",
+      "shortId": "4M7IFO",
+      "name": "DeffendPr.",
+      "role": "USER",
+      "level": 19
+    },
+    "message": "/wager [Golden||CHEST|LEGENDARY]x120 #609GEM",
+    "timestamp": "2026-05-14T13:23:29.484Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "ede31f87-e617-489f-bf57-1524c9c3aba4",
+      "shortId": "4M7IFO",
+      "name": "DeffendPr.",
+      "role": "USER",
+      "level": 19
+    },
+    "message": "/mywager",
+    "timestamp": "2026-05-14T13:24:10.864Z"
   }
 ]
