@@ -790,5 +790,29 @@
     },
     "message": "well anyways im off to the gym c ya",
     "timestamp": "2026-05-12T13:46:49.976Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "a86d1b4f-997c-44fd-9a7d-6074af84a31f",
+      "shortId": "531I15",
+      "name": "MalaKas.",
+      "role": "USER",
+      "level": 99
+    },
+    "message": "/wager [Slay||BODY_SKIN|MYTHICAL] #L7K5B3",
+    "timestamp": "2026-05-14T16:32:51.121Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "a86d1b4f-997c-44fd-9a7d-6074af84a31f",
+      "shortId": "531I15",
+      "name": "MalaKas.",
+      "role": "USER",
+      "level": 99
+    },
+    "message": "/cancelwager",
+    "timestamp": "2026-05-14T16:33:09.338Z"
   }
 ]
