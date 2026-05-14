@@ -418,5 +418,53 @@
     },
     "message": "LF [Slime||BODY_SKIN|MYTHICAL] TRADING [Koi|Bayonet|WEAPON_SKIN|MYTHICAL] [Cosmos|VITA|WEAPON_SKIN|MYTHICAL] FOR IT",
     "timestamp": "2026-05-14T16:33:27.034Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "f26a883f-eeab-4925-9ad9-74c453303f7e",
+      "shortId": "UARYDM",
+      "name": "Aceria",
+      "role": "USER",
+      "level": 19
+    },
+    "message": "all else I got is a diane",
+    "timestamp": "2026-05-14T16:34:49.425Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "f26a883f-eeab-4925-9ad9-74c453303f7e",
+      "shortId": "UARYDM",
+      "name": "Aceria",
+      "role": "USER",
+      "level": 19
+    },
+    "message": "I can try and trade [Koi|Bayonet|WEAPON_SKIN|MYTHICAL] [Diane|Shark|WEAPON_SKIN|MYTHICAL] [Cosmos|VITA|WEAPON_SKIN|MYTHICAL] for [Slime||BODY_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-14T16:35:08.733Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "f26a883f-eeab-4925-9ad9-74c453303f7e",
+      "shortId": "UARYDM",
+      "name": "Aceria",
+      "role": "USER",
+      "level": 19
+    },
+    "message": "#I0GVO6 [Diane|Shark|WEAPON_SKIN|MYTHICAL] [Koi|Bayonet|WEAPON_SKIN|MYTHICAL] [Cosmos|VITA|WEAPON_SKIN|MYTHICAL] for [Slime||BODY_SKIN|MYTHICAL]?",
+    "timestamp": "2026-05-14T16:35:49.967Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "f26a883f-eeab-4925-9ad9-74c453303f7e",
+      "shortId": "UARYDM",
+      "name": "Aceria",
+      "role": "USER",
+      "level": 19
+    },
+    "message": "k",
+    "timestamp": "2026-05-14T16:36:04.536Z"
   }
 ]
