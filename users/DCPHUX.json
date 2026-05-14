@@ -106,5 +106,17 @@
     },
     "message": "daminion",
     "timestamp": "2026-05-12T22:54:44.670Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "fd9060c6-a041-4148-970d-a5c5d7dfcbb2",
+      "shortId": "DCPHUX",
+      "name": "Newbie",
+      "role": "USER",
+      "level": 15
+    },
+    "message": "/enter",
+    "timestamp": "2026-05-14T00:26:14.006Z"
   }
 ]
