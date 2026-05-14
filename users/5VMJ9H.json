@@ -82,5 +82,17 @@
     },
     "message": "_/\\_",
     "timestamp": "2026-05-12T12:52:40.388Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "0d01e9a9-5980-497c-9a54-237b60f338e9",
+      "shortId": "5VMJ9H",
+      "name": "Lortz_Dzaki2",
+      "role": "USER",
+      "level": 7
+    },
+    "message": "/inv",
+    "timestamp": "2026-05-14T02:51:28.544Z"
   }
 ]
