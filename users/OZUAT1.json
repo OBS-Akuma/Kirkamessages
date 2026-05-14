@@ -790,5 +790,17 @@
     },
     "message": "lmao",
     "timestamp": "2026-05-08T21:43:21.008Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "4a9f515a-7058-4534-877a-d09773f0f911",
+      "shortId": "OZUAT1",
+      "name": "wasd",
+      "role": "USER",
+      "level": 99
+    },
+    "message": "cani have bok back",
+    "timestamp": "2026-05-14T03:14:34.739Z"
   }
 ]
