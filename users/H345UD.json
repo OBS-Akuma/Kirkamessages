@@ -1066,5 +1066,53 @@
     },
     "message": "/hm gore",
     "timestamp": "2026-05-14T15:39:33.796Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "4565adc2-154f-4217-b2fc-56369a378692",
+      "shortId": "H345UD",
+      "name": "Hybrid",
+      "role": "USER",
+      "level": 29
+    },
+    "message": "is offering their  for your soul, type **/trade accept 67** to accept this offer",
+    "timestamp": "2026-05-14T15:56:57.087Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "4565adc2-154f-4217-b2fc-56369a378692",
+      "shortId": "H345UD",
+      "name": "Hybrid",
+      "role": "USER",
+      "level": 29
+    },
+    "message": "/hm [Nova|SCAR|WEAPON_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-14T15:57:29.203Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "4565adc2-154f-4217-b2fc-56369a378692",
+      "shortId": "H345UD",
+      "name": "Hybrid",
+      "role": "USER",
+      "level": 29
+    },
+    "message": "/hm [Sandwich||BODY_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-14T15:57:35.810Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "4565adc2-154f-4217-b2fc-56369a378692",
+      "shortId": "H345UD",
+      "name": "Hybrid",
+      "role": "USER",
+      "level": 29
+    },
+    "message": "/inv",
+    "timestamp": "2026-05-14T15:58:06.521Z"
   }
 ]
