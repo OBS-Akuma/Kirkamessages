@@ -874,5 +874,29 @@
     },
     "message": "/hm or",
     "timestamp": "2026-05-13T18:41:19.384Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "e6f1092a-d1c9-4698-905b-5e4797995800",
+      "shortId": "CBBOE7",
+      "name": "tmmor",
+      "role": "USER",
+      "level": 63
+    },
+    "message": "/hm cornfield",
+    "timestamp": "2026-05-13T20:10:50.757Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "e6f1092a-d1c9-4698-905b-5e4797995800",
+      "shortId": "CBBOE7",
+      "name": "tmmor",
+      "role": "USER",
+      "level": 63
+    },
+    "message": "/hm sam",
+    "timestamp": "2026-05-13T22:24:23.578Z"
   }
 ]
