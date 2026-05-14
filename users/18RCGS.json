@@ -1354,5 +1354,17 @@
     },
     "message": "trading [cataylist]",
     "timestamp": "2026-05-09T04:05:24.090Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "5dc6fde8-9a8b-46ce-888d-1087729265e1",
+      "shortId": "18RCGS",
+      "name": "Cheetos_queen",
+      "role": "USER",
+      "level": 6
+    },
+    "message": "[Abyss||BODY_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-14T03:36:55.236Z"
   }
 ]
