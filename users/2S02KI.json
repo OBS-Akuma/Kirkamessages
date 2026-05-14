@@ -10,5 +10,65 @@
     },
     "message": "trading [Forbidden|AR-9|WEAPON_SKIN|MYTHICAL]",
     "timestamp": "2026-05-08T05:16:12.985Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "ygQuVIMjNpYYSQeb4odwgczh2j03",
+      "shortId": "2S02KI",
+      "name": "Slenderman",
+      "role": "USER",
+      "level": 99
+    },
+    "message": "trading [Lis|Revolver|WEAPON_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-14T08:53:37.378Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "ygQuVIMjNpYYSQeb4odwgczh2j03",
+      "shortId": "2S02KI",
+      "name": "Slenderman",
+      "role": "USER",
+      "level": 99
+    },
+    "message": "#609GEM?",
+    "timestamp": "2026-05-14T08:53:50.990Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "ygQuVIMjNpYYSQeb4odwgczh2j03",
+      "shortId": "2S02KI",
+      "name": "Slenderman",
+      "role": "USER",
+      "level": 99
+    },
+    "message": "#609GEM i have",
+    "timestamp": "2026-05-14T08:54:05.625Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "ygQuVIMjNpYYSQeb4odwgczh2j03",
+      "shortId": "2S02KI",
+      "name": "Slenderman",
+      "role": "USER",
+      "level": 99
+    },
+    "message": "#WORKJK",
+    "timestamp": "2026-05-14T08:54:20.587Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "ygQuVIMjNpYYSQeb4odwgczh2j03",
+      "shortId": "2S02KI",
+      "name": "Slenderman",
+      "role": "USER",
+      "level": 99
+    },
+    "message": "#WORKJK [Lis|Revolver|WEAPON_SKIN|MYTHICAL] for [Shroud||BODY_SKIN|MYTHICAL]?",
+    "timestamp": "2026-05-14T08:54:28.586Z"
   }
 ]
