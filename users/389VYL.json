@@ -334,5 +334,17 @@
     },
     "message": "LF [Slasher||BODY_SKIN|PARANORMAL]",
     "timestamp": "2026-05-14T16:10:17.601Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "652ac228-3d25-43e1-a1ae-45e14849f39f",
+      "shortId": "389VYL",
+      "name": "magma",
+      "role": "USER",
+      "level": 32
+    },
+    "message": "/inv #DA0UG2",
+    "timestamp": "2026-05-14T16:38:20.897Z"
   }
 ]
