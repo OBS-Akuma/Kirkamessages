@@ -1462,5 +1462,17 @@
     },
     "message": "/claim",
     "timestamp": "2026-05-14T13:19:38.064Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "89f5517d-5d90-40c8-a84a-8d391351c502",
+      "shortId": "IH51XN",
+      "name": "AllMight",
+      "role": "USER",
+      "level": 32
+    },
+    "message": "[Pengu||BODY_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-14T17:04:22.457Z"
   }
 ]
