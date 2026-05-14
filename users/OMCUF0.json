@@ -3574,5 +3574,65 @@
     },
     "message": "/price void bayo",
     "timestamp": "2026-05-13T00:17:03.356Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "c2f1630a-cceb-442f-9053-3a277f47f5ca",
+      "shortId": "OMCUF0",
+      "name": "Manna",
+      "role": "USER",
+      "level": 99
+    },
+    "message": "/price tide",
+    "timestamp": "2026-05-14T00:25:04.714Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "c2f1630a-cceb-442f-9053-3a277f47f5ca",
+      "shortId": "OMCUF0",
+      "name": "Manna",
+      "role": "USER",
+      "level": 99
+    },
+    "message": "/price scarlet",
+    "timestamp": "2026-05-14T00:25:10.782Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "c2f1630a-cceb-442f-9053-3a277f47f5ca",
+      "shortId": "OMCUF0",
+      "name": "Manna",
+      "role": "USER",
+      "level": 99
+    },
+    "message": "/inv",
+    "timestamp": "2026-05-14T00:25:16.925Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "c2f1630a-cceb-442f-9053-3a277f47f5ca",
+      "shortId": "OMCUF0",
+      "name": "Manna",
+      "role": "USER",
+      "level": 99
+    },
+    "message": "me too",
+    "timestamp": "2026-05-14T00:25:38.624Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "c2f1630a-cceb-442f-9053-3a277f47f5ca",
+      "shortId": "OMCUF0",
+      "name": "Manna",
+      "role": "USER",
+      "level": 99
+    },
+    "message": "am brokee",
+    "timestamp": "2026-05-14T00:25:45.512Z"
   }
 ]
