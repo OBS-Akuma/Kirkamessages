@@ -8,7 +8,7 @@
       "role": "USER",
       "level": 20
     },
-    "message": "/ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ°NV",
+    "message": "/ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ°NV",
     "timestamp": "2026-05-14T12:18:05.757Z"
   },
   {
@@ -200,7 +200,7 @@
       "role": "USER",
       "level": 22
     },
-    "message": "/hm Ã§",
+    "message": "/hm ÃÂ§",
     "timestamp": "2026-05-14T14:44:20.660Z"
   },
   {
@@ -260,7 +260,7 @@
       "role": "USER",
       "level": 22
     },
-    "message": "/hm Ä",
+    "message": "/hm ÃÂ",
     "timestamp": "2026-05-14T14:44:47.623Z"
   },
   {
@@ -370,5 +370,17 @@
     },
     "message": "/bolt 1gbits",
     "timestamp": "2026-05-14T16:23:44.970Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "0gcBaCl2jLQQalynA53ag9AH7Ur2",
+      "shortId": "1KNVVY",
+      "name": "ORBION",
+      "role": "USER",
+      "level": 22
+    },
+    "message": "/wager",
+    "timestamp": "2026-05-14T17:14:59.246Z"
   }
 ]
