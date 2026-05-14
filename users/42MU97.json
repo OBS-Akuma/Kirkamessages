@@ -82,5 +82,29 @@
     },
     "message": "/locate ghost p4",
     "timestamp": "2026-05-14T02:33:23.188Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "e92adc75-e361-4bb3-9f53-8adb795167c4",
+      "shortId": "42MU97",
+      "name": "Nucleon",
+      "role": "USER",
+      "level": 46
+    },
+    "message": "[Target|Revolver|WEAPON_SKIN|MYTHICAL] for [Polychrome|VITA|WEAPON_SKIN|LEGENDARY] anyone?",
+    "timestamp": "2026-05-14T15:14:22.512Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "e92adc75-e361-4bb3-9f53-8adb795167c4",
+      "shortId": "42MU97",
+      "name": "Nucleon",
+      "role": "USER",
+      "level": 46
+    },
+    "message": "[Moltorath||BODY_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-14T15:17:40.855Z"
   }
 ]
