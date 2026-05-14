@@ -1,0 +1,26 @@
+[
+  {
+    "type": 2,
+    "user": {
+      "id": "9c147429-e985-4097-b984-ae269e562bfb",
+      "shortId": "E0T2DQ",
+      "name": "CR|Scorch",
+      "role": "USER",
+      "level": 66
+    },
+    "message": "/price astra",
+    "timestamp": "2026-05-13T17:38:47.501Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "9c147429-e985-4097-b984-ae269e562bfb",
+      "shortId": "E0T2DQ",
+      "name": "CR|Scorch",
+      "role": "USER",
+      "level": 66
+    },
+    "message": "/price cherry",
+    "timestamp": "2026-05-13T17:39:28.038Z"
+  }
+]
