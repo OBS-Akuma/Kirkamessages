@@ -382,5 +382,41 @@
     },
     "message": "/inv",
     "timestamp": "2026-05-13T10:28:37.556Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "f3d8aed5-3408-4def-a9ca-471732d2f2e5",
+      "shortId": "C8L568",
+      "name": "Coolboy025",
+      "role": "USER",
+      "level": 98
+    },
+    "message": "/enter",
+    "timestamp": "2026-05-14T08:31:06.814Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "f3d8aed5-3408-4def-a9ca-471732d2f2e5",
+      "shortId": "C8L568",
+      "name": "Coolboy025",
+      "role": "USER",
+      "level": 98
+    },
+    "message": "/hm [Static|VITA|WEAPON_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-14T08:32:17.126Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "f3d8aed5-3408-4def-a9ca-471732d2f2e5",
+      "shortId": "C8L568",
+      "name": "Coolboy025",
+      "role": "USER",
+      "level": 98
+    },
+    "message": "/hm [Bansee|VITA|WEAPON_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-14T08:32:31.825Z"
   }
 ]
