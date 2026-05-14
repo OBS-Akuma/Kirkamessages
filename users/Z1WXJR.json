@@ -670,5 +670,41 @@
     },
     "message": "no blood i mean like 500 goldens",
     "timestamp": "2026-05-13T20:54:27.519Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "70184f38-6b61-4ca3-bf66-2cdbc3f42f1b",
+      "shortId": "Z1WXJR",
+      "name": "ZouD",
+      "role": "USER",
+      "level": 47
+    },
+    "message": "#BHERYS ik so plz accept",
+    "timestamp": "2026-05-14T11:55:09.487Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "70184f38-6b61-4ca3-bf66-2cdbc3f42f1b",
+      "shortId": "Z1WXJR",
+      "name": "ZouD",
+      "role": "USER",
+      "level": 47
+    },
+    "message": "#BHERYS ok np",
+    "timestamp": "2026-05-14T11:55:48.204Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "70184f38-6b61-4ca3-bf66-2cdbc3f42f1b",
+      "shortId": "Z1WXJR",
+      "name": "ZouD",
+      "role": "USER",
+      "level": 47
+    },
+    "message": "oh thx gg",
+    "timestamp": "2026-05-14T11:56:17.441Z"
   }
 ]
