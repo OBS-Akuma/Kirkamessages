@@ -3394,5 +3394,197 @@
     },
     "message": "/claim",
     "timestamp": "2026-05-13T20:55:10.685Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "fce58d08-90f4-45cd-9aba-7f4babb73836",
+      "shortId": "F1S8WU",
+      "name": "Blessed",
+      "role": "USER",
+      "level": 76
+    },
+    "message": "/wager [Golden||CHEST|LEGENDARY]x100 #609GEM",
+    "timestamp": "2026-05-14T06:32:25.942Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "fce58d08-90f4-45cd-9aba-7f4babb73836",
+      "shortId": "F1S8WU",
+      "name": "Blessed",
+      "role": "USER",
+      "level": 76
+    },
+    "message": "/claim",
+    "timestamp": "2026-05-14T06:33:37.029Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "fce58d08-90f4-45cd-9aba-7f4babb73836",
+      "shortId": "F1S8WU",
+      "name": "Blessed",
+      "role": "USER",
+      "level": 76
+    },
+    "message": "Wagering [Ortus|Revolver|WEAPON_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-14T06:34:32.641Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "fce58d08-90f4-45cd-9aba-7f4babb73836",
+      "shortId": "F1S8WU",
+      "name": "Blessed",
+      "role": "USER",
+      "level": 76
+    },
+    "message": "Wagering [Ortus|Revolver|WEAPON_SKIN|MYTHICAL]]",
+    "timestamp": "2026-05-14T06:35:00.035Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "fce58d08-90f4-45cd-9aba-7f4babb73836",
+      "shortId": "F1S8WU",
+      "name": "Blessed",
+      "role": "USER",
+      "level": 76
+    },
+    "message": "/confirmwager",
+    "timestamp": "2026-05-14T06:35:23.018Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "fce58d08-90f4-45cd-9aba-7f4babb73836",
+      "shortId": "F1S8WU",
+      "name": "Blessed",
+      "role": "USER",
+      "level": 76
+    },
+    "message": "/wager [Golden||CHEST|LEGENDARY]x100 #HUB956",
+    "timestamp": "2026-05-14T06:36:21.500Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "fce58d08-90f4-45cd-9aba-7f4babb73836",
+      "shortId": "F1S8WU",
+      "name": "Blessed",
+      "role": "USER",
+      "level": 76
+    },
+    "message": "/cancelwager",
+    "timestamp": "2026-05-14T06:36:40.870Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "fce58d08-90f4-45cd-9aba-7f4babb73836",
+      "shortId": "F1S8WU",
+      "name": "Blessed",
+      "role": "USER",
+      "level": 76
+    },
+    "message": "/wager [Kod||BODY_SKIN|LEGENDARY] #XCS847",
+    "timestamp": "2026-05-14T06:37:27.767Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "fce58d08-90f4-45cd-9aba-7f4babb73836",
+      "shortId": "F1S8WU",
+      "name": "Blessed",
+      "role": "USER",
+      "level": 76
+    },
+    "message": "/cancelwagee",
+    "timestamp": "2026-05-14T06:38:06.599Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "fce58d08-90f4-45cd-9aba-7f4babb73836",
+      "shortId": "F1S8WU",
+      "name": "Blessed",
+      "role": "USER",
+      "level": 76
+    },
+    "message": "/cancelwager",
+    "timestamp": "2026-05-14T06:38:15.611Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "fce58d08-90f4-45cd-9aba-7f4babb73836",
+      "shortId": "F1S8WU",
+      "name": "Blessed",
+      "role": "USER",
+      "level": 76
+    },
+    "message": "Venom",
+    "timestamp": "2026-05-14T06:38:36.747Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "fce58d08-90f4-45cd-9aba-7f4babb73836",
+      "shortId": "F1S8WU",
+      "name": "Blessed",
+      "role": "USER",
+      "level": 76
+    },
+    "message": "1v1 ?",
+    "timestamp": "2026-05-14T06:38:42.158Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "fce58d08-90f4-45cd-9aba-7f4babb73836",
+      "shortId": "F1S8WU",
+      "name": "Blessed",
+      "role": "USER",
+      "level": 76
+    },
+    "message": "All spark astranova and ortus",
+    "timestamp": "2026-05-14T06:39:03.408Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "fce58d08-90f4-45cd-9aba-7f4babb73836",
+      "shortId": "F1S8WU",
+      "name": "Blessed",
+      "role": "USER",
+      "level": 76
+    },
+    "message": "Sorry bro",
+    "timestamp": "2026-05-14T06:42:42.466Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "fce58d08-90f4-45cd-9aba-7f4babb73836",
+      "shortId": "F1S8WU",
+      "name": "Blessed",
+      "role": "USER",
+      "level": 76
+    },
+    "message": "I had to reconnect",
+    "timestamp": "2026-05-14T06:42:49.373Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "fce58d08-90f4-45cd-9aba-7f4babb73836",
+      "shortId": "F1S8WU",
+      "name": "Blessed",
+      "role": "USER",
+      "level": 76
+    },
+    "message": "It went off",
+    "timestamp": "2026-05-14T06:43:02.243Z"
   }
 ]
