@@ -1366,5 +1366,725 @@
     },
     "message": "Ok",
     "timestamp": "2026-05-13T18:17:45.540Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "XPTG9BeExFX4cLzVGNANDri4FLk1",
+      "shortId": "DCDEOR",
+      "name": "Rizz_1",
+      "role": "USER",
+      "level": 6
+    },
+    "message": "Z",
+    "timestamp": "2026-05-14T11:45:47.289Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "XPTG9BeExFX4cLzVGNANDri4FLk1",
+      "shortId": "DCDEOR",
+      "name": "Rizz_1",
+      "role": "USER",
+      "level": 6
+    },
+    "message": "TRADING [Skillz||BODY_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-14T11:45:58.611Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "XPTG9BeExFX4cLzVGNANDri4FLk1",
+      "shortId": "DCDEOR",
+      "name": "Rizz_1",
+      "role": "USER",
+      "level": 6
+    },
+    "message": "Ramsten wanna offer my [Skillz||BODY_SKIN|MYTHICAL]?",
+    "timestamp": "2026-05-14T11:46:43.421Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "XPTG9BeExFX4cLzVGNANDri4FLk1",
+      "shortId": "DCDEOR",
+      "name": "Rizz_1",
+      "role": "USER",
+      "level": 6
+    },
+    "message": "Yoo dady wanna ofcer my [Skillz||BODY_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-14T11:47:13.291Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "XPTG9BeExFX4cLzVGNANDri4FLk1",
+      "shortId": "DCDEOR",
+      "name": "Rizz_1",
+      "role": "USER",
+      "level": 6
+    },
+    "message": ":[",
+    "timestamp": "2026-05-14T11:47:23.727Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "XPTG9BeExFX4cLzVGNANDri4FLk1",
+      "shortId": "DCDEOR",
+      "name": "Rizz_1",
+      "role": "USER",
+      "level": 6
+    },
+    "message": "TRADING [Skillz||BODY_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-14T11:47:42.376Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "XPTG9BeExFX4cLzVGNANDri4FLk1",
+      "shortId": "DCDEOR",
+      "name": "Rizz_1",
+      "role": "USER",
+      "level": 6
+    },
+    "message": "TR [Skillz||BODY_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-14T11:48:15.446Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "XPTG9BeExFX4cLzVGNANDri4FLk1",
+      "shortId": "DCDEOR",
+      "name": "Rizz_1",
+      "role": "USER",
+      "level": 6
+    },
+    "message": "/hm mossy",
+    "timestamp": "2026-05-14T11:48:50.245Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "XPTG9BeExFX4cLzVGNANDri4FLk1",
+      "shortId": "DCDEOR",
+      "name": "Rizz_1",
+      "role": "USER",
+      "level": 6
+    },
+    "message": "Wagering golden200",
+    "timestamp": "2026-05-14T11:49:16.759Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "XPTG9BeExFX4cLzVGNANDri4FLk1",
+      "shortId": "DCDEOR",
+      "name": "Rizz_1",
+      "role": "USER",
+      "level": 6
+    },
+    "message": "Ninjaa",
+    "timestamp": "2026-05-14T11:53:18.801Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "XPTG9BeExFX4cLzVGNANDri4FLk1",
+      "shortId": "DCDEOR",
+      "name": "Rizz_1",
+      "role": "USER",
+      "level": 6
+    },
+    "message": "NINJAA",
+    "timestamp": "2026-05-14T11:53:47.298Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "XPTG9BeExFX4cLzVGNANDri4FLk1",
+      "shortId": "DCDEOR",
+      "name": "Rizz_1",
+      "role": "USER",
+      "level": 6
+    },
+    "message": "Yooo ninja",
+    "timestamp": "2026-05-14T11:54:10.955Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "XPTG9BeExFX4cLzVGNANDri4FLk1",
+      "shortId": "DCDEOR",
+      "name": "Rizz_1",
+      "role": "USER",
+      "level": 6
+    },
+    "message": "U there",
+    "timestamp": "2026-05-14T11:54:14.409Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "XPTG9BeExFX4cLzVGNANDri4FLk1",
+      "shortId": "DCDEOR",
+      "name": "Rizz_1",
+      "role": "USER",
+      "level": 6
+    },
+    "message": "Ninjaaaaa",
+    "timestamp": "2026-05-14T11:54:52.939Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "XPTG9BeExFX4cLzVGNANDri4FLk1",
+      "shortId": "DCDEOR",
+      "name": "Rizz_1",
+      "role": "USER",
+      "level": 6
+    },
+    "message": "NINJA U THERE",
+    "timestamp": "2026-05-14T11:55:08.236Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "XPTG9BeExFX4cLzVGNANDri4FLk1",
+      "shortId": "DCDEOR",
+      "name": "Rizz_1",
+      "role": "USER",
+      "level": 6
+    },
+    "message": "???? Ninjaaa",
+    "timestamp": "2026-05-14T11:55:23.094Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "XPTG9BeExFX4cLzVGNANDri4FLk1",
+      "shortId": "DCDEOR",
+      "name": "Rizz_1",
+      "role": "USER",
+      "level": 6
+    },
+    "message": "Ninjabe",
+    "timestamp": "2026-05-14T11:55:33.125Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "XPTG9BeExFX4cLzVGNANDri4FLk1",
+      "shortId": "DCDEOR",
+      "name": "Rizz_1",
+      "role": "USER",
+      "level": 6
+    },
+    "message": "Ninja",
+    "timestamp": "2026-05-14T11:58:27.701Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "XPTG9BeExFX4cLzVGNANDri4FLk1",
+      "shortId": "DCDEOR",
+      "name": "Rizz_1",
+      "role": "USER",
+      "level": 6
+    },
+    "message": "NINJA BRO RESPOND",
+    "timestamp": "2026-05-14T11:58:42.902Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "XPTG9BeExFX4cLzVGNANDri4FLk1",
+      "shortId": "DCDEOR",
+      "name": "Rizz_1",
+      "role": "USER",
+      "level": 6
+    },
+    "message": "Bro ninja",
+    "timestamp": "2026-05-14T11:59:10.343Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "XPTG9BeExFX4cLzVGNANDri4FLk1",
+      "shortId": "DCDEOR",
+      "name": "Rizz_1",
+      "role": "USER",
+      "level": 6
+    },
+    "message": "/hm#ELVZDH",
+    "timestamp": "2026-05-14T11:59:20.896Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "XPTG9BeExFX4cLzVGNANDri4FLk1",
+      "shortId": "DCDEOR",
+      "name": "Rizz_1",
+      "role": "USER",
+      "level": 6
+    },
+    "message": "Qwerty",
+    "timestamp": "2026-05-14T11:59:34.545Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "XPTG9BeExFX4cLzVGNANDri4FLk1",
+      "shortId": "DCDEOR",
+      "name": "Rizz_1",
+      "role": "USER",
+      "level": 6
+    },
+    "message": "QWERTY WANAN OFFER. Y [Skillz||BODY_SKIN|MYTHICAL]??",
+    "timestamp": "2026-05-14T11:59:52.903Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "XPTG9BeExFX4cLzVGNANDri4FLk1",
+      "shortId": "DCDEOR",
+      "name": "Rizz_1",
+      "role": "USER",
+      "level": 6
+    },
+    "message": "TR [SKILLX]",
+    "timestamp": "2026-05-14T12:00:38.980Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "XPTG9BeExFX4cLzVGNANDri4FLk1",
+      "shortId": "DCDEOR",
+      "name": "Rizz_1",
+      "role": "USER",
+      "level": 6
+    },
+    "message": "TR [Skillz||BODY_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-14T12:00:48.918Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "XPTG9BeExFX4cLzVGNANDri4FLk1",
+      "shortId": "DCDEOR",
+      "name": "Rizz_1",
+      "role": "USER",
+      "level": 6
+    },
+    "message": "TRADING [Skillz||BODY_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-14T12:01:23.239Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "XPTG9BeExFX4cLzVGNANDri4FLk1",
+      "shortId": "DCDEOR",
+      "name": "Rizz_1",
+      "role": "USER",
+      "level": 6
+    },
+    "message": "MILK MY [Skillz||BODY_SKIN|MYTHICAL] FOR IT???",
+    "timestamp": "2026-05-14T12:01:53.785Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "XPTG9BeExFX4cLzVGNANDri4FLk1",
+      "shortId": "DCDEOR",
+      "name": "Rizz_1",
+      "role": "USER",
+      "level": 6
+    },
+    "message": "??",
+    "timestamp": "2026-05-14T12:02:10.903Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "XPTG9BeExFX4cLzVGNANDri4FLk1",
+      "shortId": "DCDEOR",
+      "name": "Rizz_1",
+      "role": "USER",
+      "level": 6
+    },
+    "message": "TR [Skillz||BODY_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-14T14:31:36.356Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "XPTG9BeExFX4cLzVGNANDri4FLk1",
+      "shortId": "DCDEOR",
+      "name": "Rizz_1",
+      "role": "USER",
+      "level": 6
+    },
+    "message": "I can slid u 100golden",
+    "timestamp": "2026-05-14T14:32:13.200Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "XPTG9BeExFX4cLzVGNANDri4FLk1",
+      "shortId": "DCDEOR",
+      "name": "Rizz_1",
+      "role": "USER",
+      "level": 6
+    },
+    "message": "Brokennnnn yooo wsppp",
+    "timestamp": "2026-05-14T14:32:35.105Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "XPTG9BeExFX4cLzVGNANDri4FLk1",
+      "shortId": "DCDEOR",
+      "name": "Rizz_1",
+      "role": "USER",
+      "level": 6
+    },
+    "message": "TR [Skillz||BODY_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-14T14:33:00.652Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "XPTG9BeExFX4cLzVGNANDri4FLk1",
+      "shortId": "DCDEOR",
+      "name": "Rizz_1",
+      "role": "USER",
+      "level": 6
+    },
+    "message": "Brokenn yo wspp",
+    "timestamp": "2026-05-14T14:33:05.451Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "XPTG9BeExFX4cLzVGNANDri4FLk1",
+      "shortId": "DCDEOR",
+      "name": "Rizz_1",
+      "role": "USER",
+      "level": 6
+    },
+    "message": "Broke",
+    "timestamp": "2026-05-14T14:33:46.141Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "XPTG9BeExFX4cLzVGNANDri4FLk1",
+      "shortId": "DCDEOR",
+      "name": "Rizz_1",
+      "role": "USER",
+      "level": 6
+    },
+    "message": "Brokenn cokee :))",
+    "timestamp": "2026-05-14T14:33:57.976Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "XPTG9BeExFX4cLzVGNANDri4FLk1",
+      "shortId": "DCDEOR",
+      "name": "Rizz_1",
+      "role": "USER",
+      "level": 6
+    },
+    "message": "Come",
+    "timestamp": "2026-05-14T14:34:03.406Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "XPTG9BeExFX4cLzVGNANDri4FLk1",
+      "shortId": "DCDEOR",
+      "name": "Rizz_1",
+      "role": "USER",
+      "level": 6
+    },
+    "message": "Broken??",
+    "timestamp": "2026-05-14T14:34:20.156Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "XPTG9BeExFX4cLzVGNANDri4FLk1",
+      "shortId": "DCDEOR",
+      "name": "Rizz_1",
+      "role": "USER",
+      "level": 6
+    },
+    "message": "Broken bro",
+    "timestamp": "2026-05-14T14:34:38.535Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "XPTG9BeExFX4cLzVGNANDri4FLk1",
+      "shortId": "DCDEOR",
+      "name": "Rizz_1",
+      "role": "USER",
+      "level": 6
+    },
+    "message": ":(",
+    "timestamp": "2026-05-14T14:34:49.216Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "XPTG9BeExFX4cLzVGNANDri4FLk1",
+      "shortId": "DCDEOR",
+      "name": "Rizz_1",
+      "role": "USER",
+      "level": 6
+    },
+    "message": "What broken",
+    "timestamp": "2026-05-14T14:35:06.884Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "XPTG9BeExFX4cLzVGNANDri4FLk1",
+      "shortId": "DCDEOR",
+      "name": "Rizz_1",
+      "role": "USER",
+      "level": 6
+    },
+    "message": "Yoo lol broken",
+    "timestamp": "2026-05-14T14:35:39.353Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "XPTG9BeExFX4cLzVGNANDri4FLk1",
+      "shortId": "DCDEOR",
+      "name": "Rizz_1",
+      "role": "USER",
+      "level": 6
+    },
+    "message": "Come brooen lets play",
+    "timestamp": "2026-05-14T14:35:46.725Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "XPTG9BeExFX4cLzVGNANDri4FLk1",
+      "shortId": "DCDEOR",
+      "name": "Rizz_1",
+      "role": "USER",
+      "level": 6
+    },
+    "message": "Broken??",
+    "timestamp": "2026-05-14T14:36:05.977Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "XPTG9BeExFX4cLzVGNANDri4FLk1",
+      "shortId": "DCDEOR",
+      "name": "Rizz_1",
+      "role": "USER",
+      "level": 6
+    },
+    "message": "BROKEN bro i am rizz bro",
+    "timestamp": "2026-05-14T14:36:27.697Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "XPTG9BeExFX4cLzVGNANDri4FLk1",
+      "shortId": "DCDEOR",
+      "name": "Rizz_1",
+      "role": "USER",
+      "level": 6
+    },
+    "message": "Wsp man",
+    "timestamp": "2026-05-14T14:36:35.354Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "XPTG9BeExFX4cLzVGNANDri4FLk1",
+      "shortId": "DCDEOR",
+      "name": "Rizz_1",
+      "role": "USER",
+      "level": 6
+    },
+    "message": "Ohh",
+    "timestamp": "2026-05-14T14:36:56.684Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "XPTG9BeExFX4cLzVGNANDri4FLk1",
+      "shortId": "DCDEOR",
+      "name": "Rizz_1",
+      "role": "USER",
+      "level": 6
+    },
+    "message": "Whats why u ignoring me",
+    "timestamp": "2026-05-14T14:37:04.758Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "XPTG9BeExFX4cLzVGNANDri4FLk1",
+      "shortId": "DCDEOR",
+      "name": "Rizz_1",
+      "role": "USER",
+      "level": 6
+    },
+    "message": "Okk",
+    "timestamp": "2026-05-14T14:37:08.580Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "XPTG9BeExFX4cLzVGNANDri4FLk1",
+      "shortId": "DCDEOR",
+      "name": "Rizz_1",
+      "role": "USER",
+      "level": 6
+    },
+    "message": "Gummybear bro my [Skillz||BODY_SKIN|MYTHICAL] for [coktali",
+    "timestamp": "2026-05-14T14:37:30.025Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "XPTG9BeExFX4cLzVGNANDri4FLk1",
+      "shortId": "DCDEOR",
+      "name": "Rizz_1",
+      "role": "USER",
+      "level": 6
+    },
+    "message": "Gummy bto my skillz for coctail",
+    "timestamp": "2026-05-14T14:37:58.520Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "XPTG9BeExFX4cLzVGNANDri4FLk1",
+      "shortId": "DCDEOR",
+      "name": "Rizz_1",
+      "role": "USER",
+      "level": 6
+    },
+    "message": "#8RN1LD bro my [Skillz||BODY_SKIN|MYTHICAL] for [coktail]???",
+    "timestamp": "2026-05-14T14:38:33.129Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "XPTG9BeExFX4cLzVGNANDri4FLk1",
+      "shortId": "DCDEOR",
+      "name": "Rizz_1",
+      "role": "USER",
+      "level": 6
+    },
+    "message": "Why every one ignore me",
+    "timestamp": "2026-05-14T14:39:15.086Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "XPTG9BeExFX4cLzVGNANDri4FLk1",
+      "shortId": "DCDEOR",
+      "name": "Rizz_1",
+      "role": "USER",
+      "level": 6
+    },
+    "message": "Gummy i have 160golden and 1000 wood",
+    "timestamp": "2026-05-14T14:39:37.863Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "XPTG9BeExFX4cLzVGNANDri4FLk1",
+      "shortId": "DCDEOR",
+      "name": "Rizz_1",
+      "role": "USER",
+      "level": 6
+    },
+    "message": "Bro olivir shutttttt",
+    "timestamp": "2026-05-14T14:39:58.002Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "XPTG9BeExFX4cLzVGNANDri4FLk1",
+      "shortId": "DCDEOR",
+      "name": "Rizz_1",
+      "role": "USER",
+      "level": 6
+    },
+    "message": "Lol shut i willntell isaccccc",
+    "timestamp": "2026-05-14T14:40:25.297Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "XPTG9BeExFX4cLzVGNANDri4FLk1",
+      "shortId": "DCDEOR",
+      "name": "Rizz_1",
+      "role": "USER",
+      "level": 6
+    },
+    "message": ":)",
+    "timestamp": "2026-05-14T14:40:31.840Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "XPTG9BeExFX4cLzVGNANDri4FLk1",
+      "shortId": "DCDEOR",
+      "name": "Rizz_1",
+      "role": "USER",
+      "level": 6
+    },
+    "message": "Nah i will never belive u olivir",
+    "timestamp": "2026-05-14T14:40:51.798Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "XPTG9BeExFX4cLzVGNANDri4FLk1",
+      "shortId": "DCDEOR",
+      "name": "Rizz_1",
+      "role": "USER",
+      "level": 6
+    },
+    "message": "TR [Skillz||BODY_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-14T14:41:04.057Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "XPTG9BeExFX4cLzVGNANDri4FLk1",
+      "shortId": "DCDEOR",
+      "name": "Rizz_1",
+      "role": "USER",
+      "level": 6
+    },
+    "message": "Tr [skiplz]",
+    "timestamp": "2026-05-14T14:41:36.028Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "XPTG9BeExFX4cLzVGNANDri4FLk1",
+      "shortId": "DCDEOR",
+      "name": "Rizz_1",
+      "role": "USER",
+      "level": 6
+    },
+    "message": "Omgg okk",
+    "timestamp": "2026-05-14T14:41:47.963Z"
   }
 ]
