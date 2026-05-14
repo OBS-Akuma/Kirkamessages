@@ -250,5 +250,17 @@
     },
     "message": "/price heather",
     "timestamp": "2026-05-08T20:30:39.373Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "a5b0a2f7-42b3-488d-b9c4-98816b9019ba",
+      "shortId": "EH0YUI",
+      "name": "Ness",
+      "role": "USER",
+      "level": 88
+    },
+    "message": "tr [Angel||BODY_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-14T14:33:31.877Z"
   }
 ]
