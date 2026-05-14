@@ -286,5 +286,17 @@
     },
     "message": "anyone sell [Rose||BODY_SKIN|MYTHICAL] ?",
     "timestamp": "2026-05-14T13:56:00.225Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "bb915715-1d9a-4c8e-9010-071493ec79c4",
+      "shortId": "Z1VIHB",
+      "name": "DARK_LORD",
+      "role": "USER",
+      "level": 98
+    },
+    "message": "Lf [Slasher||BODY_SKIN|PARANORMAL] [Rose||BODY_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-14T15:54:47.046Z"
   }
 ]
