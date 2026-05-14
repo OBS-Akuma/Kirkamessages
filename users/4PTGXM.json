@@ -178,5 +178,53 @@
     },
     "message": "/price [Forbidden|AR-9|WEAPON_SKIN|MYTHICAL]",
     "timestamp": "2026-05-14T14:36:41.180Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "87c4307b-f5e3-40b3-b679-b980594644fa",
+      "shortId": "4PTGXM",
+      "name": "[qod]CFmaster",
+      "role": "USER",
+      "level": 45
+    },
+    "message": "/price [Pastel||BODY_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-14T15:18:15.184Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "87c4307b-f5e3-40b3-b679-b980594644fa",
+      "shortId": "4PTGXM",
+      "name": "[qod]CFmaster",
+      "role": "USER",
+      "level": 45
+    },
+    "message": "/price [Infernal|AR-9|WEAPON_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-14T15:18:43.589Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "87c4307b-f5e3-40b3-b679-b980594644fa",
+      "shortId": "4PTGXM",
+      "name": "[qod]CFmaster",
+      "role": "USER",
+      "level": 45
+    },
+    "message": "/price [2025 Revolver|Revolver|WEAPON_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-14T15:21:47.074Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "87c4307b-f5e3-40b3-b679-b980594644fa",
+      "shortId": "4PTGXM",
+      "name": "[qod]CFmaster",
+      "role": "USER",
+      "level": 45
+    },
+    "message": "/price [Eve||BODY_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-14T15:32:50.396Z"
   }
 ]
