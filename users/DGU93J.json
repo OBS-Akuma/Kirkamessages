@@ -22,5 +22,17 @@
     },
     "message": "yes me",
     "timestamp": "2026-05-13T12:07:54.713Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "guest-afc5a378-c5a7-4243-b246-63c560ecfa5b",
+      "shortId": "DGU93J",
+      "name": "nightcarries",
+      "role": "USER",
+      "level": 26
+    },
+    "message": "allo",
+    "timestamp": "2026-05-14T06:33:59.149Z"
   }
 ]
