@@ -154,5 +154,29 @@
     },
     "message": "/price 2024",
     "timestamp": "2026-05-13T00:19:24.063Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "8775fb1b-8c04-4d6b-8bd6-f8432e00d359",
+      "shortId": "VNX47U",
+      "name": "Mylo!",
+      "role": "USER",
+      "level": 38
+    },
+    "message": "/price drake",
+    "timestamp": "2026-05-14T00:10:06.537Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "8775fb1b-8c04-4d6b-8bd6-f8432e00d359",
+      "shortId": "VNX47U",
+      "name": "Mylo!",
+      "role": "USER",
+      "level": 38
+    },
+    "message": "/price 2024",
+    "timestamp": "2026-05-14T00:10:11.399Z"
   }
 ]
