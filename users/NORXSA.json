@@ -34,5 +34,65 @@
     },
     "message": "/claim",
     "timestamp": "2026-05-13T18:14:04.837Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "17dfb465-9bad-45f5-baa2-dfd0d4773548",
+      "shortId": "NORXSA",
+      "name": "Banana",
+      "role": "USER",
+      "level": 5
+    },
+    "message": ">...>..>",
+    "timestamp": "2026-05-14T17:36:28.025Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "17dfb465-9bad-45f5-baa2-dfd0d4773548",
+      "shortId": "NORXSA",
+      "name": "Banana",
+      "role": "USER",
+      "level": 5
+    },
+    "message": "/...",
+    "timestamp": "2026-05-14T17:36:43.545Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "17dfb465-9bad-45f5-baa2-dfd0d4773548",
+      "shortId": "NORXSA",
+      "name": "Banana",
+      "role": "USER",
+      "level": 5
+    },
+    "message": "/confirmwager",
+    "timestamp": "2026-05-14T17:37:22.086Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "17dfb465-9bad-45f5-baa2-dfd0d4773548",
+      "shortId": "NORXSA",
+      "name": "Banana",
+      "role": "USER",
+      "level": 5
+    },
+    "message": "..",
+    "timestamp": "2026-05-14T17:37:38.130Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "17dfb465-9bad-45f5-baa2-dfd0d4773548",
+      "shortId": "NORXSA",
+      "name": "Banana",
+      "role": "USER",
+      "level": 5
+    },
+    "message": "/confirmwager",
+    "timestamp": "2026-05-14T17:37:39.792Z"
   }
 ]
