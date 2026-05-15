@@ -2830,5 +2830,29 @@
     },
     "message": "/confirmwager",
     "timestamp": "2026-05-14T17:47:05.359Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "424d1ec9-79bb-43cb-a218-922c21e6b694",
+      "shortId": "DGX5ZQ",
+      "name": "SnipedByBarney",
+      "role": "USER",
+      "level": 7
+    },
+    "message": ">>",
+    "timestamp": "2026-05-15T13:12:58.418Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "424d1ec9-79bb-43cb-a218-922c21e6b694",
+      "shortId": "DGX5ZQ",
+      "name": "SnipedByBarney",
+      "role": "USER",
+      "level": 7
+    },
+    "message": "/confirmwager",
+    "timestamp": "2026-05-15T13:13:12.218Z"
   }
 ]
