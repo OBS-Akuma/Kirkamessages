@@ -1,0 +1,26 @@
+[
+  {
+    "type": 2,
+    "user": {
+      "id": "guest-0918f91c-1974-47b2-8ce8-bc531eaa961a",
+      "shortId": "VA319L",
+      "name": "THEMONARCH",
+      "role": "USER",
+      "level": 12
+    },
+    "message": "I don't have bloom",
+    "timestamp": "2026-05-15T07:21:34.700Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "guest-0918f91c-1974-47b2-8ce8-bc531eaa961a",
+      "shortId": "VA319L",
+      "name": "THEMONARCH",
+      "role": "USER",
+      "level": 12
+    },
+    "message": "8BC89",
+    "timestamp": "2026-05-15T07:30:10.244Z"
+  }
+]
