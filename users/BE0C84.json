@@ -178,5 +178,17 @@
     },
     "message": "i want kodd",
     "timestamp": "2026-05-13T11:36:07.714Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "a8964d28-d1de-46ad-bba0-c7243e6762db",
+      "shortId": "BE0C84",
+      "name": "StormFate",
+      "role": "USER",
+      "level": 32
+    },
+    "message": "/locate rosy",
+    "timestamp": "2026-05-15T12:22:31.304Z"
   }
 ]
