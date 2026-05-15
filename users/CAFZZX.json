@@ -1822,5 +1822,17 @@
     },
     "message": "QWERTTY u dont know wht i have so sht up",
     "timestamp": "2026-05-15T08:59:39.797Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "guest-b48aa627-922d-4db7-a59a-6087b970f488",
+      "shortId": "CAFZZX",
+      "name": "authunktic",
+      "role": "USER",
+      "level": 13
+    },
+    "message": "/hm [Ranked_S3 Top10|Bayonet|WEAPON_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-15T09:52:45.507Z"
   }
 ]
