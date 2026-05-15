@@ -202,5 +202,41 @@
     },
     "message": "/price scary monster",
     "timestamp": "2026-05-12T23:13:07.245Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "4bd1b9f6-a252-4309-ac33-fe1a73670823",
+      "shortId": "KBJTFK",
+      "name": "ANGEL.MAFIA",
+      "role": "USER",
+      "level": 30
+    },
+    "message": "/claim",
+    "timestamp": "2026-05-14T12:46:56.334Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "4bd1b9f6-a252-4309-ac33-fe1a73670823",
+      "shortId": "KBJTFK",
+      "name": "ANGEL.MAFIA",
+      "role": "USER",
+      "level": 30
+    },
+    "message": "/prie anarchy",
+    "timestamp": "2026-05-14T12:47:34.937Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "4bd1b9f6-a252-4309-ac33-fe1a73670823",
+      "shortId": "KBJTFK",
+      "name": "ANGEL.MAFIA",
+      "role": "USER",
+      "level": 30
+    },
+    "message": "/price anarchy",
+    "timestamp": "2026-05-14T12:47:41.945Z"
   }
 ]
