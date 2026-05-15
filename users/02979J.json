@@ -1666,5 +1666,29 @@
     },
     "message": "/hm icey",
     "timestamp": "2026-05-15T06:40:52.733Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "a2035d2a-40d0-4d1e-952b-4fc48dc53c94",
+      "shortId": "02979J",
+      "name": "Baduy",
+      "role": "USER",
+      "level": 96
+    },
+    "message": "claw hm you selling bloom for",
+    "timestamp": "2026-05-15T13:15:01.017Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "a2035d2a-40d0-4d1e-952b-4fc48dc53c94",
+      "shortId": "02979J",
+      "name": "Baduy",
+      "role": "USER",
+      "level": 96
+    },
+    "message": "hi",
+    "timestamp": "2026-05-15T13:24:16.003Z"
   }
 ]
