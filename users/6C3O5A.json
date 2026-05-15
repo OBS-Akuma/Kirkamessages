@@ -682,5 +682,17 @@
     },
     "message": "what do u say prime ?",
     "timestamp": "2026-05-12T16:26:53.935Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "7b747bd7-ded5-4b2e-b952-2167295b8654",
+      "shortId": "6C3O5A",
+      "name": "Anas",
+      "role": "USER",
+      "level": 101
+    },
+    "message": "/price [tiburon",
+    "timestamp": "2026-05-15T10:02:40.937Z"
   }
 ]
