@@ -442,5 +442,917 @@
     },
     "message": "/hm forbidden",
     "timestamp": "2026-05-11T04:43:03.867Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "3cb75029-cd32-4b4e-97b4-db1796d4705e",
+      "shortId": "YNWWD0",
+      "name": "stellar",
+      "role": "USER",
+      "level": 19
+    },
+    "message": "any body want to trade for [Nova|SCAR|WEAPON_SKIN|MYTHICAL] [Undead|Bayonet|WEAPON_SKIN|MYTHICAL] [Spearmint||BODY_SKIN|MYTHICAL] [Taurus|Shark|WEAPON_SKIN|LEGENDARY]any body want to",
+    "timestamp": "2026-05-15T04:16:04.843Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "3cb75029-cd32-4b4e-97b4-db1796d4705e",
+      "shortId": "YNWWD0",
+      "name": "stellar",
+      "role": "USER",
+      "level": 19
+    },
+    "message": "any body want to trade for [Nova|SCAR|WEAPON_SKIN|MYTHICAL] [Undead|Bayonet|WEAPON_SKIN|MYTHICAL] [Spearmint||BODY_SKIN|MYTHICAL] [Taurus|Shark|WEAPON_SKIN|LEGENDARY]",
+    "timestamp": "2026-05-15T04:16:45.232Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "3cb75029-cd32-4b4e-97b4-db1796d4705e",
+      "shortId": "YNWWD0",
+      "name": "stellar",
+      "role": "USER",
+      "level": 19
+    },
+    "message": "what about it",
+    "timestamp": "2026-05-15T04:17:30.553Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "3cb75029-cd32-4b4e-97b4-db1796d4705e",
+      "shortId": "YNWWD0",
+      "name": "stellar",
+      "role": "USER",
+      "level": 19
+    },
+    "message": "do you want to trade for it?",
+    "timestamp": "2026-05-15T04:18:33.743Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "3cb75029-cd32-4b4e-97b4-db1796d4705e",
+      "shortId": "YNWWD0",
+      "name": "stellar",
+      "role": "USER",
+      "level": 19
+    },
+    "message": "any body want to trade for [Nova|SCAR|WEAPON_SKIN|MYTHICAL] [Undead|Bayonet|WEAPON_SKIN|MYTHICAL] [Spearmint||BODY_SKIN|MYTHICAL] [Taurus|Shark|WEAPON_SKIN|LEGENDARY]",
+    "timestamp": "2026-05-15T04:19:38.041Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "3cb75029-cd32-4b4e-97b4-db1796d4705e",
+      "shortId": "YNWWD0",
+      "name": "stellar",
+      "role": "USER",
+      "level": 19
+    },
+    "message": "any body want to trade for [Nova|SCAR|WEAPON_SKIN|MYTHICAL] [Undead|Bayonet|WEAPON_SKIN|MYTHICAL] [Spearmint||BODY_SKIN|MYTHICAL] [Taurus|Shark|WEAPON_SKIN|LEGENDARY]any body want to",
+    "timestamp": "2026-05-15T04:20:35.308Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "3cb75029-cd32-4b4e-97b4-db1796d4705e",
+      "shortId": "YNWWD0",
+      "name": "stellar",
+      "role": "USER",
+      "level": 19
+    },
+    "message": "what",
+    "timestamp": "2026-05-15T04:21:03.763Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "3cb75029-cd32-4b4e-97b4-db1796d4705e",
+      "shortId": "YNWWD0",
+      "name": "stellar",
+      "role": "USER",
+      "level": 19
+    },
+    "message": "/hm blast scar",
+    "timestamp": "2026-05-15T04:21:30.026Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "3cb75029-cd32-4b4e-97b4-db1796d4705e",
+      "shortId": "YNWWD0",
+      "name": "stellar",
+      "role": "USER",
+      "level": 19
+    },
+    "message": "im good",
+    "timestamp": "2026-05-15T04:21:35.314Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "3cb75029-cd32-4b4e-97b4-db1796d4705e",
+      "shortId": "YNWWD0",
+      "name": "stellar",
+      "role": "USER",
+      "level": 19
+    },
+    "message": "/hm diane",
+    "timestamp": "2026-05-15T04:22:15.479Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "3cb75029-cd32-4b4e-97b4-db1796d4705e",
+      "shortId": "YNWWD0",
+      "name": "stellar",
+      "role": "USER",
+      "level": 19
+    },
+    "message": "im good still",
+    "timestamp": "2026-05-15T04:22:20.866Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "3cb75029-cd32-4b4e-97b4-db1796d4705e",
+      "shortId": "YNWWD0",
+      "name": "stellar",
+      "role": "USER",
+      "level": 19
+    },
+    "message": "any body want to trade for [Nova|SCAR|WEAPON_SKIN|MYTHICAL] [Undead|Bayonet|WEAPON_SKIN|MYTHICAL] [Spearmint||BODY_SKIN|MYTHICAL] [Taurus|Shark|WEAPON_SKIN|LEGENDARY]",
+    "timestamp": "2026-05-15T04:23:05.409Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "3cb75029-cd32-4b4e-97b4-db1796d4705e",
+      "shortId": "YNWWD0",
+      "name": "stellar",
+      "role": "USER",
+      "level": 19
+    },
+    "message": "taurus is around 2 mil market price but has sold for 5mil and up",
+    "timestamp": "2026-05-15T04:23:52.359Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "3cb75029-cd32-4b4e-97b4-db1796d4705e",
+      "shortId": "YNWWD0",
+      "name": "stellar",
+      "role": "USER",
+      "level": 19
+    },
+    "message": "any body want to trade for [Nova|SCAR|WEAPON_SKIN|MYTHICAL] [Undead|Bayonet|WEAPON_SKIN|MYTHICAL] [Spearmint||BODY_SKIN|MYTHICAL] [Taurus|Shark|WEAPON_SKIN|LEGENDARY]",
+    "timestamp": "2026-05-15T04:24:49.515Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "3cb75029-cd32-4b4e-97b4-db1796d4705e",
+      "shortId": "YNWWD0",
+      "name": "stellar",
+      "role": "USER",
+      "level": 19
+    },
+    "message": "taurus is 2 mil market price bbut has sold above 5 mil",
+    "timestamp": "2026-05-15T04:25:29.429Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "3cb75029-cd32-4b4e-97b4-db1796d4705e",
+      "shortId": "YNWWD0",
+      "name": "stellar",
+      "role": "USER",
+      "level": 19
+    },
+    "message": "what do you want for undead",
+    "timestamp": "2026-05-15T04:26:05.091Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "3cb75029-cd32-4b4e-97b4-db1796d4705e",
+      "shortId": "YNWWD0",
+      "name": "stellar",
+      "role": "USER",
+      "level": 19
+    },
+    "message": "/hm undead",
+    "timestamp": "2026-05-15T04:26:23.133Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "3cb75029-cd32-4b4e-97b4-db1796d4705e",
+      "shortId": "YNWWD0",
+      "name": "stellar",
+      "role": "USER",
+      "level": 19
+    },
+    "message": "give me a sec",
+    "timestamp": "2026-05-15T04:26:51.877Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "3cb75029-cd32-4b4e-97b4-db1796d4705e",
+      "shortId": "YNWWD0",
+      "name": "stellar",
+      "role": "USER",
+      "level": 19
+    },
+    "message": "ye i would",
+    "timestamp": "2026-05-15T04:26:57.620Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "3cb75029-cd32-4b4e-97b4-db1796d4705e",
+      "shortId": "YNWWD0",
+      "name": "stellar",
+      "role": "USER",
+      "level": 19
+    },
+    "message": "low 1 mil so like 1.2mil",
+    "timestamp": "2026-05-15T04:27:22.374Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "3cb75029-cd32-4b4e-97b4-db1796d4705e",
+      "shortId": "YNWWD0",
+      "name": "stellar",
+      "role": "USER",
+      "level": 19
+    },
+    "message": "if you check last sold it has sold up there",
+    "timestamp": "2026-05-15T04:27:47.713Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "3cb75029-cd32-4b4e-97b4-db1796d4705e",
+      "shortId": "YNWWD0",
+      "name": "stellar",
+      "role": "USER",
+      "level": 19
+    },
+    "message": "cool",
+    "timestamp": "2026-05-15T04:27:57.122Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "3cb75029-cd32-4b4e-97b4-db1796d4705e",
+      "shortId": "YNWWD0",
+      "name": "stellar",
+      "role": "USER",
+      "level": 19
+    },
+    "message": "setup the trade then",
+    "timestamp": "2026-05-15T04:28:08.802Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "3cb75029-cd32-4b4e-97b4-db1796d4705e",
+      "shortId": "YNWWD0",
+      "name": "stellar",
+      "role": "USER",
+      "level": 19
+    },
+    "message": "1.2",
+    "timestamp": "2026-05-15T04:28:20.533Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "3cb75029-cd32-4b4e-97b4-db1796d4705e",
+      "shortId": "YNWWD0",
+      "name": "stellar",
+      "role": "USER",
+      "level": 19
+    },
+    "message": "1200 golden",
+    "timestamp": "2026-05-15T04:28:29.241Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "3cb75029-cd32-4b4e-97b4-db1796d4705e",
+      "shortId": "YNWWD0",
+      "name": "stellar",
+      "role": "USER",
+      "level": 19
+    },
+    "message": "im kinda firm on the 1.2",
+    "timestamp": "2026-05-15T04:28:48.197Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "3cb75029-cd32-4b4e-97b4-db1796d4705e",
+      "shortId": "YNWWD0",
+      "name": "stellar",
+      "role": "USER",
+      "level": 19
+    },
+    "message": "1175",
+    "timestamp": "2026-05-15T04:29:13.629Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "3cb75029-cd32-4b4e-97b4-db1796d4705e",
+      "shortId": "YNWWD0",
+      "name": "stellar",
+      "role": "USER",
+      "level": 19
+    },
+    "message": "gg",
+    "timestamp": "2026-05-15T04:30:11.316Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "3cb75029-cd32-4b4e-97b4-db1796d4705e",
+      "shortId": "YNWWD0",
+      "name": "stellar",
+      "role": "USER",
+      "level": 19
+    },
+    "message": "i checked it has sold way higher",
+    "timestamp": "2026-05-15T04:30:29.693Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "3cb75029-cd32-4b4e-97b4-db1796d4705e",
+      "shortId": "YNWWD0",
+      "name": "stellar",
+      "role": "USER",
+      "level": 19
+    },
+    "message": "https://kirka.lukeskywalk.com/pricelist.html that where i got it",
+    "timestamp": "2026-05-15T04:31:00.206Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "3cb75029-cd32-4b4e-97b4-db1796d4705e",
+      "shortId": "YNWWD0",
+      "name": "stellar",
+      "role": "USER",
+      "level": 19
+    },
+    "message": "it sold for 1.8 last",
+    "timestamp": "2026-05-15T04:31:45.668Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "3cb75029-cd32-4b4e-97b4-db1796d4705e",
+      "shortId": "YNWWD0",
+      "name": "stellar",
+      "role": "USER",
+      "level": 19
+    },
+    "message": "/hm ghillie",
+    "timestamp": "2026-05-15T04:34:53.934Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "3cb75029-cd32-4b4e-97b4-db1796d4705e",
+      "shortId": "YNWWD0",
+      "name": "stellar",
+      "role": "USER",
+      "level": 19
+    },
+    "message": "does anybody have ghillie",
+    "timestamp": "2026-05-15T04:35:34.239Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "3cb75029-cd32-4b4e-97b4-db1796d4705e",
+      "shortId": "YNWWD0",
+      "name": "stellar",
+      "role": "USER",
+      "level": 19
+    },
+    "message": "anybody got ghillie",
+    "timestamp": "2026-05-15T04:36:20.065Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "3cb75029-cd32-4b4e-97b4-db1796d4705e",
+      "shortId": "YNWWD0",
+      "name": "stellar",
+      "role": "USER",
+      "level": 19
+    },
+    "message": "anybody want to trade for [Taurus|Shark|WEAPON_SKIN|LEGENDARY] [Spearmint||BODY_SKIN|MYTHICAL] [Nova|SCAR|WEAPON_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-15T04:38:21.930Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "3cb75029-cd32-4b4e-97b4-db1796d4705e",
+      "shortId": "YNWWD0",
+      "name": "stellar",
+      "role": "USER",
+      "level": 19
+    },
+    "message": "/owners [Ghillie||BODY_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-15T04:38:38.149Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "3cb75029-cd32-4b4e-97b4-db1796d4705e",
+      "shortId": "YNWWD0",
+      "name": "stellar",
+      "role": "USER",
+      "level": 19
+    },
+    "message": "nova is around 1 mil",
+    "timestamp": "2026-05-15T04:38:47.254Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "3cb75029-cd32-4b4e-97b4-db1796d4705e",
+      "shortId": "YNWWD0",
+      "name": "stellar",
+      "role": "USER",
+      "level": 19
+    },
+    "message": "not 1 mil nut like high 1 mil",
+    "timestamp": "2026-05-15T04:39:15.018Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "3cb75029-cd32-4b4e-97b4-db1796d4705e",
+      "shortId": "YNWWD0",
+      "name": "stellar",
+      "role": "USER",
+      "level": 19
+    },
+    "message": "but'",
+    "timestamp": "2026-05-15T04:39:19.388Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "3cb75029-cd32-4b4e-97b4-db1796d4705e",
+      "shortId": "YNWWD0",
+      "name": "stellar",
+      "role": "USER",
+      "level": 19
+    },
+    "message": "its around low 2 mil to high 1 mil",
+    "timestamp": "2026-05-15T04:39:37.496Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "3cb75029-cd32-4b4e-97b4-db1796d4705e",
+      "shortId": "YNWWD0",
+      "name": "stellar",
+      "role": "USER",
+      "level": 19
+    },
+    "message": "i would want chests",
+    "timestamp": "2026-05-15T04:39:51.685Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "3cb75029-cd32-4b4e-97b4-db1796d4705e",
+      "shortId": "YNWWD0",
+      "name": "stellar",
+      "role": "USER",
+      "level": 19
+    },
+    "message": "like 1.9mil",
+    "timestamp": "2026-05-15T04:39:58.842Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "3cb75029-cd32-4b4e-97b4-db1796d4705e",
+      "shortId": "YNWWD0",
+      "name": "stellar",
+      "role": "USER",
+      "level": 19
+    },
+    "message": "i can nagotiatae",
+    "timestamp": "2026-05-15T04:40:08.037Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "3cb75029-cd32-4b4e-97b4-db1796d4705e",
+      "shortId": "YNWWD0",
+      "name": "stellar",
+      "role": "USER",
+      "level": 19
+    },
+    "message": "1.85",
+    "timestamp": "2026-05-15T04:40:15.805Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "3cb75029-cd32-4b4e-97b4-db1796d4705e",
+      "shortId": "YNWWD0",
+      "name": "stellar",
+      "role": "USER",
+      "level": 19
+    },
+    "message": "sure 1.85",
+    "timestamp": "2026-05-15T04:40:30.029Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "3cb75029-cd32-4b4e-97b4-db1796d4705e",
+      "shortId": "YNWWD0",
+      "name": "stellar",
+      "role": "USER",
+      "level": 19
+    },
+    "message": "i have [Spearmint||BODY_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-15T04:41:18.824Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "3cb75029-cd32-4b4e-97b4-db1796d4705e",
+      "shortId": "YNWWD0",
+      "name": "stellar",
+      "role": "USER",
+      "level": 19
+    },
+    "message": "nah",
+    "timestamp": "2026-05-15T04:41:36.752Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "3cb75029-cd32-4b4e-97b4-db1796d4705e",
+      "shortId": "YNWWD0",
+      "name": "stellar",
+      "role": "USER",
+      "level": 19
+    },
+    "message": "im saving up for ghillie",
+    "timestamp": "2026-05-15T04:41:49.340Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "3cb75029-cd32-4b4e-97b4-db1796d4705e",
+      "shortId": "YNWWD0",
+      "name": "stellar",
+      "role": "USER",
+      "level": 19
+    },
+    "message": "/hm spearmint",
+    "timestamp": "2026-05-15T04:41:57.842Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "3cb75029-cd32-4b4e-97b4-db1796d4705e",
+      "shortId": "YNWWD0",
+      "name": "stellar",
+      "role": "USER",
+      "level": 19
+    },
+    "message": "200k",
+    "timestamp": "2026-05-15T04:42:35.163Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "3cb75029-cd32-4b4e-97b4-db1796d4705e",
+      "shortId": "YNWWD0",
+      "name": "stellar",
+      "role": "USER",
+      "level": 19
+    },
+    "message": "icey is preety sick i might not want to trade",
+    "timestamp": "2026-05-15T04:43:08.911Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "3cb75029-cd32-4b4e-97b4-db1796d4705e",
+      "shortId": "YNWWD0",
+      "name": "stellar",
+      "role": "USER",
+      "level": 19
+    },
+    "message": "/hm icey",
+    "timestamp": "2026-05-15T04:43:14.255Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "3cb75029-cd32-4b4e-97b4-db1796d4705e",
+      "shortId": "YNWWD0",
+      "name": "stellar",
+      "role": "USER",
+      "level": 19
+    },
+    "message": "damn",
+    "timestamp": "2026-05-15T04:43:17.449Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "3cb75029-cd32-4b4e-97b4-db1796d4705e",
+      "shortId": "YNWWD0",
+      "name": "stellar",
+      "role": "USER",
+      "level": 19
+    },
+    "message": "ye",
+    "timestamp": "2026-05-15T04:43:26.764Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "3cb75029-cd32-4b4e-97b4-db1796d4705e",
+      "shortId": "YNWWD0",
+      "name": "stellar",
+      "role": "USER",
+      "level": 19
+    },
+    "message": "lol",
+    "timestamp": "2026-05-15T04:43:45.167Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "3cb75029-cd32-4b4e-97b4-db1796d4705e",
+      "shortId": "YNWWD0",
+      "name": "stellar",
+      "role": "USER",
+      "level": 19
+    },
+    "message": "yea",
+    "timestamp": "2026-05-15T04:43:50.325Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "3cb75029-cd32-4b4e-97b4-db1796d4705e",
+      "shortId": "YNWWD0",
+      "name": "stellar",
+      "role": "USER",
+      "level": 19
+    },
+    "message": "for icey?",
+    "timestamp": "2026-05-15T04:44:16.408Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "3cb75029-cd32-4b4e-97b4-db1796d4705e",
+      "shortId": "YNWWD0",
+      "name": "stellar",
+      "role": "USER",
+      "level": 19
+    },
+    "message": "nah im not trading it rn",
+    "timestamp": "2026-05-15T04:44:30.500Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "3cb75029-cd32-4b4e-97b4-db1796d4705e",
+      "shortId": "YNWWD0",
+      "name": "stellar",
+      "role": "USER",
+      "level": 19
+    },
+    "message": "do you want [Spearmint||BODY_SKIN|MYTHICAL] for 200k",
+    "timestamp": "2026-05-15T04:45:01.099Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "3cb75029-cd32-4b4e-97b4-db1796d4705e",
+      "shortId": "YNWWD0",
+      "name": "stellar",
+      "role": "USER",
+      "level": 19
+    },
+    "message": "thanks",
+    "timestamp": "2026-05-15T04:45:07.701Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "3cb75029-cd32-4b4e-97b4-db1796d4705e",
+      "shortId": "YNWWD0",
+      "name": "stellar",
+      "role": "USER",
+      "level": 19
+    },
+    "message": "nah im good im waiting till i get ghillie",
+    "timestamp": "2026-05-15T04:45:30.475Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "3cb75029-cd32-4b4e-97b4-db1796d4705e",
+      "shortId": "YNWWD0",
+      "name": "stellar",
+      "role": "USER",
+      "level": 19
+    },
+    "message": "would you want to trade for [Spearmint||BODY_SKIN|MYTHICAL] though",
+    "timestamp": "2026-05-15T04:46:10.112Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "3cb75029-cd32-4b4e-97b4-db1796d4705e",
+      "shortId": "YNWWD0",
+      "name": "stellar",
+      "role": "USER",
+      "level": 19
+    },
+    "message": "what is new",
+    "timestamp": "2026-05-15T04:46:17.872Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "3cb75029-cd32-4b4e-97b4-db1796d4705e",
+      "shortId": "YNWWD0",
+      "name": "stellar",
+      "role": "USER",
+      "level": 19
+    },
+    "message": "so many trades with you lol",
+    "timestamp": "2026-05-15T04:47:06.071Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "3cb75029-cd32-4b4e-97b4-db1796d4705e",
+      "shortId": "YNWWD0",
+      "name": "stellar",
+      "role": "USER",
+      "level": 19
+    },
+    "message": "me?",
+    "timestamp": "2026-05-15T04:47:22.843Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "3cb75029-cd32-4b4e-97b4-db1796d4705e",
+      "shortId": "YNWWD0",
+      "name": "stellar",
+      "role": "USER",
+      "level": 19
+    },
+    "message": "i know ghillie isnt on market rn",
+    "timestamp": "2026-05-15T04:48:07.170Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "3cb75029-cd32-4b4e-97b4-db1796d4705e",
+      "shortId": "YNWWD0",
+      "name": "stellar",
+      "role": "USER",
+      "level": 19
+    },
+    "message": "i have 3500 chests",
+    "timestamp": "2026-05-15T04:48:46.018Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "3cb75029-cd32-4b4e-97b4-db1796d4705e",
+      "shortId": "YNWWD0",
+      "name": "stellar",
+      "role": "USER",
+      "level": 19
+    },
+    "message": "yea its not on market though",
+    "timestamp": "2026-05-15T04:49:06.207Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "3cb75029-cd32-4b4e-97b4-db1796d4705e",
+      "shortId": "YNWWD0",
+      "name": "stellar",
+      "role": "USER",
+      "level": 19
+    },
+    "message": "/vt 28514",
+    "timestamp": "2026-05-15T04:50:05.674Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "3cb75029-cd32-4b4e-97b4-db1796d4705e",
+      "shortId": "YNWWD0",
+      "name": "stellar",
+      "role": "USER",
+      "level": 19
+    },
+    "message": "what do i do?",
+    "timestamp": "2026-05-15T04:50:39.011Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "3cb75029-cd32-4b4e-97b4-db1796d4705e",
+      "shortId": "YNWWD0",
+      "name": "stellar",
+      "role": "USER",
+      "level": 19
+    },
+    "message": "/vt 62565",
+    "timestamp": "2026-05-15T04:51:02.141Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "3cb75029-cd32-4b4e-97b4-db1796d4705e",
+      "shortId": "YNWWD0",
+      "name": "stellar",
+      "role": "USER",
+      "level": 19
+    },
+    "message": "what do i type",
+    "timestamp": "2026-05-15T04:51:39.822Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "3cb75029-cd32-4b4e-97b4-db1796d4705e",
+      "shortId": "YNWWD0",
+      "name": "stellar",
+      "role": "USER",
+      "level": 19
+    },
+    "message": "ghillie",
+    "timestamp": "2026-05-15T04:51:50.488Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "3cb75029-cd32-4b4e-97b4-db1796d4705e",
+      "shortId": "YNWWD0",
+      "name": "stellar",
+      "role": "USER",
+      "level": 19
+    },
+    "message": "k",
+    "timestamp": "2026-05-15T04:52:08.937Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "3cb75029-cd32-4b4e-97b4-db1796d4705e",
+      "shortId": "YNWWD0",
+      "name": "stellar",
+      "role": "USER",
+      "level": 19
+    },
+    "message": "anybbody have ghillie",
+    "timestamp": "2026-05-15T04:53:27.723Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "3cb75029-cd32-4b4e-97b4-db1796d4705e",
+      "shortId": "YNWWD0",
+      "name": "stellar",
+      "role": "USER",
+      "level": 19
+    },
+    "message": "/hm aron",
+    "timestamp": "2026-05-15T04:59:16.819Z"
   }
 ]
