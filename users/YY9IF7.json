@@ -1510,5 +1510,53 @@
     },
     "message": "/enter",
     "timestamp": "2026-05-14T04:25:00.469Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "0775331c-8ae7-42de-b216-507402c39976",
+      "shortId": "YY9IF7",
+      "name": "PICKLEWICKEL",
+      "role": "USER",
+      "level": 90
+    },
+    "message": "LF [Boo||BODY_SKIN|LEGENDARY]",
+    "timestamp": "2026-05-15T04:16:30.394Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "0775331c-8ae7-42de-b216-507402c39976",
+      "shortId": "YY9IF7",
+      "name": "PICKLEWICKEL",
+      "role": "USER",
+      "level": 90
+    },
+    "message": "LF [Boo||BODY_SKIN|LEGENDARY] TRADING [Mage||BODY_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-15T04:16:54.371Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "0775331c-8ae7-42de-b216-507402c39976",
+      "shortId": "YY9IF7",
+      "name": "PICKLEWICKEL",
+      "role": "USER",
+      "level": 90
+    },
+    "message": "stellar 2.1m on market for Taurus on market",
+    "timestamp": "2026-05-15T04:17:15.608Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "0775331c-8ae7-42de-b216-507402c39976",
+      "shortId": "YY9IF7",
+      "name": "PICKLEWICKEL",
+      "role": "USER",
+      "level": 90
+    },
+    "message": "#YNWWD0 list taurus on market 2.1m",
+    "timestamp": "2026-05-15T04:17:46.895Z"
   }
 ]
