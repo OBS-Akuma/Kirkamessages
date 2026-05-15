@@ -382,5 +382,29 @@
     },
     "message": "fukkk",
     "timestamp": "2026-05-14T13:38:37.299Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "70ea75c2-259b-428e-a693-e5b48ddccaae",
+      "shortId": "4UPM84",
+      "name": "DEAD",
+      "role": "USER",
+      "level": 13
+    },
+    "message": "HELU AE VN NHA",
+    "timestamp": "2026-05-15T13:46:31.945Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "70ea75c2-259b-428e-a693-e5b48ddccaae",
+      "shortId": "4UPM84",
+      "name": "DEAD",
+      "role": "USER",
+      "level": 13
+    },
+    "message": "co ai nguoi vn koo",
+    "timestamp": "2026-05-15T13:46:54.508Z"
   }
 ]
