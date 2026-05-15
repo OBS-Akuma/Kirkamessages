@@ -706,5 +706,17 @@
     },
     "message": "oh thx gg",
     "timestamp": "2026-05-14T11:56:17.441Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "70184f38-6b61-4ca3-bf66-2cdbc3f42f1b",
+      "shortId": "Z1WXJR",
+      "name": "VoX|*",
+      "role": "USER",
+      "level": 49
+    },
+    "message": "[banned]",
+    "timestamp": "2026-05-15T12:20:17.742Z"
   }
 ]
