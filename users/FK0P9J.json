@@ -1,0 +1,26 @@
+[
+  {
+    "type": 2,
+    "user": {
+      "id": "guest-13b4d9f5-72fd-47cf-a3c1-2b827dd28195",
+      "shortId": "FK0P9J",
+      "name": "(^-^)",
+      "role": "USER",
+      "level": 15
+    },
+    "message": "vietnamere",
+    "timestamp": "2026-05-15T10:10:25.693Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "guest-13b4d9f5-72fd-47cf-a3c1-2b827dd28195",
+      "shortId": "FK0P9J",
+      "name": "(^-^)",
+      "role": "USER",
+      "level": 15
+    },
+    "message": "hello",
+    "timestamp": "2026-05-15T10:17:20.945Z"
+  }
+]
