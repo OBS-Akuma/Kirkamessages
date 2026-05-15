@@ -274,5 +274,29 @@
     },
     "message": "/inv",
     "timestamp": "2026-05-14T08:55:08.724Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "0b43e966-3a87-43a7-b01a-7caf11b625a1",
+      "shortId": "D9M7R3",
+      "name": "V0idSn1per_Op",
+      "role": "USER",
+      "level": 17
+    },
+    "message": "anyone giving me slime for 126 [Golden||CHEST|LEGENDARY]",
+    "timestamp": "2026-05-15T08:44:10.443Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "0b43e966-3a87-43a7-b01a-7caf11b625a1",
+      "shortId": "D9M7R3",
+      "name": "V0idSn1per_Op",
+      "role": "USER",
+      "level": 17
+    },
+    "message": "[James||BODY_SKIN|COMMON]",
+    "timestamp": "2026-05-15T08:45:10.882Z"
   }
 ]
