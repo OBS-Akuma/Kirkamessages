@@ -598,5 +598,53 @@
     },
     "message": "Yes",
     "timestamp": "2026-05-15T05:00:02.710Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "d8e98c7e-79bf-497e-8652-f4d435559ddf",
+      "shortId": "FSJ1T8",
+      "name": "StremZ",
+      "role": "USER",
+      "level": 18
+    },
+    "message": "/help",
+    "timestamp": "2026-05-15T08:30:53.766Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "d8e98c7e-79bf-497e-8652-f4d435559ddf",
+      "shortId": "FSJ1T8",
+      "name": "StremZ",
+      "role": "USER",
+      "level": 18
+    },
+    "message": "/bump",
+    "timestamp": "2026-05-15T08:31:05.445Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "d8e98c7e-79bf-497e-8652-f4d435559ddf",
+      "shortId": "FSJ1T8",
+      "name": "StremZ",
+      "role": "USER",
+      "level": 19
+    },
+    "message": "/hm [Nyan Shark|Shark|WEAPON_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-15T09:34:32.191Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "d8e98c7e-79bf-497e-8652-f4d435559ddf",
+      "shortId": "FSJ1T8",
+      "name": "StremZ",
+      "role": "USER",
+      "level": 19
+    },
+    "message": "/hm [Wicked|VITA|WEAPON_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-15T09:36:33.610Z"
   }
 ]
