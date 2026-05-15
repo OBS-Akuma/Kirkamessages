@@ -250,5 +250,29 @@
     },
     "message": "I want [leave]",
     "timestamp": "2026-05-14T10:27:38.008Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "86aa4f97-7723-4c5b-8c09-0ecaa84630bd",
+      "shortId": "RQ6HHB",
+      "name": "Newbie",
+      "role": "USER",
+      "level": 14
+    },
+    "message": "Look at the [Sky|AR-9|WEAPON_SKIN|COMMON] and touch some [Grass|Weatie|WEAPON_SKIN|RARE]",
+    "timestamp": "2026-05-14T12:57:48.260Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "86aa4f97-7723-4c5b-8c09-0ecaa84630bd",
+      "shortId": "RQ6HHB",
+      "name": "Newbie",
+      "role": "USER",
+      "level": 14
+    },
+    "message": "/price complexity",
+    "timestamp": "2026-05-14T13:01:32.444Z"
   }
 ]
