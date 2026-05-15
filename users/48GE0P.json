@@ -382,5 +382,89 @@
     },
     "message": "/price [Cyber SCAR|SCAR|WEAPON_SKIN|MYTHICAL]",
     "timestamp": "2026-05-14T13:18:37.881Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "2e201d4b-95f1-4665-ac6d-06fe2a36de77",
+      "shortId": "48GE0P",
+      "name": "xana",
+      "role": "USER",
+      "level": 70
+    },
+    "message": "/price dragonic tomahawk",
+    "timestamp": "2026-05-15T12:14:53.443Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "2e201d4b-95f1-4665-ac6d-06fe2a36de77",
+      "shortId": "48GE0P",
+      "name": "xana",
+      "role": "USER",
+      "level": 71
+    },
+    "message": "[Legend|VITA|WEAPON_SKIN|LEGENDARY]",
+    "timestamp": "2026-05-15T13:50:15.386Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "2e201d4b-95f1-4665-ac6d-06fe2a36de77",
+      "shortId": "48GE0P",
+      "name": "xana",
+      "role": "USER",
+      "level": 71
+    },
+    "message": "how much [Golden||CHEST|LEGENDARY] would it take to trade [Angel||BODY_SKIN|MYTHICAL]?",
+    "timestamp": "2026-05-15T13:51:49.246Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "2e201d4b-95f1-4665-ac6d-06fe2a36de77",
+      "shortId": "48GE0P",
+      "name": "xana",
+      "role": "USER",
+      "level": 71
+    },
+    "message": "oh",
+    "timestamp": "2026-05-15T13:52:10.787Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "2e201d4b-95f1-4665-ac6d-06fe2a36de77",
+      "shortId": "48GE0P",
+      "name": "xana",
+      "role": "USER",
+      "level": 71
+    },
+    "message": "ok im close",
+    "timestamp": "2026-05-15T13:52:13.493Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "2e201d4b-95f1-4665-ac6d-06fe2a36de77",
+      "shortId": "48GE0P",
+      "name": "xana",
+      "role": "USER",
+      "level": 71
+    },
+    "message": "im 5mil rn",
+    "timestamp": "2026-05-15T13:52:16.590Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "2e201d4b-95f1-4665-ac6d-06fe2a36de77",
+      "shortId": "48GE0P",
+      "name": "xana",
+      "role": "USER",
+      "level": 71
+    },
+    "message": "soooon",
+    "timestamp": "2026-05-15T13:52:20.084Z"
   }
 ]
