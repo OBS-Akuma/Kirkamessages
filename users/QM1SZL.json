@@ -3128,7 +3128,7 @@
       "role": "USER",
       "level": 49
     },
-    "message": "ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ°ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ­",
+    "message": "ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ°ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ­",
     "timestamp": "2026-05-13T05:30:40.342Z"
   },
   {
@@ -3370,5 +3370,329 @@
     },
     "message": "wagering :[Golden||CHEST|LEGENDARY]x400",
     "timestamp": "2026-05-14T16:13:50.830Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "af68d0f3-d7f6-4e9e-8cda-3689fb482610",
+      "shortId": "QM1SZL",
+      "name": "RIHAN",
+      "role": "USER",
+      "level": 50
+    },
+    "message": "wagering:[Golden||CHEST|LEGENDARY]x500",
+    "timestamp": "2026-05-15T08:30:12.652Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "af68d0f3-d7f6-4e9e-8cda-3689fb482610",
+      "shortId": "QM1SZL",
+      "name": "RIHAN",
+      "role": "USER",
+      "level": 50
+    },
+    "message": "yooo ytdenial",
+    "timestamp": "2026-05-15T08:30:21.706Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "af68d0f3-d7f6-4e9e-8cda-3689fb482610",
+      "shortId": "QM1SZL",
+      "name": "RIHAN",
+      "role": "USER",
+      "level": 50
+    },
+    "message": "/mywager",
+    "timestamp": "2026-05-15T08:30:31.507Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "af68d0f3-d7f6-4e9e-8cda-3689fb482610",
+      "shortId": "QM1SZL",
+      "name": "RIHAN",
+      "role": "USER",
+      "level": 50
+    },
+    "message": "/wager [Golden||CHEST|LEGENDARY]x500 #Z97DD0",
+    "timestamp": "2026-05-15T08:30:53.769Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "af68d0f3-d7f6-4e9e-8cda-3689fb482610",
+      "shortId": "QM1SZL",
+      "name": "RIHAN",
+      "role": "USER",
+      "level": 50
+    },
+    "message": "/wager [Momo||BODY_SKIN|LEGENDARY] #Z97DD0",
+    "timestamp": "2026-05-15T08:31:25.680Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "af68d0f3-d7f6-4e9e-8cda-3689fb482610",
+      "shortId": "QM1SZL",
+      "name": "RIHAN",
+      "role": "USER",
+      "level": 50
+    },
+    "message": "?wager [Momo||BODY_SKIN|LEGENDARY] #Z97DD0",
+    "timestamp": "2026-05-15T08:31:40.722Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "af68d0f3-d7f6-4e9e-8cda-3689fb482610",
+      "shortId": "QM1SZL",
+      "name": "RIHAN",
+      "role": "USER",
+      "level": 50
+    },
+    "message": "yt next",
+    "timestamp": "2026-05-15T08:31:44.973Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "af68d0f3-d7f6-4e9e-8cda-3689fb482610",
+      "shortId": "QM1SZL",
+      "name": "RIHAN",
+      "role": "USER",
+      "level": 50
+    },
+    "message": "?",
+    "timestamp": "2026-05-15T08:31:49.083Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "af68d0f3-d7f6-4e9e-8cda-3689fb482610",
+      "shortId": "QM1SZL",
+      "name": "RIHAN",
+      "role": "USER",
+      "level": 50
+    },
+    "message": "I also",
+    "timestamp": "2026-05-15T08:31:57.239Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "af68d0f3-d7f6-4e9e-8cda-3689fb482610",
+      "shortId": "QM1SZL",
+      "name": "RIHAN",
+      "role": "USER",
+      "level": 50
+    },
+    "message": "/cancelwager",
+    "timestamp": "2026-05-15T08:32:09.460Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "af68d0f3-d7f6-4e9e-8cda-3689fb482610",
+      "shortId": "QM1SZL",
+      "name": "RIHAN",
+      "role": "USER",
+      "level": 50
+    },
+    "message": "/wager [Golden||CHEST|LEGENDARY]x500 #Z97DD0",
+    "timestamp": "2026-05-15T08:32:17.750Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "af68d0f3-d7f6-4e9e-8cda-3689fb482610",
+      "shortId": "QM1SZL",
+      "name": "RIHAN",
+      "role": "USER",
+      "level": 50
+    },
+    "message": "VENOM next ok?",
+    "timestamp": "2026-05-15T08:32:24.355Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "af68d0f3-d7f6-4e9e-8cda-3689fb482610",
+      "shortId": "QM1SZL",
+      "name": "RIHAN",
+      "role": "USER",
+      "level": 50
+    },
+    "message": "I got",
+    "timestamp": "2026-05-15T08:32:27.294Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "af68d0f3-d7f6-4e9e-8cda-3689fb482610",
+      "shortId": "QM1SZL",
+      "name": "RIHAN",
+      "role": "USER",
+      "level": 50
+    },
+    "message": "ytdenial acce3pt wagetr",
+    "timestamp": "2026-05-15T08:32:39.893Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "af68d0f3-d7f6-4e9e-8cda-3689fb482610",
+      "shortId": "QM1SZL",
+      "name": "RIHAN",
+      "role": "USER",
+      "level": 50
+    },
+    "message": "#Z97DD0#Z97DD0#Z97DD0",
+    "timestamp": "2026-05-15T08:32:43.270Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "af68d0f3-d7f6-4e9e-8cda-3689fb482610",
+      "shortId": "QM1SZL",
+      "name": "RIHAN",
+      "role": "USER",
+      "level": 50
+    },
+    "message": "gl",
+    "timestamp": "2026-05-15T08:33:08.775Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "af68d0f3-d7f6-4e9e-8cda-3689fb482610",
+      "shortId": "QM1SZL",
+      "name": "RIHAN",
+      "role": "USER",
+      "level": 50
+    },
+    "message": "yeee",
+    "timestamp": "2026-05-15T08:33:11.284Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "af68d0f3-d7f6-4e9e-8cda-3689fb482610",
+      "shortId": "QM1SZL",
+      "name": "RIHAN",
+      "role": "USER",
+      "level": 50
+    },
+    "message": "hahahah",
+    "timestamp": "2026-05-15T08:33:14.857Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "af68d0f3-d7f6-4e9e-8cda-3689fb482610",
+      "shortId": "QM1SZL",
+      "name": "RIHAN",
+      "role": "USER",
+      "level": 50
+    },
+    "message": "/wager [Golden||CHEST|LEGENDARY]x300 #609GEM",
+    "timestamp": "2026-05-15T08:33:31.137Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "af68d0f3-d7f6-4e9e-8cda-3689fb482610",
+      "shortId": "QM1SZL",
+      "name": "RIHAN",
+      "role": "USER",
+      "level": 50
+    },
+    "message": "?wager [Golden||CHEST|LEGENDARY]x300 #609GEM",
+    "timestamp": "2026-05-15T08:33:43.118Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "af68d0f3-d7f6-4e9e-8cda-3689fb482610",
+      "shortId": "QM1SZL",
+      "name": "RIHAN",
+      "role": "USER",
+      "level": 50
+    },
+    "message": "gl",
+    "timestamp": "2026-05-15T08:34:12.965Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "af68d0f3-d7f6-4e9e-8cda-3689fb482610",
+      "shortId": "QM1SZL",
+      "name": "RIHAN",
+      "role": "USER",
+      "level": 50
+    },
+    "message": "god",
+    "timestamp": "2026-05-15T08:34:19.476Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "af68d0f3-d7f6-4e9e-8cda-3689fb482610",
+      "shortId": "QM1SZL",
+      "name": "RIHAN",
+      "role": "USER",
+      "level": 50
+    },
+    "message": "dymn",
+    "timestamp": "2026-05-15T08:34:28.442Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "af68d0f3-d7f6-4e9e-8cda-3689fb482610",
+      "shortId": "QM1SZL",
+      "name": "RIHAN",
+      "role": "USER",
+      "level": 50
+    },
+    "message": "/wager [Golden||CHEST|LEGENDARY]x200 #609GEM",
+    "timestamp": "2026-05-15T08:35:13.608Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "af68d0f3-d7f6-4e9e-8cda-3689fb482610",
+      "shortId": "QM1SZL",
+      "name": "RIHAN",
+      "role": "USER",
+      "level": 50
+    },
+    "message": "...",
+    "timestamp": "2026-05-15T08:35:36.574Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "af68d0f3-d7f6-4e9e-8cda-3689fb482610",
+      "shortId": "QM1SZL",
+      "name": "RIHAN",
+      "role": "USER",
+      "level": 50
+    },
+    "message": "gl sir ;(",
+    "timestamp": "2026-05-15T08:35:47.139Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "af68d0f3-d7f6-4e9e-8cda-3689fb482610",
+      "shortId": "QM1SZL",
+      "name": "RIHAN",
+      "role": "USER",
+      "level": 50
+    },
+    "message": "wellllll",
+    "timestamp": "2026-05-15T08:35:56.241Z"
   }
 ]
