@@ -34,5 +34,29 @@
     },
     "message": "[neighbor]",
     "timestamp": "2026-05-08T23:17:22.649Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "b0ef2f42-8b91-4c6e-8f6e-ac2a7e18600f",
+      "shortId": "P776X1",
+      "name": "Vion",
+      "role": "USER",
+      "level": 75
+    },
+    "message": "/hm dragonic",
+    "timestamp": "2026-05-14T21:28:32.263Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "b0ef2f42-8b91-4c6e-8f6e-ac2a7e18600f",
+      "shortId": "P776X1",
+      "name": "Vion",
+      "role": "USER",
+      "level": 75
+    },
+    "message": "/hm angel",
+    "timestamp": "2026-05-14T21:34:42.978Z"
   }
 ]
