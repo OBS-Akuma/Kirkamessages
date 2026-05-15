@@ -118,5 +118,41 @@
     },
     "message": "/hm goldenx5000000",
     "timestamp": "2026-05-11T08:41:39.984Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "40192c91-9bda-420a-9e48-102ac966b09b",
+      "shortId": "K3S1YG",
+      "name": "#NERFTHEBOTS",
+      "role": "USER",
+      "level": 85
+    },
+    "message": "/locate [Ranked_S1 Gold|Bayonet|WEAPON_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-14T10:22:21.007Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "40192c91-9bda-420a-9e48-102ac966b09b",
+      "shortId": "K3S1YG",
+      "name": "#NERFTHEBOTS",
+      "role": "USER",
+      "level": 85
+    },
+    "message": "/locate [Ranked_S1 Silver|Bayonet|WEAPON_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-14T10:22:36.878Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "40192c91-9bda-420a-9e48-102ac966b09b",
+      "shortId": "K3S1YG",
+      "name": "#NERFTHEBOTS",
+      "role": "USER",
+      "level": 85
+    },
+    "message": "/locate [Ranked_S2 Silver|Bayonet|WEAPON_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-14T10:22:55.006Z"
   }
 ]
