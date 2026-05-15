@@ -10,5 +10,17 @@
     },
     "message": "/inv",
     "timestamp": "2026-05-08T08:30:51.326Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "4e04833e-34c1-47fb-b767-aa1592e71fc4",
+      "shortId": "75J06K",
+      "name": "WOMBAT56",
+      "role": "USER",
+      "level": 81
+    },
+    "message": "/price [Gold Coins|Bayonet|WEAPON_SKIN|LEGENDARY]",
+    "timestamp": "2026-05-15T06:59:31.120Z"
   }
 ]
