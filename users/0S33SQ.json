@@ -286,5 +286,17 @@
     },
     "message": "11k?",
     "timestamp": "2026-05-15T08:16:11.315Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "6e96cbad-888e-4efd-bd88-73b43c669daf",
+      "shortId": "0S33SQ",
+      "name": "-CAT-",
+      "role": "USER",
+      "level": 99
+    },
+    "message": "#ZJAEIP",
+    "timestamp": "2026-05-15T08:32:33.442Z"
   }
 ]
