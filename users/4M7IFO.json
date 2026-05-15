@@ -2002,5 +2002,17 @@
     },
     "message": "/mywager",
     "timestamp": "2026-05-14T13:24:10.864Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "ede31f87-e617-489f-bf57-1524c9c3aba4",
+      "shortId": "4M7IFO",
+      "name": "DeffendPr.",
+      "role": "USER",
+      "level": 20
+    },
+    "message": "..",
+    "timestamp": "2026-05-15T12:06:22.849Z"
   }
 ]
