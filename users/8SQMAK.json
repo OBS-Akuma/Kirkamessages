@@ -2182,5 +2182,41 @@
     },
     "message": "who has ghillie",
     "timestamp": "2026-05-15T07:53:37.379Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "e7ca017c-557f-4b21-96eb-3ec2a9a728ab",
+      "shortId": "8SQMAK",
+      "name": "Eri.",
+      "role": "USER",
+      "level": 57
+    },
+    "message": "i want ghillie",
+    "timestamp": "2026-05-15T11:50:20.278Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "e7ca017c-557f-4b21-96eb-3ec2a9a728ab",
+      "shortId": "8SQMAK",
+      "name": "Eri.",
+      "role": "USER",
+      "level": 57
+    },
+    "message": "how many coins for ghillie",
+    "timestamp": "2026-05-15T11:51:53.112Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "e7ca017c-557f-4b21-96eb-3ec2a9a728ab",
+      "shortId": "8SQMAK",
+      "name": "Eri.",
+      "role": "USER",
+      "level": 57
+    },
+    "message": "i want bok",
+    "timestamp": "2026-05-15T11:53:31.903Z"
   }
 ]
