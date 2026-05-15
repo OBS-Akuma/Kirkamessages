@@ -70,5 +70,17 @@
     },
     "message": "thepros hm for hallowkod",
     "timestamp": "2026-05-12T11:51:10.270Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "db3a3088-7730-43a8-af74-af09c155eb32",
+      "shortId": "69I3DV",
+      "name": "SANTI",
+      "role": "USER",
+      "level": 80
+    },
+    "message": "wtf",
+    "timestamp": "2026-05-15T15:20:15.178Z"
   }
 ]
