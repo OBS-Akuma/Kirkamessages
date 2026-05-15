@@ -1616,7 +1616,7 @@
       "role": "USER",
       "level": 61
     },
-    "message": "ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ¨/hm ophelia",
+    "message": "ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ¨/hm ophelia",
     "timestamp": "2026-05-13T09:26:58.345Z"
   },
   {
@@ -1846,5 +1846,65 @@
     },
     "message": "/hm vionix",
     "timestamp": "2026-05-14T06:49:20.619Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "10cc9aa1-cdbb-4880-b539-82906b95c8ab",
+      "shortId": "QPQ5MV",
+      "name": "kaiser",
+      "role": "USER",
+      "level": 61
+    },
+    "message": "/yad",
+    "timestamp": "2026-05-14T16:36:06.488Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "10cc9aa1-cdbb-4880-b539-82906b95c8ab",
+      "shortId": "QPQ5MV",
+      "name": "kaiser",
+      "role": "USER",
+      "level": 61
+    },
+    "message": "/hm daynight",
+    "timestamp": "2026-05-14T16:36:11.597Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "10cc9aa1-cdbb-4880-b539-82906b95c8ab",
+      "shortId": "QPQ5MV",
+      "name": "kaiser",
+      "role": "USER",
+      "level": 61
+    },
+    "message": "/daily",
+    "timestamp": "2026-05-14T16:36:15.690Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "10cc9aa1-cdbb-4880-b539-82906b95c8ab",
+      "shortId": "QPQ5MV",
+      "name": "kaiser",
+      "role": "USER",
+      "level": 61
+    },
+    "message": "/locate kod",
+    "timestamp": "2026-05-14T16:36:24.633Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "10cc9aa1-cdbb-4880-b539-82906b95c8ab",
+      "shortId": "QPQ5MV",
+      "name": "kaiser",
+      "role": "USER",
+      "level": 61
+    },
+    "message": "/locate ophelia",
+    "timestamp": "2026-05-14T16:36:40.167Z"
   }
 ]
