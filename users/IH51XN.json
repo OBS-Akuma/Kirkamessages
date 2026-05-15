@@ -1474,5 +1474,41 @@
     },
     "message": "[Pengu||BODY_SKIN|MYTHICAL]",
     "timestamp": "2026-05-14T17:04:22.457Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "89f5517d-5d90-40c8-a84a-8d391351c502",
+      "shortId": "IH51XN",
+      "name": "AllMight",
+      "role": "USER",
+      "level": 36
+    },
+    "message": "/enter",
+    "timestamp": "2026-05-15T12:53:43.751Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "89f5517d-5d90-40c8-a84a-8d391351c502",
+      "shortId": "IH51XN",
+      "name": "AllMight",
+      "role": "USER",
+      "level": 36
+    },
+    "message": "ggs",
+    "timestamp": "2026-05-15T13:11:26.103Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "89f5517d-5d90-40c8-a84a-8d391351c502",
+      "shortId": "IH51XN",
+      "name": "AllMight",
+      "role": "USER",
+      "level": 36
+    },
+    "message": "/claim",
+    "timestamp": "2026-05-15T13:11:31.036Z"
   }
 ]
