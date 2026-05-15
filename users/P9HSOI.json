@@ -32,7 +32,7 @@
       "role": "USER",
       "level": 20
     },
-    "message": "ÃÂÃÂÃÂÃÂ°ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ¶ÃÂÃÂÃÂÃÂ¯ÃÂÃÂÃÂÃÂ¸ÃÂÃÂÃÂÃÂ Creative Fusion ConceptsChat GPTaco: A real AI-invented recipe featuring fla",
+    "message": "ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ°ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ¶ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ¯ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ¸ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ Creative Fusion ConceptsChat GPTaco: A real AI-invented recipe featuring fla",
     "timestamp": "2026-05-13T19:12:13.205Z"
   },
   {
@@ -418,5 +418,29 @@
     },
     "message": "trade accept",
     "timestamp": "2026-05-13T21:04:04.153Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "guest-336d090b-43b9-4164-9057-529be134639b",
+      "shortId": "P9HSOI",
+      "name": "/._.\\",
+      "role": "USER",
+      "level": 22
+    },
+    "message": "bigman",
+    "timestamp": "2026-05-15T19:55:13.108Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "guest-336d090b-43b9-4164-9057-529be134639b",
+      "shortId": "P9HSOI",
+      "name": "/._.\\",
+      "role": "USER",
+      "level": 22
+    },
+    "message": "w",
+    "timestamp": "2026-05-15T20:04:52.103Z"
   }
 ]
