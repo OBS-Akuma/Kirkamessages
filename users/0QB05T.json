@@ -238,5 +238,53 @@
     },
     "message": "ill accept",
     "timestamp": "2026-05-15T11:10:40.871Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "e4u8c8Arlhe0UjgaOd2kyHNFMEG2",
+      "shortId": "0QB05T",
+      "name": "ENDED_URCAREER",
+      "role": "USER",
+      "level": 31
+    },
+    "message": "WHO GOT [RGB||BODY_SKIN|LEGENDARY]??????",
+    "timestamp": "2026-05-15T11:24:36.806Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "e4u8c8Arlhe0UjgaOd2kyHNFMEG2",
+      "shortId": "0QB05T",
+      "name": "ENDED_URCAREER",
+      "role": "USER",
+      "level": 31
+    },
+    "message": "/PRICE [RGB||BODY_SKIN|LEGENDARY]",
+    "timestamp": "2026-05-15T11:24:42.988Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "e4u8c8Arlhe0UjgaOd2kyHNFMEG2",
+      "shortId": "0QB05T",
+      "name": "ENDED_URCAREER",
+      "role": "USER",
+      "level": 31
+    },
+    "message": "WHO GOT [RGB||BODY_SKIN|LEGENDARY] BROOOOOOOO",
+    "timestamp": "2026-05-15T11:25:22.404Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "e4u8c8Arlhe0UjgaOd2kyHNFMEG2",
+      "shortId": "0QB05T",
+      "name": "ENDED_URCAREER",
+      "role": "USER",
+      "level": 31
+    },
+    "message": "#FKKLN0 u got [RGB||BODY_SKIN|LEGENDARY]?",
+    "timestamp": "2026-05-15T11:25:51.409Z"
   }
 ]
