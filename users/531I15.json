@@ -814,5 +814,17 @@
     },
     "message": "/cancelwager",
     "timestamp": "2026-05-14T16:33:09.338Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "a86d1b4f-997c-44fd-9a7d-6074af84a31f",
+      "shortId": "531I15",
+      "name": "MalaKas.",
+      "role": "USER",
+      "level": 99
+    },
+    "message": "i have a [Warlord||BODY_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-15T11:23:47.725Z"
   }
 ]
