@@ -34,5 +34,41 @@
     },
     "message": "IS [Forbidden|AR-9|WEAPON_SKIN|MYTHICAL] GOOD",
     "timestamp": "2026-05-15T06:16:20.508Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "DYsgXjJEuVMHOqSkIgVcKxxN79r2",
+      "shortId": "0OAD9V",
+      "name": "AURA_999+",
+      "role": "USER",
+      "level": 47
+    },
+    "message": "/price [Terminator|VITA|WEAPON_SKIN|LEGENDARY]",
+    "timestamp": "2026-05-15T08:58:27.159Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "DYsgXjJEuVMHOqSkIgVcKxxN79r2",
+      "shortId": "0OAD9V",
+      "name": "AURA_999+",
+      "role": "USER",
+      "level": 47
+    },
+    "message": "/price [2022|VITA|WEAPON_SKIN|LEGENDARY]",
+    "timestamp": "2026-05-15T08:58:42.507Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "DYsgXjJEuVMHOqSkIgVcKxxN79r2",
+      "shortId": "0OAD9V",
+      "name": "AURA_999+",
+      "role": "USER",
+      "level": 47
+    },
+    "message": "/price [Sam|VITA|WEAPON_SKIN|LEGENDARY]",
+    "timestamp": "2026-05-15T08:59:35.507Z"
   }
 ]
