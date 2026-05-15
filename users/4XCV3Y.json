@@ -34,5 +34,29 @@
     },
     "message": "/inv",
     "timestamp": "2026-05-13T12:08:32.875Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "6285b2a1-03a2-4df3-bd4b-65900c112a2e",
+      "shortId": "4XCV3Y",
+      "name": "aim_2.15.20",
+      "role": "USER",
+      "level": 98
+    },
+    "message": "who got [Void SCAR|SCAR|WEAPON_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-15T10:43:57.867Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "6285b2a1-03a2-4df3-bd4b-65900c112a2e",
+      "shortId": "4XCV3Y",
+      "name": "aim_2.15.20",
+      "role": "USER",
+      "level": 98
+    },
+    "message": "/price [Void SCAR|SCAR|WEAPON_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-15T10:44:11.012Z"
   }
 ]
