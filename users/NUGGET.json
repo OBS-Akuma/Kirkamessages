@@ -3755,5 +3755,41 @@
     },
     "message": "/locate [Halloween||CHEST|MYTHICAL]",
     "timestamp": "2026-05-13T05:16:03.028Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "7f2a6090-abcb-48a7-8838-88ee8111b261",
+      "shortId": "NUGGET",
+      "name": "Akuma :3",
+      "role": "USER",
+      "level": 57
+    },
+    "message": "/inv",
+    "timestamp": "2026-05-13T23:02:41.223Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "7f2a6090-abcb-48a7-8838-88ee8111b261",
+      "shortId": "NUGGET",
+      "name": "Akuma :3",
+      "role": "USER",
+      "level": 57
+    },
+    "message": ".",
+    "timestamp": "2026-05-14T19:14:48.733Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "7f2a6090-abcb-48a7-8838-88ee8111b261",
+      "shortId": "NUGGET",
+      "name": "Akuma :3",
+      "role": "USER",
+      "level": 57
+    },
+    "message": "/inv",
+    "timestamp": "2026-05-14T19:14:53.137Z"
   }
 ]
