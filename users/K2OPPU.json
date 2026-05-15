@@ -202,5 +202,245 @@
     },
     "message": "wagering [Golden||CHEST|LEGENDARY]x400",
     "timestamp": "2026-05-15T04:28:33.556Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "9d1e4931-0d95-4a56-989c-2ad0bf9fe52c",
+      "shortId": "K2OPPU",
+      "name": "Nexus",
+      "role": "USER",
+      "level": 80
+    },
+    "message": "wagering [Golden||CHEST|LEGENDARY]x500",
+    "timestamp": "2026-05-15T04:29:16.824Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "9d1e4931-0d95-4a56-989c-2ad0bf9fe52c",
+      "shortId": "K2OPPU",
+      "name": "Nexus",
+      "role": "USER",
+      "level": 80
+    },
+    "message": "lf [Employed||BODY_SKIN|MYTHICAL][Splash|Bayonet|WEAPON_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-15T04:29:36.476Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "9d1e4931-0d95-4a56-989c-2ad0bf9fe52c",
+      "shortId": "K2OPPU",
+      "name": "Nexus",
+      "role": "USER",
+      "level": 80
+    },
+    "message": "wagering [Golden||CHEST|LEGENDARY]x500",
+    "timestamp": "2026-05-15T04:30:25.144Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "9d1e4931-0d95-4a56-989c-2ad0bf9fe52c",
+      "shortId": "K2OPPU",
+      "name": "Nexus",
+      "role": "USER",
+      "level": 80
+    },
+    "message": "/locate employed",
+    "timestamp": "2026-05-15T04:30:28.289Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "9d1e4931-0d95-4a56-989c-2ad0bf9fe52c",
+      "shortId": "K2OPPU",
+      "name": "Nexus",
+      "role": "USER",
+      "level": 80
+    },
+    "message": "/wager [Golden||CHEST|LEGENDARY]x500 #Z97DD0",
+    "timestamp": "2026-05-15T04:30:42.234Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "9d1e4931-0d95-4a56-989c-2ad0bf9fe52c",
+      "shortId": "K2OPPU",
+      "name": "Nexus",
+      "role": "USER",
+      "level": 80
+    },
+    "message": "gl",
+    "timestamp": "2026-05-15T04:31:08.337Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "9d1e4931-0d95-4a56-989c-2ad0bf9fe52c",
+      "shortId": "K2OPPU",
+      "name": "Nexus",
+      "role": "USER",
+      "level": 80
+    },
+    "message": "ggs",
+    "timestamp": "2026-05-15T04:31:25.050Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "9d1e4931-0d95-4a56-989c-2ad0bf9fe52c",
+      "shortId": "K2OPPU",
+      "name": "Nexus",
+      "role": "USER",
+      "level": 80
+    },
+    "message": "/claim",
+    "timestamp": "2026-05-15T04:31:28.468Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "9d1e4931-0d95-4a56-989c-2ad0bf9fe52c",
+      "shortId": "K2OPPU",
+      "name": "Nexus",
+      "role": "USER",
+      "level": 80
+    },
+    "message": "/wager [Golden||CHEST|LEGENDARY]x1000 #Z97DD0",
+    "timestamp": "2026-05-15T04:32:03.907Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "9d1e4931-0d95-4a56-989c-2ad0bf9fe52c",
+      "shortId": "K2OPPU",
+      "name": "Nexus",
+      "role": "USER",
+      "level": 80
+    },
+    "message": "Find dont you have a [Splash|Bayonet|WEAPON_SKIN|MYTHICAL]?",
+    "timestamp": "2026-05-15T04:32:16.526Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "9d1e4931-0d95-4a56-989c-2ad0bf9fe52c",
+      "shortId": "K2OPPU",
+      "name": "Nexus",
+      "role": "USER",
+      "level": 80
+    },
+    "message": "gl",
+    "timestamp": "2026-05-15T04:32:29.476Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "9d1e4931-0d95-4a56-989c-2ad0bf9fe52c",
+      "shortId": "K2OPPU",
+      "name": "Nexus",
+      "role": "USER",
+      "level": 80
+    },
+    "message": "ggs",
+    "timestamp": "2026-05-15T04:32:38.891Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "9d1e4931-0d95-4a56-989c-2ad0bf9fe52c",
+      "shortId": "K2OPPU",
+      "name": "Nexus",
+      "role": "USER",
+      "level": 80
+    },
+    "message": "[Employed||BODY_SKIN|MYTHICAL]?",
+    "timestamp": "2026-05-15T04:32:42.800Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "9d1e4931-0d95-4a56-989c-2ad0bf9fe52c",
+      "shortId": "K2OPPU",
+      "name": "Nexus",
+      "role": "USER",
+      "level": 80
+    },
+    "message": "nobody trading their [Employed||BODY_SKIN|MYTHICAL]-_-",
+    "timestamp": "2026-05-15T04:33:03.540Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "9d1e4931-0d95-4a56-989c-2ad0bf9fe52c",
+      "shortId": "K2OPPU",
+      "name": "Nexus",
+      "role": "USER",
+      "level": 80
+    },
+    "message": "/enter",
+    "timestamp": "2026-05-15T04:33:23.128Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "9d1e4931-0d95-4a56-989c-2ad0bf9fe52c",
+      "shortId": "K2OPPU",
+      "name": "Nexus",
+      "role": "USER",
+      "level": 80
+    },
+    "message": "/locate splash",
+    "timestamp": "2026-05-15T05:15:21.885Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "9d1e4931-0d95-4a56-989c-2ad0bf9fe52c",
+      "shortId": "K2OPPU",
+      "name": "Nexus",
+      "role": "USER",
+      "level": 80
+    },
+    "message": "/locate splash p2",
+    "timestamp": "2026-05-15T05:15:41.576Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "9d1e4931-0d95-4a56-989c-2ad0bf9fe52c",
+      "shortId": "K2OPPU",
+      "name": "Nexus",
+      "role": "USER",
+      "level": 80
+    },
+    "message": "/locate splash p3",
+    "timestamp": "2026-05-15T05:16:00.444Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "9d1e4931-0d95-4a56-989c-2ad0bf9fe52c",
+      "shortId": "K2OPPU",
+      "name": "Nexus",
+      "role": "USER",
+      "level": 80
+    },
+    "message": "/locate [Splash|Bayonet|WEAPON_SKIN|MYTHICAL] p 4",
+    "timestamp": "2026-05-15T05:16:24.042Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "9d1e4931-0d95-4a56-989c-2ad0bf9fe52c",
+      "shortId": "K2OPPU",
+      "name": "Nexus",
+      "role": "USER",
+      "level": 80
+    },
+    "message": "/locate splash p4",
+    "timestamp": "2026-05-15T05:16:36.082Z"
   }
 ]
