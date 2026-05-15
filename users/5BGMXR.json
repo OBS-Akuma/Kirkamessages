@@ -3248,7 +3248,7 @@
       "role": "USER",
       "level": 99
     },
-    "message": "huh vinoù",
+    "message": "huh vinoÃ¹",
     "timestamp": "2026-05-15T20:12:14.335Z"
   },
   {
@@ -3934,5 +3934,17 @@
     },
     "message": "/inv",
     "timestamp": "2026-05-15T21:00:46.292Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "2eec0c1d-a4ad-48e7-9e0f-8b198b03ba5c",
+      "shortId": "5BGMXR",
+      "name": "SPARTA",
+      "role": "USER",
+      "level": 99
+    },
+    "message": "venom",
+    "timestamp": "2026-05-15T21:20:08.152Z"
   }
 ]
