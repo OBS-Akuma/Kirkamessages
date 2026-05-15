@@ -154,5 +154,65 @@
     },
     "message": "/inv",
     "timestamp": "2026-05-13T18:45:12.129Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "LvZ3s7PpbvTithiWmkSLtHj14Sq1",
+      "shortId": "QHG0UL",
+      "name": "INDONESIAN",
+      "role": "USER",
+      "level": 19
+    },
+    "message": "who got [Nova|SCAR|WEAPON_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-15T19:01:54.139Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "LvZ3s7PpbvTithiWmkSLtHj14Sq1",
+      "shortId": "QHG0UL",
+      "name": "INDONESIAN",
+      "role": "USER",
+      "level": 19
+    },
+    "message": "/locate [Nova|SCAR|WEAPON_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-15T19:02:57.319Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "LvZ3s7PpbvTithiWmkSLtHj14Sq1",
+      "shortId": "QHG0UL",
+      "name": "INDONESIAN",
+      "role": "USER",
+      "level": 19
+    },
+    "message": "df",
+    "timestamp": "2026-05-15T19:04:11.483Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "LvZ3s7PpbvTithiWmkSLtHj14Sq1",
+      "shortId": "QHG0UL",
+      "name": "INDONESIAN",
+      "role": "USER",
+      "level": 19
+    },
+    "message": "/locate [Nova|SCAR|WEAPON_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-15T19:04:18.517Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "LvZ3s7PpbvTithiWmkSLtHj14Sq1",
+      "shortId": "QHG0UL",
+      "name": "INDONESIAN",
+      "role": "USER",
+      "level": 19
+    },
+    "message": "/locate [Nova|SCAR|WEAPON_SKIN|MYTHICAL] in friend list",
+    "timestamp": "2026-05-15T19:05:25.413Z"
   }
 ]
