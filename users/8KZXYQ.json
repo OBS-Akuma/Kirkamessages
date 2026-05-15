@@ -58,5 +58,17 @@
     },
     "message": "[Cosmos|VITA|WEAPON_SKIN|MYTHICAL]",
     "timestamp": "2026-05-15T08:00:55.651Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "1ac62ef7-a4f9-47ae-896d-b43709d676db",
+      "shortId": "8KZXYQ",
+      "name": "aimlock",
+      "role": "USER",
+      "level": 10
+    },
+    "message": "[RGB Black||BODY_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-15T11:27:28.803Z"
   }
 ]
