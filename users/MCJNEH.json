@@ -82,5 +82,53 @@
     },
     "message": "????",
     "timestamp": "2026-05-08T10:08:19.671Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "b06be7a2-6261-4deb-958e-b78775c7b958",
+      "shortId": "MCJNEH",
+      "name": "vape",
+      "role": "USER",
+      "level": 71
+    },
+    "message": "/inv",
+    "timestamp": "2026-05-15T11:55:47.353Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "b06be7a2-6261-4deb-958e-b78775c7b958",
+      "shortId": "MCJNEH",
+      "name": "vape",
+      "role": "USER",
+      "level": 71
+    },
+    "message": "nice",
+    "timestamp": "2026-05-15T11:55:52.750Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "b06be7a2-6261-4deb-958e-b78775c7b958",
+      "shortId": "MCJNEH",
+      "name": "vape",
+      "role": "USER",
+      "level": 71
+    },
+    "message": "/price [blast set]",
+    "timestamp": "2026-05-15T12:08:32.755Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "b06be7a2-6261-4deb-958e-b78775c7b958",
+      "shortId": "MCJNEH",
+      "name": "vape",
+      "role": "USER",
+      "level": 71
+    },
+    "message": "??",
+    "timestamp": "2026-05-15T12:08:36.574Z"
   }
 ]
