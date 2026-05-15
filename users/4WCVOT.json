@@ -310,5 +310,17 @@
     },
     "message": "/price splanch",
     "timestamp": "2026-05-12T12:09:10.536Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "m83U1Z1KO7bMzKrN0XaH4le5CFB2",
+      "shortId": "4WCVOT",
+      "name": "FragmentsScar|",
+      "role": "USER",
+      "level": 72
+    },
+    "message": "/inv",
+    "timestamp": "2026-05-15T05:23:49.296Z"
   }
 ]
