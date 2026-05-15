@@ -238,5 +238,401 @@
     },
     "message": "/price splanch",
     "timestamp": "2026-05-12T14:20:20.617Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "6b91b714-19c2-496f-adf9-3f65bca47839",
+      "shortId": "GNCCHM",
+      "name": "AURACAOBANG",
+      "role": "USER",
+      "level": 99
+    },
+    "message": "/price [Regal|Shark|WEAPON_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-15T13:28:15.737Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "6b91b714-19c2-496f-adf9-3f65bca47839",
+      "shortId": "GNCCHM",
+      "name": "AURACAOBANG",
+      "role": "USER",
+      "level": 99
+    },
+    "message": "uhm",
+    "timestamp": "2026-05-15T13:28:18.826Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "6b91b714-19c2-496f-adf9-3f65bca47839",
+      "shortId": "GNCCHM",
+      "name": "AURACAOBANG",
+      "role": "USER",
+      "level": 99
+    },
+    "message": "bel",
+    "timestamp": "2026-05-15T13:28:20.222Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "6b91b714-19c2-496f-adf9-3f65bca47839",
+      "shortId": "GNCCHM",
+      "name": "AURACAOBANG",
+      "role": "USER",
+      "level": 99
+    },
+    "message": "/price [Nokken||BODY_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-15T13:28:24.472Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "6b91b714-19c2-496f-adf9-3f65bca47839",
+      "shortId": "GNCCHM",
+      "name": "AURACAOBANG",
+      "role": "USER",
+      "level": 99
+    },
+    "message": "djt",
+    "timestamp": "2026-05-15T13:28:31.974Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "6b91b714-19c2-496f-adf9-3f65bca47839",
+      "shortId": "GNCCHM",
+      "name": "AURACAOBANG",
+      "role": "USER",
+      "level": 99
+    },
+    "message": "binh tinh thg e",
+    "timestamp": "2026-05-15T13:28:46.856Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "6b91b714-19c2-496f-adf9-3f65bca47839",
+      "shortId": "GNCCHM",
+      "name": "AURACAOBANG",
+      "role": "USER",
+      "level": 99
+    },
+    "message": "để nguyen tham khảo giá",
+    "timestamp": "2026-05-15T13:29:02.871Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "6b91b714-19c2-496f-adf9-3f65bca47839",
+      "shortId": "GNCCHM",
+      "name": "AURACAOBANG",
+      "role": "USER",
+      "level": 99
+    },
+    "message": "alo mấy thằng em",
+    "timestamp": "2026-05-15T13:31:35.400Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "6b91b714-19c2-496f-adf9-3f65bca47839",
+      "shortId": "GNCCHM",
+      "name": "AURACAOBANG",
+      "role": "USER",
+      "level": 99
+    },
+    "message": "[Nokken||BODY_SKIN|MYTHICAL] or [Regal|Shark|WEAPON_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-15T13:31:42.938Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "6b91b714-19c2-496f-adf9-3f65bca47839",
+      "shortId": "GNCCHM",
+      "name": "AURACAOBANG",
+      "role": "USER",
+      "level": 99
+    },
+    "message": "cái nào xấu hơn",
+    "timestamp": "2026-05-15T13:31:48.434Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "6b91b714-19c2-496f-adf9-3f65bca47839",
+      "shortId": "GNCCHM",
+      "name": "AURACAOBANG",
+      "role": "USER",
+      "level": 99
+    },
+    "message": "hey mấy thg em",
+    "timestamp": "2026-05-15T13:32:22.394Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "6b91b714-19c2-496f-adf9-3f65bca47839",
+      "shortId": "GNCCHM",
+      "name": "AURACAOBANG",
+      "role": "USER",
+      "level": 99
+    },
+    "message": "where can i get nokken",
+    "timestamp": "2026-05-15T13:32:27.467Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "6b91b714-19c2-496f-adf9-3f65bca47839",
+      "shortId": "GNCCHM",
+      "name": "AURACAOBANG",
+      "role": "USER",
+      "level": 99
+    },
+    "message": "nhầm",
+    "timestamp": "2026-05-15T13:32:34.022Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "6b91b714-19c2-496f-adf9-3f65bca47839",
+      "shortId": "GNCCHM",
+      "name": "AURACAOBANG",
+      "role": "USER",
+      "level": 99
+    },
+    "message": "làm sao để có nokken free",
+    "timestamp": "2026-05-15T13:32:39.454Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "6b91b714-19c2-496f-adf9-3f65bca47839",
+      "shortId": "GNCCHM",
+      "name": "AURACAOBANG",
+      "role": "USER",
+      "level": 99
+    },
+    "message": "ịt mẹ xip",
+    "timestamp": "2026-05-15T13:32:54.637Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "6b91b714-19c2-496f-adf9-3f65bca47839",
+      "shortId": "GNCCHM",
+      "name": "AURACAOBANG",
+      "role": "USER",
+      "level": 99
+    },
+    "message": "lần sau a qua nắc",
+    "timestamp": "2026-05-15T13:32:59.866Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "6b91b714-19c2-496f-adf9-3f65bca47839",
+      "shortId": "GNCCHM",
+      "name": "AURACAOBANG",
+      "role": "USER",
+      "level": 99
+    },
+    "message": "guys [Nokken||BODY_SKIN|MYTHICAL] or [Regal|Shark|WEAPON_SKIN|MYTHICAL] which one better",
+    "timestamp": "2026-05-15T13:38:14.810Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "6b91b714-19c2-496f-adf9-3f65bca47839",
+      "shortId": "GNCCHM",
+      "name": "AURACAOBANG",
+      "role": "USER",
+      "level": 99
+    },
+    "message": ";-;",
+    "timestamp": "2026-05-15T13:38:18.966Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "6b91b714-19c2-496f-adf9-3f65bca47839",
+      "shortId": "GNCCHM",
+      "name": "AURACAOBANG",
+      "role": "USER",
+      "level": 99
+    },
+    "message": "để hỏi cái",
+    "timestamp": "2026-05-15T13:38:21.967Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "6b91b714-19c2-496f-adf9-3f65bca47839",
+      "shortId": "GNCCHM",
+      "name": "AURACAOBANG",
+      "role": "USER",
+      "level": 99
+    },
+    "message": "mẹ đau não quá",
+    "timestamp": "2026-05-15T13:38:30.012Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "6b91b714-19c2-496f-adf9-3f65bca47839",
+      "shortId": "GNCCHM",
+      "name": "AURACAOBANG",
+      "role": "USER",
+      "level": 99
+    },
+    "message": "[Regal|Shark|WEAPON_SKIN|MYTHICAL] or [Nokken||BODY_SKIN|MYTHICAL] GUYS?",
+    "timestamp": "2026-05-15T13:39:24.241Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "6b91b714-19c2-496f-adf9-3f65bca47839",
+      "shortId": "GNCCHM",
+      "name": "AURACAOBANG",
+      "role": "USER",
+      "level": 99
+    },
+    "message": "k thg nào rep nguyen tắt máy",
+    "timestamp": "2026-05-15T13:39:30.748Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "6b91b714-19c2-496f-adf9-3f65bca47839",
+      "shortId": "GNCCHM",
+      "name": "AURACAOBANG",
+      "role": "USER",
+      "level": 99
+    },
+    "message": "được r",
+    "timestamp": "2026-05-15T13:39:40.153Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "6b91b714-19c2-496f-adf9-3f65bca47839",
+      "shortId": "GNCCHM",
+      "name": "AURACAOBANG",
+      "role": "USER",
+      "level": 99
+    },
+    "message": "thanks",
+    "timestamp": "2026-05-15T13:39:42.709Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "6b91b714-19c2-496f-adf9-3f65bca47839",
+      "shortId": "GNCCHM",
+      "name": "AURACAOBANG",
+      "role": "USER",
+      "level": 99
+    },
+    "message": "theo số đông",
+    "timestamp": "2026-05-15T13:39:55.505Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "6b91b714-19c2-496f-adf9-3f65bca47839",
+      "shortId": "GNCCHM",
+      "name": "AURACAOBANG",
+      "role": "USER",
+      "level": 99
+    },
+    "message": "regal ngon hơn",
+    "timestamp": "2026-05-15T13:39:59.403Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "6b91b714-19c2-496f-adf9-3f65bca47839",
+      "shortId": "GNCCHM",
+      "name": "AURACAOBANG",
+      "role": "USER",
+      "level": 99
+    },
+    "message": ":)))",
+    "timestamp": "2026-05-15T13:40:05.140Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "6b91b714-19c2-496f-adf9-3f65bca47839",
+      "shortId": "GNCCHM",
+      "name": "AURACAOBANG",
+      "role": "USER",
+      "level": 99
+    },
+    "message": "hài vãi",
+    "timestamp": "2026-05-15T13:40:08.651Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "6b91b714-19c2-496f-adf9-3f65bca47839",
+      "shortId": "GNCCHM",
+      "name": "AURACAOBANG",
+      "role": "USER",
+      "level": 99
+    },
+    "message": "ra cổng trường luôn",
+    "timestamp": "2026-05-15T13:40:29.452Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "6b91b714-19c2-496f-adf9-3f65bca47839",
+      "shortId": "GNCCHM",
+      "name": "AURACAOBANG",
+      "role": "USER",
+      "level": 99
+    },
+    "message": "gạ nau nắc",
+    "timestamp": "2026-05-15T13:40:33.798Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "6b91b714-19c2-496f-adf9-3f65bca47839",
+      "shortId": "GNCCHM",
+      "name": "AURACAOBANG",
+      "role": "USER",
+      "level": 99
+    },
+    "message": "đi gel",
+    "timestamp": "2026-05-15T13:40:37.472Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "6b91b714-19c2-496f-adf9-3f65bca47839",
+      "shortId": "GNCCHM",
+      "name": "AURACAOBANG",
+      "role": "USER",
+      "level": 99
+    },
+    "message": "còn nghề scammer à",
+    "timestamp": "2026-05-15T13:40:58.259Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "6b91b714-19c2-496f-adf9-3f65bca47839",
+      "shortId": "GNCCHM",
+      "name": "AURACAOBANG",
+      "role": "USER",
+      "level": 99
+    },
+    "message": "mẹ 3 năm r đấy",
+    "timestamp": "2026-05-15T13:41:02.776Z"
   }
 ]
