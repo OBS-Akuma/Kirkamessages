@@ -142,5 +142,53 @@
     },
     "message": "mb gang",
     "timestamp": "2026-05-14T00:33:39.876Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "guest-7b94c337-0adf-44c1-be27-b48445a3c60c",
+      "shortId": "ZB71HD",
+      "name": "Doombringer",
+      "role": "USER",
+      "level": 9
+    },
+    "message": "I have [Turtle|Bayonet|WEAPON_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-15T10:10:34.502Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "guest-7b94c337-0adf-44c1-be27-b48445a3c60c",
+      "shortId": "ZB71HD",
+      "name": "Doombringer",
+      "role": "USER",
+      "level": 9
+    },
+    "message": "anyone want [Turtle|Bayonet|WEAPON_SKIN|MYTHICAL]?",
+    "timestamp": "2026-05-15T10:10:59.053Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "guest-7b94c337-0adf-44c1-be27-b48445a3c60c",
+      "shortId": "ZB71HD",
+      "name": "Doombringer",
+      "role": "USER",
+      "level": 9
+    },
+    "message": "d",
+    "timestamp": "2026-05-15T10:13:46.599Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "guest-7b94c337-0adf-44c1-be27-b48445a3c60c",
+      "shortId": "ZB71HD",
+      "name": "Doombringer",
+      "role": "USER",
+      "level": 9
+    },
+    "message": "trade offer #EOI1PB my:[ood]x1 your:[Koi|Bayonet|WEAPON_SKIN|MYTHICAL]x1",
+    "timestamp": "2026-05-15T10:17:44.211Z"
   }
 ]
