@@ -82,5 +82,77 @@
     },
     "message": "_-)",
     "timestamp": "2026-05-13T18:33:34.353Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "080e4809-a68a-46b2-a014-5a07bce503ab",
+      "shortId": "Q87FQ9",
+      "name": "Chacha",
+      "role": "USER",
+      "level": 95
+    },
+    "message": "/price [Warlord||BODY_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-14T09:28:32.884Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "080e4809-a68a-46b2-a014-5a07bce503ab",
+      "shortId": "Q87FQ9",
+      "name": "Chacha",
+      "role": "USER",
+      "level": 95
+    },
+    "message": "woo",
+    "timestamp": "2026-05-14T09:33:48.320Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "080e4809-a68a-46b2-a014-5a07bce503ab",
+      "shortId": "Q87FQ9",
+      "name": "Chacha",
+      "role": "USER",
+      "level": 95
+    },
+    "message": "anyone pls sell their mythical skin on market, i have budget of 2000000",
+    "timestamp": "2026-05-14T09:34:28.445Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "080e4809-a68a-46b2-a014-5a07bce503ab",
+      "shortId": "Q87FQ9",
+      "name": "Chacha",
+      "role": "USER",
+      "level": 95
+    },
+    "message": "sell mythical skin on market, i wanna buy",
+    "timestamp": "2026-05-14T09:35:30.996Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "080e4809-a68a-46b2-a014-5a07bce503ab",
+      "shortId": "Q87FQ9",
+      "name": "Chacha",
+      "role": "USER",
+      "level": 95
+    },
+    "message": "Buy eve in market for 500000",
+    "timestamp": "2026-05-14T15:30:06.536Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "080e4809-a68a-46b2-a014-5a07bce503ab",
+      "shortId": "Q87FQ9",
+      "name": "Chacha",
+      "role": "USER",
+      "level": 95
+    },
+    "message": "Buy thriller for 22000",
+    "timestamp": "2026-05-14T15:30:22.775Z"
   }
 ]
