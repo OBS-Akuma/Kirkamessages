@@ -34,5 +34,17 @@
     },
     "message": "tr [Milkyway||BODY_SKIN|MYTHICAL] lf goldens",
     "timestamp": "2026-05-08T10:54:03.072Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "586b6fb0-011f-4373-90fc-b7d97600b89b",
+      "shortId": "6KIQAM",
+      "name": "Koenigsegg_v8",
+      "role": "USER",
+      "level": 84
+    },
+    "message": "[Cyber|LAR|WEAPON_SKIN|LEGENDARY]",
+    "timestamp": "2026-05-15T01:58:57.518Z"
   }
 ]
