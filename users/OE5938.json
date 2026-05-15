@@ -10,5 +10,17 @@
     },
     "message": "/price [Empress|VITA|WEAPON_SKIN|LEGENDARY]",
     "timestamp": "2026-05-09T05:57:46.044Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "b35405de-6bc7-446f-bdac-3389dbac655c",
+      "shortId": "OE5938",
+      "name": "boop",
+      "role": "USER",
+      "level": 98
+    },
+    "message": "#I41B58",
+    "timestamp": "2026-05-15T08:47:27.554Z"
   }
 ]
