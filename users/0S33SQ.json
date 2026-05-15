@@ -178,5 +178,113 @@
     },
     "message": "#609GEM hm do you offer for it?",
     "timestamp": "2026-05-14T08:56:39.447Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "6e96cbad-888e-4efd-bd88-73b43c669daf",
+      "shortId": "0S33SQ",
+      "name": "-CAT-",
+      "role": "USER",
+      "level": 99
+    },
+    "message": "hm for slasher?",
+    "timestamp": "2026-05-15T07:49:24.068Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "6e96cbad-888e-4efd-bd88-73b43c669daf",
+      "shortId": "0S33SQ",
+      "name": "-CAT-",
+      "role": "USER",
+      "level": 99
+    },
+    "message": "/price [Turtle|Bayonet|WEAPON_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-15T07:52:13.883Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "6e96cbad-888e-4efd-bd88-73b43c669daf",
+      "shortId": "0S33SQ",
+      "name": "-CAT-",
+      "role": "USER",
+      "level": 99
+    },
+    "message": "/locate [Turtle|Bayonet|WEAPON_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-15T08:02:00.959Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "6e96cbad-888e-4efd-bd88-73b43c669daf",
+      "shortId": "0S33SQ",
+      "name": "-CAT-",
+      "role": "USER",
+      "level": 99
+    },
+    "message": "?",
+    "timestamp": "2026-05-15T08:02:33.155Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "6e96cbad-888e-4efd-bd88-73b43c669daf",
+      "shortId": "0S33SQ",
+      "name": "-CAT-",
+      "role": "USER",
+      "level": 99
+    },
+    "message": "/price [Firedemon||BODY_SKIN|LEGENDARY]",
+    "timestamp": "2026-05-15T08:12:11.309Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "6e96cbad-888e-4efd-bd88-73b43c669daf",
+      "shortId": "0S33SQ",
+      "name": "-CAT-",
+      "role": "USER",
+      "level": 99
+    },
+    "message": "/ni",
+    "timestamp": "2026-05-15T08:14:48.704Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "6e96cbad-888e-4efd-bd88-73b43c669daf",
+      "shortId": "0S33SQ",
+      "name": "-CAT-",
+      "role": "USER",
+      "level": 99
+    },
+    "message": "/ni p1",
+    "timestamp": "2026-05-15T08:15:03.475Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "6e96cbad-888e-4efd-bd88-73b43c669daf",
+      "shortId": "0S33SQ",
+      "name": "-CAT-",
+      "role": "USER",
+      "level": 99
+    },
+    "message": "hm you want for [Vocaloid|SCAR|WEAPON_SKIN|LEGENDARY]?",
+    "timestamp": "2026-05-15T08:15:49.037Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "6e96cbad-888e-4efd-bd88-73b43c669daf",
+      "shortId": "0S33SQ",
+      "name": "-CAT-",
+      "role": "USER",
+      "level": 99
+    },
+    "message": "11k?",
+    "timestamp": "2026-05-15T08:16:11.315Z"
   }
 ]
