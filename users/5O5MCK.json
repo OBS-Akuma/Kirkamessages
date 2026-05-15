@@ -22,5 +22,89 @@
     },
     "message": "/hm [Blackout|Revolver|WEAPON_SKIN|LEGENDARY]",
     "timestamp": "2026-05-15T07:26:43.845Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "27b122e7-ea07-4af4-b250-85c9f5ff195a",
+      "shortId": "5O5MCK",
+      "name": "Returned",
+      "role": "USER",
+      "level": 10
+    },
+    "message": "/hm [Lux|LAR|WEAPON_SKIN|LEGENDARY]",
+    "timestamp": "2026-05-15T09:40:35.736Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "27b122e7-ea07-4af4-b250-85c9f5ff195a",
+      "shortId": "5O5MCK",
+      "name": "Returned",
+      "role": "USER",
+      "level": 10
+    },
+    "message": "/inv",
+    "timestamp": "2026-05-15T09:41:46.191Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "27b122e7-ea07-4af4-b250-85c9f5ff195a",
+      "shortId": "5O5MCK",
+      "name": "Returned",
+      "role": "USER",
+      "level": 10
+    },
+    "message": "[Twitch||BODY_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-15T09:43:32.035Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "27b122e7-ea07-4af4-b250-85c9f5ff195a",
+      "shortId": "5O5MCK",
+      "name": "Returned",
+      "role": "USER",
+      "level": 10
+    },
+    "message": "[zg]",
+    "timestamp": "2026-05-15T09:43:44.105Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "27b122e7-ea07-4af4-b250-85c9f5ff195a",
+      "shortId": "5O5MCK",
+      "name": "Returned",
+      "role": "USER",
+      "level": 10
+    },
+    "message": "[zgmario]",
+    "timestamp": "2026-05-15T09:43:51.227Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "27b122e7-ea07-4af4-b250-85c9f5ff195a",
+      "shortId": "5O5MCK",
+      "name": "Returned",
+      "role": "USER",
+      "level": 10
+    },
+    "message": "/hm [Forge|Bayonet|WEAPON_SKIN|LEGENDARY]",
+    "timestamp": "2026-05-15T09:47:30.032Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "27b122e7-ea07-4af4-b250-85c9f5ff195a",
+      "shortId": "5O5MCK",
+      "name": "Returned",
+      "role": "USER",
+      "level": 10
+    },
+    "message": "/hm [Gold|VITA|WEAPON_SKIN|LEGENDARY]",
+    "timestamp": "2026-05-15T09:48:04.754Z"
   }
 ]
