@@ -34,5 +34,17 @@
     },
     "message": "pls ready",
     "timestamp": "2026-05-11T04:56:12.285Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "PzkylprTgrbuGxbvDsEUtmHFoBz1",
+      "shortId": "1WCTBY",
+      "name": "Geno_Soldier",
+      "role": "USER",
+      "level": 86
+    },
+    "message": "/price capicorn",
+    "timestamp": "2026-05-15T06:09:20.801Z"
   }
 ]
