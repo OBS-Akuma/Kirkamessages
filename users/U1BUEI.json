@@ -298,5 +298,17 @@
     },
     "message": "/inv",
     "timestamp": "2026-05-13T20:13:57.990Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "455090b1-947f-4466-9511-e5f91fc2245b",
+      "shortId": "U1BUEI",
+      "name": "dispersion",
+      "role": "USER",
+      "level": 101
+    },
+    "message": "/get [daniel]",
+    "timestamp": "2026-05-14T21:23:48.737Z"
   }
 ]
