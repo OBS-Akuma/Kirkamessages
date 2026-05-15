@@ -1,0 +1,38 @@
+[
+  {
+    "type": 2,
+    "user": {
+      "id": "749bbf88-ff8d-4a3d-9b0f-249188de6a6b",
+      "shortId": "LBXIW2",
+      "name": "[GLIV]yuan",
+      "role": "USER",
+      "level": 62
+    },
+    "message": "/inv",
+    "timestamp": "2026-05-15T19:06:34.265Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "749bbf88-ff8d-4a3d-9b0f-249188de6a6b",
+      "shortId": "LBXIW2",
+      "name": "[GLIV]yuan",
+      "role": "USER",
+      "level": 62
+    },
+    "message": "if i finish quests now do i still get the skins",
+    "timestamp": "2026-05-15T19:07:20.954Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "749bbf88-ff8d-4a3d-9b0f-249188de6a6b",
+      "shortId": "LBXIW2",
+      "name": "[GLIV]yuan",
+      "role": "USER",
+      "level": 62
+    },
+    "message": "or am i wasting my time",
+    "timestamp": "2026-05-15T19:07:29.795Z"
+  }
+]
