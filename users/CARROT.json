@@ -670,5 +670,29 @@
     },
     "message": "[Snowbun||BODY_SKIN|MYTHICAL]",
     "timestamp": "2026-05-13T09:55:56.836Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "b1beaf45-5b0f-40e2-81dc-a34f8a974395",
+      "shortId": "CARROT",
+      "name": "BMW|Tomato",
+      "role": "USER",
+      "level": 101
+    },
+    "message": "..",
+    "timestamp": "2026-05-15T12:09:01.570Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "b1beaf45-5b0f-40e2-81dc-a34f8a974395",
+      "shortId": "CARROT",
+      "name": "BMW|Tomato",
+      "role": "USER",
+      "level": 101
+    },
+    "message": "[Snowbun||BODY_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-15T12:09:06.525Z"
   }
 ]
