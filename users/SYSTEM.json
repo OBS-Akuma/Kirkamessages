@@ -358,5 +358,29 @@
     },
     "message": "but there are more",
     "timestamp": "2026-05-14T13:25:16.878Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "42e6ee78-49ef-467a-80b8-4adf017d5834",
+      "shortId": "SYSTEM",
+      "name": "Glowing Dev",
+      "role": "USER",
+      "level": 100
+    },
+    "message": "#SYSTEM",
+    "timestamp": "2026-05-15T19:14:59.245Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "42e6ee78-49ef-467a-80b8-4adf017d5834",
+      "shortId": "SYSTEM",
+      "name": "Glowing Dev",
+      "role": "USER",
+      "level": 100
+    },
+    "message": "#GLOWIN",
+    "timestamp": "2026-05-15T19:15:23.023Z"
   }
 ]
