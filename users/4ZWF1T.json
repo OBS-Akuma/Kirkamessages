@@ -56,7 +56,7 @@
       "role": "USER",
       "level": 95
     },
-    "message": "osfrid t'es là?",
+    "message": "osfrid t'es lÃ ?",
     "timestamp": "2026-05-15T09:36:12.951Z"
   },
   {
@@ -152,7 +152,895 @@
       "role": "USER",
       "level": 95
     },
-    "message": "ok chloë lemme see",
+    "message": "ok chloÃ« lemme see",
     "timestamp": "2026-05-15T09:37:34.325Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "eqEdtM9UiARxgezoiqjp2lGSAbw1",
+      "shortId": "4ZWF1T",
+      "name": "Dionysus",
+      "role": "USER",
+      "level": 95
+    },
+    "message": "osfrid t'es là?",
+    "timestamp": "2026-05-15T09:38:11.009Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "eqEdtM9UiARxgezoiqjp2lGSAbw1",
+      "shortId": "4ZWF1T",
+      "name": "Dionysus",
+      "role": "USER",
+      "level": 95
+    },
+    "message": "fais /trade accept 81738",
+    "timestamp": "2026-05-15T09:38:26.736Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "eqEdtM9UiARxgezoiqjp2lGSAbw1",
+      "shortId": "4ZWF1T",
+      "name": "Dionysus",
+      "role": "USER",
+      "level": 95
+    },
+    "message": "chloë u want [Thief|VITA|WEAPON_SKIN|LEGENDARY]?",
+    "timestamp": "2026-05-15T09:38:35.420Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "eqEdtM9UiARxgezoiqjp2lGSAbw1",
+      "shortId": "4ZWF1T",
+      "name": "Dionysus",
+      "role": "USER",
+      "level": 95
+    },
+    "message": "k",
+    "timestamp": "2026-05-15T09:38:48.733Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "eqEdtM9UiARxgezoiqjp2lGSAbw1",
+      "shortId": "4ZWF1T",
+      "name": "Dionysus",
+      "role": "USER",
+      "level": 95
+    },
+    "message": "do the trade chloë",
+    "timestamp": "2026-05-15T09:39:25.905Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "eqEdtM9UiARxgezoiqjp2lGSAbw1",
+      "shortId": "4ZWF1T",
+      "name": "Dionysus",
+      "role": "USER",
+      "level": 95
+    },
+    "message": "ah",
+    "timestamp": "2026-05-15T09:39:30.899Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "eqEdtM9UiARxgezoiqjp2lGSAbw1",
+      "shortId": "4ZWF1T",
+      "name": "Dionysus",
+      "role": "USER",
+      "level": 95
+    },
+    "message": "buy one in shop if u want",
+    "timestamp": "2026-05-15T09:39:35.638Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "eqEdtM9UiARxgezoiqjp2lGSAbw1",
+      "shortId": "4ZWF1T",
+      "name": "Dionysus",
+      "role": "USER",
+      "level": 95
+    },
+    "message": "k",
+    "timestamp": "2026-05-15T09:39:37.257Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "eqEdtM9UiARxgezoiqjp2lGSAbw1",
+      "shortId": "4ZWF1T",
+      "name": "Dionysus",
+      "role": "USER",
+      "level": 95
+    },
+    "message": "can u do the command?",
+    "timestamp": "2026-05-15T09:40:07.958Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "eqEdtM9UiARxgezoiqjp2lGSAbw1",
+      "shortId": "4ZWF1T",
+      "name": "Dionysus",
+      "role": "USER",
+      "level": 95
+    },
+    "message": "c'est /trade accept 81738 mec",
+    "timestamp": "2026-05-15T09:40:35.591Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "eqEdtM9UiARxgezoiqjp2lGSAbw1",
+      "shortId": "4ZWF1T",
+      "name": "Dionysus",
+      "role": "USER",
+      "level": 95
+    },
+    "message": "k",
+    "timestamp": "2026-05-15T09:41:05.794Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "eqEdtM9UiARxgezoiqjp2lGSAbw1",
+      "shortId": "4ZWF1T",
+      "name": "Dionysus",
+      "role": "USER",
+      "level": 95
+    },
+    "message": "mets le / avant",
+    "timestamp": "2026-05-15T09:41:34.276Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "eqEdtM9UiARxgezoiqjp2lGSAbw1",
+      "shortId": "4ZWF1T",
+      "name": "Dionysus",
+      "role": "USER",
+      "level": 95
+    },
+    "message": "comme /trade accept 81738",
+    "timestamp": "2026-05-15T09:41:42.863Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "eqEdtM9UiARxgezoiqjp2lGSAbw1",
+      "shortId": "4ZWF1T",
+      "name": "Dionysus",
+      "role": "USER",
+      "level": 95
+    },
+    "message": "chloë sorry im giving smthg to an other friend but do the command for the thief",
+    "timestamp": "2026-05-15T09:42:14.685Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "eqEdtM9UiARxgezoiqjp2lGSAbw1",
+      "shortId": "4ZWF1T",
+      "name": "Dionysus",
+      "role": "USER",
+      "level": 95
+    },
+    "message": "pls",
+    "timestamp": "2026-05-15T09:42:16.181Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "eqEdtM9UiARxgezoiqjp2lGSAbw1",
+      "shortId": "4ZWF1T",
+      "name": "Dionysus",
+      "role": "USER",
+      "level": 95
+    },
+    "message": "mets pas d'escpace entre le / et le trade",
+    "timestamp": "2026-05-15T09:42:51.193Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "eqEdtM9UiARxgezoiqjp2lGSAbw1",
+      "shortId": "4ZWF1T",
+      "name": "Dionysus",
+      "role": "USER",
+      "level": 95
+    },
+    "message": "osfrid copie exactement ce que j'écrie",
+    "timestamp": "2026-05-15T09:42:58.955Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "eqEdtM9UiARxgezoiqjp2lGSAbw1",
+      "shortId": "4ZWF1T",
+      "name": "Dionysus",
+      "role": "USER",
+      "level": 95
+    },
+    "message": "mets /trade accept 81738",
+    "timestamp": "2026-05-15T09:43:45.094Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "eqEdtM9UiARxgezoiqjp2lGSAbw1",
+      "shortId": "4ZWF1T",
+      "name": "Dionysus",
+      "role": "USER",
+      "level": 95
+    },
+    "message": "exactement",
+    "timestamp": "2026-05-15T09:43:49.833Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "eqEdtM9UiARxgezoiqjp2lGSAbw1",
+      "shortId": "4ZWF1T",
+      "name": "Dionysus",
+      "role": "USER",
+      "level": 95
+    },
+    "message": "chloe do /trade offer my:[Wood||CHEST|COMMON] your:[Thief|VITA|WEAPON_SKIN|LEGENDARY]",
+    "timestamp": "2026-05-15T09:44:08.219Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "eqEdtM9UiARxgezoiqjp2lGSAbw1",
+      "shortId": "4ZWF1T",
+      "name": "Dionysus",
+      "role": "USER",
+      "level": 95
+    },
+    "message": "psykro raboule un skin ouesh",
+    "timestamp": "2026-05-15T09:44:25.508Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "eqEdtM9UiARxgezoiqjp2lGSAbw1",
+      "shortId": "4ZWF1T",
+      "name": "Dionysus",
+      "role": "USER",
+      "level": 95
+    },
+    "message": "nan",
+    "timestamp": "2026-05-15T09:44:42.517Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "eqEdtM9UiARxgezoiqjp2lGSAbw1",
+      "shortId": "4ZWF1T",
+      "name": "Dionysus",
+      "role": "USER",
+      "level": 95
+    },
+    "message": "fais /trade accept 81738",
+    "timestamp": "2026-05-15T09:44:53.501Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "eqEdtM9UiARxgezoiqjp2lGSAbw1",
+      "shortId": "4ZWF1T",
+      "name": "Dionysus",
+      "role": "USER",
+      "level": 95
+    },
+    "message": "done",
+    "timestamp": "2026-05-15T09:45:27.421Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "eqEdtM9UiARxgezoiqjp2lGSAbw1",
+      "shortId": "4ZWF1T",
+      "name": "Dionysus",
+      "role": "USER",
+      "level": 95
+    },
+    "message": "npp",
+    "timestamp": "2026-05-15T09:45:32.409Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "eqEdtM9UiARxgezoiqjp2lGSAbw1",
+      "shortId": "4ZWF1T",
+      "name": "Dionysus",
+      "role": "USER",
+      "level": 95
+    },
+    "message": "xD osfrid mets le / comme ça / pas comme ça \\",
+    "timestamp": "2026-05-15T09:45:53.247Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "eqEdtM9UiARxgezoiqjp2lGSAbw1",
+      "shortId": "4ZWF1T",
+      "name": "Dionysus",
+      "role": "USER",
+      "level": 95
+    },
+    "message": "juste /trade accept 81738",
+    "timestamp": "2026-05-15T09:46:01.841Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "eqEdtM9UiARxgezoiqjp2lGSAbw1",
+      "shortId": "4ZWF1T",
+      "name": "Dionysus",
+      "role": "USER",
+      "level": 95
+    },
+    "message": "ah bah bye alors",
+    "timestamp": "2026-05-15T09:46:41.479Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "eqEdtM9UiARxgezoiqjp2lGSAbw1",
+      "shortId": "4ZWF1T",
+      "name": "Dionysus",
+      "role": "USER",
+      "level": 95
+    },
+    "message": "trading [Polar||BODY_SKIN|MYTHICAL]x2,[Ghillie||BODY_SKIN|MYTHICAL],[Melody||BODY_SKIN|MYTHICAL],[Uranium||BODY_SKIN|MYTHICAL],[Supermother||BODY_SKIN|MYTHICAL],[Cookie||BODY_SKIN|MYTHICAL],[Scorcher|Shark|WEAPON_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-15T09:47:41.727Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "eqEdtM9UiARxgezoiqjp2lGSAbw1",
+      "shortId": "4ZWF1T",
+      "name": "Dionysus",
+      "role": "USER",
+      "level": 95
+    },
+    "message": "i have [Ghillie||BODY_SKIN|MYTHICAL] #4MIACI",
+    "timestamp": "2026-05-15T09:48:04.482Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "eqEdtM9UiARxgezoiqjp2lGSAbw1",
+      "shortId": "4ZWF1T",
+      "name": "Dionysus",
+      "role": "USER",
+      "level": 95
+    },
+    "message": "offer",
+    "timestamp": "2026-05-15T09:48:07.020Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "eqEdtM9UiARxgezoiqjp2lGSAbw1",
+      "shortId": "4ZWF1T",
+      "name": "Dionysus",
+      "role": "USER",
+      "level": 95
+    },
+    "message": "trading [Ghillie||BODY_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-15T09:48:21.390Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "eqEdtM9UiARxgezoiqjp2lGSAbw1",
+      "shortId": "4ZWF1T",
+      "name": "Dionysus",
+      "role": "USER",
+      "level": 95
+    },
+    "message": "#609GEM offer for [Polar||BODY_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-15T09:48:52.631Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "eqEdtM9UiARxgezoiqjp2lGSAbw1",
+      "shortId": "4ZWF1T",
+      "name": "Dionysus",
+      "role": "USER",
+      "level": 95
+    },
+    "message": "sure #609GEM do trade",
+    "timestamp": "2026-05-15T09:49:16.330Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "eqEdtM9UiARxgezoiqjp2lGSAbw1",
+      "shortId": "4ZWF1T",
+      "name": "Dionysus",
+      "role": "USER",
+      "level": 95
+    },
+    "message": "yes?",
+    "timestamp": "2026-05-15T09:49:29.124Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "eqEdtM9UiARxgezoiqjp2lGSAbw1",
+      "shortId": "4ZWF1T",
+      "name": "Dionysus",
+      "role": "USER",
+      "level": 95
+    },
+    "message": "go on DAILY",
+    "timestamp": "2026-05-15T09:49:49.846Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "eqEdtM9UiARxgezoiqjp2lGSAbw1",
+      "shortId": "4ZWF1T",
+      "name": "Dionysus",
+      "role": "USER",
+      "level": 95
+    },
+    "message": "uhh nty i dont like [Slime||BODY_SKIN|MYTHICAL] :l sorry",
+    "timestamp": "2026-05-15T09:50:05.887Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "eqEdtM9UiARxgezoiqjp2lGSAbw1",
+      "shortId": "4ZWF1T",
+      "name": "Dionysus",
+      "role": "USER",
+      "level": 95
+    },
+    "message": "w",
+    "timestamp": "2026-05-15T09:50:23.806Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "eqEdtM9UiARxgezoiqjp2lGSAbw1",
+      "shortId": "4ZWF1T",
+      "name": "Dionysus",
+      "role": "USER",
+      "level": 95
+    },
+    "message": "i have [Lustre|Bayonet|WEAPON_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-15T09:50:28.346Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "eqEdtM9UiARxgezoiqjp2lGSAbw1",
+      "shortId": "4ZWF1T",
+      "name": "Dionysus",
+      "role": "USER",
+      "level": 95
+    },
+    "message": "gg",
+    "timestamp": "2026-05-15T09:50:32.380Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "eqEdtM9UiARxgezoiqjp2lGSAbw1",
+      "shortId": "4ZWF1T",
+      "name": "Dionysus",
+      "role": "USER",
+      "level": 95
+    },
+    "message": "offer",
+    "timestamp": "2026-05-15T09:50:36.744Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "eqEdtM9UiARxgezoiqjp2lGSAbw1",
+      "shortId": "4ZWF1T",
+      "name": "Dionysus",
+      "role": "USER",
+      "level": 95
+    },
+    "message": "nty",
+    "timestamp": "2026-05-15T09:50:47.347Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "eqEdtM9UiARxgezoiqjp2lGSAbw1",
+      "shortId": "4ZWF1T",
+      "name": "Dionysus",
+      "role": "USER",
+      "level": 95
+    },
+    "message": "chloë hm for [Starship||BODY_SKIN|MYTHICAL]?",
+    "timestamp": "2026-05-15T09:51:40.425Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "eqEdtM9UiARxgezoiqjp2lGSAbw1",
+      "shortId": "4ZWF1T",
+      "name": "Dionysus",
+      "role": "USER",
+      "level": 95
+    },
+    "message": "dont accept bros trade [Melody||BODY_SKIN|MYTHICAL] is so hard to trade",
+    "timestamp": "2026-05-15T09:52:12.744Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "eqEdtM9UiARxgezoiqjp2lGSAbw1",
+      "shortId": "4ZWF1T",
+      "name": "Dionysus",
+      "role": "USER",
+      "level": 95
+    },
+    "message": "uhh lemme see",
+    "timestamp": "2026-05-15T09:52:35.228Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "eqEdtM9UiARxgezoiqjp2lGSAbw1",
+      "shortId": "4ZWF1T",
+      "name": "Dionysus",
+      "role": "USER",
+      "level": 95
+    },
+    "message": "/price [Starship||BODY_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-15T09:53:21.463Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "eqEdtM9UiARxgezoiqjp2lGSAbw1",
+      "shortId": "4ZWF1T",
+      "name": "Dionysus",
+      "role": "USER",
+      "level": 95
+    },
+    "message": "chloë my [Scorcher|Shark|WEAPON_SKIN|MYTHICAL] for ur [Starship||BODY_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-15T09:53:37.470Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "eqEdtM9UiARxgezoiqjp2lGSAbw1",
+      "shortId": "4ZWF1T",
+      "name": "Dionysus",
+      "role": "USER",
+      "level": 95
+    },
+    "message": "#O1E906 offer for [Lustre|Bayonet|WEAPON_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-15T09:54:02.044Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "eqEdtM9UiARxgezoiqjp2lGSAbw1",
+      "shortId": "4ZWF1T",
+      "name": "Dionysus",
+      "role": "USER",
+      "level": 95
+    },
+    "message": "yoo wizar",
+    "timestamp": "2026-05-15T09:54:04.249Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "eqEdtM9UiARxgezoiqjp2lGSAbw1",
+      "shortId": "4ZWF1T",
+      "name": "Dionysus",
+      "role": "USER",
+      "level": 95
+    },
+    "message": "oh np chloë",
+    "timestamp": "2026-05-15T09:54:08.054Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "eqEdtM9UiARxgezoiqjp2lGSAbw1",
+      "shortId": "4ZWF1T",
+      "name": "Dionysus",
+      "role": "USER",
+      "level": 95
+    },
+    "message": "k",
+    "timestamp": "2026-05-15T09:54:27.360Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "eqEdtM9UiARxgezoiqjp2lGSAbw1",
+      "shortId": "4ZWF1T",
+      "name": "Dionysus",
+      "role": "USER",
+      "level": 95
+    },
+    "message": "salut$",
+    "timestamp": "2026-05-15T09:55:15.762Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "eqEdtM9UiARxgezoiqjp2lGSAbw1",
+      "shortId": "4ZWF1T",
+      "name": "Dionysus",
+      "role": "USER",
+      "level": 95
+    },
+    "message": "no sorry i dont trade for [goldens] sorry :l",
+    "timestamp": "2026-05-15T09:56:03.721Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "eqEdtM9UiARxgezoiqjp2lGSAbw1",
+      "shortId": "4ZWF1T",
+      "name": "Dionysus",
+      "role": "USER",
+      "level": 95
+    },
+    "message": "nah bro sorry",
+    "timestamp": "2026-05-15T09:56:37.261Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "eqEdtM9UiARxgezoiqjp2lGSAbw1",
+      "shortId": "4ZWF1T",
+      "name": "Dionysus",
+      "role": "USER",
+      "level": 95
+    },
+    "message": "trading [Pastel||BODY_SKIN|MYTHICAL][Polar||BODY_SKIN|MYTHICAL][Ghillie||BODY_SKIN|MYTHICAL][Melody||BODY_SKIN|MYTHICAL][Uranium||BODY_SKIN|MYTHICAL][Scorcher|Shark|WEAPON_SKIN|MYTHICAL]x2[Cookie||BODY_SKIN|MYTHICAL][supermothe",
+    "timestamp": "2026-05-15T09:59:14.060Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "eqEdtM9UiARxgezoiqjp2lGSAbw1",
+      "shortId": "4ZWF1T",
+      "name": "Dionysus",
+      "role": "USER",
+      "level": 95
+    },
+    "message": "yeh",
+    "timestamp": "2026-05-15T09:59:27.214Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "eqEdtM9UiARxgezoiqjp2lGSAbw1",
+      "shortId": "4ZWF1T",
+      "name": "Dionysus",
+      "role": "USER",
+      "level": 95
+    },
+    "message": "uhh nty",
+    "timestamp": "2026-05-15T09:59:29.893Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "eqEdtM9UiARxgezoiqjp2lGSAbw1",
+      "shortId": "4ZWF1T",
+      "name": "Dionysus",
+      "role": "USER",
+      "level": 95
+    },
+    "message": "nah bro i already cant trade my melody xDDD",
+    "timestamp": "2026-05-15T09:59:59.143Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "eqEdtM9UiARxgezoiqjp2lGSAbw1",
+      "shortId": "4ZWF1T",
+      "name": "Dionysus",
+      "role": "USER",
+      "level": 95
+    },
+    "message": "sorry",
+    "timestamp": "2026-05-15T10:00:06.609Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "eqEdtM9UiARxgezoiqjp2lGSAbw1",
+      "shortId": "4ZWF1T",
+      "name": "Dionysus",
+      "role": "USER",
+      "level": 95
+    },
+    "message": "xD",
+    "timestamp": "2026-05-15T10:00:08.116Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "eqEdtM9UiARxgezoiqjp2lGSAbw1",
+      "shortId": "4ZWF1T",
+      "name": "Dionysus",
+      "role": "USER",
+      "level": 95
+    },
+    "message": "fah i had hearts",
+    "timestamp": "2026-05-15T10:00:56.068Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "eqEdtM9UiARxgezoiqjp2lGSAbw1",
+      "shortId": "4ZWF1T",
+      "name": "Dionysus",
+      "role": "USER",
+      "level": 95
+    },
+    "message": "got hard scammed",
+    "timestamp": "2026-05-15T10:01:00.557Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "eqEdtM9UiARxgezoiqjp2lGSAbw1",
+      "shortId": "4ZWF1T",
+      "name": "Dionysus",
+      "role": "USER",
+      "level": 95
+    },
+    "message": "ouesh",
+    "timestamp": "2026-05-15T10:06:08.172Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "eqEdtM9UiARxgezoiqjp2lGSAbw1",
+      "shortId": "4ZWF1T",
+      "name": "Dionysus",
+      "role": "USER",
+      "level": 95
+    },
+    "message": "daniel hm for [Nyan Shark|Shark|WEAPON_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-15T10:06:26.079Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "eqEdtM9UiARxgezoiqjp2lGSAbw1",
+      "shortId": "4ZWF1T",
+      "name": "Dionysus",
+      "role": "USER",
+      "level": 95
+    },
+    "message": "lf toma skins",
+    "timestamp": "2026-05-15T10:07:52.781Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "eqEdtM9UiARxgezoiqjp2lGSAbw1",
+      "shortId": "4ZWF1T",
+      "name": "Dionysus",
+      "role": "USER",
+      "level": 95
+    },
+    "message": "iWin",
+    "timestamp": "2026-05-15T10:12:42.607Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "eqEdtM9UiARxgezoiqjp2lGSAbw1",
+      "shortId": "4ZWF1T",
+      "name": "Dionysus",
+      "role": "USER",
+      "level": 95
+    },
+    "message": "trading [Ghillie||BODY_SKIN|MYTHICAL] overlord",
+    "timestamp": "2026-05-15T10:12:51.814Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "eqEdtM9UiARxgezoiqjp2lGSAbw1",
+      "shortId": "4ZWF1T",
+      "name": "Dionysus",
+      "role": "USER",
+      "level": 95
+    },
+    "message": "iWin my rasta for your adora",
+    "timestamp": "2026-05-15T10:13:00.980Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "eqEdtM9UiARxgezoiqjp2lGSAbw1",
+      "shortId": "4ZWF1T",
+      "name": "Dionysus",
+      "role": "USER",
+      "level": 95
+    },
+    "message": "xDD",
+    "timestamp": "2026-05-15T10:13:10.446Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "eqEdtM9UiARxgezoiqjp2lGSAbw1",
+      "shortId": "4ZWF1T",
+      "name": "Dionysus",
+      "role": "USER",
+      "level": 95
+    },
+    "message": "overlord u want [Ghillie||BODY_SKIN|MYTHICAL]?",
+    "timestamp": "2026-05-15T10:13:27.906Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "eqEdtM9UiARxgezoiqjp2lGSAbw1",
+      "shortId": "4ZWF1T",
+      "name": "Dionysus",
+      "role": "USER",
+      "level": 95
+    },
+    "message": "offer?",
+    "timestamp": "2026-05-15T10:13:38.898Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "eqEdtM9UiARxgezoiqjp2lGSAbw1",
+      "shortId": "4ZWF1T",
+      "name": "Dionysus",
+      "role": "USER",
+      "level": 95
+    },
+    "message": "nty i already have :D",
+    "timestamp": "2026-05-15T10:14:01.182Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "eqEdtM9UiARxgezoiqjp2lGSAbw1",
+      "shortId": "4ZWF1T",
+      "name": "Dionysus",
+      "role": "USER",
+      "level": 95
+    },
+    "message": "i have every character card skin :l",
+    "timestamp": "2026-05-15T10:14:10.876Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "eqEdtM9UiARxgezoiqjp2lGSAbw1",
+      "shortId": "4ZWF1T",
+      "name": "Dionysus",
+      "role": "USER",
+      "level": 95
+    },
+    "message": "[Criminal||BODY_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-15T10:14:27.134Z"
   }
 ]
