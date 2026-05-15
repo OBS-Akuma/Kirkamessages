@@ -2206,5 +2206,17 @@
     },
     "message": "[Constellations|Bayonet|WEAPON_SKIN|MYTHICAL]",
     "timestamp": "2026-05-15T20:55:13.291Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "1c9cf342-5e36-47ce-86d7-096f4170995e",
+      "shortId": "2MHNQX",
+      "name": "Midnight",
+      "role": "USER",
+      "level": 101
+    },
+    "message": "/inv",
+    "timestamp": "2026-05-15T21:03:28.213Z"
   }
 ]
