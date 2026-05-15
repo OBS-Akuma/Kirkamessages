@@ -46,5 +46,29 @@
     },
     "message": "LF MARAGE",
     "timestamp": "2026-05-14T11:22:26.559Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "38e01fd7-411a-4b75-b212-13667848cc93",
+      "shortId": "NIFP7H",
+      "name": "minicables_pro",
+      "role": "USER",
+      "level": 100
+    },
+    "message": "#LWTE94",
+    "timestamp": "2026-05-15T08:30:44.025Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "38e01fd7-411a-4b75-b212-13667848cc93",
+      "shortId": "NIFP7H",
+      "name": "minicables_pro",
+      "role": "USER",
+      "level": 100
+    },
+    "message": "#Z97DD0",
+    "timestamp": "2026-05-15T09:27:15.407Z"
   }
 ]
