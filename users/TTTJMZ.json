@@ -22,5 +22,29 @@
     },
     "message": "mine 2.9 mil",
     "timestamp": "2026-05-14T01:33:21.997Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "78704b94-3e1c-4657-92fb-bcd45336f33a",
+      "shortId": "TTTJMZ",
+      "name": "idk/Jalex",
+      "role": "USER",
+      "level": 8
+    },
+    "message": "tradejade",
+    "timestamp": "2026-05-15T02:36:07.689Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "78704b94-3e1c-4657-92fb-bcd45336f33a",
+      "shortId": "TTTJMZ",
+      "name": "idk/Jalex",
+      "role": "USER",
+      "level": 8
+    },
+    "message": "(jade) for 120k",
+    "timestamp": "2026-05-15T02:39:52.076Z"
   }
 ]
