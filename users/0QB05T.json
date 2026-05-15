@@ -286,5 +286,77 @@
     },
     "message": "#FKKLN0 u got [RGB||BODY_SKIN|LEGENDARY]?",
     "timestamp": "2026-05-15T11:25:51.409Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "e4u8c8Arlhe0UjgaOd2kyHNFMEG2",
+      "shortId": "0QB05T",
+      "name": "ENDED_URCAREER",
+      "role": "USER",
+      "level": 31
+    },
+    "message": "TR [Oblivion|SCAR|WEAPON_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-15T22:06:49.078Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "e4u8c8Arlhe0UjgaOd2kyHNFMEG2",
+      "shortId": "0QB05T",
+      "name": "ENDED_URCAREER",
+      "role": "USER",
+      "level": 31
+    },
+    "message": "TR [Oblivion|SCAR|WEAPON_SKIN|MYTHICAL],[Ticketeer|SCAR|WEAPON_SKIN|MYTHICAL],[Moonlight|MAC-10|WEAPON_SKIN|MYTHICAL],[Drake|Bayonet|WEAPON_SKIN|MYTHICAL],[Anarch|Bayonet|WEAPON_SKIN|MYTHICAL] AND [Spearmint||BODY_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-15T22:08:32.822Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "e4u8c8Arlhe0UjgaOd2kyHNFMEG2",
+      "shortId": "0QB05T",
+      "name": "ENDED_URCAREER",
+      "role": "USER",
+      "level": 31
+    },
+    "message": "OH AND [Dragon Shark|Shark|WEAPON_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-15T22:08:55.323Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "e4u8c8Arlhe0UjgaOd2kyHNFMEG2",
+      "shortId": "0QB05T",
+      "name": "ENDED_URCAREER",
+      "role": "USER",
+      "level": 31
+    },
+    "message": "WHO HAS [RGB Black||BODY_SKIN|MYTHICAL] OR [RGB||BODY_SKIN|LEGENDARY]?",
+    "timestamp": "2026-05-15T22:10:22.407Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "e4u8c8Arlhe0UjgaOd2kyHNFMEG2",
+      "shortId": "0QB05T",
+      "name": "ENDED_URCAREER",
+      "role": "USER",
+      "level": 31
+    },
+    "message": "TR [Golden||CHEST|LEGENDARY]X800",
+    "timestamp": "2026-05-15T22:10:50.655Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "e4u8c8Arlhe0UjgaOd2kyHNFMEG2",
+      "shortId": "0QB05T",
+      "name": "ENDED_URCAREER",
+      "role": "USER",
+      "level": 31
+    },
+    "message": "TR [Oblivion|SCAR|WEAPON_SKIN|MYTHICAL],[Ticketeer|SCAR|WEAPON_SKIN|MYTHICAL] AND [Dragon Shark|Shark|WEAPON_SKIN|MYTHICAL]!!!!!!!!!",
+    "timestamp": "2026-05-15T22:15:39.109Z"
   }
 ]
