@@ -1,0 +1,26 @@
+[
+  {
+    "type": 2,
+    "user": {
+      "id": "B3f9SyDWzigG6gaLtOigPIJq2Wu2",
+      "shortId": "S0HLXV",
+      "name": "luci20",
+      "role": "USER",
+      "level": 10
+    },
+    "message": "hola",
+    "timestamp": "2026-05-15T01:13:43.113Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "B3f9SyDWzigG6gaLtOigPIJq2Wu2",
+      "shortId": "S0HLXV",
+      "name": "luci20",
+      "role": "USER",
+      "level": 10
+    },
+    "message": "?",
+    "timestamp": "2026-05-15T01:14:06.193Z"
+  }
+]
