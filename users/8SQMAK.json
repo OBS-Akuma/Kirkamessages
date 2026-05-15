@@ -2146,5 +2146,17 @@
     },
     "message": "/hm ghillie",
     "timestamp": "2026-05-14T13:36:49.494Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "e7ca017c-557f-4b21-96eb-3ec2a9a728ab",
+      "shortId": "8SQMAK",
+      "name": "Eri.",
+      "role": "USER",
+      "level": 57
+    },
+    "message": "/hm retro",
+    "timestamp": "2026-05-15T04:56:29.577Z"
   }
 ]
