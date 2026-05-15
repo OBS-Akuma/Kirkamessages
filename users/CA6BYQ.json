@@ -586,5 +586,137 @@
     },
     "message": "wager[Golden||CHEST|LEGENDARY]x100",
     "timestamp": "2026-05-12T12:57:05.019Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "b5f57409-092b-454d-87fa-3e149c32d5e0",
+      "shortId": "CA6BYQ",
+      "name": "Wizzy",
+      "role": "USER",
+      "level": 10
+    },
+    "message": "tr[Golden||CHEST|LEGENDARY]x2850",
+    "timestamp": "2026-05-15T10:28:57.496Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "b5f57409-092b-454d-87fa-3e149c32d5e0",
+      "shortId": "CA6BYQ",
+      "name": "Wizzy",
+      "role": "USER",
+      "level": 10
+    },
+    "message": "only 50",
+    "timestamp": "2026-05-15T10:29:10.522Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "b5f57409-092b-454d-87fa-3e149c32d5e0",
+      "shortId": "CA6BYQ",
+      "name": "Wizzy",
+      "role": "USER",
+      "level": 10
+    },
+    "message": "no",
+    "timestamp": "2026-05-15T10:29:17.806Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "b5f57409-092b-454d-87fa-3e149c32d5e0",
+      "shortId": "CA6BYQ",
+      "name": "Wizzy",
+      "role": "USER",
+      "level": 10
+    },
+    "message": "50",
+    "timestamp": "2026-05-15T10:29:19.191Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "b5f57409-092b-454d-87fa-3e149c32d5e0",
+      "shortId": "CA6BYQ",
+      "name": "Wizzy",
+      "role": "USER",
+      "level": 10
+    },
+    "message": "50 or no wager",
+    "timestamp": "2026-05-15T10:29:32.852Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "b5f57409-092b-454d-87fa-3e149c32d5e0",
+      "shortId": "CA6BYQ",
+      "name": "Wizzy",
+      "role": "USER",
+      "level": 10
+    },
+    "message": "zzz",
+    "timestamp": "2026-05-15T10:29:42.942Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "b5f57409-092b-454d-87fa-3e149c32d5e0",
+      "shortId": "CA6BYQ",
+      "name": "Wizzy",
+      "role": "USER",
+      "level": 10
+    },
+    "message": "tr[Golden||CHEST|LEGENDARY]x3000",
+    "timestamp": "2026-05-15T10:34:27.555Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "b5f57409-092b-454d-87fa-3e149c32d5e0",
+      "shortId": "CA6BYQ",
+      "name": "Wizzy",
+      "role": "USER",
+      "level": 10
+    },
+    "message": "[Gore||BODY_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-15T10:36:26.600Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "b5f57409-092b-454d-87fa-3e149c32d5e0",
+      "shortId": "CA6BYQ",
+      "name": "Wizzy",
+      "role": "USER",
+      "level": 10
+    },
+    "message": "tr[Golden||CHEST|LEGENDARY]x2850",
+    "timestamp": "2026-05-15T11:20:40.358Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "b5f57409-092b-454d-87fa-3e149c32d5e0",
+      "shortId": "CA6BYQ",
+      "name": "Wizzy",
+      "role": "USER",
+      "level": 10
+    },
+    "message": "/top10 vita",
+    "timestamp": "2026-05-15T11:20:50.723Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "b5f57409-092b-454d-87fa-3e149c32d5e0",
+      "shortId": "CA6BYQ",
+      "name": "Wizzy",
+      "role": "USER",
+      "level": 10
+    },
+    "message": "/price royalchamp",
+    "timestamp": "2026-05-15T11:30:19.478Z"
   }
 ]
