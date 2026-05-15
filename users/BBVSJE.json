@@ -1,0 +1,26 @@
+[
+  {
+    "type": 2,
+    "user": {
+      "id": "JDWVmZ0NUbbNjkVtuJbmyHPxK723",
+      "shortId": "BBVSJE",
+      "name": "Varna",
+      "role": "USER",
+      "level": 16
+    },
+    "message": "/ولد ممكن نلعب اي ماب ضد بعض",
+    "timestamp": "2026-05-15T21:32:10.125Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "JDWVmZ0NUbbNjkVtuJbmyHPxK723",
+      "shortId": "BBVSJE",
+      "name": "Varna",
+      "role": "USER",
+      "level": 16
+    },
+    "message": "حسام",
+    "timestamp": "2026-05-15T21:32:58.555Z"
+  }
+]
