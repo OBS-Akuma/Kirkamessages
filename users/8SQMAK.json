@@ -2218,5 +2218,17 @@
     },
     "message": "i want bok",
     "timestamp": "2026-05-15T11:53:31.903Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "e7ca017c-557f-4b21-96eb-3ec2a9a728ab",
+      "shortId": "8SQMAK",
+      "name": "Eri.",
+      "role": "USER",
+      "level": 58
+    },
+    "message": "/price hologram",
+    "timestamp": "2026-05-15T12:41:29.894Z"
   }
 ]
