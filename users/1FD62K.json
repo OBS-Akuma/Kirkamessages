@@ -1,0 +1,26 @@
+[
+  {
+    "type": 2,
+    "user": {
+      "id": "a277d10f-952b-4cb4-b111-49c94f167bd6",
+      "shortId": "1FD62K",
+      "name": "RedKnightZ1!",
+      "role": "USER",
+      "level": 10
+    },
+    "message": "hello",
+    "timestamp": "2026-05-15T02:38:28.486Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "a277d10f-952b-4cb4-b111-49c94f167bd6",
+      "shortId": "1FD62K",
+      "name": "RedKnightZ1!",
+      "role": "USER",
+      "level": 10
+    },
+    "message": "lex go im not banned lol",
+    "timestamp": "2026-05-15T02:38:48.088Z"
+  }
+]
