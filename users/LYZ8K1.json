@@ -370,5 +370,53 @@
     },
     "message": "$hit Ar-9 $hit Weatie tr",
     "timestamp": "2026-05-13T18:14:00.220Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "Nh3BNg2ScYUZF13uU2hL5iSXvxV2",
+      "shortId": "LYZ8K1",
+      "name": "Fork.",
+      "role": "USER",
+      "level": 84
+    },
+    "message": "/inv",
+    "timestamp": "2026-05-14T12:51:48.844Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "Nh3BNg2ScYUZF13uU2hL5iSXvxV2",
+      "shortId": "LYZ8K1",
+      "name": "Fork.",
+      "role": "USER",
+      "level": 84
+    },
+    "message": "/8 ball will a get leaderboard today",
+    "timestamp": "2026-05-15T13:45:02.100Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "Nh3BNg2ScYUZF13uU2hL5iSXvxV2",
+      "shortId": "LYZ8K1",
+      "name": "Fork.",
+      "role": "USER",
+      "level": 84
+    },
+    "message": "/8ball will I get leaderboard today",
+    "timestamp": "2026-05-15T13:45:27.209Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "Nh3BNg2ScYUZF13uU2hL5iSXvxV2",
+      "shortId": "LYZ8K1",
+      "name": "Fork.",
+      "role": "USER",
+      "level": 84
+    },
+    "message": "/8ball will  I get leaderboard today",
+    "timestamp": "2026-05-15T13:46:01.584Z"
   }
 ]
