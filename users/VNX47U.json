@@ -226,5 +226,65 @@
     },
     "message": "/locate slasher",
     "timestamp": "2026-05-14T09:29:46.555Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "8775fb1b-8c04-4d6b-8bd6-f8432e00d359",
+      "shortId": "VNX47U",
+      "name": "Mylo!",
+      "role": "USER",
+      "level": 43
+    },
+    "message": "who tf put [Drake|Bayonet|WEAPON_SKIN|MYTHICAL] on market for 4.1 mil, son",
+    "timestamp": "2026-05-15T07:57:02.936Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "8775fb1b-8c04-4d6b-8bd6-f8432e00d359",
+      "shortId": "VNX47U",
+      "name": "Mylo!",
+      "role": "USER",
+      "level": 43
+    },
+    "message": "what nitro",
+    "timestamp": "2026-05-15T07:57:25.156Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "8775fb1b-8c04-4d6b-8bd6-f8432e00d359",
+      "shortId": "VNX47U",
+      "name": "Mylo!",
+      "role": "USER",
+      "level": 43
+    },
+    "message": "okay?",
+    "timestamp": "2026-05-15T07:57:39.204Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "8775fb1b-8c04-4d6b-8bd6-f8432e00d359",
+      "shortId": "VNX47U",
+      "name": "Mylo!",
+      "role": "USER",
+      "level": 43
+    },
+    "message": "/last10 shroud",
+    "timestamp": "2026-05-15T07:57:52.471Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "8775fb1b-8c04-4d6b-8bd6-f8432e00d359",
+      "shortId": "VNX47U",
+      "name": "Mylo!",
+      "role": "USER",
+      "level": 43
+    },
+    "message": "/price honey",
+    "timestamp": "2026-05-15T08:00:17.273Z"
   }
 ]
