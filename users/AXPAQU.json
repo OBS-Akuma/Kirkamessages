@@ -430,5 +430,17 @@
     },
     "message": "/price [snow]",
     "timestamp": "2026-05-14T13:52:27.443Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "b5b01500-dd86-419d-a785-b769fb1bb75d",
+      "shortId": "AXPAQU",
+      "name": "Infinity",
+      "role": "USER",
+      "level": 98
+    },
+    "message": "why kirka is so bad now a days its too laggy too much issues",
+    "timestamp": "2026-05-15T13:48:33.388Z"
   }
 ]
