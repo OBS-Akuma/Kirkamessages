@@ -3128,7 +3128,7 @@
       "role": "USER",
       "level": 49
     },
-    "message": "ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ°ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ­",
+    "message": "ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ°ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ­",
     "timestamp": "2026-05-13T05:30:40.342Z"
   },
   {
@@ -3250,5 +3250,125 @@
     },
     "message": "void [honey boo]>>>>>>>>>[Rider||BODY_SKIN|MYTHICAL][Rose||BODY_SKIN|MYTHICAL]",
     "timestamp": "2026-05-13T05:40:52.833Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "af68d0f3-d7f6-4e9e-8cda-3689fb482610",
+      "shortId": "QM1SZL",
+      "name": "RIHAN",
+      "role": "USER",
+      "level": 49
+    },
+    "message": "wagering :[Golden||CHEST|LEGENDARY]x150",
+    "timestamp": "2026-05-14T10:10:16.447Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "af68d0f3-d7f6-4e9e-8cda-3689fb482610",
+      "shortId": "QM1SZL",
+      "name": "RIHAN",
+      "role": "USER",
+      "level": 49
+    },
+    "message": "/inv",
+    "timestamp": "2026-05-14T13:28:41.362Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "af68d0f3-d7f6-4e9e-8cda-3689fb482610",
+      "shortId": "QM1SZL",
+      "name": "RIHAN",
+      "role": "USER",
+      "level": 49
+    },
+    "message": "/locate [Majestic|Shark|WEAPON_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-14T13:28:46.758Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "af68d0f3-d7f6-4e9e-8cda-3689fb482610",
+      "shortId": "QM1SZL",
+      "name": "RIHAN",
+      "role": "USER",
+      "level": 49
+    },
+    "message": "aNYONE want [Twitch||BODY_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-14T14:27:48.153Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "af68d0f3-d7f6-4e9e-8cda-3689fb482610",
+      "shortId": "QM1SZL",
+      "name": "RIHAN",
+      "role": "USER",
+      "level": 49
+    },
+    "message": "PRIME",
+    "timestamp": "2026-05-14T14:28:07.001Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "af68d0f3-d7f6-4e9e-8cda-3689fb482610",
+      "shortId": "QM1SZL",
+      "name": "RIHAN",
+      "role": "USER",
+      "level": 49
+    },
+    "message": "PRIME bhai kuch do plss",
+    "timestamp": "2026-05-14T14:28:23.393Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "af68d0f3-d7f6-4e9e-8cda-3689fb482610",
+      "shortId": "QM1SZL",
+      "name": "RIHAN",
+      "role": "USER",
+      "level": 49
+    },
+    "message": "PRIME bhai ye tomare asli account nahi hai",
+    "timestamp": "2026-05-14T14:28:51.336Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "af68d0f3-d7f6-4e9e-8cda-3689fb482610",
+      "shortId": "QM1SZL",
+      "name": "RIHAN",
+      "role": "USER",
+      "level": 49
+    },
+    "message": "wagering [Golden||CHEST|LEGENDARY]x290",
+    "timestamp": "2026-05-14T14:51:10.436Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "af68d0f3-d7f6-4e9e-8cda-3689fb482610",
+      "shortId": "QM1SZL",
+      "name": "RIHAN",
+      "role": "USER",
+      "level": 49
+    },
+    "message": "wagering :[Golden||CHEST|LEGENDARY]x292",
+    "timestamp": "2026-05-14T16:13:04.910Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "af68d0f3-d7f6-4e9e-8cda-3689fb482610",
+      "shortId": "QM1SZL",
+      "name": "RIHAN",
+      "role": "USER",
+      "level": 49
+    },
+    "message": "wagering :[Golden||CHEST|LEGENDARY]x400",
+    "timestamp": "2026-05-14T16:13:50.830Z"
   }
 ]
