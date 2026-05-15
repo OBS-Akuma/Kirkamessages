@@ -910,5 +910,41 @@
     },
     "message": "[Regal|Shark|WEAPON_SKIN|MYTHICAL]",
     "timestamp": "2026-05-15T07:47:34.269Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "VDlzMXAa9DZPbZvebQ5vePHLeex2",
+      "shortId": "3XRCCU",
+      "name": "DABEYT",
+      "role": "USER",
+      "level": 68
+    },
+    "message": "/hm watermelon",
+    "timestamp": "2026-05-15T11:22:44.558Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "VDlzMXAa9DZPbZvebQ5vePHLeex2",
+      "shortId": "3XRCCU",
+      "name": "DABEYT",
+      "role": "USER",
+      "level": 68
+    },
+    "message": "/hm vampire",
+    "timestamp": "2026-05-15T11:22:54.540Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "VDlzMXAa9DZPbZvebQ5vePHLeex2",
+      "shortId": "3XRCCU",
+      "name": "DABEYT",
+      "role": "USER",
+      "level": 68
+    },
+    "message": "/vt 1",
+    "timestamp": "2026-05-15T11:50:22.299Z"
   }
 ]
