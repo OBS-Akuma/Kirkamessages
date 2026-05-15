@@ -1352,7 +1352,7 @@
       "role": "USER",
       "level": 80
     },
-    "message": "ã­ãã[ãµã¤ãã¼ã¹ã«ã¼]ãè¦ã¤ãã¦ãããªãï¼",
+    "message": "Ã£ÂÂ­Ã£ÂÂÃ£ÂÂ[Ã£ÂÂµÃ£ÂÂ¤Ã£ÂÂÃ£ÂÂ¼Ã£ÂÂ¹Ã£ÂÂ«Ã£ÂÂ¼]Ã£ÂÂÃ¨Â¦ÂÃ£ÂÂ¤Ã£ÂÂÃ£ÂÂ¦Ã£ÂÂÃ£ÂÂÃ£ÂÂªÃ£ÂÂÃ¯Â¼Â",
     "timestamp": "2026-05-15T13:22:00.506Z"
   },
   {
@@ -1376,7 +1376,7 @@
       "role": "USER",
       "level": 80
     },
-    "message": "ã­ãã[ãµã¤ãã¼ã¹ã«ã¼]ãè¦ã¤ãã¦ãããªãï¼",
+    "message": "Ã£ÂÂ­Ã£ÂÂÃ£ÂÂ[Ã£ÂÂµÃ£ÂÂ¤Ã£ÂÂÃ£ÂÂ¼Ã£ÂÂ¹Ã£ÂÂ«Ã£ÂÂ¼]Ã£ÂÂÃ¨Â¦ÂÃ£ÂÂ¤Ã£ÂÂÃ£ÂÂ¦Ã£ÂÂÃ£ÂÂÃ£ÂÂªÃ£ÂÂÃ¯Â¼Â",
     "timestamp": "2026-05-15T13:23:29.712Z"
   },
   {
@@ -1462,5 +1462,125 @@
     },
     "message": "hey baduy",
     "timestamp": "2026-05-15T13:59:11.637Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "f45ba839-38bb-47f0-8e33-80a19551ae37",
+      "shortId": "AL8OBD",
+      "name": "yzze",
+      "role": "USER",
+      "level": 80
+    },
+    "message": "heiko",
+    "timestamp": "2026-05-15T19:01:38.197Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "f45ba839-38bb-47f0-8e33-80a19551ae37",
+      "shortId": "AL8OBD",
+      "name": "yzze",
+      "role": "USER",
+      "level": 80
+    },
+    "message": "wsp",
+    "timestamp": "2026-05-15T19:01:39.793Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "f45ba839-38bb-47f0-8e33-80a19551ae37",
+      "shortId": "AL8OBD",
+      "name": "yzze",
+      "role": "USER",
+      "level": 80
+    },
+    "message": "/locate wolfy p2",
+    "timestamp": "2026-05-15T19:03:16.706Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "f45ba839-38bb-47f0-8e33-80a19551ae37",
+      "shortId": "AL8OBD",
+      "name": "yzze",
+      "role": "USER",
+      "level": 81
+    },
+    "message": "I need sht scar",
+    "timestamp": "2026-05-15T19:41:50.551Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "f45ba839-38bb-47f0-8e33-80a19551ae37",
+      "shortId": "AL8OBD",
+      "name": "yzze",
+      "role": "USER",
+      "level": 81
+    },
+    "message": "broiken",
+    "timestamp": "2026-05-15T19:42:05.795Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "f45ba839-38bb-47f0-8e33-80a19551ae37",
+      "shortId": "AL8OBD",
+      "name": "yzze",
+      "role": "USER",
+      "level": 81
+    },
+    "message": "can u trade me sht scar",
+    "timestamp": "2026-05-15T19:42:11.491Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "f45ba839-38bb-47f0-8e33-80a19551ae37",
+      "shortId": "AL8OBD",
+      "name": "yzze",
+      "role": "USER",
+      "level": 81
+    },
+    "message": "what scar skins u got",
+    "timestamp": "2026-05-15T19:42:52.297Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "f45ba839-38bb-47f0-8e33-80a19551ae37",
+      "shortId": "AL8OBD",
+      "name": "yzze",
+      "role": "USER",
+      "level": 81
+    },
+    "message": "eugue",
+    "timestamp": "2026-05-15T19:49:06.691Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "f45ba839-38bb-47f0-8e33-80a19551ae37",
+      "shortId": "AL8OBD",
+      "name": "yzze",
+      "role": "USER",
+      "level": 81
+    },
+    "message": "eugurt",
+    "timestamp": "2026-05-15T19:49:10.261Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "f45ba839-38bb-47f0-8e33-80a19551ae37",
+      "shortId": "AL8OBD",
+      "name": "yzze",
+      "role": "USER",
+      "level": 81
+    },
+    "message": "let me get my custom id",
+    "timestamp": "2026-05-15T19:49:17.656Z"
   }
 ]
