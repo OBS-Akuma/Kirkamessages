@@ -58,5 +58,641 @@
     },
     "message": "hm?",
     "timestamp": "2026-05-13T23:24:01.596Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "be5dd652-8c23-47ff-b575-5c4965aeb608",
+      "shortId": "M36B4F",
+      "name": "PieMan",
+      "role": "USER",
+      "level": 39
+    },
+    "message": "oh hey there's a verified user",
+    "timestamp": "2026-05-14T12:10:05.062Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "be5dd652-8c23-47ff-b575-5c4965aeb608",
+      "shortId": "M36B4F",
+      "name": "PieMan",
+      "role": "USER",
+      "level": 39
+    },
+    "message": "uhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh",
+    "timestamp": "2026-05-14T12:15:08.297Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "be5dd652-8c23-47ff-b575-5c4965aeb608",
+      "shortId": "M36B4F",
+      "name": "PieMan",
+      "role": "USER",
+      "level": 39
+    },
+    "message": "[Pie||BODY_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-14T12:15:42.447Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "be5dd652-8c23-47ff-b575-5c4965aeb608",
+      "shortId": "M36B4F",
+      "name": "PieMan",
+      "role": "USER",
+      "level": 39
+    },
+    "message": "mmmmm I wanna eay pie now-",
+    "timestamp": "2026-05-14T12:15:52.996Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "be5dd652-8c23-47ff-b575-5c4965aeb608",
+      "shortId": "M36B4F",
+      "name": "PieMan",
+      "role": "USER",
+      "level": 39
+    },
+    "message": "I mean wha-",
+    "timestamp": "2026-05-14T12:16:03.927Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "be5dd652-8c23-47ff-b575-5c4965aeb608",
+      "shortId": "M36B4F",
+      "name": "PieMan",
+      "role": "USER",
+      "level": 39
+    },
+    "message": "hm",
+    "timestamp": "2026-05-14T12:24:09.744Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "be5dd652-8c23-47ff-b575-5c4965aeb608",
+      "shortId": "M36B4F",
+      "name": "PieMan",
+      "role": "USER",
+      "level": 39
+    },
+    "message": "cheese",
+    "timestamp": "2026-05-14T12:24:17.734Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "be5dd652-8c23-47ff-b575-5c4965aeb608",
+      "shortId": "M36B4F",
+      "name": "PieMan",
+      "role": "USER",
+      "level": 39
+    },
+    "message": "huh...",
+    "timestamp": "2026-05-14T12:44:44.852Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "be5dd652-8c23-47ff-b575-5c4965aeb608",
+      "shortId": "M36B4F",
+      "name": "PieMan",
+      "role": "USER",
+      "level": 39
+    },
+    "message": "hm",
+    "timestamp": "2026-05-14T12:47:51.276Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "be5dd652-8c23-47ff-b575-5c4965aeb608",
+      "shortId": "M36B4F",
+      "name": "PieMan",
+      "role": "USER",
+      "level": 39
+    },
+    "message": "hm...",
+    "timestamp": "2026-05-14T13:06:12.689Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "be5dd652-8c23-47ff-b575-5c4965aeb608",
+      "shortId": "M36B4F",
+      "name": "PieMan",
+      "role": "USER",
+      "level": 39
+    },
+    "message": "uhm..",
+    "timestamp": "2026-05-14T13:08:04.534Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "be5dd652-8c23-47ff-b575-5c4965aeb608",
+      "shortId": "M36B4F",
+      "name": "PieMan",
+      "role": "USER",
+      "level": 39
+    },
+    "message": "I dunno what to trade...",
+    "timestamp": "2026-05-14T13:08:18.899Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "be5dd652-8c23-47ff-b575-5c4965aeb608",
+      "shortId": "M36B4F",
+      "name": "PieMan",
+      "role": "USER",
+      "level": 39
+    },
+    "message": "huh",
+    "timestamp": "2026-05-14T16:01:13.323Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "be5dd652-8c23-47ff-b575-5c4965aeb608",
+      "shortId": "M36B4F",
+      "name": "PieMan",
+      "role": "USER",
+      "level": 39
+    },
+    "message": "hey guys",
+    "timestamp": "2026-05-14T16:10:32.327Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "be5dd652-8c23-47ff-b575-5c4965aeb608",
+      "shortId": "M36B4F",
+      "name": "PieMan",
+      "role": "USER",
+      "level": 39
+    },
+    "message": "how do you deal with stress... can y'all tell me some ways..",
+    "timestamp": "2026-05-14T16:10:51.371Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "be5dd652-8c23-47ff-b575-5c4965aeb608",
+      "shortId": "M36B4F",
+      "name": "PieMan",
+      "role": "USER",
+      "level": 39
+    },
+    "message": "uranium..?",
+    "timestamp": "2026-05-14T16:30:24.910Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "be5dd652-8c23-47ff-b575-5c4965aeb608",
+      "shortId": "M36B4F",
+      "name": "PieMan",
+      "role": "USER",
+      "level": 39
+    },
+    "message": "ooh... I remembered how I wanted that..",
+    "timestamp": "2026-05-14T16:30:34.753Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "be5dd652-8c23-47ff-b575-5c4965aeb608",
+      "shortId": "M36B4F",
+      "name": "PieMan",
+      "role": "USER",
+      "level": 40
+    },
+    "message": "hm...?",
+    "timestamp": "2026-05-14T16:31:57.316Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "be5dd652-8c23-47ff-b575-5c4965aeb608",
+      "shortId": "M36B4F",
+      "name": "PieMan",
+      "role": "USER",
+      "level": 40
+    },
+    "message": "what shall be the value of... [Uranium||BODY_SKIN|MYTHICAL]...?",
+    "timestamp": "2026-05-14T16:32:10.395Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "be5dd652-8c23-47ff-b575-5c4965aeb608",
+      "shortId": "M36B4F",
+      "name": "PieMan",
+      "role": "USER",
+      "level": 40
+    },
+    "message": "hm...",
+    "timestamp": "2026-05-14T16:32:47.859Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "be5dd652-8c23-47ff-b575-5c4965aeb608",
+      "shortId": "M36B4F",
+      "name": "PieMan",
+      "role": "USER",
+      "level": 40
+    },
+    "message": "would [Spooder|Shark|WEAPON_SKIN|MYTHICAL] do the trick? I don't know vaules at all tbh..",
+    "timestamp": "2026-05-14T16:33:09.802Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "be5dd652-8c23-47ff-b575-5c4965aeb608",
+      "shortId": "M36B4F",
+      "name": "PieMan",
+      "role": "USER",
+      "level": 40
+    },
+    "message": "guys.. how do you make trades... I never learned...",
+    "timestamp": "2026-05-14T16:34:15.840Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "be5dd652-8c23-47ff-b575-5c4965aeb608",
+      "shortId": "M36B4F",
+      "name": "PieMan",
+      "role": "USER",
+      "level": 40
+    },
+    "message": "hm?",
+    "timestamp": "2026-05-14T16:34:35.328Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "be5dd652-8c23-47ff-b575-5c4965aeb608",
+      "shortId": "M36B4F",
+      "name": "PieMan",
+      "role": "USER",
+      "level": 40
+    },
+    "message": "/help",
+    "timestamp": "2026-05-14T16:34:48.644Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "be5dd652-8c23-47ff-b575-5c4965aeb608",
+      "shortId": "M36B4F",
+      "name": "PieMan",
+      "role": "USER",
+      "level": 40
+    },
+    "message": "/c3 trade",
+    "timestamp": "2026-05-14T16:35:01.756Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "be5dd652-8c23-47ff-b575-5c4965aeb608",
+      "shortId": "M36B4F",
+      "name": "PieMan",
+      "role": "USER",
+      "level": 40
+    },
+    "message": "ohhh",
+    "timestamp": "2026-05-14T16:35:11.603Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "be5dd652-8c23-47ff-b575-5c4965aeb608",
+      "shortId": "M36B4F",
+      "name": "PieMan",
+      "role": "USER",
+      "level": 40
+    },
+    "message": "that kinda helped...",
+    "timestamp": "2026-05-14T16:35:37.366Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "be5dd652-8c23-47ff-b575-5c4965aeb608",
+      "shortId": "M36B4F",
+      "name": "PieMan",
+      "role": "USER",
+      "level": 40
+    },
+    "message": "/c3 trade",
+    "timestamp": "2026-05-14T16:35:43.740Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "be5dd652-8c23-47ff-b575-5c4965aeb608",
+      "shortId": "M36B4F",
+      "name": "PieMan",
+      "role": "USER",
+      "level": 40
+    },
+    "message": "hm..",
+    "timestamp": "2026-05-14T16:35:46.716Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "be5dd652-8c23-47ff-b575-5c4965aeb608",
+      "shortId": "M36B4F",
+      "name": "PieMan",
+      "role": "USER",
+      "level": 40
+    },
+    "message": "can I test it..?",
+    "timestamp": "2026-05-14T16:35:59.623Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "be5dd652-8c23-47ff-b575-5c4965aeb608",
+      "shortId": "M36B4F",
+      "name": "PieMan",
+      "role": "USER",
+      "level": 40
+    },
+    "message": "I wanna test for wood for wood..",
+    "timestamp": "2026-05-14T16:36:21.941Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "be5dd652-8c23-47ff-b575-5c4965aeb608",
+      "shortId": "M36B4F",
+      "name": "PieMan",
+      "role": "USER",
+      "level": 40
+    },
+    "message": "who wants to do that?",
+    "timestamp": "2026-05-14T16:36:27.594Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "be5dd652-8c23-47ff-b575-5c4965aeb608",
+      "shortId": "M36B4F",
+      "name": "PieMan",
+      "role": "USER",
+      "level": 40
+    },
+    "message": "I wanna do a practice trade..",
+    "timestamp": "2026-05-14T16:36:42.565Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "be5dd652-8c23-47ff-b575-5c4965aeb608",
+      "shortId": "M36B4F",
+      "name": "PieMan",
+      "role": "USER",
+      "level": 40
+    },
+    "message": "bc I don't know how..",
+    "timestamp": "2026-05-14T16:36:50.290Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "be5dd652-8c23-47ff-b575-5c4965aeb608",
+      "shortId": "M36B4F",
+      "name": "PieMan",
+      "role": "USER",
+      "level": 40
+    },
+    "message": "/c3 trade",
+    "timestamp": "2026-05-14T16:37:00.285Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "be5dd652-8c23-47ff-b575-5c4965aeb608",
+      "shortId": "M36B4F",
+      "name": "PieMan",
+      "role": "USER",
+      "level": 40
+    },
+    "message": "?",
+    "timestamp": "2026-05-14T16:37:28.604Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "be5dd652-8c23-47ff-b575-5c4965aeb608",
+      "shortId": "M36B4F",
+      "name": "PieMan",
+      "role": "USER",
+      "level": 40
+    },
+    "message": "what?",
+    "timestamp": "2026-05-14T16:37:47.024Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "be5dd652-8c23-47ff-b575-5c4965aeb608",
+      "shortId": "M36B4F",
+      "name": "PieMan",
+      "role": "USER",
+      "level": 40
+    },
+    "message": "ohhh",
+    "timestamp": "2026-05-14T16:38:18.176Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "be5dd652-8c23-47ff-b575-5c4965aeb608",
+      "shortId": "M36B4F",
+      "name": "PieMan",
+      "role": "USER",
+      "level": 40
+    },
+    "message": "I'ma do a pratice one then",
+    "timestamp": "2026-05-14T16:38:37.772Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "be5dd652-8c23-47ff-b575-5c4965aeb608",
+      "shortId": "M36B4F",
+      "name": "PieMan",
+      "role": "USER",
+      "level": 40
+    },
+    "message": "mhm",
+    "timestamp": "2026-05-14T16:38:42.141Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "be5dd652-8c23-47ff-b575-5c4965aeb608",
+      "shortId": "M36B4F",
+      "name": "PieMan",
+      "role": "USER",
+      "level": 40
+    },
+    "message": "u wanna practice for wood for wood?",
+    "timestamp": "2026-05-14T16:38:51.961Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "be5dd652-8c23-47ff-b575-5c4965aeb608",
+      "shortId": "M36B4F",
+      "name": "PieMan",
+      "role": "USER",
+      "level": 40
+    },
+    "message": "what???",
+    "timestamp": "2026-05-14T16:39:26.772Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "be5dd652-8c23-47ff-b575-5c4965aeb608",
+      "shortId": "M36B4F",
+      "name": "PieMan",
+      "role": "USER",
+      "level": 40
+    },
+    "message": "bro...",
+    "timestamp": "2026-05-14T16:40:13.341Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "be5dd652-8c23-47ff-b575-5c4965aeb608",
+      "shortId": "M36B4F",
+      "name": "PieMan",
+      "role": "USER",
+      "level": 40
+    },
+    "message": "...",
+    "timestamp": "2026-05-14T16:40:22.346Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "be5dd652-8c23-47ff-b575-5c4965aeb608",
+      "shortId": "M36B4F",
+      "name": "PieMan",
+      "role": "USER",
+      "level": 40
+    },
+    "message": "NJONIONUBKIDNJLNUO#NLDJLEWN",
+    "timestamp": "2026-05-14T16:40:27.985Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "be5dd652-8c23-47ff-b575-5c4965aeb608",
+      "shortId": "M36B4F",
+      "name": "PieMan",
+      "role": "USER",
+      "level": 40
+    },
+    "message": ".",
+    "timestamp": "2026-05-14T16:40:30.005Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "be5dd652-8c23-47ff-b575-5c4965aeb608",
+      "shortId": "M36B4F",
+      "name": "PieMan",
+      "role": "USER",
+      "level": 40
+    },
+    "message": "HUHU",
+    "timestamp": "2026-05-14T16:40:32.950Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "be5dd652-8c23-47ff-b575-5c4965aeb608",
+      "shortId": "M36B4F",
+      "name": "PieMan",
+      "role": "USER",
+      "level": 40
+    },
+    "message": "...",
+    "timestamp": "2026-05-14T16:41:15.523Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "be5dd652-8c23-47ff-b575-5c4965aeb608",
+      "shortId": "M36B4F",
+      "name": "PieMan",
+      "role": "USER",
+      "level": 40
+    },
+    "message": "HOW",
+    "timestamp": "2026-05-14T16:41:20.061Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "be5dd652-8c23-47ff-b575-5c4965aeb608",
+      "shortId": "M36B4F",
+      "name": "PieMan",
+      "role": "USER",
+      "level": 40
+    },
+    "message": "I might have to look online",
+    "timestamp": "2026-05-14T16:41:31.899Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "be5dd652-8c23-47ff-b575-5c4965aeb608",
+      "shortId": "M36B4F",
+      "name": "PieMan",
+      "role": "USER",
+      "level": 40
+    },
+    "message": "bc I am getting lost",
+    "timestamp": "2026-05-14T16:41:38.138Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "be5dd652-8c23-47ff-b575-5c4965aeb608",
+      "shortId": "M36B4F",
+      "name": "PieMan",
+      "role": "USER",
+      "level": 40
+    },
+    "message": "hi guys",
+    "timestamp": "2026-05-15T13:20:59.389Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "be5dd652-8c23-47ff-b575-5c4965aeb608",
+      "shortId": "M36B4F",
+      "name": "PieMan",
+      "role": "USER",
+      "level": 40
+    },
+    "message": "hm...",
+    "timestamp": "2026-05-15T13:34:47.920Z"
   }
 ]
