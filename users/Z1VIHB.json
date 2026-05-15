@@ -742,5 +742,137 @@
     },
     "message": "me too",
     "timestamp": "2026-05-15T08:03:13.764Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "bb915715-1d9a-4c8e-9010-071493ec79c4",
+      "shortId": "Z1VIHB",
+      "name": "DARK_LORD",
+      "role": "USER",
+      "level": 98
+    },
+    "message": "Lf [Sinister||BODY_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-15T12:57:57.126Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "bb915715-1d9a-4c8e-9010-071493ec79c4",
+      "shortId": "Z1VIHB",
+      "name": "DARK_LORD",
+      "role": "USER",
+      "level": 98
+    },
+    "message": "whats the code for wager",
+    "timestamp": "2026-05-15T12:59:13.134Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "bb915715-1d9a-4c8e-9010-071493ec79c4",
+      "shortId": "Z1VIHB",
+      "name": "DARK_LORD",
+      "role": "USER",
+      "level": 98
+    },
+    "message": "can anyone do a wagar for 10 golden i want to try it",
+    "timestamp": "2026-05-15T13:00:56.498Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "bb915715-1d9a-4c8e-9010-071493ec79c4",
+      "shortId": "Z1VIHB",
+      "name": "DARK_LORD",
+      "role": "USER",
+      "level": 98
+    },
+    "message": "/confirmwager",
+    "timestamp": "2026-05-15T13:01:34.589Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "bb915715-1d9a-4c8e-9010-071493ec79c4",
+      "shortId": "Z1VIHB",
+      "name": "DARK_LORD",
+      "role": "USER",
+      "level": 98
+    },
+    "message": "how to cansel wager?",
+    "timestamp": "2026-05-15T13:04:00.591Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "bb915715-1d9a-4c8e-9010-071493ec79c4",
+      "shortId": "Z1VIHB",
+      "name": "DARK_LORD",
+      "role": "USER",
+      "level": 98
+    },
+    "message": "/canselwager",
+    "timestamp": "2026-05-15T13:04:28.484Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "bb915715-1d9a-4c8e-9010-071493ec79c4",
+      "shortId": "Z1VIHB",
+      "name": "DARK_LORD",
+      "role": "USER",
+      "level": 98
+    },
+    "message": "/cancelwager",
+    "timestamp": "2026-05-15T13:05:13.613Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "bb915715-1d9a-4c8e-9010-071493ec79c4",
+      "shortId": "Z1VIHB",
+      "name": "DARK_LORD",
+      "role": "USER",
+      "level": 98
+    },
+    "message": "/cacelwager",
+    "timestamp": "2026-05-15T13:06:05.617Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "bb915715-1d9a-4c8e-9010-071493ec79c4",
+      "shortId": "Z1VIHB",
+      "name": "DARK_LORD",
+      "role": "USER",
+      "level": 98
+    },
+    "message": "how to know i have accepted any wager?",
+    "timestamp": "2026-05-15T13:08:29.627Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "bb915715-1d9a-4c8e-9010-071493ec79c4",
+      "shortId": "Z1VIHB",
+      "name": "DARK_LORD",
+      "role": "USER",
+      "level": 98
+    },
+    "message": "/claim",
+    "timestamp": "2026-05-15T13:09:06.575Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "bb915715-1d9a-4c8e-9010-071493ec79c4",
+      "shortId": "Z1VIHB",
+      "name": "DARK_LORD",
+      "role": "USER",
+      "level": 98
+    },
+    "message": "/cancelwager",
+    "timestamp": "2026-05-15T13:09:17.311Z"
   }
 ]
