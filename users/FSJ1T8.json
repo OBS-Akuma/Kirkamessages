@@ -502,5 +502,101 @@
     },
     "message": "Trade my [2025||BODY_SKIN|MYTHICAL] and [20#6 vita]",
     "timestamp": "2026-05-14T16:12:25.594Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "d8e98c7e-79bf-497e-8652-f4d435559ddf",
+      "shortId": "FSJ1T8",
+      "name": "StremZ",
+      "role": "USER",
+      "level": 18
+    },
+    "message": "/hm [2026||BODY_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-15T04:54:26.972Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "d8e98c7e-79bf-497e-8652-f4d435559ddf",
+      "shortId": "FSJ1T8",
+      "name": "StremZ",
+      "role": "USER",
+      "level": 18
+    },
+    "message": "/hm [Gold|VITA|WEAPON_SKIN|LEGENDARY]",
+    "timestamp": "2026-05-15T04:55:22.062Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "d8e98c7e-79bf-497e-8652-f4d435559ddf",
+      "shortId": "FSJ1T8",
+      "name": "StremZ",
+      "role": "USER",
+      "level": 18
+    },
+    "message": "2025>2026",
+    "timestamp": "2026-05-15T04:58:04.596Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "d8e98c7e-79bf-497e-8652-f4d435559ddf",
+      "shortId": "FSJ1T8",
+      "name": "StremZ",
+      "role": "USER",
+      "level": 18
+    },
+    "message": "/hm noble",
+    "timestamp": "2026-05-15T04:58:29.602Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "d8e98c7e-79bf-497e-8652-f4d435559ddf",
+      "shortId": "FSJ1T8",
+      "name": "StremZ",
+      "role": "USER",
+      "level": 18
+    },
+    "message": "No",
+    "timestamp": "2026-05-15T04:58:50.905Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "d8e98c7e-79bf-497e-8652-f4d435559ddf",
+      "shortId": "FSJ1T8",
+      "name": "StremZ",
+      "role": "USER",
+      "level": 18
+    },
+    "message": "2025 250 owned",
+    "timestamp": "2026-05-15T04:59:02.671Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "d8e98c7e-79bf-497e-8652-f4d435559ddf",
+      "shortId": "FSJ1T8",
+      "name": "StremZ",
+      "role": "USER",
+      "level": 18
+    },
+    "message": "Trade [2025||BODY_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-15T04:59:41.994Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "d8e98c7e-79bf-497e-8652-f4d435559ddf",
+      "shortId": "FSJ1T8",
+      "name": "StremZ",
+      "role": "USER",
+      "level": 18
+    },
+    "message": "Yes",
+    "timestamp": "2026-05-15T05:00:02.710Z"
   }
 ]
