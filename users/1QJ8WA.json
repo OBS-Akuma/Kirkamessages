@@ -1,0 +1,38 @@
+[
+  {
+    "type": 2,
+    "user": {
+      "id": "d25a00f2-64ea-4f7b-aca2-78691a65f129",
+      "shortId": "1QJ8WA",
+      "name": "tilted",
+      "role": "USER",
+      "level": 91
+    },
+    "message": "[Mage||BODY_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-15T08:28:49.976Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "d25a00f2-64ea-4f7b-aca2-78691a65f129",
+      "shortId": "1QJ8WA",
+      "name": "tilted",
+      "role": "USER",
+      "level": 91
+    },
+    "message": "/price [Mage||BODY_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-15T08:29:00.796Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "d25a00f2-64ea-4f7b-aca2-78691a65f129",
+      "shortId": "1QJ8WA",
+      "name": "tilted",
+      "role": "USER",
+      "level": 91
+    },
+    "message": "/inv",
+    "timestamp": "2026-05-15T08:29:09.132Z"
+  }
+]
