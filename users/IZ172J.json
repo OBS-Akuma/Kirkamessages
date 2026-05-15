@@ -346,5 +346,101 @@
     },
     "message": "/price enderman",
     "timestamp": "2026-05-14T11:21:03.319Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "13b24829-c64d-419c-be63-d763f6e055c4",
+      "shortId": "IZ172J",
+      "name": "Fear",
+      "role": "USER",
+      "level": 58
+    },
+    "message": "#EH6Y4R",
+    "timestamp": "2026-05-15T11:17:15.266Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "13b24829-c64d-419c-be63-d763f6e055c4",
+      "shortId": "IZ172J",
+      "name": "Fear",
+      "role": "USER",
+      "level": 58
+    },
+    "message": "/hm ranked s3 top 10",
+    "timestamp": "2026-05-15T11:23:24.932Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "13b24829-c64d-419c-be63-d763f6e055c4",
+      "shortId": "IZ172J",
+      "name": "Fear",
+      "role": "USER",
+      "level": 58
+    },
+    "message": "Who has scar skin",
+    "timestamp": "2026-05-15T11:26:51.910Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "13b24829-c64d-419c-be63-d763f6e055c4",
+      "shortId": "IZ172J",
+      "name": "Fear",
+      "role": "USER",
+      "level": 58
+    },
+    "message": "/hm sinister",
+    "timestamp": "2026-05-15T11:27:51.546Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "13b24829-c64d-419c-be63-d763f6e055c4",
+      "shortId": "IZ172J",
+      "name": "Fear",
+      "role": "USER",
+      "level": 58
+    },
+    "message": "/inv",
+    "timestamp": "2026-05-15T11:28:04.838Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "13b24829-c64d-419c-be63-d763f6e055c4",
+      "shortId": "IZ172J",
+      "name": "Fear",
+      "role": "USER",
+      "level": 58
+    },
+    "message": "Who has scar skins",
+    "timestamp": "2026-05-15T11:28:34.481Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "13b24829-c64d-419c-be63-d763f6e055c4",
+      "shortId": "IZ172J",
+      "name": "Fear",
+      "role": "USER",
+      "level": 58
+    },
+    "message": "/hm decor",
+    "timestamp": "2026-05-15T11:30:49.788Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "13b24829-c64d-419c-be63-d763f6e055c4",
+      "shortId": "IZ172J",
+      "name": "Fear",
+      "role": "USER",
+      "level": 58
+    },
+    "message": "Who has scar skins",
+    "timestamp": "2026-05-15T11:31:18.662Z"
   }
 ]
