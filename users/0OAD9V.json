@@ -70,5 +70,65 @@
     },
     "message": "/price [Sam|VITA|WEAPON_SKIN|LEGENDARY]",
     "timestamp": "2026-05-15T08:59:35.507Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "DYsgXjJEuVMHOqSkIgVcKxxN79r2",
+      "shortId": "0OAD9V",
+      "name": "AURA_999+",
+      "role": "USER",
+      "level": 47
+    },
+    "message": "GUYS IS [FORGOTTEN] GOOD?",
+    "timestamp": "2026-05-15T11:31:23.959Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "DYsgXjJEuVMHOqSkIgVcKxxN79r2",
+      "shortId": "0OAD9V",
+      "name": "AURA_999+",
+      "role": "USER",
+      "level": 47
+    },
+    "message": "/price [forgotten]",
+    "timestamp": "2026-05-15T11:31:39.577Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "DYsgXjJEuVMHOqSkIgVcKxxN79r2",
+      "shortId": "0OAD9V",
+      "name": "AURA_999+",
+      "role": "USER",
+      "level": 47
+    },
+    "message": "/price [Forgotten]",
+    "timestamp": "2026-05-15T11:31:53.102Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "DYsgXjJEuVMHOqSkIgVcKxxN79r2",
+      "shortId": "0OAD9V",
+      "name": "AURA_999+",
+      "role": "USER",
+      "level": 47
+    },
+    "message": "/price [Forbidden|AR-9|WEAPON_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-15T11:32:18.960Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "DYsgXjJEuVMHOqSkIgVcKxxN79r2",
+      "shortId": "0OAD9V",
+      "name": "AURA_999+",
+      "role": "USER",
+      "level": 47
+    },
+    "message": "/price [Maksim||BODY_SKIN|LEGENDARY]",
+    "timestamp": "2026-05-15T11:54:46.691Z"
   }
 ]
