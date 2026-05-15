@@ -70,5 +70,17 @@
     },
     "message": "Sa",
     "timestamp": "2026-05-12T17:40:14.208Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "Utb30u9ly1Oo5g7QrjkUWTemEaD2",
+      "shortId": "XKUZGX",
+      "name": "Aslicatt",
+      "role": "USER",
+      "level": 15
+    },
+    "message": "Kimle konusuyonnla",
+    "timestamp": "2026-05-15T19:44:47.470Z"
   }
 ]
