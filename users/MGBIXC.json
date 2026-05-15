@@ -1,0 +1,26 @@
+[
+  {
+    "type": 2,
+    "user": {
+      "id": "a2e78258-0ee5-4dcf-a736-6ba6c17d6537",
+      "shortId": "MGBIXC",
+      "name": "beefboytoy",
+      "role": "USER",
+      "level": 20
+    },
+    "message": "/lottery",
+    "timestamp": "2026-05-15T01:25:08.707Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "a2e78258-0ee5-4dcf-a736-6ba6c17d6537",
+      "shortId": "MGBIXC",
+      "name": "beefboytoy",
+      "role": "USER",
+      "level": 20
+    },
+    "message": "/lotterystats",
+    "timestamp": "2026-05-15T01:25:18.398Z"
+  }
+]
