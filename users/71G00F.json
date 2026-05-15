@@ -634,5 +634,17 @@
     },
     "message": "predator [Ghoul||BODY_SKIN|MYTHICAL] for [Onryo||BODY_SKIN|MYTHICAL]",
     "timestamp": "2026-05-15T21:01:04.467Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "0aa4b82d-c493-46e5-b15e-1a5be70aca94",
+      "shortId": "71G00F",
+      "name": "cc-baals",
+      "role": "USER",
+      "level": 84
+    },
+    "message": "/hm constellations",
+    "timestamp": "2026-05-15T21:10:01.378Z"
   }
 ]
