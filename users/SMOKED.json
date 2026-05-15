@@ -1330,5 +1330,65 @@
     },
     "message": "[Candle|Bayonet|WEAPON_SKIN|MYTHICAL]+add for [Boo||BODY_SKIN|LEGENDARY]",
     "timestamp": "2026-05-14T17:54:03.832Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "8130e18e-ff15-4f5b-a4e4-e3b8692ee32b",
+      "shortId": "SMOKED",
+      "name": "Torque_",
+      "role": "USER",
+      "level": 100
+    },
+    "message": "/owners [Hypnotic|Bayonet|WEAPON_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-15T05:34:54.178Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "8130e18e-ff15-4f5b-a4e4-e3b8692ee32b",
+      "shortId": "SMOKED",
+      "name": "Torque_",
+      "role": "USER",
+      "level": 100
+    },
+    "message": "/locate [Hypnotic|Bayonet|WEAPON_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-15T05:35:15.627Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "8130e18e-ff15-4f5b-a4e4-e3b8692ee32b",
+      "shortId": "SMOKED",
+      "name": "Torque_",
+      "role": "USER",
+      "level": 100
+    },
+    "message": "#NUGGET",
+    "timestamp": "2026-05-15T05:42:02.914Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "8130e18e-ff15-4f5b-a4e4-e3b8692ee32b",
+      "shortId": "SMOKED",
+      "name": "Torque_",
+      "role": "USER",
+      "level": 100
+    },
+    "message": "Wsg akuma",
+    "timestamp": "2026-05-15T05:42:06.620Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "8130e18e-ff15-4f5b-a4e4-e3b8692ee32b",
+      "shortId": "SMOKED",
+      "name": "Torque_",
+      "role": "USER",
+      "level": 100
+    },
+    "message": "#WQJJ1V",
+    "timestamp": "2026-05-15T06:02:05.061Z"
   }
 ]
