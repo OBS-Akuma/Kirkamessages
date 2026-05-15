@@ -9706,5 +9706,65 @@
     },
     "message": "/wager [Ortus|Revolver|WEAPON_SKIN|MYTHICAL] #VYMT7F",
     "timestamp": "2026-05-15T19:07:24.908Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "462b7f5f-1cb4-4f46-a1e1-f9c092da6a22",
+      "shortId": "BCBHBU",
+      "name": "canel",
+      "role": "USER",
+      "level": 99
+    },
+    "message": "iyidir",
+    "timestamp": "2026-05-15T19:07:30.582Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "462b7f5f-1cb4-4f46-a1e1-f9c092da6a22",
+      "shortId": "BCBHBU",
+      "name": "canel",
+      "role": "USER",
+      "level": 99
+    },
+    "message": "/cancelwager",
+    "timestamp": "2026-05-15T19:07:45.270Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "462b7f5f-1cb4-4f46-a1e1-f9c092da6a22",
+      "shortId": "BCBHBU",
+      "name": "canel",
+      "role": "USER",
+      "level": 99
+    },
+    "message": "#VYMT7F yes i have",
+    "timestamp": "2026-05-15T19:08:06.025Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "462b7f5f-1cb4-4f46-a1e1-f9c092da6a22",
+      "shortId": "BCBHBU",
+      "name": "canel",
+      "role": "USER",
+      "level": 99
+    },
+    "message": "i dont have ghillie venom",
+    "timestamp": "2026-05-15T19:09:04.948Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "462b7f5f-1cb4-4f46-a1e1-f9c092da6a22",
+      "shortId": "BCBHBU",
+      "name": "canel",
+      "role": "USER",
+      "level": 99
+    },
+    "message": "my redwitch for you ghillie",
+    "timestamp": "2026-05-15T19:09:21.278Z"
   }
 ]
