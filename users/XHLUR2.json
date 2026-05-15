@@ -22,5 +22,41 @@
     },
     "message": "guys when is the event quest reseting?",
     "timestamp": "2026-05-14T11:50:59.060Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "guest-1f5b7179-b75b-47c5-98eb-9f578dff0f0c",
+      "shortId": "XHLUR2",
+      "name": "HighNess",
+      "role": "USER",
+      "level": 68
+    },
+    "message": "V",
+    "timestamp": "2026-05-15T12:23:50.731Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "guest-1f5b7179-b75b-47c5-98eb-9f578dff0f0c",
+      "shortId": "XHLUR2",
+      "name": "HighNess",
+      "role": "USER",
+      "level": 68
+    },
+    "message": "/enter",
+    "timestamp": "2026-05-15T12:56:58.825Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "guest-1f5b7179-b75b-47c5-98eb-9f578dff0f0c",
+      "shortId": "XHLUR2",
+      "name": "HighNess",
+      "role": "USER",
+      "level": 68
+    },
+    "message": "/claim",
+    "timestamp": "2026-05-15T13:18:44.012Z"
   }
 ]
