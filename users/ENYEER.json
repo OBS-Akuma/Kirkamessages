@@ -490,5 +490,77 @@
     },
     "message": "sure",
     "timestamp": "2026-05-14T13:04:19.626Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "e3278dc0-1ce2-46f8-b13e-44e3d5fd1c86",
+      "shortId": "ENYEER",
+      "name": "SuperKuroky",
+      "role": "USER",
+      "level": 101
+    },
+    "message": "i have nothing other than [Uranium||BODY_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-15T12:11:44.674Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "e3278dc0-1ce2-46f8-b13e-44e3d5fd1c86",
+      "shortId": "ENYEER",
+      "name": "SuperKuroky",
+      "role": "USER",
+      "level": 101
+    },
+    "message": "hi Saba san",
+    "timestamp": "2026-05-15T12:22:59.293Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "e3278dc0-1ce2-46f8-b13e-44e3d5fd1c86",
+      "shortId": "ENYEER",
+      "name": "SuperKuroky",
+      "role": "USER",
+      "level": 101
+    },
+    "message": "wait i got something for u",
+    "timestamp": "2026-05-15T12:23:12.642Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "e3278dc0-1ce2-46f8-b13e-44e3d5fd1c86",
+      "shortId": "ENYEER",
+      "name": "SuperKuroky",
+      "role": "USER",
+      "level": 101
+    },
+    "message": "real",
+    "timestamp": "2026-05-15T12:23:34.353Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "e3278dc0-1ce2-46f8-b13e-44e3d5fd1c86",
+      "shortId": "ENYEER",
+      "name": "SuperKuroky",
+      "role": "USER",
+      "level": 101
+    },
+    "message": "np",
+    "timestamp": "2026-05-15T12:23:49.607Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "e3278dc0-1ce2-46f8-b13e-44e3d5fd1c86",
+      "shortId": "ENYEER",
+      "name": "SuperKuroky",
+      "role": "USER",
+      "level": 101
+    },
+    "message": "/locate [Ruby||BODY_SKIN|COMMON]",
+    "timestamp": "2026-05-15T12:24:21.682Z"
   }
 ]
