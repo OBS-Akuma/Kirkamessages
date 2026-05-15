@@ -94,5 +94,53 @@
     },
     "message": "no",
     "timestamp": "2026-05-03T04:10:00.024Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "ab72c8f0-b522-4814-b915-7a4da8891a21",
+      "shortId": "LV0K7W",
+      "name": "fsdude",
+      "role": "USER",
+      "level": 94
+    },
+    "message": "/price [Eci|Bayonet|WEAPON_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-15T08:17:24.438Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "ab72c8f0-b522-4814-b915-7a4da8891a21",
+      "shortId": "LV0K7W",
+      "name": "fsdude",
+      "role": "USER",
+      "level": 94
+    },
+    "message": "/price [Panda||BODY_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-15T08:59:49.222Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "ab72c8f0-b522-4814-b915-7a4da8891a21",
+      "shortId": "LV0K7W",
+      "name": "fsdude",
+      "role": "USER",
+      "level": 94
+    },
+    "message": "/price [Ghillie||BODY_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-15T10:48:27.834Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "ab72c8f0-b522-4814-b915-7a4da8891a21",
+      "shortId": "LV0K7W",
+      "name": "fsdude",
+      "role": "USER",
+      "level": 94
+    },
+    "message": "[Zigglezorp||BODY_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-15T11:53:23.327Z"
   }
 ]
