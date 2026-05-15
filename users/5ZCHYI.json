@@ -6538,5 +6538,17 @@
     },
     "message": "i got better offers",
     "timestamp": "2026-05-15T06:21:28.419Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "3cd39bca-fb4d-4024-bf72-57d747f9a75f",
+      "shortId": "5ZCHYI",
+      "name": "Saint.",
+      "role": "USER",
+      "level": 75
+    },
+    "message": "hello",
+    "timestamp": "2026-05-15T07:08:20.571Z"
   }
 ]
