@@ -814,5 +814,17 @@
     },
     "message": "/price [lectern]",
     "timestamp": "2026-05-15T08:59:50.902Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "dece667a-fd9d-4728-88c0-104cad6d4c40",
+      "shortId": "7RPR5P",
+      "name": "RazorX",
+      "role": "USER",
+      "level": 42
+    },
+    "message": "/raffle entry",
+    "timestamp": "2026-05-15T10:21:03.422Z"
   }
 ]
