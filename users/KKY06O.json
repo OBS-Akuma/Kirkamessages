@@ -2170,5 +2170,41 @@
     },
     "message": "Offers for [blast  shark] and  [Blast SCAR|SCAR|WEAPON_SKIN|MYTHICAL]?",
     "timestamp": "2026-05-15T07:15:59.459Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "87b44f4a-1dc7-40f0-802f-2d46633545b9",
+      "shortId": "KKY06O",
+      "name": "ONEPRO!",
+      "role": "USER",
+      "level": 50
+    },
+    "message": "OFFERS FOR [Blast SCAR|SCAR|WEAPON_SKIN|MYTHICAL] and [Blast Shark|Shark|WEAPON_SKIN|MYTHICAL]?",
+    "timestamp": "2026-05-15T21:51:32.484Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "87b44f4a-1dc7-40f0-802f-2d46633545b9",
+      "shortId": "KKY06O",
+      "name": "ONEPRO!",
+      "role": "USER",
+      "level": 50
+    },
+    "message": "offers for [Punji|Bayonet|WEAPON_SKIN|MYTHICAL] and [Bamboo|VITA|WEAPON_SKIN|MYTHICAL]?",
+    "timestamp": "2026-05-15T21:53:15.349Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "87b44f4a-1dc7-40f0-802f-2d46633545b9",
+      "shortId": "KKY06O",
+      "name": "ONEPRO!",
+      "role": "USER",
+      "level": 50
+    },
+    "message": "LF [RGB||BODY_SKIN|LEGENDARY]",
+    "timestamp": "2026-05-15T21:53:43.340Z"
   }
 ]
