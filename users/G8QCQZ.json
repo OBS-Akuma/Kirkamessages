@@ -838,5 +838,17 @@
     },
     "message": "/random ar-9",
     "timestamp": "2026-05-15T07:35:01.439Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "mAf4P4dEuhPw0UzXDT4yugHYUPk1",
+      "shortId": "G8QCQZ",
+      "name": "[UsAs1]_ko___",
+      "role": "USER",
+      "level": 18
+    },
+    "message": "bro prime",
+    "timestamp": "2026-05-15T10:12:15.010Z"
   }
 ]
