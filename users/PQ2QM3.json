@@ -7018,5 +7018,17 @@
     },
     "message": "canel",
     "timestamp": "2026-05-15T20:17:45.833Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "f20b7a06-4259-43c3-8ec1-51c98ab462c9",
+      "shortId": "PQ2QM3",
+      "name": "Rencyy__",
+      "role": "USER",
+      "level": 30
+    },
+    "message": "/hm momo",
+    "timestamp": "2026-05-15T21:45:01.705Z"
   }
 ]
