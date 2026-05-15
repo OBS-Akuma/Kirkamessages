@@ -394,5 +394,89 @@
     },
     "message": "/inv",
     "timestamp": "2026-05-12T23:40:23.815Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "d29b95cd-a319-47ee-9c69-1f1e3f876be6",
+      "shortId": "KPM9PR",
+      "name": "B-bad",
+      "role": "USER",
+      "level": 20
+    },
+    "message": "/lf [Punishment||BODY_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-15T13:14:41.960Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "d29b95cd-a319-47ee-9c69-1f1e3f876be6",
+      "shortId": "KPM9PR",
+      "name": "B-bad",
+      "role": "USER",
+      "level": 20
+    },
+    "message": "tr [Supermother||BODY_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-15T13:17:26.483Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "d29b95cd-a319-47ee-9c69-1f1e3f876be6",
+      "shortId": "KPM9PR",
+      "name": "B-bad",
+      "role": "USER",
+      "level": 20
+    },
+    "message": "/price [Supermother||BODY_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-15T13:18:01.187Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "d29b95cd-a319-47ee-9c69-1f1e3f876be6",
+      "shortId": "KPM9PR",
+      "name": "B-bad",
+      "role": "USER",
+      "level": 20
+    },
+    "message": "/price [Punishment||BODY_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-15T13:18:18.573Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "d29b95cd-a319-47ee-9c69-1f1e3f876be6",
+      "shortId": "KPM9PR",
+      "name": "B-bad",
+      "role": "USER",
+      "level": 20
+    },
+    "message": "yes venom?",
+    "timestamp": "2026-05-15T13:18:38.955Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "d29b95cd-a319-47ee-9c69-1f1e3f876be6",
+      "shortId": "KPM9PR",
+      "name": "B-bad",
+      "role": "USER",
+      "level": 20
+    },
+    "message": "/price [Firedemon||BODY_SKIN|LEGENDARY]",
+    "timestamp": "2026-05-15T13:19:23.185Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "d29b95cd-a319-47ee-9c69-1f1e3f876be6",
+      "shortId": "KPM9PR",
+      "name": "B-bad",
+      "role": "USER",
+      "level": 20
+    },
+    "message": "/hm [Punishment||BODY_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-15T13:21:25.339Z"
   }
 ]
