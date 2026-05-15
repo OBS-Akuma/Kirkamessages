@@ -82,5 +82,29 @@
     },
     "message": "and there is one active rn",
     "timestamp": "2026-05-13T19:00:28.554Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "3813ad4f-4d0b-423a-8f61-f76b24016990",
+      "shortId": "XB2YUZ",
+      "name": "Guevo",
+      "role": "USER",
+      "level": 99
+    },
+    "message": "sa canel",
+    "timestamp": "2026-05-15T21:47:25.768Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "3813ad4f-4d0b-423a-8f61-f76b24016990",
+      "shortId": "XB2YUZ",
+      "name": "Guevo",
+      "role": "USER",
+      "level": 99
+    },
+    "message": "wolfy bekliyorum sadece elden çıkarttığım bir şey yok ya",
+    "timestamp": "2026-05-15T21:47:55.013Z"
   }
 ]
