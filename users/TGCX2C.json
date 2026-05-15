@@ -3754,5 +3754,77 @@
     },
     "message": "/inv",
     "timestamp": "2026-05-14T21:29:17.643Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "c1395033-1fb5-4aaa-b05a-3ef690f82834",
+      "shortId": "TGCX2C",
+      "name": "SS03|mid_bliss",
+      "role": "USER",
+      "level": 75
+    },
+    "message": "eepy [Vintage|VITA|WEAPON_SKIN|MYTHICAL] for [Liberty|VITA|WEAPON_SKIN|LEGENDARY]",
+    "timestamp": "2026-05-15T21:15:36.226Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "c1395033-1fb5-4aaa-b05a-3ef690f82834",
+      "shortId": "TGCX2C",
+      "name": "SS03|mid_bliss",
+      "role": "USER",
+      "level": 75
+    },
+    "message": "no",
+    "timestamp": "2026-05-15T21:16:04.889Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "c1395033-1fb5-4aaa-b05a-3ef690f82834",
+      "shortId": "TGCX2C",
+      "name": "SS03|mid_bliss",
+      "role": "USER",
+      "level": 75
+    },
+    "message": "why?",
+    "timestamp": "2026-05-15T21:16:12.037Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "c1395033-1fb5-4aaa-b05a-3ef690f82834",
+      "shortId": "TGCX2C",
+      "name": "SS03|mid_bliss",
+      "role": "USER",
+      "level": 75
+    },
+    "message": "u dont wonna return my stuffs",
+    "timestamp": "2026-05-15T21:16:24.582Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "c1395033-1fb5-4aaa-b05a-3ef690f82834",
+      "shortId": "TGCX2C",
+      "name": "SS03|mid_bliss",
+      "role": "USER",
+      "level": 75
+    },
+    "message": "tr[Vintage|VITA|WEAPON_SKIN|MYTHICAL][Eruption|Bayonet|WEAPON_SKIN|LEGENDARY][Golden||CHEST|LEGENDARY]x1000",
+    "timestamp": "2026-05-15T21:17:36.404Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "c1395033-1fb5-4aaa-b05a-3ef690f82834",
+      "shortId": "TGCX2C",
+      "name": "SS03|mid_bliss",
+      "role": "USER",
+      "level": 75
+    },
+    "message": "/inv",
+    "timestamp": "2026-05-15T21:40:53.877Z"
   }
 ]
