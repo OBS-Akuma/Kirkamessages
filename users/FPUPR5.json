@@ -3115,5 +3115,65 @@
     },
     "message": "/price qod",
     "timestamp": "2026-05-14T03:57:53.112Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "c3e3dbc6-624d-450c-908a-672ba348b1fd",
+      "shortId": "FPUPR5",
+      "name": "Worman",
+      "role": "USER",
+      "level": 99
+    },
+    "message": "lol",
+    "timestamp": "2026-05-15T07:17:57.005Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "c3e3dbc6-624d-450c-908a-672ba348b1fd",
+      "shortId": "FPUPR5",
+      "name": "Worman",
+      "role": "USER",
+      "level": 99
+    },
+    "message": "how many of the next limited are you planning on getting",
+    "timestamp": "2026-05-15T07:18:28.127Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "c3e3dbc6-624d-450c-908a-672ba348b1fd",
+      "shortId": "FPUPR5",
+      "name": "Worman",
+      "role": "USER",
+      "level": 99
+    },
+    "message": "hey",
+    "timestamp": "2026-05-15T07:18:33.338Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "c3e3dbc6-624d-450c-908a-672ba348b1fd",
+      "shortId": "FPUPR5",
+      "name": "Worman",
+      "role": "USER",
+      "level": 99
+    },
+    "message": "#E7C6UR whats your offer",
+    "timestamp": "2026-05-15T07:18:47.903Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "c3e3dbc6-624d-450c-908a-672ba348b1fd",
+      "shortId": "FPUPR5",
+      "name": "Worman",
+      "role": "USER",
+      "level": 99
+    },
+    "message": "paying that much for a ranked skin is an interesting choice",
+    "timestamp": "2026-05-15T07:22:07.837Z"
   }
 ]
