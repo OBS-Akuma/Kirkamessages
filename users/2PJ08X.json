@@ -250,5 +250,29 @@
     },
     "message": "CFing [Bloom||BODY_SKIN|MYTHICAL]",
     "timestamp": "2026-05-15T13:34:34.383Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "0d60f9aa-9357-4edd-818f-ee88dc89c732",
+      "shortId": "2PJ08X",
+      "name": "Xeno",
+      "role": "USER",
+      "level": 18
+    },
+    "message": "yo chill mahiiru",
+    "timestamp": "2026-05-15T15:31:28.480Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "0d60f9aa-9357-4edd-818f-ee88dc89c732",
+      "shortId": "2PJ08X",
+      "name": "Xeno",
+      "role": "USER",
+      "level": 18
+    },
+    "message": "alr chill run it, bo1",
+    "timestamp": "2026-05-15T15:31:44.168Z"
   }
 ]
