@@ -4174,5 +4174,17 @@
     },
     "message": "Looking for [Void VITA|VITA|WEAPON_SKIN|MYTHICAL]",
     "timestamp": "2026-05-14T16:51:35.333Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "fce58d08-90f4-45cd-9aba-7f4babb73836",
+      "shortId": "F1S8WU",
+      "name": "Blessed",
+      "role": "USER",
+      "level": 76
+    },
+    "message": "/tw",
+    "timestamp": "2026-05-15T15:24:46.545Z"
   }
 ]
