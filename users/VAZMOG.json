@@ -322,5 +322,17 @@
     },
     "message": "[Bubblepop|Bayonet|WEAPON_SKIN|MYTHICAL]",
     "timestamp": "2026-05-14T14:13:54.976Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "3321648a-0db5-43f1-8851-618da0182738",
+      "shortId": "VAZMOG",
+      "name": "straydawg",
+      "role": "USER",
+      "level": 51
+    },
+    "message": "[Bloom||BODY_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-15T15:25:34.367Z"
   }
 ]
