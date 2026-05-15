@@ -4018,5 +4018,17 @@
     },
     "message": ".",
     "timestamp": "2026-05-14T07:21:15.511Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "bc67c9c2-fb23-494e-ac5e-a9085cfab551",
+      "shortId": "M6N6Z0",
+      "name": "M_Tri_VN",
+      "role": "USER",
+      "level": 87
+    },
+    "message": "hi dead",
+    "timestamp": "2026-05-14T13:38:07.692Z"
   }
 ]
