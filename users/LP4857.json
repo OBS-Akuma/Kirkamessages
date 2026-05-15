@@ -22,5 +22,29 @@
     },
     "message": "/hm reed",
     "timestamp": "2026-05-13T12:10:23.115Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "824f5346-12a0-4467-82a0-38d74053b17e",
+      "shortId": "LP4857",
+      "name": "LegacyAgain",
+      "role": "USER",
+      "level": 17
+    },
+    "message": "I need [Shroud||BODY_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-14T14:56:38.252Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "824f5346-12a0-4467-82a0-38d74053b17e",
+      "shortId": "LP4857",
+      "name": "LegacyAgain",
+      "role": "USER",
+      "level": 17
+    },
+    "message": "listen mommy am broke so I only have chests",
+    "timestamp": "2026-05-14T14:57:23.460Z"
   }
 ]
