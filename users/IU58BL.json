@@ -226,5 +226,77 @@
     },
     "message": "optimus i want a chracter",
     "timestamp": "2026-05-14T16:53:05.927Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "f825bcae-9af1-4614-8e45-113bc31ec983",
+      "shortId": "IU58BL",
+      "name": "Chihir0.",
+      "role": "USER",
+      "level": 84
+    },
+    "message": "umm anybody wants to join my clan here?",
+    "timestamp": "2026-05-15T05:50:08.224Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "f825bcae-9af1-4614-8e45-113bc31ec983",
+      "shortId": "IU58BL",
+      "name": "Chihir0.",
+      "role": "USER",
+      "level": 84
+    },
+    "message": "ANYBODY WANTS TO JOIN MY CLAN HERE?",
+    "timestamp": "2026-05-15T05:50:15.393Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "f825bcae-9af1-4614-8e45-113bc31ec983",
+      "shortId": "IU58BL",
+      "name": "Chihir0.",
+      "role": "USER",
+      "level": 84
+    },
+    "message": "MAHI",
+    "timestamp": "2026-05-15T05:50:59.669Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "f825bcae-9af1-4614-8e45-113bc31ec983",
+      "shortId": "IU58BL",
+      "name": "Chihir0.",
+      "role": "USER",
+      "level": 84
+    },
+    "message": "MAHO",
+    "timestamp": "2026-05-15T05:51:00.629Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "f825bcae-9af1-4614-8e45-113bc31ec983",
+      "shortId": "IU58BL",
+      "name": "Chihir0.",
+      "role": "USER",
+      "level": 84
+    },
+    "message": "WHY UR NAME BLUE?",
+    "timestamp": "2026-05-15T05:51:04.968Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "f825bcae-9af1-4614-8e45-113bc31ec983",
+      "shortId": "IU58BL",
+      "name": "Chihir0.",
+      "role": "USER",
+      "level": 84
+    },
+    "message": "/HM [Dynasty||BODY_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-15T05:52:08.718Z"
   }
 ]
