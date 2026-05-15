@@ -838,5 +838,149 @@
     },
     "message": "trade [Guts||BODY_SKIN|LEGENDARY]",
     "timestamp": "2026-05-14T07:02:59.810Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "65a16329-16fa-4a51-b107-4d6aa116e9f9",
+      "shortId": "SP84KA",
+      "name": "Skyy",
+      "role": "USER",
+      "level": 34
+    },
+    "message": "/price thriller",
+    "timestamp": "2026-05-14T12:35:41.619Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "65a16329-16fa-4a51-b107-4d6aa116e9f9",
+      "shortId": "SP84KA",
+      "name": "Skyy",
+      "role": "USER",
+      "level": 34
+    },
+    "message": "[Thriller||BODY_SKIN|MYTHICAL] for [IMGERROR||BODY_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-14T12:40:33.034Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "65a16329-16fa-4a51-b107-4d6aa116e9f9",
+      "shortId": "SP84KA",
+      "name": "Skyy",
+      "role": "USER",
+      "level": 34
+    },
+    "message": "#PV831P",
+    "timestamp": "2026-05-14T12:41:10.860Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "65a16329-16fa-4a51-b107-4d6aa116e9f9",
+      "shortId": "SP84KA",
+      "name": "Skyy",
+      "role": "USER",
+      "level": 34
+    },
+    "message": "#4YRWKY",
+    "timestamp": "2026-05-14T12:41:38.641Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "65a16329-16fa-4a51-b107-4d6aa116e9f9",
+      "shortId": "SP84KA",
+      "name": "Skyy",
+      "role": "USER",
+      "level": 34
+    },
+    "message": "[Thriller||BODY_SKIN|MYTHICAL] for [IMGERROR||BODY_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-14T12:42:14.813Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "65a16329-16fa-4a51-b107-4d6aa116e9f9",
+      "shortId": "SP84KA",
+      "name": "Skyy",
+      "role": "USER",
+      "level": 34
+    },
+    "message": "[Blast VITA|VITA|WEAPON_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-14T12:43:13.194Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "65a16329-16fa-4a51-b107-4d6aa116e9f9",
+      "shortId": "SP84KA",
+      "name": "Skyy",
+      "role": "USER",
+      "level": 34
+    },
+    "message": "asian dev",
+    "timestamp": "2026-05-14T12:43:28.234Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "65a16329-16fa-4a51-b107-4d6aa116e9f9",
+      "shortId": "SP84KA",
+      "name": "Skyy",
+      "role": "USER",
+      "level": 34
+    },
+    "message": "trade thriller for imgerror",
+    "timestamp": "2026-05-14T12:43:51.418Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "65a16329-16fa-4a51-b107-4d6aa116e9f9",
+      "shortId": "SP84KA",
+      "name": "Skyy",
+      "role": "USER",
+      "level": 34
+    },
+    "message": "k",
+    "timestamp": "2026-05-14T12:44:15.103Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "65a16329-16fa-4a51-b107-4d6aa116e9f9",
+      "shortId": "SP84KA",
+      "name": "Twinn_Mill",
+      "role": "USER",
+      "level": 34
+    },
+    "message": "who got [RGB||BODY_SKIN|LEGENDARY]",
+    "timestamp": "2026-05-15T02:48:30.721Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "65a16329-16fa-4a51-b107-4d6aa116e9f9",
+      "shortId": "SP84KA",
+      "name": "Twinn_Mill",
+      "role": "USER",
+      "level": 34
+    },
+    "message": "/price [RGB||BODY_SKIN|LEGENDARY]",
+    "timestamp": "2026-05-15T02:48:46.950Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "65a16329-16fa-4a51-b107-4d6aa116e9f9",
+      "shortId": "SP84KA",
+      "name": "Twinn_Mill",
+      "role": "USER",
+      "level": 34
+    },
+    "message": "/hm rgb",
+    "timestamp": "2026-05-15T02:48:54.906Z"
   }
 ]
