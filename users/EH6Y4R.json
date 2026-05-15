@@ -1066,5 +1066,149 @@
     },
     "message": "1v1",
     "timestamp": "2026-05-14T19:19:10.444Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "2760683e-aa41-44d2-a695-3251af55423d",
+      "shortId": "EH6Y4R",
+      "name": "PREDATOR",
+      "role": "USER",
+      "level": 46
+    },
+    "message": "rgb",
+    "timestamp": "2026-05-15T05:49:43.708Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "2760683e-aa41-44d2-a695-3251af55423d",
+      "shortId": "EH6Y4R",
+      "name": "PREDATOR",
+      "role": "USER",
+      "level": 46
+    },
+    "message": "i want rgb",
+    "timestamp": "2026-05-15T05:49:48.644Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "2760683e-aa41-44d2-a695-3251af55423d",
+      "shortId": "EH6Y4R",
+      "name": "PREDATOR",
+      "role": "USER",
+      "level": 46
+    },
+    "message": "do u have [Heavy|LAR|WEAPON_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-15T05:50:25.174Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "2760683e-aa41-44d2-a695-3251af55423d",
+      "shortId": "EH6Y4R",
+      "name": "PREDATOR",
+      "role": "USER",
+      "level": 46
+    },
+    "message": "i am looking for [RGB||BODY_SKIN|LEGENDARY]",
+    "timestamp": "2026-05-15T05:51:01.926Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "2760683e-aa41-44d2-a695-3251af55423d",
+      "shortId": "EH6Y4R",
+      "name": "PREDATOR",
+      "role": "USER",
+      "level": 46
+    },
+    "message": "/inv #EH6Y4R",
+    "timestamp": "2026-05-15T05:51:12.473Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "2760683e-aa41-44d2-a695-3251af55423d",
+      "shortId": "EH6Y4R",
+      "name": "PREDATOR",
+      "role": "USER",
+      "level": 46
+    },
+    "message": "[chance]",
+    "timestamp": "2026-05-15T05:51:38.705Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "2760683e-aa41-44d2-a695-3251af55423d",
+      "shortId": "EH6Y4R",
+      "name": "PREDATOR",
+      "role": "USER",
+      "level": 46
+    },
+    "message": "[Golden||CHEST|LEGENDARY]",
+    "timestamp": "2026-05-15T05:51:56.161Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "2760683e-aa41-44d2-a695-3251af55423d",
+      "shortId": "EH6Y4R",
+      "name": "PREDATOR",
+      "role": "USER",
+      "level": 46
+    },
+    "message": "how to wager",
+    "timestamp": "2026-05-15T05:52:20.554Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "2760683e-aa41-44d2-a695-3251af55423d",
+      "shortId": "EH6Y4R",
+      "name": "PREDATOR",
+      "role": "USER",
+      "level": 46
+    },
+    "message": "what is wager",
+    "timestamp": "2026-05-15T05:52:27.275Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "2760683e-aa41-44d2-a695-3251af55423d",
+      "shortId": "EH6Y4R",
+      "name": "PREDATOR",
+      "role": "USER",
+      "level": 46
+    },
+    "message": "me",
+    "timestamp": "2026-05-15T05:52:34.428Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "2760683e-aa41-44d2-a695-3251af55423d",
+      "shortId": "EH6Y4R",
+      "name": "PREDATOR",
+      "role": "USER",
+      "level": 46
+    },
+    "message": "ho w to wager",
+    "timestamp": "2026-05-15T05:53:43.942Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "2760683e-aa41-44d2-a695-3251af55423d",
+      "shortId": "EH6Y4R",
+      "name": "PREDATOR",
+      "role": "USER",
+      "level": 46
+    },
+    "message": "/giveaway",
+    "timestamp": "2026-05-15T05:54:11.341Z"
   }
 ]
