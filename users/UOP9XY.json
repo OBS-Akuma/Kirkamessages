@@ -442,5 +442,41 @@
     },
     "message": "hum",
     "timestamp": "2026-05-13T12:12:30.149Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "288d6013-21fa-4f5b-97af-6d6e5348b0a9",
+      "shortId": "UOP9XY",
+      "name": "NABILA",
+      "role": "USER",
+      "level": 5
+    },
+    "message": "Trading [Kraken|Shark|WEAPON_SKIN|LEGENDARY]",
+    "timestamp": "2026-05-15T09:41:10.352Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "288d6013-21fa-4f5b-97af-6d6e5348b0a9",
+      "shortId": "UOP9XY",
+      "name": "NABILA",
+      "role": "USER",
+      "level": 5
+    },
+    "message": "...",
+    "timestamp": "2026-05-15T09:41:44.056Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "288d6013-21fa-4f5b-97af-6d6e5348b0a9",
+      "shortId": "UOP9XY",
+      "name": "NABILA",
+      "role": "USER",
+      "level": 5
+    },
+    "message": "Trading [Kraken|Shark|WEAPON_SKIN|LEGENDARY]",
+    "timestamp": "2026-05-15T09:41:50.460Z"
   }
 ]
