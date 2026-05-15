@@ -442,5 +442,65 @@
     },
     "message": "I have",
     "timestamp": "2026-05-14T08:27:06.835Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "0e0253e4-94fe-4c73-bb1f-d26f1ba38b19",
+      "shortId": "VZ6AJE",
+      "name": "Newbie.",
+      "role": "USER",
+      "level": 37
+    },
+    "message": "LF [Turtle|Bayonet|WEAPON_SKIN|MYTHICAL]s",
+    "timestamp": "2026-05-15T04:21:29.227Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "0e0253e4-94fe-4c73-bb1f-d26f1ba38b19",
+      "shortId": "VZ6AJE",
+      "name": "Newbie.",
+      "role": "USER",
+      "level": 37
+    },
+    "message": ".",
+    "timestamp": "2026-05-15T04:28:30.444Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "0e0253e4-94fe-4c73-bb1f-d26f1ba38b19",
+      "shortId": "VZ6AJE",
+      "name": "Newbie.",
+      "role": "USER",
+      "level": 37
+    },
+    "message": "LF [Turtle|Bayonet|WEAPON_SKIN|MYTHICAL]s",
+    "timestamp": "2026-05-15T04:28:34.030Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "0e0253e4-94fe-4c73-bb1f-d26f1ba38b19",
+      "shortId": "VZ6AJE",
+      "name": "Newbie.",
+      "role": "USER",
+      "level": 37
+    },
+    "message": ".",
+    "timestamp": "2026-05-15T04:31:19.189Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "0e0253e4-94fe-4c73-bb1f-d26f1ba38b19",
+      "shortId": "VZ6AJE",
+      "name": "Newbie.",
+      "role": "USER",
+      "level": 37
+    },
+    "message": "LF [Turtle|Bayonet|WEAPON_SKIN|MYTHICAL]s",
+    "timestamp": "2026-05-15T04:31:22.760Z"
   }
 ]
