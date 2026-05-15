@@ -118,5 +118,17 @@
     },
     "message": "/price [LOL||BODY_SKIN|EPIC]",
     "timestamp": "2026-05-15T18:57:14.806Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "13fd3da2-4c49-48fc-85b6-c83d69847f35",
+      "shortId": "2CFSRA",
+      "name": "KitKat",
+      "role": "USER",
+      "level": 74
+    },
+    "message": "/price [2026||BODY_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-15T20:22:36.986Z"
   }
 ]
