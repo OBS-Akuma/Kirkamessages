@@ -1162,5 +1162,41 @@
     },
     "message": "tr[Infernal|AR-9|WEAPON_SKIN|MYTHICAL][Artificial||BODY_SKIN|MYTHICAL][Void Tomahawk|Tomahawk|WEAPON_SKIN|MYTHICAL][Capricorn|Tomahawk|WEAPON_SKIN|MYTHICAL][Tiburon|Bayonet|WEAPON_SKIN|MYTHICAL][Fanny||BODY_SKIN|MYTHICAL][Golden||CHEST|LEGENDARY]x3000",
     "timestamp": "2026-05-14T10:01:10.955Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "196420ab-762c-4099-a4e1-23ac214bc425",
+      "shortId": "RW2ESI",
+      "name": "Rusty",
+      "role": "USER",
+      "level": 86
+    },
+    "message": "tr[Infernal|AR-9|WEAPON_SKIN|MYTHICAL][Artificial||BODY_SKIN|MYTHICAL][Void Tomahawk|Tomahawk|WEAPON_SKIN|MYTHICAL][Tiburon|Bayonet|WEAPON_SKIN|MYTHICAL][Fanny||BODY_SKIN|MYTHICAL][Golden||CHEST|LEGENDARY]x3000",
+    "timestamp": "2026-05-14T14:35:28.172Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "196420ab-762c-4099-a4e1-23ac214bc425",
+      "shortId": "RW2ESI",
+      "name": "Rusty",
+      "role": "USER",
+      "level": 86
+    },
+    "message": "offer cloud?",
+    "timestamp": "2026-05-14T14:35:49.088Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "196420ab-762c-4099-a4e1-23ac214bc425",
+      "shortId": "RW2ESI",
+      "name": "Rusty",
+      "role": "USER",
+      "level": 86
+    },
+    "message": "1.7m",
+    "timestamp": "2026-05-14T14:36:07.897Z"
   }
 ]
