@@ -814,5 +814,29 @@
     },
     "message": "who wanna 1v1 me for skin my skin =[Rar|LAR|WEAPON_SKIN|LEGENDARY].",
     "timestamp": "2026-05-14T16:44:10.488Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "mAf4P4dEuhPw0UzXDT4yugHYUPk1",
+      "shortId": "G8QCQZ",
+      "name": "[UsAs1]_ko___",
+      "role": "USER",
+      "level": 18
+    },
+    "message": "/random ar9",
+    "timestamp": "2026-05-15T07:34:46.157Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "mAf4P4dEuhPw0UzXDT4yugHYUPk1",
+      "shortId": "G8QCQZ",
+      "name": "[UsAs1]_ko___",
+      "role": "USER",
+      "level": 18
+    },
+    "message": "/random ar-9",
+    "timestamp": "2026-05-15T07:35:01.439Z"
   }
 ]
