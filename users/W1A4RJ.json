@@ -1,0 +1,50 @@
+[
+  {
+    "type": 2,
+    "user": {
+      "id": "aYmCI9UO25OY41OsebSJ9tXOyzH2",
+      "shortId": "W1A4RJ",
+      "name": "Madhimaran",
+      "role": "USER",
+      "level": 20
+    },
+    "message": "Hi",
+    "timestamp": "2026-05-15T15:23:48.078Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "aYmCI9UO25OY41OsebSJ9tXOyzH2",
+      "shortId": "W1A4RJ",
+      "name": "Madhimaran",
+      "role": "USER",
+      "level": 20
+    },
+    "message": "If you are girl say hi",
+    "timestamp": "2026-05-15T15:24:00.674Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "aYmCI9UO25OY41OsebSJ9tXOyzH2",
+      "shortId": "W1A4RJ",
+      "name": "Madhimaran",
+      "role": "USER",
+      "level": 20
+    },
+    "message": "Please trade to me",
+    "timestamp": "2026-05-15T15:25:06.413Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "aYmCI9UO25OY41OsebSJ9tXOyzH2",
+      "shortId": "W1A4RJ",
+      "name": "Madhimaran",
+      "role": "USER",
+      "level": 20
+    },
+    "message": "/hi",
+    "timestamp": "2026-05-15T15:26:34.589Z"
+  }
+]
