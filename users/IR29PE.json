@@ -1,0 +1,50 @@
+[
+  {
+    "type": 2,
+    "user": {
+      "id": "e3088440-88ab-4513-b2b2-e250706e1dc1",
+      "shortId": "IR29PE",
+      "name": "SkillIssue",
+      "role": "USER",
+      "level": 45
+    },
+    "message": "hi",
+    "timestamp": "2026-05-15T05:48:28.802Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "e3088440-88ab-4513-b2b2-e250706e1dc1",
+      "shortId": "IR29PE",
+      "name": "SkillIssue",
+      "role": "USER",
+      "level": 45
+    },
+    "message": "/offer (2026) (splanch)",
+    "timestamp": "2026-05-15T05:49:38.086Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "e3088440-88ab-4513-b2b2-e250706e1dc1",
+      "shortId": "IR29PE",
+      "name": "SkillIssue",
+      "role": "USER",
+      "level": 45
+    },
+    "message": "how to offer ???",
+    "timestamp": "2026-05-15T05:49:51.978Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "e3088440-88ab-4513-b2b2-e250706e1dc1",
+      "shortId": "IR29PE",
+      "name": "SkillIssue",
+      "role": "USER",
+      "level": 45
+    },
+    "message": "/help",
+    "timestamp": "2026-05-15T05:51:07.275Z"
+  }
+]
