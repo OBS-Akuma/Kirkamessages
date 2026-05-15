@@ -622,5 +622,17 @@
     },
     "message": "hehe u got any shark skin",
     "timestamp": "2026-05-13T10:21:13.536Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "atwD25iBdVSGdSLjmyTrObipTtf1",
+      "shortId": "YLZBU5",
+      "name": "LEADER",
+      "role": "USER",
+      "level": 99
+    },
+    "message": "yaya i hit 99 level",
+    "timestamp": "2026-05-15T09:36:05.878Z"
   }
 ]
