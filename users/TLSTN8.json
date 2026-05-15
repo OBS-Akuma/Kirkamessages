@@ -70,5 +70,41 @@
     },
     "message": "hola bro",
     "timestamp": "2026-05-14T17:48:10.136Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "SVkU0a4yuvWq2ktnxLIhGLdrpw23",
+      "shortId": "TLSTN8",
+      "name": "Arthurelolo",
+      "role": "USER",
+      "level": 17
+    },
+    "message": "V_E_n_o_m",
+    "timestamp": "2026-05-14T19:01:05.701Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "SVkU0a4yuvWq2ktnxLIhGLdrpw23",
+      "shortId": "TLSTN8",
+      "name": "Arthurelolo",
+      "role": "USER",
+      "level": 17
+    },
+    "message": "ETRayz",
+    "timestamp": "2026-05-14T19:02:04.337Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "SVkU0a4yuvWq2ktnxLIhGLdrpw23",
+      "shortId": "TLSTN8",
+      "name": "Arthurelolo",
+      "role": "USER",
+      "level": 17
+    },
+    "message": "co op dx",
+    "timestamp": "2026-05-14T19:03:54.945Z"
   }
 ]
