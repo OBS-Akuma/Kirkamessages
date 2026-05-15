@@ -262,5 +262,17 @@
     },
     "message": "#UAP0QL",
     "timestamp": "2026-05-14T19:20:02.146Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "d4fcbffb-785c-41b3-aeec-973984477ccd",
+      "shortId": "0N5H9D",
+      "name": "ONE!PRO",
+      "role": "USER",
+      "level": 98
+    },
+    "message": "/last [Verde|Bayonet|WEAPON_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-15T22:51:40.008Z"
   }
 ]
