@@ -1018,5 +1018,17 @@
     },
     "message": "/topskin Character",
     "timestamp": "2026-05-14T01:40:25.606Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "7001fed6-5d8a-4759-97fb-f4d659e9cea0",
+      "shortId": "C3F13Y",
+      "name": "NewbiexDzdz",
+      "role": "USER",
+      "level": 48
+    },
+    "message": "/topgoats",
+    "timestamp": "2026-05-15T02:42:52.924Z"
   }
 ]
