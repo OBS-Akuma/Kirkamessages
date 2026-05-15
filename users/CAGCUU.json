@@ -238,5 +238,17 @@
     },
     "message": "/claim",
     "timestamp": "2026-05-15T15:22:13.557Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "f0d80479-1f11-4af2-89c6-0cc4908e5c92",
+      "shortId": "CAGCUU",
+      "name": "yawnyawn",
+      "role": "USER",
+      "level": 100
+    },
+    "message": "/wager [Golden||CHEST|LEGENDARY]x100 #EJ1PCL",
+    "timestamp": "2026-05-15T21:48:07.755Z"
   }
 ]
