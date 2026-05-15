@@ -10,5 +10,17 @@
     },
     "message": "canel",
     "timestamp": "2026-05-12T11:44:50.383Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "6xjGnPRvVsZUx5ABuLQscv4O56L2",
+      "shortId": "3JRPAB",
+      "name": "Axmedov",
+      "role": "USER",
+      "level": 99
+    },
+    "message": "hyra",
+    "timestamp": "2026-05-15T07:07:37.528Z"
   }
 ]
