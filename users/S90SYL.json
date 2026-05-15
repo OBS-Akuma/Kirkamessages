@@ -958,5 +958,29 @@
     },
     "message": "np",
     "timestamp": "2026-05-11T02:25:49.368Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "565800a6-9d2f-4094-8a4f-8df1cd5ba69b",
+      "shortId": "S90SYL",
+      "name": "Azullious",
+      "role": "USER",
+      "level": 8
+    },
+    "message": "Trading [void set] and [blast set] ;vv",
+    "timestamp": "2026-05-15T09:42:04.292Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "565800a6-9d2f-4094-8a4f-8df1cd5ba69b",
+      "shortId": "S90SYL",
+      "name": "Azullious",
+      "role": "USER",
+      "level": 8
+    },
+    "message": "nope js kidding idw trade it",
+    "timestamp": "2026-05-15T09:42:12.586Z"
   }
 ]
