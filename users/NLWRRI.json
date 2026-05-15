@@ -82,5 +82,41 @@
     },
     "message": "/price ember",
     "timestamp": "2026-05-13T07:35:24.404Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "IUzAo82nXxczjbXldEb3N8qVLtn2",
+      "shortId": "NLWRRI",
+      "name": "EPSTEIN",
+      "role": "USER",
+      "level": 78
+    },
+    "message": "/price icey",
+    "timestamp": "2026-05-14T15:24:59.726Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "IUzAo82nXxczjbXldEb3N8qVLtn2",
+      "shortId": "NLWRRI",
+      "name": "EPSTEIN",
+      "role": "USER",
+      "level": 78
+    },
+    "message": "/hm icey",
+    "timestamp": "2026-05-14T15:25:37.690Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "IUzAo82nXxczjbXldEb3N8qVLtn2",
+      "shortId": "NLWRRI",
+      "name": "EPSTEIN",
+      "role": "USER",
+      "level": 78
+    },
+    "message": "why are you crying bro",
+    "timestamp": "2026-05-14T15:26:31.897Z"
   }
 ]
