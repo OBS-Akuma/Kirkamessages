@@ -1,0 +1,38 @@
+[
+  {
+    "type": 2,
+    "user": {
+      "id": "dbf7f1b0-3e4b-4a20-b388-aa29f6ed7b4a",
+      "shortId": "ZMZ2GE",
+      "name": "Mamba",
+      "role": "USER",
+      "level": 86
+    },
+    "message": "[Sensei||BODY_SKIN|LEGENDARY]",
+    "timestamp": "2026-05-15T09:55:09.721Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "dbf7f1b0-3e4b-4a20-b388-aa29f6ed7b4a",
+      "shortId": "ZMZ2GE",
+      "name": "Mamba",
+      "role": "USER",
+      "level": 86
+    },
+    "message": "[Grinchette||BODY_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-15T09:55:22.836Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "dbf7f1b0-3e4b-4a20-b388-aa29f6ed7b4a",
+      "shortId": "ZMZ2GE",
+      "name": "Mamba",
+      "role": "USER",
+      "level": 86
+    },
+    "message": "/hm [Sensei||BODY_SKIN|LEGENDARY]",
+    "timestamp": "2026-05-15T09:55:46.680Z"
+  }
+]
