@@ -322,5 +322,53 @@
     },
     "message": "/inv",
     "timestamp": "2026-05-15T05:23:49.296Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "m83U1Z1KO7bMzKrN0XaH4le5CFB2",
+      "shortId": "4WCVOT",
+      "name": "FragmentsScar|",
+      "role": "USER",
+      "level": 72
+    },
+    "message": "RIZZZ",
+    "timestamp": "2026-05-15T06:52:29.685Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "m83U1Z1KO7bMzKrN0XaH4le5CFB2",
+      "shortId": "4WCVOT",
+      "name": "FragmentsScar|",
+      "role": "USER",
+      "level": 72
+    },
+    "message": "u have {skillz]?",
+    "timestamp": "2026-05-15T06:52:37.391Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "m83U1Z1KO7bMzKrN0XaH4le5CFB2",
+      "shortId": "4WCVOT",
+      "name": "FragmentsScar|",
+      "role": "USER",
+      "level": 72
+    },
+    "message": "k wanna trade?",
+    "timestamp": "2026-05-15T06:52:47.929Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "m83U1Z1KO7bMzKrN0XaH4le5CFB2",
+      "shortId": "4WCVOT",
+      "name": "FragmentsScar|",
+      "role": "USER",
+      "level": 72
+    },
+    "message": "k",
+    "timestamp": "2026-05-15T06:52:53.030Z"
   }
 ]
