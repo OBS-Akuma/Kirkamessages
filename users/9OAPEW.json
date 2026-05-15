@@ -1438,5 +1438,41 @@
     },
     "message": "not dev ;-;",
     "timestamp": "2026-05-14T15:34:26.795Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "KEjMV2BDdFhYr0t6c3uhBW90G183",
+      "shortId": "9OAPEW",
+      "name": "Listener",
+      "role": "USER",
+      "level": 99
+    },
+    "message": "/price mikasa",
+    "timestamp": "2026-05-15T10:45:08.757Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "KEjMV2BDdFhYr0t6c3uhBW90G183",
+      "shortId": "9OAPEW",
+      "name": "Listener",
+      "role": "USER",
+      "level": 99
+    },
+    "message": "/hm silver bullet",
+    "timestamp": "2026-05-15T10:45:16.130Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "KEjMV2BDdFhYr0t6c3uhBW90G183",
+      "shortId": "9OAPEW",
+      "name": "Listener",
+      "role": "USER",
+      "level": 99
+    },
+    "message": "/hm splanch",
+    "timestamp": "2026-05-15T10:47:17.486Z"
   }
 ]
