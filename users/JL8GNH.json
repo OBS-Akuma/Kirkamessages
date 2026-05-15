@@ -322,5 +322,29 @@
     },
     "message": "gtg to school",
     "timestamp": "2026-05-13T21:42:33.634Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "243cc494-98b8-44bd-b0f7-4624b76a0184",
+      "shortId": "JL8GNH",
+      "name": "BeastMaster",
+      "role": "USER",
+      "level": 100
+    },
+    "message": "[splanchnic]",
+    "timestamp": "2026-05-14T21:33:39.129Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "243cc494-98b8-44bd-b0f7-4624b76a0184",
+      "shortId": "JL8GNH",
+      "name": "BeastMaster",
+      "role": "USER",
+      "level": 100
+    },
+    "message": "[Splanch|VITA|WEAPON_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-14T21:33:44.603Z"
   }
 ]
