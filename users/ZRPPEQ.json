@@ -1246,5 +1246,53 @@
     },
     "message": "/inv",
     "timestamp": "2026-05-14T16:17:47.498Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "zHM9sIdJaGYY4Yv50T12EQRkGpF2",
+      "shortId": "ZRPPEQ",
+      "name": "alchemist.",
+      "role": "USER",
+      "level": 85
+    },
+    "message": "/inv '",
+    "timestamp": "2026-05-14T19:23:07.174Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "zHM9sIdJaGYY4Yv50T12EQRkGpF2",
+      "shortId": "ZRPPEQ",
+      "name": "alchemist.",
+      "role": "USER",
+      "level": 85
+    },
+    "message": "/inv",
+    "timestamp": "2026-05-14T19:23:11.697Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "zHM9sIdJaGYY4Yv50T12EQRkGpF2",
+      "shortId": "ZRPPEQ",
+      "name": "alchemist.",
+      "role": "USER",
+      "level": 85
+    },
+    "message": "broken cancel!",
+    "timestamp": "2026-05-14T19:23:53.439Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "zHM9sIdJaGYY4Yv50T12EQRkGpF2",
+      "shortId": "ZRPPEQ",
+      "name": "alchemist.",
+      "role": "USER",
+      "level": 85
+    },
+    "message": "its not fair ttr",
+    "timestamp": "2026-05-14T19:23:58.005Z"
   }
 ]
