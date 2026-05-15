@@ -58,5 +58,29 @@
     },
     "message": "Chilly -.-",
     "timestamp": "2026-05-14T19:23:04.344Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "e3140cf1-482c-4724-8633-bead0e45c7a8",
+      "shortId": "FEMBOY",
+      "name": "Queen",
+      "role": "USER",
+      "level": 101
+    },
+    "message": "/skin [Moonlight|MAC-10|WEAPON_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-15T12:09:36.066Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "e3140cf1-482c-4724-8633-bead0e45c7a8",
+      "shortId": "FEMBOY",
+      "name": "Queen",
+      "role": "USER",
+      "level": 101
+    },
+    "message": "/price [Moonlight|MAC-10|WEAPON_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-15T12:09:42.618Z"
   }
 ]
