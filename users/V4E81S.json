@@ -46,5 +46,29 @@
     },
     "message": "/inv",
     "timestamp": "2026-05-15T05:19:50.770Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "317955e4-5411-4f5e-a0a6-cb5264d92bde",
+      "shortId": "V4E81S",
+      "name": "Rolex.",
+      "role": "USER",
+      "level": 82
+    },
+    "message": "[Black Metal 2.0|LAR|WEAPON_SKIN|LEGENDARY]",
+    "timestamp": "2026-05-15T15:22:01.220Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "317955e4-5411-4f5e-a0a6-cb5264d92bde",
+      "shortId": "V4E81S",
+      "name": "Rolex.",
+      "role": "USER",
+      "level": 82
+    },
+    "message": "/hm anarchy",
+    "timestamp": "2026-05-15T15:22:57.693Z"
   }
 ]
