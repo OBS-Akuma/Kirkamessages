@@ -358,5 +358,65 @@
     },
     "message": "/hm 2026 shark",
     "timestamp": "2026-05-10T19:18:08.322Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "620dab01-f658-4dfd-90ff-a07442ac3566",
+      "shortId": "SPENDA",
+      "name": "Find",
+      "role": "USER",
+      "level": 100
+    },
+    "message": "/hm cassiope",
+    "timestamp": "2026-05-15T04:29:23.592Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "620dab01-f658-4dfd-90ff-a07442ac3566",
+      "shortId": "SPENDA",
+      "name": "Find",
+      "role": "USER",
+      "level": 100
+    },
+    "message": "/hm fudge",
+    "timestamp": "2026-05-15T04:30:43.533Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "620dab01-f658-4dfd-90ff-a07442ac3566",
+      "shortId": "SPENDA",
+      "name": "Find",
+      "role": "USER",
+      "level": 100
+    },
+    "message": "[Fractal|VITA|WEAPON_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-15T04:31:52.070Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "620dab01-f658-4dfd-90ff-a07442ac3566",
+      "shortId": "SPENDA",
+      "name": "Find",
+      "role": "USER",
+      "level": 100
+    },
+    "message": "i dont",
+    "timestamp": "2026-05-15T04:32:34.189Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "620dab01-f658-4dfd-90ff-a07442ac3566",
+      "shortId": "SPENDA",
+      "name": "Find",
+      "role": "USER",
+      "level": 100
+    },
+    "message": "nft",
+    "timestamp": "2026-05-15T04:32:47.504Z"
   }
 ]
