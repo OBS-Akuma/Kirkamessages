@@ -802,5 +802,209 @@
     },
     "message": "in my alt",
     "timestamp": "2026-05-13T11:45:49.648Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "849b68b6-84ec-47c9-a14e-ccf0aa3cfc1e",
+      "shortId": "GXJ1VE",
+      "name": "ASTA",
+      "role": "USER",
+      "level": 96
+    },
+    "message": "[Radioactive|Bayonet|WEAPON_SKIN|LEGENDARY]",
+    "timestamp": "2026-05-14T16:13:52.561Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "849b68b6-84ec-47c9-a14e-ccf0aa3cfc1e",
+      "shortId": "GXJ1VE",
+      "name": "ASTA",
+      "role": "USER",
+      "level": 96
+    },
+    "message": "HM?",
+    "timestamp": "2026-05-14T16:14:31.706Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "849b68b6-84ec-47c9-a14e-ccf0aa3cfc1e",
+      "shortId": "GXJ1VE",
+      "name": "ASTA",
+      "role": "USER",
+      "level": 96
+    },
+    "message": "#000000 ARE YOU HERE?",
+    "timestamp": "2026-05-14T16:15:11.895Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "849b68b6-84ec-47c9-a14e-ccf0aa3cfc1e",
+      "shortId": "GXJ1VE",
+      "name": "ASTA",
+      "role": "USER",
+      "level": 96
+    },
+    "message": "#000000",
+    "timestamp": "2026-05-14T16:30:24.908Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "849b68b6-84ec-47c9-a14e-ccf0aa3cfc1e",
+      "shortId": "GXJ1VE",
+      "name": "ASTA",
+      "role": "USER",
+      "level": 96
+    },
+    "message": "#FATHER hm for it",
+    "timestamp": "2026-05-14T16:36:58.922Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "849b68b6-84ec-47c9-a14e-ccf0aa3cfc1e",
+      "shortId": "GXJ1VE",
+      "name": "ASTA",
+      "role": "USER",
+      "level": 96
+    },
+    "message": "tr [Verde|Bayonet|WEAPON_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-14T16:46:18.084Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "849b68b6-84ec-47c9-a14e-ccf0aa3cfc1e",
+      "shortId": "GXJ1VE",
+      "name": "ASTA",
+      "role": "USER",
+      "level": 96
+    },
+    "message": ":(",
+    "timestamp": "2026-05-14T16:47:47.638Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "849b68b6-84ec-47c9-a14e-ccf0aa3cfc1e",
+      "shortId": "GXJ1VE",
+      "name": "ASTA",
+      "role": "USER",
+      "level": 96
+    },
+    "message": "wager [Dreamscape|LAR|WEAPON_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-14T16:49:11.815Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "849b68b6-84ec-47c9-a14e-ccf0aa3cfc1e",
+      "shortId": "GXJ1VE",
+      "name": "ASTA",
+      "role": "USER",
+      "level": 96
+    },
+    "message": "/wager [Reed||BODY_SKIN|LEGENDARY] #Z97DD0",
+    "timestamp": "2026-05-14T16:50:06.161Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "849b68b6-84ec-47c9-a14e-ccf0aa3cfc1e",
+      "shortId": "GXJ1VE",
+      "name": "ASTA",
+      "role": "USER",
+      "level": 96
+    },
+    "message": "/wager",
+    "timestamp": "2026-05-14T16:50:48.303Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "849b68b6-84ec-47c9-a14e-ccf0aa3cfc1e",
+      "shortId": "GXJ1VE",
+      "name": "ASTA",
+      "role": "USER",
+      "level": 96
+    },
+    "message": "/cancelwager",
+    "timestamp": "2026-05-14T16:51:00.703Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "849b68b6-84ec-47c9-a14e-ccf0aa3cfc1e",
+      "shortId": "GXJ1VE",
+      "name": "ASTA",
+      "role": "USER",
+      "level": 96
+    },
+    "message": "tr [Verde|Bayonet|WEAPON_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-14T17:03:33.008Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "849b68b6-84ec-47c9-a14e-ccf0aa3cfc1e",
+      "shortId": "GXJ1VE",
+      "name": "ASTA",
+      "role": "USER",
+      "level": 96
+    },
+    "message": "yo",
+    "timestamp": "2026-05-14T17:03:48.467Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "849b68b6-84ec-47c9-a14e-ccf0aa3cfc1e",
+      "shortId": "GXJ1VE",
+      "name": "ASTA",
+      "role": "USER",
+      "level": 96
+    },
+    "message": "walekom alsalam",
+    "timestamp": "2026-05-14T17:03:57.149Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "849b68b6-84ec-47c9-a14e-ccf0aa3cfc1e",
+      "shortId": "GXJ1VE",
+      "name": "ASTA",
+      "role": "USER",
+      "level": 96
+    },
+    "message": "wager [Dreamscape|LAR|WEAPON_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-14T17:07:33.980Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "849b68b6-84ec-47c9-a14e-ccf0aa3cfc1e",
+      "shortId": "GXJ1VE",
+      "name": "ASTA",
+      "role": "USER",
+      "level": 96
+    },
+    "message": "wager [dreamscape",
+    "timestamp": "2026-05-14T17:16:14.527Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "849b68b6-84ec-47c9-a14e-ccf0aa3cfc1e",
+      "shortId": "GXJ1VE",
+      "name": "ASTA",
+      "role": "USER",
+      "level": 96
+    },
+    "message": "wager [Dreamscape|LAR|WEAPON_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-14T17:16:23.680Z"
   }
 ]
