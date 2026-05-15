@@ -1690,5 +1690,77 @@
     },
     "message": "hi",
     "timestamp": "2026-05-15T13:24:16.003Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "a2035d2a-40d0-4d1e-952b-4fc48dc53c94",
+      "shortId": "02979J",
+      "name": "Baduy",
+      "role": "USER",
+      "level": 96
+    },
+    "message": "gg",
+    "timestamp": "2026-05-15T13:35:21.635Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "a2035d2a-40d0-4d1e-952b-4fc48dc53c94",
+      "shortId": "02979J",
+      "name": "Baduy",
+      "role": "USER",
+      "level": 96
+    },
+    "message": "aurocaubang regal is better",
+    "timestamp": "2026-05-15T13:38:57.261Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "a2035d2a-40d0-4d1e-952b-4fc48dc53c94",
+      "shortId": "02979J",
+      "name": "Baduy",
+      "role": "USER",
+      "level": 96
+    },
+    "message": "since nokken is a liomited",
+    "timestamp": "2026-05-15T13:39:08.419Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "a2035d2a-40d0-4d1e-952b-4fc48dc53c94",
+      "shortId": "02979J",
+      "name": "Baduy",
+      "role": "USER",
+      "level": 96
+    },
+    "message": "yeah",
+    "timestamp": "2026-05-15T13:39:13.861Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "a2035d2a-40d0-4d1e-952b-4fc48dc53c94",
+      "shortId": "02979J",
+      "name": "Baduy",
+      "role": "USER",
+      "level": 96
+    },
+    "message": "aura regal",
+    "timestamp": "2026-05-15T13:39:31.520Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "a2035d2a-40d0-4d1e-952b-4fc48dc53c94",
+      "shortId": "02979J",
+      "name": "Baduy",
+      "role": "USER",
+      "level": 96
+    },
+    "message": "sorry wizard i i would rather have yuki",
+    "timestamp": "2026-05-15T13:40:02.154Z"
   }
 ]
