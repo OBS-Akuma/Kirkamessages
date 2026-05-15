@@ -514,5 +514,17 @@
     },
     "message": "/confirmwager",
     "timestamp": "2026-05-15T13:59:05.426Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "5a04b112-f5a9-4d7a-9c56-0f9181aa7ac6",
+      "shortId": "1X26GT",
+      "name": "FatFat117",
+      "role": "USER",
+      "level": 21
+    },
+    "message": "/price [Punji|Bayonet|WEAPON_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-15T23:44:36.943Z"
   }
 ]
