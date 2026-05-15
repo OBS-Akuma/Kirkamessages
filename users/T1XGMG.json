@@ -3538,5 +3538,305 @@
     },
     "message": "?",
     "timestamp": "2026-05-14T17:26:23.265Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "1b11cbe3-1e5b-405a-be00-261152eedc05",
+      "shortId": "T1XGMG",
+      "name": "j..........",
+      "role": "USER",
+      "level": 92
+    },
+    "message": "ok",
+    "timestamp": "2026-05-14T21:23:29.552Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "1b11cbe3-1e5b-405a-be00-261152eedc05",
+      "shortId": "T1XGMG",
+      "name": "j..........",
+      "role": "USER",
+      "level": 92
+    },
+    "message": "/mytrade",
+    "timestamp": "2026-05-14T21:24:34.814Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "1b11cbe3-1e5b-405a-be00-261152eedc05",
+      "shortId": "T1XGMG",
+      "name": "j..........",
+      "role": "USER",
+      "level": 92
+    },
+    "message": "/price [Honeyboo||BODY_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-14T21:27:18.165Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "1b11cbe3-1e5b-405a-be00-261152eedc05",
+      "shortId": "T1XGMG",
+      "name": "j..........",
+      "role": "USER",
+      "level": 92
+    },
+    "message": "/inv",
+    "timestamp": "2026-05-14T21:29:16.309Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "1b11cbe3-1e5b-405a-be00-261152eedc05",
+      "shortId": "T1XGMG",
+      "name": "j..........",
+      "role": "USER",
+      "level": 92
+    },
+    "message": "#609GEM you traded me 12m for 30m lol",
+    "timestamp": "2026-05-14T21:30:40.611Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "1b11cbe3-1e5b-405a-be00-261152eedc05",
+      "shortId": "T1XGMG",
+      "name": "j..........",
+      "role": "USER",
+      "level": 92
+    },
+    "message": "#609GEM what I'm saying you basicly got scammed",
+    "timestamp": "2026-05-14T21:31:48.671Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "1b11cbe3-1e5b-405a-be00-261152eedc05",
+      "shortId": "T1XGMG",
+      "name": "j..........",
+      "role": "USER",
+      "level": 92
+    },
+    "message": "lol",
+    "timestamp": "2026-05-14T21:31:50.067Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "1b11cbe3-1e5b-405a-be00-261152eedc05",
+      "shortId": "T1XGMG",
+      "name": "j..........",
+      "role": "USER",
+      "level": 92
+    },
+    "message": "I'm jking",
+    "timestamp": "2026-05-14T21:32:28.097Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "1b11cbe3-1e5b-405a-be00-261152eedc05",
+      "shortId": "T1XGMG",
+      "name": "j..........",
+      "role": "USER",
+      "level": 92
+    },
+    "message": "#VRLW4V hm fro [Employed||BODY_SKIN|MYTHICAL]?",
+    "timestamp": "2026-05-14T21:33:19.176Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "1b11cbe3-1e5b-405a-be00-261152eedc05",
+      "shortId": "T1XGMG",
+      "name": "j..........",
+      "role": "USER",
+      "level": 92
+    },
+    "message": "/price [Employed||BODY_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-14T21:34:26.185Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "1b11cbe3-1e5b-405a-be00-261152eedc05",
+      "shortId": "T1XGMG",
+      "name": "j..........",
+      "role": "USER",
+      "level": 92
+    },
+    "message": "trading [Dipolar||BODY_SKIN|MYTHICAL] and [Honeyboo||BODY_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-14T21:40:24.476Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "1b11cbe3-1e5b-405a-be00-261152eedc05",
+      "shortId": "T1XGMG",
+      "name": "j..........",
+      "role": "USER",
+      "level": 92
+    },
+    "message": "/in",
+    "timestamp": "2026-05-14T21:40:34.433Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "1b11cbe3-1e5b-405a-be00-261152eedc05",
+      "shortId": "T1XGMG",
+      "name": "j..........",
+      "role": "USER",
+      "level": 92
+    },
+    "message": "/inv",
+    "timestamp": "2026-05-14T21:40:36.552Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "1b11cbe3-1e5b-405a-be00-261152eedc05",
+      "shortId": "T1XGMG",
+      "name": "j..........",
+      "role": "USER",
+      "level": 92
+    },
+    "message": "/bolt [Honeyboo||BODY_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-15T01:12:39.201Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "1b11cbe3-1e5b-405a-be00-261152eedc05",
+      "shortId": "T1XGMG",
+      "name": "j..........",
+      "role": "USER",
+      "level": 92
+    },
+    "message": "TRADING - [Dipolar||BODY_SKIN|MYTHICAL] and [Honeyboo||BODY_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-15T01:13:05.928Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "1b11cbe3-1e5b-405a-be00-261152eedc05",
+      "shortId": "T1XGMG",
+      "name": "j..........",
+      "role": "USER",
+      "level": 92
+    },
+    "message": "me",
+    "timestamp": "2026-05-15T01:15:54.476Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "1b11cbe3-1e5b-405a-be00-261152eedc05",
+      "shortId": "T1XGMG",
+      "name": "j..........",
+      "role": "USER",
+      "level": 92
+    },
+    "message": "i have demon",
+    "timestamp": "2026-05-15T01:15:58.285Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "1b11cbe3-1e5b-405a-be00-261152eedc05",
+      "shortId": "T1XGMG",
+      "name": "j..........",
+      "role": "USER",
+      "level": 92
+    },
+    "message": "im kidding i dont have it",
+    "timestamp": "2026-05-15T01:16:31.370Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "1b11cbe3-1e5b-405a-be00-261152eedc05",
+      "shortId": "T1XGMG",
+      "name": "j..........",
+      "role": "USER",
+      "level": 92
+    },
+    "message": "[Jazzin||BODY_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-15T01:21:25.795Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "1b11cbe3-1e5b-405a-be00-261152eedc05",
+      "shortId": "T1XGMG",
+      "name": "j..........",
+      "role": "USER",
+      "level": 92
+    },
+    "message": "/price [Ashley||BODY_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-15T01:23:04.296Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "1b11cbe3-1e5b-405a-be00-261152eedc05",
+      "shortId": "T1XGMG",
+      "name": "j..........",
+      "role": "USER",
+      "level": 92
+    },
+    "message": "/price [Slayer|VITA|WEAPON_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-15T01:26:32.644Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "1b11cbe3-1e5b-405a-be00-261152eedc05",
+      "shortId": "T1XGMG",
+      "name": "j..........",
+      "role": "USER",
+      "level": 92
+    },
+    "message": "iak",
+    "timestamp": "2026-05-15T01:29:56.605Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "1b11cbe3-1e5b-405a-be00-261152eedc05",
+      "shortId": "T1XGMG",
+      "name": "j..........",
+      "role": "USER",
+      "level": 92
+    },
+    "message": "idk",
+    "timestamp": "2026-05-15T01:29:58.874Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "1b11cbe3-1e5b-405a-be00-261152eedc05",
+      "shortId": "T1XGMG",
+      "name": "j..........",
+      "role": "USER",
+      "level": 92
+    },
+    "message": "#ALASWH my offer?",
+    "timestamp": "2026-05-15T01:30:22.203Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "1b11cbe3-1e5b-405a-be00-261152eedc05",
+      "shortId": "T1XGMG",
+      "name": "j..........",
+      "role": "USER",
+      "level": 92
+    },
+    "message": "#CXF730 can i offer [Ghillie||BODY_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-15T01:32:08.793Z"
   }
 ]
