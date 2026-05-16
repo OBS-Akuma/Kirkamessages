@@ -1,0 +1,26 @@
+[
+  {
+    "type": 2,
+    "user": {
+      "id": "guest-d6308504-d235-4b16-a5e4-677c69877d00",
+      "shortId": "M06G2T",
+      "name": "FateX",
+      "role": "USER",
+      "level": 5
+    },
+    "message": "/trad",
+    "timestamp": "2026-05-15T13:02:30.054Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "guest-d6308504-d235-4b16-a5e4-677c69877d00",
+      "shortId": "M06G2T",
+      "name": "FateX",
+      "role": "USER",
+      "level": 5
+    },
+    "message": "how do I trade",
+    "timestamp": "2026-05-15T13:02:43.273Z"
+  }
+]
