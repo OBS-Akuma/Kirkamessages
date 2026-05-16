@@ -538,5 +538,29 @@
     },
     "message": "/hm grinch",
     "timestamp": "2026-05-15T19:56:39.767Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "620dab01-f658-4dfd-90ff-a07442ac3566",
+      "shortId": "SPENDA",
+      "name": "Find",
+      "role": "USER",
+      "level": 100
+    },
+    "message": "nft",
+    "timestamp": "2026-05-16T02:01:39.727Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "620dab01-f658-4dfd-90ff-a07442ac3566",
+      "shortId": "SPENDA",
+      "name": "Find",
+      "role": "USER",
+      "level": 100
+    },
+    "message": "/hm lol",
+    "timestamp": "2026-05-16T02:03:07.882Z"
   }
 ]
