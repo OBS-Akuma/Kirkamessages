@@ -118,5 +118,125 @@
     },
     "message": "/inv",
     "timestamp": "2026-05-07T09:03:13.198Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "3d3286c6-c2a7-4fc0-825c-940dc21e56b3",
+      "shortId": "1D70XC",
+      "name": "FAKE_NEWBIE",
+      "role": "USER",
+      "level": 18
+    },
+    "message": "bleaze",
+    "timestamp": "2026-05-16T01:13:25.642Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "3d3286c6-c2a7-4fc0-825c-940dc21e56b3",
+      "shortId": "1D70XC",
+      "name": "FAKE_NEWBIE",
+      "role": "USER",
+      "level": 18
+    },
+    "message": "hm [Maze||BODY_SKIN|EPIC]",
+    "timestamp": "2026-05-16T01:13:27.676Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "3d3286c6-c2a7-4fc0-825c-940dc21e56b3",
+      "shortId": "1D70XC",
+      "name": "FAKE_NEWBIE",
+      "role": "USER",
+      "level": 18
+    },
+    "message": "?",
+    "timestamp": "2026-05-16T01:13:28.662Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "3d3286c6-c2a7-4fc0-825c-940dc21e56b3",
+      "shortId": "1D70XC",
+      "name": "FAKE_NEWBIE",
+      "role": "USER",
+      "level": 18
+    },
+    "message": "idw limited!",
+    "timestamp": "2026-05-16T01:14:21.331Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "3d3286c6-c2a7-4fc0-825c-940dc21e56b3",
+      "shortId": "1D70XC",
+      "name": "FAKE_NEWBIE",
+      "role": "USER",
+      "level": 18
+    },
+    "message": "[Elysian|Shark|WEAPON_SKIN|MYTHICAL] for [Maze||BODY_SKIN|EPIC]?",
+    "timestamp": "2026-05-16T01:14:31.891Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "3d3286c6-c2a7-4fc0-825c-940dc21e56b3",
+      "shortId": "1D70XC",
+      "name": "FAKE_NEWBIE",
+      "role": "USER",
+      "level": 18
+    },
+    "message": "its 60m~70m",
+    "timestamp": "2026-05-16T01:14:40.586Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "3d3286c6-c2a7-4fc0-825c-940dc21e56b3",
+      "shortId": "1D70XC",
+      "name": "FAKE_NEWBIE",
+      "role": "USER",
+      "level": 18
+    },
+    "message": "ok hm add?",
+    "timestamp": "2026-05-16T01:15:10.671Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "3d3286c6-c2a7-4fc0-825c-940dc21e56b3",
+      "shortId": "1D70XC",
+      "name": "FAKE_NEWBIE",
+      "role": "USER",
+      "level": 18
+    },
+    "message": "/inv",
+    "timestamp": "2026-05-16T01:15:18.173Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "3d3286c6-c2a7-4fc0-825c-940dc21e56b3",
+      "shortId": "1D70XC",
+      "name": "FAKE_NEWBIE",
+      "role": "USER",
+      "level": 18
+    },
+    "message": "[Spice||BODY_SKIN|MYTHICAL]add?",
+    "timestamp": "2026-05-16T01:15:45.122Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "3d3286c6-c2a7-4fc0-825c-940dc21e56b3",
+      "shortId": "1D70XC",
+      "name": "FAKE_NEWBIE",
+      "role": "USER",
+      "level": 18
+    },
+    "message": "[Splanch|VITA|WEAPON_SKIN|MYTHICAL] for [Maze||BODY_SKIN|EPIC]add",
+    "timestamp": "2026-05-16T01:16:49.784Z"
   }
 ]
