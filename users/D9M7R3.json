@@ -298,5 +298,473 @@
     },
     "message": "[James||BODY_SKIN|COMMON]",
     "timestamp": "2026-05-15T08:45:10.882Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "0b43e966-3a87-43a7-b01a-7caf11b625a1",
+      "shortId": "D9M7R3",
+      "name": "V0idSn1per_Op",
+      "role": "USER",
+      "level": 18
+    },
+    "message": "/price [Pastel||BODY_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-16T07:00:08.957Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "0b43e966-3a87-43a7-b01a-7caf11b625a1",
+      "shortId": "D9M7R3",
+      "name": "V0idSn1per_Op",
+      "role": "USER",
+      "level": 18
+    },
+    "message": "/price [Xx||BODY_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-16T07:00:30.610Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "0b43e966-3a87-43a7-b01a-7caf11b625a1",
+      "shortId": "D9M7R3",
+      "name": "V0idSn1per_Op",
+      "role": "USER",
+      "level": 18
+    },
+    "message": "[TICKETER]",
+    "timestamp": "2026-05-16T07:04:00.251Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "0b43e966-3a87-43a7-b01a-7caf11b625a1",
+      "shortId": "D9M7R3",
+      "name": "V0idSn1per_Op",
+      "role": "USER",
+      "level": 18
+    },
+    "message": "[Ticketer]",
+    "timestamp": "2026-05-16T07:04:07.260Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "0b43e966-3a87-43a7-b01a-7caf11b625a1",
+      "shortId": "D9M7R3",
+      "name": "V0idSn1per_Op",
+      "role": "USER",
+      "level": 18
+    },
+    "message": "hello",
+    "timestamp": "2026-05-16T07:06:48.514Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "0b43e966-3a87-43a7-b01a-7caf11b625a1",
+      "shortId": "D9M7R3",
+      "name": "V0idSn1per_Op",
+      "role": "USER",
+      "level": 18
+    },
+    "message": "accept karlo",
+    "timestamp": "2026-05-16T07:07:01.636Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "0b43e966-3a87-43a7-b01a-7caf11b625a1",
+      "shortId": "D9M7R3",
+      "name": "V0idSn1per_Op",
+      "role": "USER",
+      "level": 18
+    },
+    "message": "likho /trade accept 57310",
+    "timestamp": "2026-05-16T07:07:25.070Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "0b43e966-3a87-43a7-b01a-7caf11b625a1",
+      "shortId": "D9M7R3",
+      "name": "V0idSn1per_Op",
+      "role": "USER",
+      "level": 18
+    },
+    "message": "/ dal ke karo",
+    "timestamp": "2026-05-16T07:07:58.802Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "0b43e966-3a87-43a7-b01a-7caf11b625a1",
+      "shortId": "D9M7R3",
+      "name": "V0idSn1per_Op",
+      "role": "USER",
+      "level": 18
+    },
+    "message": "yar game mein ao",
+    "timestamp": "2026-05-16T07:08:52.717Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "0b43e966-3a87-43a7-b01a-7caf11b625a1",
+      "shortId": "D9M7R3",
+      "name": "V0idSn1per_Op",
+      "role": "USER",
+      "level": 18
+    },
+    "message": "bhai layesh",
+    "timestamp": "2026-05-16T07:12:10.995Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "0b43e966-3a87-43a7-b01a-7caf11b625a1",
+      "shortId": "D9M7R3",
+      "name": "V0idSn1per_Op",
+      "role": "USER",
+      "level": 18
+    },
+    "message": "likho",
+    "timestamp": "2026-05-16T07:12:16.707Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "0b43e966-3a87-43a7-b01a-7caf11b625a1",
+      "shortId": "D9M7R3",
+      "name": "V0idSn1per_Op",
+      "role": "USER",
+      "level": 18
+    },
+    "message": "ye likho /trade accept 57310",
+    "timestamp": "2026-05-16T07:12:38.584Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "0b43e966-3a87-43a7-b01a-7caf11b625a1",
+      "shortId": "D9M7R3",
+      "name": "V0idSn1per_Op",
+      "role": "USER",
+      "level": 18
+    },
+    "message": "han",
+    "timestamp": "2026-05-16T07:12:51.979Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "0b43e966-3a87-43a7-b01a-7caf11b625a1",
+      "shortId": "D9M7R3",
+      "name": "V0idSn1per_Op",
+      "role": "USER",
+      "level": 18
+    },
+    "message": "likho /trade accept",
+    "timestamp": "2026-05-16T07:13:35.052Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "0b43e966-3a87-43a7-b01a-7caf11b625a1",
+      "shortId": "D9M7R3",
+      "name": "V0idSn1per_Op",
+      "role": "USER",
+      "level": 18
+    },
+    "message": "likho /trad eacceot mere bhai",
+    "timestamp": "2026-05-16T07:14:35.900Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "0b43e966-3a87-43a7-b01a-7caf11b625a1",
+      "shortId": "D9M7R3",
+      "name": "V0idSn1per_Op",
+      "role": "USER",
+      "level": 18
+    },
+    "message": "yar",
+    "timestamp": "2026-05-16T07:14:57.790Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "0b43e966-3a87-43a7-b01a-7caf11b625a1",
+      "shortId": "D9M7R3",
+      "name": "V0idSn1per_Op",
+      "role": "USER",
+      "level": 18
+    },
+    "message": "likho /trade accept",
+    "timestamp": "2026-05-16T07:15:06.822Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "0b43e966-3a87-43a7-b01a-7caf11b625a1",
+      "shortId": "D9M7R3",
+      "name": "V0idSn1per_Op",
+      "role": "USER",
+      "level": 18
+    },
+    "message": "yar tu pagal hai kya",
+    "timestamp": "2026-05-16T07:15:37.992Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "0b43e966-3a87-43a7-b01a-7caf11b625a1",
+      "shortId": "D9M7R3",
+      "name": "V0idSn1per_Op",
+      "role": "USER",
+      "level": 18
+    },
+    "message": "dimag kharab kar raha hai",
+    "timestamp": "2026-05-16T07:15:48.068Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "0b43e966-3a87-43a7-b01a-7caf11b625a1",
+      "shortId": "D9M7R3",
+      "name": "V0idSn1per_Op",
+      "role": "USER",
+      "level": 18
+    },
+    "message": "game mein a",
+    "timestamp": "2026-05-16T07:16:00.288Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "0b43e966-3a87-43a7-b01a-7caf11b625a1",
+      "shortId": "D9M7R3",
+      "name": "V0idSn1per_Op",
+      "role": "USER",
+      "level": 18
+    },
+    "message": "mein tujhe keh raha hun ke likh /trade accept 57310",
+    "timestamp": "2026-05-16T07:16:30.408Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "0b43e966-3a87-43a7-b01a-7caf11b625a1",
+      "shortId": "D9M7R3",
+      "name": "V0idSn1per_Op",
+      "role": "USER",
+      "level": 18
+    },
+    "message": "han",
+    "timestamp": "2026-05-16T07:21:29.578Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "0b43e966-3a87-43a7-b01a-7caf11b625a1",
+      "shortId": "D9M7R3",
+      "name": "V0idSn1per_Op",
+      "role": "USER",
+      "level": 18
+    },
+    "message": "bhai tabse keh raha hun sun le",
+    "timestamp": "2026-05-16T07:21:37.492Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "0b43e966-3a87-43a7-b01a-7caf11b625a1",
+      "shortId": "D9M7R3",
+      "name": "V0idSn1per_Op",
+      "role": "USER",
+      "level": 18
+    },
+    "message": "likh /trade accept 57310 uske bad /trade confirm",
+    "timestamp": "2026-05-16T07:22:03.832Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "0b43e966-3a87-43a7-b01a-7caf11b625a1",
+      "shortId": "D9M7R3",
+      "name": "V0idSn1per_Op",
+      "role": "USER",
+      "level": 18
+    },
+    "message": "yar tu likh kaha raha hai",
+    "timestamp": "2026-05-16T07:23:28.212Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "0b43e966-3a87-43a7-b01a-7caf11b625a1",
+      "shortId": "D9M7R3",
+      "name": "V0idSn1per_Op",
+      "role": "USER",
+      "level": 18
+    },
+    "message": "kn",
+    "timestamp": "2026-05-16T07:28:26.581Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "0b43e966-3a87-43a7-b01a-7caf11b625a1",
+      "shortId": "D9M7R3",
+      "name": "V0idSn1per_Op",
+      "role": "USER",
+      "level": 18
+    },
+    "message": "kya likha hai pehle tune",
+    "timestamp": "2026-05-16T07:29:00.441Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "0b43e966-3a87-43a7-b01a-7caf11b625a1",
+      "shortId": "D9M7R3",
+      "name": "V0idSn1per_Op",
+      "role": "USER",
+      "level": 18
+    },
+    "message": "han bhai",
+    "timestamp": "2026-05-16T07:35:02.397Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "0b43e966-3a87-43a7-b01a-7caf11b625a1",
+      "shortId": "D9M7R3",
+      "name": "V0idSn1per_Op",
+      "role": "USER",
+      "level": 18
+    },
+    "message": "likh diya",
+    "timestamp": "2026-05-16T07:35:06.792Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "0b43e966-3a87-43a7-b01a-7caf11b625a1",
+      "shortId": "D9M7R3",
+      "name": "V0idSn1per_Op",
+      "role": "USER",
+      "level": 18
+    },
+    "message": "ab llikh /trade bump",
+    "timestamp": "2026-05-16T07:35:27.698Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "0b43e966-3a87-43a7-b01a-7caf11b625a1",
+      "shortId": "D9M7R3",
+      "name": "V0idSn1per_Op",
+      "role": "USER",
+      "level": 18
+    },
+    "message": "ab enter bhi karde",
+    "timestamp": "2026-05-16T07:36:03.110Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "0b43e966-3a87-43a7-b01a-7caf11b625a1",
+      "shortId": "D9M7R3",
+      "name": "V0idSn1per_Op",
+      "role": "USER",
+      "level": 18
+    },
+    "message": "likh /trade offer my:[Pastel||BODY_SKIN|MYTHICAL] your:[Xx||BODY_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-16T07:36:46.206Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "0b43e966-3a87-43a7-b01a-7caf11b625a1",
+      "shortId": "D9M7R3",
+      "name": "V0idSn1per_Op",
+      "role": "USER",
+      "level": 18
+    },
+    "message": "likh ab",
+    "timestamp": "2026-05-16T07:42:22.848Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "0b43e966-3a87-43a7-b01a-7caf11b625a1",
+      "shortId": "D9M7R3",
+      "name": "V0idSn1per_Op",
+      "role": "USER",
+      "level": 18
+    },
+    "message": "bata kya likhe",
+    "timestamp": "2026-05-16T07:45:39.508Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "0b43e966-3a87-43a7-b01a-7caf11b625a1",
+      "shortId": "D9M7R3",
+      "name": "V0idSn1per_Op",
+      "role": "USER",
+      "level": 18
+    },
+    "message": "BATAAAAAAAA",
+    "timestamp": "2026-05-16T07:46:22.422Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "0b43e966-3a87-43a7-b01a-7caf11b625a1",
+      "shortId": "D9M7R3",
+      "name": "V0idSn1per_Op",
+      "role": "USER",
+      "level": 18
+    },
+    "message": "LIKHA KYA HAI TUNEEEEEEEEEE",
+    "timestamp": "2026-05-16T07:47:18.652Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "0b43e966-3a87-43a7-b01a-7caf11b625a1",
+      "shortId": "D9M7R3",
+      "name": "V0idSn1per_Op",
+      "role": "USER",
+      "level": 18
+    },
+    "message": "KYA THIK HA",
+    "timestamp": "2026-05-16T07:48:42.469Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "0b43e966-3a87-43a7-b01a-7caf11b625a1",
+      "shortId": "D9M7R3",
+      "name": "V0idSn1per_Op",
+      "role": "USER",
+      "level": 18
+    },
+    "message": "LIKH /trade offer my:[Pastel||BODY_SKIN|MYTHICAL] your:[Xx||BODY_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-16T07:49:20.163Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "0b43e966-3a87-43a7-b01a-7caf11b625a1",
+      "shortId": "D9M7R3",
+      "name": "V0idSn1per_Op",
+      "role": "USER",
+      "level": 18
+    },
+    "message": "/inv",
+    "timestamp": "2026-05-16T07:49:42.480Z"
   }
 ]
