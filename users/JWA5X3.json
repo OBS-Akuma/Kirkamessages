@@ -1150,5 +1150,17 @@
     },
     "message": "saint [Gardener|Bayonet|WEAPON_SKIN|MYTHICAL] for [Astral|AR-9|WEAPON_SKIN|MYTHICAL]",
     "timestamp": "2026-05-14T10:27:36.646Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "oxeMDF6fD4QcQyaaSaRwsbEXU8p1",
+      "shortId": "JWA5X3",
+      "name": "HUNTER",
+      "role": "USER",
+      "level": 99
+    },
+    "message": "tr [Gardener|Bayonet|WEAPON_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-16T06:42:36.122Z"
   }
 ]
