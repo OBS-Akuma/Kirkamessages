@@ -1040,7 +1040,7 @@
       "role": "USER",
       "level": 33
     },
-    "message": "lo intenté",
+    "message": "lo intentÃ©",
     "timestamp": "2026-05-16T10:46:57.285Z"
   },
   {
@@ -1174,5 +1174,41 @@
     },
     "message": "500 goldens",
     "timestamp": "2026-05-16T12:06:05.545Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "dde0da8a-87f3-4294-bf44-5b5aaf07c020",
+      "shortId": "8AFZL2",
+      "name": "AIMTOME",
+      "role": "USER",
+      "level": 34
+    },
+    "message": "Master",
+    "timestamp": "2026-05-16T12:23:08.549Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "dde0da8a-87f3-4294-bf44-5b5aaf07c020",
+      "shortId": "8AFZL2",
+      "name": "AIMTOME",
+      "role": "USER",
+      "level": 34
+    },
+    "message": "slide 1 biker ;-; Im broke ;((",
+    "timestamp": "2026-05-16T12:23:22.860Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "dde0da8a-87f3-4294-bf44-5b5aaf07c020",
+      "shortId": "8AFZL2",
+      "name": "AIMTOME",
+      "role": "USER",
+      "level": 34
+    },
+    "message": "Slide 1 bikerrr master",
+    "timestamp": "2026-05-16T12:23:48.816Z"
   }
 ]
