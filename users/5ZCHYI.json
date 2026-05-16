@@ -7390,5 +7390,29 @@
     },
     "message": "lf [Forbidden|AR-9|WEAPON_SKIN|MYTHICAL]",
     "timestamp": "2026-05-16T10:44:39.759Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "3cd39bca-fb4d-4024-bf72-57d747f9a75f",
+      "shortId": "5ZCHYI",
+      "name": "Saint.",
+      "role": "USER",
+      "level": 75
+    },
+    "message": "/vt [Soak|Revolver|WEAPON_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-16T11:11:46.734Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "3cd39bca-fb4d-4024-bf72-57d747f9a75f",
+      "shortId": "5ZCHYI",
+      "name": "Saint.",
+      "role": "USER",
+      "level": 75
+    },
+    "message": "/st [Soak|Revolver|WEAPON_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-16T11:11:53.510Z"
   }
 ]
