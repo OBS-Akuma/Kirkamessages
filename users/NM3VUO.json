@@ -2986,5 +2986,41 @@
     },
     "message": "can someone buy my uranium and blast bayonet plzz :D",
     "timestamp": "2026-05-15T21:03:45.179Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "1a4fb7ab-45cd-449b-858f-14a509ff9ecb",
+      "shortId": "NM3VUO",
+      "name": "1x1x1x1",
+      "role": "USER",
+      "level": 66
+    },
+    "message": "/hm 1337",
+    "timestamp": "2026-05-16T00:33:46.181Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "1a4fb7ab-45cd-449b-858f-14a509ff9ecb",
+      "shortId": "NM3VUO",
+      "name": "1x1x1x1",
+      "role": "USER",
+      "level": 66
+    },
+    "message": "can smb buy my uranium blast bayonet :D",
+    "timestamp": "2026-05-16T00:34:09.254Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "1a4fb7ab-45cd-449b-858f-14a509ff9ecb",
+      "shortId": "NM3VUO",
+      "name": "1x1x1x1",
+      "role": "USER",
+      "level": 67
+    },
+    "message": "/hm bunny",
+    "timestamp": "2026-05-16T02:01:35.273Z"
   }
 ]
