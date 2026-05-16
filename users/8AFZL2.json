@@ -1040,7 +1040,7 @@
       "role": "USER",
       "level": 33
     },
-    "message": "lo intentÃ©",
+    "message": "lo intentÃÂ©",
     "timestamp": "2026-05-16T10:46:57.285Z"
   },
   {
@@ -1210,5 +1210,29 @@
     },
     "message": "Slide 1 bikerrr master",
     "timestamp": "2026-05-16T12:23:48.816Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "dde0da8a-87f3-4294-bf44-5b5aaf07c020",
+      "shortId": "8AFZL2",
+      "name": "AIMTOME",
+      "role": "USER",
+      "level": 34
+    },
+    "message": "soul",
+    "timestamp": "2026-05-16T14:48:20.969Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "dde0da8a-87f3-4294-bf44-5b5aaf07c020",
+      "shortId": "8AFZL2",
+      "name": "AIMTOME",
+      "role": "USER",
+      "level": 34
+    },
+    "message": "ready",
+    "timestamp": "2026-05-16T14:48:22.105Z"
   }
 ]
