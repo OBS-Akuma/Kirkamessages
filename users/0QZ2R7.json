@@ -8086,5 +8086,41 @@
     },
     "message": "theband hm [CV01|Bayonet|WEAPON_SKIN|MYTHICAL]?",
     "timestamp": "2026-05-16T15:00:53.263Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "8292ae2f-a5de-48e3-a36a-77b9bee4fc56",
+      "shortId": "0QZ2R7",
+      "name": "LGD|Zero",
+      "role": "USER",
+      "level": 59
+    },
+    "message": "/locate lor",
+    "timestamp": "2026-05-16T15:08:46.194Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "8292ae2f-a5de-48e3-a36a-77b9bee4fc56",
+      "shortId": "0QZ2R7",
+      "name": "LGD|Zero",
+      "role": "USER",
+      "level": 59
+    },
+    "message": "anyone poor tryna trade poor ppl skins?",
+    "timestamp": "2026-05-16T15:09:39.691Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "8292ae2f-a5de-48e3-a36a-77b9bee4fc56",
+      "shortId": "0QZ2R7",
+      "name": "LGD|Zero",
+      "role": "USER",
+      "level": 59
+    },
+    "message": "/hm bones",
+    "timestamp": "2026-05-16T15:09:53.525Z"
   }
 ]
