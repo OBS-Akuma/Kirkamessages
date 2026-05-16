@@ -1774,5 +1774,113 @@
     },
     "message": "/hm sinister",
     "timestamp": "2026-05-16T04:36:25.963Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "xkiNzXE2NVRhVv2juciDJAGV2IG3",
+      "shortId": "4LGFBI",
+      "name": "EzoSensha",
+      "role": "USER",
+      "level": 37
+    },
+    "message": "i have shroud",
+    "timestamp": "2026-05-16T05:46:13.535Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "xkiNzXE2NVRhVv2juciDJAGV2IG3",
+      "shortId": "4LGFBI",
+      "name": "EzoSensha",
+      "role": "USER",
+      "level": 37
+    },
+    "message": "no",
+    "timestamp": "2026-05-16T05:46:35.698Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "xkiNzXE2NVRhVv2juciDJAGV2IG3",
+      "shortId": "4LGFBI",
+      "name": "EzoSensha",
+      "role": "USER",
+      "level": 37
+    },
+    "message": "trading [Rar|LAR|WEAPON_SKIN|LEGENDARY] and [Shroud||BODY_SKIN|MYTHICAL] and [Golden||CHEST|LEGENDARY]x2000",
+    "timestamp": "2026-05-16T05:48:43.461Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "xkiNzXE2NVRhVv2juciDJAGV2IG3",
+      "shortId": "4LGFBI",
+      "name": "EzoSensha",
+      "role": "USER",
+      "level": 37
+    },
+    "message": "trading [Rar|LAR|WEAPON_SKIN|LEGENDARY],[Shroud||BODY_SKIN|MYTHICAL],[Golden||CHEST|LEGENDARY]x2000",
+    "timestamp": "2026-05-16T06:04:54.801Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "xkiNzXE2NVRhVv2juciDJAGV2IG3",
+      "shortId": "4LGFBI",
+      "name": "EzoSensha",
+      "role": "USER",
+      "level": 37
+    },
+    "message": "dont spam",
+    "timestamp": "2026-05-16T06:12:08.131Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "xkiNzXE2NVRhVv2juciDJAGV2IG3",
+      "shortId": "4LGFBI",
+      "name": "EzoSensha",
+      "role": "USER",
+      "level": 37
+    },
+    "message": "HM FUDGE ?",
+    "timestamp": "2026-05-16T06:21:59.606Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "xkiNzXE2NVRhVv2juciDJAGV2IG3",
+      "shortId": "4LGFBI",
+      "name": "EzoSensha",
+      "role": "USER",
+      "level": 37
+    },
+    "message": "/hm fudge",
+    "timestamp": "2026-05-16T06:22:36.860Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "xkiNzXE2NVRhVv2juciDJAGV2IG3",
+      "shortId": "4LGFBI",
+      "name": "EzoSensha",
+      "role": "USER",
+      "level": 37
+    },
+    "message": "/hm rar",
+    "timestamp": "2026-05-16T06:22:51.656Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "xkiNzXE2NVRhVv2juciDJAGV2IG3",
+      "shortId": "4LGFBI",
+      "name": "EzoSensha",
+      "role": "USER",
+      "level": 37
+    },
+    "message": "/claim",
+    "timestamp": "2026-05-16T06:23:50.208Z"
   }
 ]
