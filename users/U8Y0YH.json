@@ -34,5 +34,17 @@
     },
     "message": "[Gold|VITA|WEAPON_SKIN|LEGENDARY]",
     "timestamp": "2026-05-14T12:21:53.851Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "bf980d53-2ddd-4537-8349-a6f5f294970c",
+      "shortId": "U8Y0YH",
+      "name": "Flame",
+      "role": "USER",
+      "level": 12
+    },
+    "message": "[Lost||BODY_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-16T02:27:46.584Z"
   }
 ]
