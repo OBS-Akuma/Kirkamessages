@@ -562,5 +562,17 @@
     },
     "message": "ah well gg",
     "timestamp": "2026-05-16T09:56:40.734Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "6e96cbad-888e-4efd-bd88-73b43c669daf",
+      "shortId": "9LIVES",
+      "name": "-CAT-",
+      "role": "USER",
+      "level": 99
+    },
+    "message": "do you trade rubies?",
+    "timestamp": "2026-05-16T10:14:42.116Z"
   }
 ]
