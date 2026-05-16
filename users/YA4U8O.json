@@ -238,5 +238,29 @@
     },
     "message": ".hm milkyway",
     "timestamp": "2026-05-15T20:43:19.097Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "287119fe-d055-4d21-b222-fa6f668e0d9c",
+      "shortId": "YA4U8O",
+      "name": "VANDREX",
+      "role": "USER",
+      "level": 95
+    },
+    "message": "/hm vintage",
+    "timestamp": "2026-05-16T09:56:37.209Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "287119fe-d055-4d21-b222-fa6f668e0d9c",
+      "shortId": "YA4U8O",
+      "name": "VANDREX",
+      "role": "USER",
+      "level": 95
+    },
+    "message": "/hm smile",
+    "timestamp": "2026-05-16T09:56:42.995Z"
   }
 ]
