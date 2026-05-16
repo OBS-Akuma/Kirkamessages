@@ -646,5 +646,101 @@
     },
     "message": "/hm constellations",
     "timestamp": "2026-05-15T21:10:01.378Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "0aa4b82d-c493-46e5-b15e-1a5be70aca94",
+      "shortId": "71G00F",
+      "name": "cc-baals",
+      "role": "USER",
+      "level": 84
+    },
+    "message": "tr [Baldwin||BODY_SKIN|MYTHICAL],[Punishment||BODY_SKIN|MYTHICAL],[Ghoul||BODY_SKIN|MYTHICAL],[Capricorn|Tomahawk|WEAPON_SKIN|MYTHICAL],[Damascus|Tomahawk|WEAPON_SKIN|MYTHICAL],[Polygon|Bayonet|WEAPON_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-16T09:24:21.262Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "0aa4b82d-c493-46e5-b15e-1a5be70aca94",
+      "shortId": "71G00F",
+      "name": "cc-baals",
+      "role": "USER",
+      "level": 84
+    },
+    "message": "yes nickeru",
+    "timestamp": "2026-05-16T09:25:10.306Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "0aa4b82d-c493-46e5-b15e-1a5be70aca94",
+      "shortId": "71G00F",
+      "name": "cc-baals",
+      "role": "USER",
+      "level": 84
+    },
+    "message": "nickeru??",
+    "timestamp": "2026-05-16T09:25:58.941Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "0aa4b82d-c493-46e5-b15e-1a5be70aca94",
+      "shortId": "71G00F",
+      "name": "cc-baals",
+      "role": "USER",
+      "level": 84
+    },
+    "message": "tr[Punishment||BODY_SKIN|MYTHICAL],[Ghoul||BODY_SKIN|MYTHICAL],[Baldwin||BODY_SKIN|MYTHICAL],[2026||BODY_SKIN|MYTHICAL],[Capricorn|Tomahawk|WEAPON_SKIN|MYTHICAL],[Damascus|Tomahawk|WEAPON_SKIN|MYTHICAL] lf [Endless||BODY_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-16T09:27:23.476Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "0aa4b82d-c493-46e5-b15e-1a5be70aca94",
+      "shortId": "71G00F",
+      "name": "cc-baals",
+      "role": "USER",
+      "level": 84
+    },
+    "message": "/cancel trade",
+    "timestamp": "2026-05-16T09:28:05.442Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "0aa4b82d-c493-46e5-b15e-1a5be70aca94",
+      "shortId": "71G00F",
+      "name": "cc-baals",
+      "role": "USER",
+      "level": 84
+    },
+    "message": "tr [Ghoul||BODY_SKIN|MYTHICAL],[Punishment||BODY_SKIN|MYTHICAL],[Baldwin||BODY_SKIN|MYTHICAL],[2026||BODY_SKIN|MYTHICAL],[Capricorn|Tomahawk|WEAPON_SKIN|MYTHICAL],[Damascus|Tomahawk|WEAPON_SKIN|MYTHICAL] lf[Endless||BODY_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-16T09:55:13.276Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "0aa4b82d-c493-46e5-b15e-1a5be70aca94",
+      "shortId": "71G00F",
+      "name": "cc-baals",
+      "role": "USER",
+      "level": 84
+    },
+    "message": "yh",
+    "timestamp": "2026-05-16T09:55:25.318Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "0aa4b82d-c493-46e5-b15e-1a5be70aca94",
+      "shortId": "71G00F",
+      "name": "cc-baals",
+      "role": "USER",
+      "level": 84
+    },
+    "message": "yes",
+    "timestamp": "2026-05-16T09:55:43.727Z"
   }
 ]
