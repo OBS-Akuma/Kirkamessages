@@ -214,5 +214,89 @@
     },
     "message": "tr[Ghoul||BODY_SKIN|MYTHICAL]",
     "timestamp": "2026-05-16T06:30:27.897Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "8e6c211e-1d38-4f63-b7c2-92bfbf7b3878",
+      "shortId": "XATOJL",
+      "name": "TheGoat",
+      "role": "USER",
+      "level": 18
+    },
+    "message": "wagering [Golden||CHEST|LEGENDARY]x300",
+    "timestamp": "2026-05-16T08:29:08.453Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "8e6c211e-1d38-4f63-b7c2-92bfbf7b3878",
+      "shortId": "XATOJL",
+      "name": "TheGoat",
+      "role": "USER",
+      "level": 18
+    },
+    "message": "SantaGrifa",
+    "timestamp": "2026-05-16T08:29:41.151Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "8e6c211e-1d38-4f63-b7c2-92bfbf7b3878",
+      "shortId": "XATOJL",
+      "name": "TheGoat",
+      "role": "USER",
+      "level": 18
+    },
+    "message": "#3VOHFR do u have [Ghoul||BODY_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-16T08:30:27.343Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "8e6c211e-1d38-4f63-b7c2-92bfbf7b3878",
+      "shortId": "XATOJL",
+      "name": "TheGoat",
+      "role": "USER",
+      "level": 18
+    },
+    "message": "wagering [Golden||CHEST|LEGENDARY]x300",
+    "timestamp": "2026-05-16T08:31:25.335Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "8e6c211e-1d38-4f63-b7c2-92bfbf7b3878",
+      "shortId": "XATOJL",
+      "name": "TheGoat",
+      "role": "USER",
+      "level": 18
+    },
+    "message": "wagering [Golden||CHEST|LEGENDARY]x300.",
+    "timestamp": "2026-05-16T08:31:43.489Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "8e6c211e-1d38-4f63-b7c2-92bfbf7b3878",
+      "shortId": "XATOJL",
+      "name": "TheGoat",
+      "role": "USER",
+      "level": 18
+    },
+    "message": "wagering [Golden||CHEST|LEGENDARY]x300..",
+    "timestamp": "2026-05-16T08:32:09.006Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "8e6c211e-1d38-4f63-b7c2-92bfbf7b3878",
+      "shortId": "XATOJL",
+      "name": "TheGoat",
+      "role": "USER",
+      "level": 18
+    },
+    "message": "/locate pollen",
+    "timestamp": "2026-05-16T08:48:46.751Z"
   }
 ]
