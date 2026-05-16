@@ -58,5 +58,53 @@
     },
     "message": "/enter",
     "timestamp": "2026-05-15T07:05:05.881Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "266622e2-34bb-4dcd-a31f-5801186ed701",
+      "shortId": "FJCKCZ",
+      "name": "TuTu",
+      "role": "USER",
+      "level": 83
+    },
+    "message": "lf [Choco||BODY_SKIN|LEGENDARY]",
+    "timestamp": "2026-05-16T13:05:38.499Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "266622e2-34bb-4dcd-a31f-5801186ed701",
+      "shortId": "FJCKCZ",
+      "name": "TuTu",
+      "role": "USER",
+      "level": 83
+    },
+    "message": "lf [Choco||BODY_SKIN|LEGENDARY].",
+    "timestamp": "2026-05-16T13:07:05.195Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "266622e2-34bb-4dcd-a31f-5801186ed701",
+      "shortId": "FJCKCZ",
+      "name": "TuTu",
+      "role": "USER",
+      "level": 83
+    },
+    "message": "lf [Choco||BODY_SKIN|LEGENDARY]",
+    "timestamp": "2026-05-16T13:07:19.095Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "266622e2-34bb-4dcd-a31f-5801186ed701",
+      "shortId": "FJCKCZ",
+      "name": "TuTu",
+      "role": "USER",
+      "level": 83
+    },
+    "message": "lf [Choco||BODY_SKIN|LEGENDARY],,,",
+    "timestamp": "2026-05-16T13:08:06.109Z"
   }
 ]
