@@ -454,5 +454,161 @@
     },
     "message": "/trad",
     "timestamp": "2026-05-15T13:11:28.603Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "c47637f0-61d5-474a-9701-cd4093828a1c",
+      "shortId": "6ED1PP",
+      "name": "max1",
+      "role": "USER",
+      "level": 98
+    },
+    "message": "lf [Color||BODY_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-16T11:06:21.371Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "c47637f0-61d5-474a-9701-cd4093828a1c",
+      "shortId": "6ED1PP",
+      "name": "max1",
+      "role": "USER",
+      "level": 98
+    },
+    "message": "lf [Color||BODY_SKIN|MYTHICAL].",
+    "timestamp": "2026-05-16T11:06:40.957Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "c47637f0-61d5-474a-9701-cd4093828a1c",
+      "shortId": "6ED1PP",
+      "name": "max1",
+      "role": "USER",
+      "level": 98
+    },
+    "message": "hey",
+    "timestamp": "2026-05-16T11:07:01.640Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "c47637f0-61d5-474a-9701-cd4093828a1c",
+      "shortId": "6ED1PP",
+      "name": "max1",
+      "role": "USER",
+      "level": 98
+    },
+    "message": "ztrec",
+    "timestamp": "2026-05-16T11:07:04.305Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "c47637f0-61d5-474a-9701-cd4093828a1c",
+      "shortId": "6ED1PP",
+      "name": "max1",
+      "role": "USER",
+      "level": 98
+    },
+    "message": "zyrec",
+    "timestamp": "2026-05-16T11:07:08.608Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "c47637f0-61d5-474a-9701-cd4093828a1c",
+      "shortId": "6ED1PP",
+      "name": "max1",
+      "role": "USER",
+      "level": 98
+    },
+    "message": "you want forbidden",
+    "timestamp": "2026-05-16T11:07:18.127Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "c47637f0-61d5-474a-9701-cd4093828a1c",
+      "shortId": "6ED1PP",
+      "name": "max1",
+      "role": "USER",
+      "level": 98
+    },
+    "message": "?",
+    "timestamp": "2026-05-16T11:07:19.717Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "c47637f0-61d5-474a-9701-cd4093828a1c",
+      "shortId": "6ED1PP",
+      "name": "max1",
+      "role": "USER",
+      "level": 98
+    },
+    "message": "u want forbidden",
+    "timestamp": "2026-05-16T11:07:28.215Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "c47637f0-61d5-474a-9701-cd4093828a1c",
+      "shortId": "6ED1PP",
+      "name": "max1",
+      "role": "USER",
+      "level": 98
+    },
+    "message": "hello",
+    "timestamp": "2026-05-16T11:07:37.499Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "c47637f0-61d5-474a-9701-cd4093828a1c",
+      "shortId": "6ED1PP",
+      "name": "max1",
+      "role": "USER",
+      "level": 98
+    },
+    "message": "ok",
+    "timestamp": "2026-05-16T11:07:45.776Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "c47637f0-61d5-474a-9701-cd4093828a1c",
+      "shortId": "6ED1PP",
+      "name": "max1",
+      "role": "USER",
+      "level": 98
+    },
+    "message": "yeah",
+    "timestamp": "2026-05-16T11:07:52.621Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "c47637f0-61d5-474a-9701-cd4093828a1c",
+      "shortId": "6ED1PP",
+      "name": "max1",
+      "role": "USER",
+      "level": 98
+    },
+    "message": "but not for trade",
+    "timestamp": "2026-05-16T11:07:56.033Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "c47637f0-61d5-474a-9701-cd4093828a1c",
+      "shortId": "6ED1PP",
+      "name": "max1",
+      "role": "USER",
+      "level": 98
+    },
+    "message": "/enter",
+    "timestamp": "2026-05-16T11:08:01.777Z"
   }
 ]
