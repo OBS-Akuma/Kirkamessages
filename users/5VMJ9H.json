@@ -94,5 +94,17 @@
     },
     "message": "/inv",
     "timestamp": "2026-05-14T02:51:28.544Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "0d01e9a9-5980-497c-9a54-237b60f338e9",
+      "shortId": "5VMJ9H",
+      "name": "Lortz_Dzaki2",
+      "role": "USER",
+      "level": 7
+    },
+    "message": "/inv #C3F13Y",
+    "timestamp": "2026-05-16T13:19:45.700Z"
   }
 ]
