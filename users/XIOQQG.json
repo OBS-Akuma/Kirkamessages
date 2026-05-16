@@ -766,5 +766,17 @@
     },
     "message": "ok im broke :>",
     "timestamp": "2026-05-14T14:24:15.303Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "c13811a5-6ca8-4dde-adc5-0a5165657d7c",
+      "shortId": "XIOQQG",
+      "name": "[uwu]",
+      "role": "USER",
+      "level": 50
+    },
+    "message": "#6RY8UN",
+    "timestamp": "2026-05-16T12:01:13.507Z"
   }
 ]
