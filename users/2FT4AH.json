@@ -58,5 +58,29 @@
     },
     "message": "[LOL||BODY_SKIN|EPIC]",
     "timestamp": "2026-05-12T19:32:36.984Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "848f1b0a-e17e-46fa-8bbe-9b66340dedfd",
+      "shortId": "2FT4AH",
+      "name": "Hunterjimmy",
+      "role": "USER",
+      "level": 46
+    },
+    "message": "i need [Hazmat||BODY_SKIN|PARANORMAL] caramel",
+    "timestamp": "2026-05-16T07:42:25.030Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "848f1b0a-e17e-46fa-8bbe-9b66340dedfd",
+      "shortId": "2FT4AH",
+      "name": "Hunterjimmy",
+      "role": "USER",
+      "level": 46
+    },
+    "message": "[grich]",
+    "timestamp": "2026-05-16T07:43:36.632Z"
   }
 ]
