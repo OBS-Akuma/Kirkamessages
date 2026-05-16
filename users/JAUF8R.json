@@ -358,5 +358,53 @@
     },
     "message": "dang akuma",
     "timestamp": "2026-05-13T23:03:00.586Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "b78b20c7-031f-404f-a921-cbf588488870",
+      "shortId": "JAUF8R",
+      "name": "Lostsoul",
+      "role": "USER",
+      "level": 70
+    },
+    "message": "trading:[Shinji||BODY_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-15T21:23:20.898Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "b78b20c7-031f-404f-a921-cbf588488870",
+      "shortId": "JAUF8R",
+      "name": "Lostsoul",
+      "role": "USER",
+      "level": 70
+    },
+    "message": "trading:[Shinji||BODY_SKIN|MYTHICAL].",
+    "timestamp": "2026-05-15T21:31:28.264Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "b78b20c7-031f-404f-a921-cbf588488870",
+      "shortId": "JAUF8R",
+      "name": "Lostsoul",
+      "role": "USER",
+      "level": 70
+    },
+    "message": "no its not",
+    "timestamp": "2026-05-15T22:10:16.293Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "b78b20c7-031f-404f-a921-cbf588488870",
+      "shortId": "JAUF8R",
+      "name": "Lostsoul",
+      "role": "USER",
+      "level": 70
+    },
+    "message": "trading:[Shinji||BODY_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-15T23:15:31.319Z"
   }
 ]
