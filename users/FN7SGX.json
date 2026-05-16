@@ -70,5 +70,41 @@
     },
     "message": "ks",
     "timestamp": "2026-05-16T09:35:49.602Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "3dba516b-7a6c-4e8f-87cb-6755369733b7",
+      "shortId": "FN7SGX",
+      "name": "fnpw",
+      "role": "USER",
+      "level": 94
+    },
+    "message": "/price Forbidden",
+    "timestamp": "2026-05-16T10:46:58.382Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "3dba516b-7a6c-4e8f-87cb-6755369733b7",
+      "shortId": "FN7SGX",
+      "name": "fnpw",
+      "role": "USER",
+      "level": 94
+    },
+    "message": "[Nerida|Bayonet|WEAPON_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-16T11:15:00.391Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "3dba516b-7a6c-4e8f-87cb-6755369733b7",
+      "shortId": "FN7SGX",
+      "name": "fnpw",
+      "role": "USER",
+      "level": 94
+    },
+    "message": "[Caring|Bayonet|WEAPON_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-16T11:15:10.471Z"
   }
 ]
