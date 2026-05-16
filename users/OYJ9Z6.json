@@ -886,5 +886,737 @@
     },
     "message": "/hm cwn",
     "timestamp": "2026-05-15T12:52:41.918Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "fead7a1b-f3f9-4542-b002-548cb21e88a0",
+      "shortId": "OYJ9Z6",
+      "name": "RAMJI",
+      "role": "USER",
+      "level": 27
+    },
+    "message": "trading [Whiteout|Revolver|WEAPON_SKIN|LEGENDARY]",
+    "timestamp": "2026-05-16T07:42:33.176Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "fead7a1b-f3f9-4542-b002-548cb21e88a0",
+      "shortId": "OYJ9Z6",
+      "name": "RAMJI",
+      "role": "USER",
+      "level": 27
+    },
+    "message": "trading[Kraken|Shark|WEAPON_SKIN|LEGENDARY]",
+    "timestamp": "2026-05-16T07:43:01.686Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "fead7a1b-f3f9-4542-b002-548cb21e88a0",
+      "shortId": "OYJ9Z6",
+      "name": "RAMJI",
+      "role": "USER",
+      "level": 27
+    },
+    "message": "/hm kraken",
+    "timestamp": "2026-05-16T07:43:20.528Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "fead7a1b-f3f9-4542-b002-548cb21e88a0",
+      "shortId": "OYJ9Z6",
+      "name": "RAMJI",
+      "role": "USER",
+      "level": 27
+    },
+    "message": "price kraken",
+    "timestamp": "2026-05-16T07:43:31.879Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "fead7a1b-f3f9-4542-b002-548cb21e88a0",
+      "shortId": "OYJ9Z6",
+      "name": "RAMJI",
+      "role": "USER",
+      "level": 27
+    },
+    "message": "/price kraken'",
+    "timestamp": "2026-05-16T07:43:37.664Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "fead7a1b-f3f9-4542-b002-548cb21e88a0",
+      "shortId": "OYJ9Z6",
+      "name": "RAMJI",
+      "role": "USER",
+      "level": 27
+    },
+    "message": "/price kraken",
+    "timestamp": "2026-05-16T07:43:47.420Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "fead7a1b-f3f9-4542-b002-548cb21e88a0",
+      "shortId": "OYJ9Z6",
+      "name": "RAMJI",
+      "role": "USER",
+      "level": 27
+    },
+    "message": "/price diablo",
+    "timestamp": "2026-05-16T07:43:55.361Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "fead7a1b-f3f9-4542-b002-548cb21e88a0",
+      "shortId": "OYJ9Z6",
+      "name": "RAMJI",
+      "role": "USER",
+      "level": 27
+    },
+    "message": "/locate kraken",
+    "timestamp": "2026-05-16T07:44:04.166Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "fead7a1b-f3f9-4542-b002-548cb21e88a0",
+      "shortId": "OYJ9Z6",
+      "name": "RAMJI",
+      "role": "USER",
+      "level": 27
+    },
+    "message": "/raffle <entrie CE62",
+    "timestamp": "2026-05-16T07:44:48.495Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "fead7a1b-f3f9-4542-b002-548cb21e88a0",
+      "shortId": "OYJ9Z6",
+      "name": "RAMJI",
+      "role": "USER",
+      "level": 27
+    },
+    "message": "ANYONE HAVING [Turtle|Bayonet|WEAPON_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-16T07:46:48.906Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "fead7a1b-f3f9-4542-b002-548cb21e88a0",
+      "shortId": "OYJ9Z6",
+      "name": "RAMJI",
+      "role": "USER",
+      "level": 27
+    },
+    "message": "[Kraken|Shark|WEAPON_SKIN|LEGENDARY]",
+    "timestamp": "2026-05-16T07:47:19.961Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "fead7a1b-f3f9-4542-b002-548cb21e88a0",
+      "shortId": "OYJ9Z6",
+      "name": "RAMJI",
+      "role": "USER",
+      "level": 27
+    },
+    "message": "ANYONE WANT [Whiteout|Revolver|WEAPON_SKIN|LEGENDARY]",
+    "timestamp": "2026-05-16T07:49:10.018Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "fead7a1b-f3f9-4542-b002-548cb21e88a0",
+      "shortId": "OYJ9Z6",
+      "name": "RAMJI",
+      "role": "USER",
+      "level": 27
+    },
+    "message": "/HM WHITEOUT",
+    "timestamp": "2026-05-16T07:49:17.051Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "fead7a1b-f3f9-4542-b002-548cb21e88a0",
+      "shortId": "OYJ9Z6",
+      "name": "RAMJI",
+      "role": "USER",
+      "level": 27
+    },
+    "message": "/INV",
+    "timestamp": "2026-05-16T07:49:30.097Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "fead7a1b-f3f9-4542-b002-548cb21e88a0",
+      "shortId": "OYJ9Z6",
+      "name": "RAMJI",
+      "role": "USER",
+      "level": 27
+    },
+    "message": "/inv",
+    "timestamp": "2026-05-16T07:49:36.842Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "fead7a1b-f3f9-4542-b002-548cb21e88a0",
+      "shortId": "OYJ9Z6",
+      "name": "RAMJI",
+      "role": "USER",
+      "level": 27
+    },
+    "message": "daniel i can give [Cwn||BODY_SKIN|LEGENDARY]",
+    "timestamp": "2026-05-16T07:49:58.470Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "fead7a1b-f3f9-4542-b002-548cb21e88a0",
+      "shortId": "OYJ9Z6",
+      "name": "RAMJI",
+      "role": "USER",
+      "level": 27
+    },
+    "message": "please i accidentaly sold my turtle for 100000 coins in market",
+    "timestamp": "2026-05-16T07:50:44.690Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "fead7a1b-f3f9-4542-b002-548cb21e88a0",
+      "shortId": "OYJ9Z6",
+      "name": "RAMJI",
+      "role": "USER",
+      "level": 27
+    },
+    "message": "[Panda||BODY_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-16T07:50:58.608Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "fead7a1b-f3f9-4542-b002-548cb21e88a0",
+      "shortId": "OYJ9Z6",
+      "name": "RAMJI",
+      "role": "USER",
+      "level": 27
+    },
+    "message": "/hm panda",
+    "timestamp": "2026-05-16T07:51:06.803Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "fead7a1b-f3f9-4542-b002-548cb21e88a0",
+      "shortId": "OYJ9Z6",
+      "name": "RAMJI",
+      "role": "USER",
+      "level": 27
+    },
+    "message": "trading my [Panda||BODY_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-16T07:51:23.573Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "fead7a1b-f3f9-4542-b002-548cb21e88a0",
+      "shortId": "OYJ9Z6",
+      "name": "RAMJI",
+      "role": "USER",
+      "level": 27
+    },
+    "message": "any offers for [Panda||BODY_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-16T07:52:00.380Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "fead7a1b-f3f9-4542-b002-548cb21e88a0",
+      "shortId": "OYJ9Z6",
+      "name": "RAMJI",
+      "role": "USER",
+      "level": 27
+    },
+    "message": "any offers for  [Panda||BODY_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-16T07:52:40.549Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "fead7a1b-f3f9-4542-b002-548cb21e88a0",
+      "shortId": "OYJ9Z6",
+      "name": "RAMJI",
+      "role": "USER",
+      "level": 27
+    },
+    "message": "mf any offers for [Panda||BODY_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-16T07:53:12.098Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "fead7a1b-f3f9-4542-b002-548cb21e88a0",
+      "shortId": "OYJ9Z6",
+      "name": "RAMJI",
+      "role": "USER",
+      "level": 27
+    },
+    "message": "fck no",
+    "timestamp": "2026-05-16T07:53:37.210Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "fead7a1b-f3f9-4542-b002-548cb21e88a0",
+      "shortId": "OYJ9Z6",
+      "name": "RAMJI",
+      "role": "USER",
+      "level": 27
+    },
+    "message": "daniel give me [Golem||BODY_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-16T07:54:25.349Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "fead7a1b-f3f9-4542-b002-548cb21e88a0",
+      "shortId": "OYJ9Z6",
+      "name": "RAMJI",
+      "role": "USER",
+      "level": 27
+    },
+    "message": "/hm golem",
+    "timestamp": "2026-05-16T07:54:28.828Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "fead7a1b-f3f9-4542-b002-548cb21e88a0",
+      "shortId": "OYJ9Z6",
+      "name": "RAMJI",
+      "role": "USER",
+      "level": 27
+    },
+    "message": "[Panda||BODY_SKIN|MYTHICAL] [Cwn||BODY_SKIN|LEGENDARY] kraken",
+    "timestamp": "2026-05-16T07:54:54.344Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "fead7a1b-f3f9-4542-b002-548cb21e88a0",
+      "shortId": "OYJ9Z6",
+      "name": "RAMJI",
+      "role": "USER",
+      "level": 27
+    },
+    "message": "man pls give me smthng broo",
+    "timestamp": "2026-05-16T07:55:14.217Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "fead7a1b-f3f9-4542-b002-548cb21e88a0",
+      "shortId": "OYJ9Z6",
+      "name": "RAMJI",
+      "role": "USER",
+      "level": 27
+    },
+    "message": "daniel u rich man givve me smthng please",
+    "timestamp": "2026-05-16T07:55:44.308Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "fead7a1b-f3f9-4542-b002-548cb21e88a0",
+      "shortId": "OYJ9Z6",
+      "name": "RAMJI",
+      "role": "USER",
+      "level": 27
+    },
+    "message": "/ckaim",
+    "timestamp": "2026-05-16T07:56:04.981Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "fead7a1b-f3f9-4542-b002-548cb21e88a0",
+      "shortId": "OYJ9Z6",
+      "name": "RAMJI",
+      "role": "USER",
+      "level": 27
+    },
+    "message": "/claim",
+    "timestamp": "2026-05-16T07:56:09.443Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "fead7a1b-f3f9-4542-b002-548cb21e88a0",
+      "shortId": "OYJ9Z6",
+      "name": "RAMJI",
+      "role": "USER",
+      "level": 27
+    },
+    "message": "1549",
+    "timestamp": "2026-05-16T07:56:14.862Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "fead7a1b-f3f9-4542-b002-548cb21e88a0",
+      "shortId": "OYJ9Z6",
+      "name": "RAMJI",
+      "role": "USER",
+      "level": 27
+    },
+    "message": "/claim",
+    "timestamp": "2026-05-16T07:56:17.290Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "fead7a1b-f3f9-4542-b002-548cb21e88a0",
+      "shortId": "OYJ9Z6",
+      "name": "RAMJI",
+      "role": "USER",
+      "level": 27
+    },
+    "message": "trading [Panda||BODY_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-16T11:54:51.069Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "fead7a1b-f3f9-4542-b002-548cb21e88a0",
+      "shortId": "OYJ9Z6",
+      "name": "RAMJI",
+      "role": "USER",
+      "level": 27
+    },
+    "message": "offer for [Panda||BODY_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-16T11:55:14.459Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "fead7a1b-f3f9-4542-b002-548cb21e88a0",
+      "shortId": "OYJ9Z6",
+      "name": "RAMJI",
+      "role": "USER",
+      "level": 27
+    },
+    "message": "/claim",
+    "timestamp": "2026-05-16T11:55:25.575Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "fead7a1b-f3f9-4542-b002-548cb21e88a0",
+      "shortId": "OYJ9Z6",
+      "name": "RAMJI",
+      "role": "USER",
+      "level": 27
+    },
+    "message": "tr [Panda||BODY_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-16T11:58:52.801Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "fead7a1b-f3f9-4542-b002-548cb21e88a0",
+      "shortId": "OYJ9Z6",
+      "name": "RAMJI",
+      "role": "USER",
+      "level": 27
+    },
+    "message": "scammed succesfully",
+    "timestamp": "2026-05-16T12:00:34.664Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "fead7a1b-f3f9-4542-b002-548cb21e88a0",
+      "shortId": "OYJ9Z6",
+      "name": "RAMJI",
+      "role": "USER",
+      "level": 27
+    },
+    "message": "/hm hardened",
+    "timestamp": "2026-05-16T12:01:28.426Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "fead7a1b-f3f9-4542-b002-548cb21e88a0",
+      "shortId": "OYJ9Z6",
+      "name": "RAMJI",
+      "role": "USER",
+      "level": 27
+    },
+    "message": "thanks prime",
+    "timestamp": "2026-05-16T12:03:04.544Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "fead7a1b-f3f9-4542-b002-548cb21e88a0",
+      "shortId": "OYJ9Z6",
+      "name": "RAMJI",
+      "role": "USER",
+      "level": 27
+    },
+    "message": "accept my trade help this poor",
+    "timestamp": "2026-05-16T12:06:12.223Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "fead7a1b-f3f9-4542-b002-548cb21e88a0",
+      "shortId": "OYJ9Z6",
+      "name": "RAMJI",
+      "role": "USER",
+      "level": 27
+    },
+    "message": "how to wager",
+    "timestamp": "2026-05-16T12:07:13.895Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "fead7a1b-f3f9-4542-b002-548cb21e88a0",
+      "shortId": "OYJ9Z6",
+      "name": "RAMJI",
+      "role": "USER",
+      "level": 27
+    },
+    "message": "/confirmwager",
+    "timestamp": "2026-05-16T12:07:23.469Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "fead7a1b-f3f9-4542-b002-548cb21e88a0",
+      "shortId": "OYJ9Z6",
+      "name": "RAMJI",
+      "role": "USER",
+      "level": 27
+    },
+    "message": "wager [Cwn||BODY_SKIN|LEGENDARY]",
+    "timestamp": "2026-05-16T12:07:48.451Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "fead7a1b-f3f9-4542-b002-548cb21e88a0",
+      "shortId": "OYJ9Z6",
+      "name": "RAMJI",
+      "role": "USER",
+      "level": 27
+    },
+    "message": "anyone wagering [Cwn||BODY_SKIN|LEGENDARY] with me",
+    "timestamp": "2026-05-16T12:08:11.485Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "fead7a1b-f3f9-4542-b002-548cb21e88a0",
+      "shortId": "OYJ9Z6",
+      "name": "RAMJI",
+      "role": "USER",
+      "level": 27
+    },
+    "message": "/confirmwager",
+    "timestamp": "2026-05-16T12:08:43.786Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "fead7a1b-f3f9-4542-b002-548cb21e88a0",
+      "shortId": "OYJ9Z6",
+      "name": "RAMJI",
+      "role": "USER",
+      "level": 27
+    },
+    "message": "what nova",
+    "timestamp": "2026-05-16T12:08:51.147Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "fead7a1b-f3f9-4542-b002-548cb21e88a0",
+      "shortId": "OYJ9Z6",
+      "name": "RAMJI",
+      "role": "USER",
+      "level": 27
+    },
+    "message": "nova command for wager can u tell me and tf is wager i opened game after like 6",
+    "timestamp": "2026-05-16T12:09:35.718Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "fead7a1b-f3f9-4542-b002-548cb21e88a0",
+      "shortId": "OYJ9Z6",
+      "name": "RAMJI",
+      "role": "USER",
+      "level": 27
+    },
+    "message": "months",
+    "timestamp": "2026-05-16T12:09:37.297Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "fead7a1b-f3f9-4542-b002-548cb21e88a0",
+      "shortId": "OYJ9Z6",
+      "name": "RAMJI",
+      "role": "USER",
+      "level": 27
+    },
+    "message": "please someone tell me tf is this wager shii'",
+    "timestamp": "2026-05-16T12:10:25.966Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "fead7a1b-f3f9-4542-b002-548cb21e88a0",
+      "shortId": "OYJ9Z6",
+      "name": "RAMJI",
+      "role": "USER",
+      "level": 27
+    },
+    "message": "IWIN EXPLAIN ME BRIEFLY",
+    "timestamp": "2026-05-16T12:10:51.686Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "fead7a1b-f3f9-4542-b002-548cb21e88a0",
+      "shortId": "OYJ9Z6",
+      "name": "RAMJI",
+      "role": "USER",
+      "level": 27
+    },
+    "message": "OK TELL ME COMMAND TO WAGER I WAGER [Cwn||BODY_SKIN|LEGENDARY]",
+    "timestamp": "2026-05-16T12:11:27.834Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "fead7a1b-f3f9-4542-b002-548cb21e88a0",
+      "shortId": "OYJ9Z6",
+      "name": "RAMJI",
+      "role": "USER",
+      "level": 27
+    },
+    "message": "COMMAND TO WAGER TELL MEE'",
+    "timestamp": "2026-05-16T12:12:03.974Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "fead7a1b-f3f9-4542-b002-548cb21e88a0",
+      "shortId": "OYJ9Z6",
+      "name": "RAMJI",
+      "role": "USER",
+      "level": 27
+    },
+    "message": "/wager [Cwn||BODY_SKIN|LEGENDARY]",
+    "timestamp": "2026-05-16T12:12:46.346Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "fead7a1b-f3f9-4542-b002-548cb21e88a0",
+      "shortId": "OYJ9Z6",
+      "name": "RAMJI",
+      "role": "USER",
+      "level": 27
+    },
+    "message": "/wager",
+    "timestamp": "2026-05-16T12:15:28.756Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "fead7a1b-f3f9-4542-b002-548cb21e88a0",
+      "shortId": "OYJ9Z6",
+      "name": "RAMJI",
+      "role": "USER",
+      "level": 27
+    },
+    "message": "/wager[Cwn||BODY_SKIN|LEGENDARY]x<1>",
+    "timestamp": "2026-05-16T12:16:04.869Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "fead7a1b-f3f9-4542-b002-548cb21e88a0",
+      "shortId": "OYJ9Z6",
+      "name": "RAMJI",
+      "role": "USER",
+      "level": 27
+    },
+    "message": "/wager[Cwn||BODY_SKIN|LEGENDARY] phantom",
+    "timestamp": "2026-05-16T12:17:11.651Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "fead7a1b-f3f9-4542-b002-548cb21e88a0",
+      "shortId": "OYJ9Z6",
+      "name": "RAMJI",
+      "role": "USER",
+      "level": 27
+    },
+    "message": "anyone wagering [Cwn||BODY_SKIN|LEGENDARY]",
+    "timestamp": "2026-05-16T12:17:27.908Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "fead7a1b-f3f9-4542-b002-548cb21e88a0",
+      "shortId": "OYJ9Z6",
+      "name": "RAMJI",
+      "role": "USER",
+      "level": 27
+    },
+    "message": "anyone wager [Cwn||BODY_SKIN|LEGENDARY]",
+    "timestamp": "2026-05-16T12:17:49.848Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "fead7a1b-f3f9-4542-b002-548cb21e88a0",
+      "shortId": "OYJ9Z6",
+      "name": "RAMJI",
+      "role": "USER",
+      "level": 27
+    },
+    "message": "pls accept help me",
+    "timestamp": "2026-05-16T12:25:21.590Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "fead7a1b-f3f9-4542-b002-548cb21e88a0",
+      "shortId": "OYJ9Z6",
+      "name": "RAMJI",
+      "role": "USER",
+      "level": 27
+    },
+    "message": "lund",
+    "timestamp": "2026-05-16T12:32:30.714Z"
   }
 ]
