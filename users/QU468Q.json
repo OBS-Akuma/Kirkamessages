@@ -1,0 +1,26 @@
+[
+  {
+    "type": 2,
+    "user": {
+      "id": "5afc373d-8259-4238-8530-2cee310e79a9",
+      "shortId": "QU468Q",
+      "name": "yinaa",
+      "role": "USER",
+      "level": 81
+    },
+    "message": "[Rose||BODY_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-15T22:21:43.650Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "5afc373d-8259-4238-8530-2cee310e79a9",
+      "shortId": "QU468Q",
+      "name": "yinaa",
+      "role": "USER",
+      "level": 81
+    },
+    "message": "[Rosed|VITA|WEAPON_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-15T22:24:11.988Z"
+  }
+]
