@@ -958,5 +958,29 @@
     },
     "message": "congduy082011 my dc",
     "timestamp": "2026-05-15T10:41:08.703Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "d86a8b05-d775-44e3-a927-d3c633b5dd5d",
+      "shortId": "Q3SR01",
+      "name": "bocchi",
+      "role": "USER",
+      "level": 48
+    },
+    "message": ".trade bump",
+    "timestamp": "2026-05-16T03:33:57.318Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "d86a8b05-d775-44e3-a927-d3c633b5dd5d",
+      "shortId": "Q3SR01",
+      "name": "bocchi",
+      "role": "USER",
+      "level": 48
+    },
+    "message": "lol nty",
+    "timestamp": "2026-05-16T03:47:31.524Z"
   }
 ]
