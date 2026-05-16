@@ -94,5 +94,17 @@
     },
     "message": "im done",
     "timestamp": "2026-05-08T05:11:19.994Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "502a8f7f-a301-4588-83d1-2aac94541cd0",
+      "shortId": "2NCN43",
+      "name": "Pressure",
+      "role": "USER",
+      "level": 30
+    },
+    "message": "Trading [Corrupt||BODY_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-16T00:40:06.079Z"
   }
 ]
