@@ -10,5 +10,29 @@
     },
     "message": "/price [Forbidden|AR-9|WEAPON_SKIN|MYTHICAL]",
     "timestamp": "2026-05-15T05:35:06.289Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "9f705385-cfaa-452e-ae12-2103d03f81a1",
+      "shortId": "2792AV",
+      "name": "Player",
+      "role": "USER",
+      "level": 42
+    },
+    "message": "anyone 1v1 join cleft from servers",
+    "timestamp": "2026-05-16T05:25:24.035Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "9f705385-cfaa-452e-ae12-2103d03f81a1",
+      "shortId": "2792AV",
+      "name": "Player",
+      "role": "USER",
+      "level": 42
+    },
+    "message": "anyone 2v2 lodge join from server",
+    "timestamp": "2026-05-16T05:43:23.772Z"
   }
 ]
