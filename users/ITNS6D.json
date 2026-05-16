@@ -958,5 +958,101 @@
     },
     "message": "no 1v1 js wager",
     "timestamp": "2026-05-15T19:12:46.209Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "c0bacadc-b379-4543-80ae-a1ddbf481265",
+      "shortId": "ITNS6D",
+      "name": "deimos.",
+      "role": "USER",
+      "level": 71
+    },
+    "message": "venom wanna wager melody again",
+    "timestamp": "2026-05-15T19:13:30.943Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "c0bacadc-b379-4543-80ae-a1ddbf481265",
+      "shortId": "ITNS6D",
+      "name": "deimos.",
+      "role": "USER",
+      "level": 71
+    },
+    "message": "/wager [Melody||BODY_SKIN|MYTHICAL] #609GEM",
+    "timestamp": "2026-05-15T19:13:39.829Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "c0bacadc-b379-4543-80ae-a1ddbf481265",
+      "shortId": "ITNS6D",
+      "name": "deimos.",
+      "role": "USER",
+      "level": 71
+    },
+    "message": "/inv",
+    "timestamp": "2026-05-15T19:14:26.074Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "c0bacadc-b379-4543-80ae-a1ddbf481265",
+      "shortId": "ITNS6D",
+      "name": "deimos.",
+      "role": "USER",
+      "level": 71
+    },
+    "message": ".",
+    "timestamp": "2026-05-15T19:14:44.951Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "c0bacadc-b379-4543-80ae-a1ddbf481265",
+      "shortId": "ITNS6D",
+      "name": "deimos.",
+      "role": "USER",
+      "level": 71
+    },
+    "message": "/inv",
+    "timestamp": "2026-05-15T19:14:46.714Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "c0bacadc-b379-4543-80ae-a1ddbf481265",
+      "shortId": "ITNS6D",
+      "name": "deimos.",
+      "role": "USER",
+      "level": 71
+    },
+    "message": "venom can i have one melody back",
+    "timestamp": "2026-05-15T19:14:56.326Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "c0bacadc-b379-4543-80ae-a1ddbf481265",
+      "shortId": "ITNS6D",
+      "name": "deimos.",
+      "role": "USER",
+      "level": 71
+    },
+    "message": "plez",
+    "timestamp": "2026-05-15T19:14:57.875Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "c0bacadc-b379-4543-80ae-a1ddbf481265",
+      "shortId": "ITNS6D",
+      "name": "deimos.",
+      "role": "USER",
+      "level": 71
+    },
+    "message": "/price jade",
+    "timestamp": "2026-05-15T19:47:27.312Z"
   }
 ]
