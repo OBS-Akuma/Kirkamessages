@@ -874,5 +874,29 @@
     },
     "message": "VSG",
     "timestamp": "2026-05-16T15:10:44.524Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "v993euQtH5c0fkYcZhd3QLVehZC2",
+      "shortId": "2CTKAX",
+      "name": ".CH!LL-PUG.",
+      "role": "USER",
+      "level": 50
+    },
+    "message": "TRADING[Bok||BODY_SKIN|MYTHICAL][Dynasty||BODY_SKIN|MYTHICAL][Fever|SCAR|WEAPON_SKIN|MYTHICAL][Flarefang|Bayonet|WEAPON_SKIN|MYTHICAL][Golden||CHEST|LEGENDARY]x1000 pls offer pls",
+    "timestamp": "2026-05-16T15:14:37.906Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "v993euQtH5c0fkYcZhd3QLVehZC2",
+      "shortId": "2CTKAX",
+      "name": ".CH!LL-PUG.",
+      "role": "USER",
+      "level": 50
+    },
+    "message": "ytdaniel",
+    "timestamp": "2026-05-16T15:16:45.935Z"
   }
 ]
