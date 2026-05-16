@@ -392,7 +392,7 @@
       "role": "USER",
       "level": 31
     },
-    "message": "#RZDF8R yo u wanna offer for [Oblivion|SCAR|WEAPON_SKIN|MYTHICAL]?",
+    "message": "#RZDF8R yo uÂ wanna offer for [Oblivion|SCAR|WEAPON_SKIN|MYTHICAL]?",
     "timestamp": "2026-05-15T23:51:20.155Z"
   },
   {
@@ -694,5 +694,101 @@
     },
     "message": "/price [Ticketeer|SCAR|WEAPON_SKIN|MYTHICAL]",
     "timestamp": "2026-05-15T23:57:28.536Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "e4u8c8Arlhe0UjgaOd2kyHNFMEG2",
+      "shortId": "0QB05T",
+      "name": "ENDED_URCAREER",
+      "role": "USER",
+      "level": 31
+    },
+    "message": "U GOT [RGB Black||BODY_SKIN|MYTHICAL]?",
+    "timestamp": "2026-05-15T23:59:14.137Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "e4u8c8Arlhe0UjgaOd2kyHNFMEG2",
+      "shortId": "0QB05T",
+      "name": "ENDED_URCAREER",
+      "role": "USER",
+      "level": 31
+    },
+    "message": "#HUB956 can i offer?",
+    "timestamp": "2026-05-15T23:59:41.729Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "e4u8c8Arlhe0UjgaOd2kyHNFMEG2",
+      "shortId": "0QB05T",
+      "name": "ENDED_URCAREER",
+      "role": "USER",
+      "level": 31
+    },
+    "message": "#HUB956 u sure u got?",
+    "timestamp": "2026-05-16T00:00:00.675Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "e4u8c8Arlhe0UjgaOd2kyHNFMEG2",
+      "shortId": "0QB05T",
+      "name": "ENDED_URCAREER",
+      "role": "USER",
+      "level": 31
+    },
+    "message": "#HUB956 put on the skin and imma check your account",
+    "timestamp": "2026-05-16T00:00:13.781Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "e4u8c8Arlhe0UjgaOd2kyHNFMEG2",
+      "shortId": "0QB05T",
+      "name": "ENDED_URCAREER",
+      "role": "USER",
+      "level": 31
+    },
+    "message": "dang [Anarch|Bayonet|WEAPON_SKIN|MYTHICAL] is wayyy more]",
+    "timestamp": "2026-05-16T00:00:30.251Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "e4u8c8Arlhe0UjgaOd2kyHNFMEG2",
+      "shortId": "0QB05T",
+      "name": "ENDED_URCAREER",
+      "role": "USER",
+      "level": 31
+    },
+    "message": "WHO HAS [RGB Black||BODY_SKIN|MYTHICAL] I WANNA OFFER",
+    "timestamp": "2026-05-16T00:00:53.231Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "e4u8c8Arlhe0UjgaOd2kyHNFMEG2",
+      "shortId": "0QB05T",
+      "name": "ENDED_URCAREER",
+      "role": "USER",
+      "level": 31
+    },
+    "message": "guys",
+    "timestamp": "2026-05-16T00:05:19.261Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "e4u8c8Arlhe0UjgaOd2kyHNFMEG2",
+      "shortId": "0QB05T",
+      "name": "ENDED_URCAREER",
+      "role": "USER",
+      "level": 31
+    },
+    "message": "what happen to clan lush?",
+    "timestamp": "2026-05-16T00:05:25.403Z"
   }
 ]
