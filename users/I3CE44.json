@@ -262,5 +262,17 @@
     },
     "message": "in golden?",
     "timestamp": "2026-05-15T12:22:21.004Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "304d4773-3888-49f1-afd0-f2d5138f7c48",
+      "shortId": "I3CE44",
+      "name": "CANON-MX450",
+      "role": "USER",
+      "level": 76
+    },
+    "message": "di entod",
+    "timestamp": "2026-05-15T21:52:43.752Z"
   }
 ]
