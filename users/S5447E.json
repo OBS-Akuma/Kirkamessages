@@ -58,5 +58,17 @@
     },
     "message": "/price [vivid",
     "timestamp": "2026-05-15T05:13:15.777Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "28f6f051-aaf3-47a1-83ba-a901097f0de3",
+      "shortId": "S5447E",
+      "name": "Newbie",
+      "role": "USER",
+      "level": 9
+    },
+    "message": "/price [Golem||BODY_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-16T04:31:38.646Z"
   }
 ]
