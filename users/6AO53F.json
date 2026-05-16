@@ -2098,5 +2098,29 @@
     },
     "message": "alr 300m max",
     "timestamp": "2026-05-16T08:58:56.024Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "ef0d085e-2d3f-43af-954e-6b579cafd5d5",
+      "shortId": "6AO53F",
+      "name": "OPTIMUS",
+      "role": "USER",
+      "level": 100
+    },
+    "message": "blaze",
+    "timestamp": "2026-05-16T13:01:19.310Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "ef0d085e-2d3f-43af-954e-6b579cafd5d5",
+      "shortId": "6AO53F",
+      "name": "OPTIMUS",
+      "role": "USER",
+      "level": 100
+    },
+    "message": "wanna offer [Ranked_S1 Top10|Bayonet|WEAPON_SKIN|MYTHICAL]?",
+    "timestamp": "2026-05-16T13:01:28.576Z"
   }
 ]
