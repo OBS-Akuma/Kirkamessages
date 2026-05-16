@@ -922,5 +922,41 @@
     },
     "message": "oh hi",
     "timestamp": "2026-05-16T13:59:37.087Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "f4ee79aa-6e34-4add-9bb3-82f9d66d11c0",
+      "shortId": "9PU6A1",
+      "name": "Spicy",
+      "role": "USER",
+      "level": 67
+    },
+    "message": "/top skins",
+    "timestamp": "2026-05-16T14:57:19.071Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "f4ee79aa-6e34-4add-9bb3-82f9d66d11c0",
+      "shortId": "9PU6A1",
+      "name": "Spicy",
+      "role": "USER",
+      "level": 67
+    },
+    "message": "hii wizzy",
+    "timestamp": "2026-05-16T14:57:27.618Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "f4ee79aa-6e34-4add-9bb3-82f9d66d11c0",
+      "shortId": "9PU6A1",
+      "name": "Spicy",
+      "role": "USER",
+      "level": 67
+    },
+    "message": "okkk",
+    "timestamp": "2026-05-16T14:57:35.248Z"
   }
 ]
