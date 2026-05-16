@@ -3238,5 +3238,41 @@
     },
     "message": "Barson 1v1",
     "timestamp": "2026-05-15T11:20:44.795Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "4b789cea-e6d0-4391-bab3-a43b716b6a1a",
+      "shortId": "305Q5V",
+      "name": "AuraX_t1_Scare",
+      "role": "USER",
+      "level": 96
+    },
+    "message": "/price beast",
+    "timestamp": "2026-05-16T06:45:46.912Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "4b789cea-e6d0-4391-bab3-a43b716b6a1a",
+      "shortId": "305Q5V",
+      "name": "AuraX_t1_Scare",
+      "role": "USER",
+      "level": 96
+    },
+    "message": "/locate trophies",
+    "timestamp": "2026-05-16T06:46:08.553Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "4b789cea-e6d0-4391-bab3-a43b716b6a1a",
+      "shortId": "305Q5V",
+      "name": "AuraX_t1_Scare",
+      "role": "USER",
+      "level": 96
+    },
+    "message": "/locate trophy",
+    "timestamp": "2026-05-16T06:46:31.953Z"
   }
 ]
