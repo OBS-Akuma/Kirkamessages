@@ -1,0 +1,26 @@
+[
+  {
+    "type": 2,
+    "user": {
+      "id": "e7c1b19d-cde5-4d6a-85e8-b3a611e0a742",
+      "shortId": "N0S3P2",
+      "name": "Mellisa",
+      "role": "USER",
+      "level": 28
+    },
+    "message": "[Slasher||BODY_SKIN|PARANORMAL]",
+    "timestamp": "2026-05-15T07:11:31.750Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "e7c1b19d-cde5-4d6a-85e8-b3a611e0a742",
+      "shortId": "N0S3P2",
+      "name": "Mellisa",
+      "role": "USER",
+      "level": 28
+    },
+    "message": "I have [bokA]",
+    "timestamp": "2026-05-15T07:16:54.673Z"
+  }
+]
