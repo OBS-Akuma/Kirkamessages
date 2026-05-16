@@ -5554,5 +5554,17 @@
     },
     "message": "TR [Pastel||BODY_SKIN|MYTHICAL]",
     "timestamp": "2026-05-15T06:22:53.506Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "aC4eJ9XToJg3hfiixxui6Cv8ymy2",
+      "shortId": "0BPRZO",
+      "name": "Abyss",
+      "role": "USER",
+      "level": 48
+    },
+    "message": "/inventory price #0BPRZO",
+    "timestamp": "2026-05-16T03:33:27.181Z"
   }
 ]
