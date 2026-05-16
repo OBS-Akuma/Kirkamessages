@@ -1,0 +1,26 @@
+[
+  {
+    "type": 2,
+    "user": {
+      "id": "UAr1iaAFy8fKqCL1QiqyOqWJUyg2",
+      "shortId": "ATV4O9",
+      "name": "Friendblade.99",
+      "role": "USER",
+      "level": 30
+    },
+    "message": "Do someone want to trade",
+    "timestamp": "2026-05-16T11:07:50.561Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "UAr1iaAFy8fKqCL1QiqyOqWJUyg2",
+      "shortId": "ATV4O9",
+      "name": "Friendblade.99",
+      "role": "USER",
+      "level": 30
+    },
+    "message": "/enter",
+    "timestamp": "2026-05-16T11:08:15.845Z"
+  }
+]
