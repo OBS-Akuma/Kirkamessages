@@ -2410,5 +2410,17 @@
     },
     "message": "SOMEONE WAGER GHILLIE",
     "timestamp": "2026-05-16T08:31:48.744Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "5b0f1f09-93e6-478e-83bb-154921fd822e",
+      "shortId": "71DTZW",
+      "name": "VultureUnknown",
+      "role": "USER",
+      "level": 59
+    },
+    "message": "/price abyss",
+    "timestamp": "2026-05-16T10:32:00.360Z"
   }
 ]
