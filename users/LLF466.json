@@ -214,5 +214,17 @@
     },
     "message": "Trade with me, call ribeiroo011. on Discor",
     "timestamp": "2026-05-16T05:56:13.330Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "e9ddee8c-f9ec-4ea5-a7ba-7d943acb2f16",
+      "shortId": "LLF466",
+      "name": "sykes7",
+      "role": "USER",
+      "level": 38
+    },
+    "message": "/wager",
+    "timestamp": "2026-05-16T07:01:39.984Z"
   }
 ]
