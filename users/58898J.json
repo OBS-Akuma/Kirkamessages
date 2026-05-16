@@ -22,5 +22,17 @@
     },
     "message": "[Scary Monster||BODY_SKIN|MYTHICAL]",
     "timestamp": "2026-05-15T13:48:27.459Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "52271386-8d3a-4247-839a-0bd6154a61cc",
+      "shortId": "58898J",
+      "name": "tension",
+      "role": "USER",
+      "level": 16
+    },
+    "message": "trading onryo",
+    "timestamp": "2026-05-16T06:39:13.925Z"
   }
 ]
