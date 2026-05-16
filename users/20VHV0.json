@@ -10,5 +10,41 @@
     },
     "message": "im late asf but what were the clan war skins?",
     "timestamp": "2026-05-16T14:01:12.729Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "25200c11-a434-4590-b5e3-2e5138225fa9",
+      "shortId": "20VHV0",
+      "name": "chill",
+      "role": "USER",
+      "level": 61
+    },
+    "message": "how do you get [forbiden]?",
+    "timestamp": "2026-05-16T14:08:15.055Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "25200c11-a434-4590-b5e3-2e5138225fa9",
+      "shortId": "20VHV0",
+      "name": "chill",
+      "role": "USER",
+      "level": 61
+    },
+    "message": "[Forbidden|AR-9|WEAPON_SKIN|MYTHICAL]*",
+    "timestamp": "2026-05-16T14:08:24.424Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "25200c11-a434-4590-b5e3-2e5138225fa9",
+      "shortId": "20VHV0",
+      "name": "chill",
+      "role": "USER",
+      "level": 61
+    },
+    "message": "[TMPlate|SCAR|WEAPON_SKIN|MYTHICAL] and [Color||BODY_SKIN|MYTHICAL] would look good no?",
+    "timestamp": "2026-05-16T14:11:17.495Z"
   }
 ]
