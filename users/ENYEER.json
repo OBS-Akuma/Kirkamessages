@@ -670,5 +670,17 @@
     },
     "message": "/inv",
     "timestamp": "2026-05-16T06:37:31.703Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "e3278dc0-1ce2-46f8-b13e-44e3d5fd1c86",
+      "shortId": "ENYEER",
+      "name": "SuperKuroky",
+      "role": "USER",
+      "level": 101
+    },
+    "message": "no",
+    "timestamp": "2026-05-16T09:48:26.244Z"
   }
 ]
