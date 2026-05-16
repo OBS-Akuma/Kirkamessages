@@ -80,7 +80,7 @@
       "role": "USER",
       "level": 99
     },
-    "message": "[Biker||BODY_SKIN|MYTHICAL]😭🤮🤮🤮🤮🤮",
+    "message": "[Biker||BODY_SKIN|MYTHICAL]ð­ð¤®ð¤®ð¤®ð¤®ð¤®",
     "timestamp": "2026-05-15T19:44:53.326Z"
   },
   {
@@ -200,7 +200,7 @@
       "role": "USER",
       "level": 99
     },
-    "message": "Não",
+    "message": "NÃ£o",
     "timestamp": "2026-05-15T19:50:12.650Z"
   },
   {
@@ -212,7 +212,7 @@
       "role": "USER",
       "level": 99
     },
-    "message": "O Maior número ganha",
+    "message": "O Maior nÃºmero ganha",
     "timestamp": "2026-05-15T19:50:25.469Z"
   },
   {
@@ -298,5 +298,29 @@
     },
     "message": "Never",
     "timestamp": "2026-05-15T19:59:32.719Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "60ca6f1b-b988-4b69-8008-c46be6b40e95",
+      "shortId": "MOBILE",
+      "name": "_EuGuRt_",
+      "role": "USER",
+      "level": 99
+    },
+    "message": "X",
+    "timestamp": "2026-05-16T02:33:37.213Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "60ca6f1b-b988-4b69-8008-c46be6b40e95",
+      "shortId": "MOBILE",
+      "name": "_EuGuRt_",
+      "role": "USER",
+      "level": 99
+    },
+    "message": "Tr [Imperial|SCAR|WEAPON_SKIN|MYTHICAL],[Blast SCAR|SCAR|WEAPON_SKIN|MYTHICAL],[Void SCAR|SCAR|WEAPON_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-16T02:38:17.713Z"
   }
 ]
