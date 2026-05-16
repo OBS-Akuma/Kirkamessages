@@ -8002,5 +8002,17 @@
     },
     "message": "who wna wager goldens",
     "timestamp": "2026-05-16T12:12:42.110Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "a74f3fe1-1a95-4245-9b06-d8d865f83f0c",
+      "shortId": "CXF730",
+      "name": "^On!y-Z!xu^",
+      "role": "USER",
+      "level": 24
+    },
+    "message": "/wager [Golden||CHEST|LEGENDARY]x500 #M7NVF2",
+    "timestamp": "2026-05-16T12:13:11.105Z"
   }
 ]
