@@ -392,7 +392,7 @@
       "role": "USER",
       "level": 31
     },
-    "message": "#RZDF8R yo uÃÂÃÂ wanna offer for [Oblivion|SCAR|WEAPON_SKIN|MYTHICAL]?",
+    "message": "#RZDF8R yo uÃÂÃÂÃÂÃÂ wanna offer for [Oblivion|SCAR|WEAPON_SKIN|MYTHICAL]?",
     "timestamp": "2026-05-15T23:51:20.155Z"
   },
   {
@@ -790,5 +790,53 @@
     },
     "message": "what happen to clan lush?",
     "timestamp": "2026-05-16T00:05:25.403Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "e4u8c8Arlhe0UjgaOd2kyHNFMEG2",
+      "shortId": "0QB05T",
+      "name": "ENDED_URCAREER",
+      "role": "USER",
+      "level": 32
+    },
+    "message": "#HUB956",
+    "timestamp": "2026-05-16T02:04:17.324Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "e4u8c8Arlhe0UjgaOd2kyHNFMEG2",
+      "shortId": "0QB05T",
+      "name": "ENDED_URCAREER",
+      "role": "USER",
+      "level": 32
+    },
+    "message": "ill give u [Ticketeer|SCAR|WEAPON_SKIN|MYTHICAL] for [Tide|SCAR|WEAPON_SKIN|LEGENDARY]",
+    "timestamp": "2026-05-16T02:04:26.755Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "e4u8c8Arlhe0UjgaOd2kyHNFMEG2",
+      "shortId": "0QB05T",
+      "name": "ENDED_URCAREER",
+      "role": "USER",
+      "level": 32
+    },
+    "message": "/price [tide",
+    "timestamp": "2026-05-16T02:04:30.409Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "e4u8c8Arlhe0UjgaOd2kyHNFMEG2",
+      "shortId": "0QB05T",
+      "name": "ENDED_URCAREER",
+      "role": "USER",
+      "level": 32
+    },
+    "message": "nvm",
+    "timestamp": "2026-05-16T02:04:33.455Z"
   }
 ]
