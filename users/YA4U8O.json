@@ -190,5 +190,53 @@
     },
     "message": "/raffle",
     "timestamp": "2026-05-14T17:03:44.968Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "287119fe-d055-4d21-b222-fa6f668e0d9c",
+      "shortId": "YA4U8O",
+      "name": "VANDREX",
+      "role": "USER",
+      "level": 95
+    },
+    "message": "/hm 2027",
+    "timestamp": "2026-05-15T19:37:01.540Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "287119fe-d055-4d21-b222-fa6f668e0d9c",
+      "shortId": "YA4U8O",
+      "name": "VANDREX",
+      "role": "USER",
+      "level": 95
+    },
+    "message": "/inv #J897E6",
+    "timestamp": "2026-05-15T20:21:09.811Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "287119fe-d055-4d21-b222-fa6f668e0d9c",
+      "shortId": "YA4U8O",
+      "name": "VANDREX",
+      "role": "USER",
+      "level": 95
+    },
+    "message": "/hm milkway",
+    "timestamp": "2026-05-15T20:43:09.564Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "287119fe-d055-4d21-b222-fa6f668e0d9c",
+      "shortId": "YA4U8O",
+      "name": "VANDREX",
+      "role": "USER",
+      "level": 95
+    },
+    "message": ".hm milkyway",
+    "timestamp": "2026-05-15T20:43:19.097Z"
   }
 ]
