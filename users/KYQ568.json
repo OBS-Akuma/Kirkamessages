@@ -394,5 +394,101 @@
     },
     "message": "#Z97DD0 pls something",
     "timestamp": "2026-05-14T00:47:15.937Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "e5977f7f-316f-4dea-b296-ef0ab7757044",
+      "shortId": "KYQ568",
+      "name": "Newbie",
+      "role": "USER",
+      "level": 7
+    },
+    "message": "/etner",
+    "timestamp": "2026-05-15T12:54:25.811Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "e5977f7f-316f-4dea-b296-ef0ab7757044",
+      "shortId": "KYQ568",
+      "name": "Newbie",
+      "role": "USER",
+      "level": 7
+    },
+    "message": "/enter",
+    "timestamp": "2026-05-15T12:54:29.876Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "e5977f7f-316f-4dea-b296-ef0ab7757044",
+      "shortId": "KYQ568",
+      "name": "Newbie",
+      "role": "USER",
+      "level": 7
+    },
+    "message": "/claim",
+    "timestamp": "2026-05-15T13:12:02.918Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "e5977f7f-316f-4dea-b296-ef0ab7757044",
+      "shortId": "KYQ568",
+      "name": "Newbie",
+      "role": "USER",
+      "level": 8
+    },
+    "message": "hi",
+    "timestamp": "2026-05-16T11:57:57.059Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "e5977f7f-316f-4dea-b296-ef0ab7757044",
+      "shortId": "KYQ568",
+      "name": "Newbie",
+      "role": "USER",
+      "level": 8
+    },
+    "message": "df",
+    "timestamp": "2026-05-16T11:58:02.224Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "e5977f7f-316f-4dea-b296-ef0ab7757044",
+      "shortId": "KYQ568",
+      "name": "Newbie",
+      "role": "USER",
+      "level": 8
+    },
+    "message": "/vote",
+    "timestamp": "2026-05-16T11:58:06.243Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "e5977f7f-316f-4dea-b296-ef0ab7757044",
+      "shortId": "KYQ568",
+      "name": "Newbie",
+      "role": "USER",
+      "level": 8
+    },
+    "message": "/claim",
+    "timestamp": "2026-05-16T11:58:18.480Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "e5977f7f-316f-4dea-b296-ef0ab7757044",
+      "shortId": "KYQ568",
+      "name": "Newbie",
+      "role": "USER",
+      "level": 8
+    },
+    "message": "/enter",
+    "timestamp": "2026-05-16T11:58:21.614Z"
   }
 ]
