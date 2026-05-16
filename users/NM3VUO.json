@@ -3022,5 +3022,53 @@
     },
     "message": "/hm bunny",
     "timestamp": "2026-05-16T02:01:35.273Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "1a4fb7ab-45cd-449b-858f-14a509ff9ecb",
+      "shortId": "NM3VUO",
+      "name": "1x1x1x1",
+      "role": "USER",
+      "level": 67
+    },
+    "message": "can smb buy my Blast Bayonet for 2mil and my uranium for 3mil",
+    "timestamp": "2026-05-16T05:53:01.879Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "1a4fb7ab-45cd-449b-858f-14a509ff9ecb",
+      "shortId": "NM3VUO",
+      "name": "1x1x1x1",
+      "role": "USER",
+      "level": 67
+    },
+    "message": ":3",
+    "timestamp": "2026-05-16T05:53:04.749Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "1a4fb7ab-45cd-449b-858f-14a509ff9ecb",
+      "shortId": "NM3VUO",
+      "name": "1x1x1x1",
+      "role": "USER",
+      "level": 67
+    },
+    "message": "turtle and uranium for 3mil and 2mil for the blast bayonet",
+    "timestamp": "2026-05-16T05:56:20.031Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "1a4fb7ab-45cd-449b-858f-14a509ff9ecb",
+      "shortId": "NM3VUO",
+      "name": "1x1x1x1",
+      "role": "USER",
+      "level": 67
+    },
+    "message": "I need coins I'm broke :P",
+    "timestamp": "2026-05-16T05:56:38.670Z"
   }
 ]
