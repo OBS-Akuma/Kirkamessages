@@ -1870,5 +1870,317 @@
     },
     "message": "/cancelwager",
     "timestamp": "2026-05-16T07:07:38.296Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "a86d1b4f-997c-44fd-9a7d-6074af84a31f",
+      "shortId": "531I15",
+      "name": "CORSICA!",
+      "role": "USER",
+      "level": 99
+    },
+    "message": "/confirmwager",
+    "timestamp": "2026-05-16T07:07:46.000Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "a86d1b4f-997c-44fd-9a7d-6074af84a31f",
+      "shortId": "531I15",
+      "name": "CORSICA!",
+      "role": "USER",
+      "level": 99
+    },
+    "message": "/wager [Grinchette||BODY_SKIN|MYTHICAL] #Z97DD0",
+    "timestamp": "2026-05-16T07:07:55.435Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "a86d1b4f-997c-44fd-9a7d-6074af84a31f",
+      "shortId": "531I15",
+      "name": "CORSICA!",
+      "role": "USER",
+      "level": 99
+    },
+    "message": "confirm",
+    "timestamp": "2026-05-16T07:07:57.274Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "a86d1b4f-997c-44fd-9a7d-6074af84a31f",
+      "shortId": "531I15",
+      "name": "CORSICA!",
+      "role": "USER",
+      "level": 99
+    },
+    "message": "vruh",
+    "timestamp": "2026-05-16T07:07:58.938Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "a86d1b4f-997c-44fd-9a7d-6074af84a31f",
+      "shortId": "531I15",
+      "name": "CORSICA!",
+      "role": "USER",
+      "level": 99
+    },
+    "message": "/cancelwager",
+    "timestamp": "2026-05-16T07:08:01.477Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "a86d1b4f-997c-44fd-9a7d-6074af84a31f",
+      "shortId": "531I15",
+      "name": "CORSICA!",
+      "role": "USER",
+      "level": 99
+    },
+    "message": "/wager [Grinchette||BODY_SKIN|MYTHICAL] #Z97DD0",
+    "timestamp": "2026-05-16T07:08:20.778Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "a86d1b4f-997c-44fd-9a7d-6074af84a31f",
+      "shortId": "531I15",
+      "name": "CORSICA!",
+      "role": "USER",
+      "level": 99
+    },
+    "message": "e",
+    "timestamp": "2026-05-16T07:09:22.629Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "a86d1b4f-997c-44fd-9a7d-6074af84a31f",
+      "shortId": "531I15",
+      "name": "CORSICA!",
+      "role": "USER",
+      "level": 99
+    },
+    "message": "wager [Grinchette||BODY_SKIN|MYTHICAL] #Z97DD0",
+    "timestamp": "2026-05-16T07:09:25.715Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "a86d1b4f-997c-44fd-9a7d-6074af84a31f",
+      "shortId": "531I15",
+      "name": "CORSICA!",
+      "role": "USER",
+      "level": 99
+    },
+    "message": "/cancelwager",
+    "timestamp": "2026-05-16T07:09:47.514Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "a86d1b4f-997c-44fd-9a7d-6074af84a31f",
+      "shortId": "531I15",
+      "name": "CORSICA!",
+      "role": "USER",
+      "level": 99
+    },
+    "message": "/wager [Grinchette||BODY_SKIN|MYTHICAL] #Z97DD0",
+    "timestamp": "2026-05-16T07:10:31.080Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "a86d1b4f-997c-44fd-9a7d-6074af84a31f",
+      "shortId": "531I15",
+      "name": "CORSICA!",
+      "role": "USER",
+      "level": 99
+    },
+    "message": "e",
+    "timestamp": "2026-05-16T07:11:04.555Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "a86d1b4f-997c-44fd-9a7d-6074af84a31f",
+      "shortId": "531I15",
+      "name": "CORSICA!",
+      "role": "USER",
+      "level": 99
+    },
+    "message": "/wager [Grinchette||BODY_SKIN|MYTHICAL] #Z97DD0",
+    "timestamp": "2026-05-16T07:11:09.612Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "a86d1b4f-997c-44fd-9a7d-6074af84a31f",
+      "shortId": "531I15",
+      "name": "CORSICA!",
+      "role": "USER",
+      "level": 99
+    },
+    "message": "oml",
+    "timestamp": "2026-05-16T07:11:19.938Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "a86d1b4f-997c-44fd-9a7d-6074af84a31f",
+      "shortId": "531I15",
+      "name": "CORSICA!",
+      "role": "USER",
+      "level": 99
+    },
+    "message": "/cancelwager",
+    "timestamp": "2026-05-16T07:11:21.721Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "a86d1b4f-997c-44fd-9a7d-6074af84a31f",
+      "shortId": "531I15",
+      "name": "CORSICA!",
+      "role": "USER",
+      "level": 99
+    },
+    "message": "/wager [Grinchette||BODY_SKIN|MYTHICAL] #Z97DD0",
+    "timestamp": "2026-05-16T07:12:44.744Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "a86d1b4f-997c-44fd-9a7d-6074af84a31f",
+      "shortId": "531I15",
+      "name": "CORSICA!",
+      "role": "USER",
+      "level": 99
+    },
+    "message": "balls",
+    "timestamp": "2026-05-16T07:13:21.711Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "a86d1b4f-997c-44fd-9a7d-6074af84a31f",
+      "shortId": "531I15",
+      "name": "CORSICA!",
+      "role": "USER",
+      "level": 99
+    },
+    "message": "/wager [Golden||CHEST|LEGENDARY]x1000 #3TWZVR",
+    "timestamp": "2026-05-16T07:13:57.724Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "a86d1b4f-997c-44fd-9a7d-6074af84a31f",
+      "shortId": "531I15",
+      "name": "CORSICA!",
+      "role": "USER",
+      "level": 99
+    },
+    "message": "/cancelwager",
+    "timestamp": "2026-05-16T07:14:19.097Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "a86d1b4f-997c-44fd-9a7d-6074af84a31f",
+      "shortId": "531I15",
+      "name": "CORSICA!",
+      "role": "USER",
+      "level": 99
+    },
+    "message": "/wager [Golden||CHEST|LEGENDARY]x1000 #DI5YGU",
+    "timestamp": "2026-05-16T07:14:44.021Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "a86d1b4f-997c-44fd-9a7d-6074af84a31f",
+      "shortId": "531I15",
+      "name": "CORSICA!",
+      "role": "USER",
+      "level": 99
+    },
+    "message": "gg",
+    "timestamp": "2026-05-16T07:15:18.152Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "a86d1b4f-997c-44fd-9a7d-6074af84a31f",
+      "shortId": "531I15",
+      "name": "CORSICA!",
+      "role": "USER",
+      "level": 99
+    },
+    "message": "/claim",
+    "timestamp": "2026-05-16T07:15:19.639Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "a86d1b4f-997c-44fd-9a7d-6074af84a31f",
+      "shortId": "531I15",
+      "name": "CORSICA!",
+      "role": "USER",
+      "level": 99
+    },
+    "message": "hmm",
+    "timestamp": "2026-05-16T07:15:33.792Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "a86d1b4f-997c-44fd-9a7d-6074af84a31f",
+      "shortId": "531I15",
+      "name": "CORSICA!",
+      "role": "USER",
+      "level": 99
+    },
+    "message": "why not",
+    "timestamp": "2026-05-16T07:15:36.292Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "a86d1b4f-997c-44fd-9a7d-6074af84a31f",
+      "shortId": "531I15",
+      "name": "CORSICA!",
+      "role": "USER",
+      "level": 99
+    },
+    "message": "/confirmwager",
+    "timestamp": "2026-05-16T07:15:38.416Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "a86d1b4f-997c-44fd-9a7d-6074af84a31f",
+      "shortId": "531I15",
+      "name": "CORSICA!",
+      "role": "USER",
+      "level": 99
+    },
+    "message": "/trdae confirm",
+    "timestamp": "2026-05-16T07:15:54.205Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "a86d1b4f-997c-44fd-9a7d-6074af84a31f",
+      "shortId": "531I15",
+      "name": "CORSICA!",
+      "role": "USER",
+      "level": 99
+    },
+    "message": "eh",
+    "timestamp": "2026-05-16T07:16:01.578Z"
   }
 ]
