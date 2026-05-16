@@ -1894,5 +1894,53 @@
     },
     "message": "who have [Mirror|VITA|WEAPON_SKIN|MYTHICAL]?",
     "timestamp": "2026-05-15T13:18:12.124Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "ef0d085e-2d3f-43af-954e-6b579cafd5d5",
+      "shortId": "6AO53F",
+      "name": "OPTIMUS",
+      "role": "USER",
+      "level": 100
+    },
+    "message": "hisoka",
+    "timestamp": "2026-05-16T07:45:09.555Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "ef0d085e-2d3f-43af-954e-6b579cafd5d5",
+      "shortId": "6AO53F",
+      "name": "OPTIMUS",
+      "role": "USER",
+      "level": 100
+    },
+    "message": "wanna offer [ranked-s1 top10]",
+    "timestamp": "2026-05-16T07:45:18.433Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "ef0d085e-2d3f-43af-954e-6b579cafd5d5",
+      "shortId": "6AO53F",
+      "name": "OPTIMUS",
+      "role": "USER",
+      "level": 100
+    },
+    "message": "?",
+    "timestamp": "2026-05-16T07:45:19.755Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "ef0d085e-2d3f-43af-954e-6b579cafd5d5",
+      "shortId": "6AO53F",
+      "name": "OPTIMUS",
+      "role": "USER",
+      "level": 100
+    },
+    "message": "alr",
+    "timestamp": "2026-05-16T07:45:33.171Z"
   }
 ]
