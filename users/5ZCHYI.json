@@ -7414,5 +7414,29 @@
     },
     "message": "/st [Soak|Revolver|WEAPON_SKIN|MYTHICAL]",
     "timestamp": "2026-05-16T11:11:53.510Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "3cd39bca-fb4d-4024-bf72-57d747f9a75f",
+      "shortId": "5ZCHYI",
+      "name": "Saint.",
+      "role": "USER",
+      "level": 75
+    },
+    "message": "trading [Sweater|VITA|WEAPON_SKIN|LEGENDARY][Endless||BODY_SKIN|MYTHICAL][Astral|AR-9|WEAPON_SKIN|MYTHICAL][Basket||BODY_SKIN|MYTHICAL][Vibes||BODY_SKIN|MYTHICAL][Billion|Shark|WEAPON_SKIN|MYTHICAL][Andromeda|MAC-10|WEAPON_SKIN|LEGENDARY]",
+    "timestamp": "2026-05-16T11:33:20.029Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "3cd39bca-fb4d-4024-bf72-57d747f9a75f",
+      "shortId": "5ZCHYI",
+      "name": "Saint.",
+      "role": "USER",
+      "level": 75
+    },
+    "message": "lf [Forbidden|AR-9|WEAPON_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-16T11:33:41.934Z"
   }
 ]
