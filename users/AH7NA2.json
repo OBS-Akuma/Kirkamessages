@@ -1426,5 +1426,65 @@
     },
     "message": "cerista#2I5XG5 whatt",
     "timestamp": "2026-05-13T20:19:40.932Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "guest-077dceb4-05fe-4442-b2e0-edd5469cf619",
+      "shortId": "AH7NA2",
+      "name": "ALTERED",
+      "role": "USER",
+      "level": 28
+    },
+    "message": "CuteClonedBuny#HUB956 [2025 Revolver|Revolver|WEAPON_SKIN|MYTHICAL][Fever|SCAR|WEAPON_SKIN|MYTHICAL][Golden||CHEST|LEGENDARY]x266 for [Blast SCAR|SCAR|WEAPON_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-15T23:11:19.899Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "guest-077dceb4-05fe-4442-b2e0-edd5469cf619",
+      "shortId": "AH7NA2",
+      "name": "ALTERED",
+      "role": "USER",
+      "level": 28
+    },
+    "message": "CuteClonedBuny#HUB956 [2025 Revolver|Revolver|WEAPON_SKIN|MYTHICAL][Golden||CHEST|LEGENDARY]x266[Fever|SCAR|WEAPON_SKIN|MYTHICAL] for [Blast SCAR|SCAR|WEAPON_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-15T23:12:26.057Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "guest-077dceb4-05fe-4442-b2e0-edd5469cf619",
+      "shortId": "AH7NA2",
+      "name": "ALTERED",
+      "role": "USER",
+      "level": 28
+    },
+    "message": "CuteClonedBuny#HUB956 why not",
+    "timestamp": "2026-05-15T23:12:47.390Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "guest-077dceb4-05fe-4442-b2e0-edd5469cf619",
+      "shortId": "AH7NA2",
+      "name": "ALTERED",
+      "role": "USER",
+      "level": 28
+    },
+    "message": "does anyone here have a good [Shark||WEAPON_2|COMMON] they'll trade for [2025 Revolver|Revolver|WEAPON_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-15T23:25:33.584Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "guest-077dceb4-05fe-4442-b2e0-edd5469cf619",
+      "shortId": "AH7NA2",
+      "name": "ALTERED",
+      "role": "USER",
+      "level": 28
+    },
+    "message": "/price [Gardener|Bayonet|WEAPON_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-15T23:25:48.077Z"
   }
 ]
