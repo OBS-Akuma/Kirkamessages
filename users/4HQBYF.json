@@ -46,5 +46,17 @@
     },
     "message": "/hm rabbit",
     "timestamp": "2026-05-12T05:06:56.595Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "efb12b69-f074-49d0-aedd-3156d6d1121a",
+      "shortId": "4HQBYF",
+      "name": "[MOB]Z900-ERNO",
+      "role": "USER",
+      "level": 80
+    },
+    "message": "/inv",
+    "timestamp": "2026-05-16T11:38:29.942Z"
   }
 ]
