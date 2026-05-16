@@ -310,5 +310,29 @@
     },
     "message": "/price 2026",
     "timestamp": "2026-05-12T15:24:28.174Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "8d0d791c-ef06-4e6f-ae33-44f091d9fcab",
+      "shortId": "ZP65HP",
+      "name": "Kaloo",
+      "role": "USER",
+      "level": 26
+    },
+    "message": "/price urannioum",
+    "timestamp": "2026-05-15T12:41:47.019Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "8d0d791c-ef06-4e6f-ae33-44f091d9fcab",
+      "shortId": "ZP65HP",
+      "name": "Kaloo",
+      "role": "USER",
+      "level": 26
+    },
+    "message": "/price uranioum",
+    "timestamp": "2026-05-15T12:42:00.818Z"
   }
 ]
