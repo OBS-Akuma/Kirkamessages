@@ -214,5 +214,17 @@
     },
     "message": "GUYSSS IS [Forbidden|AR-9|WEAPON_SKIN|MYTHICAL] GOOD?",
     "timestamp": "2026-05-16T06:42:30.313Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "DYsgXjJEuVMHOqSkIgVcKxxN79r2",
+      "shortId": "0OAD9V",
+      "name": "AURA_999+",
+      "role": "USER",
+      "level": 47
+    },
+    "message": "/price [Murdered|Revolver|WEAPON_SKIN|LEGENDARY]",
+    "timestamp": "2026-05-16T07:20:51.303Z"
   }
 ]
