@@ -58,5 +58,77 @@
     },
     "message": "/price [Ghillie||BODY_SKIN|MYTHICAL]",
     "timestamp": "2026-05-13T08:21:58.434Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "b210c4f2-70c2-4648-812b-c6065bd84041",
+      "shortId": "HBT5IJ",
+      "name": "Invader299",
+      "role": "USER",
+      "level": 100
+    },
+    "message": "/price [Lilith||BODY_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-15T08:48:12.516Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "b210c4f2-70c2-4648-812b-c6065bd84041",
+      "shortId": "HBT5IJ",
+      "name": "Invader299",
+      "role": "USER",
+      "level": 100
+    },
+    "message": "/claim",
+    "timestamp": "2026-05-15T08:48:52.397Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "b210c4f2-70c2-4648-812b-c6065bd84041",
+      "shortId": "HBT5IJ",
+      "name": "Invader299",
+      "role": "USER",
+      "level": 100
+    },
+    "message": "/price [ghillie",
+    "timestamp": "2026-05-15T11:06:52.034Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "b210c4f2-70c2-4648-812b-c6065bd84041",
+      "shortId": "HBT5IJ",
+      "name": "Invader299",
+      "role": "USER",
+      "level": 100
+    },
+    "message": "/price [underwater",
+    "timestamp": "2026-05-15T21:58:04.785Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "b210c4f2-70c2-4648-812b-c6065bd84041",
+      "shortId": "HBT5IJ",
+      "name": "Invader299",
+      "role": "USER",
+      "level": 100
+    },
+    "message": "/price [forbidden",
+    "timestamp": "2026-05-15T21:59:01.884Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "b210c4f2-70c2-4648-812b-c6065bd84041",
+      "shortId": "HBT5IJ",
+      "name": "Invader299",
+      "role": "USER",
+      "level": 100
+    },
+    "message": "/price [cloudy",
+    "timestamp": "2026-05-15T21:59:19.069Z"
   }
 ]
