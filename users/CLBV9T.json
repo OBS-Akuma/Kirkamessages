@@ -22,5 +22,17 @@
     },
     "message": "I",
     "timestamp": "2026-05-12T22:15:33.454Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "Hzz3h22sfXQOLoEsgPs6W3nf7Yw1",
+      "shortId": "CLBV9T",
+      "name": "TOP1DEMANCOS",
+      "role": "USER",
+      "level": 27
+    },
+    "message": "li",
+    "timestamp": "2026-05-16T12:31:03.746Z"
   }
 ]
