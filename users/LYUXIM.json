@@ -814,5 +814,29 @@
     },
     "message": "[Saurus|Bayonet|WEAPON_SKIN|MYTHICAL]",
     "timestamp": "2026-05-15T02:45:27.675Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "fddeb704-c4e4-4f50-8a81-28c407f6d5da",
+      "shortId": "LYUXIM",
+      "name": "tstep",
+      "role": "USER",
+      "level": 98
+    },
+    "message": "/price rosed",
+    "timestamp": "2026-05-15T22:58:34.811Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "fddeb704-c4e4-4f50-8a81-28c407f6d5da",
+      "shortId": "LYUXIM",
+      "name": "tstep",
+      "role": "USER",
+      "level": 98
+    },
+    "message": "/price target",
+    "timestamp": "2026-05-15T23:04:44.062Z"
   }
 ]
