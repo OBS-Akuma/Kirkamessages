@@ -10,5 +10,29 @@
     },
     "message": "/trede accept 82695",
     "timestamp": "2026-05-09T05:43:55.297Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "c471d7a9-6c2b-4af9-bf0e-5980f336a3e6",
+      "shortId": "GJLF6W",
+      "name": "ZG_Mario",
+      "role": "USER",
+      "level": 40
+    },
+    "message": "Hello",
+    "timestamp": "2026-05-16T04:36:21.937Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "c471d7a9-6c2b-4af9-bf0e-5980f336a3e6",
+      "shortId": "GJLF6W",
+      "name": "ZG_Mario",
+      "role": "USER",
+      "level": 40
+    },
+    "message": "Any 1v1 player?",
+    "timestamp": "2026-05-16T04:36:39.906Z"
   }
 ]
