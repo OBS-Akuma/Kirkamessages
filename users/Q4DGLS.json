@@ -692,7 +692,7 @@
       "role": "USER",
       "level": 66
     },
-    "message": "t'auras essayÃ© rise",
+    "message": "t'auras essayÃÂ© rise",
     "timestamp": "2026-05-15T08:09:48.314Z"
   },
   {
@@ -994,5 +994,41 @@
     },
     "message": "#J897E6 i have oblivion",
     "timestamp": "2026-05-15T08:59:43.523Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "6ebdff33-dbac-4d67-8a62-150263312233",
+      "shortId": "Q4DGLS",
+      "name": "[EGD]God.",
+      "role": "USER",
+      "level": 67
+    },
+    "message": "eh",
+    "timestamp": "2026-05-16T08:58:20.066Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "6ebdff33-dbac-4d67-8a62-150263312233",
+      "shortId": "Q4DGLS",
+      "name": "[EGD]God.",
+      "role": "USER",
+      "level": 67
+    },
+    "message": "wsh ya du monde",
+    "timestamp": "2026-05-16T08:58:34.250Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "6ebdff33-dbac-4d67-8a62-150263312233",
+      "shortId": "Q4DGLS",
+      "name": "[EGD]God.",
+      "role": "USER",
+      "level": 67
+    },
+    "message": "ya quoi?",
+    "timestamp": "2026-05-16T08:58:38.054Z"
   }
 ]
