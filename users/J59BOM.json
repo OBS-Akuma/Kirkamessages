@@ -1,0 +1,86 @@
+[
+  {
+    "type": 2,
+    "user": {
+      "id": "32b62341-902f-4974-8e20-c88c050f32ed",
+      "shortId": "J59BOM",
+      "name": "zoro",
+      "role": "USER",
+      "level": 97
+    },
+    "message": "/price [korounami]",
+    "timestamp": "2026-05-15T04:54:19.605Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "32b62341-902f-4974-8e20-c88c050f32ed",
+      "shortId": "J59BOM",
+      "name": "zoro",
+      "role": "USER",
+      "level": 97
+    },
+    "message": "/price [kurunami]",
+    "timestamp": "2026-05-15T04:54:39.423Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "32b62341-902f-4974-8e20-c88c050f32ed",
+      "shortId": "J59BOM",
+      "name": "zoro",
+      "role": "USER",
+      "level": 97
+    },
+    "message": "broooooooo",
+    "timestamp": "2026-05-15T04:54:47.908Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "32b62341-902f-4974-8e20-c88c050f32ed",
+      "shortId": "J59BOM",
+      "name": "zoro",
+      "role": "USER",
+      "level": 97
+    },
+    "message": "thankssssss",
+    "timestamp": "2026-05-15T04:54:54.984Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "32b62341-902f-4974-8e20-c88c050f32ed",
+      "shortId": "J59BOM",
+      "name": "zoro",
+      "role": "USER",
+      "level": 97
+    },
+    "message": "/price [Korunami|LAR|WEAPON_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-15T04:55:09.608Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "32b62341-902f-4974-8e20-c88c050f32ed",
+      "shortId": "J59BOM",
+      "name": "zoro",
+      "role": "USER",
+      "level": 97
+    },
+    "message": "/inv",
+    "timestamp": "2026-05-15T04:55:43.212Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "32b62341-902f-4974-8e20-c88c050f32ed",
+      "shortId": "J59BOM",
+      "name": "zoro",
+      "role": "USER",
+      "level": 97
+    },
+    "message": "/price [Mirror|VITA|WEAPON_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-15T05:03:38.234Z"
+  }
+]
