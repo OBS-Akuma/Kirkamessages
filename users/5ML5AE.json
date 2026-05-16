@@ -1,0 +1,50 @@
+[
+  {
+    "type": 2,
+    "user": {
+      "id": "guest-e3fefc32-e113-484a-b52a-648154722778",
+      "shortId": "5ML5AE",
+      "name": "chinzuex",
+      "role": "USER",
+      "level": 5
+    },
+    "message": "/wager",
+    "timestamp": "2026-05-16T02:13:41.579Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "guest-e3fefc32-e113-484a-b52a-648154722778",
+      "shortId": "5ML5AE",
+      "name": "chinzuex",
+      "role": "USER",
+      "level": 5
+    },
+    "message": "tr[James||BODY_SKIN|COMMON][Elizabeth||BODY_SKIN|COMMON]",
+    "timestamp": "2026-05-16T02:14:01.443Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "guest-e3fefc32-e113-484a-b52a-648154722778",
+      "shortId": "5ML5AE",
+      "name": "chinzuex",
+      "role": "USER",
+      "level": 5
+    },
+    "message": "/inv",
+    "timestamp": "2026-05-16T02:14:22.216Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "guest-e3fefc32-e113-484a-b52a-648154722778",
+      "shortId": "5ML5AE",
+      "name": "chinzuex",
+      "role": "USER",
+      "level": 5
+    },
+    "message": "/in",
+    "timestamp": "2026-05-16T02:14:26.583Z"
+  }
+]
