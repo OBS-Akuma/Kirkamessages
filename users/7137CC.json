@@ -298,5 +298,41 @@
     },
     "message": "anyone needs name change card",
     "timestamp": "2026-05-16T11:51:28.768Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "f31ba0cb-4464-4727-9570-23b1f3c4f179",
+      "shortId": "7137CC",
+      "name": "_RSG_",
+      "role": "USER",
+      "level": 15
+    },
+    "message": "zatra",
+    "timestamp": "2026-05-16T13:38:58.115Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "f31ba0cb-4464-4727-9570-23b1f3c4f179",
+      "shortId": "7137CC",
+      "name": "_RSG_",
+      "role": "USER",
+      "level": 15
+    },
+    "message": "/hm ghoul",
+    "timestamp": "2026-05-16T13:39:06.138Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "f31ba0cb-4464-4727-9570-23b1f3c4f179",
+      "shortId": "7137CC",
+      "name": "_RSG_",
+      "role": "USER",
+      "level": 15
+    },
+    "message": "Will sizzle work",
+    "timestamp": "2026-05-16T13:39:12.894Z"
   }
 ]
