@@ -862,5 +862,17 @@
     },
     "message": "nevermind",
     "timestamp": "2026-05-16T14:33:25.796Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "v993euQtH5c0fkYcZhd3QLVehZC2",
+      "shortId": "2CTKAX",
+      "name": ".CH!LL-PUG.",
+      "role": "USER",
+      "level": 50
+    },
+    "message": "VSG",
+    "timestamp": "2026-05-16T15:10:44.524Z"
   }
 ]
