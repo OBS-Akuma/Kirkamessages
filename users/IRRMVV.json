@@ -1294,5 +1294,17 @@
     },
     "message": "s",
     "timestamp": "2026-05-15T15:29:57.199Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "4207d12e-c22a-4b15-951d-f55b923175c6",
+      "shortId": "IRRMVV",
+      "name": "AimLow",
+      "role": "USER",
+      "level": 73
+    },
+    "message": "/PRICE dynasty",
+    "timestamp": "2026-05-16T12:01:53.339Z"
   }
 ]
