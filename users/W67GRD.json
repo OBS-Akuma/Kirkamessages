@@ -1,0 +1,26 @@
+[
+  {
+    "type": 2,
+    "user": {
+      "id": "r0LG0rOOXlSRX0YN45u8NFUvomD3",
+      "shortId": "W67GRD",
+      "name": "masamichi",
+      "role": "USER",
+      "level": 5
+    },
+    "message": "hola",
+    "timestamp": "2026-05-16T06:51:26.692Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "r0LG0rOOXlSRX0YN45u8NFUvomD3",
+      "shortId": "W67GRD",
+      "name": "masamichi",
+      "role": "USER",
+      "level": 5
+    },
+    "message": ":v",
+    "timestamp": "2026-05-16T06:51:32.553Z"
+  }
+]
