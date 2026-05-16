@@ -130,5 +130,89 @@
     },
     "message": "/price [Maksim||BODY_SKIN|LEGENDARY]",
     "timestamp": "2026-05-15T11:54:46.691Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "DYsgXjJEuVMHOqSkIgVcKxxN79r2",
+      "shortId": "0OAD9V",
+      "name": "AURA_999+",
+      "role": "USER",
+      "level": 47
+    },
+    "message": "/price [curcuit]",
+    "timestamp": "2026-05-16T06:38:10.193Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "DYsgXjJEuVMHOqSkIgVcKxxN79r2",
+      "shortId": "0OAD9V",
+      "name": "AURA_999+",
+      "role": "USER",
+      "level": 47
+    },
+    "message": "/price [Ciecuit]",
+    "timestamp": "2026-05-16T06:38:42.871Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "DYsgXjJEuVMHOqSkIgVcKxxN79r2",
+      "shortId": "0OAD9V",
+      "name": "AURA_999+",
+      "role": "USER",
+      "level": 47
+    },
+    "message": "/price [Circuit|VITA|WEAPON_SKIN|COMMON]",
+    "timestamp": "2026-05-16T06:38:57.596Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "DYsgXjJEuVMHOqSkIgVcKxxN79r2",
+      "shortId": "0OAD9V",
+      "name": "AURA_999+",
+      "role": "USER",
+      "level": 47
+    },
+    "message": "/price [Metallic Rainbow|VITA|WEAPON_SKIN|LEGENDARY]",
+    "timestamp": "2026-05-16T06:39:15.444Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "DYsgXjJEuVMHOqSkIgVcKxxN79r2",
+      "shortId": "0OAD9V",
+      "name": "AURA_999+",
+      "role": "USER",
+      "level": 47
+    },
+    "message": "/price [void]",
+    "timestamp": "2026-05-16T06:39:43.571Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "DYsgXjJEuVMHOqSkIgVcKxxN79r2",
+      "shortId": "0OAD9V",
+      "name": "AURA_999+",
+      "role": "USER",
+      "level": 47
+    },
+    "message": "GUYS IS [Forbidden|AR-9|WEAPON_SKIN|MYTHICAL] good???????",
+    "timestamp": "2026-05-16T06:40:13.182Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "DYsgXjJEuVMHOqSkIgVcKxxN79r2",
+      "shortId": "0OAD9V",
+      "name": "AURA_999+",
+      "role": "USER",
+      "level": 47
+    },
+    "message": "GUYSSS IS [Forbidden|AR-9|WEAPON_SKIN|MYTHICAL] GOOD?",
+    "timestamp": "2026-05-16T06:42:30.313Z"
   }
 ]
