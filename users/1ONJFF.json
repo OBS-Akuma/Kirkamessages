@@ -502,5 +502,29 @@
     },
     "message": "tr[Sizzle||BODY_SKIN|MYTHICAL]",
     "timestamp": "2026-05-14T16:19:46.586Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "273f4b3e-557a-4d6f-b346-ea9534e6c283",
+      "shortId": "1ONJFF",
+      "name": "_VSG_",
+      "role": "USER",
+      "level": 44
+    },
+    "message": "/hm verde",
+    "timestamp": "2026-05-16T15:10:34.318Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "273f4b3e-557a-4d6f-b346-ea9534e6c283",
+      "shortId": "1ONJFF",
+      "name": "_VSG_",
+      "role": "USER",
+      "level": 44
+    },
+    "message": "/hm synergy",
+    "timestamp": "2026-05-16T15:10:42.703Z"
   }
 ]
