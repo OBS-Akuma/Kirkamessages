@@ -5566,5 +5566,41 @@
     },
     "message": "/inventory price #0BPRZO",
     "timestamp": "2026-05-16T03:33:27.181Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "aC4eJ9XToJg3hfiixxui6Cv8ymy2",
+      "shortId": "0BPRZO",
+      "name": "Abyss",
+      "role": "USER",
+      "level": 48
+    },
+    "message": "/price [Blue Hell|VITA|WEAPON_SKIN|LEGENDARY]",
+    "timestamp": "2026-05-16T03:54:39.932Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "aC4eJ9XToJg3hfiixxui6Cv8ymy2",
+      "shortId": "0BPRZO",
+      "name": "Abyss",
+      "role": "USER",
+      "level": 48
+    },
+    "message": "#UOP9XY'",
+    "timestamp": "2026-05-16T03:54:54.231Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "aC4eJ9XToJg3hfiixxui6Cv8ymy2",
+      "shortId": "0BPRZO",
+      "name": "Abyss",
+      "role": "USER",
+      "level": 48
+    },
+    "message": "i have it",
+    "timestamp": "2026-05-16T03:54:59.430Z"
   }
 ]
