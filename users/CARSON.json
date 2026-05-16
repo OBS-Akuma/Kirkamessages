@@ -1186,5 +1186,41 @@
     },
     "message": "[Black Metal 2.0|LAR|WEAPON_SKIN|LEGENDARY]",
     "timestamp": "2026-05-15T05:01:45.821Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "9760c58b-fc34-425a-8d81-a957ad5a75c1",
+      "shortId": "CARSON",
+      "name": "[EGD]Carson",
+      "role": "USER",
+      "level": 98
+    },
+    "message": "#KFTANI",
+    "timestamp": "2026-05-16T02:33:52.846Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "9760c58b-fc34-425a-8d81-a957ad5a75c1",
+      "shortId": "CARSON",
+      "name": "[EGD]Carson",
+      "role": "USER",
+      "level": 98
+    },
+    "message": "#KFTANI.",
+    "timestamp": "2026-05-16T02:47:48.121Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "9760c58b-fc34-425a-8d81-a957ad5a75c1",
+      "shortId": "CARSON",
+      "name": "[EGD]Carson",
+      "role": "USER",
+      "level": 98
+    },
+    "message": "#530VWU",
+    "timestamp": "2026-05-16T03:47:09.140Z"
   }
 ]
