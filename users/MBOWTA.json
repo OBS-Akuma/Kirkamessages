@@ -1,0 +1,26 @@
+[
+  {
+    "type": 2,
+    "user": {
+      "id": "guest-9c25fbdc-9d14-435b-aa0f-4ad4b5580246",
+      "shortId": "MBOWTA",
+      "name": "Ephemeral",
+      "role": "USER",
+      "level": 5
+    },
+    "message": "Aight who wants free stuff",
+    "timestamp": "2026-05-16T14:20:44.730Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "guest-9c25fbdc-9d14-435b-aa0f-4ad4b5580246",
+      "shortId": "MBOWTA",
+      "name": "Ephemeral",
+      "role": "USER",
+      "level": 5
+    },
+    "message": "gg",
+    "timestamp": "2026-05-16T14:21:00.426Z"
+  }
+]
