@@ -130,5 +130,17 @@
     },
     "message": "ssssss",
     "timestamp": "2026-05-15T06:00:50.720Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "guest-1865fe25-2ee5-4c7b-81f4-50834a5dd1ab",
+      "shortId": "AW3SUM",
+      "name": "HAKER_JLA_971",
+      "role": "USER",
+      "level": 17
+    },
+    "message": "1v1",
+    "timestamp": "2026-05-16T10:27:15.813Z"
   }
 ]
