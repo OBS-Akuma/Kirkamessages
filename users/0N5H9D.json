@@ -274,5 +274,41 @@
     },
     "message": "/last [Verde|Bayonet|WEAPON_SKIN|MYTHICAL]",
     "timestamp": "2026-05-15T22:51:40.008Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "d4fcbffb-785c-41b3-aeec-973984477ccd",
+      "shortId": "0N5H9D",
+      "name": "ONE!PRO",
+      "role": "USER",
+      "level": 98
+    },
+    "message": "[Hello123||BODY_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-15T23:16:56.749Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "d4fcbffb-785c-41b3-aeec-973984477ccd",
+      "shortId": "0N5H9D",
+      "name": "ONE!PRO",
+      "role": "USER",
+      "level": 98
+    },
+    "message": "s",
+    "timestamp": "2026-05-15T23:27:16.649Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "d4fcbffb-785c-41b3-aeec-973984477ccd",
+      "shortId": "0N5H9D",
+      "name": "ONE!PRO",
+      "role": "USER",
+      "level": 98
+    },
+    "message": "[Hello123||BODY_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-15T23:27:19.285Z"
   }
 ]
