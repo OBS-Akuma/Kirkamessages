@@ -34,5 +34,53 @@
     },
     "message": "#Z97DD0",
     "timestamp": "2026-05-14T00:27:41.042Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "6aa6a88a-520d-48ab-bff5-474b59da265e",
+      "shortId": "U1GNQO",
+      "name": "Zenith",
+      "role": "USER",
+      "level": 17
+    },
+    "message": "/enter",
+    "timestamp": "2026-05-15T12:53:17.121Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "6aa6a88a-520d-48ab-bff5-474b59da265e",
+      "shortId": "U1GNQO",
+      "name": "Zenith",
+      "role": "USER",
+      "level": 17
+    },
+    "message": "h",
+    "timestamp": "2026-05-15T13:07:53.270Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "6aa6a88a-520d-48ab-bff5-474b59da265e",
+      "shortId": "U1GNQO",
+      "name": "Zenith",
+      "role": "USER",
+      "level": 17
+    },
+    "message": "um",
+    "timestamp": "2026-05-15T13:08:00.918Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "6aa6a88a-520d-48ab-bff5-474b59da265e",
+      "shortId": "U1GNQO",
+      "name": "Zenith",
+      "role": "USER",
+      "level": 17
+    },
+    "message": "/claim",
+    "timestamp": "2026-05-15T13:08:02.457Z"
   }
 ]
