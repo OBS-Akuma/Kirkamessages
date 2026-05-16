@@ -34,5 +34,17 @@
     },
     "message": "/hm [Garden|LAR|WEAPON_SKIN|MYTHICAL]",
     "timestamp": "2026-05-15T13:10:47.721Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "UjZsY5Y87caIkFo9EpNY5Uagp6C3",
+      "shortId": "0R1MDL",
+      "name": "MRL54kczu",
+      "role": "USER",
+      "level": 26
+    },
+    "message": "/confirmwager",
+    "timestamp": "2026-05-16T11:47:05.845Z"
   }
 ]
