@@ -574,5 +574,17 @@
     },
     "message": "my abyss 815k",
     "timestamp": "2026-05-16T00:57:24.296Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "5a04b112-f5a9-4d7a-9c56-0f9181aa7ac6",
+      "shortId": "1X26GT",
+      "name": "FatFat117",
+      "role": "USER",
+      "level": 21
+    },
+    "message": "/last10 abyss",
+    "timestamp": "2026-05-16T01:08:48.020Z"
   }
 ]
