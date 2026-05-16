@@ -12178,5 +12178,53 @@
     },
     "message": "Who wanna wager???",
     "timestamp": "2026-05-16T05:17:41.428Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "ccb0989c-752e-489f-a2a2-cacbd0491076",
+      "shortId": "5GP14K",
+      "name": "Dr.strange",
+      "role": "USER",
+      "level": 84
+    },
+    "message": "Who wanna wager??",
+    "timestamp": "2026-05-16T05:18:16.184Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "ccb0989c-752e-489f-a2a2-cacbd0491076",
+      "shortId": "5GP14K",
+      "name": "Dr.strange",
+      "role": "USER",
+      "level": 84
+    },
+    "message": "Who wanna wager [Grinchette||BODY_SKIN|MYTHICAL]????",
+    "timestamp": "2026-05-16T05:19:03.635Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "ccb0989c-752e-489f-a2a2-cacbd0491076",
+      "shortId": "5GP14K",
+      "name": "Dr.strange",
+      "role": "USER",
+      "level": 84
+    },
+    "message": "Who wanna wager??",
+    "timestamp": "2026-05-16T05:19:49.464Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "ccb0989c-752e-489f-a2a2-cacbd0491076",
+      "shortId": "5GP14K",
+      "name": "Dr.strange",
+      "role": "USER",
+      "level": 84
+    },
+    "message": "Who wanna wager????!",
+    "timestamp": "2026-05-16T05:20:42.145Z"
   }
 ]
