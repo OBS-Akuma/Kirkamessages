@@ -166,5 +166,17 @@
     },
     "message": "/hm [Heavy|LAR|WEAPON_SKIN|MYTHICAL]",
     "timestamp": "2026-05-14T18:05:52.294Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "f81fc39c-e01f-4be2-8477-1c06f14551fc",
+      "shortId": "NQ1FXQ",
+      "name": "Mooffel",
+      "role": "USER",
+      "level": 100
+    },
+    "message": "lf [Heavy|LAR|WEAPON_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-15T21:02:42.871Z"
   }
 ]
