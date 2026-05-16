@@ -1438,5 +1438,77 @@
     },
     "message": "i dont have adds",
     "timestamp": "2026-05-16T15:07:42.747Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "05fd406f-e037-478d-b701-2a92081be680",
+      "shortId": "3H2D6N",
+      "name": "Jupiter",
+      "role": "USER",
+      "level": 70
+    },
+    "message": "dg [Radioactive|Bayonet|WEAPON_SKIN|LEGENDARY] for red skins",
+    "timestamp": "2026-05-16T15:18:55.595Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "05fd406f-e037-478d-b701-2a92081be680",
+      "shortId": "3H2D6N",
+      "name": "Jupiter",
+      "role": "USER",
+      "level": 70
+    },
+    "message": "dg [Radioactive|Bayonet|WEAPON_SKIN|LEGENDARY] for red skins.#",
+    "timestamp": "2026-05-16T15:20:45.774Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "05fd406f-e037-478d-b701-2a92081be680",
+      "shortId": "3H2D6N",
+      "name": "Jupiter",
+      "role": "USER",
+      "level": 70
+    },
+    "message": "dg [Radioactive|Bayonet|WEAPON_SKIN|LEGENDARY] for red skins",
+    "timestamp": "2026-05-16T15:20:52.666Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "05fd406f-e037-478d-b701-2a92081be680",
+      "shortId": "3H2D6N",
+      "name": "Jupiter",
+      "role": "USER",
+      "level": 70
+    },
+    "message": "dg [Radioactive|Bayonet|WEAPON_SKIN|LEGENDARY].",
+    "timestamp": "2026-05-16T15:36:19.957Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "05fd406f-e037-478d-b701-2a92081be680",
+      "shortId": "3H2D6N",
+      "name": "Jupiter",
+      "role": "USER",
+      "level": 70
+    },
+    "message": "rad 40 dg",
+    "timestamp": "2026-05-16T15:36:41.332Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "05fd406f-e037-478d-b701-2a92081be680",
+      "shortId": "3H2D6N",
+      "name": "Jupiter",
+      "role": "USER",
+      "level": 70
+    },
+    "message": "dg [Radioactive|Bayonet|WEAPON_SKIN|LEGENDARY]",
+    "timestamp": "2026-05-16T15:37:44.975Z"
   }
 ]
