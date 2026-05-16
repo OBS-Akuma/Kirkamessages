@@ -142,5 +142,17 @@
     },
     "message": "/hm [All Spark|Revolver|WEAPON_SKIN|MYTHICAL]",
     "timestamp": "2026-05-16T03:59:11.586Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "7ddc9a8f-f56b-459b-b736-7ece0f5bc36f",
+      "shortId": "CGY63F",
+      "name": "inocent.exe",
+      "role": "USER",
+      "level": 60
+    },
+    "message": "/price [Engravement|Bayonet|WEAPON_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-16T12:31:24.997Z"
   }
 ]
