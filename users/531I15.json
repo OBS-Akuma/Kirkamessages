@@ -2182,5 +2182,53 @@
     },
     "message": "eh",
     "timestamp": "2026-05-16T07:16:01.578Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "a86d1b4f-997c-44fd-9a7d-6074af84a31f",
+      "shortId": "531I15",
+      "name": "CORSICA!",
+      "role": "USER",
+      "level": 99
+    },
+    "message": "tr/wager [Adora||BODY_SKIN|PARANORMAL][Warlord||BODY_SKIN|MYTHICAL][Vocaloid|SCAR|WEAPON_SKIN|LEGENDARY]x2 tr[Error||BODY_SKIN|MYTHICAL] for ovp",
+    "timestamp": "2026-05-16T09:40:08.934Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "a86d1b4f-997c-44fd-9a7d-6074af84a31f",
+      "shortId": "531I15",
+      "name": "CORSICA!",
+      "role": "USER",
+      "level": 99
+    },
+    "message": "tr/wager [Adora||BODY_SKIN|PARANORMAL][Warlord||BODY_SKIN|MYTHICAL][Vocaloid|SCAR|WEAPON_SKIN|LEGENDARY]x2 tr[Error||BODY_SKIN|MYTHICAL] for ovp.",
+    "timestamp": "2026-05-16T09:47:21.113Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "a86d1b4f-997c-44fd-9a7d-6074af84a31f",
+      "shortId": "531I15",
+      "name": "CORSICA!",
+      "role": "USER",
+      "level": 99
+    },
+    "message": "/wager [Adora||BODY_SKIN|PARANORMAL] #8KK5DM",
+    "timestamp": "2026-05-16T09:48:04.559Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "a86d1b4f-997c-44fd-9a7d-6074af84a31f",
+      "shortId": "531I15",
+      "name": "CORSICA!",
+      "role": "USER",
+      "level": 99
+    },
+    "message": "/cancelwager",
+    "timestamp": "2026-05-16T09:48:18.840Z"
   }
 ]
