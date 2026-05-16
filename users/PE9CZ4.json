@@ -274,5 +274,65 @@
     },
     "message": "#MURDER",
     "timestamp": "2026-05-14T13:48:34.505Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "d842a94c-24ff-43f2-ae6a-317ab26d6cd3",
+      "shortId": "PE9CZ4",
+      "name": "Beasty",
+      "role": "USER",
+      "level": 100
+    },
+    "message": "/enter",
+    "timestamp": "2026-05-15T12:51:54.020Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "d842a94c-24ff-43f2-ae6a-317ab26d6cd3",
+      "shortId": "PE9CZ4",
+      "name": "Beasty",
+      "role": "USER",
+      "level": 100
+    },
+    "message": "yes",
+    "timestamp": "2026-05-15T12:52:31.501Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "d842a94c-24ff-43f2-ae6a-317ab26d6cd3",
+      "shortId": "PE9CZ4",
+      "name": "Beasty",
+      "role": "USER",
+      "level": 100
+    },
+    "message": "i am",
+    "timestamp": "2026-05-15T12:52:53.830Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "d842a94c-24ff-43f2-ae6a-317ab26d6cd3",
+      "shortId": "PE9CZ4",
+      "name": "Beasty",
+      "role": "USER",
+      "level": 100
+    },
+    "message": "no master me poor guy rn",
+    "timestamp": "2026-05-15T12:53:09.537Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "d842a94c-24ff-43f2-ae6a-317ab26d6cd3",
+      "shortId": "PE9CZ4",
+      "name": "Beasty",
+      "role": "USER",
+      "level": 100
+    },
+    "message": ";-;",
+    "timestamp": "2026-05-15T12:53:47.729Z"
   }
 ]
