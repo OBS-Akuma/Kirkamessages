@@ -874,5 +874,41 @@
     },
     "message": "LF [Slasher||BODY_SKIN|PARANORMAL]",
     "timestamp": "2026-05-16T12:00:00.220Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "2d350ddc-f0e0-4afe-8c97-711c79d3cfa4",
+      "shortId": "0TEBJ5",
+      "name": "AKGAMER",
+      "role": "USER",
+      "level": 97
+    },
+    "message": "LF [Slasher||BODY_SKIN|PARANORMAL].",
+    "timestamp": "2026-05-16T12:24:14.250Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "2d350ddc-f0e0-4afe-8c97-711c79d3cfa4",
+      "shortId": "0TEBJ5",
+      "name": "AKGAMER",
+      "role": "USER",
+      "level": 97
+    },
+    "message": "TR [CYB3R|Bayonet|WEAPON_SKIN|MYTHICAL],[Slayer|VITA|WEAPON_SKIN|MYTHICAL],[Stargaze||BODY_SKIN|MYTHICAL],[Target|Revolver|WEAPON_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-16T12:26:32.256Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "2d350ddc-f0e0-4afe-8c97-711c79d3cfa4",
+      "shortId": "0TEBJ5",
+      "name": "AKGAMER",
+      "role": "USER",
+      "level": 97
+    },
+    "message": "TR [CYB3R|Bayonet|WEAPON_SKIN|MYTHICAL],[Slayer|VITA|WEAPON_SKIN|MYTHICAL],[Stargaze||BODY_SKIN|MYTHICAL],[Target|Revolver|WEAPON_SKIN|MYTHICAL].",
+    "timestamp": "2026-05-16T12:27:17.138Z"
   }
 ]
