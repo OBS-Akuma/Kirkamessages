@@ -12142,5 +12142,41 @@
     },
     "message": "/wager [Blast LAR|LAR|WEAPON_SKIN|MYTHICAL]#57RMMX",
     "timestamp": "2026-05-16T04:40:49.577Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "ccb0989c-752e-489f-a2a2-cacbd0491076",
+      "shortId": "5GP14K",
+      "name": "Dr.strange",
+      "role": "USER",
+      "level": 84
+    },
+    "message": "Who wanna wager??",
+    "timestamp": "2026-05-16T05:17:04.058Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "ccb0989c-752e-489f-a2a2-cacbd0491076",
+      "shortId": "5GP14K",
+      "name": "Dr.strange",
+      "role": "USER",
+      "level": 84
+    },
+    "message": "/claim",
+    "timestamp": "2026-05-16T05:17:16.368Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "ccb0989c-752e-489f-a2a2-cacbd0491076",
+      "shortId": "5GP14K",
+      "name": "Dr.strange",
+      "role": "USER",
+      "level": 84
+    },
+    "message": "Who wanna wager???",
+    "timestamp": "2026-05-16T05:17:41.428Z"
   }
 ]
