@@ -58,5 +58,41 @@
     },
     "message": "/claim",
     "timestamp": "2026-05-15T13:18:44.012Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "guest-1f5b7179-b75b-47c5-98eb-9f578dff0f0c",
+      "shortId": "XHLUR2",
+      "name": "HighNess",
+      "role": "USER",
+      "level": 69
+    },
+    "message": "/hm astra",
+    "timestamp": "2026-05-16T09:26:21.159Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "guest-1f5b7179-b75b-47c5-98eb-9f578dff0f0c",
+      "shortId": "XHLUR2",
+      "name": "HighNess",
+      "role": "USER",
+      "level": 69
+    },
+    "message": "/hm lmao",
+    "timestamp": "2026-05-16T10:30:30.796Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "guest-1f5b7179-b75b-47c5-98eb-9f578dff0f0c",
+      "shortId": "XHLUR2",
+      "name": "HighNess",
+      "role": "USER",
+      "level": 69
+    },
+    "message": "/enter",
+    "timestamp": "2026-05-16T10:44:24.697Z"
   }
 ]
