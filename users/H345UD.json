@@ -1114,5 +1114,53 @@
     },
     "message": "/inv",
     "timestamp": "2026-05-14T15:58:06.521Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "4565adc2-154f-4217-b2fc-56369a378692",
+      "shortId": "H345UD",
+      "name": "Hybrid",
+      "role": "USER",
+      "level": 30
+    },
+    "message": "/hm [Ruth|M60|WEAPON_SKIN|RARE]",
+    "timestamp": "2026-05-15T19:58:23.283Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "4565adc2-154f-4217-b2fc-56369a378692",
+      "shortId": "H345UD",
+      "name": "Hybrid",
+      "role": "USER",
+      "level": 30
+    },
+    "message": "/hm [Pale|SCAR|WEAPON_SKIN|COMMON]",
+    "timestamp": "2026-05-15T19:58:26.368Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "4565adc2-154f-4217-b2fc-56369a378692",
+      "shortId": "H345UD",
+      "name": "Hybrid",
+      "role": "USER",
+      "level": 30
+    },
+    "message": "/hm [Pale|SCAR|WEAPON_SKIN|COMMON]x1",
+    "timestamp": "2026-05-15T19:58:32.276Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "4565adc2-154f-4217-b2fc-56369a378692",
+      "shortId": "H345UD",
+      "name": "Hybrid",
+      "role": "USER",
+      "level": 30
+    },
+    "message": "my 500 value ur 300 value",
+    "timestamp": "2026-05-15T20:01:11.950Z"
   }
 ]
