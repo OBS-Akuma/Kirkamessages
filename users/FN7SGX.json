@@ -1,0 +1,74 @@
+[
+  {
+    "type": 2,
+    "user": {
+      "id": "3dba516b-7a6c-4e8f-87cb-6755369733b7",
+      "shortId": "FN7SGX",
+      "name": "fnpw",
+      "role": "USER",
+      "level": 94
+    },
+    "message": "/price [2024|Bayonet|WEAPON_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-16T09:34:38.545Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "3dba516b-7a6c-4e8f-87cb-6755369733b7",
+      "shortId": "FN7SGX",
+      "name": "fnpw",
+      "role": "USER",
+      "level": 94
+    },
+    "message": "/price [Capricorn|Tomahawk|WEAPON_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-16T09:34:53.375Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "3dba516b-7a6c-4e8f-87cb-6755369733b7",
+      "shortId": "FN7SGX",
+      "name": "fnpw",
+      "role": "USER",
+      "level": 94
+    },
+    "message": "/price [Drake|Bayonet|WEAPON_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-16T09:35:07.941Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "3dba516b-7a6c-4e8f-87cb-6755369733b7",
+      "shortId": "FN7SGX",
+      "name": "fnpw",
+      "role": "USER",
+      "level": 94
+    },
+    "message": "/price [chorma]",
+    "timestamp": "2026-05-16T09:35:28.991Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "3dba516b-7a6c-4e8f-87cb-6755369733b7",
+      "shortId": "FN7SGX",
+      "name": "fnpw",
+      "role": "USER",
+      "level": 94
+    },
+    "message": "/price [Chroma|LAR|WEAPON_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-16T09:35:44.228Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "3dba516b-7a6c-4e8f-87cb-6755369733b7",
+      "shortId": "FN7SGX",
+      "name": "fnpw",
+      "role": "USER",
+      "level": 94
+    },
+    "message": "ks",
+    "timestamp": "2026-05-16T09:35:49.602Z"
+  }
+]
