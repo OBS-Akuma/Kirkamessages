@@ -1798,5 +1798,41 @@
     },
     "message": "nice",
     "timestamp": "2026-05-15T13:52:20.087Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "a2035d2a-40d0-4d1e-952b-4fc48dc53c94",
+      "shortId": "02979J",
+      "name": "Baduy",
+      "role": "USER",
+      "level": 96
+    },
+    "message": "/locate bansee",
+    "timestamp": "2026-05-16T11:49:02.916Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "a2035d2a-40d0-4d1e-952b-4fc48dc53c94",
+      "shortId": "02979J",
+      "name": "Baduy",
+      "role": "USER",
+      "level": 96
+    },
+    "message": "/vt 41992",
+    "timestamp": "2026-05-16T11:49:36.227Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "a2035d2a-40d0-4d1e-952b-4fc48dc53c94",
+      "shortId": "02979J",
+      "name": "Baduy",
+      "role": "USER",
+      "level": 96
+    },
+    "message": "what",
+    "timestamp": "2026-05-16T11:56:51.042Z"
   }
 ]
