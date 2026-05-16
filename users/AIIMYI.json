@@ -2350,5 +2350,53 @@
     },
     "message": "kicked it from squirt",
     "timestamp": "2026-05-15T22:05:34.072Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "5c75b2d7-9364-4cdf-8a05-4f98b9d990f5",
+      "shortId": "AIIMYI",
+      "name": "xyds",
+      "role": "USER",
+      "level": 89
+    },
+    "message": "/giveaway",
+    "timestamp": "2026-05-15T23:12:46.999Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "5c75b2d7-9364-4cdf-8a05-4f98b9d990f5",
+      "shortId": "AIIMYI",
+      "name": "xyds",
+      "role": "USER",
+      "level": 89
+    },
+    "message": "/fav bolt",
+    "timestamp": "2026-05-15T23:15:05.970Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "5c75b2d7-9364-4cdf-8a05-4f98b9d990f5",
+      "shortId": "AIIMYI",
+      "name": "xyds",
+      "role": "USER",
+      "level": 89
+    },
+    "message": "blaze is a scammer",
+    "timestamp": "2026-05-16T00:33:37.553Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "5c75b2d7-9364-4cdf-8a05-4f98b9d990f5",
+      "shortId": "AIIMYI",
+      "name": "xyds",
+      "role": "USER",
+      "level": 89
+    },
+    "message": "/enter",
+    "timestamp": "2026-05-16T00:41:28.663Z"
   }
 ]
