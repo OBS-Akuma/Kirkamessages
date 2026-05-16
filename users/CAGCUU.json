@@ -394,5 +394,53 @@
     },
     "message": "/wager [Golden||CHEST|LEGENDARY]x50 #EJ1PCL",
     "timestamp": "2026-05-15T23:03:19.764Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "f0d80479-1f11-4af2-89c6-0cc4908e5c92",
+      "shortId": "CAGCUU",
+      "name": "yawnyawn",
+      "role": "USER",
+      "level": 100
+    },
+    "message": "Hi vorge",
+    "timestamp": "2026-05-16T02:18:33.183Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "f0d80479-1f11-4af2-89c6-0cc4908e5c92",
+      "shortId": "CAGCUU",
+      "name": "yawnyawn",
+      "role": "USER",
+      "level": 100
+    },
+    "message": "/wager [Golden||CHEST|LEGENDARY]x50 #EJ1PCL",
+    "timestamp": "2026-05-16T02:37:34.003Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "f0d80479-1f11-4af2-89c6-0cc4908e5c92",
+      "shortId": "CAGCUU",
+      "name": "yawnyawn",
+      "role": "USER",
+      "level": 100
+    },
+    "message": "/claim",
+    "timestamp": "2026-05-16T02:38:31.324Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "f0d80479-1f11-4af2-89c6-0cc4908e5c92",
+      "shortId": "CAGCUU",
+      "name": "yawnyawn",
+      "role": "USER",
+      "level": 100
+    },
+    "message": "gg",
+    "timestamp": "2026-05-16T02:38:32.196Z"
   }
 ]
