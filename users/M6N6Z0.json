@@ -4030,5 +4030,41 @@
     },
     "message": "hi dead",
     "timestamp": "2026-05-14T13:38:07.692Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "bc67c9c2-fb23-494e-ac5e-a9085cfab551",
+      "shortId": "M6N6Z0",
+      "name": "M_Tri_VN",
+      "role": "USER",
+      "level": 87
+    },
+    "message": "kirkabot-0x6cddc9",
+    "timestamp": "2026-05-16T12:43:26.537Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "bc67c9c2-fb23-494e-ac5e-a9085cfab551",
+      "shortId": "M6N6Z0",
+      "name": "M_Tri_VN",
+      "role": "USER",
+      "level": 87
+    },
+    "message": "ơnutcrackerư",
+    "timestamp": "2026-05-16T12:58:34.027Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "bc67c9c2-fb23-494e-ac5e-a9085cfab551",
+      "shortId": "M6N6Z0",
+      "name": "M_Tri_VN",
+      "role": "USER",
+      "level": 87
+    },
+    "message": "[Nutcracker||BODY_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-16T12:58:41.207Z"
   }
 ]
