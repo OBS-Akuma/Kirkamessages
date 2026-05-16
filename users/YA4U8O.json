@@ -262,5 +262,29 @@
     },
     "message": "/hm smile",
     "timestamp": "2026-05-16T09:56:42.995Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "287119fe-d055-4d21-b222-fa6f668e0d9c",
+      "shortId": "YA4U8O",
+      "name": "VANDREX",
+      "role": "USER",
+      "level": 95
+    },
+    "message": "/hm rude",
+    "timestamp": "2026-05-16T11:45:22.316Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "287119fe-d055-4d21-b222-fa6f668e0d9c",
+      "shortId": "YA4U8O",
+      "name": "VANDREX",
+      "role": "USER",
+      "level": 95
+    },
+    "message": "/hm dead",
+    "timestamp": "2026-05-16T11:45:56.714Z"
   }
 ]
