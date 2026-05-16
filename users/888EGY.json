@@ -1558,5 +1558,17 @@
     },
     "message": "for [Adora||BODY_SKIN|PARANORMAL]",
     "timestamp": "2026-05-16T08:55:40.386Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "a1b97659-2643-423d-befe-d8f211f2b602",
+      "shortId": "888EGY",
+      "name": "S4DY",
+      "role": "USER",
+      "level": 97
+    },
+    "message": "/hm ghoul",
+    "timestamp": "2026-05-16T13:31:16.924Z"
   }
 ]
