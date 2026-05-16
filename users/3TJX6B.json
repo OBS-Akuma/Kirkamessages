@@ -10,5 +10,17 @@
     },
     "message": "Gangters boy",
     "timestamp": "2026-05-16T05:21:14.208Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "e114e099-5e19-4568-8c3b-a09292f2561d",
+      "shortId": "3TJX6B",
+      "name": "MVP_JOKES",
+      "role": "USER",
+      "level": 14
+    },
+    "message": "Info lawan yang keras",
+    "timestamp": "2026-05-16T06:46:21.853Z"
   }
 ]
