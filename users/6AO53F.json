@@ -1942,5 +1942,161 @@
     },
     "message": "alr",
     "timestamp": "2026-05-16T07:45:33.171Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "ef0d085e-2d3f-43af-954e-6b579cafd5d5",
+      "shortId": "6AO53F",
+      "name": "OPTIMUS",
+      "role": "USER",
+      "level": 100
+    },
+    "message": "/price [Old|Bayonet|WEAPON_SKIN|LEGENDARY]",
+    "timestamp": "2026-05-16T08:31:21.148Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "ef0d085e-2d3f-43af-954e-6b579cafd5d5",
+      "shortId": "6AO53F",
+      "name": "OPTIMUS",
+      "role": "USER",
+      "level": 100
+    },
+    "message": "issnb",
+    "timestamp": "2026-05-16T08:57:14.644Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "ef0d085e-2d3f-43af-954e-6b579cafd5d5",
+      "shortId": "6AO53F",
+      "name": "OPTIMUS",
+      "role": "USER",
+      "level": 100
+    },
+    "message": "isssnb these all items for [ranked-s1 top10]?",
+    "timestamp": "2026-05-16T08:57:34.764Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "ef0d085e-2d3f-43af-954e-6b579cafd5d5",
+      "shortId": "6AO53F",
+      "name": "OPTIMUS",
+      "role": "USER",
+      "level": 100
+    },
+    "message": "[Ranked_S1 Top10|Bayonet|WEAPON_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-16T08:57:41.782Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "ef0d085e-2d3f-43af-954e-6b579cafd5d5",
+      "shortId": "6AO53F",
+      "name": "OPTIMUS",
+      "role": "USER",
+      "level": 100
+    },
+    "message": "hi",
+    "timestamp": "2026-05-16T08:57:46.140Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "ef0d085e-2d3f-43af-954e-6b579cafd5d5",
+      "shortId": "6AO53F",
+      "name": "OPTIMUS",
+      "role": "USER",
+      "level": 100
+    },
+    "message": "300-350m",
+    "timestamp": "2026-05-16T08:58:05.396Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "ef0d085e-2d3f-43af-954e-6b579cafd5d5",
+      "shortId": "6AO53F",
+      "name": "OPTIMUS",
+      "role": "USER",
+      "level": 100
+    },
+    "message": "wanna offer?",
+    "timestamp": "2026-05-16T08:58:15.018Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "ef0d085e-2d3f-43af-954e-6b579cafd5d5",
+      "shortId": "6AO53F",
+      "name": "OPTIMUS",
+      "role": "USER",
+      "level": 100
+    },
+    "message": "offer",
+    "timestamp": "2026-05-16T08:58:25.031Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "ef0d085e-2d3f-43af-954e-6b579cafd5d5",
+      "shortId": "6AO53F",
+      "name": "OPTIMUS",
+      "role": "USER",
+      "level": 100
+    },
+    "message": "300m-400m",
+    "timestamp": "2026-05-16T08:58:31.446Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "ef0d085e-2d3f-43af-954e-6b579cafd5d5",
+      "shortId": "6AO53F",
+      "name": "OPTIMUS",
+      "role": "USER",
+      "level": 100
+    },
+    "message": "no stores",
+    "timestamp": "2026-05-16T08:58:34.150Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "ef0d085e-2d3f-43af-954e-6b579cafd5d5",
+      "shortId": "6AO53F",
+      "name": "OPTIMUS",
+      "role": "USER",
+      "level": 100
+    },
+    "message": "alr till 350",
+    "timestamp": "2026-05-16T08:58:45.227Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "ef0d085e-2d3f-43af-954e-6b579cafd5d5",
+      "shortId": "6AO53F",
+      "name": "OPTIMUS",
+      "role": "USER",
+      "level": 100
+    },
+    "message": "my max",
+    "timestamp": "2026-05-16T08:58:47.817Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "ef0d085e-2d3f-43af-954e-6b579cafd5d5",
+      "shortId": "6AO53F",
+      "name": "OPTIMUS",
+      "role": "USER",
+      "level": 100
+    },
+    "message": "alr 300m max",
+    "timestamp": "2026-05-16T08:58:56.024Z"
   }
 ]
