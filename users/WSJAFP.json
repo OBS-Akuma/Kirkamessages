@@ -418,5 +418,53 @@
     },
     "message": "waht does wagering do?",
     "timestamp": "2026-05-13T09:24:05.453Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "KBr6kTsgN7bxaYXwr5TPq8KRt9S2",
+      "shortId": "WSJAFP",
+      "name": "KIllER_GOD",
+      "role": "USER",
+      "level": 93
+    },
+    "message": "/levelreward 94",
+    "timestamp": "2026-05-16T12:20:30.564Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "KBr6kTsgN7bxaYXwr5TPq8KRt9S2",
+      "shortId": "WSJAFP",
+      "name": "KIllER_GOD",
+      "role": "USER",
+      "level": 93
+    },
+    "message": "/level reward 85",
+    "timestamp": "2026-05-16T12:20:48.678Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "KBr6kTsgN7bxaYXwr5TPq8KRt9S2",
+      "shortId": "WSJAFP",
+      "name": "KIllER_GOD",
+      "role": "USER",
+      "level": 93
+    },
+    "message": "/hm [IGMERROR]",
+    "timestamp": "2026-05-16T12:21:18.504Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "KBr6kTsgN7bxaYXwr5TPq8KRt9S2",
+      "shortId": "WSJAFP",
+      "name": "KIllER_GOD",
+      "role": "USER",
+      "level": 93
+    },
+    "message": "/hm [IMGERROR||BODY_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-16T12:21:35.412Z"
   }
 ]
