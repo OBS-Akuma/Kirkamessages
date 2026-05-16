@@ -82,5 +82,29 @@
     },
     "message": "/price [Icey||BODY_SKIN|LEGENDARY]",
     "timestamp": "2026-05-12T07:36:24.731Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "75fa5f25-2746-491f-a575-7de0969ace0b",
+      "shortId": "FHCF8O",
+      "name": "Muxitdinov.D",
+      "role": "USER",
+      "level": 94
+    },
+    "message": "/price [Ember||BODY_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-16T10:32:38.195Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "75fa5f25-2746-491f-a575-7de0969ace0b",
+      "shortId": "FHCF8O",
+      "name": "Muxitdinov.D",
+      "role": "USER",
+      "level": 94
+    },
+    "message": "/price [Artificial||BODY_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-16T10:33:04.369Z"
   }
 ]
