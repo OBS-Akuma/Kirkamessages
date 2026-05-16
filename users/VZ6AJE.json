@@ -658,5 +658,65 @@
     },
     "message": "how many do you have?",
     "timestamp": "2026-05-15T10:09:43.831Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "0e0253e4-94fe-4c73-bb1f-d26f1ba38b19",
+      "shortId": "VZ6AJE",
+      "name": "Newbie.",
+      "role": "USER",
+      "level": 37
+    },
+    "message": "LF [Turtle|Bayonet|WEAPON_SKIN|MYTHICAL]s",
+    "timestamp": "2026-05-16T03:30:00.306Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "0e0253e4-94fe-4c73-bb1f-d26f1ba38b19",
+      "shortId": "VZ6AJE",
+      "name": "Newbie.",
+      "role": "USER",
+      "level": 37
+    },
+    "message": "anyone have [Turtle|Bayonet|WEAPON_SKIN|MYTHICAL]/",
+    "timestamp": "2026-05-16T03:37:41.102Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "0e0253e4-94fe-4c73-bb1f-d26f1ba38b19",
+      "shortId": "VZ6AJE",
+      "name": "Newbie.",
+      "role": "USER",
+      "level": 37
+    },
+    "message": "?",
+    "timestamp": "2026-05-16T03:37:42.944Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "0e0253e4-94fe-4c73-bb1f-d26f1ba38b19",
+      "shortId": "VZ6AJE",
+      "name": "Newbie.",
+      "role": "USER",
+      "level": 37
+    },
+    "message": "how many do you have?",
+    "timestamp": "2026-05-16T03:37:57.620Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "0e0253e4-94fe-4c73-bb1f-d26f1ba38b19",
+      "shortId": "VZ6AJE",
+      "name": "Newbie.",
+      "role": "USER",
+      "level": 37
+    },
+    "message": "LF [Panda||BODY_SKIN|MYTHICAL] for [Golden||CHEST|LEGENDARY]s",
+    "timestamp": "2026-05-16T04:05:34.580Z"
   }
 ]
