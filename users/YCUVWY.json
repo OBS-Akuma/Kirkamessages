@@ -670,5 +670,17 @@
     },
     "message": "join 2v2 na",
     "timestamp": "2026-05-13T23:35:03.254Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "ffe01498-abc8-4508-b78b-38b168c40c4c",
+      "shortId": "YCUVWY",
+      "name": "gr4w1n6",
+      "role": "USER",
+      "level": 97
+    },
+    "message": "#CIP4B5",
+    "timestamp": "2026-05-16T00:33:45.527Z"
   }
 ]
