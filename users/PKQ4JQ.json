@@ -3718,5 +3718,821 @@
     },
     "message": "gg",
     "timestamp": "2026-05-11T07:42:35.736Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "7fddf1a7-0a71-4b37-b068-e966cbdb59f9",
+      "shortId": "PKQ4JQ",
+      "name": "flintrol",
+      "role": "USER",
+      "level": 18
+    },
+    "message": "/inv",
+    "timestamp": "2026-05-16T11:09:17.833Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "7fddf1a7-0a71-4b37-b068-e966cbdb59f9",
+      "shortId": "PKQ4JQ",
+      "name": "flintrol",
+      "role": "USER",
+      "level": 18
+    },
+    "message": "/enter",
+    "timestamp": "2026-05-16T11:09:25.513Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "7fddf1a7-0a71-4b37-b068-e966cbdb59f9",
+      "shortId": "PKQ4JQ",
+      "name": "flintrol",
+      "role": "USER",
+      "level": 18
+    },
+    "message": "1.8:(",
+    "timestamp": "2026-05-16T11:09:31.777Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "7fddf1a7-0a71-4b37-b068-e966cbdb59f9",
+      "shortId": "PKQ4JQ",
+      "name": "flintrol",
+      "role": "USER",
+      "level": 18
+    },
+    "message": "/hm [Retro|Bayonet|WEAPON_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-16T11:09:50.233Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "7fddf1a7-0a71-4b37-b068-e966cbdb59f9",
+      "shortId": "PKQ4JQ",
+      "name": "flintrol",
+      "role": "USER",
+      "level": 18
+    },
+    "message": "/price [Retro|Bayonet|WEAPON_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-16T11:09:56.946Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "7fddf1a7-0a71-4b37-b068-e966cbdb59f9",
+      "shortId": "PKQ4JQ",
+      "name": "flintrol",
+      "role": "USER",
+      "level": 18
+    },
+    "message": "/fav bros",
+    "timestamp": "2026-05-16T11:10:03.250Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "7fddf1a7-0a71-4b37-b068-e966cbdb59f9",
+      "shortId": "PKQ4JQ",
+      "name": "flintrol",
+      "role": "USER",
+      "level": 18
+    },
+    "message": "/hm [Retro|Bayonet|WEAPON_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-16T11:10:11.593Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "7fddf1a7-0a71-4b37-b068-e966cbdb59f9",
+      "shortId": "PKQ4JQ",
+      "name": "flintrol",
+      "role": "USER",
+      "level": 18
+    },
+    "message": "trading [Retro|Bayonet|WEAPON_SKIN|MYTHICAL] its all i got apart from some useless legendaries",
+    "timestamp": "2026-05-16T11:11:12.640Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "7fddf1a7-0a71-4b37-b068-e966cbdb59f9",
+      "shortId": "PKQ4JQ",
+      "name": "flintrol",
+      "role": "USER",
+      "level": 18
+    },
+    "message": "trading [Retro|Bayonet|WEAPON_SKIN|MYTHICAL] its all i got apart from some useless legendaries...............",
+    "timestamp": "2026-05-16T11:11:36.881Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "7fddf1a7-0a71-4b37-b068-e966cbdb59f9",
+      "shortId": "PKQ4JQ",
+      "name": "flintrol",
+      "role": "USER",
+      "level": 18
+    },
+    "message": "trading [Retro|Bayonet|WEAPON_SKIN|MYTHICAL] its all i got apart from some useless legendaries",
+    "timestamp": "2026-05-16T11:12:23.957Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "7fddf1a7-0a71-4b37-b068-e966cbdb59f9",
+      "shortId": "PKQ4JQ",
+      "name": "flintrol",
+      "role": "USER",
+      "level": 18
+    },
+    "message": "/hm [Forbidden|AR-9|WEAPON_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-16T11:12:42.599Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "7fddf1a7-0a71-4b37-b068-e966cbdb59f9",
+      "shortId": "PKQ4JQ",
+      "name": "flintrol",
+      "role": "USER",
+      "level": 18
+    },
+    "message": "/price [Forbidden|AR-9|WEAPON_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-16T11:12:49.615Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "7fddf1a7-0a71-4b37-b068-e966cbdb59f9",
+      "shortId": "PKQ4JQ",
+      "name": "flintrol",
+      "role": "USER",
+      "level": 18
+    },
+    "message": "yo [Retro|Bayonet|WEAPON_SKIN|MYTHICAL] for [Forbidden|AR-9|WEAPON_SKIN|MYTHICAL] anyone????",
+    "timestamp": "2026-05-16T11:13:04.946Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "7fddf1a7-0a71-4b37-b068-e966cbdb59f9",
+      "shortId": "PKQ4JQ",
+      "name": "flintrol",
+      "role": "USER",
+      "level": 18
+    },
+    "message": "i offer for [Forbidden|AR-9|WEAPON_SKIN|MYTHICAL] its my fav skin i offer [Retro|Bayonet|WEAPON_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-16T11:13:32.117Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "7fddf1a7-0a71-4b37-b068-e966cbdb59f9",
+      "shortId": "PKQ4JQ",
+      "name": "flintrol",
+      "role": "USER",
+      "level": 18
+    },
+    "message": "who has [Forbidden|AR-9|WEAPON_SKIN|MYTHICAL] its my dream i offer [Retro|Bayonet|WEAPON_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-16T11:14:06.319Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "7fddf1a7-0a71-4b37-b068-e966cbdb59f9",
+      "shortId": "PKQ4JQ",
+      "name": "flintrol",
+      "role": "USER",
+      "level": 18
+    },
+    "message": "who has [Forbidden|AR-9|WEAPON_SKIN|MYTHICAL] its my dreaaam i offer [Retro|Bayonet|WEAPON_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-16T11:14:48.004Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "7fddf1a7-0a71-4b37-b068-e966cbdb59f9",
+      "shortId": "PKQ4JQ",
+      "name": "flintrol",
+      "role": "USER",
+      "level": 18
+    },
+    "message": "who has [Void AR-9|AR-9|WEAPON_SKIN|MYTHICAL] or [Forbidden|AR-9|WEAPON_SKIN|MYTHICAL] they are my fav skin i offer [Retro|Bayonet|WEAPON_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-16T11:15:23.181Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "7fddf1a7-0a71-4b37-b068-e966cbdb59f9",
+      "shortId": "PKQ4JQ",
+      "name": "flintrol",
+      "role": "USER",
+      "level": 18
+    },
+    "message": "who has [Void AR-9|AR-9|WEAPON_SKIN|MYTHICAL] or [Forbidden|AR-9|WEAPON_SKIN|MYTHICAL] they are my fav skin i offer [Retro|Bayonet|WEAPON_SKIN|MYTHICAL]...",
+    "timestamp": "2026-05-16T11:16:18.548Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "7fddf1a7-0a71-4b37-b068-e966cbdb59f9",
+      "shortId": "PKQ4JQ",
+      "name": "flintrol",
+      "role": "USER",
+      "level": 18
+    },
+    "message": "who has [Void AR-9|AR-9|WEAPON_SKIN|MYTHICAL] or [Forbidden|AR-9|WEAPON_SKIN|MYTHICAL] they are my fav skin i offer [Retro|Bayonet|WEAPON_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-16T11:17:13.350Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "7fddf1a7-0a71-4b37-b068-e966cbdb59f9",
+      "shortId": "PKQ4JQ",
+      "name": "flintrol",
+      "role": "USER",
+      "level": 18
+    },
+    "message": "who has [Void AR-9|AR-9|WEAPON_SKIN|MYTHICAL] or [Forbidden|AR-9|WEAPON_SKIN|MYTHICAL] they are my dream i offer [Retro|Bayonet|WEAPON_SKIN|MYTHICAL]!!!!!",
+    "timestamp": "2026-05-16T11:17:54.183Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "7fddf1a7-0a71-4b37-b068-e966cbdb59f9",
+      "shortId": "PKQ4JQ",
+      "name": "flintrol",
+      "role": "USER",
+      "level": 18
+    },
+    "message": "i offer all i got the rest of my inv are useless legendaries",
+    "timestamp": "2026-05-16T11:18:22.225Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "7fddf1a7-0a71-4b37-b068-e966cbdb59f9",
+      "shortId": "PKQ4JQ",
+      "name": "flintrol",
+      "role": "USER",
+      "level": 18
+    },
+    "message": "who has [Void AR-9|AR-9|WEAPON_SKIN|MYTHICAL] or [Forbidden|AR-9|WEAPON_SKIN|MYTHICAL] they are my fav skin i offer [Retro|Bayonet|WEAPON_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-16T11:18:40.716Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "7fddf1a7-0a71-4b37-b068-e966cbdb59f9",
+      "shortId": "PKQ4JQ",
+      "name": "flintrol",
+      "role": "USER",
+      "level": 18
+    },
+    "message": "who has [Void AR-9|AR-9|WEAPON_SKIN|MYTHICAL] or [Forbidden|AR-9|WEAPON_SKIN|MYTHICAL] they are my fav skin i offer [Retro|Bayonet|WEAPON_SKIN|MYTHICAL]....",
+    "timestamp": "2026-05-16T11:19:07.427Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "7fddf1a7-0a71-4b37-b068-e966cbdb59f9",
+      "shortId": "PKQ4JQ",
+      "name": "flintrol",
+      "role": "USER",
+      "level": 18
+    },
+    "message": "i offer all i got the rest of my inv is useless legendaries",
+    "timestamp": "2026-05-16T11:19:23.511Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "7fddf1a7-0a71-4b37-b068-e966cbdb59f9",
+      "shortId": "PKQ4JQ",
+      "name": "flintrol",
+      "role": "USER",
+      "level": 18
+    },
+    "message": "who has [Void AR-9|AR-9|WEAPON_SKIN|MYTHICAL] or [Forbidden|AR-9|WEAPON_SKIN|MYTHICAL] they are my fav skin i offer [Retro|Bayonet|WEAPON_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-16T11:19:41.811Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "7fddf1a7-0a71-4b37-b068-e966cbdb59f9",
+      "shortId": "PKQ4JQ",
+      "name": "flintrol",
+      "role": "USER",
+      "level": 18
+    },
+    "message": "GUYS HOW TO FIND WHAT SKIN IS IN WHAT TRADE!!!!",
+    "timestamp": "2026-05-16T11:20:17.704Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "7fddf1a7-0a71-4b37-b068-e966cbdb59f9",
+      "shortId": "PKQ4JQ",
+      "name": "flintrol",
+      "role": "USER",
+      "level": 18
+    },
+    "message": "zenix [Forbidden|AR-9|WEAPON_SKIN|MYTHICAL] is my dream",
+    "timestamp": "2026-05-16T11:20:40.180Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "7fddf1a7-0a71-4b37-b068-e966cbdb59f9",
+      "shortId": "PKQ4JQ",
+      "name": "flintrol",
+      "role": "USER",
+      "level": 18
+    },
+    "message": "who has [Void AR-9|AR-9|WEAPON_SKIN|MYTHICAL] or [Forbidden|AR-9|WEAPON_SKIN|MYTHICAL] they are my fav skin i offer [Retro|Bayonet|WEAPON_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-16T11:21:49.710Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "7fddf1a7-0a71-4b37-b068-e966cbdb59f9",
+      "shortId": "PKQ4JQ",
+      "name": "flintrol",
+      "role": "USER",
+      "level": 18
+    },
+    "message": "i offer my best the rest of my inv are useless legendaries",
+    "timestamp": "2026-05-16T11:22:05.141Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "7fddf1a7-0a71-4b37-b068-e966cbdb59f9",
+      "shortId": "PKQ4JQ",
+      "name": "flintrol",
+      "role": "USER",
+      "level": 18
+    },
+    "message": "oke navy:(",
+    "timestamp": "2026-05-16T11:22:10.375Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "7fddf1a7-0a71-4b37-b068-e966cbdb59f9",
+      "shortId": "PKQ4JQ",
+      "name": "flintrol",
+      "role": "USER",
+      "level": 18
+    },
+    "message": "who has [Void AR-9|AR-9|WEAPON_SKIN|MYTHICAL] or [Forbidden|AR-9|WEAPON_SKIN|MYTHICAL] they are my fav skin i offer [Retro|Bayonet|WEAPON_SKIN|MYTHICAL]...",
+    "timestamp": "2026-05-16T11:22:37.999Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "7fddf1a7-0a71-4b37-b068-e966cbdb59f9",
+      "shortId": "PKQ4JQ",
+      "name": "flintrol",
+      "role": "USER",
+      "level": 18
+    },
+    "message": "/price [Void AR-9|AR-9|WEAPON_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-16T11:22:55.092Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "7fddf1a7-0a71-4b37-b068-e966cbdb59f9",
+      "shortId": "PKQ4JQ",
+      "name": "flintrol",
+      "role": "USER",
+      "level": 18
+    },
+    "message": "/price [Retro|Bayonet|WEAPON_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-16T11:23:01.336Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "7fddf1a7-0a71-4b37-b068-e966cbdb59f9",
+      "shortId": "PKQ4JQ",
+      "name": "flintrol",
+      "role": "USER",
+      "level": 18
+    },
+    "message": "i see why its not good",
+    "timestamp": "2026-05-16T11:23:09.042Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "7fddf1a7-0a71-4b37-b068-e966cbdb59f9",
+      "shortId": "PKQ4JQ",
+      "name": "flintrol",
+      "role": "USER",
+      "level": 18
+    },
+    "message": "its all i got tho",
+    "timestamp": "2026-05-16T11:23:18.237Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "7fddf1a7-0a71-4b37-b068-e966cbdb59f9",
+      "shortId": "PKQ4JQ",
+      "name": "flintrol",
+      "role": "USER",
+      "level": 18
+    },
+    "message": "who has [Void AR-9|AR-9|WEAPON_SKIN|MYTHICAL] or [Forbidden|AR-9|WEAPON_SKIN|MYTHICAL] they are my fav skin i offer [Retro|Bayonet|WEAPON_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-16T11:23:42.135Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "7fddf1a7-0a71-4b37-b068-e966cbdb59f9",
+      "shortId": "PKQ4JQ",
+      "name": "flintrol",
+      "role": "USER",
+      "level": 18
+    },
+    "message": "/hm [Crimson|Revolver|WEAPON_SKIN|COMMON]",
+    "timestamp": "2026-05-16T11:25:32.604Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "7fddf1a7-0a71-4b37-b068-e966cbdb59f9",
+      "shortId": "PKQ4JQ",
+      "name": "flintrol",
+      "role": "USER",
+      "level": 18
+    },
+    "message": "/price [Crimson|Revolver|WEAPON_SKIN|COMMON]",
+    "timestamp": "2026-05-16T11:25:40.134Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "7fddf1a7-0a71-4b37-b068-e966cbdb59f9",
+      "shortId": "PKQ4JQ",
+      "name": "flintrol",
+      "role": "USER",
+      "level": 18
+    },
+    "message": "who has [Void AR-9|AR-9|WEAPON_SKIN|MYTHICAL] or [Forbidden|AR-9|WEAPON_SKIN|MYTHICAL] i offer [Retro|Bayonet|WEAPON_SKIN|MYTHICAL] the rest of my inv is useless",
+    "timestamp": "2026-05-16T11:26:30.470Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "7fddf1a7-0a71-4b37-b068-e966cbdb59f9",
+      "shortId": "PKQ4JQ",
+      "name": "flintrol",
+      "role": "USER",
+      "level": 18
+    },
+    "message": "who has [Void AR-9|AR-9|WEAPON_SKIN|MYTHICAL] or [Forbidden|AR-9|WEAPON_SKIN|MYTHICAL] i offer [Retro|Bayonet|WEAPON_SKIN|MYTHICAL] the rest of my inv is useles",
+    "timestamp": "2026-05-16T11:27:10.886Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "7fddf1a7-0a71-4b37-b068-e966cbdb59f9",
+      "shortId": "PKQ4JQ",
+      "name": "flintrol",
+      "role": "USER",
+      "level": 18
+    },
+    "message": "plsss anyone got [Void AR-9|AR-9|WEAPON_SKIN|MYTHICAL]????",
+    "timestamp": "2026-05-16T11:27:21.508Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "7fddf1a7-0a71-4b37-b068-e966cbdb59f9",
+      "shortId": "PKQ4JQ",
+      "name": "flintrol",
+      "role": "USER",
+      "level": 18
+    },
+    "message": "its my dream",
+    "timestamp": "2026-05-16T11:27:26.652Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "7fddf1a7-0a71-4b37-b068-e966cbdb59f9",
+      "shortId": "PKQ4JQ",
+      "name": "flintrol",
+      "role": "USER",
+      "level": 18
+    },
+    "message": "plss",
+    "timestamp": "2026-05-16T11:28:00.766Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "7fddf1a7-0a71-4b37-b068-e966cbdb59f9",
+      "shortId": "PKQ4JQ",
+      "name": "flintrol",
+      "role": "USER",
+      "level": 18
+    },
+    "message": "who has [Void AR-9|AR-9|WEAPON_SKIN|MYTHICAL] or [Forbidden|AR-9|WEAPON_SKIN|MYTHICAL] i offer [Retro|Bayonet|WEAPON_SKIN|MYTHICAL] the rest of my inv is useless",
+    "timestamp": "2026-05-16T11:28:02.964Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "7fddf1a7-0a71-4b37-b068-e966cbdb59f9",
+      "shortId": "PKQ4JQ",
+      "name": "flintrol",
+      "role": "USER",
+      "level": 18
+    },
+    "message": "who has [Void AR-9|AR-9|WEAPON_SKIN|MYTHICAL] or [Forbidden|AR-9|WEAPON_SKIN|MYTHICAL] i offer [Retro|Bayonet|WEAPON_SKIN|MYTHICAL] the rest of my inv is useles",
+    "timestamp": "2026-05-16T11:28:46.146Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "7fddf1a7-0a71-4b37-b068-e966cbdb59f9",
+      "shortId": "PKQ4JQ",
+      "name": "flintrol",
+      "role": "USER",
+      "level": 18
+    },
+    "message": "plsss [Void AR-9|AR-9|WEAPON_SKIN|MYTHICAL] its my dream",
+    "timestamp": "2026-05-16T11:28:57.591Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "7fddf1a7-0a71-4b37-b068-e966cbdb59f9",
+      "shortId": "PKQ4JQ",
+      "name": "flintrol",
+      "role": "USER",
+      "level": 18
+    },
+    "message": "plssssss [Void AR-9|AR-9|WEAPON_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-16T11:29:36.643Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "7fddf1a7-0a71-4b37-b068-e966cbdb59f9",
+      "shortId": "PKQ4JQ",
+      "name": "flintrol",
+      "role": "USER",
+      "level": 18
+    },
+    "message": "who has [Void AR-9|AR-9|WEAPON_SKIN|MYTHICAL] or [Forbidden|AR-9|WEAPON_SKIN|MYTHICAL] i offer [Retro|Bayonet|WEAPON_SKIN|MYTHICAL] the rest of my inv is useless",
+    "timestamp": "2026-05-16T11:31:43.767Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "7fddf1a7-0a71-4b37-b068-e966cbdb59f9",
+      "shortId": "PKQ4JQ",
+      "name": "flintrol",
+      "role": "USER",
+      "level": 18
+    },
+    "message": "/enter",
+    "timestamp": "2026-05-16T11:34:57.509Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "7fddf1a7-0a71-4b37-b068-e966cbdb59f9",
+      "shortId": "PKQ4JQ",
+      "name": "flintrol",
+      "role": "USER",
+      "level": 18
+    },
+    "message": "/who has [Void AR-9|AR-9|WEAPON_SKIN|MYTHICAL] or [Forbidden|AR-9|WEAPON_SKIN|MYTHICAL] i offer [Retro|Bayonet|WEAPON_SKIN|MYTHICAL] the rest of my inv is useles",
+    "timestamp": "2026-05-16T11:35:00.138Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "7fddf1a7-0a71-4b37-b068-e966cbdb59f9",
+      "shortId": "PKQ4JQ",
+      "name": "flintrol",
+      "role": "USER",
+      "level": 18
+    },
+    "message": "why if [Forbidden|AR-9|WEAPON_SKIN|MYTHICAL] more expensive then [Void AR-9|AR-9|WEAPON_SKIN|MYTHICAL] while its owned more",
+    "timestamp": "2026-05-16T11:35:27.870Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "7fddf1a7-0a71-4b37-b068-e966cbdb59f9",
+      "shortId": "PKQ4JQ",
+      "name": "flintrol",
+      "role": "USER",
+      "level": 18
+    },
+    "message": "does anyone have [Forbidden|AR-9|WEAPON_SKIN|MYTHICAL] its my dream",
+    "timestamp": "2026-05-16T11:35:55.124Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "7fddf1a7-0a71-4b37-b068-e966cbdb59f9",
+      "shortId": "PKQ4JQ",
+      "name": "flintrol",
+      "role": "USER",
+      "level": 18
+    },
+    "message": "i offer all i got thats not a useless legendarie",
+    "timestamp": "2026-05-16T11:36:06.397Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "7fddf1a7-0a71-4b37-b068-e966cbdb59f9",
+      "shortId": "PKQ4JQ",
+      "name": "flintrol",
+      "role": "USER",
+      "level": 18
+    },
+    "message": "yes",
+    "timestamp": "2026-05-16T11:36:07.540Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "7fddf1a7-0a71-4b37-b068-e966cbdb59f9",
+      "shortId": "PKQ4JQ",
+      "name": "flintrol",
+      "role": "USER",
+      "level": 18
+    },
+    "message": "i offer [Retro|Bayonet|WEAPON_SKIN|MYTHICAL] the rest of my inv is useless legendaries",
+    "timestamp": "2026-05-16T11:36:23.163Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "7fddf1a7-0a71-4b37-b068-e966cbdb59f9",
+      "shortId": "PKQ4JQ",
+      "name": "flintrol",
+      "role": "USER",
+      "level": 18
+    },
+    "message": "its all i got",
+    "timestamp": "2026-05-16T11:36:27.700Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "7fddf1a7-0a71-4b37-b068-e966cbdb59f9",
+      "shortId": "PKQ4JQ",
+      "name": "flintrol",
+      "role": "USER",
+      "level": 18
+    },
+    "message": "ok:(",
+    "timestamp": "2026-05-16T11:36:48.599Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "7fddf1a7-0a71-4b37-b068-e966cbdb59f9",
+      "shortId": "PKQ4JQ",
+      "name": "flintrol",
+      "role": "USER",
+      "level": 18
+    },
+    "message": "could have expected it",
+    "timestamp": "2026-05-16T11:37:00.478Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "7fddf1a7-0a71-4b37-b068-e966cbdb59f9",
+      "shortId": "PKQ4JQ",
+      "name": "flintrol",
+      "role": "USER",
+      "level": 18
+    },
+    "message": ":(",
+    "timestamp": "2026-05-16T11:37:09.672Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "7fddf1a7-0a71-4b37-b068-e966cbdb59f9",
+      "shortId": "PKQ4JQ",
+      "name": "flintrol",
+      "role": "USER",
+      "level": 18
+    },
+    "message": "who has [Void AR-9|AR-9|WEAPON_SKIN|MYTHICAL] or [Forbidden|AR-9|WEAPON_SKIN|MYTHICAL] i offer [Retro|Bayonet|WEAPON_SKIN|MYTHICAL] the rest of my inv is useless",
+    "timestamp": "2026-05-16T11:37:42.816Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "7fddf1a7-0a71-4b37-b068-e966cbdb59f9",
+      "shortId": "PKQ4JQ",
+      "name": "flintrol",
+      "role": "USER",
+      "level": 18
+    },
+    "message": "[Forbidden|AR-9|WEAPON_SKIN|MYTHICAL] and [Void AR-9|AR-9|WEAPON_SKIN|MYTHICAL] are my dream but i only got [Retro|Bayonet|WEAPON_SKIN|MYTHICAL] the rest is bad",
+    "timestamp": "2026-05-16T11:38:17.921Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "7fddf1a7-0a71-4b37-b068-e966cbdb59f9",
+      "shortId": "PKQ4JQ",
+      "name": "flintrol",
+      "role": "USER",
+      "level": 18
+    },
+    "message": "/hm [Cupcake||BODY_SKIN|RARE]",
+    "timestamp": "2026-05-16T11:45:24.526Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "7fddf1a7-0a71-4b37-b068-e966cbdb59f9",
+      "shortId": "PKQ4JQ",
+      "name": "flintrol",
+      "role": "USER",
+      "level": 18
+    },
+    "message": "India has a  : one part is modern and developed, the other part is traditional",
+    "timestamp": "2026-05-16T11:45:26.313Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "7fddf1a7-0a71-4b37-b068-e966cbdb59f9",
+      "shortId": "PKQ4JQ",
+      "name": "flintrol",
+      "role": "USER",
+      "level": 18
+    },
+    "message": "[Forbidden|AR-9|WEAPON_SKIN|MYTHICAL] and [Void AR-9|AR-9|WEAPON_SKIN|MYTHICAL] are my dream i offer [Retro|Bayonet|WEAPON_SKIN|MYTHICAL] as the rest i got's bad",
+    "timestamp": "2026-05-16T11:46:28.385Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "7fddf1a7-0a71-4b37-b068-e966cbdb59f9",
+      "shortId": "PKQ4JQ",
+      "name": "flintrol",
+      "role": "USER",
+      "level": 18
+    },
+    "message": "[Forbidden|AR-9|WEAPON_SKIN|MYTHICAL] and [Void AR-9|AR-9|WEAPON_SKIN|MYTHICAL] are my dream i offer [Retro|Bayonet|WEAPON_SKIN|MYTHICAL] as the rest i got's ba",
+    "timestamp": "2026-05-16T11:54:22.605Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "7fddf1a7-0a71-4b37-b068-e966cbdb59f9",
+      "shortId": "PKQ4JQ",
+      "name": "flintrol",
+      "role": "USER",
+      "level": 18
+    },
+    "message": "[Forbidden|AR-9|WEAPON_SKIN|MYTHICAL] and [Void AR-9|AR-9|WEAPON_SKIN|MYTHICAL] are my dream i offer [Retro|Bayonet|WEAPON_SKIN|MYTHICAL] as the rest i got's bad",
+    "timestamp": "2026-05-16T11:57:33.850Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "7fddf1a7-0a71-4b37-b068-e966cbdb59f9",
+      "shortId": "PKQ4JQ",
+      "name": "flintrol",
+      "role": "USER",
+      "level": 18
+    },
+    "message": "plsss",
+    "timestamp": "2026-05-16T11:57:39.977Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "7fddf1a7-0a71-4b37-b068-e966cbdb59f9",
+      "shortId": "PKQ4JQ",
+      "name": "flintrol",
+      "role": "USER",
+      "level": 18
+    },
+    "message": "[Forbidden|AR-9|WEAPON_SKIN|MYTHICAL] and [Void AR-9|AR-9|WEAPON_SKIN|MYTHICAL] are my dream i offer [Retro|Bayonet|WEAPON_SKIN|MYTHICAL] as the rest i got's bad",
+    "timestamp": "2026-05-16T11:59:10.542Z"
   }
 ]
