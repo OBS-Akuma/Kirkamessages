@@ -190,5 +190,29 @@
     },
     "message": "alright no one wants to sell",
     "timestamp": "2026-05-12T01:16:07.853Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "cee40a88-c4d7-4933-8f40-8913dc0f6d1f",
+      "shortId": "ZF9CFU",
+      "name": "Echo",
+      "role": "USER",
+      "level": 71
+    },
+    "message": "an1 have jade",
+    "timestamp": "2026-05-15T23:05:57.441Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "cee40a88-c4d7-4933-8f40-8913dc0f6d1f",
+      "shortId": "ZF9CFU",
+      "name": "Echo",
+      "role": "USER",
+      "level": 71
+    },
+    "message": "anyone selling jade",
+    "timestamp": "2026-05-15T23:06:25.729Z"
   }
 ]
