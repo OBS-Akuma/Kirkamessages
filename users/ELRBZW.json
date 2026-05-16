@@ -94,5 +94,17 @@
     },
     "message": "i forgot that it didn't chang",
     "timestamp": "2026-05-10T21:37:50.297Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "dfe1c525-52b4-4d28-be13-6931a0781e5c",
+      "shortId": "ELRBZW",
+      "name": "Samaura",
+      "role": "USER",
+      "level": 97
+    },
+    "message": "/price [Onryo||BODY_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-16T04:28:50.190Z"
   }
 ]
