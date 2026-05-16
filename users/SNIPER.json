@@ -490,5 +490,17 @@
     },
     "message": "Gn man",
     "timestamp": "2026-05-14T07:48:27.000Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "d93ce53d-09df-4326-ad21-cbbec8fafef5",
+      "shortId": "SNIPER",
+      "name": "Citrus",
+      "role": "VERIFIED",
+      "level": 97
+    },
+    "message": "/locate quilliam",
+    "timestamp": "2026-05-16T00:57:42.324Z"
   }
 ]
