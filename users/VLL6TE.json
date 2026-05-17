@@ -1,0 +1,26 @@
+[
+  {
+    "type": 2,
+    "user": {
+      "id": "quBwihUKd0XIMX9VPagHeAIQSfQ2",
+      "shortId": "VLL6TE",
+      "name": "pogba",
+      "role": "USER",
+      "level": 5
+    },
+    "message": "سلام عليكم",
+    "timestamp": "2026-05-16T21:10:01.489Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "quBwihUKd0XIMX9VPagHeAIQSfQ2",
+      "shortId": "VLL6TE",
+      "name": "pogba",
+      "role": "USER",
+      "level": 5
+    },
+    "message": "قلت سلام عليكم",
+    "timestamp": "2026-05-16T21:10:29.886Z"
+  }
+]
