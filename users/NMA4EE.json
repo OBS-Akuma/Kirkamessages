@@ -346,5 +346,29 @@
     },
     "message": "TRADING [Onesi||BODY_SKIN|MYTHICAL]=[Onesi||BODY_SKIN|MYTHICAL]=[Onesi||BODY_SKIN|MYTHICAL]",
     "timestamp": "2026-05-14T16:29:21.288Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "8e4dd944-e478-41ae-9f12-87a90772aa6c",
+      "shortId": "NMA4EE",
+      "name": "^3in1^",
+      "role": "USER",
+      "level": 50
+    },
+    "message": "/price [Onesi||BODY_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-16T15:33:20.275Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "8e4dd944-e478-41ae-9f12-87a90772aa6c",
+      "shortId": "NMA4EE",
+      "name": "^3in1^",
+      "role": "USER",
+      "level": 50
+    },
+    "message": "TRADING [Onesi||BODY_SKIN|MYTHICAL]=[Onesi||BODY_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-16T15:33:33.711Z"
   }
 ]
