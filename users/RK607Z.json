@@ -1,0 +1,98 @@
+[
+  {
+    "type": 2,
+    "user": {
+      "id": "d802e7ad-6c76-4151-9af1-c8d0bafb0e27",
+      "shortId": "RK607Z",
+      "name": "Fabian",
+      "role": "USER",
+      "level": 91
+    },
+    "message": "how to check inv value",
+    "timestamp": "2026-05-16T10:39:49.152Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "d802e7ad-6c76-4151-9af1-c8d0bafb0e27",
+      "shortId": "RK607Z",
+      "name": "Fabian",
+      "role": "USER",
+      "level": 91
+    },
+    "message": "How do i check inv value",
+    "timestamp": "2026-05-16T10:40:11.760Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "d802e7ad-6c76-4151-9af1-c8d0bafb0e27",
+      "shortId": "RK607Z",
+      "name": "Fabian",
+      "role": "USER",
+      "level": 91
+    },
+    "message": "/inv",
+    "timestamp": "2026-05-16T10:40:28.946Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "d802e7ad-6c76-4151-9af1-c8d0bafb0e27",
+      "shortId": "RK607Z",
+      "name": "Fabian",
+      "role": "USER",
+      "level": 91
+    },
+    "message": "/wager",
+    "timestamp": "2026-05-16T10:43:38.896Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "d802e7ad-6c76-4151-9af1-c8d0bafb0e27",
+      "shortId": "RK607Z",
+      "name": "Fabian",
+      "role": "USER",
+      "level": 91
+    },
+    "message": "/wager [Retro|Bayonet|WEAPON_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-16T10:43:47.509Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "d802e7ad-6c76-4151-9af1-c8d0bafb0e27",
+      "shortId": "RK607Z",
+      "name": "Fabian",
+      "role": "USER",
+      "level": 91
+    },
+    "message": "How do i wager",
+    "timestamp": "2026-05-16T10:44:31.644Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "d802e7ad-6c76-4151-9af1-c8d0bafb0e27",
+      "shortId": "RK607Z",
+      "name": "Fabian",
+      "role": "USER",
+      "level": 91
+    },
+    "message": "is there a way to wager whole inv at once",
+    "timestamp": "2026-05-16T10:44:57.588Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "d802e7ad-6c76-4151-9af1-c8d0bafb0e27",
+      "shortId": "RK607Z",
+      "name": "Fabian",
+      "role": "USER",
+      "level": 91
+    },
+    "message": "/inv",
+    "timestamp": "2026-05-16T10:45:21.116Z"
+  }
+]
