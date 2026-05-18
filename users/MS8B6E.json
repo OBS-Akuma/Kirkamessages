@@ -56,7 +56,7 @@
       "role": "USER",
       "level": 33
     },
-    "message": "Ã¦ÂÂ¥Ã¦ÂÂ¬Ã¤ÂºÂºÃ£ÂÂ Ã£ÂÂ",
+    "message": "ÃÂ¦ÃÂÃÂ¥ÃÂ¦ÃÂÃÂ¬ÃÂ¤ÃÂºÃÂºÃÂ£ÃÂÃÂ ÃÂ£ÃÂÃÂ",
     "timestamp": "2026-05-15T02:05:48.939Z"
   },
   {
@@ -68,7 +68,7 @@
       "role": "USER",
       "level": 33
     },
-    "message": "scarÃ£ÂÂªÃ£ÂÂÃ£ÂÂÃ£ÂÂÃ£ÂÂ®Ã¯Â¼Â",
+    "message": "scarÃÂ£ÃÂÃÂªÃÂ£ÃÂÃÂÃÂ£ÃÂÃÂÃÂ£ÃÂÃÂÃÂ£ÃÂÃÂ®ÃÂ¯ÃÂ¼ÃÂ",
     "timestamp": "2026-05-15T02:06:29.152Z"
   },
   {
@@ -80,7 +80,7 @@
       "role": "USER",
       "level": 33
     },
-    "message": "Ã£ÂÂªÃ£ÂÂÃ£ÂÂ»Ã£ÂÂ©Ã£ÂÂ­",
+    "message": "ÃÂ£ÃÂÃÂªÃÂ£ÃÂÃÂÃÂ£ÃÂÃÂ»ÃÂ£ÃÂÃÂ©ÃÂ£ÃÂÃÂ­",
     "timestamp": "2026-05-15T02:07:18.602Z"
   },
   {
@@ -106,5 +106,53 @@
     },
     "message": "i need LAR sry",
     "timestamp": "2026-05-15T11:07:21.104Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "0c182e53-7310-48bd-a952-e4f533c6b5c9",
+      "shortId": "MS8B6E",
+      "name": "taba",
+      "role": "USER",
+      "level": 34
+    },
+    "message": "[Forbidden|AR-9|WEAPON_SKIN|MYTHICAL]640kで買えたの熱い",
+    "timestamp": "2026-05-16T10:35:25.567Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "0c182e53-7310-48bd-a952-e4f533c6b5c9",
+      "shortId": "MS8B6E",
+      "name": "taba",
+      "role": "USER",
+      "level": 34
+    },
+    "message": "/hm Forbidden",
+    "timestamp": "2026-05-16T10:38:58.906Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "0c182e53-7310-48bd-a952-e4f533c6b5c9",
+      "shortId": "MS8B6E",
+      "name": "taba",
+      "role": "USER",
+      "level": 34
+    },
+    "message": "/hm chroma",
+    "timestamp": "2026-05-16T11:21:34.616Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "0c182e53-7310-48bd-a952-e4f533c6b5c9",
+      "shortId": "MS8B6E",
+      "name": "taba",
+      "role": "USER",
+      "level": 34
+    },
+    "message": "/price chroma",
+    "timestamp": "2026-05-16T11:22:16.525Z"
   }
 ]
