@@ -10,5 +10,53 @@
     },
     "message": "trade offer my:[Infernal|AR-9|WEAPON_SKIN|MYTHICAL] your:[Darling|VITA|WEAPON_SKIN|LEGENDARY]",
     "timestamp": "2026-05-15T13:02:57.139Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "853eb6df-726d-4519-a622-454ee3bf884a",
+      "shortId": "USBY08",
+      "name": "haruharuharuru",
+      "role": "USER",
+      "level": 33
+    },
+    "message": "/price cyb3r",
+    "timestamp": "2026-05-18T06:51:48.774Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "853eb6df-726d-4519-a622-454ee3bf884a",
+      "shortId": "USBY08",
+      "name": "haruharuharuru",
+      "role": "USER",
+      "level": 33
+    },
+    "message": "/price vocaloid",
+    "timestamp": "2026-05-18T07:01:13.583Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "853eb6df-726d-4519-a622-454ee3bf884a",
+      "shortId": "USBY08",
+      "name": "haruharuharuru",
+      "role": "USER",
+      "level": 33
+    },
+    "message": "trading [Blast Tomahawk|Tomahawk|WEAPON_SKIN|MYTHICAL][Cosmos|VITA|WEAPON_SKIN|MYTHICAL][Infernal|AR-9|WEAPON_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-18T07:20:05.851Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "853eb6df-726d-4519-a622-454ee3bf884a",
+      "shortId": "USBY08",
+      "name": "haruharuharuru",
+      "role": "USER",
+      "level": 33
+    },
+    "message": "trade [Blast Tomahawk|Tomahawk|WEAPON_SKIN|MYTHICAL][Cosmos|VITA|WEAPON_SKIN|MYTHICAL][Infernal|AR-9|WEAPON_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-18T07:20:52.591Z"
   }
 ]
