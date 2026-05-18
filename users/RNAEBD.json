@@ -1,0 +1,26 @@
+[
+  {
+    "type": 2,
+    "user": {
+      "id": "NNlS2A3UTdfNEpTuRICqx5Tgph32",
+      "shortId": "RNAEBD",
+      "name": "Hanyayanto",
+      "role": "USER",
+      "level": 12
+    },
+    "message": "hai",
+    "timestamp": "2026-05-18T08:10:56.278Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "NNlS2A3UTdfNEpTuRICqx5Tgph32",
+      "shortId": "RNAEBD",
+      "name": "Hanyayanto",
+      "role": "USER",
+      "level": 12
+    },
+    "message": "metoo",
+    "timestamp": "2026-05-18T08:11:27.410Z"
+  }
+]
