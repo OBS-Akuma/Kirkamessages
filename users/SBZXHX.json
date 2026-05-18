@@ -1,0 +1,38 @@
+[
+  {
+    "type": 2,
+    "user": {
+      "id": "6552ecc4-f212-445d-bbfd-4b1e485be560",
+      "shortId": "SBZXHX",
+      "name": "Winchy",
+      "role": "USER",
+      "level": 13
+    },
+    "message": "hy",
+    "timestamp": "2026-05-16T10:22:50.184Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "6552ecc4-f212-445d-bbfd-4b1e485be560",
+      "shortId": "SBZXHX",
+      "name": "Winchy",
+      "role": "USER",
+      "level": 13
+    },
+    "message": "helo ?",
+    "timestamp": "2026-05-16T10:24:00.141Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "6552ecc4-f212-445d-bbfd-4b1e485be560",
+      "shortId": "SBZXHX",
+      "name": "Winchy",
+      "role": "USER",
+      "level": 13
+    },
+    "message": "who got [Oblivion|SCAR|WEAPON_SKIN|MYTHICAL] ?",
+    "timestamp": "2026-05-16T10:30:27.222Z"
+  }
+]
