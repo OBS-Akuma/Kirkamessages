@@ -1040,7 +1040,7 @@
       "role": "USER",
       "level": 33
     },
-    "message": "lo intentÃÂ©",
+    "message": "lo intentÃÂÃÂ©",
     "timestamp": "2026-05-16T10:46:57.285Z"
   },
   {
@@ -1234,5 +1234,17 @@
     },
     "message": "ready",
     "timestamp": "2026-05-16T14:48:22.105Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "dde0da8a-87f3-4294-bf44-5b5aaf07c020",
+      "shortId": "8AFZL2",
+      "name": "AIMTOME",
+      "role": "USER",
+      "level": 36
+    },
+    "message": "Lord gazzel",
+    "timestamp": "2026-05-18T07:58:14.516Z"
   }
 ]
