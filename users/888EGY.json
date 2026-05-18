@@ -1570,5 +1570,29 @@
     },
     "message": "/hm ghoul",
     "timestamp": "2026-05-16T13:31:16.924Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "a1b97659-2643-423d-befe-d8f211f2b602",
+      "shortId": "888EGY",
+      "name": "SADY",
+      "role": "USER",
+      "level": 97
+    },
+    "message": "/hm [GGLITCH||BODY_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-18T08:07:51.893Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "a1b97659-2643-423d-befe-d8f211f2b602",
+      "shortId": "888EGY",
+      "name": "SADY",
+      "role": "USER",
+      "level": 97
+    },
+    "message": "/hm glitch",
+    "timestamp": "2026-05-18T08:08:04.578Z"
   }
 ]
