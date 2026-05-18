@@ -322,5 +322,17 @@
     },
     "message": "/price [Vocaloid|SCAR|WEAPON_SKIN|LEGENDARY]",
     "timestamp": "2026-05-16T13:29:16.465Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "13fd3da2-4c49-48fc-85b6-c83d69847f35",
+      "shortId": "2CFSRA",
+      "name": "KitKat",
+      "role": "USER",
+      "level": 74
+    },
+    "message": "/price [May||BODY_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-18T07:50:04.654Z"
   }
 ]
