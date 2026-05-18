@@ -118,5 +118,17 @@
     },
     "message": "nty",
     "timestamp": "2026-05-15T04:46:25.594Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "a670898e-fcff-4f1a-bed2-f0f6b0661fe1",
+      "shortId": "4KNOTD",
+      "name": "Glimpse",
+      "role": "USER",
+      "level": 99
+    },
+    "message": "/price [Dipolar||BODY_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-18T06:32:51.108Z"
   }
 ]
