@@ -1930,5 +1930,101 @@
     },
     "message": "/hm redwitch",
     "timestamp": "2026-05-16T02:13:48.989Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "83364ed5-101e-4a26-8a69-372da4bad353",
+      "shortId": "SC0N3D",
+      "name": "Viopus",
+      "role": "USER",
+      "level": 18
+    },
+    "message": "trade my [Hallowkod||BODY_SKIN|MYTHICAL] [Chroma|LAR|WEAPON_SKIN|MYTHICAL] [Vintage|VITA|WEAPON_SKIN|MYTHICAL] [Jolly||BODY_SKIN|MYTHICAL] [Gem Stone||BODY_SKIN|MYTHICAL] [TTV||BODY_SKIN|MYTHICAL] [Mistletoe||BODY_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-18T06:28:58.696Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "83364ed5-101e-4a26-8a69-372da4bad353",
+      "shortId": "SC0N3D",
+      "name": "Viopus",
+      "role": "USER",
+      "level": 18
+    },
+    "message": "u offer?",
+    "timestamp": "2026-05-18T06:29:26.508Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "83364ed5-101e-4a26-8a69-372da4bad353",
+      "shortId": "SC0N3D",
+      "name": "Viopus",
+      "role": "USER",
+      "level": 18
+    },
+    "message": "no problems",
+    "timestamp": "2026-05-18T06:33:26.786Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "83364ed5-101e-4a26-8a69-372da4bad353",
+      "shortId": "SC0N3D",
+      "name": "Viopus",
+      "role": "USER",
+      "level": 18
+    },
+    "message": "trading my [Gaia||BODY_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-18T07:15:37.926Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "83364ed5-101e-4a26-8a69-372da4bad353",
+      "shortId": "SC0N3D",
+      "name": "Viopus",
+      "role": "USER",
+      "level": 18
+    },
+    "message": "i have [Lashes|Bayonet|WEAPON_SKIN|LEGENDARY]",
+    "timestamp": "2026-05-18T07:15:52.013Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "83364ed5-101e-4a26-8a69-372da4bad353",
+      "shortId": "SC0N3D",
+      "name": "Viopus",
+      "role": "USER",
+      "level": 18
+    },
+    "message": "/hm dragonic scar",
+    "timestamp": "2026-05-18T07:16:46.019Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "83364ed5-101e-4a26-8a69-372da4bad353",
+      "shortId": "SC0N3D",
+      "name": "Viopus",
+      "role": "USER",
+      "level": 18
+    },
+    "message": "/hm twich",
+    "timestamp": "2026-05-18T07:17:45.296Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "83364ed5-101e-4a26-8a69-372da4bad353",
+      "shortId": "SC0N3D",
+      "name": "Viopus",
+      "role": "USER",
+      "level": 18
+    },
+    "message": "/hm twitch",
+    "timestamp": "2026-05-18T07:17:53.910Z"
   }
 ]
