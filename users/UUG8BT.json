@@ -1,0 +1,26 @@
+[
+  {
+    "type": 2,
+    "user": {
+      "id": "ff560272-118b-41df-abe4-4642ef566cd8",
+      "shortId": "UUG8BT",
+      "name": "jellyfish",
+      "role": "USER",
+      "level": 6
+    },
+    "message": "[Underwater|AR-9|WEAPON_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-16T09:33:05.454Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "ff560272-118b-41df-abe4-4642ef566cd8",
+      "shortId": "UUG8BT",
+      "name": "jellyfish",
+      "role": "USER",
+      "level": 6
+    },
+    "message": "[Diane|Shark|WEAPON_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-16T09:33:20.781Z"
+  }
+]
