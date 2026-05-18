@@ -202,5 +202,53 @@
     },
     "message": "[Bayonet||WEAPON_3|COMMON]",
     "timestamp": "2026-05-14T12:09:54.300Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "767b30e5-3a3c-4631-ba51-23dc0fd7be35",
+      "shortId": "SAVAGE",
+      "name": "m00lb",
+      "role": "VERIFIED",
+      "level": 91
+    },
+    "message": "[bonkers]",
+    "timestamp": "2026-05-18T06:26:33.955Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "767b30e5-3a3c-4631-ba51-23dc0fd7be35",
+      "shortId": "SAVAGE",
+      "name": "m00lb",
+      "role": "VERIFIED",
+      "level": 91
+    },
+    "message": "[Gingy||BODY_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-18T06:50:27.412Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "767b30e5-3a3c-4631-ba51-23dc0fd7be35",
+      "shortId": "SAVAGE",
+      "name": "m00lb",
+      "role": "VERIFIED",
+      "level": 91
+    },
+    "message": "hello #H2602A",
+    "timestamp": "2026-05-18T06:51:12.266Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "767b30e5-3a3c-4631-ba51-23dc0fd7be35",
+      "shortId": "SAVAGE",
+      "name": "m00lb",
+      "role": "VERIFIED",
+      "level": 91
+    },
+    "message": "trading [Chick||BODY_SKIN|MYTHICAL] for 70 mil in skins worth 2-10 mil",
+    "timestamp": "2026-05-18T06:51:58.752Z"
   }
 ]
