@@ -2578,5 +2578,113 @@
     },
     "message": "band make",
     "timestamp": "2026-05-16T13:56:24.534Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "ef0d085e-2d3f-43af-954e-6b579cafd5d5",
+      "shortId": "6AO53F",
+      "name": "OPTIMUS",
+      "role": "USER",
+      "level": 100
+    },
+    "message": "glimpse",
+    "timestamp": "2026-05-18T06:33:17.977Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "ef0d085e-2d3f-43af-954e-6b579cafd5d5",
+      "shortId": "6AO53F",
+      "name": "OPTIMUS",
+      "role": "USER",
+      "level": 100
+    },
+    "message": "hi bhai",
+    "timestamp": "2026-05-18T06:33:21.564Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "ef0d085e-2d3f-43af-954e-6b579cafd5d5",
+      "shortId": "6AO53F",
+      "name": "OPTIMUS",
+      "role": "USER",
+      "level": 100
+    },
+    "message": "bhot dino baad deekhe",
+    "timestamp": "2026-05-18T06:33:30.570Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "ef0d085e-2d3f-43af-954e-6b579cafd5d5",
+      "shortId": "6AO53F",
+      "name": "OPTIMUS",
+      "role": "USER",
+      "level": 100
+    },
+    "message": "glimpse",
+    "timestamp": "2026-05-18T06:37:14.851Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "ef0d085e-2d3f-43af-954e-6b579cafd5d5",
+      "shortId": "6AO53F",
+      "name": "OPTIMUS",
+      "role": "USER",
+      "level": 100
+    },
+    "message": "[ranked-s1 top10] offer?",
+    "timestamp": "2026-05-18T06:37:25.199Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "ef0d085e-2d3f-43af-954e-6b579cafd5d5",
+      "shortId": "6AO53F",
+      "name": "OPTIMUS",
+      "role": "USER",
+      "level": 100
+    },
+    "message": "dream",
+    "timestamp": "2026-05-18T06:37:37.855Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "ef0d085e-2d3f-43af-954e-6b579cafd5d5",
+      "shortId": "6AO53F",
+      "name": "OPTIMUS",
+      "role": "USER",
+      "level": 100
+    },
+    "message": "marla",
+    "timestamp": "2026-05-18T06:37:47.686Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "ef0d085e-2d3f-43af-954e-6b579cafd5d5",
+      "shortId": "6AO53F",
+      "name": "OPTIMUS",
+      "role": "USER",
+      "level": 100
+    },
+    "message": "lmao idw [Wicked|VITA|WEAPON_SKIN|MYTHICAL]s",
+    "timestamp": "2026-05-18T06:37:58.902Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "ef0d085e-2d3f-43af-954e-6b579cafd5d5",
+      "shortId": "6AO53F",
+      "name": "OPTIMUS",
+      "role": "USER",
+      "level": 100
+    },
+    "message": "no marla",
+    "timestamp": "2026-05-18T06:38:04.414Z"
   }
 ]
