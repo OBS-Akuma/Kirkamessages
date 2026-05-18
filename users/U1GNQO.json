@@ -82,5 +82,269 @@
     },
     "message": "/claim",
     "timestamp": "2026-05-15T13:08:02.457Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "6aa6a88a-520d-48ab-bff5-474b59da265e",
+      "shortId": "U1GNQO",
+      "name": "Zenith",
+      "role": "USER",
+      "level": 17
+    },
+    "message": "hi",
+    "timestamp": "2026-05-18T08:24:22.034Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "6aa6a88a-520d-48ab-bff5-474b59da265e",
+      "shortId": "U1GNQO",
+      "name": "Zenith",
+      "role": "USER",
+      "level": 17
+    },
+    "message": "wagering 300 goldens",
+    "timestamp": "2026-05-18T08:24:29.898Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "6aa6a88a-520d-48ab-bff5-474b59da265e",
+      "shortId": "U1GNQO",
+      "name": "Zenith",
+      "role": "USER",
+      "level": 17
+    },
+    "message": "yo",
+    "timestamp": "2026-05-18T08:24:53.980Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "6aa6a88a-520d-48ab-bff5-474b59da265e",
+      "shortId": "U1GNQO",
+      "name": "Zenith",
+      "role": "USER",
+      "level": 17
+    },
+    "message": "its me bro idont have stuff sorry",
+    "timestamp": "2026-05-18T08:25:01.873Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "6aa6a88a-520d-48ab-bff5-474b59da265e",
+      "shortId": "U1GNQO",
+      "name": "Zenith",
+      "role": "USER",
+      "level": 17
+    },
+    "message": "/wager [Golden||CHEST|LEGENDARY]x300 #H415SN",
+    "timestamp": "2026-05-18T08:25:29.533Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "6aa6a88a-520d-48ab-bff5-474b59da265e",
+      "shortId": "U1GNQO",
+      "name": "Zenith",
+      "role": "USER",
+      "level": 17
+    },
+    "message": "yoo pseed goat!",
+    "timestamp": "2026-05-18T08:26:30.291Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "6aa6a88a-520d-48ab-bff5-474b59da265e",
+      "shortId": "U1GNQO",
+      "name": "Zenith",
+      "role": "USER",
+      "level": 17
+    },
+    "message": "/claim",
+    "timestamp": "2026-05-18T08:26:46.920Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "6aa6a88a-520d-48ab-bff5-474b59da265e",
+      "shortId": "U1GNQO",
+      "name": "Zenith",
+      "role": "USER",
+      "level": 17
+    },
+    "message": "yo wizar",
+    "timestamp": "2026-05-18T08:27:05.910Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "6aa6a88a-520d-48ab-bff5-474b59da265e",
+      "shortId": "U1GNQO",
+      "name": "Zenith",
+      "role": "USER",
+      "level": 17
+    },
+    "message": "brilliant wizar",
+    "timestamp": "2026-05-18T08:27:25.150Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "6aa6a88a-520d-48ab-bff5-474b59da265e",
+      "shortId": "U1GNQO",
+      "name": "Zenith",
+      "role": "USER",
+      "level": 17
+    },
+    "message": "wagering love bites",
+    "timestamp": "2026-05-18T08:27:45.442Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "6aa6a88a-520d-48ab-bff5-474b59da265e",
+      "shortId": "U1GNQO",
+      "name": "Zenith",
+      "role": "USER",
+      "level": 17
+    },
+    "message": "/wager [Love Bites|Bayonet|WEAPON_SKIN|MYTHICAL]x1 #H415SN",
+    "timestamp": "2026-05-18T08:28:13.061Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "6aa6a88a-520d-48ab-bff5-474b59da265e",
+      "shortId": "U1GNQO",
+      "name": "Zenith",
+      "role": "USER",
+      "level": 17
+    },
+    "message": "/cancel",
+    "timestamp": "2026-05-18T08:28:42.513Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "6aa6a88a-520d-48ab-bff5-474b59da265e",
+      "shortId": "U1GNQO",
+      "name": "Zenith",
+      "role": "USER",
+      "level": 17
+    },
+    "message": "/cancelwager",
+    "timestamp": "2026-05-18T08:28:46.954Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "6aa6a88a-520d-48ab-bff5-474b59da265e",
+      "shortId": "U1GNQO",
+      "name": "Zenith",
+      "role": "USER",
+      "level": 17
+    },
+    "message": "/wager [Love Bites|Bayonet|WEAPON_SKIN|MYTHICAL] #B1WQPE",
+    "timestamp": "2026-05-18T08:30:13.633Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "6aa6a88a-520d-48ab-bff5-474b59da265e",
+      "shortId": "U1GNQO",
+      "name": "Zenith",
+      "role": "USER",
+      "level": 17
+    },
+    "message": "/cancelwager",
+    "timestamp": "2026-05-18T08:31:01.972Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "6aa6a88a-520d-48ab-bff5-474b59da265e",
+      "shortId": "U1GNQO",
+      "name": "Zenith",
+      "role": "USER",
+      "level": 17
+    },
+    "message": "WAGERING LOVE BITES",
+    "timestamp": "2026-05-18T08:31:27.575Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "6aa6a88a-520d-48ab-bff5-474b59da265e",
+      "shortId": "U1GNQO",
+      "name": "Zenith",
+      "role": "USER",
+      "level": 17
+    },
+    "message": "WAGERING LOVE BITES g",
+    "timestamp": "2026-05-18T08:31:31.577Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "6aa6a88a-520d-48ab-bff5-474b59da265e",
+      "shortId": "U1GNQO",
+      "name": "Zenith",
+      "role": "USER",
+      "level": 17
+    },
+    "message": "WAGERING LOVE BITES",
+    "timestamp": "2026-05-18T08:31:33.511Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "6aa6a88a-520d-48ab-bff5-474b59da265e",
+      "shortId": "U1GNQO",
+      "name": "Zenith",
+      "role": "USER",
+      "level": 17
+    },
+    "message": "WAGERING LOVE BITES/WAGERING LOVE BITES.",
+    "timestamp": "2026-05-18T08:31:37.325Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "6aa6a88a-520d-48ab-bff5-474b59da265e",
+      "shortId": "U1GNQO",
+      "name": "Zenith",
+      "role": "USER",
+      "level": 17
+    },
+    "message": "WAGERING LOVE BITES",
+    "timestamp": "2026-05-18T08:32:26.720Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "6aa6a88a-520d-48ab-bff5-474b59da265e",
+      "shortId": "U1GNQO",
+      "name": "Zenith",
+      "role": "USER",
+      "level": 17
+    },
+    "message": "/claim",
+    "timestamp": "2026-05-18T08:32:30.850Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "6aa6a88a-520d-48ab-bff5-474b59da265e",
+      "shortId": "U1GNQO",
+      "name": "Zenith",
+      "role": "USER",
+      "level": 17
+    },
+    "message": "ez",
+    "timestamp": "2026-05-18T08:32:47.299Z"
   }
 ]
