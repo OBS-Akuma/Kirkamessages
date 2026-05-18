@@ -3911,5 +3911,17 @@
     },
     "message": "#FURRYS",
     "timestamp": "2026-05-16T08:09:30.584Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "7f2a6090-abcb-48a7-8838-88ee8111b261",
+      "shortId": "NUGGET",
+      "name": "Akuma :3",
+      "role": "USER",
+      "level": 58
+    },
+    "message": "#FURRYS",
+    "timestamp": "2026-05-18T06:20:39.310Z"
   }
 ]
