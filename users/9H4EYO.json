@@ -58,5 +58,161 @@
     },
     "message": "/enter",
     "timestamp": "2026-05-16T13:43:44.999Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "guest-1630fd18-b709-42de-825a-3b3a67b800e5",
+      "shortId": "9H4EYO",
+      "name": "BM|m3atballs",
+      "role": "USER",
+      "level": 56
+    },
+    "message": "hey cash",
+    "timestamp": "2026-05-16T20:56:02.113Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "guest-1630fd18-b709-42de-825a-3b3a67b800e5",
+      "shortId": "9H4EYO",
+      "name": "BM|m3atballs",
+      "role": "USER",
+      "level": 56
+    },
+    "message": "cash u wanna trade?",
+    "timestamp": "2026-05-16T20:56:20.457Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "guest-1630fd18-b709-42de-825a-3b3a67b800e5",
+      "shortId": "9H4EYO",
+      "name": "BM|m3atballs",
+      "role": "USER",
+      "level": 56
+    },
+    "message": "I've got astra and pulse but I also have some other characters",
+    "timestamp": "2026-05-16T20:56:44.003Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "guest-1630fd18-b709-42de-825a-3b3a67b800e5",
+      "shortId": "9H4EYO",
+      "name": "BM|m3atballs",
+      "role": "USER",
+      "level": 56
+    },
+    "message": "but I gotta see how much they're worth",
+    "timestamp": "2026-05-16T20:56:48.361Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "guest-1630fd18-b709-42de-825a-3b3a67b800e5",
+      "shortId": "9H4EYO",
+      "name": "BM|m3atballs",
+      "role": "USER",
+      "level": 56
+    },
+    "message": "/price [Ghosta||BODY_SKIN|EPIC]",
+    "timestamp": "2026-05-16T20:56:59.881Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "guest-1630fd18-b709-42de-825a-3b3a67b800e5",
+      "shortId": "9H4EYO",
+      "name": "BM|m3atballs",
+      "role": "USER",
+      "level": 56
+    },
+    "message": "/price [Spearmint||BODY_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-16T20:57:06.007Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "guest-1630fd18-b709-42de-825a-3b3a67b800e5",
+      "shortId": "9H4EYO",
+      "name": "BM|m3atballs",
+      "role": "USER",
+      "level": 56
+    },
+    "message": "/price [Wintermint||BODY_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-16T20:57:17.137Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "guest-1630fd18-b709-42de-825a-3b3a67b800e5",
+      "shortId": "9H4EYO",
+      "name": "BM|m3atballs",
+      "role": "USER",
+      "level": 56
+    },
+    "message": "#E779VY I have astra if u wanna trade for it",
+    "timestamp": "2026-05-16T20:58:00.295Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "guest-1630fd18-b709-42de-825a-3b3a67b800e5",
+      "shortId": "9H4EYO",
+      "name": "BM|m3atballs",
+      "role": "USER",
+      "level": 56
+    },
+    "message": "#E779VY I've got astra",
+    "timestamp": "2026-05-16T20:59:40.778Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "guest-1630fd18-b709-42de-825a-3b3a67b800e5",
+      "shortId": "9H4EYO",
+      "name": "BM|m3atballs",
+      "role": "USER",
+      "level": 56
+    },
+    "message": "ye?",
+    "timestamp": "2026-05-16T20:59:55.802Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "guest-1630fd18-b709-42de-825a-3b3a67b800e5",
+      "shortId": "9H4EYO",
+      "name": "BM|m3atballs",
+      "role": "USER",
+      "level": 56
+    },
+    "message": "ggs #E779VY",
+    "timestamp": "2026-05-16T21:00:14.655Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "guest-1630fd18-b709-42de-825a-3b3a67b800e5",
+      "shortId": "9H4EYO",
+      "name": "BM|m3atballs",
+      "role": "USER",
+      "level": 56
+    },
+    "message": "/price [Astra|VITA|WEAPON_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-16T21:00:56.361Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "guest-1630fd18-b709-42de-825a-3b3a67b800e5",
+      "shortId": "9H4EYO",
+      "name": "BM|m3atballs",
+      "role": "USER",
+      "level": 56
+    },
+    "message": "/hm [Astra|VITA|WEAPON_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-16T21:01:03.144Z"
   }
 ]
