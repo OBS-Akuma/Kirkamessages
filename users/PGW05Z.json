@@ -382,5 +382,17 @@
     },
     "message": "/hm ultraviolet",
     "timestamp": "2026-05-15T20:58:06.416Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "f1c6940c-5a94-4af4-ba69-fb763d71ebb4",
+      "shortId": "PGW05Z",
+      "name": "Lord_Gazzel",
+      "role": "USER",
+      "level": 92
+    },
+    "message": "/PRICE LORD",
+    "timestamp": "2026-05-18T06:49:24.933Z"
   }
 ]
