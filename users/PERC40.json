@@ -10,5 +10,77 @@
     },
     "message": "trading [Phoenix||BODY_SKIN|MYTHICAL]",
     "timestamp": "2026-05-12T08:00:06.255Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "3c86ea2b-6cbb-4541-bb58-ff6b966f5ac5",
+      "shortId": "PERC40",
+      "name": "Oxycodone",
+      "role": "USER",
+      "level": 98
+    },
+    "message": "Lock in",
+    "timestamp": "2026-05-18T07:37:37.329Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "3c86ea2b-6cbb-4541-bb58-ff6b966f5ac5",
+      "shortId": "PERC40",
+      "name": "Oxycodone",
+      "role": "USER",
+      "level": 98
+    },
+    "message": "Trading [Phoenix||BODY_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-18T07:38:02.675Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "3c86ea2b-6cbb-4541-bb58-ff6b966f5ac5",
+      "shortId": "PERC40",
+      "name": "Oxycodone",
+      "role": "USER",
+      "level": 98
+    },
+    "message": "A lot",
+    "timestamp": "2026-05-18T07:38:27.028Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "3c86ea2b-6cbb-4541-bb58-ff6b966f5ac5",
+      "shortId": "PERC40",
+      "name": "Oxycodone",
+      "role": "USER",
+      "level": 98
+    },
+    "message": "Ion wager",
+    "timestamp": "2026-05-18T07:38:33.440Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "3c86ea2b-6cbb-4541-bb58-ff6b966f5ac5",
+      "shortId": "PERC40",
+      "name": "Oxycodone",
+      "role": "USER",
+      "level": 98
+    },
+    "message": "/inv",
+    "timestamp": "2026-05-18T07:39:06.553Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "3c86ea2b-6cbb-4541-bb58-ff6b966f5ac5",
+      "shortId": "PERC40",
+      "name": "Oxycodone",
+      "role": "USER",
+      "level": 98
+    },
+    "message": "No thanks",
+    "timestamp": "2026-05-18T07:39:13.181Z"
   }
 ]
