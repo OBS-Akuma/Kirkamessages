@@ -1,0 +1,26 @@
+[
+  {
+    "type": 2,
+    "user": {
+      "id": "9054e5d3-582b-47b7-931c-7994f0c616ee",
+      "shortId": "MT067E",
+      "name": "Mustafa",
+      "role": "USER",
+      "level": 80
+    },
+    "message": "/price {engravement]",
+    "timestamp": "2026-05-16T21:24:36.173Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "9054e5d3-582b-47b7-931c-7994f0c616ee",
+      "shortId": "MT067E",
+      "name": "Mustafa",
+      "role": "USER",
+      "level": 80
+    },
+    "message": "/price [Engravement|Bayonet|WEAPON_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-16T21:25:06.949Z"
+  }
+]
