@@ -598,5 +598,29 @@
     },
     "message": "let me see",
     "timestamp": "2026-05-14T12:37:51.430Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "df9ba6de-e605-42ef-8b12-40a7a70996cc",
+      "shortId": "ZYNOTW",
+      "name": "reze.",
+      "role": "USER",
+      "level": 98
+    },
+    "message": "lf [Forbidden|AR-9|WEAPON_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-16T11:13:59.562Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "df9ba6de-e605-42ef-8b12-40a7a70996cc",
+      "shortId": "ZYNOTW",
+      "name": "reze.",
+      "role": "USER",
+      "level": 98
+    },
+    "message": "/hm [Forbidden|AR-9|WEAPON_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-16T11:14:09.379Z"
   }
 ]
