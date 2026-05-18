@@ -2098,5 +2098,17 @@
     },
     "message": "XD",
     "timestamp": "2026-05-16T05:33:10.926Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "2fde3233-4f8a-4e77-bd7e-61070f06f116",
+      "shortId": "A9IZ40",
+      "name": "newbie",
+      "role": "USER",
+      "level": 13
+    },
+    "message": "[Aron||BODY_SKIN|LEGENDARY] for [Maze||BODY_SKIN|EPIC]",
+    "timestamp": "2026-05-16T14:29:37.032Z"
   }
 ]
