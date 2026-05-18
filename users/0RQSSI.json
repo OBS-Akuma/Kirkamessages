@@ -22,5 +22,41 @@
     },
     "message": "anybody wants /LMAO",
     "timestamp": "2026-05-16T09:32:38.333Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "d06a9ad2-40df-408f-afcd-32c5867b6a5d",
+      "shortId": "0RQSSI",
+      "name": "NeonSyndicate",
+      "role": "USER",
+      "level": 67
+    },
+    "message": "/price tiburon",
+    "timestamp": "2026-05-18T06:43:25.585Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "d06a9ad2-40df-408f-afcd-32c5867b6a5d",
+      "shortId": "0RQSSI",
+      "name": "NeonSyndicate",
+      "role": "USER",
+      "level": 67
+    },
+    "message": "/locate blessed",
+    "timestamp": "2026-05-18T06:43:43.557Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "d06a9ad2-40df-408f-afcd-32c5867b6a5d",
+      "shortId": "0RQSSI",
+      "name": "NeonSyndicate",
+      "role": "USER",
+      "level": 67
+    },
+    "message": "/locate LMAO",
+    "timestamp": "2026-05-18T06:44:21.836Z"
   }
 ]
