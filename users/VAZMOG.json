@@ -334,5 +334,17 @@
     },
     "message": "[Bloom||BODY_SKIN|MYTHICAL]",
     "timestamp": "2026-05-15T15:25:34.367Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "3321648a-0db5-43f1-8851-618da0182738",
+      "shortId": "VAZMOG",
+      "name": "straydawg",
+      "role": "USER",
+      "level": 52
+    },
+    "message": "billion.              looks.              so.              cool",
+    "timestamp": "2026-05-16T07:30:58.047Z"
   }
 ]
