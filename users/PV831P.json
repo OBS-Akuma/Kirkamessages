@@ -8350,5 +8350,53 @@
     },
     "message": "Cryptex x2 blackhole x3 dipolar in a day",
     "timestamp": "2026-05-16T12:37:43.850Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "a78326b1-d946-47cd-ae90-c76553c8cc63",
+      "shortId": "PV831P",
+      "name": "TORTURE_GOD",
+      "role": "USER",
+      "level": 88
+    },
+    "message": "/locate blesse",
+    "timestamp": "2026-05-16T15:14:31.584Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "a78326b1-d946-47cd-ae90-c76553c8cc63",
+      "shortId": "PV831P",
+      "name": "TORTURE_GOD",
+      "role": "USER",
+      "level": 88
+    },
+    "message": "/locate blessed",
+    "timestamp": "2026-05-16T15:14:47.764Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "a78326b1-d946-47cd-ae90-c76553c8cc63",
+      "shortId": "PV831P",
+      "name": "TORTURE_GOD",
+      "role": "USER",
+      "level": 88
+    },
+    "message": "Queen u want Goblin",
+    "timestamp": "2026-05-16T15:18:09.223Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "a78326b1-d946-47cd-ae90-c76553c8cc63",
+      "shortId": "PV831P",
+      "name": "TORTURE_GOD",
+      "role": "USER",
+      "level": 88
+    },
+    "message": "Alr",
+    "timestamp": "2026-05-16T15:18:22.757Z"
   }
 ]
