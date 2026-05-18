@@ -1,0 +1,74 @@
+[
+  {
+    "type": 2,
+    "user": {
+      "id": "94a9dab5-8784-4503-a690-e2db21cf68d3",
+      "shortId": "W3AMQ5",
+      "name": "Cheeseburger",
+      "role": "USER",
+      "level": 100
+    },
+    "message": ";",
+    "timestamp": "2026-05-17T00:18:26.637Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "94a9dab5-8784-4503-a690-e2db21cf68d3",
+      "shortId": "W3AMQ5",
+      "name": "Cheeseburger",
+      "role": "USER",
+      "level": 100
+    },
+    "message": "q",
+    "timestamp": "2026-05-17T00:18:44.746Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "94a9dab5-8784-4503-a690-e2db21cf68d3",
+      "shortId": "W3AMQ5",
+      "name": "Cheeseburger",
+      "role": "USER",
+      "level": 100
+    },
+    "message": "t",
+    "timestamp": "2026-05-17T00:18:54.484Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "94a9dab5-8784-4503-a690-e2db21cf68d3",
+      "shortId": "W3AMQ5",
+      "name": "Cheeseburger",
+      "role": "USER",
+      "level": 100
+    },
+    "message": "u",
+    "timestamp": "2026-05-17T00:20:08.562Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "94a9dab5-8784-4503-a690-e2db21cf68d3",
+      "shortId": "W3AMQ5",
+      "name": "Cheeseburger",
+      "role": "USER",
+      "level": 100
+    },
+    "message": "'",
+    "timestamp": "2026-05-17T00:21:18.617Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "94a9dab5-8784-4503-a690-e2db21cf68d3",
+      "shortId": "W3AMQ5",
+      "name": "Cheeseburger",
+      "role": "USER",
+      "level": 100
+    },
+    "message": "o",
+    "timestamp": "2026-05-17T00:23:27.775Z"
+  }
+]
