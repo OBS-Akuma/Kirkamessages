@@ -22,5 +22,53 @@
     },
     "message": "/offer [Blast Bayonet|Bayonet|WEAPON_SKIN|MYTHICAL] fr 5 mil",
     "timestamp": "2026-05-14T11:16:25.215Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "ffdd9ac2-f1fd-4ef1-bfd8-33601a7342f9",
+      "shortId": "UOW0D0",
+      "name": "Pranay",
+      "role": "USER",
+      "level": 70
+    },
+    "message": "[woo]",
+    "timestamp": "2026-05-16T14:18:40.307Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "ffdd9ac2-f1fd-4ef1-bfd8-33601a7342f9",
+      "shortId": "UOW0D0",
+      "name": "Pranay",
+      "role": "USER",
+      "level": 70
+    },
+    "message": "[Wood||CHEST|COMMON]",
+    "timestamp": "2026-05-16T14:18:47.640Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "ffdd9ac2-f1fd-4ef1-bfd8-33601a7342f9",
+      "shortId": "UOW0D0",
+      "name": "Pranay",
+      "role": "USER",
+      "level": 70
+    },
+    "message": "/offer [Fade|Revolver|WEAPON_SKIN|LEGENDARY]",
+    "timestamp": "2026-05-16T14:19:21.048Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "ffdd9ac2-f1fd-4ef1-bfd8-33601a7342f9",
+      "shortId": "UOW0D0",
+      "name": "Pranay",
+      "role": "USER",
+      "level": 70
+    },
+    "message": "/offer [Fade|Revolver|WEAPON_SKIN|LEGENDARY] fr [Golden||CHEST|LEGENDARY]x200",
+    "timestamp": "2026-05-16T14:19:52.344Z"
   }
 ]
