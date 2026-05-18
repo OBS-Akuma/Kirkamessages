@@ -1522,5 +1522,17 @@
     },
     "message": "/hm wintermint",
     "timestamp": "2026-05-16T15:39:40.734Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "VDlzMXAa9DZPbZvebQ5vePHLeex2",
+      "shortId": "3XRCCU",
+      "name": "DABEYT",
+      "role": "USER",
+      "level": 69
+    },
+    "message": "/hm cozy",
+    "timestamp": "2026-05-18T08:06:32.582Z"
   }
 ]
