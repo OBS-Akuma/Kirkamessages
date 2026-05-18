@@ -2482,5 +2482,17 @@
     },
     "message": "/enter",
     "timestamp": "2026-05-16T04:30:24.618Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "5c75b2d7-9364-4cdf-8a05-4f98b9d990f5",
+      "shortId": "AIIMYI",
+      "name": "xyds",
+      "role": "USER",
+      "level": 90
+    },
+    "message": "/hm [Cornfield|Bayonet|WEAPON_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-18T06:26:42.569Z"
   }
 ]
