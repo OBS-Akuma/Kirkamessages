@@ -2494,5 +2494,17 @@
     },
     "message": "[Techno||BODY_SKIN|MYTHICAL]",
     "timestamp": "2026-05-15T05:50:01.038Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "12860ca3-8d1f-46d0-a329-265f7ed3a13f",
+      "shortId": "TAIWAN",
+      "name": "Milkorayu",
+      "role": "USER",
+      "level": 98
+    },
+    "message": "[Shinji||BODY_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-16T13:47:30.076Z"
   }
 ]
