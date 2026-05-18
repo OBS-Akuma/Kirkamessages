@@ -2230,5 +2230,77 @@
     },
     "message": "/price hologram",
     "timestamp": "2026-05-15T12:41:29.894Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "e7ca017c-557f-4b21-96eb-3ec2a9a728ab",
+      "shortId": "8SQMAK",
+      "name": "Eri.",
+      "role": "USER",
+      "level": 59
+    },
+    "message": "/price drinchette",
+    "timestamp": "2026-05-18T06:43:36.439Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "e7ca017c-557f-4b21-96eb-3ec2a9a728ab",
+      "shortId": "8SQMAK",
+      "name": "Eri.",
+      "role": "USER",
+      "level": 59
+    },
+    "message": "/price grinchette",
+    "timestamp": "2026-05-18T06:43:49.531Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "e7ca017c-557f-4b21-96eb-3ec2a9a728ab",
+      "shortId": "8SQMAK",
+      "name": "Eri.",
+      "role": "USER",
+      "level": 59
+    },
+    "message": "/hm lord",
+    "timestamp": "2026-05-18T06:47:30.109Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "e7ca017c-557f-4b21-96eb-3ec2a9a728ab",
+      "shortId": "8SQMAK",
+      "name": "Eri.",
+      "role": "USER",
+      "level": 59
+    },
+    "message": "buy ghillie",
+    "timestamp": "2026-05-18T07:00:59.333Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "e7ca017c-557f-4b21-96eb-3ec2a9a728ab",
+      "shortId": "8SQMAK",
+      "name": "Eri.",
+      "role": "USER",
+      "level": 59
+    },
+    "message": "i want ghillie",
+    "timestamp": "2026-05-18T07:01:13.413Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "e7ca017c-557f-4b21-96eb-3ec2a9a728ab",
+      "shortId": "8SQMAK",
+      "name": "Eri.",
+      "role": "USER",
+      "level": 59
+    },
+    "message": "i have coins",
+    "timestamp": "2026-05-18T07:01:19.959Z"
   }
 ]
