@@ -58,5 +58,17 @@
     },
     "message": "[#O1E906]",
     "timestamp": "2026-05-16T14:34:43.989Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "cf6bda36-30f9-4347-b9a0-f6e3150600d5",
+      "shortId": "77JTL6",
+      "name": "TP]hamster-guy",
+      "role": "USER",
+      "level": 18
+    },
+    "message": "/inv",
+    "timestamp": "2026-05-19T01:14:27.822Z"
   }
 ]
