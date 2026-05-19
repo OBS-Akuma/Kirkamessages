@@ -130,5 +130,17 @@
     },
     "message": "no its not",
     "timestamp": "2026-05-11T03:37:48.171Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "1231348b-d680-4a00-87e7-aa687c7abdd3",
+      "shortId": "S47D2S",
+      "name": "Draco",
+      "role": "USER",
+      "level": 97
+    },
+    "message": "[Dragonic VITA|VITA|WEAPON_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-18T08:55:17.638Z"
   }
 ]
