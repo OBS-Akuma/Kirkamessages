@@ -226,5 +226,17 @@
     },
     "message": "https://kirka.io/___lobby___/EU~Cw1zaO6nk",
     "timestamp": "2026-05-15T22:20:57.215Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "ae9daafe-3288-4d0f-a846-f157bd1e7c33",
+      "shortId": "JJB07J",
+      "name": "TheDarkLord",
+      "role": "USER",
+      "level": 43
+    },
+    "message": "[Corny||BODY_SKIN|LEGENDARY]",
+    "timestamp": "2026-05-18T08:46:32.661Z"
   }
 ]
