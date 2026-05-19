@@ -466,5 +466,101 @@
     },
     "message": "/locate slay",
     "timestamp": "2026-05-18T07:15:01.866Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "98e76416-28bc-4578-b37a-8cbeb55b413c",
+      "shortId": "9D7IZB",
+      "name": "AightBet",
+      "role": "USER",
+      "level": 90
+    },
+    "message": "wagering [Forbidden|AR-9|WEAPON_SKIN|MYTHICAL]x2",
+    "timestamp": "2026-05-18T10:45:45.029Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "98e76416-28bc-4578-b37a-8cbeb55b413c",
+      "shortId": "9D7IZB",
+      "name": "AightBet",
+      "role": "USER",
+      "level": 90
+    },
+    "message": "/confirmwager",
+    "timestamp": "2026-05-18T10:45:59.771Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "98e76416-28bc-4578-b37a-8cbeb55b413c",
+      "shortId": "9D7IZB",
+      "name": "AightBet",
+      "role": "USER",
+      "level": 90
+    },
+    "message": "gl",
+    "timestamp": "2026-05-18T10:46:22.437Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "98e76416-28bc-4578-b37a-8cbeb55b413c",
+      "shortId": "9D7IZB",
+      "name": "AightBet",
+      "role": "USER",
+      "level": 90
+    },
+    "message": "gg",
+    "timestamp": "2026-05-18T10:46:24.492Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "98e76416-28bc-4578-b37a-8cbeb55b413c",
+      "shortId": "9D7IZB",
+      "name": "AightBet",
+      "role": "USER",
+      "level": 90
+    },
+    "message": "/wager [Forbidden|AR-9|WEAPON_SKIN|MYTHICAL] #2QIYUL",
+    "timestamp": "2026-05-18T10:46:35.641Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "98e76416-28bc-4578-b37a-8cbeb55b413c",
+      "shortId": "9D7IZB",
+      "name": "AightBet",
+      "role": "USER",
+      "level": 90
+    },
+    "message": "g;~",
+    "timestamp": "2026-05-18T10:46:48.908Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "98e76416-28bc-4578-b37a-8cbeb55b413c",
+      "shortId": "9D7IZB",
+      "name": "AightBet",
+      "role": "USER",
+      "level": 90
+    },
+    "message": "gl",
+    "timestamp": "2026-05-18T10:46:50.694Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "98e76416-28bc-4578-b37a-8cbeb55b413c",
+      "shortId": "9D7IZB",
+      "name": "AightBet",
+      "role": "USER",
+      "level": 90
+    },
+    "message": "gg~",
+    "timestamp": "2026-05-18T10:46:59.579Z"
   }
 ]
