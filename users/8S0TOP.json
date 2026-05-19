@@ -106,5 +106,29 @@
     },
     "message": "/inv #6DA8RN",
     "timestamp": "2026-05-15T02:20:40.671Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "b514b25f-edef-403a-b4d6-3a8c4fff1be0",
+      "shortId": "8S0TOP",
+      "name": "Road_to_Anon",
+      "role": "USER",
+      "level": 45
+    },
+    "message": "any1 rich here?",
+    "timestamp": "2026-05-19T01:09:30.929Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "b514b25f-edef-403a-b4d6-3a8c4fff1be0",
+      "shortId": "8S0TOP",
+      "name": "Road_to_Anon",
+      "role": "USER",
+      "level": 45
+    },
+    "message": "any1 got like 500m inv and wants to offer on a 1/2 item?",
+    "timestamp": "2026-05-19T01:09:54.336Z"
   }
 ]
