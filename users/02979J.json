@@ -2470,5 +2470,29 @@
     },
     "message": "i dont have vera",
     "timestamp": "2026-05-19T10:16:51.428Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "a2035d2a-40d0-4d1e-952b-4fc48dc53c94",
+      "shortId": "02979J",
+      "name": "Baduy",
+      "role": "USER",
+      "level": 96
+    },
+    "message": "/cancelwager",
+    "timestamp": "2026-05-19T10:29:57.634Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "a2035d2a-40d0-4d1e-952b-4fc48dc53c94",
+      "shortId": "02979J",
+      "name": "Baduy",
+      "role": "USER",
+      "level": 96
+    },
+    "message": "what",
+    "timestamp": "2026-05-19T10:30:21.775Z"
   }
 ]
