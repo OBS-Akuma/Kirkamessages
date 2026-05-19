@@ -190,5 +190,29 @@
     },
     "message": "[Onryo||BODY_SKIN|MYTHICAL]",
     "timestamp": "2026-05-16T10:41:35.884Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "ygQuVIMjNpYYSQeb4odwgczh2j03",
+      "shortId": "2S02KI",
+      "name": "Slenderman",
+      "role": "USER",
+      "level": 99
+    },
+    "message": "trading [Bound|AR-9|WEAPON_SKIN|MYTHICAL][Twitch||BODY_SKIN|MYTHICAL][Firedemon||BODY_SKIN|LEGENDARY][Nutcracker||BODY_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-19T10:31:38.787Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "ygQuVIMjNpYYSQeb4odwgczh2j03",
+      "shortId": "2S02KI",
+      "name": "Slenderman",
+      "role": "USER",
+      "level": 99
+    },
+    "message": "#3VOHFR [Bound|AR-9|WEAPON_SKIN|MYTHICAL] for [Basket||BODY_SKIN|MYTHICAL]??",
+    "timestamp": "2026-05-19T10:32:46.816Z"
   }
 ]
