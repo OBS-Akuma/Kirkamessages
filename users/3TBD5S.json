@@ -1,0 +1,26 @@
+[
+  {
+    "type": 2,
+    "user": {
+      "id": "guest-65510e01-e26f-4d87-ac77-798b31b32a9c",
+      "shortId": "3TBD5S",
+      "name": "Newbie",
+      "role": "USER",
+      "level": 8
+    },
+    "message": "wow i never knew this game had a chat",
+    "timestamp": "2026-05-18T10:29:54.768Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "guest-65510e01-e26f-4d87-ac77-798b31b32a9c",
+      "shortId": "3TBD5S",
+      "name": "Newbie",
+      "role": "USER",
+      "level": 8
+    },
+    "message": "pftt",
+    "timestamp": "2026-05-18T10:29:55.843Z"
+  }
+]
