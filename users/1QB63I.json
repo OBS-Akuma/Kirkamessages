@@ -10,5 +10,89 @@
     },
     "message": "[Queen||BODY_SKIN|MYTHICAL]",
     "timestamp": "2026-05-16T11:36:29.847Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "65dcc614-bafb-4ab3-9ce4-d4b99f958577",
+      "shortId": "1QB63I",
+      "name": "Vlad",
+      "role": "USER",
+      "level": 90
+    },
+    "message": "no sorry",
+    "timestamp": "2026-05-18T09:48:13.645Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "65dcc614-bafb-4ab3-9ce4-d4b99f958577",
+      "shortId": "1QB63I",
+      "name": "Vlad",
+      "role": "USER",
+      "level": 90
+    },
+    "message": "yes #2NBA3N",
+    "timestamp": "2026-05-18T09:49:15.159Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "65dcc614-bafb-4ab3-9ce4-d4b99f958577",
+      "shortId": "1QB63I",
+      "name": "Vlad",
+      "role": "USER",
+      "level": 90
+    },
+    "message": "ok #2NBA3N",
+    "timestamp": "2026-05-18T09:49:44.520Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "65dcc614-bafb-4ab3-9ce4-d4b99f958577",
+      "shortId": "1QB63I",
+      "name": "Vlad",
+      "role": "USER",
+      "level": 90
+    },
+    "message": "I accepted #2NBA3N",
+    "timestamp": "2026-05-18T09:51:36.620Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "65dcc614-bafb-4ab3-9ce4-d4b99f958577",
+      "shortId": "1QB63I",
+      "name": "Vlad",
+      "role": "USER",
+      "level": 90
+    },
+    "message": "#2NBA3N do you have queen",
+    "timestamp": "2026-05-18T09:54:13.635Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "65dcc614-bafb-4ab3-9ce4-d4b99f958577",
+      "shortId": "1QB63I",
+      "name": "Vlad",
+      "role": "USER",
+      "level": 90
+    },
+    "message": "?",
+    "timestamp": "2026-05-18T09:54:17.372Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "65dcc614-bafb-4ab3-9ce4-d4b99f958577",
+      "shortId": "1QB63I",
+      "name": "Vlad",
+      "role": "USER",
+      "level": 90
+    },
+    "message": "ok",
+    "timestamp": "2026-05-18T09:54:42.843Z"
   }
 ]
