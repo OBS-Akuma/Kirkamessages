@@ -166,5 +166,53 @@
     },
     "message": ":)",
     "timestamp": "2026-05-18T09:31:08.709Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "c1497bc0-5b32-4cf8-8150-d58f4f7976e6",
+      "shortId": "CVK7IF",
+      "name": "Ghoul",
+      "role": "USER",
+      "level": 17
+    },
+    "message": ":))",
+    "timestamp": "2026-05-18T09:31:40.044Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "c1497bc0-5b32-4cf8-8150-d58f4f7976e6",
+      "shortId": "CVK7IF",
+      "name": "Ghoul",
+      "role": "USER",
+      "level": 17
+    },
+    "message": "/wager [Golden||CHEST|LEGENDARY]x300 #XCMTH4",
+    "timestamp": "2026-05-18T09:31:55.989Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "c1497bc0-5b32-4cf8-8150-d58f4f7976e6",
+      "shortId": "CVK7IF",
+      "name": "Ghoul",
+      "role": "USER",
+      "level": 17
+    },
+    "message": "ggs",
+    "timestamp": "2026-05-18T09:32:43.255Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "c1497bc0-5b32-4cf8-8150-d58f4f7976e6",
+      "shortId": "CVK7IF",
+      "name": "Ghoul",
+      "role": "USER",
+      "level": 17
+    },
+    "message": "ty",
+    "timestamp": "2026-05-18T09:32:44.774Z"
   }
 ]
