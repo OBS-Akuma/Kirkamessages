@@ -1378,5 +1378,29 @@
     },
     "message": "Practice aim offer for firedemon?",
     "timestamp": "2026-05-18T11:19:09.713Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "fc39c9da-7359-4fb8-97b7-49a356e175da",
+      "shortId": "0EZVVF",
+      "name": "Vortex",
+      "role": "USER",
+      "level": 99
+    },
+    "message": "Practice aim?",
+    "timestamp": "2026-05-18T11:19:26.568Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "fc39c9da-7359-4fb8-97b7-49a356e175da",
+      "shortId": "0EZVVF",
+      "name": "Vortex",
+      "role": "USER",
+      "level": 99
+    },
+    "message": "/claim",
+    "timestamp": "2026-05-18T11:19:50.001Z"
   }
 ]
