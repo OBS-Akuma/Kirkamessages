@@ -2446,5 +2446,29 @@
     },
     "message": "bro sorry wizard",
     "timestamp": "2026-05-16T14:59:04.851Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "a2035d2a-40d0-4d1e-952b-4fc48dc53c94",
+      "shortId": "02979J",
+      "name": "Baduy",
+      "role": "USER",
+      "level": 96
+    },
+    "message": "/hm chick",
+    "timestamp": "2026-05-19T10:16:17.064Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "a2035d2a-40d0-4d1e-952b-4fc48dc53c94",
+      "shortId": "02979J",
+      "name": "Baduy",
+      "role": "USER",
+      "level": 96
+    },
+    "message": "i dont have vera",
+    "timestamp": "2026-05-19T10:16:51.428Z"
   }
 ]
