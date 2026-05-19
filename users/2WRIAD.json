@@ -1,0 +1,50 @@
+[
+  {
+    "type": 2,
+    "user": {
+      "id": "b46e5bc7-5805-4e67-b41e-b1eca623ddac",
+      "shortId": "2WRIAD",
+      "name": "Lunch$Colector",
+      "role": "USER",
+      "level": 87
+    },
+    "message": "[Maze||BODY_SKIN|EPIC]",
+    "timestamp": "2026-05-18T10:23:19.092Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "b46e5bc7-5805-4e67-b41e-b1eca623ddac",
+      "shortId": "2WRIAD",
+      "name": "Lunch$Colector",
+      "role": "USER",
+      "level": 87
+    },
+    "message": "accept?",
+    "timestamp": "2026-05-18T10:25:36.520Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "b46e5bc7-5805-4e67-b41e-b1eca623ddac",
+      "shortId": "2WRIAD",
+      "name": "Lunch$Colector",
+      "role": "USER",
+      "level": 87
+    },
+    "message": "W",
+    "timestamp": "2026-05-18T10:26:08.364Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "b46e5bc7-5805-4e67-b41e-b1eca623ddac",
+      "shortId": "2WRIAD",
+      "name": "Lunch$Colector",
+      "role": "USER",
+      "level": 87
+    },
+    "message": "/cancel",
+    "timestamp": "2026-05-18T10:26:23.740Z"
+  }
+]
