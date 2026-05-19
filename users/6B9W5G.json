@@ -922,5 +922,17 @@
     },
     "message": "ok u make trade?",
     "timestamp": "2026-05-13T22:33:06.352Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "r1Kq0qheqQgd3bHGo7o3WDT0ARx1",
+      "shortId": "6B9W5G",
+      "name": "Twix",
+      "role": "USER",
+      "level": 69
+    },
+    "message": "/hm whispers",
+    "timestamp": "2026-05-19T19:48:33.259Z"
   }
 ]
