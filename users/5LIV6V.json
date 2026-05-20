@@ -118,5 +118,17 @@
     },
     "message": "switch arachne for something worth having beetle",
     "timestamp": "2026-05-18T06:52:26.680Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "08a2ccb7-d7b8-48ca-808f-378d46cd7184",
+      "shortId": "5LIV6V",
+      "name": "RoadToOstern",
+      "role": "USER",
+      "level": 5
+    },
+    "message": "/inv",
+    "timestamp": "2026-05-18T09:35:56.965Z"
   }
 ]
