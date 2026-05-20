@@ -34,5 +34,17 @@
     },
     "message": "/inv",
     "timestamp": "2026-05-15T08:29:09.132Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "d25a00f2-64ea-4f7b-aca2-78691a65f129",
+      "shortId": "1QJ8WA",
+      "name": "tilted",
+      "role": "USER",
+      "level": 91
+    },
+    "message": "/price [Whispers|SCAR|WEAPON_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-20T11:21:09.727Z"
   }
 ]
