@@ -58,5 +58,41 @@
     },
     "message": "#CA6BYQ",
     "timestamp": "2026-05-16T06:50:30.368Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "33d0ca58-1053-482d-8c94-767edf319c5c",
+      "shortId": "JHD1FD",
+      "name": "BEAST",
+      "role": "USER",
+      "level": 30
+    },
+    "message": "anyone wanna cf?",
+    "timestamp": "2026-05-18T07:28:36.235Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "33d0ca58-1053-482d-8c94-767edf319c5c",
+      "shortId": "JHD1FD",
+      "name": "BEAST",
+      "role": "USER",
+      "level": 30
+    },
+    "message": "cfing [Dragonic||BODY_SKIN|MYTHICAL] [Bullseye||BODY_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-18T07:28:47.103Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "33d0ca58-1053-482d-8c94-767edf319c5c",
+      "shortId": "JHD1FD",
+      "name": "BEAST",
+      "role": "USER",
+      "level": 30
+    },
+    "message": "g4b wanna cf?",
+    "timestamp": "2026-05-18T07:29:05.196Z"
   }
 ]
