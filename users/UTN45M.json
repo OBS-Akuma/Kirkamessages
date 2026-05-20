@@ -22,5 +22,17 @@
     },
     "message": "/inv",
     "timestamp": "2026-05-14T14:53:21.425Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "676ed482-9b3a-43c9-b586-f5c46e9e4149",
+      "shortId": "UTN45M",
+      "name": "Azali",
+      "role": "USER",
+      "level": 9
+    },
+    "message": "#E7RHEE",
+    "timestamp": "2026-05-19T01:22:29.538Z"
   }
 ]
