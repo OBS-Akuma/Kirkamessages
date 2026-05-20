@@ -1198,5 +1198,593 @@
     },
     "message": "/hm blackhole",
     "timestamp": "2026-05-15T19:08:18.666Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "01ef2f91-db69-4306-9e76-d0d02ecbb058",
+      "shortId": "QHTFJV",
+      "name": "ImBroke*LOL*",
+      "role": "USER",
+      "level": 94
+    },
+    "message": "/enter",
+    "timestamp": "2026-05-16T05:27:11.514Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "01ef2f91-db69-4306-9e76-d0d02ecbb058",
+      "shortId": "QHTFJV",
+      "name": "ImBroke*LOL*",
+      "role": "USER",
+      "level": 94
+    },
+    "message": "/giveaway [Toy|MAC-10|WEAPON_SKIN|LEGENDARY]",
+    "timestamp": "2026-05-16T05:27:22.003Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "01ef2f91-db69-4306-9e76-d0d02ecbb058",
+      "shortId": "QHTFJV",
+      "name": "ImBroke*LOL*",
+      "role": "USER",
+      "level": 94
+    },
+    "message": "/giveaway [Toy|MAC-10|WEAPON_SKIN|LEGENDARY] 120",
+    "timestamp": "2026-05-16T05:27:26.421Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "01ef2f91-db69-4306-9e76-d0d02ecbb058",
+      "shortId": "QHTFJV",
+      "name": "ImBroke*LOL*",
+      "role": "USER",
+      "level": 94
+    },
+    "message": "/giveaway [Toy|MAC-10|WEAPON_SKIN|LEGENDARY] 10",
+    "timestamp": "2026-05-16T05:27:29.880Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "01ef2f91-db69-4306-9e76-d0d02ecbb058",
+      "shortId": "QHTFJV",
+      "name": "ImBroke*LOL*",
+      "role": "USER",
+      "level": 94
+    },
+    "message": "/enter",
+    "timestamp": "2026-05-16T05:27:53.327Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "01ef2f91-db69-4306-9e76-d0d02ecbb058",
+      "shortId": "QHTFJV",
+      "name": "ImBroke*LOL*",
+      "role": "USER",
+      "level": 94
+    },
+    "message": "ok",
+    "timestamp": "2026-05-16T05:28:03.972Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "01ef2f91-db69-4306-9e76-d0d02ecbb058",
+      "shortId": "QHTFJV",
+      "name": "ImBroke*LOL*",
+      "role": "USER",
+      "level": 94
+    },
+    "message": "crims",
+    "timestamp": "2026-05-16T05:28:12.821Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "01ef2f91-db69-4306-9e76-d0d02ecbb058",
+      "shortId": "QHTFJV",
+      "name": "ImBroke*LOL*",
+      "role": "USER",
+      "level": 94
+    },
+    "message": "i gt 20 [Crimson|Revolver|WEAPON_SKIN|COMMON]",
+    "timestamp": "2026-05-16T05:28:22.139Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "01ef2f91-db69-4306-9e76-d0d02ecbb058",
+      "shortId": "QHTFJV",
+      "name": "ImBroke*LOL*",
+      "role": "USER",
+      "level": 94
+    },
+    "message": "offer?",
+    "timestamp": "2026-05-16T05:28:26.036Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "01ef2f91-db69-4306-9e76-d0d02ecbb058",
+      "shortId": "QHTFJV",
+      "name": "ImBroke*LOL*",
+      "role": "USER",
+      "level": 94
+    },
+    "message": "um",
+    "timestamp": "2026-05-16T05:29:11.558Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "01ef2f91-db69-4306-9e76-d0d02ecbb058",
+      "shortId": "QHTFJV",
+      "name": "ImBroke*LOL*",
+      "role": "USER",
+      "level": 94
+    },
+    "message": "but then for 19",
+    "timestamp": "2026-05-16T05:29:16.558Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "01ef2f91-db69-4306-9e76-d0d02ecbb058",
+      "shortId": "QHTFJV",
+      "name": "ImBroke*LOL*",
+      "role": "USER",
+      "level": 94
+    },
+    "message": "and ok",
+    "timestamp": "2026-05-16T05:29:18.307Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "01ef2f91-db69-4306-9e76-d0d02ecbb058",
+      "shortId": "QHTFJV",
+      "name": "ImBroke*LOL*",
+      "role": "USER",
+      "level": 94
+    },
+    "message": "accept",
+    "timestamp": "2026-05-16T05:29:41.594Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "01ef2f91-db69-4306-9e76-d0d02ecbb058",
+      "shortId": "QHTFJV",
+      "name": "ImBroke*LOL*",
+      "role": "USER",
+      "level": 94
+    },
+    "message": "idk",
+    "timestamp": "2026-05-16T05:30:17.810Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "01ef2f91-db69-4306-9e76-d0d02ecbb058",
+      "shortId": "QHTFJV",
+      "name": "ImBroke*LOL*",
+      "role": "USER",
+      "level": 94
+    },
+    "message": "plz accpet",
+    "timestamp": "2026-05-16T05:30:25.043Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "01ef2f91-db69-4306-9e76-d0d02ecbb058",
+      "shortId": "QHTFJV",
+      "name": "ImBroke*LOL*",
+      "role": "USER",
+      "level": 94
+    },
+    "message": "no i just keep 1",
+    "timestamp": "2026-05-16T05:30:43.775Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "01ef2f91-db69-4306-9e76-d0d02ecbb058",
+      "shortId": "QHTFJV",
+      "name": "ImBroke*LOL*",
+      "role": "USER",
+      "level": 94
+    },
+    "message": "bruh accept",
+    "timestamp": "2026-05-16T05:30:50.761Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "01ef2f91-db69-4306-9e76-d0d02ecbb058",
+      "shortId": "QHTFJV",
+      "name": "ImBroke*LOL*",
+      "role": "USER",
+      "level": 94
+    },
+    "message": "ty",
+    "timestamp": "2026-05-16T05:31:06.330Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "01ef2f91-db69-4306-9e76-d0d02ecbb058",
+      "shortId": "QHTFJV",
+      "name": "ImBroke*LOL*",
+      "role": "USER",
+      "level": 94
+    },
+    "message": "/locate anon",
+    "timestamp": "2026-05-16T05:39:57.816Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "01ef2f91-db69-4306-9e76-d0d02ecbb058",
+      "shortId": "QHTFJV",
+      "name": "ImBroke*LOL*",
+      "role": "USER",
+      "level": 94
+    },
+    "message": "waves",
+    "timestamp": "2026-05-16T05:53:30.786Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "01ef2f91-db69-4306-9e76-d0d02ecbb058",
+      "shortId": "QHTFJV",
+      "name": "ImBroke*LOL*",
+      "role": "USER",
+      "level": 94
+    },
+    "message": "waveess",
+    "timestamp": "2026-05-16T05:53:33.013Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "01ef2f91-db69-4306-9e76-d0d02ecbb058",
+      "shortId": "QHTFJV",
+      "name": "ImBroke*LOL*",
+      "role": "USER",
+      "level": 94
+    },
+    "message": "what for twilight",
+    "timestamp": "2026-05-16T05:53:37.921Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "01ef2f91-db69-4306-9e76-d0d02ecbb058",
+      "shortId": "QHTFJV",
+      "name": "ImBroke*LOL*",
+      "role": "USER",
+      "level": 94
+    },
+    "message": "ill give u caapricorn,[Shroud||BODY_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-16T05:53:48.889Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "01ef2f91-db69-4306-9e76-d0d02ecbb058",
+      "shortId": "QHTFJV",
+      "name": "ImBroke*LOL*",
+      "role": "USER",
+      "level": 94
+    },
+    "message": "for it",
+    "timestamp": "2026-05-16T05:53:51.161Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "01ef2f91-db69-4306-9e76-d0d02ecbb058",
+      "shortId": "QHTFJV",
+      "name": "ImBroke*LOL*",
+      "role": "USER",
+      "level": 94
+    },
+    "message": "maxi",
+    "timestamp": "2026-05-16T05:54:47.976Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "01ef2f91-db69-4306-9e76-d0d02ecbb058",
+      "shortId": "QHTFJV",
+      "name": "ImBroke*LOL*",
+      "role": "USER",
+      "level": 94
+    },
+    "message": "all i got",
+    "timestamp": "2026-05-16T05:55:03.689Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "01ef2f91-db69-4306-9e76-d0d02ecbb058",
+      "shortId": "QHTFJV",
+      "name": "ImBroke*LOL*",
+      "role": "USER",
+      "level": 94
+    },
+    "message": "maximum ill add superjames",
+    "timestamp": "2026-05-16T05:55:27.080Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "01ef2f91-db69-4306-9e76-d0d02ecbb058",
+      "shortId": "QHTFJV",
+      "name": "ImBroke*LOL*",
+      "role": "USER",
+      "level": 94
+    },
+    "message": "waess",
+    "timestamp": "2026-05-16T05:55:34.744Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "01ef2f91-db69-4306-9e76-d0d02ecbb058",
+      "shortId": "QHTFJV",
+      "name": "ImBroke*LOL*",
+      "role": "USER",
+      "level": 94
+    },
+    "message": "accept",
+    "timestamp": "2026-05-16T05:55:48.118Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "01ef2f91-db69-4306-9e76-d0d02ecbb058",
+      "shortId": "QHTFJV",
+      "name": "ImBroke*LOL*",
+      "role": "USER",
+      "level": 94
+    },
+    "message": "ty",
+    "timestamp": "2026-05-16T05:56:23.002Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "01ef2f91-db69-4306-9e76-d0d02ecbb058",
+      "shortId": "QHTFJV",
+      "name": "ImBroke*LOL*",
+      "role": "USER",
+      "level": 94
+    },
+    "message": "/wager [Golden||CHEST|LEGENDARY]x10 #M7NVF2",
+    "timestamp": "2026-05-16T06:02:39.504Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "01ef2f91-db69-4306-9e76-d0d02ecbb058",
+      "shortId": "QHTFJV",
+      "name": "ImBroke*LOL*",
+      "role": "USER",
+      "level": 94
+    },
+    "message": "hi wizard",
+    "timestamp": "2026-05-16T06:03:12.041Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "01ef2f91-db69-4306-9e76-d0d02ecbb058",
+      "shortId": "QHTFJV",
+      "name": "ImBroke*LOL*",
+      "role": "USER",
+      "level": 94
+    },
+    "message": "/wager [Golden||CHEST|LEGENDARY]x20 #M7NVF2",
+    "timestamp": "2026-05-16T06:03:42.374Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "01ef2f91-db69-4306-9e76-d0d02ecbb058",
+      "shortId": "QHTFJV",
+      "name": "ImBroke*LOL*",
+      "role": "USER",
+      "level": 94
+    },
+    "message": "/claim",
+    "timestamp": "2026-05-16T06:04:09.148Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "01ef2f91-db69-4306-9e76-d0d02ecbb058",
+      "shortId": "QHTFJV",
+      "name": "ImBroke*LOL*",
+      "role": "USER",
+      "level": 94
+    },
+    "message": "trade accept 74399",
+    "timestamp": "2026-05-16T06:04:21.088Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "01ef2f91-db69-4306-9e76-d0d02ecbb058",
+      "shortId": "QHTFJV",
+      "name": "ImBroke*LOL*",
+      "role": "USER",
+      "level": 94
+    },
+    "message": "lf [astral",
+    "timestamp": "2026-05-16T06:05:02.923Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "01ef2f91-db69-4306-9e76-d0d02ecbb058",
+      "shortId": "QHTFJV",
+      "name": "ImBroke*LOL*",
+      "role": "USER",
+      "level": 94
+    },
+    "message": "lf [Astral|AR-9|WEAPON_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-16T06:05:04.937Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "01ef2f91-db69-4306-9e76-d0d02ecbb058",
+      "shortId": "QHTFJV",
+      "name": "ImBroke*LOL*",
+      "role": "USER",
+      "level": 94
+    },
+    "message": "lf [Astral|AR-9|WEAPON_SKIN|MYTHICAL] tr [Shroud||BODY_SKIN|MYTHICAL],[Superjames||BODY_SKIN|MYTHICAL],[Moonlight|MAC-10|WEAPON_SKIN|MYTHICAL]x2[Hellizabeth||BODY_SKIN|MYTHICAL][alighten][Vivid|VITA|WEAPON_SKIN|LEGENDARY]",
+    "timestamp": "2026-05-16T06:07:03.636Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "01ef2f91-db69-4306-9e76-d0d02ecbb058",
+      "shortId": "QHTFJV",
+      "name": "ImBroke*LOL*",
+      "role": "USER",
+      "level": 94
+    },
+    "message": "lf [Astral|AR-9|WEAPON_SKIN|MYTHICAL] tr [Shroud||BODY_SKIN|MYTHICAL],[Superjames||BODY_SKIN|MYTHICAL],[Moonlight|MAC-10|WEAPON_SKIN|MYTHICAL]x2[Hellizabeth||BODY_SKIN|MYTHICAL][alighten][vivid",
+    "timestamp": "2026-05-16T06:07:19.547Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "01ef2f91-db69-4306-9e76-d0d02ecbb058",
+      "shortId": "QHTFJV",
+      "name": "ImBroke*LOL*",
+      "role": "USER",
+      "level": 94
+    },
+    "message": "lf [Astral|AR-9|WEAPON_SKIN|MYTHICAL] tr [Shroud||BODY_SKIN|MYTHICAL],[Superjames||BODY_SKIN|MYTHICAL],[Moonlight|MAC-10|WEAPON_SKIN|MYTHICAL]x2[Hellizabeth||BODY_SKIN|MYTHICAL][alighten][vivi",
+    "timestamp": "2026-05-16T06:07:21.853Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "01ef2f91-db69-4306-9e76-d0d02ecbb058",
+      "shortId": "QHTFJV",
+      "name": "ImBroke*LOL*",
+      "role": "USER",
+      "level": 94
+    },
+    "message": "lf [Astral|AR-9|WEAPON_SKIN|MYTHICAL] tr [Shroud||BODY_SKIN|MYTHICAL],[Superjames||BODY_SKIN|MYTHICAL],[Moonlight|MAC-10|WEAPON_SKIN|MYTHICAL]x2[Hellizabeth||BODY_SKIN|MYTHICAL][alighten][viv",
+    "timestamp": "2026-05-16T06:07:23.492Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "01ef2f91-db69-4306-9e76-d0d02ecbb058",
+      "shortId": "QHTFJV",
+      "name": "ImBroke*LOL*",
+      "role": "USER",
+      "level": 94
+    },
+    "message": "zatra",
+    "timestamp": "2026-05-16T06:08:01.688Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "01ef2f91-db69-4306-9e76-d0d02ecbb058",
+      "shortId": "QHTFJV",
+      "name": "ImBroke*LOL*",
+      "role": "USER",
+      "level": 94
+    },
+    "message": "oblivion for anon",
+    "timestamp": "2026-05-16T06:08:12.128Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "01ef2f91-db69-4306-9e76-d0d02ecbb058",
+      "shortId": "QHTFJV",
+      "name": "ImBroke*LOL*",
+      "role": "USER",
+      "level": 94
+    },
+    "message": "lmao",
+    "timestamp": "2026-05-16T06:08:32.404Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "01ef2f91-db69-4306-9e76-d0d02ecbb058",
+      "shortId": "QHTFJV",
+      "name": "ImBroke*LOL*",
+      "role": "USER",
+      "level": 94
+    },
+    "message": "no",
+    "timestamp": "2026-05-16T06:08:37.328Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "01ef2f91-db69-4306-9e76-d0d02ecbb058",
+      "shortId": "QHTFJV",
+      "name": "ImBroke*LOL*",
+      "role": "USER",
+      "level": 94
+    },
+    "message": "novs",
+    "timestamp": "2026-05-16T06:08:49.917Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "01ef2f91-db69-4306-9e76-d0d02ecbb058",
+      "shortId": "QHTFJV",
+      "name": "ImBroke*LOL*",
+      "role": "USER",
+      "level": 94
+    },
+    "message": "wht for chroma",
+    "timestamp": "2026-05-16T06:08:53.930Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "01ef2f91-db69-4306-9e76-d0d02ecbb058",
+      "shortId": "QHTFJV",
+      "name": "ImBroke*LOL*",
+      "role": "USER",
+      "level": 94
+    },
+    "message": "/hm vintage",
+    "timestamp": "2026-05-16T06:09:00.975Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "01ef2f91-db69-4306-9e76-d0d02ecbb058",
+      "shortId": "QHTFJV",
+      "name": "ImBroke*LOL*",
+      "role": "USER",
+      "level": 94
+    },
+    "message": "um",
+    "timestamp": "2026-05-16T06:09:20.763Z"
   }
 ]
