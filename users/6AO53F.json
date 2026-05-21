@@ -3130,5 +3130,77 @@
     },
     "message": "SAINT NO 1 WILL GIVE U THIS",
     "timestamp": "2026-05-18T06:53:15.895Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "ef0d085e-2d3f-43af-954e-6b579cafd5d5",
+      "shortId": "6AO53F",
+      "name": "OPTIMUS",
+      "role": "USER",
+      "level": 100
+    },
+    "message": "/locate [Stingray|Tomahawk|WEAPON_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-21T03:42:26.961Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "ef0d085e-2d3f-43af-954e-6b579cafd5d5",
+      "shortId": "6AO53F",
+      "name": "OPTIMUS",
+      "role": "USER",
+      "level": 100
+    },
+    "message": "hisoka",
+    "timestamp": "2026-05-21T03:52:51.076Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "ef0d085e-2d3f-43af-954e-6b579cafd5d5",
+      "shortId": "6AO53F",
+      "name": "OPTIMUS",
+      "role": "USER",
+      "level": 100
+    },
+    "message": "id listener human?",
+    "timestamp": "2026-05-21T03:52:56.488Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "ef0d085e-2d3f-43af-954e-6b579cafd5d5",
+      "shortId": "6AO53F",
+      "name": "OPTIMUS",
+      "role": "USER",
+      "level": 100
+    },
+    "message": "is?",
+    "timestamp": "2026-05-21T03:53:00.880Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "ef0d085e-2d3f-43af-954e-6b579cafd5d5",
+      "shortId": "6AO53F",
+      "name": "OPTIMUS",
+      "role": "USER",
+      "level": 100
+    },
+    "message": "navy",
+    "timestamp": "2026-05-21T04:55:31.841Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "ef0d085e-2d3f-43af-954e-6b579cafd5d5",
+      "shortId": "6AO53F",
+      "name": "OPTIMUS",
+      "role": "USER",
+      "level": 100
+    },
+    "message": "[Golden||CHEST|LEGENDARY]x20k for [Ranked_S2 Top100|Bayonet|WEAPON_SKIN|MYTHICAL]?",
+    "timestamp": "2026-05-21T04:55:40.873Z"
   }
 ]
