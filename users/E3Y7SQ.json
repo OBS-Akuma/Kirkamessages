@@ -46,5 +46,29 @@
     },
     "message": "see in shop iseel uranium 3500000",
     "timestamp": "2026-05-11T05:57:24.724Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "WkeUmBVtX2dpwa0aReJnYUd258z1",
+      "shortId": "E3Y7SQ",
+      "name": "Benyqt",
+      "role": "USER",
+      "level": 64
+    },
+    "message": "/hm void",
+    "timestamp": "2026-05-19T10:17:21.117Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "WkeUmBVtX2dpwa0aReJnYUd258z1",
+      "shortId": "E3Y7SQ",
+      "name": "Benyqt",
+      "role": "USER",
+      "level": 64
+    },
+    "message": "/hm blast",
+    "timestamp": "2026-05-19T10:18:03.872Z"
   }
 ]
