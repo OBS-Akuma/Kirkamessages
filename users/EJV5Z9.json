@@ -970,5 +970,113 @@
     },
     "message": "/price [Chocolate||BODY_SKIN|LEGENDARY]",
     "timestamp": "2026-05-15T19:34:19.114Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "941e8007-d173-4d61-a5fe-959f990ab350",
+      "shortId": "EJV5Z9",
+      "name": "OOgway",
+      "role": "USER",
+      "level": 100
+    },
+    "message": "/locate [Stingray|Tomahawk|WEAPON_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-21T12:03:37.580Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "941e8007-d173-4d61-a5fe-959f990ab350",
+      "shortId": "EJV5Z9",
+      "name": "OOgway",
+      "role": "USER",
+      "level": 100
+    },
+    "message": "lf [Blackhole|Bayonet|WEAPON_SKIN|PARANORMAL]",
+    "timestamp": "2026-05-21T13:58:05.323Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "941e8007-d173-4d61-a5fe-959f990ab350",
+      "shortId": "EJV5Z9",
+      "name": "OOgway",
+      "role": "USER",
+      "level": 100
+    },
+    "message": "[delicat]",
+    "timestamp": "2026-05-21T13:59:50.460Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "941e8007-d173-4d61-a5fe-959f990ab350",
+      "shortId": "EJV5Z9",
+      "name": "OOgway",
+      "role": "USER",
+      "level": 100
+    },
+    "message": "[Delicate|M60|WEAPON_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-21T14:00:08.896Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "941e8007-d173-4d61-a5fe-959f990ab350",
+      "shortId": "EJV5Z9",
+      "name": "OOgway",
+      "role": "USER",
+      "level": 100
+    },
+    "message": "#WERWER",
+    "timestamp": "2026-05-21T14:30:32.749Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "941e8007-d173-4d61-a5fe-959f990ab350",
+      "shortId": "EJV5Z9",
+      "name": "OOgway",
+      "role": "USER",
+      "level": 100
+    },
+    "message": "#T8LNH0 hm u at now ?",
+    "timestamp": "2026-05-21T17:10:20.926Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "941e8007-d173-4d61-a5fe-959f990ab350",
+      "shortId": "EJV5Z9",
+      "name": "OOgway",
+      "role": "USER",
+      "level": 100
+    },
+    "message": "nice",
+    "timestamp": "2026-05-21T17:11:01.395Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "941e8007-d173-4d61-a5fe-959f990ab350",
+      "shortId": "EJV5Z9",
+      "name": "OOgway",
+      "role": "USER",
+      "level": 100
+    },
+    "message": "i can add",
+    "timestamp": "2026-05-21T20:29:52.698Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "941e8007-d173-4d61-a5fe-959f990ab350",
+      "shortId": "EJV5Z9",
+      "name": "OOgway",
+      "role": "USER",
+      "level": 100
+    },
+    "message": "ty",
+    "timestamp": "2026-05-21T20:30:17.229Z"
   }
 ]
