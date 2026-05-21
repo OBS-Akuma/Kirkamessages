@@ -310,5 +310,17 @@
     },
     "message": "Cyberpunk",
     "timestamp": "2026-05-16T04:40:13.485Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "41362a1c-a321-470e-96aa-3d309f6e40f8",
+      "shortId": "NYXXHP",
+      "name": "Sharprness",
+      "role": "USER",
+      "level": 12
+    },
+    "message": "hi",
+    "timestamp": "2026-05-18T09:45:03.134Z"
   }
 ]
