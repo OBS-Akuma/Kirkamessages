@@ -1966,5 +1966,101 @@
     },
     "message": "/inv #TE7ZAB",
     "timestamp": "2026-05-15T02:41:06.318Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "e53ac14c-dc7d-421c-8abd-fe7b9e185688",
+      "shortId": "I7SCOX",
+      "name": "cocoa_koala",
+      "role": "USER",
+      "level": 82
+    },
+    "message": "hm for dama",
+    "timestamp": "2026-05-18T06:19:42.064Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "e53ac14c-dc7d-421c-8abd-fe7b9e185688",
+      "shortId": "I7SCOX",
+      "name": "cocoa_koala",
+      "role": "USER",
+      "level": 82
+    },
+    "message": "/inv #KATANA",
+    "timestamp": "2026-05-18T06:29:11.393Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "e53ac14c-dc7d-421c-8abd-fe7b9e185688",
+      "shortId": "I7SCOX",
+      "name": "cocoa_koala",
+      "role": "USER",
+      "level": 82
+    },
+    "message": "/hm kraken",
+    "timestamp": "2026-05-18T06:37:28.366Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "e53ac14c-dc7d-421c-8abd-fe7b9e185688",
+      "shortId": "I7SCOX",
+      "name": "cocoa_koala",
+      "role": "USER",
+      "level": 82
+    },
+    "message": "/price kraken",
+    "timestamp": "2026-05-18T06:37:36.652Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "e53ac14c-dc7d-421c-8abd-fe7b9e185688",
+      "shortId": "I7SCOX",
+      "name": "cocoa_koala",
+      "role": "USER",
+      "level": 82
+    },
+    "message": "/price blast revolver",
+    "timestamp": "2026-05-18T06:38:39.234Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "e53ac14c-dc7d-421c-8abd-fe7b9e185688",
+      "shortId": "I7SCOX",
+      "name": "cocoa_koala",
+      "role": "USER",
+      "level": 83
+    },
+    "message": "/locate stingray",
+    "timestamp": "2026-05-21T04:10:54.787Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "e53ac14c-dc7d-421c-8abd-fe7b9e185688",
+      "shortId": "I7SCOX",
+      "name": "cocoa_koala",
+      "role": "USER",
+      "level": 83
+    },
+    "message": "/enter",
+    "timestamp": "2026-05-21T04:11:00.724Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "e53ac14c-dc7d-421c-8abd-fe7b9e185688",
+      "shortId": "I7SCOX",
+      "name": "cocoa_koala",
+      "role": "USER",
+      "level": 83
+    },
+    "message": "/claim",
+    "timestamp": "2026-05-21T04:11:05.348Z"
   }
 ]
