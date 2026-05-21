@@ -46,5 +46,29 @@
     },
     "message": "/price capicorn",
     "timestamp": "2026-05-15T06:09:20.801Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "PzkylprTgrbuGxbvDsEUtmHFoBz1",
+      "shortId": "1WCTBY",
+      "name": "ghjabgvkfbsvjk",
+      "role": "USER",
+      "level": 87
+    },
+    "message": "[day night]",
+    "timestamp": "2026-05-20T12:03:02.712Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "PzkylprTgrbuGxbvDsEUtmHFoBz1",
+      "shortId": "1WCTBY",
+      "name": "ghjabgvkfbsvjk",
+      "role": "USER",
+      "level": 87
+    },
+    "message": "/inv",
+    "timestamp": "2026-05-20T12:03:13.101Z"
   }
 ]
