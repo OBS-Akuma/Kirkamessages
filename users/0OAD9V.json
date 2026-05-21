@@ -226,5 +226,17 @@
     },
     "message": "/price [Murdered|Revolver|WEAPON_SKIN|LEGENDARY]",
     "timestamp": "2026-05-16T07:20:51.303Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "DYsgXjJEuVMHOqSkIgVcKxxN79r2",
+      "shortId": "0OAD9V",
+      "name": ".AIM",
+      "role": "USER",
+      "level": 51
+    },
+    "message": "I HAVE [Forbidden|AR-9|WEAPON_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-21T12:11:22.112Z"
   }
 ]
