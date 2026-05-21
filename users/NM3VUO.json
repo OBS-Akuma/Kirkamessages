@@ -3082,5 +3082,29 @@
     },
     "message": "selling uranium and turtle for 3mil in market and blast bayonet for 2mil",
     "timestamp": "2026-05-16T12:51:36.847Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "1a4fb7ab-45cd-449b-858f-14a509ff9ecb",
+      "shortId": "NM3VUO",
+      "name": "1x1x1x1",
+      "role": "USER",
+      "level": 69
+    },
+    "message": "#1AYAXI",
+    "timestamp": "2026-05-21T05:10:34.054Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "1a4fb7ab-45cd-449b-858f-14a509ff9ecb",
+      "shortId": "NM3VUO",
+      "name": "1x1x1x1",
+      "role": "USER",
+      "level": 69
+    },
+    "message": "hai kota",
+    "timestamp": "2026-05-21T05:10:47.956Z"
   }
 ]
