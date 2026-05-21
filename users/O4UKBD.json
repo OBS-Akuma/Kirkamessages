@@ -70,5 +70,41 @@
     },
     "message": "/hm r32",
     "timestamp": "2026-05-18T10:02:23.237Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "5722faaa-957b-42e3-ae7c-80d2358c01b7",
+      "shortId": "O4UKBD",
+      "name": "NICKNAME",
+      "role": "USER",
+      "level": 99
+    },
+    "message": "/inv",
+    "timestamp": "2026-05-19T10:30:15.242Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "5722faaa-957b-42e3-ae7c-80d2358c01b7",
+      "shortId": "O4UKBD",
+      "name": "NICKNAME",
+      "role": "USER",
+      "level": 99
+    },
+    "message": "/locate rampage",
+    "timestamp": "2026-05-19T10:31:32.513Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "5722faaa-957b-42e3-ae7c-80d2358c01b7",
+      "shortId": "O4UKBD",
+      "name": "NICKNAME",
+      "role": "USER",
+      "level": 99
+    },
+    "message": "/hm monarch",
+    "timestamp": "2026-05-20T11:33:59.811Z"
   }
 ]
