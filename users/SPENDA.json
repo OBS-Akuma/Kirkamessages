@@ -1342,5 +1342,17 @@
     },
     "message": "[Team Red|Revolver|WEAPON_SKIN|MYTHICAL]",
     "timestamp": "2026-05-16T06:06:29.584Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "620dab01-f658-4dfd-90ff-a07442ac3566",
+      "shortId": "SPENDA",
+      "name": "Find",
+      "role": "USER",
+      "level": 100
+    },
+    "message": "[Kraken|Shark|WEAPON_SKIN|LEGENDARY]",
+    "timestamp": "2026-05-16T15:35:55.554Z"
   }
 ]
