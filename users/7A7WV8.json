@@ -70,5 +70,77 @@
     },
     "message": "/claim",
     "timestamp": "2026-05-08T09:20:33.907Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "e15467c6-5a4e-4bb2-8e42-cc670db399df",
+      "shortId": "7A7WV8",
+      "name": "Nebula",
+      "role": "USER",
+      "level": 98
+    },
+    "message": "/hm bloom",
+    "timestamp": "2026-05-21T11:58:10.303Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "e15467c6-5a4e-4bb2-8e42-cc670db399df",
+      "shortId": "7A7WV8",
+      "name": "Nebula",
+      "role": "USER",
+      "level": 98
+    },
+    "message": "/hm 2025",
+    "timestamp": "2026-05-21T11:58:55.983Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "e15467c6-5a4e-4bb2-8e42-cc670db399df",
+      "shortId": "7A7WV8",
+      "name": "Nebula",
+      "role": "USER",
+      "level": 98
+    },
+    "message": "/hm ghillie",
+    "timestamp": "2026-05-21T11:59:08.907Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "e15467c6-5a4e-4bb2-8e42-cc670db399df",
+      "shortId": "7A7WV8",
+      "name": "Nebula",
+      "role": "USER",
+      "level": 98
+    },
+    "message": "?",
+    "timestamp": "2026-05-21T11:59:14.322Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "e15467c6-5a4e-4bb2-8e42-cc670db399df",
+      "shortId": "7A7WV8",
+      "name": "Nebula",
+      "role": "USER",
+      "level": 98
+    },
+    "message": "nah i dont have qwerty",
+    "timestamp": "2026-05-21T11:59:37.016Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "e15467c6-5a4e-4bb2-8e42-cc670db399df",
+      "shortId": "7A7WV8",
+      "name": "Nebula",
+      "role": "USER",
+      "level": 98
+    },
+    "message": "lol hm is it?",
+    "timestamp": "2026-05-21T11:59:48.567Z"
   }
 ]
