@@ -1,0 +1,26 @@
+[
+  {
+    "type": 2,
+    "user": {
+      "id": "guest-64f0445b-53b8-498c-8418-6b1d8be9763e",
+      "shortId": "DAH9O2",
+      "name": "Ephemeral",
+      "role": "USER",
+      "level": 7
+    },
+    "message": "I have a lot more chests to offer this time around",
+    "timestamp": "2026-05-21T04:01:26.325Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "guest-64f0445b-53b8-498c-8418-6b1d8be9763e",
+      "shortId": "DAH9O2",
+      "name": "Ephemeral",
+      "role": "USER",
+      "level": 7
+    },
+    "message": "gg",
+    "timestamp": "2026-05-21T04:01:42.775Z"
+  }
+]
