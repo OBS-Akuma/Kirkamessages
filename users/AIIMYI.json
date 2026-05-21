@@ -2530,5 +2530,77 @@
     },
     "message": "/hm [Majestic|Shark|WEAPON_SKIN|MYTHICAL]",
     "timestamp": "2026-05-19T19:50:11.281Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "5c75b2d7-9364-4cdf-8a05-4f98b9d990f5",
+      "shortId": "AIIMYI",
+      "name": "xyds",
+      "role": "USER",
+      "level": 92
+    },
+    "message": "/giveaway",
+    "timestamp": "2026-05-21T03:51:15.684Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "5c75b2d7-9364-4cdf-8a05-4f98b9d990f5",
+      "shortId": "AIIMYI",
+      "name": "xyds",
+      "role": "USER",
+      "level": 92
+    },
+    "message": "/enter",
+    "timestamp": "2026-05-21T03:51:22.095Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "5c75b2d7-9364-4cdf-8a05-4f98b9d990f5",
+      "shortId": "AIIMYI",
+      "name": "xyds",
+      "role": "USER",
+      "level": 92
+    },
+    "message": "/fav average",
+    "timestamp": "2026-05-21T04:07:50.876Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "5c75b2d7-9364-4cdf-8a05-4f98b9d990f5",
+      "shortId": "AIIMYI",
+      "name": "xyds",
+      "role": "USER",
+      "level": 92
+    },
+    "message": "/enter",
+    "timestamp": "2026-05-21T07:49:38.333Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "5c75b2d7-9364-4cdf-8a05-4f98b9d990f5",
+      "shortId": "AIIMYI",
+      "name": "xyds",
+      "role": "USER",
+      "level": 92
+    },
+    "message": "/fav bolt",
+    "timestamp": "2026-05-21T08:03:23.721Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "5c75b2d7-9364-4cdf-8a05-4f98b9d990f5",
+      "shortId": "AIIMYI",
+      "name": "xyds",
+      "role": "USER",
+      "level": 92
+    },
+    "message": "/giveaway",
+    "timestamp": "2026-05-21T08:03:44.740Z"
   }
 ]
