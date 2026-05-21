@@ -934,5 +934,17 @@
     },
     "message": "it's over legendery sale will be coming soon",
     "timestamp": "2026-05-16T11:41:52.468Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "9de2c138-dc83-422d-a2f5-11fd066353d9",
+      "shortId": "I5TP5W",
+      "name": "FAMboi",
+      "role": "USER",
+      "level": 74
+    },
+    "message": "[Forbidden|AR-9|WEAPON_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-21T14:25:51.937Z"
   }
 ]
