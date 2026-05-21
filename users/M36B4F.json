@@ -694,5 +694,41 @@
     },
     "message": "hm...",
     "timestamp": "2026-05-15T13:34:47.920Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "be5dd652-8c23-47ff-b575-5c4965aeb608",
+      "shortId": "M36B4F",
+      "name": "PieMan",
+      "role": "USER",
+      "level": 40
+    },
+    "message": "/claim",
+    "timestamp": "2026-05-21T13:13:27.650Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "be5dd652-8c23-47ff-b575-5c4965aeb608",
+      "shortId": "M36B4F",
+      "name": "PieMan",
+      "role": "USER",
+      "level": 40
+    },
+    "message": "kk",
+    "timestamp": "2026-05-21T13:13:29.880Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "be5dd652-8c23-47ff-b575-5c4965aeb608",
+      "shortId": "M36B4F",
+      "name": "PieMan",
+      "role": "USER",
+      "level": 40
+    },
+    "message": "cheese",
+    "timestamp": "2026-05-21T13:13:33.789Z"
   }
 ]
