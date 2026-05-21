@@ -274,5 +274,41 @@
     },
     "message": "bro navy accepted this trade ( last chance",
     "timestamp": "2026-05-20T11:50:01.903Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "guest-25f50b04-d62e-46c6-a403-686dce3f7ddc",
+      "shortId": "8ML2RX",
+      "name": "/-XxXxX-/",
+      "role": "USER",
+      "level": 26
+    },
+    "message": "/price ttv",
+    "timestamp": "2026-05-21T08:19:54.568Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "guest-25f50b04-d62e-46c6-a403-686dce3f7ddc",
+      "shortId": "8ML2RX",
+      "name": "/-XxXxX-/",
+      "role": "USER",
+      "level": 26
+    },
+    "message": "/price retro",
+    "timestamp": "2026-05-21T08:20:11.915Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "guest-25f50b04-d62e-46c6-a403-686dce3f7ddc",
+      "shortId": "8ML2RX",
+      "name": "/-XxXxX-/",
+      "role": "USER",
+      "level": 26
+    },
+    "message": "...",
+    "timestamp": "2026-05-21T08:20:17.020Z"
   }
 ]
