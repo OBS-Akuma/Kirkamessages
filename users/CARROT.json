@@ -730,5 +730,65 @@
     },
     "message": "#ER8T3I",
     "timestamp": "2026-05-16T14:08:00.749Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "b1beaf45-5b0f-40e2-81dc-a34f8a974395",
+      "shortId": "CARROT",
+      "name": "BMW|RpG",
+      "role": "USER",
+      "level": 101
+    },
+    "message": "/inv",
+    "timestamp": "2026-05-18T10:21:48.776Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "b1beaf45-5b0f-40e2-81dc-a34f8a974395",
+      "shortId": "CARROT",
+      "name": "BMW|RpG",
+      "role": "USER",
+      "level": 101
+    },
+    "message": "such bad trade astatine for slay",
+    "timestamp": "2026-05-18T10:30:48.199Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "b1beaf45-5b0f-40e2-81dc-a34f8a974395",
+      "shortId": "CARROT",
+      "name": "BMW|RpG",
+      "role": "USER",
+      "level": 101
+    },
+    "message": "slay have better demand,thats first",
+    "timestamp": "2026-05-18T10:30:54.596Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "b1beaf45-5b0f-40e2-81dc-a34f8a974395",
+      "shortId": "CARROT",
+      "name": "BMW|RpG",
+      "role": "USER",
+      "level": 101
+    },
+    "message": "second the price..",
+    "timestamp": "2026-05-18T10:31:00.897Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "b1beaf45-5b0f-40e2-81dc-a34f8a974395",
+      "shortId": "CARROT",
+      "name": "BMW|RpG",
+      "role": "USER",
+      "level": 101
+    },
+    "message": "/hm astatine",
+    "timestamp": "2026-05-18T10:31:11.883Z"
   }
 ]
