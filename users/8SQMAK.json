@@ -2302,5 +2302,29 @@
     },
     "message": "i have coins",
     "timestamp": "2026-05-18T07:01:19.959Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "e7ca017c-557f-4b21-96eb-3ec2a9a728ab",
+      "shortId": "8SQMAK",
+      "name": "Eri.",
+      "role": "USER",
+      "level": 59
+    },
+    "message": "buy ghillie",
+    "timestamp": "2026-05-19T10:27:06.499Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "e7ca017c-557f-4b21-96eb-3ec2a9a728ab",
+      "shortId": "8SQMAK",
+      "name": "Eri.",
+      "role": "USER",
+      "level": 59
+    },
+    "message": "/hm ghillie",
+    "timestamp": "2026-05-19T10:28:49.110Z"
   }
 ]
