@@ -118,5 +118,17 @@
     },
     "message": "/hm sweater",
     "timestamp": "2026-05-16T20:56:34.889Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "d8500695-a5ac-4376-bd3f-8fcd45d5c0c3",
+      "shortId": "FIIBNC",
+      "name": "Stray",
+      "role": "USER",
+      "level": 20
+    },
+    "message": "#1BY7KM hm scarey",
+    "timestamp": "2026-05-16T21:29:05.501Z"
   }
 ]
