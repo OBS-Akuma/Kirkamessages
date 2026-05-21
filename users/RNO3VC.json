@@ -2266,5 +2266,17 @@
     },
     "message": "/inv",
     "timestamp": "2026-05-12T03:15:44.932Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "b46ee2b9-9e65-447f-bf6e-1c26658969bb",
+      "shortId": "RNO3VC",
+      "name": "TankX",
+      "role": "USER",
+      "level": 100
+    },
+    "message": "/inv #TL5WF3",
+    "timestamp": "2026-05-18T10:42:11.088Z"
   }
 ]
