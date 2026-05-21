@@ -178,5 +178,125 @@
     },
     "message": "/hm [Marage||BODY_SKIN|MYTHICAL]",
     "timestamp": "2026-05-12T13:49:55.658Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "47bc2863-0453-43dd-82cc-016ae19e3639",
+      "shortId": "LS9RWN",
+      "name": "ELION",
+      "role": "USER",
+      "level": 34
+    },
+    "message": "/wager [Golden||CHEST|LEGENDARY] #BG4WQX",
+    "timestamp": "2026-05-15T13:41:16.282Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "47bc2863-0453-43dd-82cc-016ae19e3639",
+      "shortId": "LS9RWN",
+      "name": "ELION",
+      "role": "USER",
+      "level": 34
+    },
+    "message": "/claim",
+    "timestamp": "2026-05-15T13:42:04.228Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "47bc2863-0453-43dd-82cc-016ae19e3639",
+      "shortId": "LS9RWN",
+      "name": "ELION",
+      "role": "USER",
+      "level": 34
+    },
+    "message": "/wager [Golden||CHEST|LEGENDARY] #BG4WQX",
+    "timestamp": "2026-05-15T13:42:50.596Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "47bc2863-0453-43dd-82cc-016ae19e3639",
+      "shortId": "LS9RWN",
+      "name": "ELION",
+      "role": "USER",
+      "level": 34
+    },
+    "message": "/confirmwager",
+    "timestamp": "2026-05-15T13:44:36.360Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "47bc2863-0453-43dd-82cc-016ae19e3639",
+      "shortId": "LS9RWN",
+      "name": "ELION",
+      "role": "USER",
+      "level": 34
+    },
+    "message": "/claim",
+    "timestamp": "2026-05-15T13:45:14.975Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "47bc2863-0453-43dd-82cc-016ae19e3639",
+      "shortId": "LS9RWN",
+      "name": "ELION",
+      "role": "USER",
+      "level": 34
+    },
+    "message": "/wager [Golden||CHEST|LEGENDARY] #BG4WQX",
+    "timestamp": "2026-05-15T13:46:20.859Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "47bc2863-0453-43dd-82cc-016ae19e3639",
+      "shortId": "LS9RWN",
+      "name": "ELION",
+      "role": "USER",
+      "level": 34
+    },
+    "message": "wager[Bansee|VITA|WEAPON_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-15T13:47:46.250Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "47bc2863-0453-43dd-82cc-016ae19e3639",
+      "shortId": "LS9RWN",
+      "name": "ELION",
+      "role": "USER",
+      "level": 34
+    },
+    "message": "/wager [Warlord||BODY_SKIN|MYTHICAL] #609GEM",
+    "timestamp": "2026-05-16T15:06:33.720Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "47bc2863-0453-43dd-82cc-016ae19e3639",
+      "shortId": "LS9RWN",
+      "name": "ELION",
+      "role": "USER",
+      "level": 34
+    },
+    "message": "/claim",
+    "timestamp": "2026-05-16T15:07:40.965Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "47bc2863-0453-43dd-82cc-016ae19e3639",
+      "shortId": "LS9RWN",
+      "name": "ELION",
+      "role": "USER",
+      "level": 34
+    },
+    "message": "سأضربك.",
+    "timestamp": "2026-05-16T15:09:46.448Z"
   }
 ]
