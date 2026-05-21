@@ -1,0 +1,38 @@
+[
+  {
+    "type": 2,
+    "user": {
+      "id": "guest-a1047400-f8ef-4565-95fb-4c7537762d83",
+      "shortId": "7CIG7Z",
+      "name": "kettu_007",
+      "role": "USER",
+      "level": 14
+    },
+    "message": "[Hazmat||BODY_SKIN|PARANORMAL]",
+    "timestamp": "2026-05-21T08:51:19.252Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "guest-a1047400-f8ef-4565-95fb-4c7537762d83",
+      "shortId": "7CIG7Z",
+      "name": "kettu_007",
+      "role": "USER",
+      "level": 14
+    },
+    "message": "[OSE]",
+    "timestamp": "2026-05-21T08:52:12.277Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "guest-a1047400-f8ef-4565-95fb-4c7537762d83",
+      "shortId": "7CIG7Z",
+      "name": "kettu_007",
+      "role": "USER",
+      "level": 14
+    },
+    "message": "[Rose||BODY_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-21T08:52:21.418Z"
+  }
+]
