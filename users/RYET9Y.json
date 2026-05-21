@@ -1,0 +1,50 @@
+[
+  {
+    "type": 2,
+    "user": {
+      "id": "19a55bee-9239-4dd6-bda4-7a6bd986879c",
+      "shortId": "RYET9Y",
+      "name": "BloDo",
+      "role": "USER",
+      "level": 78
+    },
+    "message": "/price [Pastel||BODY_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-21T03:49:33.087Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "19a55bee-9239-4dd6-bda4-7a6bd986879c",
+      "shortId": "RYET9Y",
+      "name": "BloDo",
+      "role": "USER",
+      "level": 78
+    },
+    "message": "/price [ghille]",
+    "timestamp": "2026-05-21T03:50:42.410Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "19a55bee-9239-4dd6-bda4-7a6bd986879c",
+      "shortId": "RYET9Y",
+      "name": "BloDo",
+      "role": "USER",
+      "level": 78
+    },
+    "message": "/price [ghillie\\",
+    "timestamp": "2026-05-21T03:50:48.543Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "19a55bee-9239-4dd6-bda4-7a6bd986879c",
+      "shortId": "RYET9Y",
+      "name": "BloDo",
+      "role": "USER",
+      "level": 78
+    },
+    "message": "/price [Ghillie||BODY_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-21T03:50:52.537Z"
+  }
+]
