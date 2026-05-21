@@ -1,0 +1,26 @@
+[
+  {
+    "type": 2,
+    "user": {
+      "id": "guest-52a3f4e3-b068-437b-8e1a-d26d245f8e88",
+      "shortId": "4CRRZS",
+      "name": "Ephemeral",
+      "role": "USER",
+      "level": 6
+    },
+    "message": "free stuff, take it",
+    "timestamp": "2026-05-21T14:00:29.961Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "guest-52a3f4e3-b068-437b-8e1a-d26d245f8e88",
+      "shortId": "4CRRZS",
+      "name": "Ephemeral",
+      "role": "USER",
+      "level": 6
+    },
+    "message": "gg",
+    "timestamp": "2026-05-21T14:01:02.644Z"
+  }
+]
