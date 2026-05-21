@@ -910,5 +910,41 @@
     },
     "message": "/last10 [Wicked|VITA|WEAPON_SKIN|MYTHICAL]",
     "timestamp": "2026-05-16T15:08:55.705Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "6e96cbad-888e-4efd-bd88-73b43c669daf",
+      "shortId": "9LIVES",
+      "name": "-CAT-",
+      "role": "USER",
+      "level": 99
+    },
+    "message": "/price [Technette||BODY_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-19T19:47:54.228Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "6e96cbad-888e-4efd-bd88-73b43c669daf",
+      "shortId": "9LIVES",
+      "name": "-CAT-",
+      "role": "USER",
+      "level": 99
+    },
+    "message": "/price [Cryonic||BODY_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-19T19:48:13.252Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "6e96cbad-888e-4efd-bd88-73b43c669daf",
+      "shortId": "9LIVES",
+      "name": "-CAT-",
+      "role": "USER",
+      "level": 99
+    },
+    "message": "/price [Rose||BODY_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-19T19:48:21.587Z"
   }
 ]
