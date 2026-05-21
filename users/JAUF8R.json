@@ -490,5 +490,65 @@
     },
     "message": "[Comic SCAR|SCAR|WEAPON_SKIN|MYTHICAL]",
     "timestamp": "2026-05-16T14:47:50.900Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "b78b20c7-031f-404f-a921-cbf588488870",
+      "shortId": "JAUF8R",
+      "name": "Lostsoul",
+      "role": "USER",
+      "level": 71
+    },
+    "message": "GG",
+    "timestamp": "2026-05-21T14:20:52.398Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "b78b20c7-031f-404f-a921-cbf588488870",
+      "shortId": "JAUF8R",
+      "name": "Lostsoul",
+      "role": "USER",
+      "level": 71
+    },
+    "message": "GGGG",
+    "timestamp": "2026-05-21T14:24:22.062Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "b78b20c7-031f-404f-a921-cbf588488870",
+      "shortId": "JAUF8R",
+      "name": "Lostsoul",
+      "role": "USER",
+      "level": 71
+    },
+    "message": "trading:[Vera||BODY_SKIN|MYTHICAL],[Shinji||BODY_SKIN|MYTHICAL] lf:[quiliam]",
+    "timestamp": "2026-05-21T14:25:27.667Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "b78b20c7-031f-404f-a921-cbf588488870",
+      "shortId": "JAUF8R",
+      "name": "Lostsoul",
+      "role": "USER",
+      "level": 71
+    },
+    "message": "trading:[Vera||BODY_SKIN|MYTHICAL],[Shinji||BODY_SKIN|MYTHICAL] lf:[Quilliam|VITA|WEAPON_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-21T14:26:09.991Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "b78b20c7-031f-404f-a921-cbf588488870",
+      "shortId": "JAUF8R",
+      "name": "Lostsoul",
+      "role": "USER",
+      "level": 71
+    },
+    "message": "trading:[Vera||BODY_SKIN|MYTHICAL],[Shinji||BODY_SKIN|MYTHICAL] lf:[Quilliam|VITA|WEAPON_SKIN|MYTHICAL].",
+    "timestamp": "2026-05-21T14:30:17.699Z"
   }
 ]
