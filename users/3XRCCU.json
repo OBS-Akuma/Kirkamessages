@@ -1738,5 +1738,29 @@
     },
     "message": "froke-161580",
     "timestamp": "2026-05-21T17:18:45.384Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "VDlzMXAa9DZPbZvebQ5vePHLeex2",
+      "shortId": "3XRCCU",
+      "name": "DABEYT",
+      "role": "USER",
+      "level": 70
+    },
+    "message": "/hm ice breaker",
+    "timestamp": "2026-05-21T17:28:27.052Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "VDlzMXAa9DZPbZvebQ5vePHLeex2",
+      "shortId": "3XRCCU",
+      "name": "DABEYT",
+      "role": "USER",
+      "level": 70
+    },
+    "message": "--__--",
+    "timestamp": "2026-05-21T17:28:36.464Z"
   }
 ]
