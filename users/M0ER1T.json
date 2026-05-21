@@ -10,5 +10,17 @@
     },
     "message": "/inv",
     "timestamp": "2026-05-19T10:37:51.945Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "e54ef633-2c04-413f-92cd-801a9411b27a",
+      "shortId": "M0ER1T",
+      "name": "T^T.",
+      "role": "USER",
+      "level": 87
+    },
+    "message": "[Fallen|VITA|WEAPON_SKIN|MYTHICAL] for [Rosed|VITA|WEAPON_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-21T06:18:00.695Z"
   }
 ]
