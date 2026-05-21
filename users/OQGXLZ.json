@@ -118,5 +118,17 @@
     },
     "message": "/inv #PKZ692",
     "timestamp": "2026-05-13T12:44:24.050Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "gU03Zn1AmRRlJcisOmSfHXfhFCy1",
+      "shortId": "OQGXLZ",
+      "name": "KOONG",
+      "role": "USER",
+      "level": 97
+    },
+    "message": "/inv #CT6YFN",
+    "timestamp": "2026-05-21T05:02:52.339Z"
   }
 ]
