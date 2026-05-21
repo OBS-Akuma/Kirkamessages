@@ -46,5 +46,29 @@
     },
     "message": "to ugly",
     "timestamp": "2026-05-13T12:09:05.460Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "f6c08494-cb5b-4ff1-a1cd-4a601220a4b3",
+      "shortId": "9RFTAY",
+      "name": "mr..",
+      "role": "USER",
+      "level": 40
+    },
+    "message": "/void ar9",
+    "timestamp": "2026-05-19T10:53:15.757Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "f6c08494-cb5b-4ff1-a1cd-4a601220a4b3",
+      "shortId": "9RFTAY",
+      "name": "mr..",
+      "role": "USER",
+      "level": 40
+    },
+    "message": "trade my:[Bok||BODY_SKIN|MYTHICAL] for your :void ar9]",
+    "timestamp": "2026-05-19T10:53:55.033Z"
   }
 ]
