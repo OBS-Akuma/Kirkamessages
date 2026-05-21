@@ -22,5 +22,29 @@
     },
     "message": "/enter",
     "timestamp": "2026-05-07T20:33:40.152Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "efcbea00-666f-4ad4-af06-17e853c38d07",
+      "shortId": "KZY8EA",
+      "name": "TTVItemVault",
+      "role": "USER",
+      "level": 5
+    },
+    "message": ".",
+    "timestamp": "2026-05-21T18:35:59.124Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "efcbea00-666f-4ad4-af06-17e853c38d07",
+      "shortId": "KZY8EA",
+      "name": "TTVItemVault",
+      "role": "USER",
+      "level": 5
+    },
+    "message": "hm for noble?",
+    "timestamp": "2026-05-21T18:36:09.880Z"
   }
 ]
