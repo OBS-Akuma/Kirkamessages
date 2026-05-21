@@ -2122,5 +2122,53 @@
     },
     "message": "bro hm thief ?",
     "timestamp": "2026-05-21T02:35:26.603Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "xkiNzXE2NVRhVv2juciDJAGV2IG3",
+      "shortId": "4LGFBI",
+      "name": "EzoSensha",
+      "role": "USER",
+      "level": 38
+    },
+    "message": "trade [Shroud||BODY_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-21T02:54:41.932Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "xkiNzXE2NVRhVv2juciDJAGV2IG3",
+      "shortId": "4LGFBI",
+      "name": "EzoSensha",
+      "role": "USER",
+      "level": 38
+    },
+    "message": "trade [Golden||CHEST|LEGENDARY]x 4k",
+    "timestamp": "2026-05-21T02:55:22.443Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "xkiNzXE2NVRhVv2juciDJAGV2IG3",
+      "shortId": "4LGFBI",
+      "name": "EzoSensha",
+      "role": "USER",
+      "level": 38
+    },
+    "message": "/hm simularity",
+    "timestamp": "2026-05-21T02:58:49.372Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "xkiNzXE2NVRhVv2juciDJAGV2IG3",
+      "shortId": "4LGFBI",
+      "name": "EzoSensha",
+      "role": "USER",
+      "level": 38
+    },
+    "message": "/hm simul",
+    "timestamp": "2026-05-21T02:58:55.011Z"
   }
 ]
