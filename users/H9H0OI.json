@@ -4186,5 +4186,53 @@
     },
     "message": "#7RPR5P offeR?",
     "timestamp": "2026-05-15T05:08:44.802Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "02506a6c-de4d-4da9-833f-35e586b9b089",
+      "shortId": "H9H0OI",
+      "name": "Hafla_",
+      "role": "USER",
+      "level": 65
+    },
+    "message": "/st [clownabeth",
+    "timestamp": "2026-05-18T06:52:59.805Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "02506a6c-de4d-4da9-833f-35e586b9b089",
+      "shortId": "H9H0OI",
+      "name": "Hafla_",
+      "role": "USER",
+      "level": 65
+    },
+    "message": "/vt 60180",
+    "timestamp": "2026-05-18T06:53:10.344Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "02506a6c-de4d-4da9-833f-35e586b9b089",
+      "shortId": "H9H0OI",
+      "name": "Hafla_",
+      "role": "USER",
+      "level": 65
+    },
+    "message": "/vt 66120",
+    "timestamp": "2026-05-18T06:53:22.389Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "02506a6c-de4d-4da9-833f-35e586b9b089",
+      "shortId": "H9H0OI",
+      "name": "Hafla_",
+      "role": "USER",
+      "level": 65
+    },
+    "message": "/vt 38599",
+    "timestamp": "2026-05-18T06:53:36.221Z"
   }
 ]
