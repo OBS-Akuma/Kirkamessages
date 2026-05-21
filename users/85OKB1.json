@@ -214,5 +214,29 @@
     },
     "message": "Can I buy a good skin of bayonet?",
     "timestamp": "2026-05-13T11:47:38.509Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "JjbaAxDVXtUSyHMHRHax0phxF6A3",
+      "shortId": "85OKB1",
+      "name": "BravePotato.eF",
+      "role": "USER",
+      "level": 64
+    },
+    "message": "I want a made kasa",
+    "timestamp": "2026-05-21T18:10:34.805Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "JjbaAxDVXtUSyHMHRHax0phxF6A3",
+      "shortId": "85OKB1",
+      "name": "BravePotato.eF",
+      "role": "USER",
+      "level": 64
+    },
+    "message": "I wanna buy a mikasa",
+    "timestamp": "2026-05-21T18:11:00.575Z"
   }
 ]
