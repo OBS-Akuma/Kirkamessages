@@ -34,5 +34,17 @@
     },
     "message": "shut up",
     "timestamp": "2026-05-18T08:14:43.029Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "055775a9-3cef-45f5-909d-4052bc6388dc",
+      "shortId": "GLAIVE",
+      "name": "sabe",
+      "role": "VERIFIED",
+      "level": 101
+    },
+    "message": "nobody trading soak for that btw",
+    "timestamp": "2026-05-21T04:55:54.765Z"
   }
 ]
