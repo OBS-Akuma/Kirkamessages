@@ -1366,5 +1366,41 @@
     },
     "message": "scammer#WAYJ96",
     "timestamp": "2026-05-18T08:20:50.087Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "c143aa24-17ed-4798-8226-cd575d179c32",
+      "shortId": "V8WSWR",
+      "name": "killerstrike2",
+      "role": "USER",
+      "level": 27
+    },
+    "message": "/hm void",
+    "timestamp": "2026-05-19T10:17:48.279Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "c143aa24-17ed-4798-8226-cd575d179c32",
+      "shortId": "V8WSWR",
+      "name": "killerstrike2",
+      "role": "USER",
+      "level": 27
+    },
+    "message": "/hm void s",
+    "timestamp": "2026-05-19T10:17:53.436Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "c143aa24-17ed-4798-8226-cd575d179c32",
+      "shortId": "V8WSWR",
+      "name": "killerstrike2",
+      "role": "USER",
+      "level": 27
+    },
+    "message": "/hm void v",
+    "timestamp": "2026-05-19T10:18:01.279Z"
   }
 ]
