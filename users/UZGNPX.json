@@ -82,5 +82,41 @@
     },
     "message": "/price [Pastel||BODY_SKIN|MYTHICAL]",
     "timestamp": "2026-05-21T07:04:25.884Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "1f99eda7-28fe-41f0-951a-619552117b1e",
+      "shortId": "UZGNPX",
+      "name": "Nato",
+      "role": "USER",
+      "level": 78
+    },
+    "message": "/imv",
+    "timestamp": "2026-05-21T08:25:11.177Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "1f99eda7-28fe-41f0-951a-619552117b1e",
+      "shortId": "UZGNPX",
+      "name": "Nato",
+      "role": "USER",
+      "level": 78
+    },
+    "message": "/inv",
+    "timestamp": "2026-05-21T08:25:12.862Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "1f99eda7-28fe-41f0-951a-619552117b1e",
+      "shortId": "UZGNPX",
+      "name": "Nato",
+      "role": "USER",
+      "level": 78
+    },
+    "message": "not bad not bad",
+    "timestamp": "2026-05-21T08:25:19.742Z"
   }
 ]
