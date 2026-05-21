@@ -58,5 +58,29 @@
     },
     "message": "trade [Blast Tomahawk|Tomahawk|WEAPON_SKIN|MYTHICAL][Cosmos|VITA|WEAPON_SKIN|MYTHICAL][Infernal|AR-9|WEAPON_SKIN|MYTHICAL]",
     "timestamp": "2026-05-18T07:20:52.591Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "853eb6df-726d-4519-a622-454ee3bf884a",
+      "shortId": "USBY08",
+      "name": "haruharuharuru",
+      "role": "USER",
+      "level": 34
+    },
+    "message": "/price ceru",
+    "timestamp": "2026-05-19T10:15:55.803Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "853eb6df-726d-4519-a622-454ee3bf884a",
+      "shortId": "USBY08",
+      "name": "haruharuharuru",
+      "role": "USER",
+      "level": 34
+    },
+    "message": "trading [Cosmos|VITA|WEAPON_SKIN|MYTHICAL][Infernal|AR-9|WEAPON_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-19T10:16:27.202Z"
   }
 ]
