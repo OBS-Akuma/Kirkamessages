@@ -406,5 +406,413 @@
     },
     "message": "co ai nguoi vn koo",
     "timestamp": "2026-05-15T13:46:54.508Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "70ea75c2-259b-428e-a693-e5b48ddccaae",
+      "shortId": "4UPM84",
+      "name": "DEAD",
+      "role": "USER",
+      "level": 13
+    },
+    "message": "/locate [Stingray|Tomahawk|WEAPON_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-21T14:00:37.207Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "70ea75c2-259b-428e-a693-e5b48ddccaae",
+      "shortId": "4UPM84",
+      "name": "DEAD",
+      "role": "USER",
+      "level": 13
+    },
+    "message": "/price [Chroma|LAR|WEAPON_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-21T14:02:08.615Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "70ea75c2-259b-428e-a693-e5b48ddccaae",
+      "shortId": "4UPM84",
+      "name": "DEAD",
+      "role": "USER",
+      "level": 13
+    },
+    "message": "WAGER [Kraken|Shark|WEAPON_SKIN|LEGENDARY]",
+    "timestamp": "2026-05-21T14:02:30.152Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "70ea75c2-259b-428e-a693-e5b48ddccaae",
+      "shortId": "4UPM84",
+      "name": "DEAD",
+      "role": "USER",
+      "level": 13
+    },
+    "message": "/price [Skillz||BODY_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-21T14:03:01.785Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "70ea75c2-259b-428e-a693-e5b48ddccaae",
+      "shortId": "4UPM84",
+      "name": "DEAD",
+      "role": "USER",
+      "level": 13
+    },
+    "message": "/price [Gazer||BODY_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-21T14:03:23.208Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "70ea75c2-259b-428e-a693-e5b48ddccaae",
+      "shortId": "4UPM84",
+      "name": "DEAD",
+      "role": "USER",
+      "level": 13
+    },
+    "message": "WAGER [Kraken|Shark|WEAPON_SKIN|LEGENDARY]",
+    "timestamp": "2026-05-21T14:03:44.323Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "70ea75c2-259b-428e-a693-e5b48ddccaae",
+      "shortId": "4UPM84",
+      "name": "DEAD",
+      "role": "USER",
+      "level": 13
+    },
+    "message": "/price [Taurus|Shark|WEAPON_SKIN|LEGENDARY]",
+    "timestamp": "2026-05-21T14:03:49.003Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "70ea75c2-259b-428e-a693-e5b48ddccaae",
+      "shortId": "4UPM84",
+      "name": "DEAD",
+      "role": "USER",
+      "level": 13
+    },
+    "message": "/price [Megalodon|Shark|WEAPON_SKIN|LEGENDARY]",
+    "timestamp": "2026-05-21T14:04:01.243Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "70ea75c2-259b-428e-a693-e5b48ddccaae",
+      "shortId": "4UPM84",
+      "name": "DEAD",
+      "role": "USER",
+      "level": 13
+    },
+    "message": "/price [Andromeda|MAC-10|WEAPON_SKIN|LEGENDARY]",
+    "timestamp": "2026-05-21T14:04:08.530Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "70ea75c2-259b-428e-a693-e5b48ddccaae",
+      "shortId": "4UPM84",
+      "name": "DEAD",
+      "role": "USER",
+      "level": 13
+    },
+    "message": "/price [Vapor|Bayonet|WEAPON_SKIN|LEGENDARY]",
+    "timestamp": "2026-05-21T14:04:30.395Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "70ea75c2-259b-428e-a693-e5b48ddccaae",
+      "shortId": "4UPM84",
+      "name": "DEAD",
+      "role": "USER",
+      "level": 13
+    },
+    "message": "/price [Mossy|Shark|WEAPON_SKIN|LEGENDARY]",
+    "timestamp": "2026-05-21T14:04:44.118Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "70ea75c2-259b-428e-a693-e5b48ddccaae",
+      "shortId": "4UPM84",
+      "name": "DEAD",
+      "role": "USER",
+      "level": 13
+    },
+    "message": "/price [Empress|VITA|WEAPON_SKIN|LEGENDARY]",
+    "timestamp": "2026-05-21T14:04:53.336Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "70ea75c2-259b-428e-a693-e5b48ddccaae",
+      "shortId": "4UPM84",
+      "name": "DEAD",
+      "role": "USER",
+      "level": 13
+    },
+    "message": "/price [Ashley||BODY_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-21T14:05:01.978Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "70ea75c2-259b-428e-a693-e5b48ddccaae",
+      "shortId": "4UPM84",
+      "name": "DEAD",
+      "role": "USER",
+      "level": 13
+    },
+    "message": "kệ đi cha",
+    "timestamp": "2026-05-21T14:48:25.695Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "70ea75c2-259b-428e-a693-e5b48ddccaae",
+      "shortId": "4UPM84",
+      "name": "DEAD",
+      "role": "USER",
+      "level": 13
+    },
+    "message": "kb cho nhiều ae vn",
+    "timestamp": "2026-05-21T14:48:35.521Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "70ea75c2-259b-428e-a693-e5b48ddccaae",
+      "shortId": "4UPM84",
+      "name": "DEAD",
+      "role": "USER",
+      "level": 13
+    },
+    "message": "t chả gà :))",
+    "timestamp": "2026-05-21T14:48:42.945Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "70ea75c2-259b-428e-a693-e5b48ddccaae",
+      "shortId": "4UPM84",
+      "name": "DEAD",
+      "role": "USER",
+      "level": 13
+    },
+    "message": "ơ t cx thi l10 nè",
+    "timestamp": "2026-05-21T14:49:28.502Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "70ea75c2-259b-428e-a693-e5b48ddccaae",
+      "shortId": "4UPM84",
+      "name": "DEAD",
+      "role": "USER",
+      "level": 13
+    },
+    "message": "cùng 2k11 à",
+    "timestamp": "2026-05-21T14:49:35.107Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "70ea75c2-259b-428e-a693-e5b48ddccaae",
+      "shortId": "4UPM84",
+      "name": "DEAD",
+      "role": "USER",
+      "level": 13
+    },
+    "message": "đực hay cái v",
+    "timestamp": "2026-05-21T14:49:41.692Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "70ea75c2-259b-428e-a693-e5b48ddccaae",
+      "shortId": "4UPM84",
+      "name": "DEAD",
+      "role": "USER",
+      "level": 13
+    },
+    "message": "oh đồng đội",
+    "timestamp": "2026-05-21T14:49:55.790Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "70ea75c2-259b-428e-a693-e5b48ddccaae",
+      "shortId": "4UPM84",
+      "name": "DEAD",
+      "role": "USER",
+      "level": 13
+    },
+    "message": "có 1 cái :))",
+    "timestamp": "2026-05-21T14:50:23.934Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "70ea75c2-259b-428e-a693-e5b48ddccaae",
+      "shortId": "4UPM84",
+      "name": "DEAD",
+      "role": "USER",
+      "level": 13
+    },
+    "message": "31 thi nay t chx ôn cgi",
+    "timestamp": "2026-05-21T14:50:33.567Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "70ea75c2-259b-428e-a693-e5b48ddccaae",
+      "shortId": "4UPM84",
+      "name": "DEAD",
+      "role": "USER",
+      "level": 13
+    },
+    "message": "thi c3 ă?",
+    "timestamp": "2026-05-21T14:50:49.611Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "70ea75c2-259b-428e-a693-e5b48ddccaae",
+      "shortId": "4UPM84",
+      "name": "DEAD",
+      "role": "USER",
+      "level": 13
+    },
+    "message": "t 9 ngày nữa",
+    "timestamp": "2026-05-21T14:51:08.398Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "70ea75c2-259b-428e-a693-e5b48ddccaae",
+      "shortId": "4UPM84",
+      "name": "DEAD",
+      "role": "USER",
+      "level": 13
+    },
+    "message": "chắc hơn tuần",
+    "timestamp": "2026-05-21T14:51:14.035Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "70ea75c2-259b-428e-a693-e5b48ddccaae",
+      "shortId": "4UPM84",
+      "name": "DEAD",
+      "role": "USER",
+      "level": 13
+    },
+    "message": "ai nghiện",
+    "timestamp": "2026-05-21T14:51:31.138Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "70ea75c2-259b-428e-a693-e5b48ddccaae",
+      "shortId": "4UPM84",
+      "name": "DEAD",
+      "role": "USER",
+      "level": 13
+    },
+    "message": "nhìn level này là nghiện :)))",
+    "timestamp": "2026-05-21T14:51:42.603Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "70ea75c2-259b-428e-a693-e5b48ddccaae",
+      "shortId": "4UPM84",
+      "name": "DEAD",
+      "role": "USER",
+      "level": 13
+    },
+    "message": "13 lvl bảo nghiện",
+    "timestamp": "2026-05-21T14:51:52.229Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "70ea75c2-259b-428e-a693-e5b48ddccaae",
+      "shortId": "4UPM84",
+      "name": "DEAD",
+      "role": "USER",
+      "level": 13
+    },
+    "message": "cx bthg mà",
+    "timestamp": "2026-05-21T14:52:46.574Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "70ea75c2-259b-428e-a693-e5b48ddccaae",
+      "shortId": "4UPM84",
+      "name": "DEAD",
+      "role": "USER",
+      "level": 13
+    },
+    "message": "chả khc j ngày xưa",
+    "timestamp": "2026-05-21T14:52:52.593Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "70ea75c2-259b-428e-a693-e5b48ddccaae",
+      "shortId": "4UPM84",
+      "name": "DEAD",
+      "role": "USER",
+      "level": 13
+    },
+    "message": "update ít vl",
+    "timestamp": "2026-05-21T14:52:59.540Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "70ea75c2-259b-428e-a693-e5b48ddccaae",
+      "shortId": "4UPM84",
+      "name": "DEAD",
+      "role": "USER",
+      "level": 13
+    },
+    "message": "là sao",
+    "timestamp": "2026-05-21T14:53:02.859Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "70ea75c2-259b-428e-a693-e5b48ddccaae",
+      "shortId": "4UPM84",
+      "name": "DEAD",
+      "role": "USER",
+      "level": 13
+    },
+    "message": "vl :))",
+    "timestamp": "2026-05-21T14:53:37.884Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "70ea75c2-259b-428e-a693-e5b48ddccaae",
+      "shortId": "4UPM84",
+      "name": "DEAD",
+      "role": "USER",
+      "level": 13
+    },
+    "message": "t chx bt scam ai bao h",
+    "timestamp": "2026-05-21T14:53:53.201Z"
   }
 ]
