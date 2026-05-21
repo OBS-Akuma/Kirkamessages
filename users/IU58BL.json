@@ -298,5 +298,17 @@
     },
     "message": "/HM [Dynasty||BODY_SKIN|MYTHICAL]",
     "timestamp": "2026-05-15T05:52:08.718Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "f825bcae-9af1-4614-8e45-113bc31ec983",
+      "shortId": "IU58BL",
+      "name": "Chihir0.",
+      "role": "USER",
+      "level": 84
+    },
+    "message": "/hm [Nova|SCAR|WEAPON_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-18T09:12:56.210Z"
   }
 ]
