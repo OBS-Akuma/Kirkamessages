@@ -1,0 +1,26 @@
+[
+  {
+    "type": 2,
+    "user": {
+      "id": "guest-5664a8f5-357a-47c8-a0f3-907bef0fe106",
+      "shortId": "50ZQY3",
+      "name": "Highness",
+      "role": "USER",
+      "level": 15
+    },
+    "message": "bro",
+    "timestamp": "2026-05-21T11:54:09.099Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "guest-5664a8f5-357a-47c8-a0f3-907bef0fe106",
+      "shortId": "50ZQY3",
+      "name": "Highness",
+      "role": "USER",
+      "level": 15
+    },
+    "message": "#XHLUR2",
+    "timestamp": "2026-05-21T11:54:16.214Z"
+  }
+]
