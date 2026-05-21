@@ -1,0 +1,38 @@
+[
+  {
+    "type": 2,
+    "user": {
+      "id": "f17772a3-5eff-4a80-bcc7-59dc2b842085",
+      "shortId": "E01B5X",
+      "name": "Blue777",
+      "role": "USER",
+      "level": 100
+    },
+    "message": "why are u trading arcade",
+    "timestamp": "2026-05-18T09:52:51.356Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "f17772a3-5eff-4a80-bcc7-59dc2b842085",
+      "shortId": "E01B5X",
+      "name": "Blue777",
+      "role": "USER",
+      "level": 100
+    },
+    "message": "isn't arcade better",
+    "timestamp": "2026-05-18T09:52:58.307Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "f17772a3-5eff-4a80-bcc7-59dc2b842085",
+      "shortId": "E01B5X",
+      "name": "Blue777",
+      "role": "USER",
+      "level": 100
+    },
+    "message": "ok",
+    "timestamp": "2026-05-19T10:21:35.031Z"
+  }
+]
