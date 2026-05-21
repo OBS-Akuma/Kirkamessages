@@ -30418,5 +30418,41 @@
     },
     "message": "/price arcade",
     "timestamp": "2026-05-21T07:14:43.914Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "878dfc67-a2f4-46d9-b837-58e311d701d3",
+      "shortId": "4CQDEK",
+      "name": "UrBoiBeetle",
+      "role": "USER",
+      "level": 98
+    },
+    "message": "#SC0N3D ME",
+    "timestamp": "2026-05-21T07:27:02.908Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "878dfc67-a2f4-46d9-b837-58e311d701d3",
+      "shortId": "4CQDEK",
+      "name": "UrBoiBeetle",
+      "role": "USER",
+      "level": 98
+    },
+    "message": "yeah",
+    "timestamp": "2026-05-21T07:27:12.629Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "878dfc67-a2f4-46d9-b837-58e311d701d3",
+      "shortId": "4CQDEK",
+      "name": "UrBoiBeetle",
+      "role": "USER",
+      "level": 98
+    },
+    "message": "#SC0N3D hm in value u want for it",
+    "timestamp": "2026-05-21T07:27:20.621Z"
   }
 ]
