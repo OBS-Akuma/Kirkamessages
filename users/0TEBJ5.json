@@ -1018,5 +1018,41 @@
     },
     "message": "no",
     "timestamp": "2026-05-18T09:03:54.635Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "2d350ddc-f0e0-4afe-8c97-711c79d3cfa4",
+      "shortId": "0TEBJ5",
+      "name": "AKGAMER",
+      "role": "USER",
+      "level": 97
+    },
+    "message": "tr [Target|Revolver|WEAPON_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-21T15:24:18.612Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "2d350ddc-f0e0-4afe-8c97-711c79d3cfa4",
+      "shortId": "0TEBJ5",
+      "name": "AKGAMER",
+      "role": "USER",
+      "level": 97
+    },
+    "message": "tr [Target|Revolver|WEAPON_SKIN|MYTHICAL].",
+    "timestamp": "2026-05-21T15:25:04.718Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "2d350ddc-f0e0-4afe-8c97-711c79d3cfa4",
+      "shortId": "0TEBJ5",
+      "name": "AKGAMER",
+      "role": "USER",
+      "level": 97
+    },
+    "message": "tr [Target|Revolver|WEAPON_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-21T15:27:27.758Z"
   }
 ]
