@@ -154,5 +154,41 @@
     },
     "message": "[Ranked_S4 Top100|Bayonet|WEAPON_SKIN|MYTHICAL]",
     "timestamp": "2026-05-21T13:25:02.029Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "6de2665f-d84d-452e-844b-fdd40870abbb",
+      "shortId": "9H88FT",
+      "name": "Newbie#2",
+      "role": "USER",
+      "level": 36
+    },
+    "message": "#werwer",
+    "timestamp": "2026-05-21T14:18:31.166Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "6de2665f-d84d-452e-844b-fdd40870abbb",
+      "shortId": "9H88FT",
+      "name": "Newbie#2",
+      "role": "USER",
+      "level": 36
+    },
+    "message": "#WERWER",
+    "timestamp": "2026-05-21T14:18:36.345Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "6de2665f-d84d-452e-844b-fdd40870abbb",
+      "shortId": "9H88FT",
+      "name": "Newbie#2",
+      "role": "USER",
+      "level": 36
+    },
+    "message": "#22L1E4",
+    "timestamp": "2026-05-21T17:06:57.696Z"
   }
 ]
