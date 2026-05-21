@@ -2590,5 +2590,17 @@
     },
     "message": "i have chromaflamel",
     "timestamp": "2026-05-21T08:24:35.112Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "e7ca017c-557f-4b21-96eb-3ec2a9a728ab",
+      "shortId": "8SQMAK",
+      "name": "Eri.",
+      "role": "USER",
+      "level": 61
+    },
+    "message": "/hm stingray",
+    "timestamp": "2026-05-21T12:04:14.033Z"
   }
 ]
