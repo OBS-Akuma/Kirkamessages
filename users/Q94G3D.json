@@ -142,5 +142,17 @@
     },
     "message": "/inv",
     "timestamp": "2026-05-16T09:00:22.187Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "744b9b84-c8ae-4bc8-88e2-5acf816ebb82",
+      "shortId": "Q94G3D",
+      "name": "Zn3r",
+      "role": "USER",
+      "level": 101
+    },
+    "message": "/price monk",
+    "timestamp": "2026-05-21T07:55:32.556Z"
   }
 ]
