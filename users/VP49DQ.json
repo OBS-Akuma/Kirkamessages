@@ -58,5 +58,41 @@
     },
     "message": "/inv",
     "timestamp": "2026-05-15T20:23:38.615Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "4260a745-fb92-4457-a664-9cddab4b64b5",
+      "shortId": "VP49DQ",
+      "name": "Its_Apolo",
+      "role": "USER",
+      "level": 82
+    },
+    "message": "Tr cheap [Koi|Bayonet|WEAPON_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-19T10:31:51.894Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "4260a745-fb92-4457-a664-9cddab4b64b5",
+      "shortId": "VP49DQ",
+      "name": "Its_Apolo",
+      "role": "USER",
+      "level": 82
+    },
+    "message": "/inv",
+    "timestamp": "2026-05-19T10:35:27.818Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "4260a745-fb92-4457-a664-9cddab4b64b5",
+      "shortId": "VP49DQ",
+      "name": "Its_Apolo",
+      "role": "USER",
+      "level": 82
+    },
+    "message": "/inv",
+    "timestamp": "2026-05-21T11:10:01.951Z"
   }
 ]
