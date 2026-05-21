@@ -2710,5 +2710,41 @@
     },
     "message": "/locate [ophelia",
     "timestamp": "2026-05-18T09:09:56.979Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "a86d1b4f-997c-44fd-9a7d-6074af84a31f",
+      "shortId": "531I15",
+      "name": "CORSICA!",
+      "role": "USER",
+      "level": 99
+    },
+    "message": "son no",
+    "timestamp": "2026-05-20T11:17:49.269Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "a86d1b4f-997c-44fd-9a7d-6074af84a31f",
+      "shortId": "531I15",
+      "name": "CORSICA!",
+      "role": "USER",
+      "level": 99
+    },
+    "message": "/price [Monarch|Shark|WEAPON_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-20T11:33:33.241Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "a86d1b4f-997c-44fd-9a7d-6074af84a31f",
+      "shortId": "531I15",
+      "name": "CORSICA!",
+      "role": "USER",
+      "level": 99
+    },
+    "message": "/price [v0id",
+    "timestamp": "2026-05-20T11:35:14.804Z"
   }
 ]
