@@ -58,5 +58,89 @@
     },
     "message": "/locate LMAO",
     "timestamp": "2026-05-18T06:44:21.836Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "d06a9ad2-40df-408f-afcd-32c5867b6a5d",
+      "shortId": "0RQSSI",
+      "name": "NeonSyndicate",
+      "role": "USER",
+      "level": 67
+    },
+    "message": "/price emperor",
+    "timestamp": "2026-05-21T07:10:56.062Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "d06a9ad2-40df-408f-afcd-32c5867b6a5d",
+      "shortId": "0RQSSI",
+      "name": "NeonSyndicate",
+      "role": "USER",
+      "level": 67
+    },
+    "message": "/price golem",
+    "timestamp": "2026-05-21T07:11:13.840Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "d06a9ad2-40df-408f-afcd-32c5867b6a5d",
+      "shortId": "0RQSSI",
+      "name": "NeonSyndicate",
+      "role": "USER",
+      "level": 67
+    },
+    "message": "/ hellspawn",
+    "timestamp": "2026-05-21T07:12:02.332Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "d06a9ad2-40df-408f-afcd-32c5867b6a5d",
+      "shortId": "0RQSSI",
+      "name": "NeonSyndicate",
+      "role": "USER",
+      "level": 67
+    },
+    "message": "i have hellspawn",
+    "timestamp": "2026-05-21T07:12:54.582Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "d06a9ad2-40df-408f-afcd-32c5867b6a5d",
+      "shortId": "0RQSSI",
+      "name": "NeonSyndicate",
+      "role": "USER",
+      "level": 67
+    },
+    "message": "yeah",
+    "timestamp": "2026-05-21T07:13:04.132Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "d06a9ad2-40df-408f-afcd-32c5867b6a5d",
+      "shortId": "0RQSSI",
+      "name": "NeonSyndicate",
+      "role": "USER",
+      "level": 67
+    },
+    "message": "fro what",
+    "timestamp": "2026-05-21T07:13:13.165Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "d06a9ad2-40df-408f-afcd-32c5867b6a5d",
+      "shortId": "0RQSSI",
+      "name": "NeonSyndicate",
+      "role": "USER",
+      "level": 67
+    },
+    "message": "im not a fan of pastel",
+    "timestamp": "2026-05-21T07:13:30.640Z"
   }
 ]
