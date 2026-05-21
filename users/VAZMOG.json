@@ -346,5 +346,29 @@
     },
     "message": "billion.              looks.              so.              cool",
     "timestamp": "2026-05-16T07:30:58.047Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "3321648a-0db5-43f1-8851-618da0182738",
+      "shortId": "VAZMOG",
+      "name": "straydawg",
+      "role": "USER",
+      "level": 55
+    },
+    "message": "SINAT.             JOIN",
+    "timestamp": "2026-05-21T10:42:48.802Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "3321648a-0db5-43f1-8851-618da0182738",
+      "shortId": "VAZMOG",
+      "name": "straydawg",
+      "role": "USER",
+      "level": 55
+    },
+    "message": "SIANT",
+    "timestamp": "2026-05-21T10:42:50.080Z"
   }
 ]
