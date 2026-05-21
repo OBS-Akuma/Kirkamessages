@@ -34,5 +34,185 @@
     },
     "message": "/inv",
     "timestamp": "2026-05-13T17:44:06.463Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "499aec12-c943-4586-ab6c-64f4055797a7",
+      "shortId": "EWPL5A",
+      "name": "TheRandomOne",
+      "role": "USER",
+      "level": 94
+    },
+    "message": "/inv",
+    "timestamp": "2026-05-21T17:14:36.328Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "499aec12-c943-4586-ab6c-64f4055797a7",
+      "shortId": "EWPL5A",
+      "name": "TheRandomOne",
+      "role": "USER",
+      "level": 94
+    },
+    "message": "/confirm trade",
+    "timestamp": "2026-05-21T17:15:07.081Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "499aec12-c943-4586-ab6c-64f4055797a7",
+      "shortId": "EWPL5A",
+      "name": "TheRandomOne",
+      "role": "USER",
+      "level": 94
+    },
+    "message": "yo apple how many knife skins have you got of apple so far???",
+    "timestamp": "2026-05-21T17:17:43.700Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "499aec12-c943-4586-ab6c-64f4055797a7",
+      "shortId": "EWPL5A",
+      "name": "TheRandomOne",
+      "role": "USER",
+      "level": 94
+    },
+    "message": "/owners [Apple|Bayonet|WEAPON_SKIN|LEGENDARY]",
+    "timestamp": "2026-05-21T17:18:22.357Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "499aec12-c943-4586-ab6c-64f4055797a7",
+      "shortId": "EWPL5A",
+      "name": "TheRandomOne",
+      "role": "USER",
+      "level": 94
+    },
+    "message": ".",
+    "timestamp": "2026-05-21T17:26:14.110Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "499aec12-c943-4586-ab6c-64f4055797a7",
+      "shortId": "EWPL5A",
+      "name": "TheRandomOne",
+      "role": "USER",
+      "level": 94
+    },
+    "message": "/inv",
+    "timestamp": "2026-05-21T17:26:17.282Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "499aec12-c943-4586-ab6c-64f4055797a7",
+      "shortId": "EWPL5A",
+      "name": "TheRandomOne",
+      "role": "USER",
+      "level": 94
+    },
+    "message": ".",
+    "timestamp": "2026-05-21T17:26:24.451Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "499aec12-c943-4586-ab6c-64f4055797a7",
+      "shortId": "EWPL5A",
+      "name": "TheRandomOne",
+      "role": "USER",
+      "level": 94
+    },
+    "message": "/inv",
+    "timestamp": "2026-05-21T17:26:26.399Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "499aec12-c943-4586-ab6c-64f4055797a7",
+      "shortId": "EWPL5A",
+      "name": "TheRandomOne",
+      "role": "USER",
+      "level": 94
+    },
+    "message": "i have one",
+    "timestamp": "2026-05-21T17:26:50.548Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "499aec12-c943-4586-ab6c-64f4055797a7",
+      "shortId": "EWPL5A",
+      "name": "TheRandomOne",
+      "role": "USER",
+      "level": 94
+    },
+    "message": "what you have to offer??",
+    "timestamp": "2026-05-21T17:27:10.330Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "499aec12-c943-4586-ab6c-64f4055797a7",
+      "shortId": "EWPL5A",
+      "name": "TheRandomOne",
+      "role": "USER",
+      "level": 94
+    },
+    "message": "you have slime??",
+    "timestamp": "2026-05-21T17:27:39.402Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "499aec12-c943-4586-ab6c-64f4055797a7",
+      "shortId": "EWPL5A",
+      "name": "TheRandomOne",
+      "role": "USER",
+      "level": 94
+    },
+    "message": "yea ill trade for [Pie||BODY_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-21T17:28:15.636Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "499aec12-c943-4586-ab6c-64f4055797a7",
+      "shortId": "EWPL5A",
+      "name": "TheRandomOne",
+      "role": "USER",
+      "level": 94
+    },
+    "message": "yw",
+    "timestamp": "2026-05-21T17:29:00.823Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "499aec12-c943-4586-ab6c-64f4055797a7",
+      "shortId": "EWPL5A",
+      "name": "TheRandomOne",
+      "role": "USER",
+      "level": 94
+    },
+    "message": "/auto [Yule Cat||BODY_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-21T17:38:37.070Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "499aec12-c943-4586-ab6c-64f4055797a7",
+      "shortId": "EWPL5A",
+      "name": "TheRandomOne",
+      "role": "USER",
+      "level": 94
+    },
+    "message": "/inv #WH21FF",
+    "timestamp": "2026-05-21T17:39:20.140Z"
   }
 ]
