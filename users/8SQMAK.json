@@ -2626,5 +2626,41 @@
     },
     "message": "/price rgb black",
     "timestamp": "2026-05-21T13:16:52.095Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "e7ca017c-557f-4b21-96eb-3ec2a9a728ab",
+      "shortId": "8SQMAK",
+      "name": "Eri.",
+      "role": "USER",
+      "level": 61
+    },
+    "message": "who has bok,angel,lmao",
+    "timestamp": "2026-05-21T17:54:21.003Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "e7ca017c-557f-4b21-96eb-3ec2a9a728ab",
+      "shortId": "8SQMAK",
+      "name": "Eri.",
+      "role": "USER",
+      "level": 61
+    },
+    "message": "how many coins for [Cloud||BODY_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-21T17:55:05.272Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "e7ca017c-557f-4b21-96eb-3ec2a9a728ab",
+      "shortId": "8SQMAK",
+      "name": "Eri.",
+      "role": "USER",
+      "level": 61
+    },
+    "message": "i have 20m coins i want skin",
+    "timestamp": "2026-05-21T19:03:02.126Z"
   }
 ]
