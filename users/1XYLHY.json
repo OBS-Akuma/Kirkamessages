@@ -1,0 +1,38 @@
+[
+  {
+    "type": 2,
+    "user": {
+      "id": "jJYFGwbniLWuIN0yYRTthK95AVs2",
+      "shortId": "1XYLHY",
+      "name": "Jasoqq",
+      "role": "USER",
+      "level": 12
+    },
+    "message": "/price drake",
+    "timestamp": "2026-05-20T11:47:28.781Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "jJYFGwbniLWuIN0yYRTthK95AVs2",
+      "shortId": "1XYLHY",
+      "name": "Jasoqq",
+      "role": "USER",
+      "level": 12
+    },
+    "message": "/price stingray",
+    "timestamp": "2026-05-20T12:06:18.858Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "jJYFGwbniLWuIN0yYRTthK95AVs2",
+      "shortId": "1XYLHY",
+      "name": "Jasoqq",
+      "role": "USER",
+      "level": 12
+    },
+    "message": "/locate stingray",
+    "timestamp": "2026-05-20T12:06:32.337Z"
+  }
+]
