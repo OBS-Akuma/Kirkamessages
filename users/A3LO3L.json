@@ -1,0 +1,26 @@
+[
+  {
+    "type": 2,
+    "user": {
+      "id": "guest-2e7a98c9-7f36-4e2b-8996-f582b9ee53ca",
+      "shortId": "A3LO3L",
+      "name": "hello",
+      "role": "USER",
+      "level": 6
+    },
+    "message": "how much lvl for ranked?",
+    "timestamp": "2026-05-21T03:43:57.997Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "guest-2e7a98c9-7f36-4e2b-8996-f582b9ee53ca",
+      "shortId": "A3LO3L",
+      "name": "hello",
+      "role": "USER",
+      "level": 6
+    },
+    "message": "ok ty",
+    "timestamp": "2026-05-21T03:44:09.114Z"
+  }
+]
