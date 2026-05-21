@@ -226,5 +226,17 @@
     },
     "message": "/price [Eve||BODY_SKIN|MYTHICAL]",
     "timestamp": "2026-05-14T15:32:50.396Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "87c4307b-f5e3-40b3-b679-b980594644fa",
+      "shortId": "4PTGXM",
+      "name": "[qod]CFmaster",
+      "role": "USER",
+      "level": 46
+    },
+    "message": "/price [Chromaflame|LAR|WEAPON_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-21T15:39:32.343Z"
   }
 ]
