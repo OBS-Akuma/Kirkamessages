@@ -10,5 +10,17 @@
     },
     "message": "/players",
     "timestamp": "2026-05-04T08:25:46.186Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "054e51fb-df39-4725-a993-99be6ee47a02",
+      "shortId": "H3ZKII",
+      "name": "aim.exe",
+      "role": "USER",
+      "level": 33
+    },
+    "message": "/players",
+    "timestamp": "2026-05-17T00:20:10.292Z"
   }
 ]
