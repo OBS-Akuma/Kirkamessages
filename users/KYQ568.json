@@ -490,5 +490,113 @@
     },
     "message": "/enter",
     "timestamp": "2026-05-16T11:58:21.614Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "e5977f7f-316f-4dea-b296-ef0ab7757044",
+      "shortId": "KYQ568",
+      "name": "KindaHomeless",
+      "role": "USER",
+      "level": 9
+    },
+    "message": "wagering 50 goldens",
+    "timestamp": "2026-05-18T09:35:24.942Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "e5977f7f-316f-4dea-b296-ef0ab7757044",
+      "shortId": "KYQ568",
+      "name": "KindaHomeless",
+      "role": "USER",
+      "level": 9
+    },
+    "message": "/wager [Golden||CHEST|LEGENDARY]x50 #XCMTH4",
+    "timestamp": "2026-05-18T09:35:52.658Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "e5977f7f-316f-4dea-b296-ef0ab7757044",
+      "shortId": "KYQ568",
+      "name": "KindaHomeless",
+      "role": "USER",
+      "level": 9
+    },
+    "message": "bro",
+    "timestamp": "2026-05-18T09:37:19.459Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "e5977f7f-316f-4dea-b296-ef0ab7757044",
+      "shortId": "KYQ568",
+      "name": "KindaHomeless",
+      "role": "USER",
+      "level": 9
+    },
+    "message": "/claim",
+    "timestamp": "2026-05-18T09:37:24.820Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "e5977f7f-316f-4dea-b296-ef0ab7757044",
+      "shortId": "KYQ568",
+      "name": "KindaHomeless",
+      "role": "USER",
+      "level": 9
+    },
+    "message": "ok",
+    "timestamp": "2026-05-18T09:38:00.808Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "e5977f7f-316f-4dea-b296-ef0ab7757044",
+      "shortId": "KYQ568",
+      "name": "KindaHomeless",
+      "role": "USER",
+      "level": 9
+    },
+    "message": "/confirmwager",
+    "timestamp": "2026-05-18T09:38:06.838Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "e5977f7f-316f-4dea-b296-ef0ab7757044",
+      "shortId": "KYQ568",
+      "name": "KindaHomeless",
+      "role": "USER",
+      "level": 9
+    },
+    "message": "/cancelwager",
+    "timestamp": "2026-05-18T09:38:19.056Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "e5977f7f-316f-4dea-b296-ef0ab7757044",
+      "shortId": "KYQ568",
+      "name": "KindaHomeless",
+      "role": "USER",
+      "level": 9
+    },
+    "message": "wagering 100 gold",
+    "timestamp": "2026-05-18T10:11:53.830Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "e5977f7f-316f-4dea-b296-ef0ab7757044",
+      "shortId": "KYQ568",
+      "name": "KindaHomeless",
+      "role": "USER",
+      "level": 9
+    },
+    "message": "i have ferum",
+    "timestamp": "2026-05-18T10:11:56.935Z"
   }
 ]
