@@ -58,5 +58,17 @@
     },
     "message": "ok abu ?",
     "timestamp": "2026-05-14T13:01:02.044Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "7b53a392-340a-4703-9200-702d28ac1ba8",
+      "shortId": "V9BJ29",
+      "name": "Yox_3",
+      "role": "USER",
+      "level": 11
+    },
+    "message": "who 1v1 me ?",
+    "timestamp": "2026-05-21T14:13:45.173Z"
   }
 ]
