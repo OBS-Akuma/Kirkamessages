@@ -166,5 +166,41 @@
     },
     "message": "/price or",
     "timestamp": "2026-05-21T10:40:23.141Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "f6c08494-cb5b-4ff1-a1cd-4a601220a4b3",
+      "shortId": "9RFTAY",
+      "name": "mr..",
+      "role": "USER",
+      "level": 42
+    },
+    "message": "/ price melody",
+    "timestamp": "2026-05-21T10:45:00.233Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "f6c08494-cb5b-4ff1-a1cd-4a601220a4b3",
+      "shortId": "9RFTAY",
+      "name": "mr..",
+      "role": "USER",
+      "level": 42
+    },
+    "message": "/price melody",
+    "timestamp": "2026-05-21T10:45:09.139Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "f6c08494-cb5b-4ff1-a1cd-4a601220a4b3",
+      "shortId": "9RFTAY",
+      "name": "mr..",
+      "role": "USER",
+      "level": 42
+    },
+    "message": "guys how du trade properly idk how to properly",
+    "timestamp": "2026-05-21T11:16:16.470Z"
   }
 ]
