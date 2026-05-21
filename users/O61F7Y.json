@@ -82,5 +82,41 @@
     },
     "message": "/inv",
     "timestamp": "2026-05-10T18:29:00.438Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "dc9c13af-ded4-45a7-be8d-bc029c60c004",
+      "shortId": "O61F7Y",
+      "name": "LEGEND_TWO",
+      "role": "USER",
+      "level": 20
+    },
+    "message": "/hm empress",
+    "timestamp": "2026-05-21T12:36:36.146Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "dc9c13af-ded4-45a7-be8d-bc029c60c004",
+      "shortId": "O61F7Y",
+      "name": "LEGEND_TWO",
+      "role": "USER",
+      "level": 20
+    },
+    "message": "/fav bolt",
+    "timestamp": "2026-05-21T12:36:40.091Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "dc9c13af-ded4-45a7-be8d-bc029c60c004",
+      "shortId": "O61F7Y",
+      "name": "LEGEND_TWO",
+      "role": "USER",
+      "level": 20
+    },
+    "message": "/price empress",
+    "timestamp": "2026-05-21T12:36:44.870Z"
   }
 ]
