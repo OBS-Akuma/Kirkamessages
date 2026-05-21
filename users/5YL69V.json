@@ -190,5 +190,17 @@
     },
     "message": "/hm Or",
     "timestamp": "2026-05-19T10:51:25.847Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "7eb1bc33-c39c-4a74-9b7a-4044e134e14b",
+      "shortId": "5YL69V",
+      "name": "KajzieeeSK",
+      "role": "USER",
+      "level": 81
+    },
+    "message": "/claim",
+    "timestamp": "2026-05-21T07:03:06.294Z"
   }
 ]
