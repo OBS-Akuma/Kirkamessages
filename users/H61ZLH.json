@@ -1390,5 +1390,125 @@
     },
     "message": "/inv",
     "timestamp": "2026-05-13T04:05:48.881Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "iDzsd49yqFTGnXi6Sv4GrC2ntX13",
+      "shortId": "H61ZLH",
+      "name": "Chuck",
+      "role": "USER",
+      "level": 90
+    },
+    "message": "I only have 1k now",
+    "timestamp": "2026-05-19T01:09:28.777Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "iDzsd49yqFTGnXi6Sv4GrC2ntX13",
+      "shortId": "H61ZLH",
+      "name": "Chuck",
+      "role": "USER",
+      "level": 90
+    },
+    "message": "/confirmwager",
+    "timestamp": "2026-05-19T01:09:32.504Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "iDzsd49yqFTGnXi6Sv4GrC2ntX13",
+      "shortId": "H61ZLH",
+      "name": "Chuck",
+      "role": "USER",
+      "level": 90
+    },
+    "message": "plsgng",
+    "timestamp": "2026-05-19T01:10:08.145Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "iDzsd49yqFTGnXi6Sv4GrC2ntX13",
+      "shortId": "H61ZLH",
+      "name": "Chuck",
+      "role": "USER",
+      "level": 90
+    },
+    "message": "gg",
+    "timestamp": "2026-05-19T01:10:09.629Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "iDzsd49yqFTGnXi6Sv4GrC2ntX13",
+      "shortId": "H61ZLH",
+      "name": "Chuck",
+      "role": "USER",
+      "level": 90
+    },
+    "message": "/claim",
+    "timestamp": "2026-05-19T01:10:10.819Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "iDzsd49yqFTGnXi6Sv4GrC2ntX13",
+      "shortId": "H61ZLH",
+      "name": "Chuck",
+      "role": "USER",
+      "level": 90
+    },
+    "message": "/confirmwager",
+    "timestamp": "2026-05-19T01:10:37.572Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "iDzsd49yqFTGnXi6Sv4GrC2ntX13",
+      "shortId": "H61ZLH",
+      "name": "Chuck",
+      "role": "USER",
+      "level": 90
+    },
+    "message": "if I win I'm done",
+    "timestamp": "2026-05-19T01:10:44.846Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "iDzsd49yqFTGnXi6Sv4GrC2ntX13",
+      "shortId": "H61ZLH",
+      "name": "Chuck",
+      "role": "USER",
+      "level": 90
+    },
+    "message": "gl",
+    "timestamp": "2026-05-19T01:11:16.340Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "iDzsd49yqFTGnXi6Sv4GrC2ntX13",
+      "shortId": "H61ZLH",
+      "name": "Chuck",
+      "role": "USER",
+      "level": 90
+    },
+    "message": "ksfkf",
+    "timestamp": "2026-05-19T01:11:17.731Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "iDzsd49yqFTGnXi6Sv4GrC2ntX13",
+      "shortId": "H61ZLH",
+      "name": "Chuck",
+      "role": "USER",
+      "level": 90
+    },
+    "message": "gg",
+    "timestamp": "2026-05-19T01:11:19.054Z"
   }
 ]
