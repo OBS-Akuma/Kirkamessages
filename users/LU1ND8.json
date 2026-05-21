@@ -10870,5 +10870,125 @@
     },
     "message": "wager[Melody||BODY_SKIN|MYTHICAL]",
     "timestamp": "2026-05-16T15:04:30.263Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "zkUzuHzV1sOAL9ZUyRPVDszlcgq2",
+      "shortId": "LU1ND8",
+      "name": "Br0keN|yt",
+      "role": "USER",
+      "level": 83
+    },
+    "message": "/wager [Melody||BODY_SKIN|MYTHICAL] #Z97DD0",
+    "timestamp": "2026-05-16T15:16:45.153Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "zkUzuHzV1sOAL9ZUyRPVDszlcgq2",
+      "shortId": "LU1ND8",
+      "name": "Br0keN|yt",
+      "role": "USER",
+      "level": 83
+    },
+    "message": "#SMOKED#SMOKED",
+    "timestamp": "2026-05-16T15:20:35.592Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "zkUzuHzV1sOAL9ZUyRPVDszlcgq2",
+      "shortId": "LU1ND8",
+      "name": "Br0keN|yt",
+      "role": "USER",
+      "level": 83
+    },
+    "message": "#SMOKED#SMOKED#SMOKED",
+    "timestamp": "2026-05-16T15:20:49.690Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "zkUzuHzV1sOAL9ZUyRPVDszlcgq2",
+      "shortId": "LU1ND8",
+      "name": "Br0keN|yt",
+      "role": "USER",
+      "level": 83
+    },
+    "message": "#SMOKED accept my trade pleaseee",
+    "timestamp": "2026-05-16T15:21:00.531Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "zkUzuHzV1sOAL9ZUyRPVDszlcgq2",
+      "shortId": "LU1ND8",
+      "name": "Br0keN|yt",
+      "role": "USER",
+      "level": 84
+    },
+    "message": "/inv",
+    "timestamp": "2026-05-18T06:58:31.637Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "zkUzuHzV1sOAL9ZUyRPVDszlcgq2",
+      "shortId": "LU1ND8",
+      "name": "Br0keN|yt",
+      "role": "USER",
+      "level": 84
+    },
+    "message": "/wager [Ortus|Revolver|WEAPON_SKIN|MYTHICAL] #4KNOTD",
+    "timestamp": "2026-05-18T06:58:51.821Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "zkUzuHzV1sOAL9ZUyRPVDszlcgq2",
+      "shortId": "LU1ND8",
+      "name": "Br0keN|yt",
+      "role": "USER",
+      "level": 84
+    },
+    "message": "/cancelwager",
+    "timestamp": "2026-05-18T06:59:12.111Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "zkUzuHzV1sOAL9ZUyRPVDszlcgq2",
+      "shortId": "LU1ND8",
+      "name": "Br0keN|yt",
+      "role": "USER",
+      "level": 84
+    },
+    "message": "/wager [Golden||CHEST|LEGENDARY]x50 #NREW5Y",
+    "timestamp": "2026-05-18T06:59:51.323Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "zkUzuHzV1sOAL9ZUyRPVDszlcgq2",
+      "shortId": "LU1ND8",
+      "name": "Br0keN|yt",
+      "role": "USER",
+      "level": 84
+    },
+    "message": "/inv #WERWER",
+    "timestamp": "2026-05-18T07:00:17.707Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "zkUzuHzV1sOAL9ZUyRPVDszlcgq2",
+      "shortId": "LU1ND8",
+      "name": "Br0keN|yt",
+      "role": "USER",
+      "level": 84
+    },
+    "message": "/wzger [Golden||CHEST|LEGENDARY]x50 #NREW5Y",
+    "timestamp": "2026-05-18T07:00:58.235Z"
   }
 ]
