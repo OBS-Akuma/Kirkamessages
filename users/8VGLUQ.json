@@ -46,5 +46,17 @@
     },
     "message": "I need [LMAO||BODY_SKIN|MYTHICAL]",
     "timestamp": "2026-05-21T10:33:27.247Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "Bo5syzdM5uQBtSwJZLDRsffkmZ72",
+      "shortId": "8VGLUQ",
+      "name": "Muffinkrieger",
+      "role": "USER",
+      "level": 14
+    },
+    "message": "I need [Guts||BODY_SKIN|LEGENDARY]",
+    "timestamp": "2026-05-21T10:36:21.513Z"
   }
 ]
