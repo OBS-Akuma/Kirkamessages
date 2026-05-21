@@ -262,5 +262,53 @@
     },
     "message": "bye",
     "timestamp": "2026-05-19T01:26:53.385Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "e737afe0-72e0-4f70-94b3-b373e1e4231d",
+      "shortId": "U57P50",
+      "name": "Egirl",
+      "role": "USER",
+      "level": 21
+    },
+    "message": "who wants to trade i want koi",
+    "timestamp": "2026-05-21T12:46:49.721Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "e737afe0-72e0-4f70-94b3-b373e1e4231d",
+      "shortId": "U57P50",
+      "name": "Egirl",
+      "role": "USER",
+      "level": 21
+    },
+    "message": "i have 2 exotic knives",
+    "timestamp": "2026-05-21T12:46:56.407Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "e737afe0-72e0-4f70-94b3-b373e1e4231d",
+      "shortId": "U57P50",
+      "name": "Egirl",
+      "role": "USER",
+      "level": 21
+    },
+    "message": "who has koi and is willing ot rrade",
+    "timestamp": "2026-05-21T12:47:24.565Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "e737afe0-72e0-4f70-94b3-b373e1e4231d",
+      "shortId": "U57P50",
+      "name": "Egirl",
+      "role": "USER",
+      "level": 21
+    },
+    "message": "who ha skoi",
+    "timestamp": "2026-05-21T12:47:36.579Z"
   }
 ]
