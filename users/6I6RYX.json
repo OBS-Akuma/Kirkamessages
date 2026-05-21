@@ -274,5 +274,65 @@
     },
     "message": "thanks",
     "timestamp": "2026-05-08T19:57:39.179Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "1fe65a37-7f23-4912-a0f6-cf49575e70ab",
+      "shortId": "6I6RYX",
+      "name": "KittyWitty",
+      "role": "USER",
+      "level": 87
+    },
+    "message": "tradng [Rubies||BODY_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-21T17:23:48.960Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "1fe65a37-7f23-4912-a0f6-cf49575e70ab",
+      "shortId": "6I6RYX",
+      "name": "KittyWitty",
+      "role": "USER",
+      "level": 87
+    },
+    "message": "idk what u offer",
+    "timestamp": "2026-05-21T17:24:09.016Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "1fe65a37-7f23-4912-a0f6-cf49575e70ab",
+      "shortId": "6I6RYX",
+      "name": "KittyWitty",
+      "role": "USER",
+      "level": 87
+    },
+    "message": "[Glance|Bayonet|WEAPON_SKIN|LEGENDARY]",
+    "timestamp": "2026-05-21T17:24:22.511Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "1fe65a37-7f23-4912-a0f6-cf49575e70ab",
+      "shortId": "6I6RYX",
+      "name": "KittyWitty",
+      "role": "USER",
+      "level": 87
+    },
+    "message": "beuh",
+    "timestamp": "2026-05-21T17:24:26.230Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "1fe65a37-7f23-4912-a0f6-cf49575e70ab",
+      "shortId": "6I6RYX",
+      "name": "KittyWitty",
+      "role": "USER",
+      "level": 87
+    },
+    "message": "/hm glance",
+    "timestamp": "2026-05-21T17:24:30.862Z"
   }
 ]
