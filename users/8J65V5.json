@@ -226,5 +226,17 @@
     },
     "message": "/hm [Tiburon|Bayonet|WEAPON_SKIN|MYTHICAL]",
     "timestamp": "2026-05-16T07:26:08.306Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "0jgsbogKwLdcDagDPzBEdIluanK2",
+      "shortId": "8J65V5",
+      "name": "SunWaffle.KH0Y",
+      "role": "USER",
+      "level": 84
+    },
+    "message": "/inv #GLAIVE",
+    "timestamp": "2026-05-21T15:29:57.872Z"
   }
 ]
