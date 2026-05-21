@@ -3094,5 +3094,101 @@
     },
     "message": "hm emperios",
     "timestamp": "2026-05-16T10:39:04.230Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "b5b856b7-c455-4d13-9c58-9eb824d4550f",
+      "shortId": "HBR602",
+      "name": "glimmer",
+      "role": "USER",
+      "level": 89
+    },
+    "message": "tr [Slasher||BODY_SKIN|PARANORMAL] [Hazmat||BODY_SKIN|PARANORMAL] [Ceru||BODY_SKIN|MYTHICAL] [Mabel||BODY_SKIN|MYTHICAL] [Onryo||BODY_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-18T08:16:29.636Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "b5b856b7-c455-4d13-9c58-9eb824d4550f",
+      "shortId": "HBR602",
+      "name": "glimmer",
+      "role": "USER",
+      "level": 89
+    },
+    "message": "tr [Target|Revolver|WEAPON_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-18T08:17:04.513Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "b5b856b7-c455-4d13-9c58-9eb824d4550f",
+      "shortId": "HBR602",
+      "name": "glimmer",
+      "role": "USER",
+      "level": 89
+    },
+    "message": "tr [Slasher||BODY_SKIN|PARANORMAL] [Hazmat||BODY_SKIN|PARANORMAL] [Target|Revolver|WEAPON_SKIN|MYTHICAL] [Ceru||BODY_SKIN|MYTHICAL] [Mabel||BODY_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-18T10:50:44.816Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "b5b856b7-c455-4d13-9c58-9eb824d4550f",
+      "shortId": "HBR602",
+      "name": "glimmer",
+      "role": "USER",
+      "level": 89
+    },
+    "message": "dark I already have onryo",
+    "timestamp": "2026-05-18T10:51:25.285Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "b5b856b7-c455-4d13-9c58-9eb824d4550f",
+      "shortId": "HBR602",
+      "name": "glimmer",
+      "role": "USER",
+      "level": 89
+    },
+    "message": "yea and  slasher",
+    "timestamp": "2026-05-18T10:52:00.156Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "b5b856b7-c455-4d13-9c58-9eb824d4550f",
+      "shortId": "HBR602",
+      "name": "glimmer",
+      "role": "USER",
+      "level": 89
+    },
+    "message": "wait what skin are you talking about dragon",
+    "timestamp": "2026-05-18T10:52:33.982Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "b5b856b7-c455-4d13-9c58-9eb824d4550f",
+      "shortId": "HBR602",
+      "name": "glimmer",
+      "role": "USER",
+      "level": 89
+    },
+    "message": "/hm [void]",
+    "timestamp": "2026-05-18T10:52:48.648Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "b5b856b7-c455-4d13-9c58-9eb824d4550f",
+      "shortId": "HBR602",
+      "name": "glimmer",
+      "role": "USER",
+      "level": 89
+    },
+    "message": "/hm [VOid]",
+    "timestamp": "2026-05-18T10:53:11.859Z"
   }
 ]
