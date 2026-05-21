@@ -202,5 +202,17 @@
     },
     "message": "/claim",
     "timestamp": "2026-05-21T07:03:06.294Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "7eb1bc33-c39c-4a74-9b7a-4044e134e14b",
+      "shortId": "5YL69V",
+      "name": "KajzieeeSK",
+      "role": "USER",
+      "level": 81
+    },
+    "message": "720k cheapest [Or|Bayonet|WEAPON_SKIN|MYTHICAL] in market",
+    "timestamp": "2026-05-21T08:54:03.250Z"
   }
 ]
