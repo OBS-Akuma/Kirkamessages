@@ -154,5 +154,17 @@
     },
     "message": "/hm [Icing|Bayonet|WEAPON_SKIN|MYTHICAL]",
     "timestamp": "2026-05-21T07:13:52.468Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "663747b5-ccd9-4a9f-bd15-5d1307549ae8",
+      "shortId": "U39TP9",
+      "name": "Ishod",
+      "role": "USER",
+      "level": 95
+    },
+    "message": "/hm [Marage||BODY_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-21T11:42:49.075Z"
   }
 ]
