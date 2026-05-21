@@ -4066,5 +4066,89 @@
     },
     "message": "TRADING [Dipolar||BODY_SKIN|MYTHICAL] and [Honeyboo||BODY_SKIN|MYTHICAL]",
     "timestamp": "2026-05-16T13:29:08.825Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "1b11cbe3-1e5b-405a-be00-261152eedc05",
+      "shortId": "T1XGMG",
+      "name": "j...........",
+      "role": "USER",
+      "level": 92
+    },
+    "message": "/price [antiqe]",
+    "timestamp": "2026-05-21T03:09:11.264Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "1b11cbe3-1e5b-405a-be00-261152eedc05",
+      "shortId": "T1XGMG",
+      "name": "j...........",
+      "role": "USER",
+      "level": 92
+    },
+    "message": "/price [Antique|Bayonet|WEAPON_SKIN|PARANORMAL]",
+    "timestamp": "2026-05-21T03:09:16.093Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "1b11cbe3-1e5b-405a-be00-261152eedc05",
+      "shortId": "T1XGMG",
+      "name": "j...........",
+      "role": "USER",
+      "level": 92
+    },
+    "message": "/price[Antique|Bayonet|WEAPON_SKIN|PARANORMAL]",
+    "timestamp": "2026-05-21T03:09:27.660Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "1b11cbe3-1e5b-405a-be00-261152eedc05",
+      "shortId": "T1XGMG",
+      "name": "j...........",
+      "role": "USER",
+      "level": 92
+    },
+    "message": "/hm [Antique|Bayonet|WEAPON_SKIN|PARANORMAL]",
+    "timestamp": "2026-05-21T03:09:45.607Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "1b11cbe3-1e5b-405a-be00-261152eedc05",
+      "shortId": "T1XGMG",
+      "name": "j...........",
+      "role": "USER",
+      "level": 92
+    },
+    "message": "anyone have 15k [Golden||CHEST|LEGENDARY]?",
+    "timestamp": "2026-05-21T03:10:07.157Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "1b11cbe3-1e5b-405a-be00-261152eedc05",
+      "shortId": "T1XGMG",
+      "name": "j...........",
+      "role": "USER",
+      "level": 92
+    },
+    "message": "can anyone invite me to elder or phonix?",
+    "timestamp": "2026-05-21T03:13:53.756Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "1b11cbe3-1e5b-405a-be00-261152eedc05",
+      "shortId": "T1XGMG",
+      "name": "j...........",
+      "role": "USER",
+      "level": 92
+    },
+    "message": "#4LEWN8 [Dipolar||BODY_SKIN|MYTHICAL] fro [Pandora||BODY_SKIN|MYTHICAL]?",
+    "timestamp": "2026-05-21T03:25:48.644Z"
   }
 ]
