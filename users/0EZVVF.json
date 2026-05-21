@@ -1402,5 +1402,17 @@
     },
     "message": "/claim",
     "timestamp": "2026-05-18T11:19:50.001Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "fc39c9da-7359-4fb8-97b7-49a356e175da",
+      "shortId": "0EZVVF",
+      "name": "Vortex",
+      "role": "USER",
+      "level": 99
+    },
+    "message": "/locate stingray",
+    "timestamp": "2026-05-21T15:09:09.069Z"
   }
 ]
