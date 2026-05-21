@@ -442,5 +442,389 @@
     },
     "message": "/locate splash p4",
     "timestamp": "2026-05-15T05:16:36.082Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "9d1e4931-0d95-4a56-989c-2ad0bf9fe52c",
+      "shortId": "K2OPPU",
+      "name": "Nexus",
+      "role": "USER",
+      "level": 81
+    },
+    "message": "/inv",
+    "timestamp": "2026-05-21T14:57:38.898Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "9d1e4931-0d95-4a56-989c-2ad0bf9fe52c",
+      "shortId": "K2OPPU",
+      "name": "Nexus",
+      "role": "USER",
+      "level": 81
+    },
+    "message": "/locate employed",
+    "timestamp": "2026-05-21T14:57:47.814Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "9d1e4931-0d95-4a56-989c-2ad0bf9fe52c",
+      "shortId": "K2OPPU",
+      "name": "Nexus",
+      "role": "USER",
+      "level": 81
+    },
+    "message": "/price emperor",
+    "timestamp": "2026-05-21T14:58:39.688Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "9d1e4931-0d95-4a56-989c-2ad0bf9fe52c",
+      "shortId": "K2OPPU",
+      "name": "Nexus",
+      "role": "USER",
+      "level": 81
+    },
+    "message": "/hm noble",
+    "timestamp": "2026-05-21T15:12:35.179Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "9d1e4931-0d95-4a56-989c-2ad0bf9fe52c",
+      "shortId": "K2OPPU",
+      "name": "Nexus",
+      "role": "USER",
+      "level": 81
+    },
+    "message": "/hm oblivion",
+    "timestamp": "2026-05-21T15:15:26.689Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "9d1e4931-0d95-4a56-989c-2ad0bf9fe52c",
+      "shortId": "K2OPPU",
+      "name": "Nexus",
+      "role": "USER",
+      "level": 81
+    },
+    "message": "/hm nova",
+    "timestamp": "2026-05-21T15:15:32.964Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "9d1e4931-0d95-4a56-989c-2ad0bf9fe52c",
+      "shortId": "K2OPPU",
+      "name": "Nexus",
+      "role": "USER",
+      "level": 81
+    },
+    "message": "lf [Noble|VITA|WEAPON_SKIN|LEGENDARY][Splash|Bayonet|WEAPON_SKIN|MYTHICAL][Employed||BODY_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-21T15:21:48.439Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "9d1e4931-0d95-4a56-989c-2ad0bf9fe52c",
+      "shortId": "K2OPPU",
+      "name": "Nexus",
+      "role": "USER",
+      "level": 81
+    },
+    "message": "/hm lucky, mable",
+    "timestamp": "2026-05-21T15:22:40.578Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "9d1e4931-0d95-4a56-989c-2ad0bf9fe52c",
+      "shortId": "K2OPPU",
+      "name": "Nexus",
+      "role": "USER",
+      "level": 81
+    },
+    "message": "/hm lucky,mabel",
+    "timestamp": "2026-05-21T15:22:47.292Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "9d1e4931-0d95-4a56-989c-2ad0bf9fe52c",
+      "shortId": "K2OPPU",
+      "name": "Nexus",
+      "role": "USER",
+      "level": 81
+    },
+    "message": "/hm noble",
+    "timestamp": "2026-05-21T15:22:52.948Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "9d1e4931-0d95-4a56-989c-2ad0bf9fe52c",
+      "shortId": "K2OPPU",
+      "name": "Nexus",
+      "role": "USER",
+      "level": 81
+    },
+    "message": "yh?",
+    "timestamp": "2026-05-21T15:23:16.366Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "9d1e4931-0d95-4a56-989c-2ad0bf9fe52c",
+      "shortId": "K2OPPU",
+      "name": "Nexus",
+      "role": "USER",
+      "level": 81
+    },
+    "message": "ukiyo nft",
+    "timestamp": "2026-05-21T15:23:30.219Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "9d1e4931-0d95-4a56-989c-2ad0bf9fe52c",
+      "shortId": "K2OPPU",
+      "name": "Nexus",
+      "role": "USER",
+      "level": 81
+    },
+    "message": "yeah?",
+    "timestamp": "2026-05-21T15:24:31.306Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "9d1e4931-0d95-4a56-989c-2ad0bf9fe52c",
+      "shortId": "K2OPPU",
+      "name": "Nexus",
+      "role": "USER",
+      "level": 81
+    },
+    "message": "I don't have [Astral|AR-9|WEAPON_SKIN|MYTHICAL] anymore",
+    "timestamp": "2026-05-21T15:24:46.997Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "9d1e4931-0d95-4a56-989c-2ad0bf9fe52c",
+      "shortId": "K2OPPU",
+      "name": "Nexus",
+      "role": "USER",
+      "level": 81
+    },
+    "message": "#IYFXUY [Onryo||BODY_SKIN|MYTHICAL]30M for [Noble|VITA|WEAPON_SKIN|LEGENDARY][Diane|Shark|WEAPON_SKIN|MYTHICAL][Vintage|VITA|WEAPON_SKIN|MYTHICAL][Capricorn|Tomahawk|WEAPON_SKIN|MYTHICAL]?",
+    "timestamp": "2026-05-21T15:28:35.543Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "9d1e4931-0d95-4a56-989c-2ad0bf9fe52c",
+      "shortId": "K2OPPU",
+      "name": "Nexus",
+      "role": "USER",
+      "level": 81
+    },
+    "message": "k",
+    "timestamp": "2026-05-21T15:28:55.561Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "9d1e4931-0d95-4a56-989c-2ad0bf9fe52c",
+      "shortId": "K2OPPU",
+      "name": "Nexus",
+      "role": "USER",
+      "level": 81
+    },
+    "message": "/hm business cat",
+    "timestamp": "2026-05-21T15:29:20.602Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "9d1e4931-0d95-4a56-989c-2ad0bf9fe52c",
+      "shortId": "K2OPPU",
+      "name": "Nexus",
+      "role": "USER",
+      "level": 81
+    },
+    "message": "nty",
+    "timestamp": "2026-05-21T15:29:24.079Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "9d1e4931-0d95-4a56-989c-2ad0bf9fe52c",
+      "shortId": "K2OPPU",
+      "name": "Nexus",
+      "role": "USER",
+      "level": 81
+    },
+    "message": "#22L1E4",
+    "timestamp": "2026-05-21T17:03:34.460Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "9d1e4931-0d95-4a56-989c-2ad0bf9fe52c",
+      "shortId": "K2OPPU",
+      "name": "Nexus",
+      "role": "USER",
+      "level": 81
+    },
+    "message": "#sam",
+    "timestamp": "2026-05-21T17:14:09.342Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "9d1e4931-0d95-4a56-989c-2ad0bf9fe52c",
+      "shortId": "K2OPPU",
+      "name": "Nexus",
+      "role": "USER",
+      "level": 81
+    },
+    "message": "#SAM",
+    "timestamp": "2026-05-21T17:14:13.074Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "9d1e4931-0d95-4a56-989c-2ad0bf9fe52c",
+      "shortId": "K2OPPU",
+      "name": "Nexus",
+      "role": "USER",
+      "level": 81
+    },
+    "message": "Nifheim hm for [Noble|VITA|WEAPON_SKIN|LEGENDARY]?",
+    "timestamp": "2026-05-21T17:17:52.722Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "9d1e4931-0d95-4a56-989c-2ad0bf9fe52c",
+      "shortId": "K2OPPU",
+      "name": "Nexus",
+      "role": "USER",
+      "level": 81
+    },
+    "message": "Nifheim, [Onryo||BODY_SKIN|MYTHICAL] for [Noble|VITA|WEAPON_SKIN|LEGENDARY][Reflections|Bayonet|WEAPON_SKIN|MYTHICAL][Blessed||BODY_SKIN|MYTHICAL]?",
+    "timestamp": "2026-05-21T17:20:57.060Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "9d1e4931-0d95-4a56-989c-2ad0bf9fe52c",
+      "shortId": "K2OPPU",
+      "name": "Nexus",
+      "role": "USER",
+      "level": 81
+    },
+    "message": "alr",
+    "timestamp": "2026-05-21T17:21:17.518Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "9d1e4931-0d95-4a56-989c-2ad0bf9fe52c",
+      "shortId": "K2OPPU",
+      "name": "Nexus",
+      "role": "USER",
+      "level": 81
+    },
+    "message": "/mywager",
+    "timestamp": "2026-05-21T17:29:37.015Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "9d1e4931-0d95-4a56-989c-2ad0bf9fe52c",
+      "shortId": "K2OPPU",
+      "name": "Nexus",
+      "role": "USER",
+      "level": 81
+    },
+    "message": "[Emperor||BODY_SKIN|MYTHICAL][Regal|Shark|WEAPON_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-21T17:30:01.398Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "9d1e4931-0d95-4a56-989c-2ad0bf9fe52c",
+      "shortId": "K2OPPU",
+      "name": "Nexus",
+      "role": "USER",
+      "level": 81
+    },
+    "message": "trading [Onryo||BODY_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-21T17:38:40.721Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "9d1e4931-0d95-4a56-989c-2ad0bf9fe52c",
+      "shortId": "K2OPPU",
+      "name": "Nexus",
+      "role": "USER",
+      "level": 81
+    },
+    "message": "yh?",
+    "timestamp": "2026-05-21T17:38:48.519Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "9d1e4931-0d95-4a56-989c-2ad0bf9fe52c",
+      "shortId": "K2OPPU",
+      "name": "Nexus",
+      "role": "USER",
+      "level": 81
+    },
+    "message": "/hm [Gamma||BODY_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-21T17:39:20.110Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "9d1e4931-0d95-4a56-989c-2ad0bf9fe52c",
+      "shortId": "K2OPPU",
+      "name": "Nexus",
+      "role": "USER",
+      "level": 81
+    },
+    "message": "nty",
+    "timestamp": "2026-05-21T17:39:20.147Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "9d1e4931-0d95-4a56-989c-2ad0bf9fe52c",
+      "shortId": "K2OPPU",
+      "name": "Nexus",
+      "role": "USER",
+      "level": 81
+    },
+    "message": "yeah ik but [Gamma||BODY_SKIN|MYTHICAL] ugly",
+    "timestamp": "2026-05-21T17:39:45.812Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "9d1e4931-0d95-4a56-989c-2ad0bf9fe52c",
+      "shortId": "K2OPPU",
+      "name": "Nexus",
+      "role": "USER",
+      "level": 81
+    },
+    "message": "[Ukiyo|VITA|WEAPON_SKIN|MYTHICAL] nft",
+    "timestamp": "2026-05-21T17:40:00.443Z"
   }
 ]
