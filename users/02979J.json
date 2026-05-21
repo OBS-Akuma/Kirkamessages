@@ -2566,5 +2566,17 @@
     },
     "message": "how did you even get banned",
     "timestamp": "2026-05-21T02:34:00.344Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "a2035d2a-40d0-4d1e-952b-4fc48dc53c94",
+      "shortId": "02979J",
+      "name": "Baduy",
+      "role": "USER",
+      "level": 96
+    },
+    "message": "newbie business cat for onyro?",
+    "timestamp": "2026-05-21T03:09:34.533Z"
   }
 ]
