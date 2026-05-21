@@ -190,5 +190,41 @@
     },
     "message": "/hm golem",
     "timestamp": "2026-05-12T02:52:33.098Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "Om16Zsz0Jug4AApkNUtzcBeRWUk2",
+      "shortId": "15ZSX2",
+      "name": "[Pain]ChatGPT",
+      "role": "USER",
+      "level": 99
+    },
+    "message": "/hm emperor",
+    "timestamp": "2026-05-20T12:06:25.136Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "Om16Zsz0Jug4AApkNUtzcBeRWUk2",
+      "shortId": "15ZSX2",
+      "name": "[Pain]ChatGPT",
+      "role": "USER",
+      "level": 99
+    },
+    "message": "hm emperor guys?",
+    "timestamp": "2026-05-20T12:06:46.893Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "Om16Zsz0Jug4AApkNUtzcBeRWUk2",
+      "shortId": "15ZSX2",
+      "name": "[Pain]ChatGPT",
+      "role": "USER",
+      "level": 99
+    },
+    "message": "client, hm for emperor?",
+    "timestamp": "2026-05-20T12:07:46.919Z"
   }
 ]
