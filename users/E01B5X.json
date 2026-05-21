@@ -34,5 +34,41 @@
     },
     "message": "ok",
     "timestamp": "2026-05-19T10:21:35.031Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "f17772a3-5eff-4a80-bcc7-59dc2b842085",
+      "shortId": "E01B5X",
+      "name": "Blue777",
+      "role": "USER",
+      "level": 100
+    },
+    "message": "/locate [Stingray|Tomahawk|WEAPON_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-21T04:48:33.296Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "f17772a3-5eff-4a80-bcc7-59dc2b842085",
+      "shortId": "E01B5X",
+      "name": "Blue777",
+      "role": "USER",
+      "level": 100
+    },
+    "message": "/player count",
+    "timestamp": "2026-05-21T05:58:47.661Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "f17772a3-5eff-4a80-bcc7-59dc2b842085",
+      "shortId": "E01B5X",
+      "name": "Blue777",
+      "role": "USER",
+      "level": 100
+    },
+    "message": "/playercount",
+    "timestamp": "2026-05-21T05:58:59.672Z"
   }
 ]
