@@ -322,5 +322,17 @@
     },
     "message": "/locate [Helendus|VITA|WEAPON_SKIN|MYTHICAL]",
     "timestamp": "2026-05-15T21:41:30.626Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "f11bfc17-5d43-4cf9-9ce3-ffac2dd8ad49",
+      "shortId": "95Z8JR",
+      "name": "TourneyFunding",
+      "role": "USER",
+      "level": 75
+    },
+    "message": "-",
+    "timestamp": "2026-05-21T18:35:25.640Z"
   }
 ]
