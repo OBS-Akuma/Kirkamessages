@@ -1052,7 +1052,7 @@
       "role": "USER",
       "level": 48
     },
-    "message": "peepZÃ°ÂÂÂ",
+    "message": "peepZÃÂ°ÃÂÃÂÃÂ",
     "timestamp": "2026-05-16T11:23:54.562Z"
   },
   {
@@ -1222,5 +1222,17 @@
     },
     "message": "hi chosen",
     "timestamp": "2026-05-18T06:34:19.687Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "d86a8b05-d775-44e3-a927-d3c633b5dd5d",
+      "shortId": "Q3SR01",
+      "name": "bocchi",
+      "role": "USER",
+      "level": 49
+    },
+    "message": "#AGEBTO",
+    "timestamp": "2026-05-21T13:19:39.304Z"
   }
 ]
