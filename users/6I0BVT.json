@@ -22,5 +22,41 @@
     },
     "message": "/inv",
     "timestamp": "2026-05-13T09:18:47.606Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "ced5b931-343c-4260-acfe-82c7f2ce8bb7",
+      "shortId": "6I0BVT",
+      "name": "SOIKAL",
+      "role": "USER",
+      "level": 72
+    },
+    "message": "/inb",
+    "timestamp": "2026-05-21T17:46:00.741Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "ced5b931-343c-4260-acfe-82c7f2ce8bb7",
+      "shortId": "6I0BVT",
+      "name": "SOIKAL",
+      "role": "USER",
+      "level": 72
+    },
+    "message": "/inv",
+    "timestamp": "2026-05-21T17:46:01.515Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "ced5b931-343c-4260-acfe-82c7f2ce8bb7",
+      "shortId": "6I0BVT",
+      "name": "SOIKAL",
+      "role": "USER",
+      "level": 72
+    },
+    "message": "#TRE873  140",
+    "timestamp": "2026-05-21T17:47:05.575Z"
   }
 ]
