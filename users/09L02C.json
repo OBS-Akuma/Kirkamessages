@@ -106,5 +106,53 @@
     },
     "message": "/54273",
     "timestamp": "2026-05-14T17:28:41.996Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "HWf6OHyLjsRxnA79PwDE59zj8oo2",
+      "shortId": "09L02C",
+      "name": "mr_arab12",
+      "role": "USER",
+      "level": 26
+    },
+    "message": "trading[Blast Revolver|Revolver|WEAPON_SKIN|MYTHICAL] for [Blast LAR|LAR|WEAPON_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-21T19:37:33.947Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "HWf6OHyLjsRxnA79PwDE59zj8oo2",
+      "shortId": "09L02C",
+      "name": "mr_arab12",
+      "role": "USER",
+      "level": 26
+    },
+    "message": "#09L02C trading [Blast Revolver|Revolver|WEAPON_SKIN|MYTHICAL] for [Blast LAR|LAR|WEAPON_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-21T19:39:21.806Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "HWf6OHyLjsRxnA79PwDE59zj8oo2",
+      "shortId": "09L02C",
+      "name": "mr_arab12",
+      "role": "USER",
+      "level": 26
+    },
+    "message": "#09L02C is offering their [Blast Revolver|Revolver|WEAPON_SKIN|MYTHICAL] for your [Blast LAR|LAR|WEAPON_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-21T19:41:08.519Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "HWf6OHyLjsRxnA79PwDE59zj8oo2",
+      "shortId": "09L02C",
+      "name": "mr_arab12",
+      "role": "USER",
+      "level": 26
+    },
+    "message": "#09L02C trade [Blast Revolver|Revolver|WEAPON_SKIN|MYTHICAL] for [Blast LAR|LAR|WEAPON_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-21T19:42:13.837Z"
   }
 ]
