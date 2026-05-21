@@ -1078,5 +1078,137 @@
     },
     "message": "/inv",
     "timestamp": "2026-05-20T12:09:27.837Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "7001fed6-5d8a-4759-97fb-f4d659e9cea0",
+      "shortId": "C3F13Y",
+      "name": "NewbiexDzdz",
+      "role": "USER",
+      "level": 51
+    },
+    "message": "/ni",
+    "timestamp": "2026-05-21T03:52:36.169Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "7001fed6-5d8a-4759-97fb-f4d659e9cea0",
+      "shortId": "C3F13Y",
+      "name": "NewbiexDzdz",
+      "role": "USER",
+      "level": 51
+    },
+    "message": "/players",
+    "timestamp": "2026-05-21T03:53:26.832Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "7001fed6-5d8a-4759-97fb-f4d659e9cea0",
+      "shortId": "C3F13Y",
+      "name": "NewbiexDzdz",
+      "role": "USER",
+      "level": 51
+    },
+    "message": "/enter",
+    "timestamp": "2026-05-21T03:56:18.427Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "7001fed6-5d8a-4759-97fb-f4d659e9cea0",
+      "shortId": "C3F13Y",
+      "name": "NewbiexDzdz",
+      "role": "USER",
+      "level": 51
+    },
+    "message": "/giveaway",
+    "timestamp": "2026-05-21T03:56:43.790Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "7001fed6-5d8a-4759-97fb-f4d659e9cea0",
+      "shortId": "C3F13Y",
+      "name": "NewbiexDzdz",
+      "role": "USER",
+      "level": 51
+    },
+    "message": "/commands",
+    "timestamp": "2026-05-21T03:56:53.005Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "7001fed6-5d8a-4759-97fb-f4d659e9cea0",
+      "shortId": "C3F13Y",
+      "name": "NewbiexDzdz",
+      "role": "USER",
+      "level": 51
+    },
+    "message": "/c10",
+    "timestamp": "2026-05-21T03:57:03.195Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "7001fed6-5d8a-4759-97fb-f4d659e9cea0",
+      "shortId": "C3F13Y",
+      "name": "NewbiexDzdz",
+      "role": "USER",
+      "level": 51
+    },
+    "message": "/toprep",
+    "timestamp": "2026-05-21T03:57:12.623Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "7001fed6-5d8a-4759-97fb-f4d659e9cea0",
+      "shortId": "C3F13Y",
+      "name": "NewbiexDzdz",
+      "role": "USER",
+      "level": 51
+    },
+    "message": "/c1",
+    "timestamp": "2026-05-21T03:57:20.651Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "7001fed6-5d8a-4759-97fb-f4d659e9cea0",
+      "shortId": "C3F13Y",
+      "name": "NewbiexDzdz",
+      "role": "USER",
+      "level": 51
+    },
+    "message": "/random",
+    "timestamp": "2026-05-21T03:57:32.080Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "7001fed6-5d8a-4759-97fb-f4d659e9cea0",
+      "shortId": "C3F13Y",
+      "name": "NewbiexDzdz",
+      "role": "USER",
+      "level": 51
+    },
+    "message": "/expensiveitems",
+    "timestamp": "2026-05-21T03:57:46.165Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "7001fed6-5d8a-4759-97fb-f4d659e9cea0",
+      "shortId": "C3F13Y",
+      "name": "NewbiexDzdz",
+      "role": "USER",
+      "level": 51
+    },
+    "message": "/locate Mage",
+    "timestamp": "2026-05-21T03:58:14.016Z"
   }
 ]
