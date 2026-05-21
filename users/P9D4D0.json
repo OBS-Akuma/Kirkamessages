@@ -34,5 +34,29 @@
     },
     "message": "[Choco||BODY_SKIN|LEGENDARY]",
     "timestamp": "2026-05-16T08:26:03.295Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "74c40a60-d700-4a26-a2e1-4b889b9d5089",
+      "shortId": "P9D4D0",
+      "name": "Ace.",
+      "role": "USER",
+      "level": 30
+    },
+    "message": "[R32|Shark|WEAPON_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-21T07:37:06.500Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "74c40a60-d700-4a26-a2e1-4b889b9d5089",
+      "shortId": "P9D4D0",
+      "name": "Ace.",
+      "role": "USER",
+      "level": 30
+    },
+    "message": "/price r32",
+    "timestamp": "2026-05-21T07:37:21.242Z"
   }
 ]
