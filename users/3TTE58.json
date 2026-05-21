@@ -346,5 +346,77 @@
     },
     "message": "thanks for it",
     "timestamp": "2026-05-20T11:26:36.740Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "491a5500-95e2-4ed9-8b90-294031e0b1d3",
+      "shortId": "3TTE58",
+      "name": "Delicate",
+      "role": "USER",
+      "level": 19
+    },
+    "message": "/locate [Stingray|Tomahawk|WEAPON_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-21T07:56:21.035Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "491a5500-95e2-4ed9-8b90-294031e0b1d3",
+      "shortId": "3TTE58",
+      "name": "Delicate",
+      "role": "USER",
+      "level": 19
+    },
+    "message": "/inv #SKK6YZ",
+    "timestamp": "2026-05-21T08:06:48.855Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "491a5500-95e2-4ed9-8b90-294031e0b1d3",
+      "shortId": "3TTE58",
+      "name": "Delicate",
+      "role": "USER",
+      "level": 19
+    },
+    "message": "bruh",
+    "timestamp": "2026-05-21T08:07:04.055Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "491a5500-95e2-4ed9-8b90-294031e0b1d3",
+      "shortId": "3TTE58",
+      "name": "Delicate",
+      "role": "USER",
+      "level": 19
+    },
+    "message": "hii",
+    "timestamp": "2026-05-21T08:07:07.311Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "491a5500-95e2-4ed9-8b90-294031e0b1d3",
+      "shortId": "3TTE58",
+      "name": "Delicate",
+      "role": "USER",
+      "level": 19
+    },
+    "message": "u dont give me offier",
+    "timestamp": "2026-05-21T08:07:13.559Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "491a5500-95e2-4ed9-8b90-294031e0b1d3",
+      "shortId": "3TTE58",
+      "name": "Delicate",
+      "role": "USER",
+      "level": 19
+    },
+    "message": "i am black",
+    "timestamp": "2026-05-21T08:07:18.622Z"
   }
 ]
