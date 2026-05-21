@@ -142,5 +142,353 @@
     },
     "message": "I am poor",
     "timestamp": "2026-05-20T12:08:23.496Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "ecfda10f-c097-4dfa-913d-39dab3816242",
+      "shortId": "5Y7BV2",
+      "name": "SubZero",
+      "role": "USER",
+      "level": 12
+    },
+    "message": "trading {ivoire]",
+    "timestamp": "2026-05-21T18:32:58.964Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "ecfda10f-c097-4dfa-913d-39dab3816242",
+      "shortId": "5Y7BV2",
+      "name": "SubZero",
+      "role": "USER",
+      "level": 12
+    },
+    "message": "trading [Ivoire|Revolver|WEAPON_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-21T18:33:17.537Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "ecfda10f-c097-4dfa-913d-39dab3816242",
+      "shortId": "5Y7BV2",
+      "name": "SubZero",
+      "role": "USER",
+      "level": 12
+    },
+    "message": "anyone want [ivoire[",
+    "timestamp": "2026-05-21T18:33:32.900Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "ecfda10f-c097-4dfa-913d-39dab3816242",
+      "shortId": "5Y7BV2",
+      "name": "SubZero",
+      "role": "USER",
+      "level": 12
+    },
+    "message": "anyone want [Ivoire|Revolver|WEAPON_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-21T18:33:50.864Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "ecfda10f-c097-4dfa-913d-39dab3816242",
+      "shortId": "5Y7BV2",
+      "name": "SubZero",
+      "role": "USER",
+      "level": 12
+    },
+    "message": "TRADING {ivoire]",
+    "timestamp": "2026-05-21T18:36:18.485Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "ecfda10f-c097-4dfa-913d-39dab3816242",
+      "shortId": "5Y7BV2",
+      "name": "SubZero",
+      "role": "USER",
+      "level": 12
+    },
+    "message": "TRADING [Ivoire|Revolver|WEAPON_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-21T18:36:28.826Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "ecfda10f-c097-4dfa-913d-39dab3816242",
+      "shortId": "5Y7BV2",
+      "name": "SubZero",
+      "role": "USER",
+      "level": 12
+    },
+    "message": "/confirmwager",
+    "timestamp": "2026-05-21T18:37:15.000Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "ecfda10f-c097-4dfa-913d-39dab3816242",
+      "shortId": "5Y7BV2",
+      "name": "SubZero",
+      "role": "USER",
+      "level": 12
+    },
+    "message": "/price ivoire",
+    "timestamp": "2026-05-21T18:37:59.907Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "ecfda10f-c097-4dfa-913d-39dab3816242",
+      "shortId": "5Y7BV2",
+      "name": "SubZero",
+      "role": "USER",
+      "level": 12
+    },
+    "message": "/price spooder",
+    "timestamp": "2026-05-21T18:38:09.541Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "ecfda10f-c097-4dfa-913d-39dab3816242",
+      "shortId": "5Y7BV2",
+      "name": "SubZero",
+      "role": "USER",
+      "level": 12
+    },
+    "message": "/claim",
+    "timestamp": "2026-05-21T18:38:37.544Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "ecfda10f-c097-4dfa-913d-39dab3816242",
+      "shortId": "5Y7BV2",
+      "name": "SubZero",
+      "role": "USER",
+      "level": 12
+    },
+    "message": "TRADING [Ivoire|Revolver|WEAPON_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-21T18:39:19.035Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "ecfda10f-c097-4dfa-913d-39dab3816242",
+      "shortId": "5Y7BV2",
+      "name": "SubZero",
+      "role": "USER",
+      "level": 12
+    },
+    "message": "/hm ivoire",
+    "timestamp": "2026-05-21T18:45:26.547Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "ecfda10f-c097-4dfa-913d-39dab3816242",
+      "shortId": "5Y7BV2",
+      "name": "SubZero",
+      "role": "USER",
+      "level": 12
+    },
+    "message": "/trading [Spooder|Shark|WEAPON_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-21T18:45:52.521Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "ecfda10f-c097-4dfa-913d-39dab3816242",
+      "shortId": "5Y7BV2",
+      "name": "SubZero",
+      "role": "USER",
+      "level": 12
+    },
+    "message": "trading [Spooder|Shark|WEAPON_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-21T18:45:55.593Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "ecfda10f-c097-4dfa-913d-39dab3816242",
+      "shortId": "5Y7BV2",
+      "name": "SubZero",
+      "role": "USER",
+      "level": 12
+    },
+    "message": "legacy for what",
+    "timestamp": "2026-05-21T18:46:28.915Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "ecfda10f-c097-4dfa-913d-39dab3816242",
+      "shortId": "5Y7BV2",
+      "name": "SubZero",
+      "role": "USER",
+      "level": 12
+    },
+    "message": "what do u have",
+    "timestamp": "2026-05-21T18:46:36.295Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "ecfda10f-c097-4dfa-913d-39dab3816242",
+      "shortId": "5Y7BV2",
+      "name": "SubZero",
+      "role": "USER",
+      "level": 12
+    },
+    "message": "do u have any body skins leg",
+    "timestamp": "2026-05-21T18:47:02.135Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "ecfda10f-c097-4dfa-913d-39dab3816242",
+      "shortId": "5Y7BV2",
+      "name": "SubZero",
+      "role": "USER",
+      "level": 12
+    },
+    "message": "fuhhhh nawww",
+    "timestamp": "2026-05-21T18:47:36.661Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "ecfda10f-c097-4dfa-913d-39dab3816242",
+      "shortId": "5Y7BV2",
+      "name": "SubZero",
+      "role": "USER",
+      "level": 12
+    },
+    "message": "any mythic skin leg",
+    "timestamp": "2026-05-21T18:47:47.276Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "ecfda10f-c097-4dfa-913d-39dab3816242",
+      "shortId": "5Y7BV2",
+      "name": "SubZero",
+      "role": "USER",
+      "level": 12
+    },
+    "message": "oh",
+    "timestamp": "2026-05-21T18:48:16.189Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "ecfda10f-c097-4dfa-913d-39dab3816242",
+      "shortId": "5Y7BV2",
+      "name": "SubZero",
+      "role": "USER",
+      "level": 12
+    },
+    "message": "leg I'll give u [Ivoire|Revolver|WEAPON_SKIN|MYTHICAL] its rarer than spooder",
+    "timestamp": "2026-05-21T18:48:47.269Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "ecfda10f-c097-4dfa-913d-39dab3816242",
+      "shortId": "5Y7BV2",
+      "name": "SubZero",
+      "role": "USER",
+      "level": 12
+    },
+    "message": "for what",
+    "timestamp": "2026-05-21T18:49:12.226Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "ecfda10f-c097-4dfa-913d-39dab3816242",
+      "shortId": "5Y7BV2",
+      "name": "SubZero",
+      "role": "USER",
+      "level": 12
+    },
+    "message": "800",
+    "timestamp": "2026-05-21T18:49:45.230Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "ecfda10f-c097-4dfa-913d-39dab3816242",
+      "shortId": "5Y7BV2",
+      "name": "SubZero",
+      "role": "USER",
+      "level": 12
+    },
+    "message": "ok",
+    "timestamp": "2026-05-21T18:50:11.955Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "ecfda10f-c097-4dfa-913d-39dab3816242",
+      "shortId": "5Y7BV2",
+      "name": "SubZero",
+      "role": "USER",
+      "level": 12
+    },
+    "message": "thx",
+    "timestamp": "2026-05-21T18:51:23.963Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "ecfda10f-c097-4dfa-913d-39dab3816242",
+      "shortId": "5Y7BV2",
+      "name": "SubZero",
+      "role": "USER",
+      "level": 12
+    },
+    "message": "/hm ivoire",
+    "timestamp": "2026-05-21T18:52:02.036Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "ecfda10f-c097-4dfa-913d-39dab3816242",
+      "shortId": "5Y7BV2",
+      "name": "SubZero",
+      "role": "USER",
+      "level": 12
+    },
+    "message": "/hm spooder",
+    "timestamp": "2026-05-21T18:52:09.283Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "ecfda10f-c097-4dfa-913d-39dab3816242",
+      "shortId": "5Y7BV2",
+      "name": "SubZero",
+      "role": "USER",
+      "level": 12
+    },
+    "message": "#lp4857",
+    "timestamp": "2026-05-21T18:53:27.840Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "ecfda10f-c097-4dfa-913d-39dab3816242",
+      "shortId": "5Y7BV2",
+      "name": "SubZero",
+      "role": "USER",
+      "level": 12
+    },
+    "message": "#LP4857",
+    "timestamp": "2026-05-21T18:53:33.832Z"
   }
 ]
