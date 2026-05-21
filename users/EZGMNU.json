@@ -238,5 +238,17 @@
     },
     "message": "i have a question , which skin has 0 owner!",
     "timestamp": "2026-05-16T06:13:30.558Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "a007f2aa-229c-4966-bb1f-72afc55c3260",
+      "shortId": "EZGMNU",
+      "name": "JAT_BOY",
+      "role": "USER",
+      "level": 23
+    },
+    "message": "helloooo guys !!!",
+    "timestamp": "2026-05-18T09:50:48.878Z"
   }
 ]
