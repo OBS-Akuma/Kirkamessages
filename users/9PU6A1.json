@@ -958,5 +958,17 @@
     },
     "message": "okkk",
     "timestamp": "2026-05-16T14:57:35.248Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "f4ee79aa-6e34-4add-9bb3-82f9d66d11c0",
+      "shortId": "9PU6A1",
+      "name": "Spicy",
+      "role": "USER",
+      "level": 67
+    },
+    "message": "[Cyber SCAR|SCAR|WEAPON_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-19T10:48:57.440Z"
   }
 ]
