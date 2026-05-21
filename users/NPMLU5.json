@@ -1,0 +1,50 @@
+[
+  {
+    "type": 2,
+    "user": {
+      "id": "41a7c015-3367-4140-914b-399b49938d79",
+      "shortId": "NPMLU5",
+      "name": "ifingerpaint",
+      "role": "USER",
+      "level": 24
+    },
+    "message": "/claim",
+    "timestamp": "2026-05-21T13:00:54.405Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "41a7c015-3367-4140-914b-399b49938d79",
+      "shortId": "NPMLU5",
+      "name": "ifingerpaint",
+      "role": "USER",
+      "level": 24
+    },
+    "message": "i got 1 wood",
+    "timestamp": "2026-05-21T13:02:44.533Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "41a7c015-3367-4140-914b-399b49938d79",
+      "shortId": "NPMLU5",
+      "name": "ifingerpaint",
+      "role": "USER",
+      "level": 24
+    },
+    "message": "anyone wanna offter?",
+    "timestamp": "2026-05-21T13:02:49.839Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "41a7c015-3367-4140-914b-399b49938d79",
+      "shortId": "NPMLU5",
+      "name": "ifingerpaint",
+      "role": "USER",
+      "level": 24
+    },
+    "message": "/inv",
+    "timestamp": "2026-05-21T13:02:51.993Z"
+  }
+]
