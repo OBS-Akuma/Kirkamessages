@@ -16390,5 +16390,29 @@
     },
     "message": "[Helendus|VITA|WEAPON_SKIN|MYTHICAL]",
     "timestamp": "2026-05-20T12:09:08.317Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "a93a6c05-0354-4898-b468-d0ac3266e380",
+      "shortId": "WORKJK",
+      "name": "Ghost",
+      "role": "USER",
+      "level": 76
+    },
+    "message": "/locate stingray",
+    "timestamp": "2026-05-21T11:44:15.788Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "a93a6c05-0354-4898-b468-d0ac3266e380",
+      "shortId": "WORKJK",
+      "name": "Ghost",
+      "role": "USER",
+      "level": 76
+    },
+    "message": "/hm stingray",
+    "timestamp": "2026-05-21T11:44:41.738Z"
   }
 ]
