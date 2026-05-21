@@ -1,0 +1,26 @@
+[
+  {
+    "type": 2,
+    "user": {
+      "id": "hE9NqsjqDVPgH4F57qaDrkQvBN22",
+      "shortId": "HWCYW2",
+      "name": "FreakySoldier.",
+      "role": "USER",
+      "level": 38
+    },
+    "message": "/price [Blackhole|Bayonet|WEAPON_SKIN|PARANORMAL]",
+    "timestamp": "2026-05-18T07:04:30.652Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "hE9NqsjqDVPgH4F57qaDrkQvBN22",
+      "shortId": "HWCYW2",
+      "name": "FreakySoldier.",
+      "role": "USER",
+      "level": 38
+    },
+    "message": "/price [Blackout|Revolver|WEAPON_SKIN|LEGENDARY]",
+    "timestamp": "2026-05-18T07:05:51.445Z"
+  }
+]
