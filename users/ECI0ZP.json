@@ -118,5 +118,17 @@
     },
     "message": "damn first toma quest after 2 years",
     "timestamp": "2026-05-20T12:07:12.277Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "73f39405-343d-46a5-98f1-e401d46b81c0",
+      "shortId": "ECI0ZP",
+      "name": "Dead-Shot",
+      "role": "USER",
+      "level": 100
+    },
+    "message": "elllo",
+    "timestamp": "2026-05-21T18:08:51.253Z"
   }
 ]
