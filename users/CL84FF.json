@@ -1,0 +1,26 @@
+[
+  {
+    "type": 2,
+    "user": {
+      "id": "2941140b-2c38-4933-a5a6-6277efee9f00",
+      "shortId": "CL84FF",
+      "name": "CheeseKing",
+      "role": "USER",
+      "level": 10
+    },
+    "message": "give me skin plz",
+    "timestamp": "2026-05-19T19:54:44.133Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "2941140b-2c38-4933-a5a6-6277efee9f00",
+      "shortId": "CL84FF",
+      "name": "CheeseKing",
+      "role": "USER",
+      "level": 10
+    },
+    "message": "givee me skin pwease",
+    "timestamp": "2026-05-19T19:55:18.164Z"
+  }
+]
