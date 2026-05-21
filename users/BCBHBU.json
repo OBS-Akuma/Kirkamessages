@@ -18238,5 +18238,305 @@
     },
     "message": "trading gamma",
     "timestamp": "2026-05-20T11:56:47.596Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "462b7f5f-1cb4-4f46-a1e1-f9c092da6a22",
+      "shortId": "BCBHBU",
+      "name": "canel",
+      "role": "USER",
+      "level": 99
+    },
+    "message": "hi guys",
+    "timestamp": "2026-05-21T17:36:47.672Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "462b7f5f-1cb4-4f46-a1e1-f9c092da6a22",
+      "shortId": "BCBHBU",
+      "name": "canel",
+      "role": "USER",
+      "level": 99
+    },
+    "message": "trading [Gamma||BODY_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-21T17:36:50.948Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "462b7f5f-1cb4-4f46-a1e1-f9c092da6a22",
+      "shortId": "BCBHBU",
+      "name": "canel",
+      "role": "USER",
+      "level": 99
+    },
+    "message": "/hm [Gamma||BODY_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-21T17:37:05.756Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "462b7f5f-1cb4-4f46-a1e1-f9c092da6a22",
+      "shortId": "BCBHBU",
+      "name": "canel",
+      "role": "USER",
+      "level": 99
+    },
+    "message": "/hm [Wolfy||BODY_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-21T17:37:10.308Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "462b7f5f-1cb4-4f46-a1e1-f9c092da6a22",
+      "shortId": "BCBHBU",
+      "name": "canel",
+      "role": "USER",
+      "level": 99
+    },
+    "message": "/price [Wolfy||BODY_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-21T17:37:18.701Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "462b7f5f-1cb4-4f46-a1e1-f9c092da6a22",
+      "shortId": "BCBHBU",
+      "name": "canel",
+      "role": "USER",
+      "level": 99
+    },
+    "message": "/auto [Gamma||BODY_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-21T17:37:32.643Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "462b7f5f-1cb4-4f46-a1e1-f9c092da6a22",
+      "shortId": "BCBHBU",
+      "name": "canel",
+      "role": "USER",
+      "level": 99
+    },
+    "message": "/iv",
+    "timestamp": "2026-05-21T17:37:39.586Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "462b7f5f-1cb4-4f46-a1e1-f9c092da6a22",
+      "shortId": "BCBHBU",
+      "name": "canel",
+      "role": "USER",
+      "level": 99
+    },
+    "message": "/inv",
+    "timestamp": "2026-05-21T17:37:41.913Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "462b7f5f-1cb4-4f46-a1e1-f9c092da6a22",
+      "shortId": "BCBHBU",
+      "name": "canel",
+      "role": "USER",
+      "level": 99
+    },
+    "message": "qwert",
+    "timestamp": "2026-05-21T17:38:05.052Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "462b7f5f-1cb4-4f46-a1e1-f9c092da6a22",
+      "shortId": "BCBHBU",
+      "name": "canel",
+      "role": "USER",
+      "level": 99
+    },
+    "message": "onryo and warlord for gamma ? #TRE873",
+    "timestamp": "2026-05-21T17:38:15.848Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "462b7f5f-1cb4-4f46-a1e1-f9c092da6a22",
+      "shortId": "BCBHBU",
+      "name": "canel",
+      "role": "USER",
+      "level": 99
+    },
+    "message": "ok np #TRE873",
+    "timestamp": "2026-05-21T17:38:39.893Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "462b7f5f-1cb4-4f46-a1e1-f9c092da6a22",
+      "shortId": "BCBHBU",
+      "name": "canel",
+      "role": "USER",
+      "level": 99
+    },
+    "message": "nexus",
+    "timestamp": "2026-05-21T17:38:45.143Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "462b7f5f-1cb4-4f46-a1e1-f9c092da6a22",
+      "shortId": "BCBHBU",
+      "name": "canel",
+      "role": "USER",
+      "level": 99
+    },
+    "message": "onryo for gamma ?",
+    "timestamp": "2026-05-21T17:38:49.862Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "462b7f5f-1cb4-4f46-a1e1-f9c092da6a22",
+      "shortId": "BCBHBU",
+      "name": "canel",
+      "role": "USER",
+      "level": 99
+    },
+    "message": "/hm [Onryo||BODY_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-21T17:39:22.220Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "462b7f5f-1cb4-4f46-a1e1-f9c092da6a22",
+      "shortId": "BCBHBU",
+      "name": "canel",
+      "role": "USER",
+      "level": 99
+    },
+    "message": "nexus gamma 40m onryo 30m",
+    "timestamp": "2026-05-21T17:39:29.559Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "462b7f5f-1cb4-4f46-a1e1-f9c092da6a22",
+      "shortId": "BCBHBU",
+      "name": "canel",
+      "role": "USER",
+      "level": 99
+    },
+    "message": "/locate [Gamma||BODY_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-21T17:40:28.449Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "462b7f5f-1cb4-4f46-a1e1-f9c092da6a22",
+      "shortId": "BCBHBU",
+      "name": "canel",
+      "role": "USER",
+      "level": 99
+    },
+    "message": "/inv #EJ1PCL",
+    "timestamp": "2026-05-21T17:40:43.165Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "462b7f5f-1cb4-4f46-a1e1-f9c092da6a22",
+      "shortId": "BCBHBU",
+      "name": "canel",
+      "role": "USER",
+      "level": 99
+    },
+    "message": "/hm [Pandora||BODY_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-21T17:50:56.457Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "462b7f5f-1cb4-4f46-a1e1-f9c092da6a22",
+      "shortId": "BCBHBU",
+      "name": "canel",
+      "role": "USER",
+      "level": 99
+    },
+    "message": "trading [Gamma||BODY_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-21T17:51:13.428Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "462b7f5f-1cb4-4f46-a1e1-f9c092da6a22",
+      "shortId": "BCBHBU",
+      "name": "canel",
+      "role": "USER",
+      "level": 99
+    },
+    "message": "/hm [Jingles|VITA|WEAPON_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-21T17:51:29.667Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "462b7f5f-1cb4-4f46-a1e1-f9c092da6a22",
+      "shortId": "BCBHBU",
+      "name": "canel",
+      "role": "USER",
+      "level": 99
+    },
+    "message": "listener",
+    "timestamp": "2026-05-21T17:51:44.376Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "462b7f5f-1cb4-4f46-a1e1-f9c092da6a22",
+      "shortId": "BCBHBU",
+      "name": "canel",
+      "role": "USER",
+      "level": 99
+    },
+    "message": "gamma for it ?",
+    "timestamp": "2026-05-21T17:51:52.513Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "462b7f5f-1cb4-4f46-a1e1-f9c092da6a22",
+      "shortId": "BCBHBU",
+      "name": "canel",
+      "role": "USER",
+      "level": 99
+    },
+    "message": "/hm [Cloud||BODY_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-21T17:51:58.852Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "462b7f5f-1cb4-4f46-a1e1-f9c092da6a22",
+      "shortId": "BCBHBU",
+      "name": "canel",
+      "role": "USER",
+      "level": 99
+    },
+    "message": "yes",
+    "timestamp": "2026-05-21T17:52:12.331Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "462b7f5f-1cb4-4f46-a1e1-f9c092da6a22",
+      "shortId": "BCBHBU",
+      "name": "canel",
+      "role": "USER",
+      "level": 99
+    },
+    "message": "no",
+    "timestamp": "2026-05-21T17:52:23.286Z"
   }
 ]
