@@ -190,5 +190,77 @@
     },
     "message": "/ trade offer my wood for your wood",
     "timestamp": "2026-05-21T03:05:41.931Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "40216105-8d40-40df-bdb0-8d85f1982fc8",
+      "shortId": "J7YWBX",
+      "name": "jay_007",
+      "role": "USER",
+      "level": 22
+    },
+    "message": "/inv",
+    "timestamp": "2026-05-21T05:13:20.441Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "40216105-8d40-40df-bdb0-8d85f1982fc8",
+      "shortId": "J7YWBX",
+      "name": "jay_007",
+      "role": "USER",
+      "level": 22
+    },
+    "message": "/ trade reed for reed",
+    "timestamp": "2026-05-21T05:13:49.085Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "40216105-8d40-40df-bdb0-8d85f1982fc8",
+      "shortId": "J7YWBX",
+      "name": "jay_007",
+      "role": "USER",
+      "level": 22
+    },
+    "message": "??",
+    "timestamp": "2026-05-21T05:13:51.045Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "40216105-8d40-40df-bdb0-8d85f1982fc8",
+      "shortId": "J7YWBX",
+      "name": "jay_007",
+      "role": "USER",
+      "level": 22
+    },
+    "message": "inv",
+    "timestamp": "2026-05-21T05:13:56.640Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "40216105-8d40-40df-bdb0-8d85f1982fc8",
+      "shortId": "J7YWBX",
+      "name": "jay_007",
+      "role": "USER",
+      "level": 22
+    },
+    "message": "/inv",
+    "timestamp": "2026-05-21T05:14:05.640Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "40216105-8d40-40df-bdb0-8d85f1982fc8",
+      "shortId": "J7YWBX",
+      "name": "jay_007",
+      "role": "USER",
+      "level": 22
+    },
+    "message": "accpt",
+    "timestamp": "2026-05-21T05:14:09.629Z"
   }
 ]
