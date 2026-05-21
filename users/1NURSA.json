@@ -34,5 +34,17 @@
     },
     "message": "#N1BCQ1",
     "timestamp": "2026-05-14T17:52:02.709Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "ad00fded-de94-4960-9ba0-747336c3d64c",
+      "shortId": "1NURSA",
+      "name": "twilight_loid",
+      "role": "USER",
+      "level": 47
+    },
+    "message": "[Arachne|VITA|WEAPON_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-21T13:54:32.422Z"
   }
 ]
