@@ -58,5 +58,101 @@
     },
     "message": "I need [Guts||BODY_SKIN|LEGENDARY]",
     "timestamp": "2026-05-21T10:36:21.513Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "Bo5syzdM5uQBtSwJZLDRsffkmZ72",
+      "shortId": "8VGLUQ",
+      "name": "Muffinkrieger",
+      "role": "USER",
+      "level": 14
+    },
+    "message": "/price cloud",
+    "timestamp": "2026-05-21T11:55:52.786Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "Bo5syzdM5uQBtSwJZLDRsffkmZ72",
+      "shortId": "8VGLUQ",
+      "name": "Muffinkrieger",
+      "role": "USER",
+      "level": 14
+    },
+    "message": "/price gamma",
+    "timestamp": "2026-05-21T11:56:05.127Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "Bo5syzdM5uQBtSwJZLDRsffkmZ72",
+      "shortId": "8VGLUQ",
+      "name": "Muffinkrieger",
+      "role": "USER",
+      "level": 15
+    },
+    "message": "i need [LMAO||BODY_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-21T14:19:53.884Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "Bo5syzdM5uQBtSwJZLDRsffkmZ72",
+      "shortId": "8VGLUQ",
+      "name": "Muffinkrieger",
+      "role": "USER",
+      "level": 15
+    },
+    "message": "hanna i give [Blast AR-9|AR-9|WEAPON_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-21T14:22:14.588Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "Bo5syzdM5uQBtSwJZLDRsffkmZ72",
+      "shortId": "8VGLUQ",
+      "name": "Muffinkrieger",
+      "role": "USER",
+      "level": 15
+    },
+    "message": "hanna nah i have dis bayonet",
+    "timestamp": "2026-05-21T14:24:08.890Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "Bo5syzdM5uQBtSwJZLDRsffkmZ72",
+      "shortId": "8VGLUQ",
+      "name": "Muffinkrieger",
+      "role": "USER",
+      "level": 15
+    },
+    "message": "i need [Vocaloid|SCAR|WEAPON_SKIN|LEGENDARY]",
+    "timestamp": "2026-05-21T14:27:34.360Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "Bo5syzdM5uQBtSwJZLDRsffkmZ72",
+      "shortId": "8VGLUQ",
+      "name": "Muffinkrieger",
+      "role": "USER",
+      "level": 15
+    },
+    "message": "tr[Blast VITA|VITA|WEAPON_SKIN|MYTHICAL],[Blast AR-9|AR-9|WEAPON_SKIN|MYTHICAL],[Blast M60|M60|WEAPON_SKIN|MYTHICAL],[Blast Shark|Shark|WEAPON_SKIN|MYTHICAL],[Blast LAR|LAR|WEAPON_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-21T14:30:32.009Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "Bo5syzdM5uQBtSwJZLDRsffkmZ72",
+      "shortId": "8VGLUQ",
+      "name": "Muffinkrieger",
+      "role": "USER",
+      "level": 15
+    },
+    "message": "/enter",
+    "timestamp": "2026-05-21T14:31:19.979Z"
   }
 ]
