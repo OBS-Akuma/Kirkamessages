@@ -14446,5 +14446,17 @@
     },
     "message": "Accept is not bad offer",
     "timestamp": "2026-05-21T04:17:09.617Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "nMIphnUUG0d0O6FFix2cU7iMda92",
+      "shortId": "H415SN",
+      "name": "[EDG]Client",
+      "role": "USER",
+      "level": 68
+    },
+    "message": "/auto bloom",
+    "timestamp": "2026-05-21T06:01:51.162Z"
   }
 ]
