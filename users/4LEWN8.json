@@ -1882,5 +1882,17 @@
     },
     "message": "tr[Uranium||BODY_SKIN|MYTHICAL]+adds lf [Ghillie||BODY_SKIN|MYTHICAL].",
     "timestamp": "2026-05-21T04:01:55.266Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "06c6f928-3486-42c9-9679-0869072353b2",
+      "shortId": "4LEWN8",
+      "name": "Kiwii",
+      "role": "USER",
+      "level": 50
+    },
+    "message": "/cancel trade",
+    "timestamp": "2026-05-21T12:47:50.755Z"
   }
 ]
