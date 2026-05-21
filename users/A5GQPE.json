@@ -1,0 +1,26 @@
+[
+  {
+    "type": 2,
+    "user": {
+      "id": "f01623f6-eefb-425f-bd9a-e006ca3347a7",
+      "shortId": "A5GQPE",
+      "name": "Zyco",
+      "role": "USER",
+      "level": 21
+    },
+    "message": "hey can i join your team ?",
+    "timestamp": "2026-05-21T05:02:17.348Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "f01623f6-eefb-425f-bd9a-e006ca3347a7",
+      "shortId": "A5GQPE",
+      "name": "Zyco",
+      "role": "USER",
+      "level": 21
+    },
+    "message": "hi guys can i join you clan ?",
+    "timestamp": "2026-05-21T05:09:43.276Z"
+  }
+]
