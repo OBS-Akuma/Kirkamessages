@@ -16342,5 +16342,53 @@
     },
     "message": "u got [Icey||BODY_SKIN|LEGENDARY][Nova|SCAR|WEAPON_SKIN|MYTHICAL]?",
     "timestamp": "2026-05-18T07:42:42.038Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "a93a6c05-0354-4898-b468-d0ac3266e380",
+      "shortId": "WORKJK",
+      "name": "Ghost",
+      "role": "USER",
+      "level": 76
+    },
+    "message": "/owners daunt",
+    "timestamp": "2026-05-20T12:06:21.532Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "a93a6c05-0354-4898-b468-d0ac3266e380",
+      "shortId": "WORKJK",
+      "name": "Ghost",
+      "role": "USER",
+      "level": 76
+    },
+    "message": "/hm daunt",
+    "timestamp": "2026-05-20T12:06:32.411Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "a93a6c05-0354-4898-b468-d0ac3266e380",
+      "shortId": "WORKJK",
+      "name": "Ghost",
+      "role": "USER",
+      "level": 76
+    },
+    "message": "/locate daunt",
+    "timestamp": "2026-05-20T12:06:40.093Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "a93a6c05-0354-4898-b468-d0ac3266e380",
+      "shortId": "WORKJK",
+      "name": "Ghost",
+      "role": "USER",
+      "level": 76
+    },
+    "message": "[Helendus|VITA|WEAPON_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-20T12:09:08.317Z"
   }
 ]
