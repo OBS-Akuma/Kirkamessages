@@ -382,5 +382,17 @@
     },
     "message": "/locate [Apollo|SCAR|WEAPON_SKIN|MYTHICAL]",
     "timestamp": "2026-05-16T11:33:42.965Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "feb7f366-43b8-4e9c-8c9f-dc1faf2372dd",
+      "shortId": "NKUZU0",
+      "name": "Yelt",
+      "role": "USER",
+      "level": 101
+    },
+    "message": "[Mushroom||BODY_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-20T11:58:53.435Z"
   }
 ]
