@@ -12478,5 +12478,53 @@
     },
     "message": "Trading [Guts||BODY_SKIN|LEGENDARY] for 5k [Golden||CHEST|LEGENDARY] ;\\",
     "timestamp": "2026-05-21T07:04:54.491Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "6828517b-6c30-42c0-a4b1-2601e1dd5206",
+      "shortId": "QR0ITM",
+      "name": "Kenapa-Nyak",
+      "role": "USER",
+      "level": 100
+    },
+    "message": "trading guts",
+    "timestamp": "2026-05-21T07:27:35.728Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "6828517b-6c30-42c0-a4b1-2601e1dd5206",
+      "shortId": "QR0ITM",
+      "name": "Kenapa-Nyak",
+      "role": "USER",
+      "level": 100
+    },
+    "message": "damn dream",
+    "timestamp": "2026-05-21T07:29:50.507Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "6828517b-6c30-42c0-a4b1-2601e1dd5206",
+      "shortId": "QR0ITM",
+      "name": "Kenapa-Nyak",
+      "role": "USER",
+      "level": 100
+    },
+    "message": "700m+ for rampage",
+    "timestamp": "2026-05-21T07:30:05.540Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "6828517b-6c30-42c0-a4b1-2601e1dd5206",
+      "shortId": "QR0ITM",
+      "name": "Kenapa-Nyak",
+      "role": "USER",
+      "level": 100
+    },
+    "message": "/price [rampage",
+    "timestamp": "2026-05-21T07:30:13.253Z"
   }
 ]
