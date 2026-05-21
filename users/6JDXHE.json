@@ -58,5 +58,29 @@
     },
     "message": "[Polka||BODY_SKIN|MYTHICAL]",
     "timestamp": "2026-05-12T15:24:42.092Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "guest-d15d6994-b5c7-4828-b57e-31f29268e511",
+      "shortId": "6JDXHE",
+      "name": "TUNGTUNGSAHUR.",
+      "role": "USER",
+      "level": 30
+    },
+    "message": "#SIGMA",
+    "timestamp": "2026-05-21T15:47:22.991Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "guest-d15d6994-b5c7-4828-b57e-31f29268e511",
+      "shortId": "6JDXHE",
+      "name": "TUNGTUNGSAHUR.",
+      "role": "USER",
+      "level": 30
+    },
+    "message": "#SIGMAS",
+    "timestamp": "2026-05-21T15:47:30.670Z"
   }
 ]
