@@ -394,5 +394,41 @@
     },
     "message": "[Singularity||BODY_SKIN|MYTHICAL]",
     "timestamp": "2026-05-16T03:55:38.284Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "cfac251c-29be-40f1-8e77-40d678c7fab6",
+      "shortId": "STUPID",
+      "name": "$harp",
+      "role": "USER",
+      "level": 98
+    },
+    "message": "[bonkers]",
+    "timestamp": "2026-05-16T13:36:29.277Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "cfac251c-29be-40f1-8e77-40d678c7fab6",
+      "shortId": "STUPID",
+      "name": "$harp",
+      "role": "USER",
+      "level": 98
+    },
+    "message": "[Wicked|VITA|WEAPON_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-16T15:08:46.787Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "cfac251c-29be-40f1-8e77-40d678c7fab6",
+      "shortId": "STUPID",
+      "name": "$harp",
+      "role": "USER",
+      "level": 98
+    },
+    "message": "/price [Wicked|VITA|WEAPON_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-16T15:08:50.392Z"
   }
 ]
