@@ -130,5 +130,17 @@
     },
     "message": "/price [cloudy",
     "timestamp": "2026-05-15T21:59:19.069Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "b210c4f2-70c2-4648-812b-c6065bd84041",
+      "shortId": "HBT5IJ",
+      "name": "Invader299",
+      "role": "USER",
+      "level": 100
+    },
+    "message": "/price [shiver",
+    "timestamp": "2026-05-21T12:57:51.219Z"
   }
 ]
