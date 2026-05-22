@@ -1,0 +1,38 @@
+[
+  {
+    "type": 2,
+    "user": {
+      "id": "f36c7788-5381-42f2-b646-c5d8f700a8d1",
+      "shortId": "G559NI",
+      "name": "applecazz",
+      "role": "USER",
+      "level": 22
+    },
+    "message": "can I get free golden chests",
+    "timestamp": "2026-05-21T15:04:15.476Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "f36c7788-5381-42f2-b646-c5d8f700a8d1",
+      "shortId": "G559NI",
+      "name": "applecazz",
+      "role": "USER",
+      "level": 22
+    },
+    "message": "/inv",
+    "timestamp": "2026-05-21T15:12:52.117Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "f36c7788-5381-42f2-b646-c5d8f700a8d1",
+      "shortId": "G559NI",
+      "name": "applecazz",
+      "role": "USER",
+      "level": 22
+    },
+    "message": "can someone gimmegoldens?",
+    "timestamp": "2026-05-21T15:14:12.254Z"
+  }
+]
