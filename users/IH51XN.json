@@ -1510,5 +1510,101 @@
     },
     "message": "/claim",
     "timestamp": "2026-05-15T13:11:31.036Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "89f5517d-5d90-40c8-a84a-8d391351c502",
+      "shortId": "IH51XN",
+      "name": "AllMight",
+      "role": "USER",
+      "level": 37
+    },
+    "message": "yo",
+    "timestamp": "2026-05-16T13:08:48.226Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "89f5517d-5d90-40c8-a84a-8d391351c502",
+      "shortId": "IH51XN",
+      "name": "AllMight",
+      "role": "USER",
+      "level": 37
+    },
+    "message": "check my stats",
+    "timestamp": "2026-05-16T13:08:52.713Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "89f5517d-5d90-40c8-a84a-8d391351c502",
+      "shortId": "IH51XN",
+      "name": "AllMight",
+      "role": "USER",
+      "level": 37
+    },
+    "message": "/stats",
+    "timestamp": "2026-05-16T13:08:53.856Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "89f5517d-5d90-40c8-a84a-8d391351c502",
+      "shortId": "IH51XN",
+      "name": "AllMight",
+      "role": "USER",
+      "level": 37
+    },
+    "message": "/stat",
+    "timestamp": "2026-05-16T13:08:57.925Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "89f5517d-5d90-40c8-a84a-8d391351c502",
+      "shortId": "IH51XN",
+      "name": "AllMight",
+      "role": "USER",
+      "level": 37
+    },
+    "message": "/dailt",
+    "timestamp": "2026-05-16T13:09:01.105Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "89f5517d-5d90-40c8-a84a-8d391351c502",
+      "shortId": "IH51XN",
+      "name": "AllMight",
+      "role": "USER",
+      "level": 37
+    },
+    "message": "/daily",
+    "timestamp": "2026-05-16T13:09:04.133Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "89f5517d-5d90-40c8-a84a-8d391351c502",
+      "shortId": "IH51XN",
+      "name": "AllMight",
+      "role": "USER",
+      "level": 37
+    },
+    "message": "#UBG0HY",
+    "timestamp": "2026-05-16T13:09:21.770Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "89f5517d-5d90-40c8-a84a-8d391351c502",
+      "shortId": "IH51XN",
+      "name": "AllMight",
+      "role": "USER",
+      "level": 38
+    },
+    "message": "#KYQ568",
+    "timestamp": "2026-05-18T10:01:22.107Z"
   }
 ]
