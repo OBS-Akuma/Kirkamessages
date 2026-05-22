@@ -574,5 +574,29 @@
     },
     "message": "offer my anon pls im bored",
     "timestamp": "2026-05-12T03:11:37.610Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "89cfe45f-ae38-4698-8c95-d954cf5d8a08",
+      "shortId": "42P1Q8",
+      "name": "Sick",
+      "role": "USER",
+      "level": 80
+    },
+    "message": "join favela on asia",
+    "timestamp": "2026-05-22T04:36:24.743Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "89cfe45f-ae38-4698-8c95-d954cf5d8a08",
+      "shortId": "42P1Q8",
+      "name": "Sick",
+      "role": "USER",
+      "level": 80
+    },
+    "message": "1 person remaining pls",
+    "timestamp": "2026-05-22T04:36:29.585Z"
   }
 ]
