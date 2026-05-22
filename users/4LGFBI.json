@@ -2758,5 +2758,41 @@
     },
     "message": "pepo",
     "timestamp": "2026-05-22T02:23:43.312Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "xkiNzXE2NVRhVv2juciDJAGV2IG3",
+      "shortId": "4LGFBI",
+      "name": "EzoSensha",
+      "role": "USER",
+      "level": 38
+    },
+    "message": "trade [Golden||CHEST|LEGENDARY] x7000",
+    "timestamp": "2026-05-22T03:33:55.279Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "xkiNzXE2NVRhVv2juciDJAGV2IG3",
+      "shortId": "4LGFBI",
+      "name": "EzoSensha",
+      "role": "USER",
+      "level": 38
+    },
+    "message": "what can i got with [Golden||CHEST|LEGENDARY] x7000",
+    "timestamp": "2026-05-22T03:36:19.516Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "xkiNzXE2NVRhVv2juciDJAGV2IG3",
+      "shortId": "4LGFBI",
+      "name": "EzoSensha",
+      "role": "USER",
+      "level": 38
+    },
+    "message": "trade [Golden||CHEST|LEGENDARY]x7300",
+    "timestamp": "2026-05-22T03:57:34.549Z"
   }
 ]
