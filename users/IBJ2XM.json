@@ -178,5 +178,29 @@
     },
     "message": "/claim",
     "timestamp": "2026-05-14T19:07:10.345Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "TJklp2rWrMVz3nKHI6IZ9FRSRM93",
+      "shortId": "IBJ2XM",
+      "name": "nikosami",
+      "role": "USER",
+      "level": 88
+    },
+    "message": "/auto wolfy",
+    "timestamp": "2026-05-21T18:09:21.157Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "TJklp2rWrMVz3nKHI6IZ9FRSRM93",
+      "shortId": "IBJ2XM",
+      "name": "nikosami",
+      "role": "USER",
+      "level": 88
+    },
+    "message": "/hm wolfy",
+    "timestamp": "2026-05-21T18:09:26.667Z"
   }
 ]
