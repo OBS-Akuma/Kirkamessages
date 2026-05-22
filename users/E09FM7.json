@@ -1,0 +1,26 @@
+[
+  {
+    "type": 2,
+    "user": {
+      "id": "894cb034-9c6e-4d22-8cad-5a172959f5c6",
+      "shortId": "E09FM7",
+      "name": "SnowyOwl",
+      "role": "USER",
+      "level": 85
+    },
+    "message": "/price [Vibrant|Bayonet|WEAPON_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-22T03:25:05.172Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "894cb034-9c6e-4d22-8cad-5a172959f5c6",
+      "shortId": "E09FM7",
+      "name": "SnowyOwl",
+      "role": "USER",
+      "level": 85
+    },
+    "message": "/price [Reflections|Bayonet|WEAPON_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-22T03:25:19.153Z"
+  }
+]
