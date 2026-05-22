@@ -310,5 +310,629 @@
     },
     "message": "/hm [Nova|SCAR|WEAPON_SKIN|MYTHICAL]",
     "timestamp": "2026-05-18T09:12:56.210Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "f825bcae-9af1-4614-8e45-113bc31ec983",
+      "shortId": "IU58BL",
+      "name": "Chihir0.",
+      "role": "USER",
+      "level": 84
+    },
+    "message": "/hm forbidden",
+    "timestamp": "2026-05-21T09:16:46.128Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "f825bcae-9af1-4614-8e45-113bc31ec983",
+      "shortId": "IU58BL",
+      "name": "Chihir0.",
+      "role": "USER",
+      "level": 84
+    },
+    "message": "/hm cyber",
+    "timestamp": "2026-05-21T09:16:57.334Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "f825bcae-9af1-4614-8e45-113bc31ec983",
+      "shortId": "IU58BL",
+      "name": "Chihir0.",
+      "role": "USER",
+      "level": 84
+    },
+    "message": "/hm ortus",
+    "timestamp": "2026-05-21T09:17:19.350Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "f825bcae-9af1-4614-8e45-113bc31ec983",
+      "shortId": "IU58BL",
+      "name": "Chihir0.",
+      "role": "USER",
+      "level": 84
+    },
+    "message": "/hm infernal",
+    "timestamp": "2026-05-21T09:17:31.018Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "f825bcae-9af1-4614-8e45-113bc31ec983",
+      "shortId": "IU58BL",
+      "name": "Chihir0.",
+      "role": "USER",
+      "level": 84
+    },
+    "message": "/hm nib",
+    "timestamp": "2026-05-21T09:17:41.186Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "f825bcae-9af1-4614-8e45-113bc31ec983",
+      "shortId": "IU58BL",
+      "name": "Chihir0.",
+      "role": "USER",
+      "level": 84
+    },
+    "message": "tr [Forbidden|AR-9|WEAPON_SKIN|MYTHICAL] [Ortus|Revolver|WEAPON_SKIN|MYTHICAL] [Infernal|AR-9|WEAPON_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-21T09:18:14.912Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "f825bcae-9af1-4614-8e45-113bc31ec983",
+      "shortId": "IU58BL",
+      "name": "Chihir0.",
+      "role": "USER",
+      "level": 84
+    },
+    "message": "/hm fllen",
+    "timestamp": "2026-05-21T09:18:42.050Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "f825bcae-9af1-4614-8e45-113bc31ec983",
+      "shortId": "IU58BL",
+      "name": "Chihir0.",
+      "role": "USER",
+      "level": 84
+    },
+    "message": "/hm fallen",
+    "timestamp": "2026-05-21T09:18:45.366Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "f825bcae-9af1-4614-8e45-113bc31ec983",
+      "shortId": "IU58BL",
+      "name": "Chihir0.",
+      "role": "USER",
+      "level": 84
+    },
+    "message": "/hm [Fallen|VITA|WEAPON_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-21T09:19:03.958Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "f825bcae-9af1-4614-8e45-113bc31ec983",
+      "shortId": "IU58BL",
+      "name": "Chihir0.",
+      "role": "USER",
+      "level": 84
+    },
+    "message": "/inv",
+    "timestamp": "2026-05-21T09:19:08.858Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "f825bcae-9af1-4614-8e45-113bc31ec983",
+      "shortId": "IU58BL",
+      "name": "Chihir0.",
+      "role": "USER",
+      "level": 84
+    },
+    "message": "trading [Ortus|Revolver|WEAPON_SKIN|MYTHICAL] [Forbidden|AR-9|WEAPON_SKIN|MYTHICAL] [Infernal|AR-9|WEAPON_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-21T09:19:31.434Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "f825bcae-9af1-4614-8e45-113bc31ec983",
+      "shortId": "IU58BL",
+      "name": "Chihir0.",
+      "role": "USER",
+      "level": 84
+    },
+    "message": ".inv",
+    "timestamp": "2026-05-21T09:19:36.897Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "f825bcae-9af1-4614-8e45-113bc31ec983",
+      "shortId": "IU58BL",
+      "name": "Chihir0.",
+      "role": "USER",
+      "level": 84
+    },
+    "message": "/inv",
+    "timestamp": "2026-05-21T09:19:40.696Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "f825bcae-9af1-4614-8e45-113bc31ec983",
+      "shortId": "IU58BL",
+      "name": "Chihir0.",
+      "role": "USER",
+      "level": 84
+    },
+    "message": "/hm magic",
+    "timestamp": "2026-05-21T09:20:27.824Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "f825bcae-9af1-4614-8e45-113bc31ec983",
+      "shortId": "IU58BL",
+      "name": "Chihir0.",
+      "role": "USER",
+      "level": 84
+    },
+    "message": "/hm spoody",
+    "timestamp": "2026-05-21T09:20:33.414Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "f825bcae-9af1-4614-8e45-113bc31ec983",
+      "shortId": "IU58BL",
+      "name": "Chihir0.",
+      "role": "USER",
+      "level": 84
+    },
+    "message": "#S2ZQT0 say first",
+    "timestamp": "2026-05-21T09:20:45.173Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "f825bcae-9af1-4614-8e45-113bc31ec983",
+      "shortId": "IU58BL",
+      "name": "Chihir0.",
+      "role": "USER",
+      "level": 84
+    },
+    "message": "/hm spooder",
+    "timestamp": "2026-05-21T09:20:55.041Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "f825bcae-9af1-4614-8e45-113bc31ec983",
+      "shortId": "IU58BL",
+      "name": "Chihir0.",
+      "role": "USER",
+      "level": 84
+    },
+    "message": "/hm diane",
+    "timestamp": "2026-05-21T09:21:01.262Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "f825bcae-9af1-4614-8e45-113bc31ec983",
+      "shortId": "IU58BL",
+      "name": "Chihir0.",
+      "role": "USER",
+      "level": 84
+    },
+    "message": "trading [Infernal|AR-9|WEAPON_SKIN|MYTHICAL] [Ortus|Revolver|WEAPON_SKIN|MYTHICAL] [Forbidden|AR-9|WEAPON_SKIN|MYTHICAL] [Ceru||BODY_SKIN|MYTHICAL] [Nib||BODY_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-21T09:21:33.573Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "f825bcae-9af1-4614-8e45-113bc31ec983",
+      "shortId": "IU58BL",
+      "name": "Chihir0.",
+      "role": "USER",
+      "level": 84
+    },
+    "message": "[Dynasty||BODY_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-21T09:21:38.025Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "f825bcae-9af1-4614-8e45-113bc31ec983",
+      "shortId": "IU58BL",
+      "name": "Chihir0.",
+      "role": "USER",
+      "level": 84
+    },
+    "message": "/hm normal map",
+    "timestamp": "2026-05-21T09:21:57.141Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "f825bcae-9af1-4614-8e45-113bc31ec983",
+      "shortId": "IU58BL",
+      "name": "Chihir0.",
+      "role": "USER",
+      "level": 84
+    },
+    "message": "/hm diane",
+    "timestamp": "2026-05-21T09:22:03.183Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "f825bcae-9af1-4614-8e45-113bc31ec983",
+      "shortId": "IU58BL",
+      "name": "Chihir0.",
+      "role": "USER",
+      "level": 84
+    },
+    "message": "/hm moonlight",
+    "timestamp": "2026-05-21T09:22:32.841Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "f825bcae-9af1-4614-8e45-113bc31ec983",
+      "shortId": "IU58BL",
+      "name": "Chihir0.",
+      "role": "USER",
+      "level": 84
+    },
+    "message": "/hm distorsion",
+    "timestamp": "2026-05-21T09:22:39.031Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "f825bcae-9af1-4614-8e45-113bc31ec983",
+      "shortId": "IU58BL",
+      "name": "Chihir0.",
+      "role": "USER",
+      "level": 84
+    },
+    "message": "/hm distortion",
+    "timestamp": "2026-05-21T09:22:52.049Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "f825bcae-9af1-4614-8e45-113bc31ec983",
+      "shortId": "IU58BL",
+      "name": "Chihir0.",
+      "role": "USER",
+      "level": 84
+    },
+    "message": "/hm hologram",
+    "timestamp": "2026-05-21T09:23:09.652Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "f825bcae-9af1-4614-8e45-113bc31ec983",
+      "shortId": "IU58BL",
+      "name": "Chihir0.",
+      "role": "USER",
+      "level": 84
+    },
+    "message": "/hm ticketeer",
+    "timestamp": "2026-05-21T09:23:43.536Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "f825bcae-9af1-4614-8e45-113bc31ec983",
+      "shortId": "IU58BL",
+      "name": "Chihir0.",
+      "role": "USER",
+      "level": 84
+    },
+    "message": "/hm fever",
+    "timestamp": "2026-05-21T09:23:47.374Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "f825bcae-9af1-4614-8e45-113bc31ec983",
+      "shortId": "IU58BL",
+      "name": "Chihir0.",
+      "role": "USER",
+      "level": 84
+    },
+    "message": "/hm [Fever|SCAR|WEAPON_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-21T09:23:53.795Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "f825bcae-9af1-4614-8e45-113bc31ec983",
+      "shortId": "IU58BL",
+      "name": "Chihir0.",
+      "role": "USER",
+      "level": 84
+    },
+    "message": "/hm spooky",
+    "timestamp": "2026-05-21T09:24:00.038Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "f825bcae-9af1-4614-8e45-113bc31ec983",
+      "shortId": "IU58BL",
+      "name": "Chihir0.",
+      "role": "USER",
+      "level": 84
+    },
+    "message": "/hm spoooky",
+    "timestamp": "2026-05-21T09:24:23.789Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "f825bcae-9af1-4614-8e45-113bc31ec983",
+      "shortId": "IU58BL",
+      "name": "Chihir0.",
+      "role": "USER",
+      "level": 84
+    },
+    "message": "/hm underwater",
+    "timestamp": "2026-05-21T09:24:55.932Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "f825bcae-9af1-4614-8e45-113bc31ec983",
+      "shortId": "IU58BL",
+      "name": "Chihir0.",
+      "role": "USER",
+      "level": 84
+    },
+    "message": "/hm astronova",
+    "timestamp": "2026-05-21T09:25:01.567Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "f825bcae-9af1-4614-8e45-113bc31ec983",
+      "shortId": "IU58BL",
+      "name": "Chihir0.",
+      "role": "USER",
+      "level": 84
+    },
+    "message": "/hm love bites",
+    "timestamp": "2026-05-21T09:25:07.519Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "f825bcae-9af1-4614-8e45-113bc31ec983",
+      "shortId": "IU58BL",
+      "name": "Chihir0.",
+      "role": "USER",
+      "level": 84
+    },
+    "message": "/hm slashes",
+    "timestamp": "2026-05-21T09:25:14.964Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "f825bcae-9af1-4614-8e45-113bc31ec983",
+      "shortId": "IU58BL",
+      "name": "Chihir0.",
+      "role": "USER",
+      "level": 84
+    },
+    "message": "/hm lashes",
+    "timestamp": "2026-05-21T09:25:44.406Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "f825bcae-9af1-4614-8e45-113bc31ec983",
+      "shortId": "IU58BL",
+      "name": "Chihir0.",
+      "role": "USER",
+      "level": 84
+    },
+    "message": "/hm void",
+    "timestamp": "2026-05-21T09:26:09.821Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "f825bcae-9af1-4614-8e45-113bc31ec983",
+      "shortId": "IU58BL",
+      "name": "Chihir0.",
+      "role": "USER",
+      "level": 84
+    },
+    "message": "/hm void scar",
+    "timestamp": "2026-05-21T09:26:18.867Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "f825bcae-9af1-4614-8e45-113bc31ec983",
+      "shortId": "IU58BL",
+      "name": "Chihir0.",
+      "role": "USER",
+      "level": 84
+    },
+    "message": "/hm cosmos",
+    "timestamp": "2026-05-21T09:32:59.053Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "f825bcae-9af1-4614-8e45-113bc31ec983",
+      "shortId": "IU58BL",
+      "name": "Chihir0.",
+      "role": "USER",
+      "level": 84
+    },
+    "message": "/inv",
+    "timestamp": "2026-05-21T09:33:06.420Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "f825bcae-9af1-4614-8e45-113bc31ec983",
+      "shortId": "IU58BL",
+      "name": "Chihir0.",
+      "role": "USER",
+      "level": 84
+    },
+    "message": "/hm nyan shark",
+    "timestamp": "2026-05-21T09:34:54.940Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "f825bcae-9af1-4614-8e45-113bc31ec983",
+      "shortId": "IU58BL",
+      "name": "Chihir0.",
+      "role": "USER",
+      "level": 84
+    },
+    "message": "lf [Demon|SCAR|WEAPON_SKIN|LEGENDARY]",
+    "timestamp": "2026-05-21T09:36:03.249Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "f825bcae-9af1-4614-8e45-113bc31ec983",
+      "shortId": "IU58BL",
+      "name": "Chihir0.",
+      "role": "USER",
+      "level": 84
+    },
+    "message": "i want [Demon|SCAR|WEAPON_SKIN|LEGENDARY] plzzzzz",
+    "timestamp": "2026-05-21T09:36:17.718Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "f825bcae-9af1-4614-8e45-113bc31ec983",
+      "shortId": "IU58BL",
+      "name": "Chihir0.",
+      "role": "USER",
+      "level": 84
+    },
+    "message": "lf [Demon|SCAR|WEAPON_SKIN|LEGENDARY]",
+    "timestamp": "2026-05-21T09:36:35.709Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "f825bcae-9af1-4614-8e45-113bc31ec983",
+      "shortId": "IU58BL",
+      "name": "Chihir0.",
+      "role": "USER",
+      "level": 84
+    },
+    "message": "plz say",
+    "timestamp": "2026-05-21T09:36:40.916Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "f825bcae-9af1-4614-8e45-113bc31ec983",
+      "shortId": "IU58BL",
+      "name": "Chihir0.",
+      "role": "USER",
+      "level": 84
+    },
+    "message": "/hm demo",
+    "timestamp": "2026-05-21T09:36:44.561Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "f825bcae-9af1-4614-8e45-113bc31ec983",
+      "shortId": "IU58BL",
+      "name": "Chihir0.",
+      "role": "USER",
+      "level": 84
+    },
+    "message": "lf [Demon|SCAR|WEAPON_SKIN|LEGENDARY]",
+    "timestamp": "2026-05-21T09:36:53.127Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "f825bcae-9af1-4614-8e45-113bc31ec983",
+      "shortId": "IU58BL",
+      "name": "Chihir0.",
+      "role": "USER",
+      "level": 84
+    },
+    "message": "who have [Demon|SCAR|WEAPON_SKIN|LEGENDARY]",
+    "timestamp": "2026-05-21T09:37:02.344Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "f825bcae-9af1-4614-8e45-113bc31ec983",
+      "shortId": "IU58BL",
+      "name": "Chihir0.",
+      "role": "USER",
+      "level": 84
+    },
+    "message": "lf [Demon|SCAR|WEAPON_SKIN|LEGENDARY]",
+    "timestamp": "2026-05-21T09:37:23.950Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "f825bcae-9af1-4614-8e45-113bc31ec983",
+      "shortId": "IU58BL",
+      "name": "Chihir0.",
+      "role": "USER",
+      "level": 84
+    },
+    "message": "i want [Demon|SCAR|WEAPON_SKIN|LEGENDARY]",
+    "timestamp": "2026-05-21T09:37:42.676Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "f825bcae-9af1-4614-8e45-113bc31ec983",
+      "shortId": "IU58BL",
+      "name": "Chihir0.",
+      "role": "USER",
+      "level": 84
+    },
+    "message": "lf [Demon|SCAR|WEAPON_SKIN|LEGENDARY]",
+    "timestamp": "2026-05-21T09:37:59.544Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "f825bcae-9af1-4614-8e45-113bc31ec983",
+      "shortId": "IU58BL",
+      "name": "Chihir0.",
+      "role": "USER",
+      "level": 84
+    },
+    "message": "lf[Demon|SCAR|WEAPON_SKIN|LEGENDARY] plz say",
+    "timestamp": "2026-05-21T09:38:17.180Z"
   }
 ]
