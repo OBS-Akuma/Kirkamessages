@@ -106,5 +106,41 @@
     },
     "message": "[Moltorath||BODY_SKIN|MYTHICAL]",
     "timestamp": "2026-05-14T15:17:40.855Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "e92adc75-e361-4bb3-9f53-8adb795167c4",
+      "shortId": "42MU97",
+      "name": "Nucleon",
+      "role": "USER",
+      "level": 47
+    },
+    "message": "/cancel trade",
+    "timestamp": "2026-05-22T01:33:25.835Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "e92adc75-e361-4bb3-9f53-8adb795167c4",
+      "shortId": "42MU97",
+      "name": "Nucleon",
+      "role": "USER",
+      "level": 47
+    },
+    "message": "1m for diane is a fine price",
+    "timestamp": "2026-05-22T01:35:49.870Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "e92adc75-e361-4bb3-9f53-8adb795167c4",
+      "shortId": "42MU97",
+      "name": "Nucleon",
+      "role": "USER",
+      "level": 47
+    },
+    "message": "Yo thank you insomnia!",
+    "timestamp": "2026-05-22T01:36:04.399Z"
   }
 ]
