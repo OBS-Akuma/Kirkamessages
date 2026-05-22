@@ -1270,5 +1270,29 @@
     },
     "message": "well ima go anyways",
     "timestamp": "2026-05-21T18:47:44.464Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "6e96cbad-888e-4efd-bd88-73b43c669daf",
+      "shortId": "9LIVES",
+      "name": "-CAT-",
+      "role": "USER",
+      "level": 99
+    },
+    "message": "/price [Dragonic VITA|VITA|WEAPON_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-21T20:33:15.942Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "6e96cbad-888e-4efd-bd88-73b43c669daf",
+      "shortId": "9LIVES",
+      "name": "-CAT-",
+      "role": "USER",
+      "level": 99
+    },
+    "message": "/price [Elf||BODY_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-21T22:46:39.838Z"
   }
 ]
