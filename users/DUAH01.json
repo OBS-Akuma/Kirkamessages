@@ -34,5 +34,17 @@
     },
     "message": "#KLH0BR",
     "timestamp": "2026-05-18T10:22:52.073Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "49050550-613c-451c-a874-f23ebab64fe7",
+      "shortId": "DUAH01",
+      "name": "zeusfps",
+      "role": "USER",
+      "level": 101
+    },
+    "message": "rawr",
+    "timestamp": "2026-05-22T02:20:46.172Z"
   }
 ]
