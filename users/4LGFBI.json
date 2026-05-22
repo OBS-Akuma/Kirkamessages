@@ -2734,5 +2734,29 @@
     },
     "message": "wwkkwwk",
     "timestamp": "2026-05-21T09:33:43.699Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "xkiNzXE2NVRhVv2juciDJAGV2IG3",
+      "shortId": "4LGFBI",
+      "name": "EzoSensha",
+      "role": "USER",
+      "level": 38
+    },
+    "message": "TRADE [Golden||CHEST|LEGENDARY] x7000",
+    "timestamp": "2026-05-22T02:23:15.509Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "xkiNzXE2NVRhVv2juciDJAGV2IG3",
+      "shortId": "4LGFBI",
+      "name": "EzoSensha",
+      "role": "USER",
+      "level": 38
+    },
+    "message": "pepo",
+    "timestamp": "2026-05-22T02:23:43.312Z"
   }
 ]
