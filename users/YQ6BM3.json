@@ -1,0 +1,86 @@
+[
+  {
+    "type": 2,
+    "user": {
+      "id": "fca9ead0-3522-4e63-b601-e4fd2f44d6c9",
+      "shortId": "YQ6BM3",
+      "name": "TTV_HXT3D",
+      "role": "USER",
+      "level": 13
+    },
+    "message": "hi",
+    "timestamp": "2026-05-21T03:00:46.864Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "fca9ead0-3522-4e63-b601-e4fd2f44d6c9",
+      "shortId": "YQ6BM3",
+      "name": "TTV_HXT3D",
+      "role": "USER",
+      "level": 13
+    },
+    "message": "/ trade offer (KIRKA ID) my {offer} your {offer}",
+    "timestamp": "2026-05-21T03:05:03.385Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "fca9ead0-3522-4e63-b601-e4fd2f44d6c9",
+      "shortId": "YQ6BM3",
+      "name": "TTV_HXT3D",
+      "role": "USER",
+      "level": 13
+    },
+    "message": "#II2TBR",
+    "timestamp": "2026-05-21T03:05:27.036Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "fca9ead0-3522-4e63-b601-e4fd2f44d6c9",
+      "shortId": "YQ6BM3",
+      "name": "TTV_HXT3D",
+      "role": "USER",
+      "level": 13
+    },
+    "message": "/Trade offer #II2TBR my:[Wood||CHEST|COMMON]x100 your[Polychrome|VITA|WEAPON_SKIN|LEGENDARY]",
+    "timestamp": "2026-05-21T03:06:40.404Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "fca9ead0-3522-4e63-b601-e4fd2f44d6c9",
+      "shortId": "YQ6BM3",
+      "name": "TTV_HXT3D",
+      "role": "USER",
+      "level": 13
+    },
+    "message": "/price [Polychrome|VITA|WEAPON_SKIN|LEGENDARY]",
+    "timestamp": "2026-05-21T03:09:31.842Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "fca9ead0-3522-4e63-b601-e4fd2f44d6c9",
+      "shortId": "YQ6BM3",
+      "name": "TTV_HXT3D",
+      "role": "USER",
+      "level": 13
+    },
+    "message": "/price [Milkyway||BODY_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-21T03:12:32.272Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "fca9ead0-3522-4e63-b601-e4fd2f44d6c9",
+      "shortId": "YQ6BM3",
+      "name": "TTV_HXT3D",
+      "role": "USER",
+      "level": 13
+    },
+    "message": "/Trade offer #II2TBR your:[Milkyway||BODY_SKIN|MYTHICAL] my:[Wood||CHEST|COMMON]",
+    "timestamp": "2026-05-21T03:13:16.939Z"
+  }
+]
