@@ -1510,5 +1510,17 @@
     },
     "message": "Join the UsAsOne! discord #VRQJFU and  we see",
     "timestamp": "2026-05-16T15:35:25.462Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "8130e18e-ff15-4f5b-a4e4-e3b8692ee32b",
+      "shortId": "SMOKED",
+      "name": "Torque_",
+      "role": "USER",
+      "level": 100
+    },
+    "message": "/inv",
+    "timestamp": "2026-05-21T18:42:44.883Z"
   }
 ]
