@@ -2374,5 +2374,41 @@
     },
     "message": "tr [Gem Stone||BODY_SKIN|MYTHICAL][Dragonic VITA|VITA|WEAPON_SKIN|MYTHICAL][Choco||BODY_SKIN|LEGENDARY][Pastel||BODY_SKIN|MYTHICAL][Slime||BODY_SKIN|MYTHICAL][super mother][Corny||BODY_SKIN|LEGENDARY]sht shar",
     "timestamp": "2026-05-22T02:21:29.083Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "d8c60953-7e39-48e3-b2ff-0df017fd1c32",
+      "shortId": "0DL6F8",
+      "name": "d3stroy3r",
+      "role": "USER",
+      "level": 40
+    },
+    "message": "WHAT SKIN MATCHES [Gem Stone||BODY_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-22T03:43:26.960Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "d8c60953-7e39-48e3-b2ff-0df017fd1c32",
+      "shortId": "0DL6F8",
+      "name": "d3stroy3r",
+      "role": "USER",
+      "level": 40
+    },
+    "message": "I have slime",
+    "timestamp": "2026-05-22T03:48:07.853Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "d8c60953-7e39-48e3-b2ff-0df017fd1c32",
+      "shortId": "0DL6F8",
+      "name": "d3stroy3r",
+      "role": "USER",
+      "level": 40
+    },
+    "message": "[Slime||BODY_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-22T03:49:05.355Z"
   }
 ]
