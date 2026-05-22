@@ -3706,5 +3706,41 @@
     },
     "message": "/price oblivion",
     "timestamp": "2026-05-21T11:49:23.589Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "4b789cea-e6d0-4391-bab3-a43b716b6a1a",
+      "shortId": "305Q5V",
+      "name": "AuraX_t1_Scare",
+      "role": "USER",
+      "level": 96
+    },
+    "message": "//price gem stone",
+    "timestamp": "2026-05-22T02:01:07.591Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "4b789cea-e6d0-4391-bab3-a43b716b6a1a",
+      "shortId": "305Q5V",
+      "name": "AuraX_t1_Scare",
+      "role": "USER",
+      "level": 96
+    },
+    "message": "/price gem stone",
+    "timestamp": "2026-05-22T02:01:16.502Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "4b789cea-e6d0-4391-bab3-a43b716b6a1a",
+      "shortId": "305Q5V",
+      "name": "AuraX_t1_Scare",
+      "role": "USER",
+      "level": 96
+    },
+    "message": "/price nova",
+    "timestamp": "2026-05-22T02:01:23.572Z"
   }
 ]
