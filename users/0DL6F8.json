@@ -2410,5 +2410,29 @@
     },
     "message": "[Slime||BODY_SKIN|MYTHICAL]",
     "timestamp": "2026-05-22T03:49:05.355Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "d8c60953-7e39-48e3-b2ff-0df017fd1c32",
+      "shortId": "0DL6F8",
+      "name": "d3stroy3r",
+      "role": "USER",
+      "level": 40
+    },
+    "message": "cash I have [Gem Stone||BODY_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-22T03:55:14.597Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "d8c60953-7e39-48e3-b2ff-0df017fd1c32",
+      "shortId": "0DL6F8",
+      "name": "d3stroy3r",
+      "role": "USER",
+      "level": 40
+    },
+    "message": "what you got",
+    "timestamp": "2026-05-22T03:55:30.464Z"
   }
 ]
