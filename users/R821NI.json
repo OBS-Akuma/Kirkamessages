@@ -8,7 +8,7 @@
       "role": "USER",
       "level": 5
     },
-    "message": "ÃÂÃÂÃÂÃÂ ÃÂ§ÃÂ¹ÃÂ±ÃÂ ÃÂÃÂÃÂ ÃÂ§ÃÂ³ÃÂÃÂ ÃÂªÃÂ±ÃÂÃÂ¯ÃÂ",
+    "message": "ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ ÃÂÃÂ§ÃÂÃÂ¹ÃÂÃÂ±ÃÂÃÂ ÃÂÃÂÃÂÃÂÃÂÃÂ ÃÂÃÂ§ÃÂÃÂ³ÃÂÃÂÃÂÃÂ ÃÂÃÂªÃÂÃÂ±ÃÂÃÂÃÂÃÂ¯ÃÂÃÂ",
     "timestamp": "2026-05-21T11:35:54.024Z"
   },
   {
@@ -80,7 +80,7 @@
       "role": "USER",
       "level": 5
     },
-    "message": "ÃÂÃÂ§ ÃÂ§ÃÂ®ÃÂÃÂ§ÃÂ ÃÂ§ÃÂ¨ÃÂ ÃÂ³ÃÂÃÂ ÃÂÃÂÃÂ³ÃÂÃÂ§ÃÂ± ÃÂ¹ÃÂ´ÃÂ§ÃÂ ÃÂÃÂÃÂªÃÂ­ ÃÂ¹ÃÂÃÂ¯ÃÂ",
+    "message": "ÃÂÃÂÃÂÃÂ§ ÃÂÃÂ§ÃÂÃÂ®ÃÂÃÂÃÂÃÂ§ÃÂÃÂ ÃÂÃÂ§ÃÂÃÂ¨ÃÂÃÂ ÃÂÃÂ³ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂÃÂÃÂ³ÃÂÃÂÃÂÃÂ§ÃÂÃÂ± ÃÂÃÂ¹ÃÂÃÂ´ÃÂÃÂ§ÃÂÃÂ ÃÂÃÂÃÂÃÂÃÂÃÂªÃÂÃÂ­ ÃÂÃÂ¹ÃÂÃÂÃÂÃÂ¯ÃÂÃÂ",
     "timestamp": "2026-05-21T11:44:01.878Z"
   },
   {
@@ -176,7 +176,7 @@
       "role": "USER",
       "level": 5
     },
-    "message": "ÃÂÃÂ§ ÃÂ§ÃÂ®ÃÂÃÂ§ÃÂ ÃÂ³ÃÂ§ÃÂ¹ÃÂ¯ÃÂÃÂÃÂ ÃÂ¨ÃÂ§ÃÂ ÃÂ´ÃÂ ÃÂ¨ÃÂÃÂÃÂ²",
+    "message": "ÃÂÃÂÃÂÃÂ§ ÃÂÃÂ§ÃÂÃÂ®ÃÂÃÂÃÂÃÂ§ÃÂÃÂ ÃÂÃÂ³ÃÂÃÂ§ÃÂÃÂ¹ÃÂÃÂ¯ÃÂÃÂÃÂÃÂÃÂÃÂ ÃÂÃÂ¨ÃÂÃÂ§ÃÂÃÂ ÃÂÃÂ´ÃÂÃÂ ÃÂÃÂ¨ÃÂÃÂÃÂÃÂÃÂÃÂ²",
     "timestamp": "2026-05-21T11:56:41.280Z"
   },
   {
@@ -382,5 +382,341 @@
     },
     "message": "#J2PUTC Yes",
     "timestamp": "2026-05-21T12:25:54.747Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "41f702a3-b1fb-401b-9bc3-87de2c746ae5",
+      "shortId": "R821NI",
+      "name": "Meow",
+      "role": "USER",
+      "level": 6
+    },
+    "message": "Guys what can i get for 20 gold?",
+    "timestamp": "2026-05-21T17:11:06.339Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "41f702a3-b1fb-401b-9bc3-87de2c746ae5",
+      "shortId": "R821NI",
+      "name": "Meow",
+      "role": "USER",
+      "level": 6
+    },
+    "message": "What i get for 20 gold?",
+    "timestamp": "2026-05-21T17:12:02.620Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "41f702a3-b1fb-401b-9bc3-87de2c746ae5",
+      "shortId": "R821NI",
+      "name": "Meow",
+      "role": "USER",
+      "level": 6
+    },
+    "message": "Tr 20 [Gold|VITA|WEAPON_SKIN|LEGENDARY]",
+    "timestamp": "2026-05-21T17:12:55.205Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "41f702a3-b1fb-401b-9bc3-87de2c746ae5",
+      "shortId": "R821NI",
+      "name": "Meow",
+      "role": "USER",
+      "level": 6
+    },
+    "message": "#J2PUTC What",
+    "timestamp": "2026-05-21T17:13:20.546Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "41f702a3-b1fb-401b-9bc3-87de2c746ae5",
+      "shortId": "R821NI",
+      "name": "Meow",
+      "role": "USER",
+      "level": 6
+    },
+    "message": "I have [Black Metal|VITA|WEAPON_SKIN|LEGENDARY] and 20gold cheats",
+    "timestamp": "2026-05-21T17:13:57.867Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "41f702a3-b1fb-401b-9bc3-87de2c746ae5",
+      "shortId": "R821NI",
+      "name": "Meow",
+      "role": "USER",
+      "level": 6
+    },
+    "message": "What is that",
+    "timestamp": "2026-05-21T17:14:19.222Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "41f702a3-b1fb-401b-9bc3-87de2c746ae5",
+      "shortId": "R821NI",
+      "name": "Meow",
+      "role": "USER",
+      "level": 6
+    },
+    "message": "I hate gammblig",
+    "timestamp": "2026-05-21T17:14:47.713Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "41f702a3-b1fb-401b-9bc3-87de2c746ae5",
+      "shortId": "R821NI",
+      "name": "Meow",
+      "role": "USER",
+      "level": 6
+    },
+    "message": "Ok np i will try ff",
+    "timestamp": "2026-05-21T17:15:10.066Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "41f702a3-b1fb-401b-9bc3-87de2c746ae5",
+      "shortId": "R821NI",
+      "name": "Meow",
+      "role": "USER",
+      "level": 6
+    },
+    "message": "What i do now ?",
+    "timestamp": "2026-05-21T17:15:35.287Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "41f702a3-b1fb-401b-9bc3-87de2c746ae5",
+      "shortId": "R821NI",
+      "name": "Meow",
+      "role": "USER",
+      "level": 6
+    },
+    "message": "Confirmwager/",
+    "timestamp": "2026-05-21T17:16:25.226Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "41f702a3-b1fb-401b-9bc3-87de2c746ae5",
+      "shortId": "R821NI",
+      "name": "Meow",
+      "role": "USER",
+      "level": 6
+    },
+    "message": "Bro what i say for qccept the wager",
+    "timestamp": "2026-05-21T17:16:44.842Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "41f702a3-b1fb-401b-9bc3-87de2c746ae5",
+      "shortId": "R821NI",
+      "name": "Meow",
+      "role": "USER",
+      "level": 6
+    },
+    "message": "#6AO53F How to wager?",
+    "timestamp": "2026-05-21T17:18:44.034Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "41f702a3-b1fb-401b-9bc3-87de2c746ae5",
+      "shortId": "R821NI",
+      "name": "Meow",
+      "role": "USER",
+      "level": 6
+    },
+    "message": "#J2PUTC Do u hqve good characters?",
+    "timestamp": "2026-05-21T17:19:34.218Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "41f702a3-b1fb-401b-9bc3-87de2c746ae5",
+      "shortId": "R821NI",
+      "name": "Meow",
+      "role": "USER",
+      "level": 6
+    },
+    "message": "How can i show u all my inventory?",
+    "timestamp": "2026-05-21T17:19:59.431Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "41f702a3-b1fb-401b-9bc3-87de2c746ae5",
+      "shortId": "R821NI",
+      "name": "Meow",
+      "role": "USER",
+      "level": 6
+    },
+    "message": "Ok leme see",
+    "timestamp": "2026-05-21T17:20:41.988Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "41f702a3-b1fb-401b-9bc3-87de2c746ae5",
+      "shortId": "R821NI",
+      "name": "Meow",
+      "role": "USER",
+      "level": 6
+    },
+    "message": "Is [Awesome|SCAR|WEAPON_SKIN|LEGENDARY] good?",
+    "timestamp": "2026-05-21T17:22:40.679Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "41f702a3-b1fb-401b-9bc3-87de2c746ae5",
+      "shortId": "R821NI",
+      "name": "Meow",
+      "role": "USER",
+      "level": 6
+    },
+    "message": "Yes rip",
+    "timestamp": "2026-05-21T17:22:57.192Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "41f702a3-b1fb-401b-9bc3-87de2c746ae5",
+      "shortId": "R821NI",
+      "name": "Meow",
+      "role": "USER",
+      "level": 6
+    },
+    "message": "I have [Awesome|SCAR|WEAPON_SKIN|LEGENDARY]",
+    "timestamp": "2026-05-21T17:23:15.632Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "41f702a3-b1fb-401b-9bc3-87de2c746ae5",
+      "shortId": "R821NI",
+      "name": "Meow",
+      "role": "USER",
+      "level": 6
+    },
+    "message": "#J2PUTC What is that?",
+    "timestamp": "2026-05-21T17:23:56.178Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "41f702a3-b1fb-401b-9bc3-87de2c746ae5",
+      "shortId": "R821NI",
+      "name": "Meow",
+      "role": "USER",
+      "level": 6
+    },
+    "message": "I want 1 anon how much for it",
+    "timestamp": "2026-05-21T17:26:13.040Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "41f702a3-b1fb-401b-9bc3-87de2c746ae5",
+      "shortId": "R821NI",
+      "name": "Meow",
+      "role": "USER",
+      "level": 6
+    },
+    "message": "I want that gooolldss",
+    "timestamp": "2026-05-21T17:27:12.171Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "41f702a3-b1fb-401b-9bc3-87de2c746ae5",
+      "shortId": "R821NI",
+      "name": "Meow",
+      "role": "USER",
+      "level": 6
+    },
+    "message": "/inv",
+    "timestamp": "2026-05-21T17:28:03.888Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "41f702a3-b1fb-401b-9bc3-87de2c746ae5",
+      "shortId": "R821NI",
+      "name": "Meow",
+      "role": "USER",
+      "level": 6
+    },
+    "message": "Wow iam poor",
+    "timestamp": "2026-05-21T17:28:13.446Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "41f702a3-b1fb-401b-9bc3-87de2c746ae5",
+      "shortId": "R821NI",
+      "name": "Meow",
+      "role": "USER",
+      "level": 6
+    },
+    "message": "Can someone give me anything iam new to the game and i want some characters",
+    "timestamp": "2026-05-21T17:30:01.459Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "41f702a3-b1fb-401b-9bc3-87de2c746ae5",
+      "shortId": "R821NI",
+      "name": "Meow",
+      "role": "USER",
+      "level": 6
+    },
+    "message": "Tr [Goge||BODY_SKIN|RARE]",
+    "timestamp": "2026-05-21T17:34:56.228Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "41f702a3-b1fb-401b-9bc3-87de2c746ae5",
+      "shortId": "R821NI",
+      "name": "Meow",
+      "role": "USER",
+      "level": 6
+    },
+    "message": "Tr 3 [Goge||BODY_SKIN|RARE] for any good character",
+    "timestamp": "2026-05-21T17:36:02.775Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "41f702a3-b1fb-401b-9bc3-87de2c746ae5",
+      "shortId": "R821NI",
+      "name": "Meow",
+      "role": "USER",
+      "level": 6
+    },
+    "message": "Tr [Goge||BODY_SKIN|RARE] and [Black Metal|VITA|WEAPON_SKIN|LEGENDARY]",
+    "timestamp": "2026-05-21T17:37:05.648Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "41f702a3-b1fb-401b-9bc3-87de2c746ae5",
+      "shortId": "R821NI",
+      "name": "Meow",
+      "role": "USER",
+      "level": 6
+    },
+    "message": "/inv",
+    "timestamp": "2026-05-21T17:37:53.025Z"
   }
 ]
