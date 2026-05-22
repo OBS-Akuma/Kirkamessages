@@ -418,5 +418,41 @@
     },
     "message": "/8ball will  I get leaderboard today",
     "timestamp": "2026-05-15T13:46:01.584Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "Nh3BNg2ScYUZF13uU2hL5iSXvxV2",
+      "shortId": "LYZ8K1",
+      "name": "furca",
+      "role": "USER",
+      "level": 85
+    },
+    "message": "/hm 1337",
+    "timestamp": "2026-05-21T12:28:02.647Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "Nh3BNg2ScYUZF13uU2hL5iSXvxV2",
+      "shortId": "LYZ8K1",
+      "name": "furca",
+      "role": "USER",
+      "level": 85
+    },
+    "message": "hi",
+    "timestamp": "2026-05-21T12:39:58.079Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "Nh3BNg2ScYUZF13uU2hL5iSXvxV2",
+      "shortId": "LYZ8K1",
+      "name": "furca",
+      "role": "USER",
+      "level": 85
+    },
+    "message": "/hm 1337",
+    "timestamp": "2026-05-21T12:40:03.190Z"
   }
 ]
