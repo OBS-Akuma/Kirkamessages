@@ -18056,5 +18056,53 @@
     },
     "message": "how does listener already have it bruh",
     "timestamp": "2026-05-21T04:44:16.960Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "4525c2fd-62ac-46cf-8b35-f56bc75a81bb",
+      "shortId": "5GD3AU",
+      "name": "7xWORLDCHAMP",
+      "role": "USER",
+      "level": 50
+    },
+    "message": "/inv",
+    "timestamp": "2026-05-21T22:53:48.497Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "4525c2fd-62ac-46cf-8b35-f56bc75a81bb",
+      "shortId": "5GD3AU",
+      "name": "7xWORLDCHAMP",
+      "role": "USER",
+      "level": 50
+    },
+    "message": "wsp smilez",
+    "timestamp": "2026-05-21T22:53:58.021Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "4525c2fd-62ac-46cf-8b35-f56bc75a81bb",
+      "shortId": "5GD3AU",
+      "name": "7xWORLDCHAMP",
+      "role": "USER",
+      "level": 50
+    },
+    "message": "u tryna stack",
+    "timestamp": "2026-05-21T22:54:03.153Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "4525c2fd-62ac-46cf-8b35-f56bc75a81bb",
+      "shortId": "5GD3AU",
+      "name": "7xWORLDCHAMP",
+      "role": "USER",
+      "level": 50
+    },
+    "message": "/players",
+    "timestamp": "2026-05-21T22:58:56.856Z"
   }
 ]
