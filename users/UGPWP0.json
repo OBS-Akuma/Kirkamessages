@@ -1,0 +1,26 @@
+[
+  {
+    "type": 2,
+    "user": {
+      "id": "guest-02723b2f-ed50-40cf-b5b7-0abcf34537a2",
+      "shortId": "UGPWP0",
+      "name": "Ephemeral",
+      "role": "USER",
+      "level": 5
+    },
+    "message": "aight who wants free stuff",
+    "timestamp": "2026-05-22T03:14:21.838Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "guest-02723b2f-ed50-40cf-b5b7-0abcf34537a2",
+      "shortId": "UGPWP0",
+      "name": "Ephemeral",
+      "role": "USER",
+      "level": 5
+    },
+    "message": "gg",
+    "timestamp": "2026-05-22T03:14:36.898Z"
+  }
+]
