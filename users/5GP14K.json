@@ -14158,5 +14158,41 @@
     },
     "message": "Who wanna wager [Karo|Revolver|WEAPON_SKIN|RARE]x500,[Cyan|AR-9|WEAPON_SKIN|RARE]x500???",
     "timestamp": "2026-05-22T02:58:55.448Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "ccb0989c-752e-489f-a2a2-cacbd0491076",
+      "shortId": "5GP14K",
+      "name": "Dr.strange",
+      "role": "USER",
+      "level": 84
+    },
+    "message": "Who wanna wager???",
+    "timestamp": "2026-05-22T03:00:17.590Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "ccb0989c-752e-489f-a2a2-cacbd0491076",
+      "shortId": "5GP14K",
+      "name": "Dr.strange",
+      "role": "USER",
+      "level": 84
+    },
+    "message": "/claim",
+    "timestamp": "2026-05-22T03:00:46.657Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "ccb0989c-752e-489f-a2a2-cacbd0491076",
+      "shortId": "5GP14K",
+      "name": "Dr.strange",
+      "role": "USER",
+      "level": 84
+    },
+    "message": "Who wanna wager???",
+    "timestamp": "2026-05-22T03:01:10.386Z"
   }
 ]
