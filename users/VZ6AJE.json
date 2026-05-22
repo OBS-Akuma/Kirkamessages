@@ -718,5 +718,125 @@
     },
     "message": "LF [Panda||BODY_SKIN|MYTHICAL] for [Golden||CHEST|LEGENDARY]s",
     "timestamp": "2026-05-16T04:05:34.580Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "0e0253e4-94fe-4c73-bb1f-d26f1ba38b19",
+      "shortId": "VZ6AJE",
+      "name": "Newbie.",
+      "role": "USER",
+      "level": 37
+    },
+    "message": ".",
+    "timestamp": "2026-05-21T13:06:30.413Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "0e0253e4-94fe-4c73-bb1f-d26f1ba38b19",
+      "shortId": "VZ6AJE",
+      "name": "Newbie.",
+      "role": "USER",
+      "level": 37
+    },
+    "message": "LF [Turtle|Bayonet|WEAPON_SKIN|MYTHICAL]s",
+    "timestamp": "2026-05-21T13:06:34.567Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "0e0253e4-94fe-4c73-bb1f-d26f1ba38b19",
+      "shortId": "VZ6AJE",
+      "name": "Newbie.",
+      "role": "USER",
+      "level": 37
+    },
+    "message": "??",
+    "timestamp": "2026-05-21T13:08:33.626Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "0e0253e4-94fe-4c73-bb1f-d26f1ba38b19",
+      "shortId": "VZ6AJE",
+      "name": "Newbie.",
+      "role": "USER",
+      "level": 37
+    },
+    "message": "lmao",
+    "timestamp": "2026-05-21T13:10:23.487Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "0e0253e4-94fe-4c73-bb1f-d26f1ba38b19",
+      "shortId": "VZ6AJE",
+      "name": "Newbie.",
+      "role": "USER",
+      "level": 37
+    },
+    "message": "LF [Turtle|Bayonet|WEAPON_SKIN|MYTHICAL]s",
+    "timestamp": "2026-05-21T13:11:06.766Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "0e0253e4-94fe-4c73-bb1f-d26f1ba38b19",
+      "shortId": "VZ6AJE",
+      "name": "Newbie.",
+      "role": "USER",
+      "level": 37
+    },
+    "message": "LF [Turtle|Bayonet|WEAPON_SKIN|MYTHICAL]s",
+    "timestamp": "2026-05-21T14:55:05.702Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "0e0253e4-94fe-4c73-bb1f-d26f1ba38b19",
+      "shortId": "VZ6AJE",
+      "name": "Newbie.",
+      "role": "USER",
+      "level": 37
+    },
+    "message": "I have [Ortus|Revolver|WEAPON_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-21T14:56:54.113Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "0e0253e4-94fe-4c73-bb1f-d26f1ba38b19",
+      "shortId": "VZ6AJE",
+      "name": "Newbie.",
+      "role": "USER",
+      "level": 37
+    },
+    "message": "[Chilly||BODY_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-21T15:03:01.924Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "0e0253e4-94fe-4c73-bb1f-d26f1ba38b19",
+      "shortId": "VZ6AJE",
+      "name": "Newbie.",
+      "role": "USER",
+      "level": 37
+    },
+    "message": "/hm [Chilly||BODY_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-21T15:03:17.588Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "0e0253e4-94fe-4c73-bb1f-d26f1ba38b19",
+      "shortId": "VZ6AJE",
+      "name": "Newbie.",
+      "role": "USER",
+      "level": 37
+    },
+    "message": "/price [Chilly||BODY_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-21T15:03:28.702Z"
   }
 ]
