@@ -1150,5 +1150,89 @@
     },
     "message": "oh tht",
     "timestamp": "2026-05-21T20:53:34.683Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "r1Kq0qheqQgd3bHGo7o3WDT0ARx1",
+      "shortId": "6B9W5G",
+      "name": "Twix",
+      "role": "USER",
+      "level": 70
+    },
+    "message": "/locate legend",
+    "timestamp": "2026-05-21T21:08:39.640Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "r1Kq0qheqQgd3bHGo7o3WDT0ARx1",
+      "shortId": "6B9W5G",
+      "name": "Twix",
+      "role": "USER",
+      "level": 70
+    },
+    "message": "who has rgb",
+    "timestamp": "2026-05-21T21:09:55.248Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "r1Kq0qheqQgd3bHGo7o3WDT0ARx1",
+      "shortId": "6B9W5G",
+      "name": "Twix",
+      "role": "USER",
+      "level": 70
+    },
+    "message": "who have rgb",
+    "timestamp": "2026-05-21T21:10:20.821Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "r1Kq0qheqQgd3bHGo7o3WDT0ARx1",
+      "shortId": "6B9W5G",
+      "name": "Twix",
+      "role": "USER",
+      "level": 70
+    },
+    "message": "WHO  HAVE  RGB",
+    "timestamp": "2026-05-21T21:10:56.721Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "r1Kq0qheqQgd3bHGo7o3WDT0ARx1",
+      "shortId": "6B9W5G",
+      "name": "Twix",
+      "role": "USER",
+      "level": 70
+    },
+    "message": "WHO HAS RGB",
+    "timestamp": "2026-05-21T21:11:32.764Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "r1Kq0qheqQgd3bHGo7o3WDT0ARx1",
+      "shortId": "6B9W5G",
+      "name": "Twix",
+      "role": "USER",
+      "level": 70
+    },
+    "message": "BRO WHO HAS [RGB||BODY_SKIN|LEGENDARY]",
+    "timestamp": "2026-05-21T21:12:01.309Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "r1Kq0qheqQgd3bHGo7o3WDT0ARx1",
+      "shortId": "6B9W5G",
+      "name": "Twix",
+      "role": "USER",
+      "level": 70
+    },
+    "message": "ITS APOLO WHAT U WANT FOR KRAKEN",
+    "timestamp": "2026-05-21T21:12:43.852Z"
   }
 ]
