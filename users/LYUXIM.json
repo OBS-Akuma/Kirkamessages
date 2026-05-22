@@ -934,5 +934,29 @@
     },
     "message": "i paid 300m for synergy like a week ago :(",
     "timestamp": "2026-05-16T07:49:01.283Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "fddeb704-c4e4-4f50-8a81-28c407f6d5da",
+      "shortId": "LYUXIM",
+      "name": "stepn",
+      "role": "USER",
+      "level": 98
+    },
+    "message": "/locate wolfy",
+    "timestamp": "2026-05-21T20:59:45.290Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "fddeb704-c4e4-4f50-8a81-28c407f6d5da",
+      "shortId": "LYUXIM",
+      "name": "stepn",
+      "role": "USER",
+      "level": 98
+    },
+    "message": "/locate synergy",
+    "timestamp": "2026-05-21T21:00:16.140Z"
   }
 ]
