@@ -358,5 +358,149 @@
     },
     "message": "/price onryo",
     "timestamp": "2026-05-21T08:00:31.039Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "6e35d065-a8a0-47e2-99dd-cbcc397dc0f5",
+      "shortId": "PUSHER",
+      "name": "ThePusherman",
+      "role": "USER",
+      "level": 93
+    },
+    "message": "/fav bolt",
+    "timestamp": "2026-05-21T13:42:01.046Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "6e35d065-a8a0-47e2-99dd-cbcc397dc0f5",
+      "shortId": "PUSHER",
+      "name": "ThePusherman",
+      "role": "USER",
+      "level": 93
+    },
+    "message": "/inv",
+    "timestamp": "2026-05-21T13:42:04.932Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "6e35d065-a8a0-47e2-99dd-cbcc397dc0f5",
+      "shortId": "PUSHER",
+      "name": "ThePusherman",
+      "role": "USER",
+      "level": 93
+    },
+    "message": ".",
+    "timestamp": "2026-05-21T13:42:14.515Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "6e35d065-a8a0-47e2-99dd-cbcc397dc0f5",
+      "shortId": "PUSHER",
+      "name": "ThePusherman",
+      "role": "USER",
+      "level": 93
+    },
+    "message": "hey",
+    "timestamp": "2026-05-21T13:42:16.418Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "6e35d065-a8a0-47e2-99dd-cbcc397dc0f5",
+      "shortId": "PUSHER",
+      "name": "ThePusherman",
+      "role": "USER",
+      "level": 93
+    },
+    "message": "/inv",
+    "timestamp": "2026-05-21T13:42:18.792Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "6e35d065-a8a0-47e2-99dd-cbcc397dc0f5",
+      "shortId": "PUSHER",
+      "name": "ThePusherman",
+      "role": "USER",
+      "level": 93
+    },
+    "message": "nope :)",
+    "timestamp": "2026-05-21T13:42:43.392Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "6e35d065-a8a0-47e2-99dd-cbcc397dc0f5",
+      "shortId": "PUSHER",
+      "name": "ThePusherman",
+      "role": "USER",
+      "level": 93
+    },
+    "message": "i dont looking for anything now",
+    "timestamp": "2026-05-21T13:43:07.689Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "6e35d065-a8a0-47e2-99dd-cbcc397dc0f5",
+      "shortId": "PUSHER",
+      "name": "ThePusherman",
+      "role": "USER",
+      "level": 93
+    },
+    "message": "Qwerty and im trading nothing also :)",
+    "timestamp": "2026-05-21T13:44:05.154Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "6e35d065-a8a0-47e2-99dd-cbcc397dc0f5",
+      "shortId": "PUSHER",
+      "name": "ThePusherman",
+      "role": "USER",
+      "level": 93
+    },
+    "message": "/price rainbows",
+    "timestamp": "2026-05-21T13:46:25.829Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "6e35d065-a8a0-47e2-99dd-cbcc397dc0f5",
+      "shortId": "PUSHER",
+      "name": "ThePusherman",
+      "role": "USER",
+      "level": 93
+    },
+    "message": "/price pinata",
+    "timestamp": "2026-05-21T13:46:33.472Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "6e35d065-a8a0-47e2-99dd-cbcc397dc0f5",
+      "shortId": "PUSHER",
+      "name": "ThePusherman",
+      "role": "USER",
+      "level": 93
+    },
+    "message": "/price wraith",
+    "timestamp": "2026-05-21T13:46:47.787Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "6e35d065-a8a0-47e2-99dd-cbcc397dc0f5",
+      "shortId": "PUSHER",
+      "name": "ThePusherman",
+      "role": "USER",
+      "level": 93
+    },
+    "message": "/price stargaze",
+    "timestamp": "2026-05-21T13:46:56.362Z"
   }
 ]
