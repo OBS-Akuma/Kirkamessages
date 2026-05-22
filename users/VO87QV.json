@@ -118,5 +118,77 @@
     },
     "message": "MAKE",
     "timestamp": "2026-05-19T19:49:42.646Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "OitsihyZrUe5WV13AjPXvtb0Vwx1",
+      "shortId": "VO87QV",
+      "name": "[EGD]DRAGON",
+      "role": "USER",
+      "level": 49
+    },
+    "message": "[SADY[]",
+    "timestamp": "2026-05-21T15:30:07.908Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "OitsihyZrUe5WV13AjPXvtb0Vwx1",
+      "shortId": "VO87QV",
+      "name": "[EGD]DRAGON",
+      "role": "USER",
+      "level": 49
+    },
+    "message": "[Sady||BODY_SKIN|COMMON]",
+    "timestamp": "2026-05-21T15:30:16.895Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "OitsihyZrUe5WV13AjPXvtb0Vwx1",
+      "shortId": "VO87QV",
+      "name": "[EGD]DRAGON",
+      "role": "USER",
+      "level": 49
+    },
+    "message": "TTREAT",
+    "timestamp": "2026-05-21T15:35:28.630Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "OitsihyZrUe5WV13AjPXvtb0Vwx1",
+      "shortId": "VO87QV",
+      "name": "[EGD]DRAGON",
+      "role": "USER",
+      "level": 49
+    },
+    "message": "[Treat||BODY_SKIN|LEGENDARY]",
+    "timestamp": "2026-05-21T15:35:51.674Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "OitsihyZrUe5WV13AjPXvtb0Vwx1",
+      "shortId": "VO87QV",
+      "name": "[EGD]DRAGON",
+      "role": "USER",
+      "level": 49
+    },
+    "message": "who got reaper",
+    "timestamp": "2026-05-21T17:51:06.321Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "OitsihyZrUe5WV13AjPXvtb0Vwx1",
+      "shortId": "VO87QV",
+      "name": "[EGD]DRAGON",
+      "role": "USER",
+      "level": 49
+    },
+    "message": "[Cloud||BODY_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-21T17:51:49.452Z"
   }
 ]
