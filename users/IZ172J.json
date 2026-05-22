@@ -442,5 +442,53 @@
     },
     "message": "Who has scar skins",
     "timestamp": "2026-05-15T11:31:18.662Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "13b24829-c64d-419c-be63-d763f6e055c4",
+      "shortId": "IZ172J",
+      "name": "Fear",
+      "role": "USER",
+      "level": 63
+    },
+    "message": "/price emperor",
+    "timestamp": "2026-05-21T13:14:56.841Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "13b24829-c64d-419c-be63-d763f6e055c4",
+      "shortId": "IZ172J",
+      "name": "Fear",
+      "role": "USER",
+      "level": 63
+    },
+    "message": "/price whispers",
+    "timestamp": "2026-05-21T18:34:19.692Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "13b24829-c64d-419c-be63-d763f6e055c4",
+      "shortId": "IZ172J",
+      "name": "Fear",
+      "role": "USER",
+      "level": 63
+    },
+    "message": "/price emperor",
+    "timestamp": "2026-05-21T18:34:31.612Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "13b24829-c64d-419c-be63-d763f6e055c4",
+      "shortId": "IZ172J",
+      "name": "Fear",
+      "role": "USER",
+      "level": 63
+    },
+    "message": "/inv",
+    "timestamp": "2026-05-21T18:34:44.135Z"
   }
 ]
