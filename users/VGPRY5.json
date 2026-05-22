@@ -1,0 +1,26 @@
+[
+  {
+    "type": 2,
+    "user": {
+      "id": "0a6b5ee9-2b26-4cc2-9cbd-2087498a985f",
+      "shortId": "VGPRY5",
+      "name": "$i11Y_&@MEr",
+      "role": "USER",
+      "level": 51
+    },
+    "message": "/price [Bamboo|VITA|WEAPON_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-21T17:42:00.455Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "0a6b5ee9-2b26-4cc2-9cbd-2087498a985f",
+      "shortId": "VGPRY5",
+      "name": "$i11Y_&@MEr",
+      "role": "USER",
+      "level": 51
+    },
+    "message": "I have [Rub1x|MAC-10|WEAPON_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-21T21:03:33.417Z"
+  }
+]
