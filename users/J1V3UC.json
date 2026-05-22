@@ -1090,5 +1090,53 @@
     },
     "message": "trading[Bansee|VITA|WEAPON_SKIN|MYTHICAL][Smile|VITA|WEAPON_SKIN|MYTHICAL]",
     "timestamp": "2026-05-16T10:39:52.074Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "c532896d-af0e-4dc7-94d7-517143cd0914",
+      "shortId": "J1V3UC",
+      "name": "kennek",
+      "role": "USER",
+      "level": 69
+    },
+    "message": "trading[Sizzle||BODY_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-21T15:13:00.798Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "c532896d-af0e-4dc7-94d7-517143cd0914",
+      "shortId": "J1V3UC",
+      "name": "kennek",
+      "role": "USER",
+      "level": 69
+    },
+    "message": "tr8sizzle]",
+    "timestamp": "2026-05-21T15:13:40.636Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "c532896d-af0e-4dc7-94d7-517143cd0914",
+      "shortId": "J1V3UC",
+      "name": "kennek",
+      "role": "USER",
+      "level": 69
+    },
+    "message": "tr[Sizzle||BODY_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-21T15:13:46.412Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "c532896d-af0e-4dc7-94d7-517143cd0914",
+      "shortId": "J1V3UC",
+      "name": "kennek",
+      "role": "USER",
+      "level": 70
+    },
+    "message": "trading [Sizzle||BODY_SKIN|MYTHICAL]",
+    "timestamp": "2026-05-21T19:42:14.565Z"
   }
 ]
