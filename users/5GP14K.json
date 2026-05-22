@@ -14146,5 +14146,17 @@
     },
     "message": "Blue777",
     "timestamp": "2026-05-21T11:47:55.026Z"
+  },
+  {
+    "type": 2,
+    "user": {
+      "id": "ccb0989c-752e-489f-a2a2-cacbd0491076",
+      "shortId": "5GP14K",
+      "name": "Dr.strange",
+      "role": "USER",
+      "level": 84
+    },
+    "message": "Who wanna wager [Karo|Revolver|WEAPON_SKIN|RARE]x500,[Cyan|AR-9|WEAPON_SKIN|RARE]x500???",
+    "timestamp": "2026-05-22T02:58:55.448Z"
   }
 ]
